@@ -1,0 +1,70 @@
+# The critics
+
+*Basic.*
+
+One dimension each. Each is a fresh agent, a full prompt, the strongest model available, and one output file. The prompt templates are in [prompts/](prompts/).
+
+**The Basic pair** is the facts critic and the voice-and-mechanism critic (run last). The others are Refinements, each added when its trigger shows up.
+
+## The table
+
+| Critic | Tier | The question | Gets | Never gets | Runs |
+|---|---|---|---|---|---|
+| **Facts** ([prompt](prompts/facts.md)) | Basic | "Where does this contradict the notes?" | the chapter; its notes for drafting; the settled lines of its outline and arc outline; the cards and sheets of everyone and everything in it; the rulings; the drafts before it | the outline's proposals; later outlines | each chapter |
+| **Coverage and slip** ([prompt](prompts/coverage-slip.md)) | Refinement: beats go missing, or someone knows too early | "Which beats are missing, out of order or added? Where does someone use what they do not have yet, or the narrator know what they could not?" | the chapter; its outline's numbered beats; the drafts before it; the voice sheet; the rulings | the notes for drafting; later outlines | each chapter |
+| **Setup and belief** ([prompt](prompts/setup-belief.md)) | Refinement: help arrives on cue, or the chapter has a big event | "Where does help arrive on cue with no cause? Given only what each person has lived and believes, where would they not do or say this?" | the chapter; the drafts before it; the setting's topic files; the sheets of the people in it | this chapter's outline and notes; anything later | each chapter (or only those with a big event) |
+| **Continuity** ([prompt](prompts/continuity.md)) | Refinement: chapters are drafted side by side | "Where do these chapters disagree with the chapters before them, and with each other?" | the batch's chapters; the drafts before | the outlines; the notes | each batch |
+| **Out-of-world phrases** ([prompt](prompts/idioms.md)) | Refinement: out-of-world phrases survive the banned list | "Which phrases only make sense to someone outside the narrator's world?" | the batch's narration only | everything else | each batch |
+| **Habits** ([prompt](prompts/habits.md)) | Refinement: one character's tic shows up on another | "Where does someone do a habit that is not theirs, break one of theirs, or repeat one until it is filler?" | the batch; the Habits sections of every sheet and card for who appears; the voice sheet for the narrator | the outlines; the notes for drafting | each batch |
+| **Voice and mechanism** ([prompt](prompts/voice-mechanism.md)) | Basic | "I think these chapters are poorly matched with the voice. Can you tell me where?" plus mechanism, model tells, hindsight, register and measures | the batch; the voice sheet; the banned list; the style samples; the setting's topic files only to recognize a true cause when it leaks; `tells.py` output | the outlines; the notes for drafting | each batch, **last** |
+
+Two more run on outlines, before drafting: see [Outline critics](#outline-critics).
+
+## Why each excludes what it excludes
+
+- **Continuity, voice and setup never read the outline.** They judge the page as a reader meets it. A critic who has read the outline sees what the scene meant to do, and forgives what it fails to do.
+- **Facts reads only settled lines.** A draft that departs from a proposal is not wrong; a draft that departs from a settled line is.
+- **Coverage never reads the notes for drafting.** Its question is only the beats.
+- **Out-of-world gets only the narration.** It must read cold, with no setting notes to explain away a phrase.
+- **Nobody reads later outlines.** What has not happened yet cannot be a fault, and knowing the payoff makes a critic flag the plant.
+
+## Order
+
+1. **Per chapter, as each draft lands:** facts; coverage and slip; setup and belief. Resolve these before the batch critics, so the batch critics read a chapter whose facts are right.
+2. **Per batch:** continuity across the two or three chapters; out-of-world phrases; habits.
+3. **Voice and mechanism last,** because it reads the joins the others left and the fixes they made.
+
+Run independent critics in parallel, two at a time.
+
+## The voice and mechanism critic
+
+The broadest critic, with six numbered questions (voice, mechanism, model tells, hindsight, register, measures and narrators): see [its prompt](prompts/voice-mechanism.md).
+
+## The report form
+
+Every critic writes the same form ([templates/critic-report.md](../../templates/critic-report.md)), so one checker reads them all. Written to the batch's scratch folder, one file per critic: `critic-<dimension>-<chapters>.md`.
+
+## The idiom bank grows from the out-of-world critic
+
+Each confirmed out-of-world phrase becomes a line in the banned list, so next time the grep catches it for free. Its shifted phrasing ("what the narrator could say instead, built from their world") goes into the voice sheet's idiom list, once the writer has approved it. The banned list finds only what is already on it; the critic finds what should be. Run both.
+
+## Outline critics
+
+*Refinement. Add these when an arc of several chapters is outlined.*
+
+Two run on outlines, before drafting, where a fault is cheapest to fix ([prompt](prompts/outline-critic.md)):
+
+- **The outline critic.** The question: "Where does this outline contradict the notes, or give a beat no cause?" It gets the chapter outlines in the range, their notes, the arc outline, the cards and sheets they link, and the rulings. It never gets drafted prose of these chapters, later outlines, or the conversation.
+- **The setup check** on outline beats: the setup question of the [setup and belief prompt](prompts/setup-belief.md), asked of the beats instead of the page.
+
+## Adding a critic
+
+When a fault keeps reaching the writer's read that no critic catches, add a critic for it:
+
+1. Write its one question.
+2. Decide what it gets and never gets.
+3. Write its prompt from the closest template.
+4. Calibrate it ([principles](principles.md#5-calibrated-before-it-is-trusted)).
+5. Add its row here.
+
+A **method critic** is a common addition for books with fights, crafts or procedures: "Where does this fight, hunt or repair run by stock convention instead of the setting's own rules? Who is doing it, and does it follow their culture's way?" Give it the setting's card on how that work is done and the cards of whatever is in the scene.

@@ -14,7 +14,7 @@ $ python3 tools/quotes.py example/reports/critic-voice-00400.md --in example/rep
 
 - **Dropped, quote missing:** facts 3 ("the lens was cleaned every Sunday"). Counted against the facts critic.
 - **Rules exist:** every cited heading is in the voice sheet or the card cited.
-- **Not the writer's lines:** no quote is in [the sample](../existing/sample-pages.md).
+- **Not the writer's lines:** no quote is in [the sample](../story/voice/samples/sample-pages.md).
 - **Clues:** voice 1 touches a clue line listed in [the chapter's notes](../story/notes/00400-the-forty-minutes.md): "By the almanac, low water had been an hour ago." Its direction is changed: the clue stays.
 
 ## The list

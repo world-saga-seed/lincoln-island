@@ -1,8 +1,8 @@
 # [Working title]
 
-*Template. Copy this file to the top of your book's folder as `CLAUDE.md` and fill in every bracketed line. Delete this paragraph.*
+*Template. In a fresh clone of the kit, fill in the title line now, before the intake. Fill in the rest (the pen name, the horizon in rule 8, "About the writer") from the interview's answers, at stage 03 (`kit/pipeline/03-set-up-plan.md`). Delete this paragraph then.*
 
-A novel in progress by [your pen name]. The setting's facts are in `world/`. The story is in `story/`, one folder per type of information: `outline/`, `notes/`, `prose/`, `voice/`, `calendar/`. A chapter has one number in every folder: `00100` is chapter 1, in steps of 100, so a chapter added between 00300 and 00400 is `00350`. The index is [README.md](README.md).
+A novel in progress by [your pen name]. The setting's facts are in `world/`. The story is in `story/`, one folder per type of information: `outline/`, `notes/`, `prose/`, `voice/`, `calendar/`. A chapter has one number in every folder: `00100` is chapter 1, in steps of 100, so a chapter added between 00300 and 00400 is `00350`. The index is [README.md](README.md). The procedures are in `plan/workflows/`, the forms in `plan/templates/`, the scripts in `tools/`; the method's stages and reasons are in `kit/`.
 
 **Read `plan/README.md` at the start of every session**, then `plan/roadmap.md` and `plan/state.md`. Check them against `git log`: they are written by Claude and can be wrong.
 

@@ -12,7 +12,7 @@ It is small on purpose: four people, three places, one secret, one clue.
 
 | Stage | What it made | File |
 |---|---|---|
-| 01 Intake | A look at the writer's existing pages | [existing/sample-pages.md](existing/sample-pages.md) |
+| 01 Intake | A look at the writer's existing pages, picked in the interview as the style sample and copied by stage 03 (the example keeps only the copy) | [story/voice/samples/sample-pages.md](story/voice/samples/sample-pages.md) |
 | 02 Interview | The answers, each with where it landed | [interview-record.md](interview-record.md) |
 | 03 Set up plan/ | The chapter state table | [plan/state.md](plan/state.md) |
 | 04 Card the work | Four cards and a character sheet | [world/](world/README.md), [story/notes/characters/wren.md](story/notes/characters/wren.md) |
@@ -31,8 +31,8 @@ From the kit's top folder:
 ```bash
 python3 tools/links.py --root example
 python3 tools/cards.py check --root example/world
-python3 tools/tells.py example/story/prose/*.md example/existing/sample-pages.md --banned example/story/voice/banned.txt
-python3 tools/repeats.py example/existing/sample-pages.md example/story/prose/*.md --min-files 2
+python3 tools/tells.py example/story/prose/*.md example/story/voice/samples/sample-pages.md --banned example/story/voice/banned.txt
+python3 tools/repeats.py example/story/voice/samples/sample-pages.md example/story/prose/*.md --min-files 2
 python3 tools/quotes.py example/reports/critic-facts-00400.md --in example/reports/snapshot/00400-the-forty-minutes.md
 python3 tools/quotes.py example/reports/keep-00400.md --in example/story/prose/00400-the-forty-minutes.md
 python3 tools/epub.py --title "The Tide Clock: Spring Tides" --author "A. Writer" --out build/tide-clock.epub \

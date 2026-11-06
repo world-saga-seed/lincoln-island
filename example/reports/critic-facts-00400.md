@@ -1,6 +1,6 @@
 # Critic: facts, 00400
 
-*Run 2027-03-03. Facts critic, prompt v1 ([the prompt](../../workflows/drafting/prompts/facts.md)). Fresh agent; read only the chapter, its notes, the settled lines of its outline, and the cards it links. The supervisor's verification is at the end.*
+*Run 2027-03-03. Facts critic, prompt v1 ([the prompt](../../plan/workflows/drafting/prompts/facts.md)). Fresh agent; read only the chapter, its notes, the settled lines of its outline, and the cards it links. The supervisor's verification is at the end.*
 
 1. **The causeway's hours**
    - quote: The causeway was bare for two hours at every low water, never more

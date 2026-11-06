@@ -6,60 +6,65 @@ It is for a fiction writer with existing material (a manuscript, a half-draft, a
 
 ## The big ideas
 
-1. **The drafting and criticism chain.** Prose has no compiler, so a chapter goes through a chain cheapest first: scripts and greps, then narrow critics that each ask one question and must quote the text, then a script that throws out any finding whose quote is not really there, then a reviser that sees only the verified findings, then the checks again. Critics are trusted only after they have been tested on planted faults. **[workflows/drafting/](workflows/drafting/README.md)**, the largest part of the kit.
-2. **Reader tests: unit tests for a novel, by chapter.** For each chapter, a spec of what a blind reader **must get**, **must not get**, and **may only guess**, written from your notes before the prose exists. Fresh readers who have never seen the notes read the prose and are scored against it: a secret they come back sure of is a leak; a plain thing they cannot work out is shown too thinly. **[workflows/reader-tests.md](workflows/reader-tests.md)**.
-3. **You give the key frames; Claude fills the tweens.** You supply the scenes and beats you see; Claude places them and proposes what goes between, marked as proposals. Where a chapter has no key frame, Claude writes a brief and you dictate. **[dictation](workflows/dictation.md)**, **[arc-pitch](workflows/arc-pitch.md)**.
-4. **Every decision written once, as a ruling, and every line marked.** A dated ledger of your rulings; one short card per person, place and thing; every line Claude adds marked as settled, proposal or reading, so your book never blurs with the model's suggestions. **[method/marks-and-ledger.md](method/marks-and-ledger.md)**, **[method/cards.md](method/cards.md)**.
-5. **Outlines before prose, to a horizon.** The story is worked out in outlines, which are cheap to change, up to a horizon; then drafted, read and corrected; then outlined on. **[method/horizon.md](method/horizon.md)**.
+1. **The drafting and criticism chain.** Prose has no compiler, so a chapter goes through a chain cheapest first: scripts and greps, then narrow critics that each ask one question and must quote the text, then a script that throws out any finding whose quote is not really there, then a reviser that sees only the verified findings, then the checks again. Critics are trusted only after they have been tested on planted faults. **[plan/workflows/drafting/](plan/workflows/drafting/README.md)**, the largest part of the kit.
+2. **Reader tests: unit tests for a novel, by chapter.** For each chapter, a spec of what a blind reader **must get**, **must not get**, and **may only guess**, written from your notes before the prose exists. Fresh readers who have never seen the notes read the prose and are scored against it: a secret they come back sure of is a leak; a plain thing they cannot work out is shown too thinly. **[plan/workflows/reader-tests.md](plan/workflows/reader-tests.md)**.
+3. **You give the key frames; Claude fills the tweens.** You supply the scenes and beats you see; Claude places them and proposes what goes between, marked as proposals. Where a chapter has no key frame, Claude writes a brief and you dictate. **[dictation](plan/workflows/dictation.md)**, **[arc-pitch](plan/workflows/arc-pitch.md)**.
+4. **Every decision written once, as a ruling, and every line marked.** A dated ledger of your rulings; one short card per person, place and thing; every line Claude adds marked as settled, proposal or reading, so your book never blurs with the model's suggestions. **[kit/method/marks-and-ledger.md](kit/method/marks-and-ledger.md)**, **[kit/method/cards.md](kit/method/cards.md)**.
+5. **Outlines before prose, to a horizon.** The story is worked out in outlines, which are cheap to change, up to a horizon; then drafted, read and corrected; then outlined on. **[kit/method/horizon.md](kit/method/horizon.md)**.
 6. **You are the only one who says "done".** Critics find, Claude recommends, you decide.
 
 ## How to start
 
-1. Make a folder for your book. Put your existing work in `existing/` inside it.
-2. Copy the kit's `CLAUDE.md` into the folder and fill in the bracketed lines. Copy `workflows/` to `plan/workflows/`, `templates/` to `plan/templates/`, and `tools/` to `tools/`. This early copy is deliberate: the intake prompt below reads `plan/workflows/README.md`, though the rest of `plan/` is set up after the interview ([stage 03](pipeline/03-set-up-plan.md)).
-3. Open Claude Code in the folder and say:
+A clone of the kit is the skeleton of your book: the workflows, templates and tools are already where the book needs them.
 
-> Read CLAUDE.md, then plan/workflows/README.md, then the intake in [path to the kit]/interview/intake.md. Do the intake on my existing work in existing/: list what is there, what kind of material each file is, and what you would ask me first. Do not change any file in existing/. Write your report to plan/tasks/ and stop.
+1. Clone the kit, or use GitHub's "Use this template", into a folder named for your book.
+2. Delete `example/` and run `python3 tools/check_clean.py`; it must pass. The example stays readable in the kit's repository.
+3. Put your manuscripts in `existing/`, fill in the title line of `CLAUDE.md` (the rest is filled in after the interview), and run the intake: open Claude Code in the folder and say:
 
-4. Then the interview ([interview/](interview/README.md)), one or two sessions. After it, Claude sets up `plan/` and you begin.
+> Read CLAUDE.md, then plan/workflows/README.md, then kit/interview/intake.md. Do the intake on my existing work in existing/: list what is there, what kind of material each file is, and what you would ask me first. Do not change any file in existing/. Write your report to plan/tasks/ and stop.
+
+4. Then the interview ([kit/interview/](kit/interview/README.md)), one or two sessions. After it, Claude sets up the rest of `plan/` ([stage 03](kit/pipeline/03-set-up-plan.md)) and you begin.
+
+A book cloned from the kit can later pull improved workflows from it with git; git shows any conflict with your own edits.
 
 ## Start here: your first chapter
 
 The shortest path through the method, for one chapter:
 
-1. The [intake](interview/intake.md).
-2. The [interview](interview/README.md).
-3. [Set up `plan/`](pipeline/03-set-up-plan.md).
-4. Card the existing work: [scene-outlines](workflows/scene-outlines.md) prompt D, and [character-sheet](workflows/character-sheet.md) for the narrator.
-5. Outline one chapter ([scene-outlines](workflows/scene-outlines.md) prompt O) and write its key ([reader-tests §1](workflows/reader-tests.md#1-the-key)).
-6. Fill in [rulings.md](workflows/drafting/rulings.md), pick the style samples, and draft the chapter ([drafter.md](workflows/drafting/drafter.md)).
-7. Run [mechanical.md](workflows/drafting/mechanical.md), the facts critic and the voice critic ([critics.md](workflows/drafting/critics.md)), then [verify.md](workflows/drafting/verify.md) and [reviser.md](workflows/drafting/reviser.md).
-8. Run the [blind probe](workflows/reader-tests.md#3-the-blind-probe) on that chapter.
-9. Close the session ([retrospective.md](workflows/retrospective.md)).
+1. The [intake](kit/interview/intake.md).
+2. The [interview](kit/interview/README.md). The style samples are picked here, from the intake's candidates.
+3. [Set up `plan/`](kit/pipeline/03-set-up-plan.md).
+4. Card the existing work: [card-existing](plan/workflows/card-existing.md) for the people, places and things, [scene-outlines](plan/workflows/scene-outlines.md) prompt D, and [character-sheet](plan/workflows/character-sheet.md) for the narrator.
+5. Outline one chapter ([scene-outlines](plan/workflows/scene-outlines.md) prompt O) and write its key ([reader-tests §1](plan/workflows/reader-tests.md#1-the-key)). For the first chapter the arc outline's head is enough: the shape, the ending and the chapter list as far as they are known, filled in by hand from the interview's answers.
+6. Fill in [rulings.md](plan/workflows/drafting/rulings.md) and draft the chapter ([drafter.md](plan/workflows/drafting/drafter.md)).
+7. Run [mechanical.md](plan/workflows/drafting/mechanical.md), the facts critic and the voice critic ([critics.md](plan/workflows/drafting/critics.md)), then [verify.md](plan/workflows/drafting/verify.md) and [reviser.md](plan/workflows/drafting/reviser.md).
+8. Run the [blind probe](plan/workflows/reader-tests.md#3-the-blind-probe) on that chapter.
+9. Close the session ([retrospective.md](plan/workflows/retrospective.md)).
 
 Everything else is a Refinement; each says when to add it.
 
 ## The workflows
 
-The [pipeline/](pipeline/README.md) is the one map of stages to workflows: twelve stages in order. The work runs as tasks and waves ([method/tasks-and-waves.md](method/tasks-and-waves.md)).
+The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflows: twelve stages in order. The work runs as tasks and waves ([kit/method/tasks-and-waves.md](kit/method/tasks-and-waves.md)).
 
 | Tier | Workflows | When |
 |---|---|---|
-| **Basic** | the intake and interview; [task-form](workflows/task-form.md), [retrospective](workflows/retrospective.md); [scene-outlines](workflows/scene-outlines.md), [character-sheet](workflows/character-sheet.md); the core of [drafting/](workflows/drafting/README.md) (the drafter, mechanical checks, the facts and voice critics, verify, reviser); [reader-tests](workflows/reader-tests.md) (the key and the blind probe) | from the first chapter |
-| **Refinement** | everything else | each workflow's first line says when to add it; the full list is in [workflows/](workflows/README.md) |
+| **Basic** | the intake and interview; [card-existing](plan/workflows/card-existing.md); [task-form](plan/workflows/task-form.md), [retrospective](plan/workflows/retrospective.md); [scene-outlines](plan/workflows/scene-outlines.md), [character-sheet](plan/workflows/character-sheet.md); the core of [drafting/](plan/workflows/drafting/README.md) (the drafter, mechanical checks, the facts and voice critics, verify, reviser); [reader-tests](plan/workflows/reader-tests.md) (the key and the blind probe) | from the first chapter |
+| **Refinement** | everything else | each workflow's first line says when to add it; the full list is in [plan/workflows/](plan/workflows/README.md) |
 
 ## Map of the kit
 
 | Folder | Holds |
 |---|---|
-| [workflows/](workflows/README.md) | **The kit.** Every procedure, complete in itself, with its prompts. [drafting/](workflows/drafting/README.md) is the largest section. Copied into your book. |
-| [interview/](interview/README.md) | The intake and interview script. |
-| [pipeline/](pipeline/README.md) | The twelve stages in order: when each runs and which workflows it uses. |
-| [method/](method/README.md) | The reasons: tasks and waves, the book's memory, oracles for prose, marks and the ledger, cards, horizons, key frames, agent limits, craft principles, closing cleanly. |
-| [templates/](templates/README.md) | Empty forms for the plan, tasks, ledger, cards, sheets, outlines, the reader-test spec, reports. |
-| [tools/](tools/README.md) | Six small Python scripts (standard library only): links, cards, tells and banned words, repeats, quotes, EPUB. |
-| [example/](example/README.md) | A toy novel, *The Tide Clock*, through every stage in miniature, with a worked run of the drafting chain and a reader-test spec. |
-| [CLAUDE.md](CLAUDE.md) | The instructions Claude reads in your book's folder. A template. |
+| [plan/workflows/](plan/workflows/README.md) | **The kit.** Every procedure, complete in itself, with its prompts. [drafting/](plan/workflows/drafting/README.md) is the largest section. |
+| [plan/templates/](plan/templates/README.md) | Empty forms for the plan, tasks, ledger, cards, sheets, outlines, the reader-test spec, reports. |
+| [tools/](tools/README.md) | Seven small Python scripts (standard library only): links, cards, tells and banned words, repeats, quotes, EPUB, and the clean check for a new book. |
+| [kit/interview/](kit/interview/README.md) | The intake and interview script. |
+| [kit/pipeline/](kit/pipeline/README.md) | The twelve stages in order: when each runs and which workflows it uses. |
+| [kit/method/](kit/method/README.md) | The reasons: tasks and waves, the book's memory, oracles for prose, marks and the ledger, cards, horizons, key frames, agent limits, craft principles, closing cleanly. |
+| [existing/](existing/README.md) | Where your manuscripts and notes go. Claude reads it and never changes it. |
+| `example/` | A toy novel through every stage in miniature, with a worked run of the drafting chain and a reader-test spec. The only thing you delete to start a book; it stays readable in the kit's repository. |
+| [CLAUDE.md](CLAUDE.md) | The instructions Claude reads in your book's folder. A template: the title now, the rest after the interview. |
 
 ## Four things to know first
 

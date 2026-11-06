@@ -1,6 +1,6 @@
 # Critic: voice and mechanism, 00400
 
-*Run 2027-03-03. Voice and mechanism critic, prompt v1 ([the prompt](../../workflows/drafting/prompts/voice-mechanism.md)). Fresh agent; read only the chapter (draft 1, kept at [snapshot/](snapshot/00400-the-forty-minutes.md)), the voice sheet, the banned list and the writer's sample. tells.py for the chapter: and/s 0.51, sd 10.0, button% 14; for the sample: and/s 0.94, sd 12.2, button% 25.*
+*Run 2027-03-03. Voice and mechanism critic, prompt v1 ([the prompt](../../plan/workflows/drafting/prompts/voice-mechanism.md)). Fresh agent; read only the chapter (draft 1, kept at [snapshot/](snapshot/00400-the-forty-minutes.md)), the voice sheet, the banned list and the writer's sample. tells.py for the chapter: and/s 0.51, sd 10.0, button% 14; for the sample: and/s 0.94, sd 12.2, button% 25.*
 
 **Overall.** The voice holds: plain, practical, close on hands and work, and the comparisons come from Wren's own life (her grandmother, grace, a knot in a thread). Two places drift: the lens work is reported as a tally where the work should hold her, and the end of the weed paragraph spells out a comparison the reader can make alone. The texture sits inside the sample's range; the chapter is a little more even than the sample, not chopped.
 

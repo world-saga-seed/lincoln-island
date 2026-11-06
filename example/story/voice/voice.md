@@ -14,7 +14,7 @@
 
 ## Samples
 
-- The writer's own pages are the voice: [the oil cart](../../existing/sample-pages.md). Match it; never copy it. A critic never flags a line from the samples.
+- The writer's own pages are the voice: [the oil cart](samples/sample-pages.md). Match it; never copy it. A critic never flags a line from the samples.
 
 ## Banned
 
@@ -26,6 +26,6 @@ Measured with `tools/tells.py` on the writer's sample, as the range to stay near
 
 | Measure | The sample |
 |---|---|
-| and/s | about 1.1 |
-| way/k | about 4 (one use in a short sample) |
-| sd | about 9 |
+| and/s | 0.94 |
+| way/k | 0.0 |
+| sd | 12.2 |

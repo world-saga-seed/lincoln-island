@@ -4,7 +4,7 @@
 
 ## Existing work
 
-- **What exists:** about 40 pages of a first draft (three scenes), and a page of notes on the island. The scene of the oil cart is the writer's own voice and is kept unchanged as the style sample. Landed: [existing/sample-pages.md](existing/sample-pages.md), and the voice sheet's samples line.
+- **What exists:** about 40 pages of a first draft (three scenes), and a page of notes on the island. The scene of the oil cart is the writer's own voice and is kept unchanged as the style sample. Landed: [story/voice/samples/sample-pages.md](story/voice/samples/sample-pages.md), and the voice sheet's samples line.
 - **What is fixed and what is free:** the island, the two women, the failing eyes and the inspector's visit are fixed. Everything between is free. Landed: [the key frames](story/notes/1-spring-tides-key-frames.md).
 
 ## Scope

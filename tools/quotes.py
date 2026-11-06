@@ -19,7 +19,9 @@ Usage:
 
 Matching ignores differences in spacing, curly against straight quotes, and
 markdown emphasis (* and _), so a quote copied from a rendered page still counts.
-Prints the quotes that do not resolve and a count. Exits 1 if any do not.
+Prints the quotes that do not resolve and a count. Exits 1 if any do not, and
+also when the report holds no quotes at all ("0 quotes found"): a report with
+nothing to check is more likely in the wrong form than clean.
 """
 import argparse, re, sys
 
@@ -57,6 +59,9 @@ def main():
             quotes.append((i, strip_wrap(m.group(1))))
         elif a.backticks:
             quotes += [(i, q) for q in TICKS.findall(line)]
+    if not quotes:
+        print('0 quotes found')
+        sys.exit(1)
     missing = 0
     for i, q in quotes:
         ok = norm(q) in text

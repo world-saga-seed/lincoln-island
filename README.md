@@ -1,4 +1,4 @@
-# Story kit: workflows for writing a long novel with Claude Code
+# World Saga Seed: a method for writing a long-form novel with Claude Code
 
 This kit is a set of workflows. Each one is a procedure Claude Code can run on your book: what it is for, when to run it, what it reads, its steps, its prompts as templates, its checks, what it produces, and the lessons and failure modes that came out of using it. They were developed over many months on one long series. Everything specific to that series has been taken out. What is left is the procedures, some small tools, and one toy novel carried through every stage as an example.
 
@@ -75,4 +75,4 @@ The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflow
 
 ## License
 
-The docs are [CC BY 4.0](LICENSE): use and adapt them freely, with credit. The scripts in `tools/` are [MIT](tools/LICENSE). The license covers this kit only; it claims nothing over any book you make with it.
+The docs are [CC BY 4.0](LICENSE): use and adapt them freely, with credit. The scripts in `tools/` are [MIT](tools/LICENSE). The license applies only to the files published in this repository. Anything you make with the kit is your own (your book, your notes, your cards and your plan/), and the license claims nothing over it. If you share the kit's files or an adaptation of them, give credit. For a book made with the kit, credit is asked, not required: *Made with World Saga Seed, by Karl Nelson.*

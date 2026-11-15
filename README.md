@@ -60,7 +60,7 @@ Prices and limits change, so measure: render one chapter, then type `/usage` in 
 
 A clone of the kit is the skeleton of your book: the workflows, templates and tools are already where the book needs them.
 
-Claude does the technical steps; you say what you want. Open Claude Code in an empty folder named for your book and say: "Set up this folder as a book from the World Saga Seed kit at https://github.com/world-saga-seed/world-saga-seed, check Python 3 and git are installed, delete the example, and run the clean check." (During the alpha the kit is private: you need the invitation to it first.) Behind that request, Claude clones the kit (a copy that remembers where it came from, so it can pull improvements later) into the folder, deletes the toy novel in `example/` (it stays readable in the kit's repository) and runs a check that nothing of the example is left.
+Claude does the technical steps; you say what you want. Open Claude Code in an empty folder named for your book and say: "Set up this folder as a book from the World Saga Seed kit at https://github.com/world-saga-seed/world-saga-seed, check Python 3 and git are installed, delete the example, and run the clean check." Behind that request, Claude clones the kit (a copy that remembers where it came from, so it can pull improvements later) into the folder, deletes the toy novel in `example/` (it stays readable in the kit's repository) and runs a check that nothing of the example is left.
 
 Then you put your manuscripts in `existing/` (drag them into the folder) and give Claude the working title. Then, for your first chapter:
 

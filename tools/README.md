@@ -18,6 +18,7 @@ They give the method its mechanical checks: verdicts nobody argues with, under e
 | `reading.py` | one chapter's reading list: its outline's and notes' links resolved to files and line ranges, the cards and sheets it names, the chapter before, the digest | `python3 tools/reading.py 00400 --step facts --digest story/volume/1-digest.md` |
 | `aged.py` | outline, note and card lines that may carry an old draft into a redraft | `python3 tools/aged.py story/outline/00*.md --cutoff 2027-04-01 --retired story/prose/00*.md` |
 | `attribution.py` | unlabeled paragraphs for a blind attribution test in a book with several viewpoint heads, and the key to score it | `python3 tools/attribution.py story/prose/03*.md --heads "03100-x.md:1-40=Ada,03100-x.md:41-200=Ben" --out attribution.md --key key.md` |
+| `check_leak.py` | checks that a change meant for the kit carries nothing of your book: names from its cards and sheets, runs of words from its prose and notes, email addresses ([CONTRIBUTING](../CONTRIBUTING.md)) | `git diff upstream/master \| python3 tools/check_leak.py --book ../my-book` |
 | `knowledge.py` | the knowledge-guard entries in force at one chapter (what each narrating head knows, believes wrongly and does not know), for the drafter's and critics' briefs | `python3 tools/knowledge.py 00500 --out tmp/knowledge-00500.md` |
 | `epub.py` | builds an EPUB of chosen chapters, each paragraph tagged with its source line | `python3 tools/epub.py --title "Volume 1" --out build/v1.epub story/prose/00*.md` |
 
@@ -49,6 +50,8 @@ They give the method its mechanical checks: verdicts nobody argues with, under e
 
 **quotes.py.** Reads quotes from lines like `- quote: the exact words`; with `--backticks`, also from every backticked span (for fold-back lists and card extracts; run it on a file or section that holds only quotes in backticks, or every backticked command will be checked too). Matching ignores spacing, curly against straight quotes, and `*` and `_`. Exits 1 if any quote is missing, and prints "0 quotes found" and exits 1 when the report holds none, since that usually means the quotes are not in the `- quote:` form.
 
+**check_leak.py.** Run from your fork of the kit, never from the book. It reads a unified diff (standard input, or `--diff FILE`) and checks only the lines the change adds. Names are the proper names in the headings of the book's cards (`world/`) and character sheets (`story/notes/characters/`), matched as whole words, case kept; a shared run is `--words` words (default 8) found in the book's `story/`, `world/` or `existing/` text. A hit is not always a leak (a word that is also a name, a stock phrase): Claude reads each one with the writer. Exits 1 on any hit, prints `clean` otherwise.
+
 **check_clean.py.** Run it once, after deleting `example/` from a fresh clone; it must print `clean`. `--root DIR` checks another folder. Each hit is listed as `file:line` with what it found; exits 1 on any hit. The example's names (title, people, places, chapter slugs) are written into the script, with a comment on how to rebuild the list if the example changes; the script does not scan itself.
 
 **epub.py.** Its options and how to use the build are in [plan/workflows/ereader.md](../plan/workflows/ereader.md#build). No cover image (that would need an image library); readers show the title page.
@@ -62,6 +65,7 @@ Each script was run on the kit's `example/` folder:
 - `tells.py` on the scene and the writer's sample, with the banned list: numbers for both, 0 hits; on a planted file, all three planted phrases found, and the same phrase inside dialogue left alone.
 - `repeats.py` on the sample and the scene: one stock pattern counted; on two copies of one file, the shared phrases found.
 - `quotes.py` on the facts critic's report against draft 1: 2 of 3 resolve, the invented quote reported missing (exit 1); on the keep list against draft 2: 6 of 6; on a file with no quote lines: "0 quotes found" (exit 1).
+- `check_leak.py`: on a diff adding a line that names a person and a place from the example's cards, and an email address, with `--book example`, the full name, the place and the email found; a line about critics found clean.
 - `check_clean.py`: in the kit, fails on `example/` (exit 1); on a copy with `example/` deleted, `clean`; a planted example name and a planted link into `example/` each found.
 - `cards.py index --root example/world --sheets example/story/notes/characters`: 29 entries, each linking its card; `cards.py check` still 0 problems.
 - `refrains.py` on the scene and two planted chapters, with a one-line watch list: the planted refrain counted 6 and flagged over the volume limit and in the chapter that showed it 4 times; a 25-word description planted in all three reported once, as one joined run.

@@ -54,7 +54,7 @@ Prices and limits change, so measure: render one chapter, then type `/usage` in 
 
 **Where your manuscript goes.** As with any Claude Code session, the files Claude reads are sent to Anthropic to be processed, under the terms of your plan; check your account's privacy settings for whether your chats may be used to train models. The kit sends nothing anywhere else: its scripts run on your computer, and the book is copied to an online backup (such as a private GitHub repository) only if you ask.
 
-**Feedback:** open an issue for anything that breaks, confuses you, or makes Claude do something odd. Say which workflow and step you were on.
+**Feedback:** open an issue for anything that breaks, confuses you, or makes Claude do something odd. Say which workflow and step you were on. To give back an improvement you found (a better critic, a voice rule, a cheaper step), see [CONTRIBUTING.md](CONTRIBUTING.md): describe it in an issue, or send it yourself through your own fork, reviewed there first.
 
 ## How to start
 
@@ -98,6 +98,7 @@ The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflow
 | [kit/method/](kit/method/README.md) | The reasons: tasks and waves, the book's memory, oracles for prose, marks and the ledger, cards, horizons, key frames, agent limits, craft principles, closing cleanly. |
 | [existing/](existing/README.md) | Where your manuscripts and notes go. Claude reads it and never changes it. |
 | `example/` | A toy novel through every stage in miniature, with a worked run of the drafting chain and a reader-test spec. The only thing you delete to start a book; it stays readable in the kit's repository. |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How to give an improvement back: an issue, or a change sent through your own fork and reviewed there before it comes to the kit. |
 | [CLAUDE.md](CLAUDE.md) | The instructions Claude reads in your book's folder. A template: the title now, the rest after the interview. |
 
 ## Three things to know

@@ -1,4 +1,4 @@
-# Prompt: drafter (v1)
+# Prompt: drafter (v2)
 
 *Fill every `{PLACEHOLDER}`. One chapter per agent. A fresh agent, never a fork.*
 
@@ -8,8 +8,10 @@ read-only except your one output file. Run no git commands of any kind (not even
 stash): another session may be editing this folder. Do not launch agents.
 
 Read, in this order:
-1. story/voice/voice.md (the voice sheet) and story/voice/banned.txt (the words the
-   narration never uses);
+1. the POV file, story/voice/pov-{N}.md if it exists, else story/voice/pov.md (whose head,
+   what each head may know, what is never told; where it and the voice sheet differ, it
+   wins); then story/voice/voice.md (the voice sheet) and story/voice/banned.txt (the words
+   the narration never uses), and the voice sheet of each head the POV file names;
 2. plan/workflows/drafting/rulings.md (the rulings of the page; every line binds you);
 3. the style samples in story/voice/samples/: the voice as the writer set
    it. Match it; do not copy it;

@@ -1,4 +1,4 @@
-# Prompt: setup and belief critic (v2)
+# Prompt: setup and belief critic (v3)
 
 *One chapter. Run it on every chapter with a big event, a rescue, a lucky find or a turn in someone's choices.*
 
@@ -24,7 +24,9 @@ Two questions, on the chapter story/prose/{N}-*.md:
    showing no page has.
 
 2. Belief. Given only what each character has lived and believes by this point, where would
-   they not do or say this? The characters: {PEOPLE}. Their sheets are in
+   they not do or say this? Where the POV file gives several heads, judge each person's
+   inner life only where the narration is in their head; elsewhere, judge only what they
+   do and say. The characters: {PEOPLE}. Their sheets are in
    story/notes/characters/; what each has lived is in the drafts before.
 
 Do not read this chapter's outline or its notes for drafting: judge the page as a reader

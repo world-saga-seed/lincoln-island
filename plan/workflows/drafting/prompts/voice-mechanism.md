@@ -1,4 +1,4 @@
-# Prompt: voice and mechanism critic (v2)
+# Prompt: voice and mechanism critic (v3)
 
 *One batch, run last. The broadest critic, so its questions are numbered and each finding names its kind.*
 
@@ -10,7 +10,14 @@ except your one output file. Run no git commands. Do not launch agents.
 
 The chapters: {CHAPTERS}. For the joins only, also read {JOINS}.
 
-Read story/voice/voice.md and story/voice/banned.txt (the rules) and two or three of the
+Read the POV file first: story/voice/pov-<chapter>.md for each chapter if it exists,
+else story/voice/pov.md.
+It sets whose head the narration is in, its distance, what each head may know and what
+it never tells. Where it and the voice sheet differ, the POV file wins: judge the chapter
+against the narration it chose, never against another.
+
+Read story/voice/voice.md and story/voice/banned.txt (the rules), the voice sheet of each
+head the POV file names, and two or three of the
 style samples in story/voice/samples/: the writer's own lines, the voice
 as the writer set it. Calibrate on them, and never flag a line because it resembles them.
 Do not read the outlines or the notes for drafting.
@@ -62,6 +69,22 @@ Six questions:
    that "went" or "came" clusters in one stretch: candidates, kind tell, severity taste
    unless they cluster. In a piece with another narrator, flag any stretch where that
    narrator sounds like the main one. Kind: voice.
+
+Clues are no finding. Before you flag a repeat, an oddity or a detail to cut or vary,
+check it against plan/reread-hooks.md, the clue register (it lists each chapter's plants;
+read it, though you read no notes): a detail listed there is planted on purpose, and is never a finding to cut, vary or explain. Say "clue, kept"
+if you noticed it.
+
+Held facts. The reader key, plan/reader-tests/key.md, lists what the reader must not
+get (its hidden and forbidden entries; read it, though you read no outline). A line that
+states a held fact, or lets a reader state one, is a break, whoever narrates.
+
+Several heads, or omniscient. Where the POV file gives several heads, judge each section
+by its own head's voice sheet and samples, and flag a paragraph whose voice belongs to the
+other head. Where it is omniscient, entering a head the POV file allows is no finding; the
+question is whether each move into a person or a place is marked (a new paragraph, the
+person or place named first), and whether the narrator tells what the POV file says it
+never tells.
 
 Start with a short overall voice note (one paragraph). Then each finding as:
 - quote: the exact text, 25 words at most

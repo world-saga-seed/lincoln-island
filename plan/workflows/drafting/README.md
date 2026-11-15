@@ -41,6 +41,7 @@ Then the stretch goes to the [reader tests](../reader-tests.md) (the blind probe
 | [reviser.md](reviser.md) | Basic | The reviser's rules, and the re-check after it |
 | [register-pass.md](register-pass.md) | Refinement | The volume-wide pass on repeats and attention, and the landing check |
 | [fold-back.md](fold-back.md) | Refinement | Bringing outlines and notes up to the draft, and listing what changes next pass |
+| [the POV file](../../templates/pov.md) | Basic | Whose head the narration is in, what each head may know, what is never told; the drafter and every critic read it |
 | [prompts/](prompts/) | as their critic | The prompt templates, one per role, with `{PLACEHOLDERS}` to fill; [the librarian](prompts/librarian.md) is the lookup assistant's |
 | [the volume digest](../../templates/volume-digest.md) | Refinement | What the volume's pages have set, read in place of its earlier chapters; one block appended per batch |
 
@@ -50,7 +51,7 @@ A worked run on the example's scene is in the kit's example (in the kit's reposi
 
 The one gate for drafting a horizon. **Basic:**
 
-1. the outline and notes are marked;
+1. the outline and notes are marked, and the POV file is written (`story/voice/pov.md`, with a `pov-NNNNN.md` for each chapter told another way);
 2. `rulings.md` is filled in and the writer has read it;
 3. the style samples are in `story/voice/samples/`;
 4. the key (and the story questions, if used) cover the horizon's chapters;

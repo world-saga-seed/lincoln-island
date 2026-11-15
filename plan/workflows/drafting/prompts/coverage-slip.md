@@ -1,10 +1,15 @@
-# Prompt: coverage and slip critic (v1)
+# Prompt: coverage and slip critic (v2)
 
 *One chapter. Two questions that read the same files.*
 
 ```text
 You are a critic for a novel in progress, in the folder {REPO}. Every file is read-only
 except your one output file. Run no git commands. Do not launch agents.
+
+Read the POV file first: story/voice/pov-{N}.md if it exists, else story/voice/pov.md.
+It sets whose head the narration is in, its distance, what each head may know and what
+it never tells. Where it and the voice sheet differ, the POV file wins: judge the chapter
+against the narration it chose, never against another.
 
 Two questions, on the chapter story/prose/{N}-*.md:
 
@@ -13,17 +18,25 @@ Two questions, on the chapter story/prose/{N}-*.md:
    missing or contradicted is a break; a proposal beat changed is weak unless a settled
    line forced the change (say which); an added beat that invents a fact the outline does
    not give is weak. Also flag any line the outline marks author-side or reference that
-   reaches the page.
+   reaches the page. A beat the POV file puts outside the narrator's reach is not missing;
+   but if that beat carries a clue or a fact the reader needs, check that it reaches the
+   page another way, and if it does not, flag it as lost, with the beat.
 
 2. Slip. Where does someone use something they do not have yet: an object, a fact, a word,
    an ability? Where does the narration know something the narrator could not: another
    person's thoughts or feelings (rather than what the narrator sees), a cause they never
-   saw, something not yet learned? Judge against the drafts before ({READ_BEFORE}) and
-   story/voice/voice.md.
+   saw, something not yet learned? Judge each section against the head it is in, by the
+   POV file: a slip is knowledge that head cannot have, and in a book with several heads,
+   one head knowing another's thoughts is a slip. Judge against the drafts before
+   ({READ_BEFORE}) and story/voice/voice.md.
 
 The rulings in plan/workflows/drafting/rulings.md override the outline; a change that
 follows one is not a finding. Do not read the notes for drafting, or any later outline.
 {BATCH_NOTES}
+
+Held facts. The reader key, plan/reader-tests/key.md, lists what the reader must not
+get (its hidden and forbidden entries), and the outline marks author-side lines. A line
+that states a held fact, or lets a reader state one, is a break, whoever narrates.
 
 Report each finding as:
 - quote: the exact text (or "missing", with the beat's number and heading)

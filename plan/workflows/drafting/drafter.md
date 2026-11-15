@@ -8,7 +8,7 @@ Turns one outlined chapter into a first draft in the narrator's voice. The promp
 
 ## What the drafter gets
 
-The voice sheet, the banned list, the rulings and the style samples come first, because the first things read set the voice; then the chapter's outline and notes, the arc outline, the drafts before it, and the cards and sheets (with the **Habits**) of everyone in it. The full list, in order, with `{FRAME}` and `{EXTRA}`, is in [the prompt](prompts/drafter.md).
+The POV file comes first ([the template](../../templates/pov.md)): whose head, what each head may know, what is never told. Then the voice sheet (and each head's, where there are several), the banned list, the rulings and the style samples, because the first things read set the voice; then the chapter's outline and notes, the arc outline, the drafts before it, and the cards and sheets (with the **Habits**) of everyone in it. The full list, in order, with `{FRAME}` and `{EXTRA}`, is in [the prompt](prompts/drafter.md).
 
 ## The reading list
 

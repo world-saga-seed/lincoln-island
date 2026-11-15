@@ -1,4 +1,4 @@
-# Prompt: facts critic (v1)
+# Prompt: facts critic (v2)
 
 *One chapter. Runs as each draft lands, first of the critics.*
 
@@ -18,6 +18,10 @@ The chapter: story/prose/{N}-*.md. Judge it against:
 - the drafts before it ({READ_BEFORE}): what they put on the page is settled too.
 {BATCH_NOTES}
 Do not read any later outline. Judge only facts: ignore voice, style, pacing and taste.
+
+Held facts. The reader key, plan/reader-tests/key.md, lists what the reader must not
+get (its hidden and forbidden entries), and the outline marks author-side lines. A line
+that states a held fact, or lets a reader state one, is a break, whoever narrates.
 
 Report each finding as:
 - quote: the exact text, copied character for character, 25 words at most

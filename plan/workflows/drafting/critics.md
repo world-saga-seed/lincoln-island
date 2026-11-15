@@ -17,9 +17,25 @@ One dimension each. Each is a fresh agent, a full prompt, the strongest model av
 | **Continuity** ([prompt](prompts/continuity.md)) | Refinement: chapters are drafted side by side | "Where do these chapters disagree with the chapters before them, and with each other?" | the batch's chapters; the drafts before | the outlines; the notes | each batch |
 | **Out-of-world phrases** ([prompt](prompts/idioms.md)) | Refinement: out-of-world phrases survive the banned list | "Which phrases only make sense to someone outside the narrator's world?" | the batch's narration only | everything else | each batch |
 | **Habits** ([prompt](prompts/habits.md)) | Refinement: one character's tic shows up on another | "Where does someone do a habit that is not theirs, break one of theirs, or repeat one until it is filler?" | the batch; the Habits sections of every sheet and card for who appears; the voice sheet for the narrator; from the second batch of a volume, `refrains.py` | the outlines; the notes for drafting | each batch |
+| **Attribution** ([prompt](prompts/attribution.md)) | Refinement: the book has two or more viewpoint heads | "Whose head is each of these unlabeled paragraphs in, and how could you tell?" | the batch's paragraphs, shuffled, with labels and breaks removed (`tools/attribution.py`) | everything else, the key above all | each batch with more than one head |
 | **Voice and mechanism** ([prompt](prompts/voice-mechanism.md)) | Basic | "I think these chapters are poorly matched with the voice. Can you tell me where?" plus mechanism, model tells, hindsight, register and measures | the batch; the voice sheet; the banned list; the style samples; the setting's topic files only to recognize a true cause when it leaks; `tells.py` output | the outlines; the notes for drafting | each batch, **last** |
 
 Two more run on outlines, before drafting: see [Outline critics](#outline-critics).
+
+## The POV file, and the lists every critic reads
+
+**Every critic reads the POV file** ([the template](../../templates/pov.md)): `story/voice/pov.md` for the book, `story/voice/pov-NNNNN.md` for a chapter told another way. It says whose head the narration is in, its distance, what each head may know, what is never told, and what the narrator cannot witness. Where it and the voice sheet differ, it wins. Without it, every critic judges every chapter against the main narrator's rules: in a test of five narrations of one chapter, the critics flagged close third and omniscient narration as faults in themselves, and an omniscient narrator's allowed visits into other heads as breaks, while the same critics on the first-person control raised no such findings.
+
+**Two lists reach the critics as well as the reviser:**
+- **The clue register** (`plan/reread-hooks.md`), for every critic that proposes cutting or varying a detail. In the same test a voice critic asked to vary a repeated phrase that was the clue matching two characters; only the reviser's never-cut rule stood in its way.
+- **The held facts:** the reader key's hidden and forbidden entries, and the outline's author-side lines, for the facts, coverage and voice critics. A line that states a held fact, or lets a reader state it, is a break whoever narrates. Without the list, a leak is caught only where a chapter's notes happen to say what is kept.
+
+**By narration:**
+- **First person, another narrator** (a letter, a fragment, a witness): covered by the voice critic's narrators question, given that narrator's voice sheet.
+- **Close third:** the POV file's head and distance; coverage and slip judge knowledge per head.
+- **Several heads:** a voice sheet and samples per head, coverage and slip per head, and the attribution test each batch.
+- **Omniscient:** the POV file says who may be entered, how wide the narrator ranges and what it never tells; the voice critic asks whether each move is marked, not whether it happens. A drafter left to choose stays close to the main character, so a book that wants real omniscience must say so.
+- **A narrator who cannot witness a beat:** the beat is not missing, but a clue it carried must reach the page another way, or be listed as lost.
 
 ## Why each excludes what it excludes
 
@@ -57,6 +73,10 @@ Two run on outlines, before drafting, where a fault is cheapest to fix ([prompt]
 
 - **The outline critic.** The question: "Where does this outline contradict the notes, or give a beat no cause?" It gets the chapter outlines in the range, their notes, the arc outline, the cards and sheets they link, and the rulings. It never gets drafted prose of these chapters, later outlines, or the conversation.
 - **The setup check** on outline beats: the setup question of the [setup and belief prompt](prompts/setup-belief.md), asked of the beats instead of the page.
+
+## Running a test of the critics
+
+When you test the chain itself (a new narration, a new critic), give the test's folder and files neutral names. In the narration test two critics guessed what was being tested from the folder's name and adjusted their findings.
 
 ## Adding a critic
 

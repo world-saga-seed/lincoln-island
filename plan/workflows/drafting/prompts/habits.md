@@ -1,4 +1,4 @@
-# Prompt: habits critic (v2)
+# Prompt: habits critic (v3)
 
 *One batch. Drafters copy each other's tics, so a habit spreads to people it does not belong to.*
 
@@ -24,6 +24,11 @@ something) and which to cut to a gesture or a word, since a reader who has the p
 feels the shorthand as momentum. A description repeated near word for word at each showing
 is weak. A habit the writer has kept on purpose past the count (the voice sheet or the
 rulings say so) is no finding.
+
+Clues are no finding. Before you flag a repeat, an oddity or a detail to cut or vary,
+check it against plan/reread-hooks.md, the clue register (it lists each chapter's plants;
+read it, though you read no notes): a detail listed there is planted on purpose, and is never a finding to cut, vary or explain. Say "clue, kept"
+if you noticed it.
 
 Report each finding as:
 - quote: the exact text, 25 words at most

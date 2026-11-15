@@ -1,5 +1,7 @@
 # Voice sheet: [narrator]
 
+*One voice sheet per narrating head. The POV file ([pov.md](pov.md)) says which head narrates where, and where it and this sheet differ, it wins.*
+
 ## The rule
 
 - [Point of view and tense; told as it happens or from after.]

@@ -32,6 +32,8 @@ These are the rhythms that give model prose away. A reader who knows model ficti
 
 **There is no universal good value.** Run `tells.py` on the writer's style samples and on the writer's existing chapters. Their range is the target. Write it into [rulings.md](rulings.md#texture). Flag a chapter well above the range, and well below it too: a chapter chopped to pass the caps (every join cut) reads worse than one slightly over.
 
+**Measures belong to a voice.** The range comes from one narrator's samples. A second narrator, or a chapter in another person or tense, needs its own samples before its numbers mean anything: the writer's own pages for that voice, or provisional ones the writer approves. Until then, record its numbers and set no range.
+
 **Density, never a single use.** One "the way she had" is the writer's voice. Five in a chapter is the machine's. A single hit is never a finding.
 
 ## Add a grep for every rule that has one

@@ -2,7 +2,7 @@
 
 A workflow is a procedure a task cites instead of restating: its loop, its prompts, its checks and its lessons. It comes with the clone of the kit, as `plan/workflows/`; a book can later pull the kit's improved workflows with git. When a task develops a method worth keeping, the method comes here and the task cites it; each run's lessons are appended to the workflow's Lessons.
 
-**Rules every workflow follows:** the marks; the ledger first; at most two agents, none spawning another, each with a named file list; no git commands in any agent; fresh agents (not forks) for critics and readers; every finding quotes the text, and the quote is checked; work inside the horizon.
+**Rules every workflow follows:** the marks; the ledger first; at most two agents, none spawning another (but for lookup assistants, [the librarian](drafting/prompts/librarian.md)), each with a named file list; every run logged in the token log; no git commands in any agent; fresh agents (not forks) for critics and readers; every finding quotes the text, and the quote is checked; work inside the horizon.
 
 The two largest are **[drafting/](drafting/README.md)**, the drafting and criticism chain, and **[reader-tests](reader-tests.md)**, unit tests for a novel by chapter. Which stage uses which workflow is in `kit/pipeline/`.
 
@@ -32,6 +32,7 @@ The two largest are **[drafting/](drafting/README.md)**, the drafting and critic
 | [interest-check](interest-check.md) | Refinement | a volume is refined and a dull stretch is feared |
 | [ledger-roll](ledger-roll.md) | Refinement | a ledger file runs past its day |
 | [logic-check](logic-check.md) | Refinement | the arc turns on timing, travel or who-knows-what, or an outline already broke on a date or a cause |
+| [outline-clean](outline-clean.md) | Refinement | outlines written before a restructure are about to be redrafted from |
 | [proposals](proposals.md) | Refinement | the setting needs a set of things the notes leave thin |
 | [publication](publication.md) | Refinement | a volume is about to be released (once per volume) |
 | [reader-tests](reader-tests.md) | Basic | the key and the blind probe; the story questions, reread test and quiz are Refinements, each marked |
@@ -44,6 +45,7 @@ The two largest are **[drafting/](drafting/README.md)**, the drafting and critic
 | [scene-outlines](scene-outlines.md) | Basic |  |
 | [series-critic](series-critic.md) | Refinement | a clue's plant and payoff are both drafted |
 | [task-form](task-form.md) | Basic |  |
+| [telephone-decay](telephone-decay.md) | Refinement | an in-world text (a scripture, a legend, an old record) must hide the truth beneath it |
 | [voice-render](voice-render.md) | Refinement | the writer wants to listen |
 
 ## Belongs here, and does not

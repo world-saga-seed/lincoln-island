@@ -1,4 +1,4 @@
-# Prompt: setup and belief critic (v1)
+# Prompt: setup and belief critic (v2)
 
 *One chapter. Run it on every chapter with a big event, a rescue, a lucky find or a turn in someone's choices.*
 
@@ -15,6 +15,13 @@ Two questions, on the chapter story/prose/{N}-*.md:
    later problems too? Where does a person act from convenience rather than a cause the
    page gives? Judge against the drafts before ({READ_BEFORE}; skim earlier as needed) and
    the setting's topic files {TOPICS}.
+
+   Setting words first on the page. {FIRSTUSE} lists the words this chapter is the
+   first in the book to use that the cards also use (tools/firstuse.py). For each that
+   names a thing, a tool or a step the reader needs (not a plain word), is it set up on
+   the page before or here, or plain from context? A word that assumes the reader has
+   read the cards is a setup finding; so is "as I had been shown" pointing back to a
+   showing no page has.
 
 2. Belief. Given only what each character has lived and believes by this point, where would
    they not do or say this? The characters: {PEOPLE}. Their sheets are in

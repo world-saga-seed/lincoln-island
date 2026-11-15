@@ -12,8 +12,9 @@ The chain runs **cheapest first**. A grep costs nothing and catches what a criti
 |---|---|---|---|---|---|
 | 0 | **Gate:** the horizon is accepted for drafting | the writer | the horizon | [the gate](#the-gate) | Basic |
 | 1 | **Draft** one chapter per agent, from its outline, cards, voice sheet and rulings | judgment | each chapter | [drafter.md](drafter.md), [prompts/drafter.md](prompts/drafter.md) | Basic |
-| 2 | **Mechanical checks:** banned words, texture numbers, links, first appearances | mechanical | each chapter | [mechanical.md](mechanical.md) | Basic |
-| 3 | **Per-chapter critics:** facts (Basic); coverage and slip, setup and belief (Refinements) | judgment | each chapter | [critics.md](critics.md) | Basic |
+| 2 | **Mechanical checks:** banned words, texture numbers and knots, links, first appearances; setting words first on the page (Refinement) | mechanical | each chapter | [mechanical.md](mechanical.md) | Basic |
+| 3 | **Per-chapter critics:** facts (Basic); coverage and slip, setup and belief, procedures (Refinements) | judgment | each chapter | [critics.md](critics.md) | Basic |
+| 3b | **Volume checks:** refrains, sound spans, the digest's routines and open asks, counted over the volume so far | mechanical | each batch, from the second | [mechanical.md](mechanical.md#volume-checks-before-the-batch-critics) | Refinement |
 | 4 | **Per-batch critics:** voice and mechanism, last (Basic); continuity, out-of-world phrases, habits (Refinements) | judgment | each batch of two or three | [critics.md](critics.md) | Basic |
 | 5 | **Verify** every finding: the quote resolves, the rule exists, duplicates merged | mechanical | every report | [verify.md](verify.md) | Basic |
 | 6 | **Dispose:** each verified finding fixed, held, or put to the writer | judgment | the batch paper | [verify.md](verify.md#dispositions) | Basic |
@@ -40,7 +41,8 @@ Then the stretch goes to the [reader tests](../reader-tests.md) (the blind probe
 | [reviser.md](reviser.md) | Basic | The reviser's rules, and the re-check after it |
 | [register-pass.md](register-pass.md) | Refinement | The volume-wide pass on repeats and attention, and the landing check |
 | [fold-back.md](fold-back.md) | Refinement | Bringing outlines and notes up to the draft, and listing what changes next pass |
-| [prompts/](prompts/) | as their critic | The prompt templates, one per role, with `{PLACEHOLDERS}` to fill |
+| [prompts/](prompts/) | as their critic | The prompt templates, one per role, with `{PLACEHOLDERS}` to fill; [the librarian](prompts/librarian.md) is the lookup assistant's |
+| [the volume digest](../../templates/volume-digest.md) | Refinement | What the volume's pages have set, read in place of its earlier chapters; one block appended per batch |
 
 A worked run on the example's scene is in the kit's example (in the kit's repository, `example/reports/`): the scene, two critic reports, the verified list, the revision and the re-check.
 
@@ -60,7 +62,11 @@ The one gate for drafting a horizon. **Basic:**
 - the logic and consistency findings are settled and folded back, if the [logic](../logic-check.md) and [consistency](../consistency-check.md) checks ran;
 - a ripple scan is done, if dictation ran;
 - the clue register lists what each chapter plants, if the book plants clues;
-- the actor log is current, if an offstage actor drives a beat.
+- the actor log is current, if an offstage actor drives a beat: rerun since the last bulk change to the outlines ([actor-log](../actor-log.md#when-it-runs));
+- the outlines, notes and cards are cleaned of the old drafts, if this is a redraft ([outline clean](../outline-clean.md));
+- everyone who recurs in two chapters or more has a sheet, named or not;
+- a staging sheet exists for each setting that works by the book's own rules ([the drafter](drafter.md#lessons-the-method-learned));
+- the tree is clean (`links.py` and `cards.py check` at 0, everything committed), so the drafts start from a named commit.
 
 The writer says "draft". Until then, the outlines are the work.
 
@@ -79,6 +85,6 @@ Per chapter:
 - **Basic:** about 7 runs: the drafter, the facts critic, the voice critic, the reviser, the facts re-check, and the open and asked probe runs.
 - **Full:** add coverage and slip, setup and belief, continuity, out-of-world phrases and habits critics, the invention check, draft-cards, and the chapter's share of the register pass, fold-back, reader tests and interest check.
 
-Measure tokens on your first chapter (Claude Code shows usage per agent) and note it in `state.md`; a full volume runs to many millions of tokens. It is cheaper than the writer finding the same faults by hand, and the critics get cheaper to trust as their calibration builds.
+Log every agent run's tokens in the [token log](../../templates/tokens.md) (Claude Code shows usage per agent); a full volume runs to many millions of tokens. Watch each step's cost from volume to volume: one that grows with the book is reading too much, and the fix is the [reading list](drafter.md#the-reading-list) and the digest. It is cheaper than the writer finding the same faults by hand, and the critics get cheaper to trust as their calibration builds.
 
 **Budget note.** When usage is tight, cut in this order: run setup and belief only on chapters with a big event; merge habits into the voice critic; skip the out-of-world critic once the banned list has stopped growing. Never cut verification, and never cut the facts critic.

@@ -1,4 +1,4 @@
-# Prompt: reviser (v1)
+# Prompt: reviser (v2)
 
 *One batch, from a snapshot, on the verified findings only.*
 
@@ -27,7 +27,8 @@ Rules:
   any name, order or number a reader could solve the story from. Where a finding asks for
   that cut, keep the clue and say so.
 - Keep each chapter inside the texture of the samples, measured with
-  python3 tools/tells.py <file>. Do not chop.
+  python3 tools/tells.py <file>. Do not chop. Split every sentence tells.py prints as a
+  "knot" that runs two main clauses through a semicolon.
 - Word ranges: {WORDS}. Do not cut below; if the findings force it, say so.
 - Everything in the rulings holds.
 - When done, run python3 tools/tells.py <file> --banned story/voice/banned.txt and fix any

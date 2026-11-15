@@ -1,4 +1,4 @@
-# Prompt: continuity critic (v1)
+# Prompt: continuity critic (v2)
 
 *One batch. Chapters drafted side by side drift at the seams; this is the check for that.*
 
@@ -18,7 +18,11 @@ Do not read the outlines or the notes: judge the page against the page. Flag:
 - days, times and distances that do not add up;
 - objects in two places, or gone and back;
 - phrases or whole sentences reused from an earlier chapter;
-- a beat told twice.
+- a beat told twice;
+- an ask left hanging: a request, promise or question someone put that a later page
+  should answer and does not, or answers as if it were never asked. The volume digest's
+  "Open asks" ({DIGEST}) lists the asks still open from earlier chapters: flag one these
+  chapters answer wrongly or forget at a moment that calls for it.
 
 Report each finding as:
 - quote: the exact text, 25 words at most

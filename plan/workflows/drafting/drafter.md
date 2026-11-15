@@ -10,6 +10,15 @@ Turns one outlined chapter into a first draft in the narrator's voice. The promp
 
 The voice sheet, the banned list, the rulings and the style samples come first, because the first things read set the voice; then the chapter's outline and notes, the arc outline, the drafts before it, and the cards and sheets (with the **Habits**) of everyone in it. The full list, in order, with `{FRAME}` and `{EXTRA}`, is in [the prompt](prompts/drafter.md).
 
+## The reading list
+
+*Refinement: add it when a run's tokens grow with the book (the [token log](../../templates/tokens.md) shows it), usually from the second volume.* "The drafts before it" and "the cards of everyone in it" grow with every chapter. Past the first volume, give each agent a list instead:
+
+- **Build it by script:** `python3 tools/reading.py N --step drafter --digest story/volume/<volume>-digest.md > plan/tasks/<task>/reading-N.md`. It resolves every link in the chapter's outline and notes to its file, and to a line range where the link names a heading in a large file. It adds any card the outline names without linking, the sheets of the people it names, and the chapter before. For each critic, use the matching `--step` (facts, setup, procedures, habits, continuity), so each reads only its own share.
+- **Tell the agent:** "read these and nothing else, unless a fact you need is missing; then follow one link and say so in your report." A fact the list does not carry is a lookup for [the librarian](prompts/librarian.md), not a reason to open whole files.
+- **The volume digest** stands in for the volume's earlier chapters ([the template](../../templates/volume-digest.md)). It holds what the pages have set: who has met whom, what each knows, what objects are where, the names and terms in use, the routines already shown in full, and the asks still open. A small agent writes one block per batch as the batch closes; the supervisor checks its quotes. A critic reads the digest and the chapter before, not the volume.
+- **What it saves:** the cost of a run follows the chapter's length and the number of passes over it, not the reading around it. That is the point: the reading stops growing as the book does.
+
 ## What the drafter must not get
 
 - **Later outlines.** Nothing past this chapter. A drafter who knows the payoff writes toward it, and the plant becomes a signpost.
@@ -17,6 +26,7 @@ The voice sheet, the banned list, the rulings and the style samples come first, 
 - **The outline's author-side lists** (reference detail, the truth behind a secret) as things to put on the page. The outline marks them; the drafter leaves them off.
 - **The conversation** with the writer. The drafter is a fresh agent with a complete prompt.
 - **The critics' prompts.** A drafter who writes to pass a critic writes to the critic.
+- **The chapter's old draft, on a redraft.** A drafter given the draft it replaces keeps its sentences, and the old book comes back. It gets the cleaned outline ([outline clean](../outline-clean.md)), the voice files and the accepted volumes instead.
 
 ## The rules it works under
 
@@ -49,3 +59,5 @@ When the writer's existing scenes are rewritten from new outlines, the samples s
 - **Side-by-side batches need the continuity critic.** Parallel drafters drift at the seams: a day counted twice, an object in two places. One chapter at a time, in order, does not.
 - **Drafters do not invent staging for a device.** Extra machinery (pipes, gauges, drains) pushes a reader toward a picture the book never meant.
 - **A drafted chapter with no key frame reads flat.** If the gate let one through, stop and write its brief.
+- **A setting that works by its own rules needs a staging sheet.** A drafter left alone reaches for the stock picture: a smithy with a fire, a print shop that clatters. For a place that works by the setting's own rules, write one sheet (what stands where, what each tool does, what only the narrator sees) and give it to every drafter and reviser of the chapters set there. Walk the shop on paper with the writer before drafting: writers often know the trades. The [procedures critic](prompts/procedures.md) is the backstop.
+- **Anyone in two chapters or more gets a sheet before drafting,** named or not. A drafter who meets the same unnamed clerk twice invents two clerks.

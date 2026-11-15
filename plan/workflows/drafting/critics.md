@@ -13,9 +13,10 @@ One dimension each. Each is a fresh agent, a full prompt, the strongest model av
 | **Facts** ([prompt](prompts/facts.md)) | Basic | "Where does this contradict the notes?" | the chapter; its notes for drafting; the settled lines of its outline and arc outline; the cards and sheets of everyone and everything in it; the rulings; the drafts before it | the outline's proposals; later outlines | each chapter |
 | **Coverage and slip** ([prompt](prompts/coverage-slip.md)) | Refinement: beats go missing, or someone knows too early | "Which beats are missing, out of order or added? Where does someone use what they do not have yet, or the narrator know what they could not?" | the chapter; its outline's numbered beats; the drafts before it; the voice sheet; the rulings | the notes for drafting; later outlines | each chapter |
 | **Setup and belief** ([prompt](prompts/setup-belief.md)) | Refinement: help arrives on cue, or the chapter has a big event | "Where does help arrive on cue with no cause? Given only what each person has lived and believes, where would they not do or say this?" | the chapter; the drafts before it; the setting's topic files; the sheets of the people in it | this chapter's outline and notes; anything later | each chapter (or only those with a big event) |
+| **Procedures** ([prompt](prompts/procedures.md)) | Refinement: the book has trades, rites, fights or paperwork carded step by step, and the writer's read finds steps missing | "Is every process on the page done as its card sets it? What step is skipped, out of order, or done by the wrong hand?" | the chapter; the cards of each process on the page (by the book's own index of them); the drafts before it, or the digest; the rulings | the outline's proposals; later outlines | each chapter |
 | **Continuity** ([prompt](prompts/continuity.md)) | Refinement: chapters are drafted side by side | "Where do these chapters disagree with the chapters before them, and with each other?" | the batch's chapters; the drafts before | the outlines; the notes | each batch |
 | **Out-of-world phrases** ([prompt](prompts/idioms.md)) | Refinement: out-of-world phrases survive the banned list | "Which phrases only make sense to someone outside the narrator's world?" | the batch's narration only | everything else | each batch |
-| **Habits** ([prompt](prompts/habits.md)) | Refinement: one character's tic shows up on another | "Where does someone do a habit that is not theirs, break one of theirs, or repeat one until it is filler?" | the batch; the Habits sections of every sheet and card for who appears; the voice sheet for the narrator | the outlines; the notes for drafting | each batch |
+| **Habits** ([prompt](prompts/habits.md)) | Refinement: one character's tic shows up on another | "Where does someone do a habit that is not theirs, break one of theirs, or repeat one until it is filler?" | the batch; the Habits sections of every sheet and card for who appears; the voice sheet for the narrator; from the second batch of a volume, `refrains.py` | the outlines; the notes for drafting | each batch |
 | **Voice and mechanism** ([prompt](prompts/voice-mechanism.md)) | Basic | "I think these chapters are poorly matched with the voice. Can you tell me where?" plus mechanism, model tells, hindsight, register and measures | the batch; the voice sheet; the banned list; the style samples; the setting's topic files only to recognize a true cause when it leaks; `tells.py` output | the outlines; the notes for drafting | each batch, **last** |
 
 Two more run on outlines, before drafting: see [Outline critics](#outline-critics).
@@ -30,8 +31,8 @@ Two more run on outlines, before drafting: see [Outline critics](#outline-critic
 
 ## Order
 
-1. **Per chapter, as each draft lands:** facts; coverage and slip; setup and belief. Resolve these before the batch critics, so the batch critics read a chapter whose facts are right.
-2. **Per batch:** continuity across the two or three chapters; out-of-world phrases; habits.
+1. **Per chapter, as each draft lands:** facts; coverage and slip; setup and belief (with `firstuse.py`); procedures. Resolve these before the batch critics, so the batch critics read a chapter whose facts are right.
+2. **Per batch,** after the [volume checks](mechanical.md#volume-checks-before-the-batch-critics): continuity across the two or three chapters; out-of-world phrases; habits.
 3. **Voice and mechanism last,** because it reads the joins the others left and the fixes they made.
 
 Run independent critics in parallel, two at a time.
@@ -67,4 +68,6 @@ When a fault keeps reaching the writer's read that no critic catches, add a crit
 4. Calibrate it ([principles](principles.md#5-calibrated-before-it-is-trusted)).
 5. Add its row here.
 
-A **method critic** is a common addition for books with fights, crafts or procedures: "Where does this fight, hunt or repair run by stock convention instead of the setting's own rules? Who is doing it, and does it follow their culture's way?" Give it the setting's card on how that work is done and the cards of whatever is in the scene.
+A **method critic** is a common addition for books with fights or crafts: "Where does this fight, hunt or repair run by stock convention instead of the setting's own rules? Who is doing it, and does it follow their culture's way?" Give it the setting's card on how that work is done and the cards of whatever is in the scene. Where the cards set a process step by step, the [procedures critic](prompts/procedures.md) is the narrower form: it walks each step against the page.
+
+**Reading lists and lookups.** From the second volume, each critic gets its share of the chapter's reading list (`tools/reading.py N --step <critic>`) and the volume digest in place of the earlier chapters ([the reading list](drafter.md#the-reading-list)). A fact the list lacks is a lookup for [the librarian](prompts/librarian.md).

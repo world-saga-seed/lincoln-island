@@ -11,7 +11,8 @@ Run these on every draft before any critic sees it. They are cheap, they give ve
 | Check | Command | What a hit means |
 |---|---|---|
 | Banned words and phrases | `python3 tools/tells.py story/prose/NNNNN-*.md --banned story/voice/banned.txt` | A word the narrator never uses. Fix in narration; in dialogue, read whether the speaker would say it (`--all-text` scans dialogue too) |
-| Texture numbers | `python3 tools/tells.py story/prose/NNNNN-*.md story/voice/samples/*.md` | A chapter well outside the samples' range on a measure: a candidate for the voice critic |
+| Texture numbers | `python3 tools/tells.py story/prose/NNNNN-*.md story/voice/samples/*.md` | A chapter well outside the samples' range on a measure: a candidate for the voice critic. A **knot** line under it is a sentence of 35 words or more with a semicolon: the reviser splits any that runs two main clauses through one |
+| Setting words first on the page (per chapter, Refinement) | `python3 tools/firstuse.py story/prose/*.md --batch 1` | A word the cards use that no earlier page has: the setup critic's `{FIRSTUSE}` |
 | Links | `python3 tools/links.py` | A note or card points at nothing |
 | Cards in form | `python3 tools/cards.py check` | A card head out of form, or an index stale |
 | Repeated phrases (per batch) | `python3 tools/repeats.py story/prose/0*.md --min-files 3 --narration` | A phrase the reader meets chapter after chapter |
@@ -63,11 +64,22 @@ A hit is either the page too early or the card's list out of date. Read it: a co
 
 **A check is trusted only after it has caught a planted case,** as a critic is calibrated on planted faults. A grep that has never matched a planted line proves nothing when it finds nothing. Before relying on a new rule's grep, put one line that breaks it in a scratch copy, and see the grep find it. The same goes for the banned list: add a test word, run it, remove it.
 
-## Volume checks
+## Volume checks before the batch critics
 
-Across a drafted volume, add:
+*Refinement: add them from the second batch of a volume.* A batch critic sees two or three chapters, so it cannot count what builds up across a volume: a detail shown in full at every appearance, a description repeated near word for word, a device so rare in one volume that it reads as a slip. Run these on the volume so far before the batch critics, and paste each into its critic's prompt:
 
-- `tools/repeats.py` over the whole volume, narration only, for the register pass ([register-pass.md](register-pass.md));
+| Check | Command | Goes to |
+|---|---|---|
+| Refrains | `python3 tools/refrains.py story/prose/<volume's chapters so far> --list story/voice/refrains.txt --batch K` | the habits critic's `{REFRAINS}` |
+| Sound spans, if the book writes sounds the narrator cannot spell | `python3 tools/sounds.py story/prose/*.md --batch K --volume V --forbid "<symbols>"` | the voice critic's `{SOUNDS}` |
+| Routines shown in full, open asks | the digest's Standing lines, brought up to the batch before ([the digest](../../templates/volume-digest.md)) | the procedures critic's and continuity critic's `{DIGEST}` |
+
+- **Refrains list.** Start `story/voice/refrains.txt` from [the template](../../templates/refrains.txt). Add every refrain a critic, reader or the writer names, so the next count catches it for free. The script flags a refrain shown more than 8 times in a volume or more than 3 in a chapter. A refrain the writer keeps on purpose past the count goes in the digest's "Refrains, full showings kept" line, and the critic leaves it alone.
+- **Sound spans.** Write the convention into the voice sheet first: who may say a sound, when it turns to italics and then to plain words, and which accent it is transcribed in. Mixed accents in a transcription are an easy slip for a model.
+
+Across a drafted volume, for the register pass ([register-pass.md](register-pass.md)), add:
+
+- `tools/repeats.py` over the whole volume, narration only;
 - the first-appearance greps for every card;
 - `tools/links.py` and `tools/cards.py check` at 0.
 

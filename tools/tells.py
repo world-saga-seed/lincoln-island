@@ -27,6 +27,9 @@ Per file it prints one line of numbers:
   med, sd      median and spread of sentence length in words
   short%       sentences of 6 words or fewer;  long%  sentences of 25 or more
   button%      paragraphs of two sentences or more that end on one of 5 words or fewer
+Under it, a "knot" line for each narration sentence of 35 words or more that
+holds a semicolon: two main clauses run through one read as a tangle (a list
+held by semicolons is fine; the reviser splits the rest).
 Then any banned-word hits as  file:line  word  | the line.
 Read the numbers against the same numbers for the writer's own pages; there is
 no universal good value.
@@ -82,6 +85,7 @@ def numbers(lines):
         'short%': 100 * sum(x <= 6 for x in lens) / len(lens),
         'long%': 100 * sum(x >= 25 for x in lens) / len(lens),
         'button%': 100 * sum(len(s[-1].split()) <= 5 for s in multi) / max(1, len(multi)),
+        'knots': [s.strip() for s in sents if ';' in s and len(s.split()) >= 35],
     }
 
 
@@ -101,6 +105,8 @@ def main():
         print(f"{name:30} w={n['w']:5} way/k={n['way/k']:4.1f} asif/k={n['asif/k']:4.1f} "
               f"and/s={n['and/s']:.2f} neg/k={n['neg/k']:4.1f} med={n['med']:2} sd={n['sd']:4.1f} "
               f"short%={n['short%']:3.0f} long%={n['long%']:3.0f} button%={n['button%']:3.0f}")
+        for k in n['knots']:
+            print(f"    knot ({len(k.split())} words): {' '.join(k.split())[:160]}")
         for i, line in enumerate(lines, 1):
             if line.startswith('#'):
                 continue

@@ -1,4 +1,4 @@
-# Prompt: voice and mechanism critic (v1)
+# Prompt: voice and mechanism critic (v2)
 
 *One batch, run last. The broadest critic, so its questions are numbered and each finding names its kind.*
 
@@ -37,6 +37,17 @@ Six questions:
    paragraph that ends "and then I let it go"; a short summing-up tag line closing a scene).
    The samples use some of each: flag density and stacking above theirs, never a single
    use. Flag a chapter below the range too (chopped, every join cut). Kind: tell.
+
+   Knots. tells.py prints a "knot" line for each narration sentence of 35 words or more
+   with a semicolon: flag one that runs two main clauses through it, or turns a corner
+   mid-sentence, as weak, direction split; a list held by semicolons is no finding.
+
+   Sound spans. {SOUNDS} lists every sound span in these chapters (tools/sounds.py), if
+   the book uses the device. Check each against the voice sheet's rule for it: who may
+   say it, when it turns to italics and then to plain words, which transcription. A
+   forbidden symbol is a break. Where the report flags the volume as rare, check the span
+   still reads as a sound (the narrator's ear on it, the speaker breaking off), so a
+   reader of this volume alone does not take it for a slip. Kind: voice.
 
 4. Hindsight. {IF TOLD AS IT HAPPENS:} flag any line that tells from after the events
    ("later I learned", "I never saw her again"). Kind: voice.

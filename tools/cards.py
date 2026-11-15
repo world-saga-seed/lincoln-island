@@ -23,6 +23,10 @@ Usage:
   python3 tools/cards.py build [--root DIR]        rewrite every folder's table from the heads
   python3 tools/cards.py find WORD ... [--root DIR]  cards whose head holds every word,
                                                    then cards whose text does
+  python3 tools/cards.py index [--root DIR] [--sheets DIR]
+                                                   write DIR/INDEX.md, the subject index: every
+                                                   card by its name, what it is and its keywords,
+                                                   every folder and every character sheet, A to Z
   --root DIR defaults to "world".
 """
 import argparse, glob, os, re, sys
@@ -128,12 +132,59 @@ def find(root, words):
     print('\n'.join(hits + body) or 'no card')
 
 
+def index(root, sheets):
+    ent = {}
+
+    def add(term, label, path):
+        t = term.strip().strip('.').strip()
+        if len(t) >= 3:
+            ent.setdefault(t[0].upper() + t[1:], set()).add((label, path))
+
+    for d in folders(root):
+        for p in cards(d):
+            name, what, summary, kw, _ = head(p)
+            label = f'{name}: {what}' if what else name
+            add(name, label, p)
+            for k in kw:
+                add(k, label, p)
+            for part in re.split(r',|;| and | or ', what):
+                part = re.sub(r'^\s*(the|a|an|its|their|his|her)\s+', '', part.strip())
+                if 3 <= len(part) <= 40 and len(part.split()) <= 4:
+                    add(part, label, p)
+        r = os.path.join(d, 'README.md')
+        if os.path.exists(r):
+            t = open(r, encoding='utf-8').readline().lstrip('# ').strip()
+            add(t.split(':')[0], t, r)
+    if sheets and os.path.isdir(sheets):
+        for p in sorted(glob.glob(os.path.join(sheets, '**', '*.md'), recursive=True)):
+            if os.path.basename(p) != 'README.md':
+                t = open(p, encoding='utf-8').readline().lstrip('# ').strip()
+                add(t.split('(')[0].split(':')[0], t, p)
+    key = lambda s: re.sub(r'^(the|a|an) ', '', s.lower())
+    out = os.path.join(root, 'INDEX.md')
+    lines = ['# Subject index', '',
+             '*Every card by its name and its search words, every folder and every character sheet, A to Z. '
+             'Built by `tools/cards.py index` from the card heads; never edit by hand (fix the card\'s head). '
+             'For a subject not here, `tools/cards.py find WORDS` searches the text.*']
+    letter = None
+    for term in sorted(ent, key=key):
+        L = key(term)[:1].upper()
+        if L != letter:
+            letter = L
+            lines += ['', f'## {L}', '']
+        refs = '; '.join(f'[{lab}]({os.path.relpath(p, root)})' for lab, p in sorted(ent[term]))
+        lines.append(f'- **{term}**: {refs}')
+    open(out, 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
+    print(f'{out}: {len(ent)} entries')
+
+
 def main():
     ap = argparse.ArgumentParser(description='Card heads, folder indexes and search.',
                                  epilog='See the top of this file for the card head form.')
-    ap.add_argument('command', choices=['check', 'build', 'find'], help='check the card heads and indexes; build the indexes; find cards by word')
+    ap.add_argument('command', choices=['check', 'build', 'find', 'index'], help='check the card heads and indexes; build the indexes; find cards by word; write the subject index')
     ap.add_argument('words', nargs='*', help='for find: the words to look for')
     ap.add_argument('--root', default='world', help='the folder whose subfolders are card folders (default: world)')
+    ap.add_argument('--sheets', default='story/notes/characters', help='for index: the character sheets folder (default: story/notes/characters)')
     ap.add_argument('-v', action='store_true', help='for check: also list keywords the card text already uses')
     a = ap.parse_args()
     if not os.path.isdir(a.root):
@@ -142,6 +193,8 @@ def main():
         sys.exit(1 if check(a.root, a.v) else 0)
     elif a.command == 'build':
         build(a.root)
+    elif a.command == 'index':
+        index(a.root, a.sheets)
     else:
         find(a.root, a.words)
 

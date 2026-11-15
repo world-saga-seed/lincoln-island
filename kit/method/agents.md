@@ -5,7 +5,7 @@ Claude Code can launch other agents to do pieces of work in parallel. Used well,
 ## The limits
 
 - **At most two agents at a time.** More agents with wide scope means each one reads half the repo, some launch their own agents, and the run fails.
-- **No agent spawns its own.** Every prompt says so: "Do not launch agents or forks."
+- **No agent spawns its own,** with one exception. Every prompt says "Do not launch agents or forks." The exception, once the reading lists are tight: a drafter or critic may task up to two lookup assistants on the smallest model, by [the librarian prompt](../../plan/workflows/drafting/prompts/librarian.md). An assistant writes nothing, launches nothing and answers with quotes the asker checks.
 - **Every agent gets a named file list:** what it may read beyond the method files, and the one or few files it may write. Never "the whole arc" or "grep the repo".
 - **No git commands in any agent.** Not even `status` or `stash`. A stash in a shared folder can remove other sessions' unsaved work. Where a prompt needs history (what changed since a date, a file's last commit date), the supervisor runs the git command and passes its output in as an input, such as `{CHANGES}` or `{DATES}`.
 - **Small work is done directly.** Do not delegate what takes two minutes.
@@ -35,7 +35,11 @@ A good brief for an agent:
 6. Says: run no git commands; do not launch agents; inventing a finding is worse than missing one.
 7. Asks for a short final message: counts, and the one finding that matters most.
 
-**Scope each agent to a few chapters and a named card list.** An agent given a whole arc reads too much, runs out of room, and finishes nothing. If a job does not fit, split it into two agents with two file lists.
+**Scope each agent to a few chapters and a named card list.** An agent given a whole arc reads too much, runs out of room, and finishes nothing. If a job does not fit, split it into two agents with two file lists. For drafting, build the list by script ([reading lists](../../plan/workflows/drafting/drafter.md#the-reading-list)).
+
+## Log the cost of every run
+
+Write every agent run as a row in a token log ([the template](../../plan/templates/tokens.md)): the step, the chapter, its words, how it read (whole files, a reading list, a digest), tokens, tool calls and minutes, from Claude Code's figures for the agent. One volume's rows show what each step costs; the same steps a few volumes on show whether it is growing. Flat per step is fine. A step that grows with the book (a critic reading every earlier chapter) is the one to fix, usually with a reading list and a digest.
 
 ## Supervise
 

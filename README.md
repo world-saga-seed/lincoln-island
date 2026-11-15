@@ -2,7 +2,7 @@
 
 *"Saga" for long: a novel of 80,000 words or more, or a series, in any genre. "Seed" because a clone of the kit is the seed your book grows from.*
 
-> **Alpha:** a work in progress, shared privately with a few early testers before a public release. What has been tested, what you need and what it costs are in [Before you start](#before-you-start).
+> **Alpha:** a work in progress, tested so far on one series, with its first outside testers starting now. Expect rough edges. What has been tested, what you need and what it costs are in [Before you start](#before-you-start).
 
 This kit is for a fiction writer with existing material (a manuscript, a half-draft, a folder of notes) who wants to work with Claude Code without the story drifting, without the model's habits taking over the voice, and without losing their own decisions. You do not need to be technical. It suits long work best. You can also start from nothing: the method was first run with no manuscript at all, from the interview alone.
 

@@ -12,7 +12,7 @@ The two largest are **[drafting/](drafting/README.md)**, the drafting and critic
 
 | Workflow | Tier | Add it when |
 |---|---|---|
-| [actor-log](actor-log.md) | Refinement | an offstage actor drives a beat |
+| [actor-log](actor-log.md) | Basic (the light pass of the three critics); Refinement (the full log) | every horizon; the full log when an offstage actor drives a beat |
 | [aims-sweep](aims-sweep.md) | Refinement | a critic or drafter treats a "the reader feels…" line as already done |
 | [apply-terms](apply-terms.md) | Refinement | a placeholder name is settled |
 | [arc-pitch](arc-pitch.md) | Refinement | an arc has enough frames to lay out |

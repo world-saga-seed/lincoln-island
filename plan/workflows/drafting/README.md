@@ -56,7 +56,8 @@ The one gate for drafting a horizon. **Basic:**
 3. the style samples are in `story/voice/samples/`;
 4. the key (and the story questions, if used) cover the horizon's chapters;
 5. the two critics (facts, and voice and mechanism) are calibrated, or the writer accepts that the first batch is their calibration;
-6. no chapter in the horizon is graded **none** for key frames (a chapter graded **thin** may proceed, noted in the batch paper).
+6. no chapter in the horizon is graded **none** for key frames (a chapter graded **thin** may proceed, noted in the batch paper);
+7. the [three critics](../actor-log.md#the-three-critics) (logistics and physics, causal chain, character invariant) have run on the horizon's outlines, as the light pass or the actor logs' audit, and their `interview.md` is closed.
 
 **Conditional:**
 

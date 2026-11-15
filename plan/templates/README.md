@@ -25,6 +25,7 @@ Empty forms. They come with the clone, in `plan/templates/`. Fill in the bracket
 | [critic-report.md](critic-report.md) | a critic's output | `example/reports/critic-facts-00400.md` |
 | [interest-merged.md](interest-merged.md) | the interest check's merged report | `example/reports/interest-merged.md` |
 | [pov.md](pov.md) | `story/voice/pov.md` for the book, and `story/voice/pov-NNNNN.md` for a chapter told another way: the narration the drafter and every critic judge by | `example/story/voice/pov.md` |
+| [knowledge.md](knowledge.md) | `story/voice/knowledge/<head>.md`: what a narrating head knows, believes wrongly and does not know, chapter by chapter; the drafter voices the beliefs, the critics spare them | `example/story/voice/knowledge/wren.md` |
 | [volume-digest.md](volume-digest.md) | `story/volume/<volume>-digest.md`: what the volume's pages have set, read in place of its earlier chapters | |
 | [refrains.txt](refrains.txt) | `story/voice/refrains.txt`: the refrains `tools/refrains.py` counts | |
 | [tokens.md](tokens.md) | `plan/tokens.md`: every agent run's cost, by step | |

@@ -1,4 +1,4 @@
-# Prompt: coverage and slip critic (v2)
+# Prompt: coverage and slip critic (v3)
 
 *One chapter. Two questions that read the same files.*
 
@@ -10,6 +10,20 @@ Read the POV file first: story/voice/pov-{N}.md if it exists, else story/voice/p
 It sets whose head the narration is in, its distance, what each head may know and what
 it never tells. Where it and the voice sheet differ, the POV file wins: judge the chapter
 against the narration it chose, never against another.
+
+Knowledge guards. {KNOWLEDGE} holds what each narrating head knows, believes wrongly and
+does not know at this chapter, the entries in force from its guard in
+story/voice/knowledge/. An entry marked as turning in this chapter holds up to the beat
+where it changes. Check every line of a head's narration against it before the cards and
+sheets:
+- a line that matches an entry under Believes is the narrator's own wrong belief, kept on
+  purpose: it is not a finding, and never direct that it be corrected;
+- a line wrong against the cards, sheets or notes and listed nowhere in the guard is weak:
+  why "unlisted error: a drafter's slip, or a new belief", direction "writer to rule: fix
+  it, or list it as a belief";
+- a line that states something under Does not know is a break, and so is a line that
+  contradicts an entry under Knows.
+A book with no guard for a head judges that head by the cards alone.
 
 Two questions, on the chapter story/prose/{N}-*.md:
 
@@ -55,3 +69,5 @@ finding is worse than missing one. Write the findings to {OUT}, headed
 **`{BATCH_NOTES}`** is what this batch has settled that the files do not show yet: a ruling the writer gave this session that is on the ledger but not yet on its card or outline, one line each with its ledger ID. It may be empty; then delete the placeholder line.
 
 **The slip pass has a mechanical half.** Once a character has an acquisition list (what they learn or get, and in which chapter), grep each object, name and term and flag any hit before the chapter where they first have it. The critic covers what a grep cannot: knowledge implied and not named, and the narrator reading someone's mind.
+
+**`{KNOWLEDGE}`** is the file `python3 tools/knowledge.py {N} --out <batch folder>/knowledge-{N}.md` writes: the knowledge-guard entries in force at this chapter, for every head that has a guard. A book with no guards writes "none"; then delete the Knowledge guards paragraph.

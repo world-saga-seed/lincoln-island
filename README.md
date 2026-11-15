@@ -5,9 +5,9 @@ This kit is a set of workflows. Each one is a procedure Claude Code can run on y
 It is for a fiction writer with existing material (a manuscript, a half-draft, a folder of notes) who wants to work with Claude Code without the story drifting, without the model's habits taking over the voice, and without losing their own decisions. You do not need to be technical. It suits long work best: a novel of 80,000 words or more, or a series.
 
 
-> **Alpha.** This is a work in progress, shared privately with a few early testers before a public release. What it has been tested on so far: one long series (three volumes, about 250,000 words) in **first person, past tense**. Other narrations (close third, omniscient, several viewpoints, an expressive narrator) have been through one test of a single chapter, and the fixes it found are in the kit: a POV file that every critic reads ([the template](plan/templates/pov.md)) and an attribution test for several viewpoints. They have not yet carried a whole book, so expect rough edges there.
+> **Alpha.** This is a work in progress, shared privately with a few early testers before a public release. What it has been tested on so far: one long series (three volumes, about 250,000 words) in **first person, past tense**. Other narrations (close third, omniscient, several viewpoints, an expressive narrator) have been through one test of a single chapter, and the fixes it found are in the kit: a POV file that every critic reads ([the template](plan/templates/pov.md)) an attribution test for several viewpoints, and a knowledge guard so an unreliable narrator's wrong beliefs are voiced on purpose and never corrected ([the template](plan/templates/knowledge.md)). They have not yet carried a whole book, so expect rough edges there.
 >
-> **What you need:** the Claude Code CLI, Python 3 and git, and some comfort in a terminal. A full render uses a lot of tokens: one chapter through the drafter and its critics runs to several hundred thousand, and a volume to many millions. Start with one chapter. The token log ([plan/templates/tokens.md](plan/templates/tokens.md)) shows what each step costs on your book.
+> **What you need:** a computer with Claude Code installed and signed in. You do not need to know Python or git: Claude does. The kit's scripts use Python 3 and the book's history is kept in git; Claude checks both are there, helps you install either if it is missing, and runs every script and git command for you. After the setup the daily work can run from a phone ([Working from a phone](#working-from-a-phone)). A full render uses a lot of tokens: one chapter through the drafter and its critics runs to several hundred thousand, and a volume to many millions. Start with one chapter. The token log ([plan/templates/tokens.md](plan/templates/tokens.md)) shows what each step costs on your book.
 >
 > **Feedback:** open an issue for anything that breaks, confuses you, or makes Claude do something odd. Say which workflow and step you were on.
 ## The big ideas
@@ -23,15 +23,33 @@ It is for a fiction writer with existing material (a manuscript, a half-draft, a
 
 A clone of the kit is the skeleton of your book: the workflows, templates and tools are already where the book needs them.
 
-1. Clone the kit, or use GitHub's "Use this template", into a folder named for your book.
-2. Delete `example/` and run `python3 tools/check_clean.py`; it must pass. The example stays readable in the kit's repository.
-3. Put your manuscripts in `existing/`, fill in the title line of `CLAUDE.md` (the rest is filled in after the interview), and run the intake: open Claude Code in the folder and say:
+Claude does the technical steps; you say what you want. Open Claude Code in an empty folder named for your book and say: "Set up this folder as a book from the World Saga Seed kit at <the kit's address>, check Python 3 and git are installed, delete the example, and run the clean check." Behind that request:
+
+1. Claude clones the kit into the folder (or you use GitHub's "Use this template").
+2. Claude deletes `example/` and runs `python3 tools/check_clean.py`, which must pass. The example stays readable in the kit's repository.
+3. You put your manuscripts in `existing/` (drag them into the folder) and give Claude the working title for `CLAUDE.md` (the rest is filled in after the interview). Then start the intake by saying:
 
 > Read CLAUDE.md, then plan/workflows/README.md, then kit/interview/intake.md. Do the intake on my existing work in existing/: list what is there, what kind of material each file is, and what you would ask me first. Do not change any file in existing/. Write your report to plan/tasks/ and stop.
 
 4. Then the interview ([kit/interview/](kit/interview/README.md)), one or two sessions. After it, Claude sets up the rest of `plan/` ([stage 03](kit/pipeline/03-set-up-plan.md)) and you begin.
 
-A book cloned from the kit can later pull improved workflows from it with git; git shows any conflict with your own edits.
+A book cloned from the kit can later pull improved workflows from it: ask Claude to update the kit, and it shows you any place where the new version meets your own edits.
+
+## Working from a phone
+
+Set up once on the computer; then the writing loop can run from a phone. Everything still runs on the computer, in the book's folder: the files, the scripts, the agents. The phone is a window onto that session through Claude Code's Remote Control, so you can dictate a key frame on a walk, rule on a critic's finding from the couch, or comment while you read on an ereader.
+
+**Once, at the computer:** the setup in How to start. Then start a session in the book's folder with Remote Control on, by typing `claude --remote-control "My book"` (the one command you type yourself), and open it from the Claude app on your phone. If the session is closed, `claude remote-control --continue` reattaches to the last one.
+
+**What works well from the phone:** the interview and the key-frame walk (answer by voice or by typing); dictating a scene; ruling on questions, which Claude puts a few at a time, each with a recommendation; starting a render and coming back when it is done; commenting while you read ([the read](plan/workflows/ereader.md#the-read-comments-from-the-phone)).
+
+**The gotchas:**
+- **The computer must stay on, awake and online,** with the session open. If it sleeps, the phone loses the session; set its power settings so it does not. For daily work, a small always-on machine is better than a laptop: a Raspberry Pi 5 (8 GB) or a mini PC running Linux, with the book on an SSD rather than an SD card, on wired network. Claude Code runs on it as on any Linux machine; you reach it only through the phone, and Claude can push the book to a private remote each day so a dead card or drive loses nothing.
+- **Don't read diffs or long critic reports on the phone.** Ask Claude for the verdict in a few lines, then the findings one at a time with its recommendation. The kit's `CLAUDE.md` already tells Claude to answer a phone in a few lines.
+- **Permission prompts come to the phone.** Read what you approve, as you would at the desk; an agent run or a push is worth a second look.
+- **The ereader book has to reach the reader.** Copy it over at the computer, or put the build folder in a cloud folder the reader syncs.
+- **Autocorrect and voice typing swap words.** Claude reads each message by the scene it points at, and asks only when a misread word could change a ruling.
+- **Long runs cost tokens whether you watch or not.** Each run is logged ([the token log](plan/templates/tokens.md)); check it at the computer now and then.
 
 ## Start here: your first chapter
 
@@ -64,7 +82,7 @@ The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflow
 |---|---|
 | [plan/workflows/](plan/workflows/README.md) | **The kit.** Every procedure, complete in itself, with its prompts. [drafting/](plan/workflows/drafting/README.md) is the largest section. |
 | [plan/templates/](plan/templates/README.md) | Empty forms for the plan, tasks, ledger, cards, sheets, outlines, the reader-test spec, reports. |
-| [tools/](tools/README.md) | Seven small Python scripts (standard library only): links, cards, tells and banned words, repeats, quotes, EPUB, and the clean check for a new book. |
+| [tools/](tools/README.md) | Fourteen small Python scripts (standard library only): links, cards, tells and banned words, repeats, refrains, sounds, first use, reading lists, aged lines, quotes, attribution, knowledge, EPUB, and the clean check for a new book. |
 | [kit/interview/](kit/interview/README.md) | The intake and interview script. |
 | [kit/pipeline/](kit/pipeline/README.md) | The twelve stages in order: when each runs and which workflows it uses. |
 | [kit/method/](kit/method/README.md) | The reasons: tasks and waves, the book's memory, oracles for prose, marks and the ledger, cards, horizons, key frames, agent limits, craft principles, closing cleanly. |

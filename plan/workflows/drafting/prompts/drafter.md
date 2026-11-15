@@ -1,4 +1,4 @@
-# Prompt: drafter (v2)
+# Prompt: drafter (v3)
 
 *Fill every `{PLACEHOLDER}`. One chapter per agent. A fresh agent, never a fork.*
 
@@ -11,7 +11,11 @@ Read, in this order:
 1. the POV file, story/voice/pov-{N}.md if it exists, else story/voice/pov.md (whose head,
    what each head may know, what is never told; where it and the voice sheet differ, it
    wins); then story/voice/voice.md (the voice sheet) and story/voice/banned.txt (the words
-   the narration never uses), and the voice sheet of each head the POV file names;
+   the narration never uses), and the voice sheet of each head the POV file names, and {KNOWLEDGE}, the
+   entries in force at this chapter from each head's knowledge guard: what the head knows,
+   believes wrongly and does not know. Where an entry turns in this chapter, put the beat
+   where it changes on the page. Voice the wrong beliefs as the head's own, stated
+   as plainly as the head would; never let the narration correct them or wink at them;
 2. plan/workflows/drafting/rulings.md (the rulings of the page; every line binds you);
 3. the style samples in story/voice/samples/: the voice as the writer set
    it. Match it; do not copy it;
@@ -54,3 +58,5 @@ Finish with a short report:
 ```
 
 **`{EXTRA}`** is where the supervisor puts what this chapter's outline gets wrong against the rulings, and what the neighboring chapters drafted at the same time will have done ("00300 ends with the narrator at the gate at midday; open there"). For a piece in another narrator's voice, `{EXTRA}` also says which rules of the voice sheet belong to the main narrator only and do not apply, and gives the piece's own voice line.
+
+**`{KNOWLEDGE}`** is the file `python3 tools/knowledge.py {N} --out <batch folder>/knowledge-{N}.md` writes. A book with no guards writes "none"; then delete the line that names it.

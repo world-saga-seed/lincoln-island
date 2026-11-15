@@ -6,7 +6,7 @@
 - **Time stance:** [told as it happens (no hindsight), or told from after (how much hindsight, and never what).]
 - **Whose head:** [one narrator throughout; or one head per section, named in each section's first sentence, each change marked by a section break; or, for omniscient, who may be entered and who never is.]
 - **Distance:** [how close: the narrator's attention only; free indirect thought allowed or not; how wide an omniscient narrator ranges, and where (a drafter left to choose stays close to the main character).]
-- **May know:** [for each head: what they know at this point and where they learned it.]
+- **May know:** [for each head: what they know at this point and where they learned it. A head that believes wrong things, or a narrator meant to be unreliable, gets a knowledge guard, `story/voice/knowledge/<head>.md` ([the template](knowledge.md)): what they know, believe wrongly and do not know, chapter by chapter. Link it here.]
 - **Must not know, or never tells:** [the held facts for this stretch, by link to the reader key's "must not get" lines; for an omniscient narrator, what it chooses never to tell.]
 - **Witness reach:** [scenes or beats this narrator cannot see, and how they reach the page instead (heard, reported, missed); any clue those beats carry, and how it still reaches the reader.]
 - **Register, per head:** [link to each head's voice sheet; for a head with none, three lines: diction, rhythm, what they notice and what bores them.]

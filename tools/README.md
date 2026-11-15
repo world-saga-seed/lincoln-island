@@ -18,6 +18,7 @@ They give the method its mechanical checks: verdicts nobody argues with, under e
 | `reading.py` | one chapter's reading list: its outline's and notes' links resolved to files and line ranges, the cards and sheets it names, the chapter before, the digest | `python3 tools/reading.py 00400 --step facts --digest story/volume/1-digest.md` |
 | `aged.py` | outline, note and card lines that may carry an old draft into a redraft | `python3 tools/aged.py story/outline/00*.md --cutoff 2027-04-01 --retired story/prose/00*.md` |
 | `attribution.py` | unlabeled paragraphs for a blind attribution test in a book with several viewpoint heads, and the key to score it | `python3 tools/attribution.py story/prose/03*.md --heads "03100-x.md:1-40=Ada,03100-x.md:41-200=Ben" --out attribution.md --key key.md` |
+| `knowledge.py` | the knowledge-guard entries in force at one chapter (what each narrating head knows, believes wrongly and does not know), for the drafter's and critics' briefs | `python3 tools/knowledge.py 00500 --out tmp/knowledge-00500.md` |
 | `epub.py` | builds an EPUB of chosen chapters, each paragraph tagged with its source line | `python3 tools/epub.py --title "Volume 1" --out build/v1.epub story/prose/00*.md` |
 
 ## Notes on each
@@ -44,6 +45,8 @@ They give the method its mechanical checks: verdicts nobody argues with, under e
 
 **attribution.py.** `--heads` names whose head each stretch of lines is in; a file with one head throughout is given as `file.md=Name`. It takes at least five paragraphs from each head that has them, then fills to `--count`. The key goes in a file the reader is never given. The prompt and how to score it are in [the attribution test](../plan/workflows/drafting/prompts/attribution.md).
 
+**knowledge.py.** Reads every guard in `story/voice/knowledge/` ([the template](../plan/templates/knowledge.md)), or only `--heads`. An entry is in force from its `*From* NNNNN` (from the start when it has none) through its `*until* NNNNN`; at its until chapter it is printed marked as turning there. An Open section is skipped. One guard per head with spans, never a copy per chapter: when a belief changes, one line changes.
+
 **quotes.py.** Reads quotes from lines like `- quote: the exact words`; with `--backticks`, also from every backticked span (for fold-back lists and card extracts; run it on a file or section that holds only quotes in backticks, or every backticked command will be checked too). Matching ignores spacing, curly against straight quotes, and `*` and `_`. Exits 1 if any quote is missing, and prints "0 quotes found" and exits 1 when the report holds none, since that usually means the quotes are not in the `- quote:` form.
 
 **check_clean.py.** Run it once, after deleting `example/` from a fresh clone; it must print `clean`. `--root DIR` checks another folder. Each hit is listed as `file:line` with what it found; exits 1 on any hit. The example's names (title, people, places, chapter slugs) are written into the script, with a comment on how to rebuild the list if the example changes; the script does not scan itself.
@@ -68,4 +71,5 @@ Each script was run on the kit's `example/` folder:
 - `reading.py 00400` on the example: the outline and notes, the two cards the notes name without linking, the narrator's sheet, the arc outline listed as not to read; `--step habits` lists only the sheet's Habits section with its lines; a chapter with no outline exits with a message.
 - `aged.py` on the example's outlines with a cutoff after its ledger day: the lines marked only by older rulings flagged as aged; a planted "from the draft" line linking a retired chapter flagged for both.
 - `attribution.py` on a two-head draft with a paragraph planted in the wrong head's voice: 15 paragraphs, 10 and 5, the planted one among them, the key holding each line and head. A cold reader given the file put all 15 in the right head and named the planted one as wrong for its head.
+- `knowledge.py` on the example's guard at 00100, 00500 and 00600: 6, 8 and 6 entries, the right ones; at 00500 the belief and the not-known that end there marked as turning.
 - `epub.py`: a numbered build with one drafted chapter and one placeholder, and a file-list build with `--kepub`; every XML part parsed as well-formed.

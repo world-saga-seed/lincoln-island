@@ -1,4 +1,4 @@
-# Prompt: reviser (v2)
+# Prompt: reviser (v3)
 
 *One batch, from a snapshot, on the verified findings only.*
 
@@ -26,6 +26,9 @@ Rules:
 - Never cut or reword a clue: a line in plan/reread-hooks.md, a chapter's clue notes, or
   any name, order or number a reader could solve the story from. Where a finding asks for
   that cut, keep the clue and say so.
+- Never correct a narrator's listed belief: a line that matches an entry under Believes
+  in {KNOWLEDGE} is wrong on purpose. Where a finding asks for that
+  fix, keep the line and say so.
 - Keep each chapter inside the texture of the samples, measured with
   python3 tools/tells.py <file>. Do not chop. Split every sentence tells.py prints as a
   "knot" that runs two main clauses through a semicolon.
@@ -39,3 +42,5 @@ for each chapter the word count and the tells.py line, before and after; then an
 Inventions list of any fact you added that the notes lack (expected: none), one line each:
 the fact, the line, the cards it touches.
 ```
+
+**`{KNOWLEDGE}`** is the file `python3 tools/knowledge.py {N} --out <batch folder>/knowledge-{N}.md` writes (one per chapter; give the reviser each chapter's). A book with no guards writes "none"; then delete the line that names it.

@@ -1,4 +1,4 @@
-# Prompt: setup and belief critic (v3)
+# Prompt: setup and belief critic (v4)
 
 *One chapter. Run it on every chapter with a big event, a rescue, a lucky find or a turn in someone's choices.*
 
@@ -26,7 +26,9 @@ Two questions, on the chapter story/prose/{N}-*.md:
 2. Belief. Given only what each character has lived and believes by this point, where would
    they not do or say this? Where the POV file gives several heads, judge each person's
    inner life only where the narration is in their head; elsewhere, judge only what they
-   do and say. The characters: {PEOPLE}. Their sheets are in
+   do and say. A narrating head acts on what its knowledge
+   guard says it knows and believes at this chapter ({KNOWLEDGE}), wrong
+   beliefs included: an act that follows a listed wrong belief is not a finding. The characters: {PEOPLE}. Their sheets are in
    story/notes/characters/; what each has lived is in the drafts before.
 
 Do not read this chapter's outline or its notes for drafting: judge the page as a reader
@@ -47,3 +49,5 @@ finding is worse than missing one. Write the findings to {OUT}, headed
 ```
 
 **The model of a setup fault** is the helper met on the road who does exactly what the travelers need, and the power that arrives on cue and is never used again. A story with providence can cover chance; a story without it needs a cause. A finding cites the beat and says what rule it would need. This check also runs on outlines, where a setup fault is cheapest to fix.
+
+**`{KNOWLEDGE}`** is the file `python3 tools/knowledge.py {N} --out <batch folder>/knowledge-{N}.md` writes. A book with no guards writes "none"; then delete the line that names it.

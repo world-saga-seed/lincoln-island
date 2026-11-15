@@ -4,6 +4,12 @@ This kit is a set of workflows. Each one is a procedure Claude Code can run on y
 
 It is for a fiction writer with existing material (a manuscript, a half-draft, a folder of notes) who wants to work with Claude Code without the story drifting, without the model's habits taking over the voice, and without losing their own decisions. You do not need to be technical. It suits long work best: a novel of 80,000 words or more, or a series.
 
+
+> **Alpha.** This is a work in progress, shared privately with a few early testers before a public release. What it has been tested on so far: one long series (three volumes, about 250,000 words) in **first person, past tense**. Other narrations (close third, omniscient, several viewpoints, expressive narrators) are being tested now, and their critics are not in the kit yet. If you try one, expect the voice critics to flag your narration itself as a fault.
+>
+> **What you need:** the Claude Code CLI, Python 3 and git, and some comfort in a terminal. A full render uses a lot of tokens: one chapter through the drafter and its critics runs to several hundred thousand, and a volume to many millions. Start with one chapter. The token log ([plan/templates/tokens.md](plan/templates/tokens.md)) shows what each step costs on your book.
+>
+> **Feedback:** open an issue for anything that breaks, confuses you, or makes Claude do something odd. Say which workflow and step you were on.
 ## The big ideas
 
 1. **The drafting and criticism chain.** Prose has no compiler, so a chapter goes through a chain cheapest first: scripts and greps, then narrow critics that each ask one question and must quote the text, then a script that throws out any finding whose quote is not really there, then a reviser that sees only the verified findings, then the checks again. Critics are trusted only after they have been tested on planted faults. **[plan/workflows/drafting/](plan/workflows/drafting/README.md)**, the largest part of the kit.

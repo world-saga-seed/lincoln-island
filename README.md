@@ -5,19 +5,31 @@ This kit is a set of workflows. Each one is a procedure Claude Code can run on y
 It is for a fiction writer with existing material (a manuscript, a half-draft, a folder of notes) who wants to work with Claude Code without the story drifting, without the model's habits taking over the voice, and without losing their own decisions. You do not need to be technical. It suits long work best: a novel of 80,000 words or more, or a series.
 
 
-> **Alpha.** This is a work in progress, shared privately with a few early testers before a public release. What it has been tested on so far: one long series (three volumes, about 250,000 words) in **first person, past tense**. Other narrations (close third, omniscient, several viewpoints, an expressive narrator) have been through one test of a single chapter, and the fixes it found are in the kit: a POV file that every critic reads ([the template](plan/templates/pov.md)) an attribution test for several viewpoints, and a knowledge guard so an unreliable narrator's wrong beliefs are voiced on purpose and never corrected ([the template](plan/templates/knowledge.md)). They have not yet carried a whole book, so expect rough edges there.
->
-> **What you need:** a computer with Claude Code installed and signed in. You do not need to know Python or git: Claude does. The kit's scripts use Python 3 and the book's history is kept in git; Claude checks both are there, helps you install either if it is missing, and runs every script and git command for you. After the setup the daily work can run from a phone ([Working from a phone](#working-from-a-phone)). A full render uses a lot of tokens: one chapter through the drafter and its critics runs to several hundred thousand, and a volume to many millions. Start with one chapter. The token log ([plan/templates/tokens.md](plan/templates/tokens.md)) shows what each step costs on your book.
->
-> **Feedback:** open an issue for anything that breaks, confuses you, or makes Claude do something odd. Say which workflow and step you were on.
+> **Alpha:** a work in progress, shared privately with a few early testers before a public release. What has been tested, what you need and what it costs are in [Before you start](#before-you-start).
+
+**What it is not:** it does not write your book for you. You bring the story, the scenes you see and every decision; Claude places your key frames, proposes what goes between them, drafts to your rulings and checks the result, and nothing is done until you say so.
+
 ## The big ideas
 
-1. **The drafting and criticism chain.** Prose has no compiler, so a chapter goes through a chain cheapest first: scripts and greps, then narrow critics that each ask one question and must quote the text, then a script that throws out any finding whose quote is not really there, then a reviser that sees only the verified findings, then the checks again. Critics are trusted only after they have been tested on planted faults. **[plan/workflows/drafting/](plan/workflows/drafting/README.md)**, the largest part of the kit.
-2. **Reader tests: unit tests for a novel, by chapter.** For each chapter, a spec of what a blind reader **must get**, **must not get**, and **may only guess**, written from your notes before the prose exists. Fresh readers who have never seen the notes read the prose and are scored against it: a secret they come back sure of is a leak; a plain thing they cannot work out is shown too thinly. **[plan/workflows/reader-tests.md](plan/workflows/reader-tests.md)**.
-3. **You give the key frames; Claude fills the tweens.** You supply the scenes and beats you see; Claude places them and proposes what goes between, marked as proposals. Where a chapter has no key frame, Claude writes a brief and you dictate. **[dictation](plan/workflows/dictation.md)**, **[arc-pitch](plan/workflows/arc-pitch.md)**.
-4. **Every decision written once, as a ruling, and every line marked.** A dated ledger of your rulings; one short card per person, place and thing; every line Claude adds marked as settled, proposal or reading, so your book never blurs with the model's suggestions. **[kit/method/marks-and-ledger.md](kit/method/marks-and-ledger.md)**, **[kit/method/cards.md](kit/method/cards.md)**.
-5. **Outlines before prose, to a horizon.** The story is worked out in outlines, which are cheap to change, up to a horizon; then drafted, read and corrected; then outlined on. **[kit/method/horizon.md](kit/method/horizon.md)**.
-6. **You are the only one who says "done".** Critics find, Claude recommends, you decide.
+1. **Reader tests: unit tests for a novel, by chapter.** For each chapter, a spec of what a blind reader **must get**, **must not get**, and **may only guess**, written from your notes before the prose exists. Fresh readers who have never seen the notes read the prose and are scored against it: a secret they come back sure of is a leak; a plain thing they cannot work out is shown too thinly. It gives the prose a real answer key. **[plan/workflows/reader-tests.md](plan/workflows/reader-tests.md)**.
+2. **Critics must quote, and a script checks the quotes.** The commonest way a model critic fails is to invent a problem with confidence. Every critic finding must quote the text it is about, and a script throws out any finding whose quote is not really in the chapter before anyone acts on it. **[plan/workflows/drafting/verify.md](plan/workflows/drafting/verify.md)**.
+3. **The drafting and criticism chain.** Prose has no compiler, so a chapter goes through a chain cheapest first: scripts and greps, then narrow critics that each ask one question, then the quote check, then a reviser that sees only the verified findings, then the checks again. Critics are trusted only after they have been tested on planted faults. **[plan/workflows/drafting/](plan/workflows/drafting/README.md)**, the largest part of the kit.
+4. **You give the key frames; Claude fills the tweens.** You supply the scenes and beats you see; Claude places them and proposes what goes between, marked as proposals. Where a chapter has no key frame, Claude writes a brief and you dictate. The workflows: **[dictation](plan/workflows/dictation.md)** (you tell a scene, Claude writes it down to your words) and **[arc-pitch](plan/workflows/arc-pitch.md)** (Claude pitches the shape of an arc for you to accept or change).
+5. **Every decision written once, as a ruling, and every line marked.** A dated ledger of your rulings; one short card per person, place and thing; every line Claude adds marked as settled, proposal or reading, so your book never blurs with the model's suggestions. **[kit/method/marks-and-ledger.md](kit/method/marks-and-ledger.md)**, **[kit/method/cards.md](kit/method/cards.md)**.
+6. **Outlines before prose, to a horizon.** The story is worked out in outlines, which are cheap to change, up to a horizon; then drafted, read and corrected; then outlined on. **[kit/method/horizon.md](kit/method/horizon.md)**.
+7. **You are the only one who says "done".** Critics find, Claude recommends, you decide.
+
+## Before you start
+
+**What has been tested.** One long series (three volumes, about 250,000 words) in **first person, past tense**. Other narrations (close third, omniscient, several viewpoints, an expressive narrator) have been through one test of a single chapter, and the fixes it found are in the kit: a POV file that every critic reads (template: [plan/templates/pov.md](plan/templates/pov.md)); an attribution test for books with several viewpoints (prompt: [plan/workflows/drafting/prompts/attribution.md](plan/workflows/drafting/prompts/attribution.md)); and a knowledge guard, so an unreliable narrator's wrong beliefs are voiced on purpose and never corrected (template: [plan/templates/knowledge.md](plan/templates/knowledge.md)). They have not yet carried a whole book, so expect rough edges there.
+
+**What you need:** a computer with Claude Code installed and signed in. You do not need to know Python or git: Claude does. The kit's scripts use Python 3 and the book's history is kept in git; Claude checks both are there, helps you install either if it is missing, and runs every script and git command for you. After the setup the daily work can run from a phone ([kit/phone.md](kit/phone.md)).
+
+**What it costs.** A full render uses a lot of tokens: one chapter through the drafter and its critics runs to several hundred thousand, and a volume of twenty chapters to many millions. On a Pro or Max plan that draws on your usage limit, not a bill, and a volume will not fit in one day's allowance; on the API, at Claude Opus 5.5's price in November 2026 ($4 per million tokens read, $20 per million written), a chapter costs a few dollars and a volume tens of dollars. Prices and limits change, so measure: render one chapter first, then check `/usage` in Claude Code (or the bill) to see what share it took, before you start a volume. The token log (its form is [plan/templates/tokens.md](plan/templates/tokens.md)) records what each step cost on your book.
+
+**Where your manuscript goes.** As with any Claude Code session, the files Claude reads are sent to Anthropic to be processed, under the terms of your plan; check your account's privacy settings for whether your chats may be used to train models. The kit sends nothing anywhere else: its scripts run on your computer, and the book is pushed to a remote only if you ask.
+
+**Feedback:** open an issue for anything that breaks, confuses you, or makes Claude do something odd. Say which workflow and step you were on.
 
 ## How to start
 
@@ -33,43 +45,29 @@ Claude does the technical steps; you say what you want. Open Claude Code in an e
 
 4. Then the interview ([kit/interview/](kit/interview/README.md)), one or two sessions. After it, Claude sets up the rest of `plan/` ([stage 03](kit/pipeline/03-set-up-plan.md)) and you begin.
 
+To run the daily work from a phone once this is done, see [kit/phone.md](kit/phone.md).
+
 A book cloned from the kit can later pull improved workflows from it: ask Claude to update the kit, and it shows you any place where the new version meets your own edits.
-
-## Working from a phone
-
-Set up once on the computer; then the writing loop can run from a phone. Everything still runs on the computer, in the book's folder: the files, the scripts, the agents. The phone is a window onto that session through Claude Code's Remote Control, so you can dictate a key frame on a walk, rule on a critic's finding from the couch, or comment while you read on an ereader.
-
-**Once, at the computer:** the setup in How to start. Then start a session in the book's folder with Remote Control on, by typing `claude --remote-control "My book"` (the one command you type yourself), and open it from the Claude app on your phone. If the session is closed, `claude remote-control --continue` reattaches to the last one.
-
-**What works well from the phone:** the interview and the key-frame walk (answer by voice or by typing); dictating a scene; ruling on questions, which Claude puts a few at a time, each with a recommendation; starting a render and coming back when it is done; commenting while you read ([the read](plan/workflows/ereader.md#the-read-comments-from-the-phone)).
-
-**The gotchas:**
-- **The computer must stay on, awake and online,** with the session open. If it sleeps, the phone loses the session; set its power settings so it does not. For daily work, a small always-on machine is better than a laptop: a Raspberry Pi 5 (8 GB) or a mini PC running Linux, with the book on an SSD rather than an SD card, on wired network. Claude Code runs on it as on any Linux machine; you reach it only through the phone, and Claude can push the book to a private remote each day so a dead card or drive loses nothing.
-- **Don't read diffs or long critic reports on the phone.** Ask Claude for the verdict in a few lines, then the findings one at a time with its recommendation. The kit's `CLAUDE.md` already tells Claude to answer a phone in a few lines.
-- **Permission prompts come to the phone.** Read what you approve, as you would at the desk; an agent run or a push is worth a second look.
-- **The ereader book has to reach the reader.** Copy it over at the computer, or put the build folder in a cloud folder the reader syncs.
-- **Autocorrect and voice typing swap words.** Claude reads each message by the scene it points at, and asks only when a misread word could change a ruling.
-- **Long runs cost tokens whether you watch or not.** Each run is logged ([the token log](plan/templates/tokens.md)); check it at the computer now and then.
 
 ## Start here: your first chapter
 
 The shortest path through the method, for one chapter:
 
-1. The [intake](kit/interview/intake.md).
-2. The [interview](kit/interview/README.md). The style samples are picked here, from the intake's candidates.
-3. [Set up `plan/`](kit/pipeline/03-set-up-plan.md).
-4. Card the existing work: [card-existing](plan/workflows/card-existing.md) for the people, places and things, [scene-outlines](plan/workflows/scene-outlines.md) prompt D, and [character-sheet](plan/workflows/character-sheet.md) for the narrator.
-5. Outline one chapter ([scene-outlines](plan/workflows/scene-outlines.md) prompt O) and write its key ([reader-tests §1](plan/workflows/reader-tests.md#1-the-key)). For the first chapter the arc outline's head is enough: the shape, the ending and the chapter list as far as they are known, filled in by hand from the interview's answers.
-6. Fill in [rulings.md](plan/workflows/drafting/rulings.md) and draft the chapter ([drafter.md](plan/workflows/drafting/drafter.md)).
-7. Run [mechanical.md](plan/workflows/drafting/mechanical.md), the facts critic and the voice critic ([critics.md](plan/workflows/drafting/critics.md)), then [verify.md](plan/workflows/drafting/verify.md) and [reviser.md](plan/workflows/drafting/reviser.md).
-8. Run the [blind probe](plan/workflows/reader-tests.md#3-the-blind-probe) on that chapter.
-9. Close the session ([retrospective.md](plan/workflows/retrospective.md)).
+1. The [intake](kit/interview/intake.md): Claude lists what is in `existing/` and what it would ask you first.
+2. The [interview](kit/interview/README.md): your answers on the book, written down, and the style samples (passages of your own prose the voice is measured against), picked from the intake's candidates.
+3. [Set up `plan/`](kit/pipeline/03-set-up-plan.md): the roadmap, the state of each chapter and the ledger of rulings, ready to use.
+4. Card the existing work: one card per person, place and thing ([card-existing](plan/workflows/card-existing.md)); scene outlines taken back out of the prose you have already written ([scene-outlines](plan/workflows/scene-outlines.md), its "deconstruct" prompt); and a character sheet for the narrator ([character-sheet](plan/workflows/character-sheet.md)).
+5. Outline one chapter ([scene-outlines](plan/workflows/scene-outlines.md), its "outline" prompt) and write its reader-test key: what a blind reader must get, must not get and may only guess ([reader-tests, the key](plan/workflows/reader-tests.md#1-the-key)). For the first chapter the arc outline's head is enough: the shape, the ending and the chapter list as far as they are known, filled in by hand from the interview's answers.
+6. Fill in [rulings.md](plan/workflows/drafting/rulings.md), the rules the drafter must keep, and draft the chapter ([drafter.md](plan/workflows/drafting/drafter.md)).
+7. Check it: the scripted checks ([mechanical.md](plan/workflows/drafting/mechanical.md)), the facts critic and the voice critic ([critics.md](plan/workflows/drafting/critics.md)), the quote check ([verify.md](plan/workflows/drafting/verify.md)), and a revision that fixes only the verified findings ([reviser.md](plan/workflows/drafting/reviser.md)).
+8. Run the [blind probe](plan/workflows/reader-tests.md#3-the-blind-probe): a fresh reader's answers on that chapter, scored against its key.
+9. Close the session ([retrospective.md](plan/workflows/retrospective.md)): what was learned written down and the plan's state brought up to date.
 
 Everything else is a Refinement; each says when to add it.
 
 ## The workflows
 
-The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflows: twelve stages in order. The work runs as tasks and waves ([kit/method/tasks-and-waves.md](kit/method/tasks-and-waves.md)).
+The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflows, in order. The work runs as tasks and waves ([kit/method/tasks-and-waves.md](kit/method/tasks-and-waves.md)).
 
 | Tier | Workflows | When |
 |---|---|---|
@@ -82,9 +80,10 @@ The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflow
 |---|---|
 | [plan/workflows/](plan/workflows/README.md) | **The kit.** Every procedure, complete in itself, with its prompts. [drafting/](plan/workflows/drafting/README.md) is the largest section. |
 | [plan/templates/](plan/templates/README.md) | Empty forms for the plan, tasks, ledger, cards, sheets, outlines, the reader-test spec, reports. |
-| [tools/](tools/README.md) | Fourteen small Python scripts (standard library only): links, cards, tells and banned words, repeats, refrains, sounds, first use, reading lists, aged lines, quotes, attribution, knowledge, EPUB, and the clean check for a new book. |
+| [tools/](tools/README.md) | Small Python scripts (standard library only): links, cards, tells and banned words, repeats, refrains, sounds, first use, reading lists, aged lines, quotes, attribution, knowledge, EPUB, and the clean check for a new book. |
 | [kit/interview/](kit/interview/README.md) | The intake and interview script. |
-| [kit/pipeline/](kit/pipeline/README.md) | The twelve stages in order: when each runs and which workflows it uses. |
+| [kit/pipeline/](kit/pipeline/README.md) | The stages in order: when each runs and which workflows it uses. |
+| [kit/phone.md](kit/phone.md) | Running the daily work from a phone, and an always-on host. |
 | [kit/method/](kit/method/README.md) | The reasons: tasks and waves, the book's memory, oracles for prose, marks and the ledger, cards, horizons, key frames, agent limits, craft principles, closing cleanly. |
 | [existing/](existing/README.md) | Where your manuscripts and notes go. Claude reads it and never changes it. |
 | `example/` | A toy novel through every stage in miniature, with a worked run of the drafting chain and a reader-test spec. The only thing you delete to start a book; it stays readable in the kit's repository. |
@@ -93,7 +92,7 @@ The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflow
 ## Four things to know first
 
 - **It is slow at the start on purpose.** The first weeks are interview, cards and outlines. That is where the book is decided.
-- **Model readers flatter model prose.** They rate it roughly 0.7 to 0.9 above comparable human prose. The kit uses model readers to find where a reader slides within your book, never to rank it against human books. Your own read is the one that counts.
+- **Model readers flatter model prose.** On the interest check's 1-to-5 scale, model readers scored model prose about 0.7 to 0.9 points above published human books of the same kind, measured by giving the same readers both ([interest-check](plan/workflows/interest-check.md)). The kit uses model readers to find where a reader slides within your book, never to rank it against human books. Your own read is the one that counts.
 - **Every number here was measured on another book** (reader scores, the recall and precision bars, card and file sizes, batch sizes). Before trusting one, run it on a chapter you know is good and one you know is weak, and set your own.
 - **The rules are yours to change.** When a rule stops serving your book, change it in `plan/README.md` and say why.
 

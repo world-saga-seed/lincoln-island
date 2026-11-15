@@ -8,7 +8,7 @@ Open an issue that describes the improvement in general terms: what went wrong o
 
 ## Sending the change yourself
 
-Your book is never the place to send a change from: it is full of your work, and the kit carries none of it. So a change goes through a second copy, and you look at it there before anyone else does.
+Your book is never the place to send a change from: it is full of your work, and the kit carries none of it. So a change goes through a second copy, and you look at it there before anyone else does. Claude runs each step below for you; you say what you want and read what it shows you.
 
 1. **Once: make your fork.** Say to Claude: "Fork the World Saga Seed kit on GitHub, clone the fork into a folder beside my book, and add the kit as its upstream." Your book stays as it is; the fork is a clean copy of the kit. During the alpha both the kit and your fork are private.
 2. **Port the change on a branch.** Ask Claude to bring the fork up to date, start a branch, and carry the improvement from your book into the fork's copy of the same workflow, prompt or script, written for any book. Where it needs an example, use the toy novel in `example/`.
@@ -18,8 +18,8 @@ Your book is never the place to send a change from: it is full of your work, and
    git diff upstream/master | python3 tools/check_leak.py --book ../my-book
    ```
 
-   It lists any line of the change holding a name from your cards or character sheets, a run of eight or more words that also appears in your prose, notes or manuscripts, or an email address. It catches only exact matches, so Claude's read and yours are the real check: a plot point retold, a coined word, a character's habit. When you are satisfied, approve and merge it in your fork.
-4. **Submit it to the kit:** a pull request from your fork to the kit, saying what it fixes and what it did for you. If you measured it (a critic's catch on planted faults before and after, or the token log's rows), include the numbers; numbers from your book are fine without quoting it. If not, say so, and it can be measured on the example.
+   It lists any line of the change holding a name from your cards or character sheets, a run of eight or more words that also appears in your prose, notes or manuscripts, or an email address. It catches only exact matches, so Claude's read and yours are the real check: a plot point retold, a coined word, a character's habit. When you are satisfied, merge it in your fork: merging is your approval. (GitHub does not let you approve your own pull request, so there is no Approve button to look for.)
+4. **Submit it to the kit:** a pull request from the same branch of your fork to the kit (not from your fork's main branch, so your main stays a clean copy of the kit whatever the kit does with the change), saying what it fixes and what it did for you. If you measured it (a critic's catch on planted faults before and after, or the token log's rows), include the numbers; numbers from your book are fine without quoting it. If not, say so, and it can be measured on the example.
 
 ## What a change keeps
 

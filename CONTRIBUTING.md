@@ -27,4 +27,4 @@ Your book is never the place to send a change from: it is full of your work, and
 - No personal information: no email addresses or account names, and no names of real people beyond the kit's credit line.
 - No text from published books, yours or anyone's, beyond a short phrase.
 
-Contributions are given under the kit's licenses: [CC BY 4.0](LICENSE) for the docs, [MIT](tools/LICENSE) for the scripts.
+**The license.** Every contribution is given under the same licenses as the rest of the kit: [CC BY 4.0](LICENSE) for the docs, [MIT](tools/LICENSE) for the scripts. A pull request to the kit opens with a short form whose first box says so; ticking it is your consent, and a change is not taken without it. Give only what you wrote or have the right to give. An idea told in an issue is ported under the same licenses.

@@ -27,7 +27,23 @@ The audit asks three questions of every row and every beat the actor drives, one
 
 ## The light pass (Basic)
 
-Without full logs, one critic pass per chapter outline asks the three questions of each offstage move the chapter's beats rest on: who must have gone somewhere, carried something, learned something or decided something off the page for this beat to happen. Its findings that change an outline line go into `interview.md` as the full audit's do. When offstage actors drive many beats, move up to the full log.
+Without full logs, the three critics run over the horizon's outlines at one of three settings, the writer's choice; **Quick is the default.** They ask their questions of every beat and every person who acts, including the offstage moves a beat rests on: who must have gone somewhere, carried something, learned something or decided something off the page for this beat to happen. Findings that change an outline line go into `interview.md` as the full audit's do. When offstage actors drive many beats, add the full log.
+
+| Setting | What runs | Tokens per chapter | Found, in the kit's test | The writer's time |
+|---|---|---|---|---|
+| **Quick** (default) | the **staging agent** once: one agent takes the chapters in order; for each, it reads the chapter, collects the state (who is where, holds what, knows what from whom, wants what), critiques it, and writes its findings and a handoff before reading the next | about 45k | 60 to 73% of planted faults in a run | one interview |
+| **Thorough** | the staging agent twice, merged | about 90k | 80% together | about the same, since duplicates merge |
+| **Deep** (Refinement) | the **chain**: one fresh agent per critic per chapter, each reading the handoff of the one before | about 100k a critic, 300k for all three | finds different faults, not more; with Thorough, 93% | one interview |
+
+The numbers come from one test, on one book: fifteen faults planted in three chapters' outlines, each setting run twice. Run the [injection test](#the-injection-test) on your own book to get yours. When to recommend a higher setting is in [choosing a check](../../kit/method/choosing-a-check.md).
+
+- **Merge before the writer reads.** Every run of a pass goes into one `interview.md`, duplicates merged, so your time follows the distinct faults, not the number of runs.
+- **The drops.** A critic argues real faults away ("reachable", "plausible"). On merging, a drop that another run raised is promoted into the interview with both reasons; the rest follow the interview as a one-line appendix, the drops that cite no rule marked for a skim.
+- **What none of them catch.** A cause removed, a beat with nothing to start it, escaped every run in the test. The interview's question (why did they?) and your own read are the check for it.
+
+## The injection test
+
+To measure a setting on your book: copy a few chapters' outlines somewhere the critics will read instead of the real ones (a separate checkout works); plant ten to fifteen faults, a couple for each question, each a plausible one-line change; keep the key where no critic can read it; run each setting twice; score how many plants each run found, how many it raised that were not plants, and its tokens and minutes. Claude can do all of it; ask it to "run the injection test on the three critics".
 
 ## The log
 

@@ -13,6 +13,7 @@ The pipeline says what to do. These pages say why, so you can bend a step withou
 | [horizon.md](horizon.md) | Outline to a horizon, render it, read it, then outline on. Work inside the horizon. |
 | [key-frames.md](key-frames.md) | You give the key frames; Claude gives the tweens. Where there is no frame, Claude asks. |
 | [agents.md](agents.md) | Few agents, narrow briefs, named files, fresh eyes. Inventions logged, checked apart. |
+| [choosing-a-check.md](choosing-a-check.md) | The critics run at Quick, Thorough or Deep. Quick is the default; spend more where a missed fault is expensive. |
 | [craft.md](craft.md) | The craft rules the method grew: causes, clues, lulls, voice, habits, restraint. |
 | [session-close.md](session-close.md) | Why a session, a task and a volume end cleanly, and what the writer says to move the work along. |
 

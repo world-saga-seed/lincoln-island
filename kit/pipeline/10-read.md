@@ -6,7 +6,7 @@
 
 **Uses:** [reader-tests](../../plan/workflows/reader-tests.md) (the blind probe, Basic; the reread test and the closed-book quiz, Refinements); as Refinements, [series-critic](../../plan/workflows/series-critic.md), [interest-check](../../plan/workflows/interest-check.md), [ereader](../../plan/workflows/ereader.md), [voice-render](../../plan/workflows/voice-render.md) (optional).
 
-**What happens:** blind readers test the prose against the spec, failures route back ([reader-tests](../../plan/workflows/reader-tests.md#how-failures-route-back)), and the writer reads.
+**What happens:** blind readers test the prose against the spec, failures route back ([reader-tests](../../plan/workflows/reader-tests.md#how-failures-route-back)), and the writer reads the volume on an ereader, typing comments on a phone into a Remote Control session that files each one as it comes: lore to the ledger and cards, pacing and lines to the Next pass lists, reshoots to the outline ([the read](../../plan/workflows/ereader.md#the-read-comments-from-the-phone)).
 
 **Outputs:** the scored reader-test tables, the merged interest check, the trims with their seams checked, the book, the filed comments. The kit's example (in the kit's repository, `example/reports/`) has a mock probe and a mock interest table.
 

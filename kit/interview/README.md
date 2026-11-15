@@ -25,7 +25,7 @@ Before the first question, Claude creates `plan/settled/ledger/` (today's file f
 
 ## How long it takes
 
-One or two sessions of an hour or so. A writer with a lot of existing material may need a third, spread across the carding stage, because the cards will raise questions the interview did not.
+One or two sessions of an hour or so for sections 1 to 9. Then the world, ambiance and cast sections (10 to 12) run across the carding stage, a session or two more, because the cards show what is already written and raise questions the first interview did not. The assumed-elements pass (13) closes the carding and comes back before each horizon is outlined.
 
 ## What comes out
 

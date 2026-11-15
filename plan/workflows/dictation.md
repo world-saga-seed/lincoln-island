@@ -6,6 +6,19 @@ The writer dictates the scene a chapter needs, and Claude cards it as key frames
 
 **When.** For every chapter graded **thin** or **none** for key frames, in story order, up to the horizon. In conversation, with the writer at the keyboard. No agents.
 
+## The volume walk
+
+Before drafting a volume, every chapter in it needs a writer's key frame. The walk gets there one chapter at a time:
+
+1. **Grade the volume.** List every chapter in the horizon with its key-frame grade from its outline: **yes** (the writer has settled the main beat), **thin** (a beat is named, not how it plays) or **none**. Put the list in the task, gaps first, then in story order, and show it to the writer: how many of each, and where they cluster.
+2. **One gap a session, or as many as the writer has in them,** in story order, by the loop below. Story order matters: each dictation changes what the next chapter starts from.
+3. **Regrade as you go.** A dictation often settles a neighbor's beat too. Mark it and skip it.
+4. **The writer's own frames come first.** If the writer arrives with a scene in mind for any chapter, take it then, out of order, and card it the same way.
+5. **Ripple after every few,** and at the end ([ripple](ripple.md)).
+6. **Done when** no chapter in the volume is graded none, and every thin chapter has been offered a brief. The writer may leave a thin one thin, and says so. Then the volume goes to the gate.
+
+Keep a pace the writer can hold. A key frame a day across a few weeks fills a volume and leaves the writer fresh for each scene.
+
 ## The loop
 
 1. **Gather what is already settled for the chapter** before writing the brief: its outline and notes, and every paper that settled something for it without landing it in the outline. `grep` the chapter number in `plan/settled/ledger/`, the actor logs and the task papers. A settled beat found there goes into the outline now, under its ID.

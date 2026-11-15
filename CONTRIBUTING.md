@@ -4,6 +4,8 @@ The kit is a cooperative tool: it gets better from what writers find while using
 
 ## The easy way: tell us
 
+**During the alpha, until 15 December 2026,** issues, comments and pull requests are open to collaborators only. To comment, ask to be added as a collaborator in the Discord discussion where the alpha was shared; anyone can read, clone and fork the kit meanwhile.
+
 Open an issue that describes the improvement in general terms: what went wrong or could be better, what you changed, and what it did. No names, scenes or lines from your book are needed; "the facts critic kept flagging my narrator's dialect as errors, so I added a line to its brief" is enough. It will be ported into the kit for you.
 
 ## Sending the change yourself

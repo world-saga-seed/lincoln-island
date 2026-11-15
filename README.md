@@ -54,6 +54,8 @@ Prices and limits change, so measure: render one chapter, then type `/usage` in 
 
 **Where your manuscript goes.** As with any Claude Code session, the files Claude reads are sent to Anthropic to be processed, under the terms of your plan; check your account's privacy settings for whether your chats may be used to train models. The kit sends nothing anywhere else: its scripts run on your computer, and the book is copied to an online backup (such as a private GitHub repository) only if you ask.
 
+**During the alpha, until 15 December 2026,** issues, comments and pull requests are open to collaborators only. To comment, ask to be added as a collaborator in the Discord discussion where the alpha was shared; anyone can read, clone and fork the kit meanwhile.
+
 **Feedback:** open an issue for anything that breaks, confuses you, or makes Claude do something odd. Say which workflow and step you were on. To give back an improvement you found (a better critic, a voice rule, a cheaper step), see [CONTRIBUTING.md](CONTRIBUTING.md): describe it in an issue, or send it yourself through your own fork, reviewed there first.
 
 ## How to start

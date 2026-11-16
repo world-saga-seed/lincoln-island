@@ -8,45 +8,49 @@ The two largest are **[drafting/](drafting/README.md)**, the drafting and critic
 
 ## Every workflow
 
-**Basic** workflows run from the first chapter. A **Refinement** is added when its trigger shows up; each workflow's first line says so.
+Each workflow has three labels.
 
-| Workflow | Tier | Add it when |
-|---|---|---|
-| [actor-log](actor-log.md) | Basic (the light pass of the three critics); Refinement (the full log) | every horizon; the full log when an offstage actor drives a beat |
-| [aims-sweep](aims-sweep.md) | Refinement | a critic or drafter treats a "the reader feels…" line as already done |
-| [apply-terms](apply-terms.md) | Refinement | a placeholder name is settled |
-| [arc-pitch](arc-pitch.md) | Refinement | an arc has enough frames to lay out |
-| [capture-notes](capture-notes.md) | Refinement | the writer brings an outside document |
-| [card-audit](card-audit.md) | Refinement | cards pass about 1,500 words |
-| [card-existing](card-existing.md) | Basic |  |
-| [character-sheet](character-sheet.md) | Basic |  |
-| [consistency-check](consistency-check.md) | Refinement | several chapters are outlined and a horizon is about to be drafted |
-| [daily-life-study](daily-life-study.md) | Refinement | scenes default to the reader's own world |
-| [dictation](dictation.md) | Refinement | a chapter is graded thin or none |
-| [distill](distill.md) | Refinement | a card collects restatements |
-| [draft-cards](draft-cards.md) | Refinement | a second chapter meets people a drafter made up |
-| [drafting/](drafting/README.md) | Basic | the core; its later steps are Refinements, each marked |
-| [echo-audit](echo-audit.md) | Refinement | an outcome rhymes with real history |
-| [ereader](ereader.md) | Refinement | a stretch is long enough to read as a book |
-| [habits](habits.md) | Refinement | one character's tic shows up on another |
-| [interest-check](interest-check.md) | Refinement | a volume is refined and a dull stretch is feared |
-| [ledger-roll](ledger-roll.md) | Refinement | a ledger file runs past its day |
-| [logic-check](logic-check.md) | Refinement | the arc turns on timing, travel or who-knows-what, or an outline already broke on a date or a cause |
-| [outline-clean](outline-clean.md) | Refinement | outlines written before a restructure are about to be redrafted from |
-| [proposals](proposals.md) | Refinement | the setting needs a set of things the notes leave thin |
-| [publication](publication.md) | Refinement | a volume is about to be released (once per volume) |
-| [reader-tests](reader-tests.md) | Basic | the key and the blind probe; the story questions, reread test and quiz are Refinements, each marked |
-| [readings-inventory](readings-inventory.md) | Refinement | readings pile up |
-| [restructure](restructure.md) | Refinement | a topic file passes about 5,000 words with two subjects |
-| [retire](retire.md) | Refinement | closed tasks pile up |
-| [retrospective](retrospective.md) | Basic |  |
-| [reveal-pacing](reveal-pacing.md) | Refinement | the book withholds a large truth |
-| [ripple](ripple.md) | Refinement | a settled change contradicts earlier notes |
-| [scene-outlines](scene-outlines.md) | Basic |  |
-| [series-critic](series-critic.md) | Refinement | a clue's plant and payoff are both drafted |
-| [task-form](task-form.md) | Basic |  |
-| [telephone-decay](telephone-decay.md) | Refinement | an in-world text (a scripture, a legend, an old record) must hide the truth beneath it |
-| [voice-render](voice-render.md) | Refinement | the writer wants to listen |
+- **Phase**, where the book is: **Intake** (knowing the existing work), **Exploration** (developing the world and story: frames, dictation, proposals, checks on the plan), **Synthesis** (outlines and drafts), **Finishing** (reading, polishing and release), or **Any** (upkeep and housekeeping, at every phase). The stages in `kit/pipeline/` fall under these phases: 01 to 04 Intake, 05 and 07 Exploration, 06 and 08 Synthesis, 09, 10 and 12 Finishing, 11 Any.
+- **Level**, whether your book needs it: **Basic** workflows run from the first chapter; a **Refinement** is added when its trigger shows up in any book; a **Speciality** only when the book is of a kind that needs it. Each workflow's first line says which.
+- **Status**, how far it is proven, on the one series the kit came from: **Proven**, tested against a control (planted faults, a key written before the prose) and used repeatedly; **Tested** against a control but run only once or twice; **Used** repeatedly, never against a control; **Experimental**, run only a few times. None is yet proven on a second book. If you run one against a control, log the result in its Lessons.
+
+| Workflow | Phase | Level | Status | Add it when |
+|---|---|---|---|---|
+| [capture-notes](capture-notes.md) | Intake | Refinement | Experimental | the writer brings an outside document |
+| [card-existing](card-existing.md) | Intake | Basic | Used |  |
+| [character-sheet](character-sheet.md) | Intake | Basic | Used |  |
+| [arc-pitch](arc-pitch.md) | Exploration | Refinement | Used | an arc has enough frames to lay out |
+| [consistency-check](consistency-check.md) | Exploration | Refinement | Used | several chapters are outlined and a horizon is about to be drafted |
+| [daily-life-study](daily-life-study.md) | Exploration | Refinement | Experimental | scenes default to the reader's own world |
+| [dictation](dictation.md) | Exploration | Refinement | Used | a chapter is graded thin or none |
+| [echo-audit](echo-audit.md) | Exploration | Speciality | Experimental | an outcome rhymes with real history |
+| [logic-check](logic-check.md) | Exploration | Refinement | Used | the arc turns on timing, travel or who-knows-what, or an outline already broke on a date or a cause |
+| [proposals](proposals.md) | Exploration | Refinement | Experimental | the setting needs a set of things the notes leave thin |
+| [reveal-pacing](reveal-pacing.md) | Exploration | Speciality | Experimental | the book withholds a large truth |
+| [ripple](ripple.md) | Exploration | Refinement | Used | a settled change contradicts earlier notes |
+| [telephone-decay](telephone-decay.md) | Exploration | Speciality | Tested | an in-world text (a scripture, a legend, an old record) must hide the truth beneath it |
+| [actor-log](actor-log.md) | Synthesis | Basic (the light pass of the three critics); Refinement (the full log) | Proven | every horizon; the full log when an offstage actor drives a beat |
+| [aims-sweep](aims-sweep.md) | Synthesis | Refinement | Experimental | a critic or drafter treats a "the reader feels…" line as already done |
+| [draft-cards](draft-cards.md) | Synthesis | Refinement | Used | a second chapter meets people a drafter made up |
+| [drafting/](drafting/README.md) | Synthesis | Basic | Proven | the core; its later steps are Refinements, each marked |
+| [habits](habits.md) | Synthesis | Refinement | Used | one character's tic shows up on another |
+| [outline-clean](outline-clean.md) | Synthesis | Refinement | Used | outlines written before a restructure are about to be redrafted from |
+| [reader-tests](reader-tests.md) | Synthesis | Basic | Proven | the key and the blind probe; the story questions, reread test and quiz are Refinements, each marked |
+| [scene-outlines](scene-outlines.md) | Synthesis | Basic | Used |  |
+| [ereader](ereader.md) | Finishing | Refinement | Used | a stretch is long enough to read as a book |
+| [interest-check](interest-check.md) | Finishing | Refinement | Proven | a volume is refined and a dull stretch is feared |
+| [publication](publication.md) | Finishing | Refinement | Experimental | a volume is about to be released (once per volume) |
+| [series-critic](series-critic.md) | Finishing | Speciality | Experimental | a clue's plant and payoff are both drafted |
+| [voice-render](voice-render.md) | Finishing | Speciality | Experimental | the writer wants to listen |
+| [apply-terms](apply-terms.md) | Any | Refinement | Experimental | a placeholder name is settled |
+| [card-audit](card-audit.md) | Any | Refinement | Used | cards pass about 1,500 words |
+| [distill](distill.md) | Any | Refinement | Used | a card collects restatements |
+| [ledger-roll](ledger-roll.md) | Any | Refinement | Used | a ledger file runs past its day |
+| [readings-inventory](readings-inventory.md) | Any | Refinement | Experimental | readings pile up |
+| [restructure](restructure.md) | Any | Refinement | Used | a topic file passes about 5,000 words with two subjects |
+| [retire](retire.md) | Any | Refinement | Used | closed tasks pile up |
+| [retrospective](retrospective.md) | Any | Basic | Used |  |
+| [task-form](task-form.md) | Any | Basic | Used |  |
 
 ## Belongs here, and does not
 

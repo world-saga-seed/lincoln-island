@@ -1,6 +1,6 @@
 # Voice render (optional): a chapter as audio
 
-*Refinement. Add this when the writer wants to listen.*
+*Speciality, for a book that needs it. Add this when the writer wants to listen.*
 
 ## Purpose and when
 

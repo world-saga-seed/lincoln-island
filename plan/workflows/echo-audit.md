@@ -1,6 +1,6 @@
 # Precedent audit: real history's outcomes, the story's causes
 
-*Refinement. Add this when an outcome rhymes with real history.*
+*Speciality, for a book that needs it. Add this when an outcome rhymes with real history.*
 
 When an outcome in the story rhymes with real history (a price collapse, a guild war, a famine, an institution's rise and fall), it is plausible by definition, because it happened. The only question is whether the setting gives enough cause for it to happen again here. This audit lists each such outcome, the causes that produced it in history, and the cause in the notes that stands for each, and finds where an outcome runs ahead of its causes.
 

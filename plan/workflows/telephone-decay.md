@@ -1,6 +1,6 @@
 # Telephone decay: wearing a text until a cold reader cannot see through it
 
-*Refinement. Add it when an in-world text (a scripture, a legend, an old record) must hide the truth beneath it.*
+*Speciality, for a book that needs it. Add it when an in-world text (a scripture, a legend, an old record) must hide the truth beneath it.*
 
 How a full, writer-side text (a founder's own account, a document that tells what really happened) is worn into the version the world tells now, so that a cold reader enjoys it and cannot reach what is held back, while every planted clue survives. A text written straight to be vague reads as written to be vague; a text worn down from a true one keeps the true one's shape and grain.
 

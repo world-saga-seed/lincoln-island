@@ -1,6 +1,6 @@
 # Reveal pacing: what the reader can know, and when
 
-*Refinement. Add this when the book withholds a large truth.*
+*Speciality, for a book that needs it. Add this when the book withholds a large truth.*
 
 An agent maps what a careful reader can know after each chapter, and flags any secret that can be worked out before the book means to give it. Run it when the outlines of a horizon are settled, whenever a secondary layer (letters, interludes, other narrators) is added or moved, and before drafting.
 

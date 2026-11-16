@@ -1,6 +1,6 @@
 # Series critic: is each clue fair, and still there?
 
-*Refinement. Add this when a clue's plant and payoff are both drafted.*
+*Speciality, for a book that needs it. Add this when a clue's plant and payoff are both drafted.*
 
 ## Purpose
 

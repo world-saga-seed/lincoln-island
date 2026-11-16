@@ -11,6 +11,7 @@ A skipped close leaves debris: finished tasks still "Executing", stopped runs wh
 3. **Rulings** are on the ledger, each as one sentence.
 4. **Results are in canon:** facts on their cards (one clean version each), beats in their outlines. `grep -rn "tasks/task-<id>" world story` finds nothing.
 5. **Methods are kept:** a procedure worth repeating goes to `plan/workflows/` with its lessons; a script a second task will need goes to `tools/`.
+5a. **Update a workflow's status** in [the workflows index](README.md#every-workflow) when the task changed it: a workflow run against a control (planted faults, a key written first) moves up to Tested, and to Proven once it has also been used repeatedly; a workflow used for the fifth time moves from Experimental to Used.
 6. **Move the closed task** to `plan/archive/` (Basic). Retire it fully ([retire](retire.md)) once closed tasks pile up (Refinement).
 7. **Rebuild the indexes:** `python3 tools/cards.py build`.
 8. **Check:** `python3 tools/links.py` prints 0 broken.

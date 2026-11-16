@@ -1,27 +1,49 @@
 # Tools
 
-Thirteen small Python scripts. Standard library only (Python 3.8 or later), no paths written into them, everything set by arguments. They come with the clone, in `tools/`; run each from the book's top folder. Every script answers `--help`.
+Sixteen small Python scripts. Standard library only (Python 3.8 or later), no paths written into them, everything set by arguments. They come with the clone, in `tools/`; run each from the book's top folder. Every script answers `--help`.
 
 They give the method its mechanical checks: verdicts nobody argues with, under every judgment a critic or reader makes. **Try each one on a case it must catch before you trust a clean result from it** (a planted broken link, a planted banned word).
+
+Every script is tested as code, on a planted case in the kit's `example/` (the list is at the end). Only `scale.py` has also been proven on a real book's prose, against planted faults and in a sweep; the rest are proven as code, not yet as craft.
+
+They come in three levels. Start with the basic ones; add the refinement checks when a draft stands; take a speciality tool only when your book needs it.
+
+### Basic
+
+*For every book and every chapter: the links hold, the cards are in form, each run's reading list, quotes that are really in the text, and an ereader build to read from.*
 
 | Script | Does | Typical run |
 |---|---|---|
 | `links.py` | counts broken links (missing file or missing `#heading`) in every `.md` file; skips web links and links inside code | `python3 tools/links.py -v` |
 | `cards.py` | checks every card's five-line head, builds each card folder's index table from the heads, finds cards by word, writes the subject index | `python3 tools/cards.py check` · `build` · `find tide` · `index` |
-| `scale.py` | the viewpoint's height and body landmarks at a chapter, and every size phrase on its page, with repeats of the crowd-from-below view within two chapters marked | `python3 tools/scale.py 00400 --height 139 --other Ada=141 --prose story/prose` |
+| `reading.py` | one chapter's reading list: its outline's and notes' links resolved to files and line ranges, the cards and sheets it names, the chapter before, the digest | `python3 tools/reading.py 00400 --step facts --digest story/volume/1-digest.md` |
+| `quotes.py` | checks that every quote in a report is really in the text it quotes | `python3 tools/quotes.py findings.md --in story/prose/00400-*.md` |
+| `epub.py` | builds an EPUB of chosen chapters, each paragraph tagged with its source line | `python3 tools/epub.py --title "Volume 1" --out build/v1.epub story/prose/00*.md` |
+| `check_clean.py` | checks that a book cloned from the kit has nothing left of the example: no `example/`, no name from it, no link into it | `python3 tools/check_clean.py` |
+
+### Refinement
+
+*For the prose over a volume: the model's texture and habit words, phrases and refrains repeated across chapters, setting words used before they are set up, and old drafts carried into a redraft. Run them once a draft stands, before the critics.*
+
+| Script | Does | Typical run |
+|---|---|---|
 | `tells.py` | texture numbers for chapters (similes, "and" chains, negations, sentence spread, kicker endings) and a scan for banned words | `python3 tools/tells.py story/prose/00400-*.md --banned story/voice/banned.txt` |
 | `repeats.py` | phrases of 5 to 8 words found in N or more chapters, and stock patterns counted per chapter | `python3 tools/repeats.py story/prose/0*.md --min-files 3 --narration` |
-| `quotes.py` | checks that every quote in a report is really in the text it quotes | `python3 tools/quotes.py findings.md --in story/prose/00400-*.md` |
-| `check_clean.py` | checks that a book cloned from the kit has nothing left of the example: no `example/`, no name from it, no link into it | `python3 tools/check_clean.py` |
 | `refrains.py` | a volume's refrains counted per chapter from a watch list, and sentences repeated near word for word in three chapters or more | `python3 tools/refrains.py story/prose/01*.md --list story/voice/refrains.txt --batch 3` |
-| `sounds.py` | every sound span (phonetic letters between slashes) with its line, speech or narration, earlier uses and forbidden symbols; flags a volume where the device is rare | `python3 tools/sounds.py story/prose/*.md --batch 3 --forbid "ɒ ː ɹ"` |
 | `firstuse.py` | words a chapter is the first to use that the cards use too: setting words that may need setting up | `python3 tools/firstuse.py story/prose/*.md --batch 1` |
-| `reading.py` | one chapter's reading list: its outline's and notes' links resolved to files and line ranges, the cards and sheets it names, the chapter before, the digest | `python3 tools/reading.py 00400 --step facts --digest story/volume/1-digest.md` |
 | `aged.py` | outline, note and card lines that may carry an old draft into a redraft | `python3 tools/aged.py story/outline/00*.md --cutoff 2027-04-01 --retired story/prose/00*.md` |
+
+### Speciality
+
+*For some books only, by what the book does: a viewpoint whose size is not an adult's, sounds written out in letters, several viewpoint heads, a narrator who knows less or believes wrongly, and a change sent back to the kit.*
+
+| Script | Does | Typical run |
+|---|---|---|
+| `scale.py` | the viewpoint's height and body landmarks at a chapter, and every size phrase on its page, with repeats of the crowd-from-below view within two chapters marked | `python3 tools/scale.py 00400 --height 139 --other Ada=141 --prose story/prose` |
+| `sounds.py` | every sound span (phonetic letters between slashes) with its line, speech or narration, earlier uses and forbidden symbols; flags a volume where the device is rare | `python3 tools/sounds.py story/prose/*.md --batch 3 --forbid "ɒ ː ɹ"` |
 | `attribution.py` | unlabeled paragraphs for a blind attribution test in a book with several viewpoint heads, and the key to score it | `python3 tools/attribution.py story/prose/03*.md --heads "03100-x.md:1-40=Ada,03100-x.md:41-200=Ben" --out attribution.md --key key.md` |
-| `check_leak.py` | checks that a change meant for the kit carries nothing of your book: names from its cards and sheets, runs of words from its prose and notes, email addresses ([CONTRIBUTING](../CONTRIBUTING.md)) | `git diff upstream/master \| python3 tools/check_leak.py --book ../my-book` |
 | `knowledge.py` | the knowledge-guard entries in force at one chapter (what each narrating head knows, believes wrongly and does not know), for the drafter's and critics' briefs | `python3 tools/knowledge.py 00500 --out tmp/knowledge-00500.md` |
-| `epub.py` | builds an EPUB of chosen chapters, each paragraph tagged with its source line | `python3 tools/epub.py --title "Volume 1" --out build/v1.epub story/prose/00*.md` |
+| `check_leak.py` | checks that a change meant for the kit carries nothing of your book: names from its cards and sheets, runs of words from its prose and notes, email addresses ([CONTRIBUTING](../CONTRIBUTING.md)) | `git diff upstream/master \| python3 tools/check_leak.py --book ../my-book` |
 
 ## Notes on each
 

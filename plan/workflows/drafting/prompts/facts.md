@@ -21,6 +21,12 @@ Read the POV file first: story/voice/pov-{N}.md if it exists, else story/voice/p
 it names the heads the narration is in.
 Do not read any later outline. Judge only facts: ignore voice, style, pacing and taste.
 
+Scale. {SCALE} is the scale sheet with the page's size phrases (tools/scale.py --prose).
+Judge each against the heights, the outline's and notes' sizes, and the card of the object
+or creature, and read the scale finder's list, <batch folder>/scale-finds-{N}.md, for the
+sizes shown by action; judge from its quotes, never its glosses: a size they contradict is a break; a size the outline gives and the page
+changes is a break; a "repeat near" is taste, direction "vary the reference".
+
 Knowledge guards. {KNOWLEDGE} holds what each narrating head knows, believes wrongly and
 does not know at this chapter, the entries in force from its guard in
 story/voice/knowledge/. An entry marked as turning in this chapter holds up to the beat
@@ -54,5 +60,7 @@ acceptable answer, and inventing a finding is worse than missing one. Write the 
 ```
 
 **`{BATCH_NOTES}`** is what this batch has settled that the files do not show yet: a ruling the writer gave this session that is on the ledger but not yet on its card or outline, one line each with its ledger ID. It may be empty; then delete the placeholder line.
+
+**`{SCALE}`** is the file `python3 tools/scale.py {N} --height CM --other NAME=CM --prose story/prose > <batch folder>/scale-{N}.md` writes, the viewpoint's height taken from their sheet's heights table at this chapter. A book whose viewpoint is an adult among adults may delete the Scale paragraph.
 
 **`{KNOWLEDGE}`** is the file `python3 tools/knowledge.py {N} --out <batch folder>/knowledge-{N}.md` writes: the knowledge-guard entries in force at this chapter, for every head that has a guard. A book with no guards writes "none"; then delete the Knowledge guards paragraph.

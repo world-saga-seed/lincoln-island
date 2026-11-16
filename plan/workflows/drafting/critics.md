@@ -67,6 +67,10 @@ Every critic writes the same form ([plan/templates/critic-report.md](../../templ
 
 Each confirmed out-of-world phrase becomes a line in the banned list, so next time the grep catches it for free. Its shifted phrasing ("what the narrator could say instead, built from their world") goes into the voice sheet's idiom list, once the writer has approved it. The banned list finds only what is already on it; the critic finds what should be. Run both.
 
+## Cheap finders for detail checks
+
+For a detail check (scale, counts, names, repeats), run a cheap model as a finder first: it lists every candidate line and never judges, and a script or the stronger critic judges the list. It almost always pays: one real catch tells the stronger agent where to look, and the fix is a grep away. Never trust the finder's gloss over its quote; a cheap reader can read a line backwards. First case: [the scale finder](prompts/scale-finder.md), which in a planted test found all fifteen warped sizes, the five shown only by action among them, and three times the lines the pattern script finds, for about 18k tokens a chapter.
+
 ## Outline critics
 
 *Refinement. Add these when an arc of several chapters is outlined.*

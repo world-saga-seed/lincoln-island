@@ -8,6 +8,7 @@ They give the method its mechanical checks: verdicts nobody argues with, under e
 |---|---|---|
 | `links.py` | counts broken links (missing file or missing `#heading`) in every `.md` file; skips web links and links inside code | `python3 tools/links.py -v` |
 | `cards.py` | checks every card's five-line head, builds each card folder's index table from the heads, finds cards by word, writes the subject index | `python3 tools/cards.py check` · `build` · `find tide` · `index` |
+| `scale.py` | the viewpoint's height and body landmarks at a chapter, and every size phrase on its page, with repeats of the crowd-from-below view within two chapters marked | `python3 tools/scale.py 00400 --height 139 --other Ada=141 --prose story/prose` |
 | `tells.py` | texture numbers for chapters (similes, "and" chains, negations, sentence spread, kicker endings) and a scan for banned words | `python3 tools/tells.py story/prose/00400-*.md --banned story/voice/banned.txt` |
 | `repeats.py` | phrases of 5 to 8 words found in N or more chapters, and stock patterns counted per chapter | `python3 tools/repeats.py story/prose/0*.md --min-files 3 --narration` |
 | `quotes.py` | checks that every quote in a report is really in the text it quotes | `python3 tools/quotes.py findings.md --in story/prose/00400-*.md` |

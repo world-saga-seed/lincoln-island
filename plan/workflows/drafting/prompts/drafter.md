@@ -42,6 +42,10 @@ Keep to the texture in the rulings: measure with
   python3 tools/tells.py story/prose/{N}-{SLUG}.md --banned story/voice/banned.txt
 and fix every banned-word hit that is narration.
 
+Scale. {SCALE} gives the viewpoint's height at this chapter and where a counter, a belt or a
+doorway meets them. Measure every size on the page from the one who sees it, at that height,
+and from the card of the object or creature.
+
 No notes, marks or comments inside the prose file. Where a beat cannot be written without
 inventing a fact the notes lack, write around it and list it.
 
@@ -58,5 +62,7 @@ Finish with a short report:
 ```
 
 **`{EXTRA}`** is where the supervisor puts what this chapter's outline gets wrong against the rulings, and what the neighboring chapters drafted at the same time will have done ("00300 ends with the narrator at the gate at midday; open there"). For a piece in another narrator's voice, `{EXTRA}` also says which rules of the voice sheet belong to the main narrator only and do not apply, and gives the piece's own voice line.
+
+**`{SCALE}`** is the file `python3 tools/scale.py {N} --height CM --other NAME=CM --prose story/prose > <batch folder>/scale-{N}.md` writes, the viewpoint's height taken from their sheet's heights table at this chapter. A book whose viewpoint is an adult among adults may delete the Scale paragraph.
 
 **`{KNOWLEDGE}`** is the file `python3 tools/knowledge.py {N} --out <batch folder>/knowledge-{N}.md` writes. A book with no guards writes "none"; then delete the line that names it.

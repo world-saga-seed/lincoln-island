@@ -16,16 +16,20 @@ column if the register has one: body, motif, word or foreshadow are blue; anythi
 the outline or notes link, is a dotted underline. Every marked span carries a tooltip with its source.
 
 --author-written lists chapters the writer wrote whole before their outlines were taken from them: every
-beat in their outline and notes counts as a keyframe unless the bullet says it is a proposal.
+beat in their outline and notes counts as a keyframe unless the bullet says it is a proposal. A notes
+section headed "Plants" or "Reread plants" (plants for later chapters) is foreshadowing, whatever its
+bullets say.
 """
 import collections, glob, html, json, os, re, subprocess, sys
 
 TMP, OUT = 'tmp/markup', 'build/markup'
-ID = re.compile(r'\b[A-Z]\d{4}-\d+\b')
+ID = re.compile(r'\b[A-Z]\d{4}-\d+(?:-\d+)?\b')
 HOOK_COLOUR = {'body': 'foreshadow', 'motif': 'foreshadow', 'word': 'foreshadow', 'foreshadow': 'foreshadow', 'herring': 'herring',
                'rule': 'puzzle', 'count': 'puzzle', 'name': 'puzzle'}
 AUTHOR = re.compile(r'settled by the (?:author|writer)|the (?:author|writer)\'s (?:key ?frames?|frames|word|ruling|pitch|dictation)|confirmed by the (?:author|writer)|dictated', re.I)
 AUTHOR_WRITTEN = set()  # set by --author-written
+# A notes section of plants for later chapters is foreshadowing, whatever its bullets say.
+FORWARD = re.compile(r'^(?:reread plants|plants)\b', re.I)
 ASSIST = re.compile(r'proposal|my reading|on the recommendation|settled in discussion|settled by judgment|recommend', re.I)
 
 
@@ -126,8 +130,9 @@ def items(ch):
             ids = sorted(set(ID.findall(l)))
             k = f'{label}:{n}'
             org = 'keyframe' if ch in AUTHOR_WRITTEN and not ASSIST.search(l) else origin(l, ids, rows, head)
-            src[k] = {'head': head, 'text': t[:500], 'ids': ids, 'origin': org}
-            lines.append(f'- {k} [{"plot" if label == "outline" else "decision"}] ({head[:60]}){" " + ",".join(ids) if ids else ""}: {t[:300]}')
+            layer = 'foreshadow' if FORWARD.search(head) else 'plot' if label == 'outline' else 'decision'
+            src[k] = {'head': head, 'text': t[:500], 'ids': ids, 'origin': org, 'layer': layer}
+            lines.append(f'- {k} [{layer}] ({head[:60]}){" " + ",".join(ids) if ids else ""}: {t[:300]}')
     lines += ['', '## Lore (cards the outline and notes link)', '']
     seen = set()
     for link in re.findall(r'\]\(((?:\.\./)+world/[^)#]+\.md)', ot + nt):
@@ -237,7 +242,7 @@ def render(ch):
             seg = html.escape(text[j:k], quote=False)
             if it:
                 seg = f'<em>{seg}</em>'
-            layers = {anns[a][1] for a in ais}
+            layers = {anns[a][1] for a in ais} | {srcs.get(anns[a][0], {}).get('layer') for a in ais} - {None}
             orgs = {srcs.get(anns[a][0], {}).get('origin') for a in ais if anns[a][1] not in ('lore',)}
             beat = 'keyframe' if 'keyframe' in orgs else 'assisted' if orgs - {None} or layers & {'decision', 'plot'} else 'tween'
             if kind == 'p':

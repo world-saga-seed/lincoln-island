@@ -7,11 +7,18 @@ pictures, not from the person the book has. This tool puts the numbers in front
 of the drafter and lists every size phrase for the facts critic to judge.
 
 Usage:
-  python3 tools/scale.py CHAPTER --height CM [--other NAME=CM ...] [--prose DIR]
+  python3 tools/scale.py CHAPTER (--height CM | --heights FILE) [--other NAME=CM ...]
+                          [--facts FILE] [--prose DIR]
 
   CHAPTER     the chapter's number, as the prose files are named (00400-...)
   --height    the viewpoint character's height at this chapter, in cm (from
               their sheet's heights table)
+  --heights   a file of the viewpoint's heights by chapter, for one who grows:
+              one line each, "FIRST LAST CM", chapter numbers as the files
+              are named; the line whose range holds CHAPTER is used
+  --facts     a file of the setting's own size facts, one per line, printed
+              on the sheet in place of the default adult line (counters built
+              high, a race's height); # starts a comment
   --other     another person's height, for the "against" line (repeatable)
   --prose     the prose folder (default story/prose); with it present, the
               sheet lists every size phrase on the chapter's page and marks any
@@ -57,19 +64,33 @@ def phrases(path):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('chapter')
-    ap.add_argument('--height', type=float, required=True)
+    ap.add_argument('--height', type=float)
+    ap.add_argument('--heights')
+    ap.add_argument('--facts')
     ap.add_argument('--other', action='append', default=[])
     ap.add_argument('--prose', default='story/prose')
     a = ap.parse_args()
     h = a.height
+    if a.heights:
+        for line in open(a.heights, encoding='utf-8'):
+            f = line.split('#')[0].split()
+            if len(f) >= 3 and f[0] <= a.chapter <= f[1]:
+                h = float(f[2])
+    if h is None and not a.heights:
+        ap.error('give --height or --heights')
+    facts = [l.split('#')[0].strip() for l in open(a.facts, encoding='utf-8')] if a.facts else []
+    facts = [f for f in facts if f]
     print(f'# Scale sheet, {a.chapter}\n')
-    print(f'- **Viewpoint:** about {h:g} cm.')
-    for o in a.other:
-        name, cm = o.split('=')
-        d = float(cm) - h
-        print(f'- **{name}:** {float(cm):g} cm, {abs(d) / HAND:.1f} hands {"taller" if d > 0 else "shorter"}.')
-    print('- **On the viewpoint\'s body:** ' + ', '.join(f'{k} {round(h * v)}' for k, v in BODY.items()) + ' cm.')
-    print(f'- **A hand** is about {HAND} cm; {ADULT}.')
+    if h is None:
+        print(f'- **Viewpoint:** no height for {a.chapter}; add a line to {a.heights}.')
+    else:
+        print(f'- **Viewpoint:** about {h:g} cm.')
+        for o in a.other:
+            name, cm = o.split('=')
+            d = float(cm) - h
+            print(f'- **{name}:** {float(cm):g} cm, {abs(d) / HAND:.1f} hands {"taller" if d > 0 else "shorter"}.')
+        print('- **On the viewpoint\'s body:** ' + ', '.join(f'{k} {round(h * v)}' for k, v in BODY.items()) + ' cm.')
+    print(f'- **A hand** is about {HAND} cm; ' + ('; '.join(facts) if facts else ADULT) + '.')
     print('- **The rule:** a size on the page is measured from the one who sees it, at the height above, '
           'and from the card of the object or creature; vary the reference from the chapters either side.\n')
 

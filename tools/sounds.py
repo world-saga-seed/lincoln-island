@@ -65,7 +65,7 @@ def main():
                 if f in batch:
                     inside = (line[:m.start()].count('"') % 2 == 1
                               or line[:m.start()].count('“') > line[:m.start()].count('”'))
-                    prior = len(seen.get(sp, set()))
+                    prior = len({c for c in seen.get(sp, set()) if c < pos})
                     bad = [s for s in forbid if s in sp]
                     out.append(f"- {name}:{i} {sp} {'in speech' if inside else '**in narration**'}; "
                                f"earlier chapters: {prior}" + (f"; **forbidden: {' '.join(bad)}**" if bad else ''))

@@ -9,7 +9,7 @@ redraft (plan/workflows/outline-clean.md).
 
 Usage:
   python3 tools/aged.py FILE [FILE ...] [--cutoff YYYY-MM-DD] [--ledger DIR]
-                        [--retired FILE ...] [--proposals] [--tsv OUT]
+                        [--retired FILE ...] [--proposals] [--beats] [--cites-only] [--tsv OUT]
 
   FILE            outlines to scan, or (for the second round) notes and cards
   --cutoff DATE   a line whose newest date mark or ruling is older than this is
@@ -17,10 +17,15 @@ Usage:
                   accepted); without it, no line is flagged for age
   --ledger DIR    the ledger folder, to date ruling IDs (default plan/settled/ledger)
   --retired FILE  drafts being replaced (for example story/prose/004*.md): any
-                  line linking one is flagged "cites-retired". Kept drafts are
-                  simply not listed
+                  line linking one (the link resolved from the file's folder), or
+                  naming it with its folder as a locator ("prose/0410-x.md:12"),
+                  is flagged "cites-retired". Kept drafts are simply not listed
   --proposals     also flag every *(Proposal.)* with no date or ruling on its
                   line: before a full redraft each open proposal is ruled too
+  --beats         read only list items (lines starting "- " or "1. "): an
+                  outline's beats, not its headers and prose
+  --cites-only    flag only "cites-retired": the second round, over notes and
+                  cards, where "from the draft" is history and not a beat
   --tsv OUT       also write one row per flagged line: file, line, reasons, text
 
 A line is flagged when it says it is drawn "from the draft", links a retired
@@ -55,10 +60,13 @@ def main():
     ap.add_argument('--ledger', default='plan/settled/ledger')
     ap.add_argument('--retired', nargs='*', default=[])
     ap.add_argument('--proposals', action='store_true')
+    ap.add_argument('--beats', action='store_true')
+    ap.add_argument('--cites-only', action='store_true')
     ap.add_argument('--tsv')
     a = ap.parse_args()
     dates = ledger_dates(a.ledger)
-    retired = {os.path.basename(r) for r in a.retired}
+    retired = {os.path.normpath(r) for r in a.retired}
+    named = {os.path.basename(os.path.dirname(r)) + '/' + os.path.basename(r) for r in retired}
     link = re.compile(r'\]\(([^)#\s]+)')
     rows, total = [], Counter()
     for f in a.files:
@@ -66,11 +74,14 @@ def main():
         for i, line in enumerate(open(f, encoding='utf-8').read().split('\n'), 1):
             if not line.strip() or line.startswith('#'):
                 continue
+            if a.beats and not re.match(r'\s*(- |\d+\. )', line):
+                continue
             n += 1
             why = []
             if re.search(r'\bfrom the drafts?\b', line, re.I):
                 why.append('from-draft')
-            if any(os.path.basename(t) in retired for t in link.findall(line)):
+            if (any(os.path.normpath(os.path.join(os.path.dirname(f), t)) in retired for t in link.findall(line))
+                    or any(n in line for n in named)):
                 why.append('cites-retired')
             marks = ['-'.join(m) for m in DATE.findall(line)]
             marks += [dates[m.group(0)] for m in RID.finditer(line) if m.group(0) in dates]
@@ -78,6 +89,8 @@ def main():
                 why.append('aged')
             if a.proposals and '*(Proposal.)*' in line and not DATE.search(line) and not RID.search(line):
                 why.append('undated-proposal')
+            if a.cites_only:
+                why = [w for w in why if w == 'cites-retired']
             if why:
                 why_n.update(why)
                 rows.append((f, i, ','.join(why), line.strip()))

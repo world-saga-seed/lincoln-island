@@ -49,11 +49,24 @@ def main():
     ap.add_argument('report', help='the report whose quotes are checked (lines like "- quote: the exact words")')
     ap.add_argument('--in', dest='targets', nargs='+', required=True, help='the text file(s) the quotes must be found in')
     ap.add_argument('--backticks', action='store_true', help='also check every backticked span (run it on a file that holds only quotes in backticks)')
+    ap.add_argument('--section', help='check only the lines under this heading (e.g. "## Next pass"), to the next heading of its level or above')
     ap.add_argument('-v', action='store_true', help='list every quote checked, not only the missing ones')
     a = ap.parse_args()
     text = norm(' '.join(open(f, encoding='utf-8').read() for f in a.targets))
     quotes = []
+    inside = not a.section
+    level = len(a.section) - len(a.section.lstrip('#')) if a.section else 0
     for i, line in enumerate(open(a.report, encoding='utf-8'), 1):
+        if a.section:
+            h = len(line) - len(line.lstrip('#'))
+            if h and line[h:h + 1] == ' ':
+                if line.rstrip().startswith(a.section):
+                    inside = True
+                    continue
+                if h <= level:
+                    inside = False
+            if not inside:
+                continue
         m = QUOTE_LINE.match(line)
         if m:
             quotes.append((i, strip_wrap(m.group(1))))

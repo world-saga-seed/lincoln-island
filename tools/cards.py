@@ -17,6 +17,8 @@ between these two markers; the table is built by this tool, never edited by hand
     <!-- cards: built by tools/cards.py; do not edit -->
     <!-- /cards -->
 
+(Any comment starting "<!-- cards:" opens the table, so the wording is yours.)
+
 Usage:
   python3 tools/cards.py check [--root DIR] [-v]   exit 1 on a head out of form or a stale table;
                                                    -v also lists keywords the card's text already uses
@@ -27,12 +29,21 @@ Usage:
                                                    write DIR/INDEX.md, the subject index: every
                                                    card by its name, what it is and its keywords,
                                                    every folder and every character sheet, A to Z
+  python3 tools/cards.py build --index ...         build, then write the subject index
   --root DIR defaults to "world".
+  --mark WORD   a status mark a card's name may end with, "(WORD)", left out of
+                the tables and the index (repeatable; for example --mark proposal)
+
+The subject index also lists the loose files at the top of --root (a guide, a
+glossary) by their title.
 """
 import argparse, glob, os, re, sys
 
 BEGIN = '<!-- cards: built by tools/cards.py; do not edit -->'
+BEGIN_RX = re.compile(r'<!-- cards:.*?-->')
 END = '<!-- /cards -->'
+MARKS = []
+TOOL = os.path.relpath(sys.argv[0]) if sys.argv[0].endswith('.py') else 'tools/cards.py'
 TITLE = re.compile(r'^# (.+?): (.+)$')
 
 
@@ -63,6 +74,8 @@ def head(p):
     if not lines[4].startswith('Keywords: ') or not lines[4][10:].strip():
         err.append('line 5 is not "Keywords: ..."')
     name, what = (m.group(1), m.group(2)) if m else (lines[0].lstrip('# '), '')
+    if MARKS:
+        name = re.sub(r' \((?:' + '|'.join(map(re.escape, MARKS)) + r')\)$', '', name, flags=re.I)
     kw = [k.strip() for k in lines[4][10:].split(',') if k.strip()] if lines[4].startswith('Keywords: ') else []
     return name, what, lines[2].strip().strip('*'), kw, err
 
@@ -77,8 +90,9 @@ def table(d):
 def readme(d):
     p = os.path.join(d, 'README.md')
     t = open(p, encoding='utf-8').read() if os.path.exists(p) else ''
-    a, b = t.find(BEGIN), t.find(END)
-    return (t, a + len(BEGIN), b) if 0 <= a < b else None
+    m = BEGIN_RX.search(t)
+    b = t.find(END)
+    return (t, m.end(), b) if m and m.end() <= b else None
 
 
 def check(root, verbose):
@@ -155,6 +169,10 @@ def index(root, sheets):
         if os.path.exists(r):
             t = open(r, encoding='utf-8').readline().lstrip('# ').strip()
             add(t.split(':')[0], t, r)
+    for p in sorted(glob.glob(os.path.join(root, '*.md'))):
+        if os.path.basename(p) not in ('README.md', 'INDEX.md'):
+            t = open(p, encoding='utf-8').readline().lstrip('# ').strip()
+            add(t.split(':')[0], t, p)
     if sheets and os.path.isdir(sheets):
         for p in sorted(glob.glob(os.path.join(sheets, '**', '*.md'), recursive=True)):
             if os.path.basename(p) != 'README.md':
@@ -164,8 +182,8 @@ def index(root, sheets):
     out = os.path.join(root, 'INDEX.md')
     lines = ['# Subject index', '',
              '*Every card by its name and its search words, every folder and every character sheet, A to Z. '
-             'Built by `tools/cards.py index` from the card heads; never edit by hand (fix the card\'s head). '
-             'For a subject not here, `tools/cards.py find WORDS` searches the text.*']
+             f'Built by `{TOOL} index` from the card heads; never edit by hand (fix the card\'s head). '
+             f'For a subject not here, `python3 {TOOL} find WORDS` searches the text.*']
     letter = None
     for term in sorted(ent, key=key):
         L = key(term)[:1].upper()
@@ -186,13 +204,18 @@ def main():
     ap.add_argument('--root', default='world', help='the folder whose subfolders are card folders (default: world)')
     ap.add_argument('--sheets', default='story/notes/characters', help='for index: the character sheets folder (default: story/notes/characters)')
     ap.add_argument('-v', action='store_true', help='for check: also list keywords the card text already uses')
+    ap.add_argument('--mark', action='append', default=[], help='a status mark a name may end with, "(WORD)", left out of tables and index (repeatable)')
+    ap.add_argument('--index', action='store_true', help='for build: also write the subject index')
     a = ap.parse_args()
+    MARKS.extend(a.mark)
     if not os.path.isdir(a.root):
         sys.exit(f'no folder {a.root}')
     if a.command == 'check':
         sys.exit(1 if check(a.root, a.v) else 0)
     elif a.command == 'build':
         build(a.root)
+        if a.index:
+            index(a.root, a.sheets)
     elif a.command == 'index':
         index(a.root, a.sheets)
     else:

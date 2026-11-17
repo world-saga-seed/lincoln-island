@@ -105,6 +105,15 @@ The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflow
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to give an improvement back: an issue, or a change sent through your own fork and reviewed there before it comes to the kit. |
 | [CLAUDE.md](CLAUDE.md) | The instructions Claude reads in your book's folder. A template: the title now, the rest after the interview. |
 
+## Tests
+
+Every script and every prompt in the kit has a test, kept in a separate repo so the kit stays small: [world-saga-seed-test](https://github.com/world-saga-seed/world-saga-seed-test). It runs on an invented novel, so you can check a piece yourself before you trust it with your book.
+
+- **The scripts:** planted cases with known answers. Clone the test repo beside this one and run `python3 -m pytest -q` in it. It is free and takes seconds; run it after you change a script.
+- **The prompts:** a chapter with faults planted in it, an answer key, and a scorer for each. They spend tokens, and each records one baseline run to compare yours with.
+
+Found a script or a prompt getting something wrong on your own book? Make the smallest invented case that shows it, with none of your book's text, and add it there.
+
 ## Three things to know
 
 - **It is slow at the start on purpose.** The first weeks are interview, cards and outlines. That is where the book is decided.

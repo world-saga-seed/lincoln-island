@@ -15,6 +15,7 @@ Run these on every draft before any critic sees it. They are cheap, they give ve
 | Setting words first on the page (per chapter, Refinement) | `python3 tools/firstuse.py story/prose/*.md --batch 1` | A word the cards use that no earlier page has: the setup critic's `{FIRSTUSE}` |
 | Links | `python3 tools/links.py` | A note or card points at nothing |
 | Cards in form | `python3 tools/cards.py check` | A card head out of form, or an index stale |
+| Stutters (per chapter, Refinement) | `python3 tools/stutters.py story/prose/NNNNN-*.md --clues plan/reread-hooks.md` | The same short phrase twice within a few paragraphs, a capped frame twice in a paragraph, or the chapter over a cap. No critic's question covers a close echo, so this is its only check. A clue or a motif keeps its words; a callback or a line echoed back in dialogue is deliberate; the rest are reworded at the later use, and the script rerun, since a rewording can stutter with its neighbor. A chapter over a cap is fixed before the critics |
 | Repeated phrases (per batch) | `python3 tools/repeats.py story/prose/0*.md --min-files 3 --narration` | A phrase the reader meets chapter after chapter |
 | Your own rules | one grep per rule that has one (below) | A rule broken on the page |
 

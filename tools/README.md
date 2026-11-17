@@ -1,6 +1,6 @@
 # Tools
 
-Seventeen small Python scripts. Standard library only (Python 3.8 or later), no paths written into them, everything set by arguments. They come with the clone, in `tools/`; run each from the book's top folder. Every script answers `--help`.
+Eighteen small Python scripts. Standard library only (Python 3.8 or later), no paths written into them, everything set by arguments. They come with the clone, in `tools/`; run each from the book's top folder. Every script answers `--help`.
 
 They give the method its mechanical checks: verdicts nobody argues with, under every judgment a critic or reader makes. **Try each one on a case it must catch before you trust a clean result from it** (a planted broken link, a planted banned word).
 
@@ -30,6 +30,7 @@ They come in three levels. Start with the basic ones; add the refinement checks 
 | `tells.py` | texture numbers for chapters (similes, "and" chains, negations, sentence spread, kicker endings) and a scan for banned words | `python3 tools/tells.py story/prose/00400-*.md --banned story/voice/banned.txt` |
 | `repeats.py` | phrases of 5 to 8 words found in N or more chapters, and stock patterns counted per chapter | `python3 tools/repeats.py story/prose/0*.md --min-files 3 --narration` |
 | `refrains.py` | a volume's refrains counted per chapter from a watch list, and sentences repeated near word for word in three chapters or more | `python3 tools/refrains.py story/prose/01*.md --list story/voice/refrains.txt --batch 3` |
+| `stutters.py` | the same short phrase twice within a few paragraphs of one chapter, a capped frame ("as if", "the way X") twice in a paragraph, and the chapter's count against each cap | `python3 tools/stutters.py story/prose/00400-*.md --clues plan/reread-hooks.md` |
 | `firstuse.py` | words a chapter is the first to use that the cards use too: setting words that may need setting up | `python3 tools/firstuse.py story/prose/*.md --batch 1` |
 | `aged.py` | outline, note and card lines that may carry an old draft into a redraft | `python3 tools/aged.py story/outline/00*.md --cutoff 2027-04-01 --retired story/prose/00*.md` |
 
@@ -59,6 +60,8 @@ They come in three levels. Start with the basic ones; add the refinement checks 
 **cards.py index.** Writes `world/INDEX.md` (with `--root DIR`, `DIR/INDEX.md`): every card under its name, the parts of its "what it is" and each keyword, every folder's README title, and every character sheet (`--sheets DIR`, default `story/notes/characters`), A to Z. Rebuild it whenever heads change; a missing subject is fixed by a keyword on the card's head, never in the index.
 
 **refrains.py.** Give the volume's chapters so far, in order; `--batch K` makes the last K the batch, so a repeated run is reported only when it reaches the batch. Thresholds: `--volume-max` (default 8) and `--chapter-max` (default 3). The repeated runs skip six-word runs made mostly of small words and join overlapping runs into one. `repeats.py` finds shared phrases across any files; this one is aimed at a volume's refrains and at whole descriptions repeated.
+
+**stutters.py.** The other repeat tools see a volume; this one sees a page. It lists every run used again within `--window` words (default 250): three words with two that are not filler, or longer runs. A run used `--standing` times or more in the chapter (default 6) is a name or a tag and listed apart. `--clues` takes your clue register or a chapter's planted lines and marks a hit whose words are in one. It finds candidates; you judge them, and rerun after the fix.
 
 **sounds.py.** Give the whole book so far, so a span can be checked against earlier chapters; `--batch K` reports the last K files and `--volume V` sets the last V files as the volume for the rarity flag. `--span` and `--chars` change what counts as a span, for a book with its own notation. A span inside double quotes counts as speech.
 
@@ -93,6 +96,7 @@ Each script was run on the kit's `example/` folder:
 - `check_clean.py`: in the kit, fails on `example/` (exit 1); on a copy with `example/` deleted, `clean`; a planted example name and a planted link into `example/` each found.
 - `cards.py index --root example/world --sheets example/story/notes/characters`: 29 entries, each linking its card; `cards.py check` still 0 problems.
 - `refrains.py` on the scene and two planted chapters, with a one-line watch list: the planted refrain counted 6 and flagged over the volume limit and in the chapter that showed it 4 times; a 25-word description planted in all three reported once, as one joined run.
+- `stutters.py` on the scene: 3 hits; on a copy with a ten-word run planted again 96 words later and "as if" twice in one paragraph, both found, and a hit marked `clue?` when its words were in the `--clues` file.
 - `sounds.py` on the same three, with `--forbid "ɒ ː ɹ ɚ ɝ ɛə"`: the planted span found, in speech, with its forbidden symbol; the volume flagged as rare.
 - `firstuse.py` on the same three, `--min-cards 2`: the planted setting words found at their first use (a possessive read as its word); words of the scene itself not repeated as first uses in the later chapters.
 - `tells.py` on a planted 62-word sentence with a semicolon: one knot line.

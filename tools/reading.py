@@ -309,6 +309,23 @@ DRAFT_CUT = {'appears in', 'open', 'origin and lineage', 'history'}
 AHEAD = re.compile(r'^(in volume|in the .* arc|ahead|later|after\b|the war arc|forward|elsewhere)', re.I)
 
 
+def rejoin(asked, order):
+    """An include's fields split on commas; a label with a comma in it ("It pools by depth, above the water")
+    comes back whole when its pieces, in the order written, make one of the card's labels."""
+    out, i, asked = [], 0, list(asked)
+    while i < len(asked):
+        for j in range(len(asked), i, -1):
+            joined = ', '.join(asked[i:j])
+            if joined.lower() in order:
+                out.append(joined)
+                i = j
+                break
+        else:
+            out.append(asked[i])
+            i += 1
+    return out
+
+
 def drafter_fields(body):
     """A card or sheet as the drafter's bundle gives it: no bookkeeping field (Appears in, Open, Origin, History;
     Name stays, since it holds what the page calls a thing) and no field that looks ahead ("In volume 3", "Ahead", "Later")."""
@@ -435,7 +452,7 @@ def bundle(a, step, srcs, cards, links, incl, sheets, prev, between, named, othe
         out += ['## Rules (read these files)', '', *[f'- `{p}`' for p in a.rules if os.path.exists(p)],
                 f'- two or three of `{a.samples}`', '']
     if a.inline:
-        drop = a.drop if a.drop is not None else DROP
+        drop = a.drop if a.drop is not None else (DROP if step in ASIDE_FREE else [d for d in DROP if d != 'author-side'])  # critics check the page against the author-side text
         for p in srcs:
             what = "Outline" if "/outline/" in p else "Notes"
             out += [(f'## {what}' if step in ASIDE_FREE else
@@ -447,7 +464,7 @@ def bundle(a, step, srcs, cards, links, incl, sheets, prev, between, named, othe
     if role is None or role != []:
         blocks = []
         for t in cards:
-            if incl.get(t) == {'cited'}:
+            if incl.get(t) == ['cited']:
                 MANIFEST.append((t, 'cited: not given'))
                 continue  # a source the outline already quotes: the link stays, the card is not read
             # a role that reads everything reads the fields the chapter's include names; a role with
@@ -455,7 +472,7 @@ def bundle(a, step, srcs, cards, links, incl, sheets, prev, between, named, othe
             every = role is None or role[0] == '*'
             if t in incl and every:  # an include's fields, in the card's own order (the form's)
                 order = [f[0].lower() for f in cardtool.fields(t)]
-                w = sorted(incl[t], key=lambda x: order.index(x.lower()) if x.lower() in order else len(order))
+                w = sorted(rejoin(incl[t], order), key=lambda x: order.index(x.lower()) if x.lower() in order else len(order))
             else:
                 w = role
             body = card_text(t, links[t], w, settled, cuts, aliases)
@@ -470,8 +487,19 @@ def bundle(a, step, srcs, cards, links, incl, sheets, prev, between, named, othe
             out += ['## Cards', ''] + blocks
     if smode != 'none' and sheets:
         out += ['## People', '']
+        every = role is None or bool(role) and role[0] == '*'
         for sh in sorted(sheets):
-            body = sheet_text(sh, smode, a, settled, cuts, aliases)
+            if incl.get(sh) == ['cited']:
+                MANIFEST.append((sh, 'cited: not given'))
+                continue
+            if sh in incl and every and smode not in ('habits', 'size'):  # the include names the sheet's fields
+                order = [f[0].lower() for f in cardtool.fields(sh)]
+                want = sorted(rejoin(incl[sh], order), key=lambda x: order.index(x.lower()) if x.lower() in order else len(order))
+                body = card_text(sh, set(), [w for w in want if w.lower() in order], settled, cuts, aliases)
+                if any(w.lower().startswith('habit') for w in want) and not any(o.startswith('habit') for o in order):
+                    body = (body + '\n' + sheet_text(sh, 'habits', a, settled, cuts, aliases)).strip()  # Habits as a section
+            else:
+                body = sheet_text(sh, smode, a, settled, cuts, aliases)
             MANIFEST.append((sh, given(body) if body.strip() else 'nothing'))
             if body.strip():
                 if step in ASIDE_FREE:
@@ -552,7 +580,7 @@ def main():
             if m:
                 f, _, an = m.group(1).partition('#')
                 t = os.path.normpath(os.path.join(os.path.dirname(p), f))
-                incl.setdefault(t, set()).update(x.strip() for x in m.group(2).rstrip('.').split(',') if x.strip())
+                incl.setdefault(t, []).extend(x.strip() for x in m.group(2).rstrip('.').split(',') if x.strip())
 
     text = ' '.join(open(p, encoding='utf-8').read() for p in srcs).lower()
     sheets = {t for t in links if t.startswith(a.sheets.rstrip('/') + '/')}

@@ -114,6 +114,21 @@ Each reader answers from memory in its own session, after reading, marking sure 
 | **Confident right** on a guess | the hook is **too readable** |
 | **Blank** on a guess | the plant is **too faint** |
 
+## Comparing two drafts
+
+*(Proposal: from one book's redraft test.)* Which of two drafts of a chapter is stronger is a different question from what a reader can recover. A cold reader answers it badly unless the test is built against its biases.
+
+**What the test found.** Four blind reads of the same two drafts by two model families:
+- one family picked whichever draft came first, both times;
+- the other picked whichever came later, every time, and once took the later title, "(draft 2)", as the revision;
+- the praise followed the pick: the same beat was "concrete stakes" when its draft won and "an exposition dump" when it lost.
+
+**The gate:**
+1. **Strip everything that hints at order or origin:** the title lines, any "draft N", any file name. Tell the reader the drafts were written independently.
+2. **Run both orders and two model families:** four reads in all ([prompt](reader-tests/compare.md)).
+3. **A verdict counts only if it holds in both orders for both families.** A split is a tie, and a tie keeps the page you have.
+4. **Take from a read only what can be checked:** a stray mark, a doubled line, a referent with nothing before it. A reader's list of strong beats is not a selector; choose beats by reflow ([fold-back](drafting/fold-back.md#reflow-the-approved-page-back-into-its-notes)).
+
 ## How failures route back
 
 | Failure | Goes to | As |

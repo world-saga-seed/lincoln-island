@@ -35,6 +35,27 @@ The quote goes in backticks, since dialogue uses double quotes. Line numbers mov
 3. **Fold the reports.** Shared-file items go to the cards and sheets. Drift rows in `plan/state.md` are deleted where the current prose no longer has the quote, and carried as pointers where it does. Questions for the writer are deduplicated across groups and asked a few at a time, each with a recommendation.
 4. **Later, the reading comments** are filed into the same lists as **reading** items.
 
+## Reflow: the approved page back into its notes
+
+*(Proposal: from one book's redraft test.)*
+
+A page the writer has read and approved holds beats nothing written down holds. A drafter invented them, the writer kept them, and the fold-back carried only what the batch papers listed. A redraft from the outline cannot reproduce them, and in the test it didn't. So before an approved chapter is redrafted, reflow it.
+
+1. **Trace the page** (a cheap finder, checked by script). Split the page into beats: a turn in a scene, a line of dialogue that changes something, an image used again later, a slip or a cover. Give each a quote and its place in the outline or notes: supported, partly, or absent. `tools/quotes.py` checks the quotes.
+2. **Mark the strength.** A strength critic reads the page alone, never beside another draft, and marks its strongest and weakest beats with quotes. Run it on two models. A comparing reader is no use here: it praises or damns the same beat according to which draft it picked.
+3. **Judge each absent or partly supported beat:**
+   - **keep the words:** both critics marked it strong, or it is load-bearing. A beat is load-bearing if it carries a clue, plants something a later chapter pays off, or is a line later pages refer back to. Find these by the trace, the clue register and a grep of the later pages, never by taste.
+   - **a proposal:** one critic marked it strong;
+   - **stays in the draft:** weak or unmarked;
+   - **drop:** it conflicts with a settled line, and goes on the Next pass list.
+4. **Write it back.**
+   - A beat whose words are kept goes into the notes with the exact quote, marked *(Reflowed: the approved page, NNNNN; keep the words.)*. The drafter's bundle gives it verbatim.
+   - A proposal goes into the outline beat, marked *(Proposal: reflowed from the page, NNNNN.)*, with its words free.
+
+   Choose a mark your book doesn't already use. If "kept" means held off the page in your notes, a "kept" beat meant for the page will collide with it.
+
+**Revise approved chapters in place.** Where a card or the canon changed, revise the lines `tools/uses.py` lists. Redraft only where the outline itself changed, and only after reflow. A redraft replaces the approved page only if it passes the compare gate ([reader tests](../reader-tests.md#comparing-two-drafts)).
+
 ## The second pass
 
 The next drafting pass gives the drafter the chapter's outline, notes and **Next pass list**, and the previous draft as reference for what to keep. The list is the brief for what changes. Everything not on it should survive, so the second-pass critics compare against the first draft as well as the notes.

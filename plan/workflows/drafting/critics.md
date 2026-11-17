@@ -81,6 +81,18 @@ Two run on outlines, before drafting, where a fault is cheapest to fix ([prompt]
 - **The outline critic.** The question: "Where does this outline contradict the notes, or give a beat no cause?" It gets the chapter outlines in the range, their notes, the arc outline, the cards and sheets they link, and the rulings. It never gets drafted prose of these chapters, later outlines, or the conversation.
 - **The setup check** on outline beats: the setup question of the [setup and belief prompt](prompts/setup-belief.md), asked of the beats instead of the page.
 
+## Tracing findings to their source
+
+Every finding's `against:` line names the file it rests on, by its path from the book's top (`world/beast/selkie.md, Size`), or says "the outline" or "the notes". A finding with no file can't be traced.
+
+After the critics, run `tools/gaps.py` on their reports with the chapter's bundle manifest. It sorts each break and weak finding:
+- **a drafter slip:** the fact was in the bundle, the chapter, or the rules;
+- **a source gap:** the card was not included, its field was not given, or the fact sits only on an earlier page the drafter did not read.
+
+It ends with the list of fixes to the source: the includes and fields to add. Make those, so the next chapter that uses the card gets it. Save the trace next to the manifest. A finding is a lead: check it against the page before changing anything.
+
+When a card changes later, `tools/uses.py` lists the drafted chapters whose bundle gave the changed field, and the lines of their pages that name the card. Those are the places to recheck.
+
 ## Running a test of the critics
 
 When you test the chain itself (a new narration, a new critic), give the test's folder and files neutral names. In the narration test two critics guessed what was being tested from the folder's name and adjusted their findings.

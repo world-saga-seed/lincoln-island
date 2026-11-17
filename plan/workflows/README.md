@@ -57,3 +57,8 @@ Each workflow has three labels.
 
 - **Belongs:** a reusable procedure (`name.md`), its prompt files (`name/`), and its lessons.
 - **Does not:** a run's output (that goes to the task's folder), lore (to the cards), rulings (to the ledger).
+
+**One kind of thing per folder.** `workflows/` holds procedures and what they run on: prompts, tools, and the config files the tools read (a word list, a field form). What a run produces goes elsewhere, by what it proves:
+- **A test's or a study's evidence** (its drafts, critic reports, prompts, bundles) stays in its task's folder and is archived with the task.
+- **What the standing flows produce on the book** goes to `plan/records/`, which is generated and never edited by hand: the token log, and for each drafted chapter the bundle manifest (`records/drafting/NNNNN-bundle.tsv`) and its critics' trace (`NNNNN-trace.md`).
+- **Nothing a decision rests on lives only in a session's scratch space.**

@@ -77,6 +77,8 @@ Rotate the wording between versions. The point is not novelty; it is that neithe
 The risk is reward hacking aimed at prose: a reviser, or a writer, who learns what a critic flags and smooths that away without fixing what was wrong.
 
 - **The writer does not read the critic prompts,** and the critic does not read the writer's notes or reasons.
+- **Check a finding against the plot before it reaches the writer.** A critic's "not planted anywhere", "a slip" or "contradicts" is unverified until the supervisor has searched the notes, outline, sheets, cards, clue register and ledger. A beat settled there is not a finding. On the first inference sweep, every "possible slip" put to the writer unchecked was settled canon.
+- **Fix a narration break by its lead, not a cut.** Where the narrator states what he could not know, the fix gives what is missing before the claim: the sign the scene already shows, moved first; his read marked as his ("I had always thought"); or, with the writer's approval, a word someone says. Cut only when the claim is incidental and nothing he could have seen would carry it. Cutting the verdict throws away what he noticed.
 - **Check the fix, not only the finding.** A finding "resolved" by deleting the line it quoted is not resolved. The supervisor reads each fix against its finding.
 - **Watch for drift toward taste.** When most verified findings are "taste", the critic has run out of rules to check, and its findings are opinions.
 - **A clean report is a result, not a success.** "No findings" on an uncalibrated critic means nothing.

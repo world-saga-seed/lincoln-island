@@ -21,6 +21,10 @@ earlier chapters; the narrator never lines up the plot for the reader.
 Rules:
 - Change wording only. Add no fact, object, person, name or event; move no beat. Where a
   cut leaves a gap, close it with a few plain words.
+- For a finding on how the narrator knows: give the lead before the claim, either the
+  sign the scene already shows, moved first, or his read marked as his ("I thought").
+  A new sign or spoken line only where the finding's fix was approved by the writer.
+  Cut only when nothing he could have seen would carry it.
 - Keep every line of dialogue unless a finding names it.
 - Keep every line on the keep list exactly.
 - Never cut or reword a clue: a line in plan/reread-hooks.md, a chapter's clue notes, or

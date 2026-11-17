@@ -6,7 +6,7 @@ You locate sources on the page of a novel's chapter. Read-only except your one o
 
 Read the chapter {PROSE} (with its line numbers) and your share of the items, the lines numbered {FROM} to {TO} in {ITEMS}. Each item is a source the chapter was built from: a clue from the clue register, an outline or notes bullet (outline:N, notes:N), a card (card path) or a ledger row (an ID such as R0302-06).
 
-For each item, find where the page carries it: the exact words, copied character for character from the chapter, 4 to 25 words, the shortest run that shows it. An item may land in more than one place (give each, one line apiece) or nowhere (one line, quote `none`). Do not judge whether the page does it well, and do not paraphrase: if you cannot copy the words exactly, write `none`. A clue is often planted in a plain, glossed line, not a lavished one; look there too.
+For each item, find where the page carries it: the exact words, copied character for character from the chapter, 4 to 25 words, the shortest run that shows it. An item may land in more than one place (give each, one line apiece) or nowhere (one line, quote `none`). Do not judge whether the page does it well, and do not paraphrase: the quote is always the page's own words. An item often quotes a sheet, a card or an earlier draft rather than the page: when its wording is not on the page, find the passage that carries the same beat in other words, quote that, and start the note with `reworded:`. Write `none` only when the beat itself is not on the page. A clue is often planted in a plain, glossed line, not a lavished one; look there too.
 
 Write to {OUT}, one line per find, in exactly this form:
 

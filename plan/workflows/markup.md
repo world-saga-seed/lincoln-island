@@ -29,3 +29,4 @@ The page is local: `build/markup/<chapter>.html`. Keep `tmp/` and `build/` out o
 
 - *(First runs, on the series the kit came from.)* Verbatim matching against the writer's own messages was tried and dropped: re-rendering left 0 to 1% of the writer's words on the page, and pasted reviews and manuscripts in the messages showed as the writer's. The beat is the honest measure.
 - *(The same.)* A chapter the writer wrote whole showed 40% keyframe and a chapter built from five key frames 18%: the page tells the two ways a chapter is made apart. The locators' misses turned up a lost beat and a page breaking an outline's note.
+- *(The same.)* A locator that cannot find an item's exact words calls the beat missing, and items often quote a character sheet, not the page (a sheet's "teased as a dumb blond" was on the page as "A blond."). So the locator quotes the passage that carries the beat in other words and marks it `reworded:`; only `none` is a loss to check.

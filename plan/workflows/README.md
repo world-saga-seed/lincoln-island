@@ -51,6 +51,7 @@ Each workflow has three labels.
 | [restructure](restructure.md) | Any | Refinement | Used | a topic file passes about 5,000 words with two subjects |
 | [retire](retire.md) | Any | Refinement | Used | closed tasks pile up |
 | [retrospective](retrospective.md) | Any | Basic | Used |  |
+| [next](next.md) | Any | Basic | Experimental |  |
 | [task-form](task-form.md) | Any | Basic | Used |  |
 
 ## Belongs here, and does not

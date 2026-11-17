@@ -36,6 +36,7 @@ They come in three levels. Start with the basic ones; add the refinement checks 
 | `aged.py` | outline, note and card lines that may carry an old draft into a redraft | `python3 tools/aged.py story/outline/00*.md --cutoff 2027-04-01 --retired story/prose/00*.md` |
 | `gaps.py` | each critic finding traced to the drafter's bundle (given, field not given, not included, chapter, rules, earlier page), and the includes and fields to add so the next draft gets the fact | `python3 tools/gaps.py critics/*.md --manifest plan/records/drafting/00400-bundle.tsv --rules story/voice/voice.md --chapter 00400` |
 | `uses.py` | when a card changes, the drafted chapters whose bundle gave the changed field, and the lines of their pages that name the card: where to look again | `python3 tools/uses.py --manifests plan/records/drafting --since HEAD~5 --called plan/workflows/cards/called.tsv` |
+| `sizes.py` | what is too big to work with: fields over 500 words (the distill answer test), cards over 3,000, outline and design files over 8,000 (to page); with saved manifests, each field marked with the chapters that read it | `python3 tools/sizes.py [--manifests DIR]` |
 
 ### Speciality
 

@@ -4,7 +4,7 @@
 
 A novel in progress by [your pen name]. The setting's facts are in `world/`. The story is in `story/`, one folder per type of information: `outline/`, `notes/`, `prose/`, `voice/`, `calendar/`. A chapter has one number in every folder: `00100` is chapter 1, in steps of 100, so a chapter added between 00300 and 00400 is `00350`. The index is [README.md](README.md). The procedures are in `plan/workflows/`, the forms in `plan/templates/`, the scripts in `tools/`; the method's stages and reasons are in `kit/`.
 
-**Read `plan/README.md` at the start of every session**, then `plan/roadmap.md` and `plan/state.md`. Check them against `git log`: they are written by Claude and can be wrong.
+**Read `plan/README.md` at the start of every session**, then `plan/roadmap.md` and `plan/state.md`. Check them against `git log`: they are written by Claude and can be wrong. When the writer asks "what now?" or "what next?", or a session starts with no task named, run [next](plan/workflows/next.md).
 
 ## The writer's existing work
 

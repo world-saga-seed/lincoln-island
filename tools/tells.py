@@ -61,7 +61,7 @@ def body_lines(path, stop):
     return out
 
 
-def numbers(lines):
+def numbers(lines, counts=()):
     text = '\n'.join('' if l.startswith('#') else l for l in lines)
     narr = QUOTED.sub('', text)
     words = narr.split()
@@ -76,7 +76,7 @@ def numbers(lines):
     c = lambda rx: len(re.findall(rx, narr, re.I))
     return {
         'w': len(words),
-        'way/k': 1000 * c(r'\bthe way (you|a|an|he|she|they|it|people|somebody|someone)\b') / w,
+        'way/k': 1000 * c(r'\bthe way (you|a|an|he|she|they|it|people|somebody|someone|anybody|anyone)\b') / w,
         'asif/k': 1000 * c(r'\bas (if|though)\b') / w,
         'and/s': c(r'\band\b') / max(1, len(sents)),
         'neg/k': 1000 * c(r'\b(not|no|nothing|never|nobody|none)\b') / w,
@@ -86,6 +86,7 @@ def numbers(lines):
         'long%': 100 * sum(x >= 25 for x in lens) / len(lens),
         'button%': 100 * sum(len(s[-1].split()) <= 5 for s in multi) / max(1, len(multi)),
         'knots': [s.strip() for s in sents if ';' in s and len(s.split()) >= 35],
+        'counts': [(name, 1e4 * c(rx) / w) for name, rx in counts],
     }
 
 
@@ -95,16 +96,19 @@ def main():
     ap.add_argument('--banned', help='banned list: one word or phrase per line; re: starts a regex; # a comment')
     ap.add_argument('--stop', default=r'^## Notes', help='stop reading a file at a line matching this regex (default: ^## Notes)')
     ap.add_argument('--all-text', action='store_true', help='scan dialogue for banned words too')
+    ap.add_argument('--count', action='append', default=[], metavar='NAME=REGEX',
+                    help='also count a pattern in narration, per 10,000 words (repeatable), for a habit of your own narrator')
     a = ap.parse_args()
     banned = load_banned(a.banned) if a.banned else []
     hits = []
     for f in a.files:
         lines = body_lines(f, a.stop)
-        n = numbers(lines)
+        n = numbers(lines, [tuple(x.split('=', 1)) for x in a.count])
         name = f.replace('\\', '/').split('/')[-1][:30]
         print(f"{name:30} w={n['w']:5} way/k={n['way/k']:4.1f} asif/k={n['asif/k']:4.1f} "
               f"and/s={n['and/s']:.2f} neg/k={n['neg/k']:4.1f} med={n['med']:2} sd={n['sd']:4.1f} "
-              f"short%={n['short%']:3.0f} long%={n['long%']:3.0f} button%={n['button%']:3.0f}")
+              f"short%={n['short%']:3.0f} long%={n['long%']:3.0f} button%={n['button%']:3.0f}"
+              + ''.join(f" {k}/10k={v:4.1f}" for k, v in n['counts']))
         for k in n['knots']:
             print(f"    knot ({len(k.split())} words): {' '.join(k.split())[:160]}")
         for i, line in enumerate(lines, 1):

@@ -9,7 +9,7 @@ the candidates; you, or the reviser, judge them.
 
 Usage:
   python3 tools/stutters.py FILE [FILE ...] [--window W] [--standing N]
-                            [--clues FILE ...] [--stop HEADING] [--summary]
+                            [--clues FILE ...] [--notes DIR] [--stop HEADING] [--summary]
 
   FILE          chapters (a shell glob is fine)
   --window W    the most words between the two uses (default 250)
@@ -17,6 +17,9 @@ Usage:
                 motif, listed apart and not as hits (default 6)
   --clues FILE  files holding your clue register or a chapter's planted lines;
                 a hit whose words are in one is marked "clue?" (repeatable)
+  --notes DIR   a folder of chapter notes: each chapter's own notes (the files
+                in DIR whose names start with the chapter's leading number) count
+                as clues for that chapter
   --stop H      stop reading a file at a line starting H (default "## Notes")
   --summary     one line per chapter, no hits
 
@@ -59,7 +62,16 @@ def lines_of(path, stop):
     return out
 
 
+def notes_for(path, d):
+    m = re.match(r'(\d+)', os.path.basename(path))
+    if not (d and m):
+        return ''
+    return ' '.join(open(os.path.join(d, f), encoding='utf-8').read().lower()
+                    for f in sorted(os.listdir(d)) if f.startswith(m.group(1) + '-') and f.endswith('.md'))
+
+
 def scan(path, a, clues):
+    clues = clues + ' ' + notes_for(path, a.notes)
     words, para_frames, counts = [], [], defaultdict(int)
     for ln, text in lines_of(path, a.stop):
         for w in WORD.findall(text):
@@ -104,6 +116,7 @@ def main():
     ap.add_argument('--window', type=int, default=250)
     ap.add_argument('--standing', type=int, default=6)
     ap.add_argument('--clues', action='append', default=[])
+    ap.add_argument('--notes')
     ap.add_argument('--stop', default='## Notes')
     ap.add_argument('--summary', action='store_true')
     a = ap.parse_args()

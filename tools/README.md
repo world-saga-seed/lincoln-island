@@ -1,6 +1,6 @@
 # Tools
 
-Sixteen small Python scripts. Standard library only (Python 3.8 or later), no paths written into them, everything set by arguments. They come with the clone, in `tools/`; run each from the book's top folder. Every script answers `--help`.
+Seventeen small Python scripts. Standard library only (Python 3.8 or later), no paths written into them, everything set by arguments. They come with the clone, in `tools/`; run each from the book's top folder. Every script answers `--help`.
 
 They give the method its mechanical checks: verdicts nobody argues with, under every judgment a critic or reader makes. **Try each one on a case it must catch before you trust a clean result from it** (a planted broken link, a planted banned word).
 
@@ -35,7 +35,7 @@ They come in three levels. Start with the basic ones; add the refinement checks 
 
 ### Speciality
 
-*For some books only, by what the book does: a viewpoint whose size is not an adult's, sounds written out in letters, several viewpoint heads, a narrator who knows less or believes wrongly, and a change sent back to the kit.*
+*For some books only, by what the book does: a viewpoint whose size is not an adult's, sounds written out in letters, a chapter's beats marked by source, several viewpoint heads, a narrator who knows less or believes wrongly, and a change sent back to the kit.*
 
 | Script | Does | Typical run |
 |---|---|---|
@@ -43,6 +43,7 @@ They come in three levels. Start with the basic ones; add the refinement checks 
 | `sounds.py` | every sound span (phonetic letters between slashes) with its line, speech or narration, earlier uses and forbidden symbols; flags a volume where the device is rare | `python3 tools/sounds.py story/prose/*.md --batch 3 --forbid "ɒ ː ɹ"` |
 | `attribution.py` | unlabeled paragraphs for a blind attribution test in a book with several viewpoint heads, and the key to score it | `python3 tools/attribution.py story/prose/03*.md --heads "03100-x.md:1-40=Ada,03100-x.md:41-200=Ben" --out attribution.md --key key.md` |
 | `knowledge.py` | the knowledge-guard entries in force at one chapter (what each narrating head knows, believes wrongly and does not know), for the drafter's and critics' briefs | `python3 tools/knowledge.py 00500 --out tmp/knowledge-00500.md` |
+| `markup.py` | a chapter as local HTML coloured by whose beat each passage carries (keyframe, assisted, tween), the clues highlighted, lore underlined, every source in a tooltip, from the finds of cheap locators ([markup](../plan/workflows/markup.md)) | `python3 tools/markup.py items 00400` · `render 00400` |
 | `check_leak.py` | checks that a change meant for the kit carries nothing of your book: names from its cards and sheets, runs of words from its prose and notes, email addresses ([CONTRIBUTING](../CONTRIBUTING.md)) | `git diff upstream/master \| python3 tools/check_leak.py --book ../my-book` |
 
 ## Notes on each
@@ -99,4 +100,5 @@ Each script was run on the kit's `example/` folder:
 - `aged.py` on the example's outlines with a cutoff after its ledger day: the lines marked only by older rulings flagged as aged; a planted "from the draft" line linking a retired chapter flagged for both.
 - `attribution.py` on a two-head draft with a paragraph planted in the wrong head's voice: 15 paragraphs, 10 and 5, the planted one among them, the key holding each line and head. A cold reader given the file put all 15 in the right head and named the planted one as wrong for its head.
 - `knowledge.py` on the example's guard at 00100, 00500 and 00600: 6, 8 and 6 entries, the right ones; at 00500 the belief and the not-known that end there marked as turning.
+- `markup.py` on the example's 00400 with four planted finds: 20 items listed (8 keyframe sources, 12 assisted); three finds placed with their colours, the planted one with words not on the page dropped and listed.
 - `epub.py`: a numbered build with one drafted chapter and one placeholder, and a file-list build with `--kepub`; every XML part parsed as well-formed.

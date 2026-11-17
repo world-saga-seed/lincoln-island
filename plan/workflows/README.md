@@ -38,6 +38,7 @@ Each workflow has three labels.
 | [reader-tests](reader-tests.md) | Synthesis | Basic | Proven | the key and the blind probe; the story questions, reread test and quiz are Refinements, each marked |
 | [scene-outlines](scene-outlines.md) | Synthesis | Basic | Used |  |
 | [ereader](ereader.md) | Finishing | Refinement | Used | a stretch is long enough to read as a book |
+| [markup](markup.md) | Finishing | Speciality | Experimental | you want to see or show whose beats a chapter carries |
 | [interest-check](interest-check.md) | Finishing | Refinement | Proven | a volume is refined and a dull stretch is feared |
 | [publication](publication.md) | Finishing | Refinement | Experimental | a volume is about to be released (once per volume) |
 | [series-critic](series-critic.md) | Finishing | Speciality | Experimental | a clue's plant and payoff are both drafted |

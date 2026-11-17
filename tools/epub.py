@@ -60,6 +60,9 @@ body.front p { text-indent: 0; text-align: left; margin: 0 0 0.75em; }
 body.front h3 { margin: 1.6em 0 0.6em; font-size: 1.05em; font-variant: small-caps; letter-spacing: 0.04em; }
 body.front ul { margin: 0 0 0.75em 1.2em; padding: 0; }
 body.front li { margin: 0 0 0.3em; }
+body.copyright { font-size: 0.78em; line-height: 1.25; }
+body.copyright h2 { margin: 0.5em 0 1em; }
+body.copyright p { margin: 0 0 0.5em; }
 p.placeholder { color: #666; }
 """
 FONTS = ['/mnt/c/Windows/Fonts/georgia.ttf', '/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf',
@@ -213,7 +216,8 @@ def main():
         t, b = front(f, full_title)
         t = forced or t
         name = 'front' if k == 0 else f'front{k + 1}'
-        entries.append((name, f'{name}.xhtml', t, page(t, b, 'front')))
+        cls = 'front copyright' if t.strip().lower() == 'copyright' else 'front'   # a page titled Copyright is set small, to fit one screen
+        entries.append((name, f'{name}.xhtml', t, page(t, b, cls)))
     skip = {int(x) for x in a.skip.split(',') if x.strip()}
     if a.files:
         for p in a.files:

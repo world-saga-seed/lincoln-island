@@ -597,13 +597,15 @@ def main():
                            if (' ' in k and re.search(r'\b' + re.escape(k) + r'\b', text))
                            or (' ' not in k and (re.sub(r'(?<=[a-z]{3})(es|s)$', '', k) in words
                                                  or any(len(w) >= 5 and k.endswith(w) and k != w for w in words)))})
-            if c in named or hits:
-                score[c] = (2 if c in named else 0) + len(hits), name, hits
+            term = re.sub(r'^(the|a|an) ', '', name.lower())
+            by_name = c in named and (' ' in term or bool(hits))   # a one-word name ("Open", "Land") alone matches far too much
+            if by_name or len(hits) >= 2:   # one keyword alone ("village", "path") is a search word, not a mention
+                score[c] = (2 if by_name else 0) + len(hits), name, hits, by_name
         notes = next((p for p in srcs if '/notes/' in p), srcs[-1])
         print(f'# Includes to consider for {N}: cards the outline and notes name or match by a keyword, not linked')
         print('# Paste the right ones under the notes\' Cards heading, with the fields the chapter needs.\n')
-        for c, (s, name, hits) in sorted(score.items(), key=lambda x: (-x[1][0], x[0]))[:a.suggest]:
-            why = ('named' if c in named else '') + (('; ' if c in named and hits else '') + 'keywords: ' + ', '.join(hits) if hits else '')
+        for c, (s, name, hits, by_name) in sorted(score.items(), key=lambda x: (-x[1][0], x[0]))[:a.suggest]:
+            why = ('named' if by_name else '') + (('; ' if by_name and hits else '') + 'keywords: ' + ', '.join(hits) if hits else '')
             print(f'- [{name}]({os.path.relpath(c, os.path.dirname(notes))}):   <!-- {why} -->')
         return
 

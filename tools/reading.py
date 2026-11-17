@@ -309,6 +309,31 @@ DRAFT_CUT = {'appears in', 'open', 'origin and lineage', 'history'}
 AHEAD = re.compile(r'^(in volume|in the .* arc|ahead|later|after\b|the war arc|forward|elsewhere)', re.I)
 
 
+def all_fields(path):
+    """Every top-level field on a card, in any section: {label lower: (label, text, section title)}. cards.fields
+    reads a card's first section only, which is its form; an include may name a field further down."""
+    out, sec, cur = {}, '', None
+    lines = open(path, encoding='utf-8').read().split('\n')
+    for line in lines:
+        h = re.match(r'#+ (.*)', line)
+        m = re.match(r'- \*\*([^*]+?)\.\*\*', line)
+        if h:
+            sec, cur = h.group(1).strip(), None
+        elif m:
+            cur = m.group(1).strip().lower()
+            out.setdefault(cur, [m.group(1).strip(), [line], sec])
+        elif cur and (line.startswith(' ') or line.startswith('\t')) and line.strip():
+            out[cur][1].append(line)
+        elif not line.strip():
+            continue
+        else:
+            cur = None
+    return {k: (v[0], '\n'.join(v[1]), v[2]) for k, v in out.items()}
+
+
+MISSING = []
+
+
 def rejoin(asked, order):
     """An include's fields split on commas; a label with a comma in it ("It pools by depth, above the water")
     comes back whole when its pieces, in the order written, make one of the card's labels."""
@@ -472,10 +497,34 @@ def bundle(a, step, srcs, cards, links, incl, sheets, prev, between, named, othe
             every = role is None or role[0] == '*'
             if t in incl and every:  # an include's fields, in the card's own order (the form's)
                 order = [f[0].lower() for f in cardtool.fields(t)]
-                w = sorted(rejoin(incl[t], order), key=lambda x: order.index(x.lower()) if x.lower() in order else len(order))
+                known = order + list(all_fields(t)) + [sections(t)[x][0].lower() for x in sections(t) if x]
+                w = sorted(rejoin(incl[t], known), key=lambda x: order.index(x.lower()) if x.lower() in order else len(order))
             else:
                 w = role
-            body = card_text(t, links[t], w, settled, cuts, aliases)
+            S = sections(t)
+            heads = {S[x][0].lower(): x for x in S if x}
+            named_secs = [heads[x.lower()] for x in (w or []) if t in incl and x.lower() not in order and x.lower() in heads] \
+                if t in incl and every else []   # an include may name a section of a card by its heading
+            if named_secs:
+                w = [x for x in w if x.lower() not in heads or x.lower() in order]
+            later = []
+            if t in incl and every:   # fields further down the card (past its first section), and names found nowhere
+                af = all_fields(t)
+                for x in list(w or []):
+                    k = x.lower()
+                    if k in order or k in heads:
+                        continue
+                    if k in af and not (step in ASIDE_FREE and 'author-side' in af[k][2].lower()):
+                        later.append(af[k][1])
+                    elif k != 'cited':
+                        MISSING.append((t, x))
+                w = [x for x in w if x.lower() in order or x.lower() in heads]
+            body = card_text(t, links[t], w, settled, cuts, aliases) if (w or not (named_secs or later)) else ''
+            if later:
+                body = (body + '\n' + cut('\n'.join(later), settled, cuts)).strip()
+            if named_secs:
+                body = (body + '\n\n' + cut('\n\n'.join(lines_of(t, S[x][2], S[x][3]) for x in sorted(named_secs, key=lambda x: S[x][2])),
+                                             settled, cuts)).strip()
             MANIFEST.append((t, given(body) if body.strip() else 'nothing asked for'))
             if body.strip():
                 name = cardtool.head(t)[0]
@@ -494,10 +543,26 @@ def bundle(a, step, srcs, cards, links, incl, sheets, prev, between, named, othe
                 continue
             if sh in incl and every and smode not in ('habits', 'size'):  # the include names the sheet's fields
                 order = [f[0].lower() for f in cardtool.fields(sh)]
-                want = sorted(rejoin(incl[sh], order), key=lambda x: order.index(x.lower()) if x.lower() in order else len(order))
+                known = order + list(all_fields(sh)) + [sections(sh)[x][0].lower() for x in sections(sh) if x]
+                want = sorted(rejoin(incl[sh], known), key=lambda x: order.index(x.lower()) if x.lower() in order else len(order))
                 body = card_text(sh, set(), [w for w in want if w.lower() in order], settled, cuts, aliases)
                 if any(w.lower().startswith('habit') for w in want) and not any(o.startswith('habit') for o in order):
                     body = (body + '\n' + sheet_text(sh, 'habits', a, settled, cuts, aliases)).strip()  # Habits as a section
+                af, S = all_fields(sh), sections(sh)
+                heads = {S[x][0].lower(): x for x in S if x}
+                later = []
+                for x in want:
+                    k = x.lower()
+                    if k in order or k.startswith('habit'):
+                        continue
+                    if k in heads:
+                        later.append(lines_of(sh, S[heads[k]][2], S[heads[k]][3]))
+                    elif k in af and not (step in ASIDE_FREE and 'author-side' in af[k][2].lower()):
+                        later.append(af[k][1])
+                    else:
+                        MISSING.append((sh, x))
+                if later:
+                    body = (body + '\n' + cut('\n'.join(later), settled, cuts)).strip()
             else:
                 body = sheet_text(sh, smode, a, settled, cuts, aliases)
             MANIFEST.append((sh, given(body) if body.strip() else 'nothing'))
@@ -629,11 +694,19 @@ def main():
             by_name = c in named and (' ' in term or bool(hits))   # a one-word name ("Open", "Land") alone matches far too much
             if by_name or len(hits) >= 2:   # one keyword alone ("village", "path") is a search word, not a mention
                 score[c] = (2 if by_name else 0) + len(hits), name, hits, by_name
+        for sh in glob.glob(os.path.join(a.sheets, '**', '*.md'), recursive=True):  # a sheet whose Appears in names the chapter
+            sh = os.path.normpath(sh)
+            if os.path.basename(sh) == 'README.md' or sh in links or sh in incl:
+                continue
+            ap = next((f[3] for f in cardtool.fields(sh) if f[0].lower() == 'appears in'), '')
+            if re.search(r'\b' + re.escape(N) + r'\b', ap):
+                s, name, hits, _ = score.get(sh, (0, cardtool.head(sh)[0], [], False))
+                score[sh] = (s + 3, name, hits, 'appears')
         notes = next((p for p in srcs if '/notes/' in p), srcs[-1])
         print(f'# Includes to consider for {N}: cards the outline and notes name or match by a keyword, not linked')
         print('# Paste the right ones under the notes\' Cards heading, with the fields the chapter needs.\n')
         for c, (s, name, hits, by_name) in sorted(score.items(), key=lambda x: (-x[1][0], x[0]))[:a.suggest]:
-            why = ('named' if by_name else '') + (('; ' if by_name and hits else '') + 'keywords: ' + ', '.join(hits) if hits else '')
+            why = ('its Appears in lists ' + N if by_name == 'appears' else 'named' if by_name else '') + (('; ' if by_name and hits else '') + 'keywords: ' + ', '.join(hits) if hits else '')
             print(f'- [{name}]({os.path.relpath(c, os.path.dirname(notes))}):   <!-- {why} -->')
         return
 
@@ -686,6 +759,9 @@ def main():
         out.append('')
     if a.bundle:
         out = bundle(a, step, srcs, cards, links, incl, sheets, prev, between, named, other)
+        for card, x in MISSING:  # an include named a field the card does not have: say so, never drop it silently
+            print(f'reading.py: {card} has no field or section "{x}" (named in the Cards block)', file=sys.stderr)
+            MANIFEST.append((card, f'not found: {x}'))
         MANIFEST.extend((t, 'named, not given') for t in sorted(named))
         if a.manifest:
             with open(a.manifest, 'w', encoding='utf-8') as f:

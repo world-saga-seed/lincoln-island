@@ -34,7 +34,11 @@ Then any banned-word hits as  file:line  word  | the line.
 Read the numbers against the same numbers for the writer's own pages; there is
 no universal good value.
 """
-import argparse, re, sys
+import argparse, os, re, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import context  # noqa: E402  (the shared pattern matcher, for the banned-word scan)
+
 
 QUOTED = re.compile(r'"[^"\n]*"|“[^”\n]*”')
 
@@ -111,13 +115,12 @@ def main():
               + ''.join(f" {k}/10k={v:4.1f}" for k, v in n['counts']))
         for k in n['knots']:
             print(f"    knot ({len(k.split())} words): {' '.join(k.split())[:160]}")
-        for i, line in enumerate(lines, 1):
-            if line.startswith('#'):
-                continue
-            scan = line if a.all_text else QUOTED.sub(' ', line)
-            for label, rx in banned:
-                for m in rx.finditer(scan):
-                    hits.append(f'{f}:{i}  {m.group(0)}  | {line.strip()[:100]}')
+        if banned:
+            pats = [{'label': j, 're': rx, 'near_re': None, 'unless_re': None, 'within': 0,
+                     'narration': not a.all_text} for j, (label, rx) in enumerate(banned)]
+            found = context.find(f, pats, a.stop, merge_sentences=False)[2]
+            for h in sorted(found, key=lambda h: (h['line'], h['label'], h['col'])):
+                hits.append(f'{f}:{h["line"]}  {h["match"]}  | {lines[h["line"] - 1].strip()[:100]}')
     if banned:
         print(f'\n{len(hits)} banned-word hits' + (':' if hits else ''))
         for h in hits:

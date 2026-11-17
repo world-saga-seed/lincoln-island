@@ -31,6 +31,9 @@ gets it with --prose and judges each phrase against the heights and the cards.
 """
 import argparse, glob, os, re, sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import context  # noqa: E402  (the shared reader: stops at the notes, skips headings)
+
 BODY = {'eyes': 0.93, 'chin': 0.87, 'shoulder': 0.82, 'chest': 0.72,
         'waist': 0.6, 'hip': 0.5, 'knee': 0.28}
 ADULT = 'an adult man is about 170 cm: belt at about 100, a counter or bench top 90 to 100'
@@ -44,20 +47,23 @@ TRIGGER = re.compile(r"\b(at (?:my|his|her|our|their) height|(?:my|his|her|their
 WATCH = ['belt', 'apron', 'elbow', 'coat', 'strap', 'boot', 'wheel', 'skirt', 'leg', 'knee', 'pack']  # the crowd from below: repeats here are the ones a reader notices
 
 
-def phrases(path):
-    """Each size phrase: the sentence round the trigger (eight words before, twelve after), and the watch words in it."""
+def phrases(path, stop=r'^## Notes'):
+    """Each size phrase: the sentence round the trigger (eight words before, twelve after), and the watch words in it.
+    The page is read through context's reader, so the chapter's notes and its headings are not."""
     out = []
-    for n, line in enumerate(open(path, encoding='utf-8'), 1):
-        for m in TRIGGER.finditer(line):
-            start = max(line.rfind('. ', 0, m.start()), line.rfind('"', 0, m.start()), -1) + 1
-            before = re.split(r'\s+', line[start:m.start()].strip())[-8:]
-            after = re.split(r'(?<=[.;"])\s', line[m.start():])[0].split()[:12]
-            tail = ' '.join(w for w in before + after if w)
-            keys = {w for w in WATCH if re.search(r'\b' + w + r's?\b', tail, re.I)}
-            if out and out[-1][0] == n and (tail in out[-1][1] or out[-1][1] in tail):
-                out[-1] = (n, max(tail, out[-1][1], key=len), keys | out[-1][2])
-            else:
-                out.append((n, tail, keys))
+    pats = [{'label': 'size', 're': TRIGGER, 'near_re': None, 'unless_re': None, 'within': 0, 'narration': False}]
+    paras, _, hits = context.find(path, pats, stop, merge_sentences=False)
+    for h in hits:
+        n, line, s = h['line'], paras[h['para']][1], h['offset']
+        start = max(line.rfind('. ', 0, s), line.rfind('"', 0, s), -1) + 1
+        before = re.split(r'\s+', line[start:s].strip())[-8:]
+        after = re.split(r'(?<=[.;"])\s', line[s:])[0].split()[:12]
+        tail = ' '.join(w for w in before + after if w)
+        keys = {w for w in WATCH if re.search(r'\b' + w + r's?\b', tail, re.I)}
+        if out and out[-1][0] == n and (tail in out[-1][1] or out[-1][1] in tail):
+            out[-1] = (n, max(tail, out[-1][1], key=len), keys | out[-1][2])
+        else:
+            out.append((n, tail, keys))
     return out
 
 

@@ -31,9 +31,19 @@ a flag when that is one or none. Give it to the voice critic with the rule from
 the voice sheet: a span in narration, or one for a word that already reached
 italics or plain words on an earlier page, is a candidate.
 """
-import argparse, os, re
+import argparse, os, re, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import context  # noqa: E402  (the shared reader: paragraphs, dialogue, line and column)
 
 IPA = 'ɪʊəɛɔæɑʌɜɹʃʒθðŋˈˌːɐɒʔɾɚɝ'
+
+
+def spans(path, span, chars, stop):
+    """Each sound span in a file: (line, span, in speech), from context's reader."""
+    pats = context.compile_patterns([{'label': 'span', 'rx': span}], flags=0)
+    _, _, hits = context.find(path, pats, stop, merge_sentences=False)
+    return [(h['line'], h['match'], h['quoted']) for h in hits if chars & set(h['match'])]
 
 
 def main():
@@ -46,30 +56,22 @@ def main():
     ap.add_argument('--chars', default=IPA)
     ap.add_argument('--stop', default=r'^## Notes')
     a = ap.parse_args()
-    span, chars, forbid = re.compile(a.span), set(a.chars), a.forbid.split()
+    chars, forbid = set(a.chars), a.forbid.split()
     k = a.batch or len(a.files)
     batch = set(a.files[-k:])
     volume = set(a.files[-(a.volume or k):])
     seen, vol, out = {}, set(), []
     for pos, f in enumerate(a.files):
         name = os.path.basename(f)[:-3]
-        for i, line in enumerate(open(f, encoding='utf-8').read().split('\n'), 1):
-            if a.stop and re.search(a.stop, line):
-                break
-            for m in span.finditer(line):
-                sp = m.group(0)
-                if not chars & set(sp):
-                    continue
-                if f in volume:
-                    vol.add(f)
-                if f in batch:
-                    inside = (line[:m.start()].count('"') % 2 == 1
-                              or line[:m.start()].count('“') > line[:m.start()].count('”'))
-                    prior = len({c for c in seen.get(sp, set()) if c < pos})
-                    bad = [s for s in forbid if s in sp]
-                    out.append(f"- {name}:{i} {sp} {'in speech' if inside else '**in narration**'}; "
-                               f"earlier chapters: {prior}" + (f"; **forbidden: {' '.join(bad)}**" if bad else ''))
-                seen.setdefault(sp, set()).add(pos)
+        for i, sp, inside in spans(f, a.span, chars, a.stop):
+            if f in volume:
+                vol.add(f)
+            if f in batch:
+                prior = len({c for c in seen.get(sp, set()) if c < pos})
+                bad = [s for s in forbid if s in sp]
+                out.append(f"- {name}:{i} {sp} {'in speech' if inside else '**in narration**'}; "
+                           f"earlier chapters: {prior}" + (f"; **forbidden: {' '.join(bad)}**" if bad else ''))
+            seen.setdefault(sp, set()).add(pos)
     print('# Sound spans\n')
     print('\n'.join(out) or 'None.')
     print(f'\nSpans in the volume: in {len(vol)} chapter(s).'

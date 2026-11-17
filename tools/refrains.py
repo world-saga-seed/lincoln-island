@@ -29,8 +29,11 @@ one longer run). Give it to the habits critic: a refrain keeps its full showing
 the first time, at a farewell, or where it changes something, and is cut to a
 gesture or a word between.
 """
-import argparse, os, re
+import argparse, os, re, sys
 from collections import defaultdict
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import context  # noqa: E402  (the shared reader and pattern matcher)
 
 FUNC = set('''the a an of to in on at by for and or but as i my me he his she her it its
 we our they them was were had is be that this with from up down out over under
@@ -38,12 +41,9 @@ far side end back edge one'''.split())
 
 
 def body(path, stop):
-    out = []
-    for line in open(path, encoding='utf-8').read().split('\n'):
-        if stop and re.search(stop, line):
-            break
-        out.append('' if line.startswith('#') else line)
-    return '\n'.join(out)
+    """The chapter's text, paragraph by paragraph, through context's reader."""
+    paras, _, _ = context.units(path, stop)
+    return '\n'.join(t for _, t in paras)
 
 
 def norm(s):
@@ -65,18 +65,24 @@ def main():
     ap.add_argument('--stop', default=r'^## Notes')
     a = ap.parse_args()
 
-    refs = []
+    specs = []
     for line in open(a.list, encoding='utf-8'):
         if line.strip() and not line.startswith('#'):
             label, rx = line.rstrip('\n').split('\t', 1)
-            refs.append((label, re.compile(rx, re.I)))
+            specs.append({'label': label, 'rx': rx})
+    pats = context.compile_patterns(specs)
     chaps = [(os.path.basename(f)[:-3], body(f, a.stop)) for f in a.files]
+    counts = {}  # (chapter, label) -> matches, from context.find
+    for f, (c, _) in zip(a.files, chaps):
+        for h in context.find(f, pats, a.stop, merge_sentences=False)[2]:
+            counts[(c, h['label'])] = counts.get((c, h['label']), 0) + 1
     batch = {c for c, _ in chaps[-a.batch:]} if a.batch else {c for c, _ in chaps}
 
     print(f'# Refrains, {chaps[0][0]} to {chaps[-1][0]}\n')
     print('| Refrain | Volume | Per chapter | Flag |\n|---|---|---|---|')
-    for label, rx in refs:
-        per = [(c, len(rx.findall(t))) for c, t in chaps]
+    for d in pats:
+        label = d['label']
+        per = [(c, counts.get((c, label), 0)) for c, _ in chaps]
         tot = sum(k for _, k in per)
         if not tot:
             continue

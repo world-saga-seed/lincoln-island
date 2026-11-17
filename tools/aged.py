@@ -36,7 +36,7 @@ import argparse, glob, os, re
 from collections import Counter
 
 DATE = re.compile(r'\b(\d{4})-(\d\d)-(\d\d)\b')
-RID = re.compile(r'\b[A-Z](\d{4})-\d+\b')
+RID = re.compile(r'\b[A-Z](\d{4})-\d+(?:-\d+)?\b')
 
 
 def ledger_dates(d):
@@ -47,7 +47,7 @@ def ledger_dates(d):
         if not m:
             continue
         for line in open(p, encoding='utf-8'):
-            c = re.match(r'\|\s*([A-Z]\d{4}-\d+)\s*\|', line)
+            c = re.match(r'\|\s*([A-Z]\d{4}-\d+(?:-\d+)?)\s*\|', line)
             if c:
                 out[c.group(1)] = '-'.join(m.groups())
     return out

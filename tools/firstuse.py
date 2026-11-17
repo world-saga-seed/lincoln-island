@@ -31,12 +31,24 @@ only once more most some such than very just like your yours mine ours here back
 down even ever every much many each other another again away also because'''.split())
 
 
+SHOWN = {}  # a folded word -> the shortest form of it seen, to print
+
+
+def fold(w):
+    """One key for a word and its plural: winch and winches, cache and caches, board and boards."""
+    k = w[:-1] if w.endswith('s') and not w.endswith('ss') else w
+    return k[:-1] if re.search(r'(ch|sh|x|ss|zz)e$', k) else k
+
+
 def words(t):
     for w in re.findall(r"[a-z][a-z'-]{3,}", t.lower()):
         w = re.sub(r"'s$", '', w).strip("'-")
         if len(w) < 4 or w in STOP:
             continue
-        yield w[:-1] if w.endswith('s') and not w.endswith('ss') else w
+        k = fold(w)
+        if k not in SHOWN or len(w) < len(SHOWN[k]):
+            SHOWN[k] = w
+        yield k
 
 
 def body(path, stop):
@@ -74,7 +86,7 @@ def main():
                 for w, (i, line) in new.items():
                     m = re.search(re.escape(w), line, re.I)
                     s = max(0, m.start() - 60) if m else 0
-                    print(f'- **{w}** ({lore[w]} cards), line {i}: …{line[s:s + 140]}…')
+                    print(f'- **{SHOWN.get(w, w)}** ({lore[w]} cards), line {i}: …{line[s:s + 140]}…')
                 print()
         seen.update(w for line in lines for w in words(line))
 

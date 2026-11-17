@@ -11,12 +11,54 @@ The writer supplies an arc's **key frames**; agents propose the frames still mis
 1. **Open a task** naming the arc, its span, the frames settled and the frames missing.
 2. **Two fresh agents:** **missing frames** (prompt A) and **the pitch** (prompt B), each writing only to the task folder.
 3. **Verify:** quotes resolve; headings exist; nothing marked settled lacks a source.
-4. **Present to the writer one question at a time,** the missing frames first, since the pitch's slots depend on them.
+4. **The interview** ([below](#the-interview)): the missing frames first, since the pitch's slots depend on them, then the gaps the pitch leaves.
 5. **Fold back:** settled frames into the notes; the pitch revised around them and moved to the arc outline.
 
 **Pace against the setting's clock.** Before placing frames, read the calendar, the ages, the travel the notes require, and who besides the main characters carries a thread offstage. A pitch that skips them crams a year into a season.
 
 **The writer's list is not an order** (`kit/method/key-frames.md`).
+
+## The interview
+
+After the pitch, and after any dictation, Claude scans what is now on paper and puts the gaps to the writer. It is the step where the writer's judgment enters: each question asks why a person acts, not only what fills a slot.
+
+**What it scans for,** in this order, since each answer can settle the ones after it:
+
+1. **A missing key frame:** a slot in the pitch, or a chapter graded none. Asked open, with no recommendation: the frame is the writer's to give, and without it nothing below is asked.
+2. **Motive:** a person who drives a beat with nothing they are after, or with no sense of how far they push.
+3. **Cause:** a beat with nothing to start it. The plain, obvious means comes first.
+4. **Knowledge:** a person acting on what they could not know: from whom, and when.
+5. **The end state:** a scene that does not leave things where the next frame starts.
+6. **A conflict:** the new text against a settled line, both quoted.
+7. **What is held:** a fact the reader must not yet learn, at risk here.
+
+The [actor-log critics](actor-log.md#the-three-critics) ask the same questions (logistics, the causal chain, the character invariant), so a horizon whose logs are current brings their open findings here too.
+
+**Each question,** short enough to read on a phone:
+
+- a number;
+- one line of context, with the source named (the card, sheet, outline line or ruling);
+- the question;
+- **Recommended:** the answer and why, from canon, or "open" where canon holds nothing;
+- the alternative, when there is a real one.
+
+**Three or four at a time.** Questions canon can answer are not asked: Claude answers them, marks them *(Proposal.)*, and lists them in one line after the questions, so the writer can overturn any.
+
+**The answers the writer can give:**
+
+| The writer says | What happens |
+|---|---|
+| **as recommended** | every open recommendation is accepted, recorded as settled on the recommendation |
+| **2 and 3 as recommended, 4: …** | mixed: the writer's words win where given |
+| **override: …** (or just the answer) | the writer's line replaces the recommendation, recorded as the writer's |
+| **discuss 4** | that question opens a back-and-forth; the rest wait |
+| **leave it** | it stays a marked proposal, open for later |
+| **next chapter** (or **next arc**) | what is settled is carded; anything unanswered stays a marked proposal; then the next brief |
+| **stop** | carded, and the session closes by [the retrospective](retrospective.md) |
+
+**The loop.** Card each round's answers before the next round (the ledger row first, then the outline, cards and sheets), then scan again: an answer often opens a new gap or closes several. Repeat until nothing is open, or the writer moves on. Claude ends each round by offering the next step ("next chapter?"); it never starts the next chapter's brief unasked.
+
+**Wording slips.** A typed or dictated answer is read by the scene it points at. Claude asks again only when a misread word would change the ruling.
 
 ## Prompt A: missing frames
 

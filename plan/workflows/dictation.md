@@ -31,14 +31,15 @@ Keep a pace the writer can hold. A key frame a day across a few weeks fills a vo
    - **three or four questions, each aimed at a character's goal in the scene and how far they push** ("what is she after?", "how far would she push him?"). A recommendation only where the canon supports one.
 3. **The writer dictates.** Read it as key frames, in the writer's words. Where a line has two readings, take the one that fits the canon and mark it *(My reading, to confirm.)*.
 4. **Answer the writer's questions from canon.** "Does that fit her?" is answered from her sheet and the settled lines, with each source named. When the writer asks how something would be done, give the plain, obvious way first.
-5. **Card it, in order:**
+5. **The interview** ([arc pitch](arc-pitch.md#the-interview)): scan the dictation for the gaps it leaves (motive, cause, knowledge, the end state, conflicts, what is held) and put them to the writer, a few at a time with a recommendation each, until nothing is open or the writer says "next chapter".
+6. **Card it, in order:**
    1. the ledger row, written as the ruling;
    2. the outline: the writer's lines as *(Settled R….)* bullets; Claude's fills as proposals; delete any reading the dictation supersedes; if the scene's order changes, renumber and fix inbound links;
    3. any rule the dictation states, at its home: a setting rule on its card, a drive on the sheet, a voice rule in the voice sheet; forward threads on the chapter that pays them off;
    4. the notes' drift line: what a redraft needs that the existing draft lacks;
    5. `python3 tools/links.py`;
    6. the task log: the chapter, its IDs, one line of what it settled, and the next chapter.
-6. **Report in a few lines,** then **give the next brief in the same message,** so the loop keeps moving.
+7. **Report in a few lines,** then **offer the next chapter** ("next chapter?"), and give its brief on that word so the loop keeps moving.
 
 ## Lessons
 

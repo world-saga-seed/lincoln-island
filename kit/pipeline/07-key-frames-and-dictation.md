@@ -6,7 +6,7 @@
 
 **Uses:** [dictation](../../plan/workflows/dictation.md), then [ripple](../../plan/workflows/ripple.md); the idea is in [kit/method/key-frames.md](../method/key-frames.md).
 
-**What happens:** the volume is graded chapter by chapter, then walked gap by gap in story order ([the volume walk](../../plan/workflows/dictation.md#the-volume-walk)). For each gap, Claude writes a brief, the writer dictates the scene, and the dictation is carded; after a run of them, a ripple scan.
+**What happens:** the volume is graded chapter by chapter, then walked gap by gap in story order ([the volume walk](../../plan/workflows/dictation.md#the-volume-walk)). For each gap, Claude writes a brief, the writer dictates the scene, and Claude interviews the writer on the gaps the dictation leaves ([the interview](../../plan/workflows/arc-pitch.md#the-interview)): motive, cause, knowledge, the end state, conflicts and what is held, a few questions at a time, each with a recommendation. The writer answers "as recommended", in their own words, "discuss", or "next chapter". Each round is carded; after a run of chapters, a ripple scan.
 
 **Outputs:** new key frames, carded. The kit's example (in the kit's repository, `example/story/notes/`) has the key frames of its arc and a brief for chapter 00700.
 

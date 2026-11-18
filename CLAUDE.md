@@ -27,6 +27,7 @@ A novel in progress by [your pen name]. The setting's facts are in `world/`. The
 13. **Commit only when the writer says so.** Edit, summarize, say it is uncommitted, and offer.
 14. **Close every session** by `plan/workflows/retrospective.md`.
 15. **When the writer is on a phone** (a Remote Control session), reply in a few lines: the verdict first, then one question or finding at a time with its recommendation. Never paste a diff or a whole report; say where it is and what it says.
+16. **Ages are stated where a scene touches sex or romance.** Anthropic's Usage Policy applies to all drafting, whatever the setting's world, species or laws. Any outline or notes touching sex or romance names the parties and their true ages at the head; a character's sheet holds every age at once, so never rely on the reader of a bundle to infer it. Where the ages are unclear, ask the writer before drafting. An age is the story's truth, never a label to make a scene pass.
 
 ## About the writer
 

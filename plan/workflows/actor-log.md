@@ -23,6 +23,15 @@ The audit asks three questions of every row and every beat the actor drives, one
 - **Causal chain.** What started them on the path that leads here (*trigger*)? Do they know what the act needs, from an earlier row that says when and from whom (*knowledge*; for a group, through a channel its Knows column names)? Do they know how to do it, by training or trade (*know-how*)? Does a want drive the beat (*motive*)?
 - **Character invariant.** Is the act consistent with the person's [sheet](character-sheet.md): their center, goals and habits? The critic names the sheet line the act breaks or stretches. **It flags, it does not block:** an act out of character can be deliberate (a mask, a breaking point), so the writer rules, and a stretch ruled deliberate goes on the sheet so it is not raised again. It runs only on people with a sheet.
 
+**Development, optional** (for a book with child characters): a fourth critic, run beside the three when the writer turns it on. For each act a minor drives, is it within what a person of that age and upbringing can do, know, judge and endure? It names the age (the sheet's table, the calendar), quotes the act, and says what a child of that age would plausibly do instead. It checks:
+  - **the body:** strength, stamina, reach (sizes are [scale.py's](../../tools/scale.py) job; this is what the body can do);
+  - **judgment:** planning ahead, weighing risk, reading adults' motives;
+  - **feeling:** how they carry fear, grief and shame, and how long they can hold it in;
+  - **talk:** the words and the rhetoric they could command;
+  - **the adults:** whether the adults around them treat them as the child they are.
+
+  **It flags, it never blocks,** like the character invariant. A gap can be deliberate, and the writer rules on it. A gap ruled deliberate goes in the sheet's author-side section, so only the critics see it and it is not raised again; it never reaches a drafter's bundle. It runs on outlines only, never on prose.
+
 **The interview is forced.** Every finding of rank (a) (step 5) is written to the task's `interview.md`: both sides quoted, the plain fix first, and a recommendation. The [drafting gate](drafting/README.md#the-gate) refuses "draft" while any item there is open. **The interview is where the human creativity comes in.** A finding is not just a fault to patch: each item asks the writer why the person did it, what moved them, and how they thought it through. The recommendation is there to accept or overrule, never a substitute for that answer, and the answer goes into the log's Wants and Knows rows and the sheet, so the drafter writes from it.
 
 ## The light pass (Basic)

@@ -12,6 +12,8 @@
 - **thin:** a beat is named, but not how it plays;
 - **none:** no writer-settled beat.
 
+For a book with child characters, the optional [development critic](../../plan/workflows/actor-log.md#the-three-critics) runs beside the three: is each act a minor drives within what their age can do, know, judge and endure? It runs on outlines only and flags for the writer to rule.
+
 Prompt O reports the grade per chapter. Once the writer has given a few key frames and the arc is pitched ([arc pitch](../../plan/workflows/arc-pitch.md)), [the interview](../../plan/workflows/arc-pitch.md#the-interview) is one way to fill the rest: Claude scans the proposed outline for missing elements and asks, the writer rules. The gate needs no chapter in the horizon graded none; a thin chapter may proceed, noted.
 
 **For the first chapter,** the arc outline's head is enough: the shape, the ending and the chapter list as far as they are known, filled in by hand from the interview's answers.

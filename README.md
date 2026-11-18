@@ -2,7 +2,7 @@
 
 *"Saga" for long: a novel of 80,000 words or more, or a series, in any genre. "Seed" because a clone of the kit is the seed your book grows from.*
 
-> **Alpha:** a work in progress, tested so far on one series, with its first outside testers starting now. Expect rough edges. What has been tested, what you need and what it costs are in [Before you start](#before-you-start).
+> **Alpha:** a work in progress, tested so far on one series, with its first outside testers starting now. Expect rough edges. What has been tested, what you need and what it costs are in [the wiki](https://github.com/world-saga-seed/world-saga-seed/wiki/Before-you-start).
 
 This kit is for a fiction writer with existing material (a manuscript, a half-draft, a folder of notes) who wants to work with Claude Code without the story drifting, without the model's habits taking over the voice, and without losing their own decisions. You do not need to be technical. It suits long work best. You can also start from nothing: the method was first run with no manuscript at all, from the interview alone.
 
@@ -10,51 +10,9 @@ It is a set of workflows: procedures Claude Code runs on your book, each saying 
 
 **What it is not:** it does not write your book for you. Claude drafts the prose; you supply every scene and decision, and can write any chapter yourself and use only the checks and reader tests on it. Claude places your scenes, proposes what goes between them, drafts to your rulings and checks the result, and nothing is done until you say so.
 
-## Words used here
-
-- **Card:** one short note per person, place or thing, holding the facts the book has settled about it.
-- **Ruling:** a decision you made about the story, written once, dated, in a list called the ledger. Two other files hold rules of other kinds: `rulings.md` is your house style for the prose (the rules every drafter keeps and every critic enforces, each citing the ledger line it came from), and `plan/README.md` holds the rules for how the work itself is run.
-- **Marks:** every line Claude adds to your notes carries one of three: *settled* (you ruled it), *proposal* (Claude suggests it, not yet yours), or *my reading* (Claude's reading of your shorthand, for you to confirm). The prose itself carries no marks.
-- **Key frame and tween:** a key frame is a scene or beat you see and give; a tween is what Claude proposes to go between your key frames.
-- **Critic:** a fresh Claude agent that reads a drafted chapter and asks one question of it (do the facts match the cards? does the voice hold?).
-- **Render:** taking a chapter from outline to checked prose: a drafter writes it, the critics check it, a reviser fixes what they found.
-- **Horizon:** how far ahead the story is outlined before drafting starts; the outlines are worked out to it, then drafted, then outlined on.
-- **Task and wave:** a task is one job for Claude, written as a file; a wave is a set of tasks run together.
-- **Token:** the unit Claude's work is measured and billed in, about three-quarters of a word read or written.
-- **Phase, level and status:** each workflow is labeled by the phase it serves (intake, exploration, synthesis, finishing, or any), by its level (Basic runs from the first chapter; a Refinement is added when its trigger shows up; a Speciality only for a book of a kind that needs it), and by how far it is proven (Proven, Tested, Used or Experimental) ([the workflows index](plan/workflows/README.md#every-workflow)).
-
-## The big ideas
-
-1. **Reader tests: unit tests for a novel, by chapter.** For each chapter, a spec of what a blind reader **must get**, **must not get**, and **may only guess**, written from your notes before the prose exists. Fresh readers who have never seen the notes read the prose and are scored against it: a secret they come back sure of is a leak; a plain thing they cannot work out is shown too thinly. It gives the prose a real answer key.
-2. **Model readers flatter model prose, so they are used to compare within your book, never to rank it.** In one calibration, two model readers each read ten works whole on a 1-to-5 interest scale: five published human-written books and five model-written works. Model prose scored about 0.7 to 0.9 points above human books of the same kind. So the kit asks its readers where a reader slides within your book and what they get from it, and never trusts an absolute score. Your own read is the one that counts.
-3. **Critics must quote, and a script checks the quotes.** The commonest way a model critic fails is to invent a problem with confidence. Every finding must quote the text it is about, and a script throws out any finding whose quote is not really in the chapter before anyone acts on it. That proves only that the quote is real: a real quote with a made-up problem still passes, which is why the critics are tested first (next) and you rule on each finding.
-4. **Critics are tested on planted faults before they are trusted.** Each critic is run on a chapter with faults planted in it, and trusted only once it finds them. In the latest test, five versions of one chapter were written in five narrations with four faults planted in each: the critics, as they were before that test, caught 19 of the 20, and a blind attribution test (a reader who names whose head each unlabeled paragraph is in) caught the twentieth. The fixes that test found are now in the kit.
-5. **The drafting and criticism chain.** Prose has no compiler, so a chapter goes through a chain cheapest first: scripts, then the narrow critics, then the quote check, then a reviser that sees only the verified findings, then the checks again.
-6. **You give the key frames; Claude fills the tweens.** Claude places your scenes and proposes what goes between, marked as proposals. Where a chapter has no key frame, Claude writes a brief and you dictate the scene.
-7. **Every decision written once, as a ruling, and every line marked.** Every line Claude adds is marked as settled, proposal or reading, so your book never blurs with the model's suggestions.
-8. **Outlines before prose, to a horizon.** Outlines are cheap to change and prose is not, so the story is worked out in outlines first.
-9. **You are the only one who says "done".** Critics find, Claude recommends, you decide.
-
 ## Before you start
 
-**What happens to what you have already written.** Your files in `existing/` are never changed; they stay as the record. That is held by Claude's instructions, as the readers' blindness is (below), and git keeps a copy of every version besides. Claude reads them, puts the facts on cards and takes each scene back into an outline. Your own pages become the style samples every new draft is measured against. A chapter is redrafted only when you ask for it.
-
-**What has been tested.** One long series (three volumes, about 300,000 words) in **first person, past tense**. Other narrations (close third, omniscient, several viewpoints, an expressive narrator) have been through one test of a single chapter, and the fixes it found are in the kit: a POV file that every critic reads (who narrates, how close, and what each narrator may know), the attribution test for books with several viewpoints, and a knowledge guard (what a narrator knows, wrongly believes and does not know, chapter by chapter), so an unreliable narrator's wrong beliefs are voiced on purpose and never corrected. They have not yet carried a whole book, so expect rough edges there.
-
-**How blind the readers are.** Each reader and critic is a fresh agent, never a copy of the session that wrote the chapter, told to read only the prose and given neutral file names, so the test does not give itself away. That is held by the prompt, not by a locked sandbox. And the readers are the same kind of model as the drafter, so they can share its blind spots: something the model gets wrong without noticing, its readers may not notice either. That is one more reason your own read is the last test.
-
-**What you need:** a computer with Claude Code installed and signed in. You do not need to know Python or git: Claude does. The kit's scripts use Python 3 and the book's history is kept in git; Claude checks both are there, helps you install either if it is missing, and runs every script and git command for you. After the setup the daily work can run from a phone ([kit/phone.md](kit/phone.md)).
-
-**What it costs, in tokens and time.** Measured on the series the kit came from, one pass over a chapter of 2,000 to 5,000 words (the drafter, then the critics) took 350,000 to 600,000 tokens and about 15 to 25 minutes of Claude working on its own; you need not watch. A chapter usually takes more than one pass: a revision and a second check bring it to about a million tokens, and reruns add more. A volume of twenty chapters runs to tens of millions.
-- **On a Pro or Max plan** this draws on your usage limit, not a bill, and a volume will not fit in one day's allowance.
-- **On the API,** at Claude Opus 5.5's listed price (checked on 2026-11-15: $4 per million tokens read, $20 per million written, and much less for text read again from cache), a pass costs at most a few dollars. Most of what Claude reads is read again from cache, so a volume comes to tens of dollars; with nothing cached it could reach about $100.
-- **Your own time** is the interview, your key frames, and reading and ruling on what the critics find. It has not been measured yet; if you test the kit, log yours.
-
-**How big the bible gets, and what a chapter reads of it.** On the same series, about 300,000 words of drafted prose stand on about 1.75 million words of lore: some 520,000 in about 600 cards, 450,000 in notes and character sheets, 570,000 in outlines (drafted chapters and some seventy ahead) and 200,000 in calendars, with the ledger of the author's rulings a further 300,000. No run reads it all. A drafter or critic run reads 150,000 to 200,000 tokens (roughly 110,000 to 150,000 words, so some 30 to 40 words read for each word written), and the brief and its named file list choose that slice, under a tenth of the lore. That intake has stayed flat between runs on the first volume and runs on the third, while the lore kept growing. A chapter's own outline and notes are small, usually one to two and a half times its prose; nearly all of a run's reading is the cards, sheets and earlier chapters the brief names. So the thing to watch as the book grows is how much each brief names, more than how big the lore gets. Log each run's tokens and look for a rise.
-
-Prices and limits change, so measure: render one chapter, then type `/usage` in Claude Code (or check the bill) to see what share it took, before you start a volume. The token log (its form is [plan/templates/tokens.md](plan/templates/tokens.md)) records what each step cost on your book.
-
-**Where your manuscript goes.** As with any Claude Code session, the files Claude reads are sent to Anthropic to be processed, under the terms of your plan; check your account's privacy settings for whether your chats may be used to train models. The kit sends nothing anywhere else: its scripts run on your computer, and the book is copied to an online backup (such as a private GitHub repository) only if you ask.
+What has been tested, what you need, what it costs in tokens and time, how much of the bible a chapter reads, and where your manuscript goes are in [the wiki](https://github.com/world-saga-seed/world-saga-seed/wiki/Before-you-start), with the [big ideas](https://github.com/world-saga-seed/world-saga-seed/wiki/The-big-ideas) behind the method and a [glossary](https://github.com/world-saga-seed/world-saga-seed/wiki/Glossary) of the words used here.
 
 **During the alpha, until 15 December 2026,** issues, comments and pull requests are open to collaborators only. To comment, ask to be added as a collaborator in the Discord discussion where the alpha was shared; anyone can read, clone and fork the kit meanwhile.
 
@@ -78,7 +36,7 @@ Then you put your manuscripts in `existing/` (drag them into the folder) and giv
 8. **Run the [blind probe](plan/workflows/reader-tests.md#3-the-blind-probe):** a fresh reader's answers on that chapter, scored against its key.
 9. **Close the session** ([retrospective.md](plan/workflows/retrospective.md)): what was learned written down and the plan's state brought up to date.
 
-Everything else is a Refinement; each says when to add it. To run the daily work from a phone once this is done, see [kit/phone.md](kit/phone.md). A book made from the kit can later pull improved workflows from it: ask Claude to update the kit, and it shows you any place where the new version meets your own edits.
+Everything else is a Refinement; each says when to add it. To run the daily work from a phone once this is done, see [working from a phone](https://github.com/world-saga-seed/world-saga-seed/wiki/Working-from-a-phone) in the wiki. A book made from the kit can later pull improved workflows from it: ask Claude to update the kit, and it shows you any place where the new version meets your own edits.
 
 ## The workflows
 
@@ -98,8 +56,7 @@ The [kit/pipeline/](kit/pipeline/README.md) is the one map of stages to workflow
 | [tools/](tools/README.md) | Nineteen small Python scripts that Claude runs, in three levels. **Basic**, for every chapter: broken links, card heads and the subject index, each run's reading list, quotes checked against the text, and an EPUB of your book for an ereader. **Refinement**, once a draft stands: the model's habit words and banned words, phrases and refrains repeated across chapters, the same phrase twice in a few paragraphs, any pattern shown in its context for a rule check or a cheap judge, words used before they are explained, and old drafts carried into a redraft. **Speciality**, only if your book needs it: sizes seen from a viewpoint that is not an adult's, written-out sounds, the attribution test for several viewpoints, the knowledge guard, a page marking each chapter's beats by whose they are, and a leak check for changes sent back to the kit. |
 | [kit/interview/](kit/interview/README.md) | The intake and interview script. |
 | [kit/pipeline/](kit/pipeline/README.md) | The stages in order: when each runs and which workflows it uses. |
-| [kit/phone.md](kit/phone.md) | Running the daily work from a phone, and an always-on host. |
-| [kit/method/](kit/method/README.md) | The reasons: tasks and waves, the book's memory, oracles for prose, marks and the ledger, cards, horizons, key frames, agent limits, craft principles, closing cleanly. |
+| [kit/method/](kit/method/README.md) | The reasons Claude reads while it works: tasks and waves, cards, horizons, key frames, choosing a check, craft principles, closing cleanly. The rest of the reasons, and the setup guides, are in [the wiki](https://github.com/world-saga-seed/world-saga-seed/wiki). |
 | [existing/](existing/README.md) | Where your manuscripts and notes go. Claude reads it and never changes it. |
 | `example/` | A toy novel through every stage in miniature, with a worked run of the drafting chain and a reader-test spec. The only thing you delete to start a book; it stays readable in the kit's repository. |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to give an improvement back: an issue, or a change sent through your own fork and reviewed there before it comes to the kit. |
@@ -113,12 +70,6 @@ Every script and every prompt in the kit has a test, kept in a separate repo so 
 - **The prompts:** a chapter with faults planted in it, an answer key, and a scorer for each. They spend tokens, and each records one baseline run to compare yours with.
 
 Found a script or a prompt getting something wrong on your own book? Make the smallest invented case that shows it, with none of your book's text, and add it there.
-
-## Three things to know
-
-- **It is slow at the start on purpose.** The first weeks are interview, cards and outlines. That is where the book is decided.
-- **Every number here was measured on another book** (reader scores, the bars a critic must pass on planted faults: how many it finds, and how many of its findings are real, card and file sizes, batch sizes). Before trusting one, run it on a chapter you know is good and one you know is weak, and set your own.
-- **The rules are yours to change.** When a rule stops serving your book, change it in `plan/README.md` and say why.
 
 ## License
 

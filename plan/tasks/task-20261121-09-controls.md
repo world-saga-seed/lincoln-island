@@ -27,6 +27,7 @@
 - 2026-11-21 Approved by the author as they stand (R1121-88) and frozen, with their checksums in SHA256SUMS. The author reports that the Gemini runs used these exact files.
 - 2026-11-21 The Gemini replies were placed in `gemini/` by the author at 07:31 local, with their checksums; `sha256sum -c` passes. Their record is `gemini/RECORD.md`, as reported and unverified; the number of tries is not stated and has been asked.
 - 2026-11-21 The Opus controls were run by the main session, one try each, 15:31 to 15:35 UTC, all ending end_turn. The record is `opus/RECORD.md`.
+- 2026-11-21 The author: Gemini, one try each. The author's blind scoring of the Gemini three was placed in `scoring/`: two judge rubrics, twelve reader questions, the prompts as run and Gemini's replies. The three instruments pass `sha256sum -c`. Committed as it stands, and closed to the main session and every agent until the comparison (R1121-89). The main session checked only the file types, sizes and checksums, and did not read the contents.
 
 ## Resolution
 

@@ -159,9 +159,14 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
+  - Pencroff, hunting, wishes he had Top, but takes him for lost with his master (I.6 ¶36). *(Drafted.)*
+    - quote: Si encore il avait eu le chien Top
+    - quote: probablement péri avec lui
   - He reaches the Chimneys, which he did not know, by instinct, in the night and the storm, and is neither tired, nor exhausted, nor soiled with mud or sand (I.7 ¶64). *(Drafted.)*
     - quote: comment son instinct avait-il pu le conduire jusqu’aux Cheminées, qu’il ne connaissait pas ?
     - quote: Top n’était ni fatigué, ni épuisé, ni même souillé de vase ou de sable
+  - At the name of Cyrus Smith he barks softly, as if to say his master was saved (I.7 ¶74). *(Drafted.)*
+    - quote: Top aboya à petits coups, comme s’il eût voulu dire que son maître était sauvé
   - In the sea he rushed to his master's help; he held him up by his clothes, and sank with him (I.8 ¶67). *(Drafted.)*
     - quote: C’était Top, qui s’était précipité à son secours
     - quote: Top le soutenait par ses vêtements

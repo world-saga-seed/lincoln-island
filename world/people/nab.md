@@ -199,6 +199,8 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: La confiance qu’ils avaient en l’ingénieur était absolue.
   - In the great cavern he uncovers his head, as if carried into a temple (I.18 ¶68). *(Drafted.)*
     - quote: Nab s’était découvert, comme s’il eût été transporté dans un temple
+  - He wants to hide his mishap over the turtle (II.1 ¶80). *(Drafted.)*
+    - quote: qui voulait cacher sa mésaventure
   - He and Pencroff had expected to find almost a god in the "génie de l’île" (III.16 ¶10). *(Drafted.)*
     - quote: là où Pencroff et Nab croyaient trouver presque un dieu
 - **Habits.**

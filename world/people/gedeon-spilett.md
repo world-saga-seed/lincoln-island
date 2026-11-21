@@ -322,6 +322,8 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: un petit morceau de bois engagé dans la doublure de son gilet
   - He notes the day's incidents in summary before sleeping (I.5 ¶88). *(Drafted.)*
     - quote: après avoir sommairement noté les incidents de ce jour
+  - He finds the double disappearance of Cyrus and Top, living or dead, inexplicable and improbable (I.7 ¶18). *(Drafted.)*
+    - quote: a quelque chose d’inexplicable et d’invraisemblable
   - He is expected to contribute largely with head and hand to colonising the island (I.13 ¶5). *(Drafted.)*
     - quote: devait contribuer largement de la tête et de la main à la colonisation de l’île
   - He will turn hunting into a trade (I.13 ¶5). *(Drafted.)*
@@ -330,6 +332,8 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: Le reporter et Harbert devinrent promptement de très-adroits tireurs d’arc
   - He promises himself, once he has a serious weapon, to wage war on the wild beasts and purge the island of them (I.13 ¶39). *(Drafted.)*
     - quote: se promettait bien de faire aux bêtes féroces une guerre acharnée
+  - He says that, if they are within a hundred miles of an inhabited coast, a boat might serve them better than a house (I.13 ¶66). *(Drafted.)*
+    - quote: nous pouvons avoir intérêt à construire un bateau
   - On 16 April, which is the day true time and mean time coincide, his chronometer is taken to give the true time at Washington (I.14 ¶70). *(Drafted.)*
     - quote: l’heure donnée par Gédéon Spilett serait l’heure vraie qu’il serait alors à Washington
   - He calls the period of the forging "la période métallurgique" in his notes (I.15 ¶31). *(Drafted.)*

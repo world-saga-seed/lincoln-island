@@ -1,0 +1,20 @@
+# Register-builder's report
+
+File: plan/reread-hooks.md. All 150 Keep quotes were tested against their cited French paragraphs by script: 0 failures. Every Payoff paragraph exists.
+
+**Counts.** 33 threads (H1-H33), 17 near puzzles (N1-N17), and a Not a clue list of about 45 grouped lines. 11 threads have Payoff "none: left open": H4 dugong's wound, H5 lead shot, H7 the Bible's marked verse, H17 the fire of 19-20 October, H27 the animals' lack of fear, H28 the turtle, H29 smoke in the west, H30 the albatross message, H31 Forster's fate, H32 the source of Nemo's electricity, H33 the apes' flight.
+
+**III.16 ¶65 incidents, each with its row:** Cyrus's rescue H1; the dog to the Chimneys H2; Top thrown from the lake H3; the chest H6; the canoe H8; the rope at the ape attack H9; the bottle and document H10; the brig's torpedo H11; the quinine H12; the electric bullets H13. (¶65 does not list the dugong, the lead shot, the fire, or the Bible; these stay open, see questions.)
+
+**Clues lines not placed.** (1) III.6 ¶80-¶83, the uprooted telegraph pole and freshly broken wire: the text offers no explanation in the convict chapters I read; left out of the tables and not listed as not-a-clue. (2) III.17 ¶59-¶90 and the content of the Nemo-Smith private talk: withheld by the text, so no row. (3) II.5 ¶70 (Top "like a creature endowed with will") is in Not a clue; it could join H14.
+
+**White cuts that remove a plant (discord numbers in `texts/align/NN-discords.md`).** Full removals of a Keep or related plant: I.9 ¶105 #11 (H27); II.12 ¶130 #41 (H10, "à quelques encâblures de la côte", the whole paragraph); III.5 ¶4 #4 (H14, Spilett's question on the well); III.6 ¶39 #13 (H18, Pencroff's oath that the boat "a navigué sans nous"); III.9 ¶41 #7 (H19, Ben Joyce); I.3 ¶36 #8 (H22, the Southern Cross at the pole); III.14 ¶54 #29 (H14, communication through the granite); III.4 ¶49 #7 (H11, strakes shredded); III.6 ¶35 #10 (H18, cable paid out); II.20 ¶3 #4 (H17, the fire guided them); III.15 ¶76 #17 (N16, free transmission of the currents); III.16 ¶53 #15 (H32, inexhaustible sources). Changed or condensed, so a White reader has a weaker plant: I.6 ¶27 #12 (palm limits, H22); III.6 ¶31 #8 (the flat knot, H18); II.16 ¶63 #22-#23 (H10); III.4 ¶95 #17 (H11); I.22 ¶53 #15 (H14, growls become whines); III.2 ¶93 #25 (H16, points to the sky becomes looks upward); II.1 ¶100 #17 (H28); II.3 ¶58 #22-#23 and I.4 ¶9 #3 (H27, around the kept quote); I.12 ¶73 #21 (H15). The two known cuts, I.9 ¶105 and III.9 ¶41, are confirmed.
+
+**Questions for the author.**
+1. H4, H5, H17 (dugong, lead shot, the shore fire): ¶65 does not explain them and III.5 ¶3-¶4 gives them to the unknown without proof. Recommend: keep as "none: left open" and let the series critic test them as fair loose ends; do not add an explanation.
+2. H9 (ladder and rope): ¶65 says Nemo "jeta la corde" from Granite-house, yet II.6 gives the ladder's return to the orang (¶95 hints), and the arm at the door is II.6 ¶37. Recommend: keep one row paying off at ¶65, as made, and let the critic see whether a reader can follow.
+3. H25 (visits from outside): natives never come; the pirates do (III.1 ¶75). Recommend: keep the Payoff as III.1 ¶75, or drop the row if natives are not wanted as a clue.
+4. H27 (animals unafraid of men) has no payoff the book states. Recommend: keep it, since the I.9 ¶105 cut shows it matters, and treat its truth as the island's emptiness before Nemo.
+5. H31 (Forster's party) and H33 (the apes' fear) are loose ends, not mysteries. Recommend: keep as rows marked left open; move to Not a clue if the author prefers.
+6. Pencroff's lost box (I.5 ¶22-¶37), the Richmond-time watch (I.12 ¶11), the Maria-Stella harpoon (II.10 ¶54-¶62) are in Not a clue pending the author. Recommend: move the harpoon to the threads (Spilett's doubt is real), leave the others.
+7. The distance label for N12 (II.14 to II.17) is "chapter" though the earliest plant is three chapters back. Recommend: split into a part-distance row if the critic needs it.

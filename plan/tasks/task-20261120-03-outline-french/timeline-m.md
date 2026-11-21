@@ -1,0 +1,53 @@
+# Timeline fragment m: the French III.2 to III.5 (04400 to 04700)
+
+The year is not stated in these chapters; dates are given as month and day. III.1 (04300) gives 17 October for the brig's arrival.
+
+- 10-17, evening: the pirates have anchored a short way off; the colonists expect a landing "le lendemain" (III.2 ¶1). *(My reading, to confirm: the day is 17 October, from III.1 ¶1.)*
+  - quote: le lendemain, au moyen de leurs canots
+- 10-17, 10:30 p.m.: Ayrton and Pencroff leave in the pirogue (III.2 ¶33). *(Drafted.)*
+  - quote: Il était dix heures et demie du soir
+- 10-17, about 11 p.m.: Ayrton reaches the brig after a half-hour swim (III.2 ¶37). *(My reading, to confirm: half an hour after the start at 10:30, plus the islet's crossing.)*
+  - quote: Une demi-heure après
+- 10-17/18, about an hour after his arrival: the uproar calms and Ayrton goes on deck (III.2 ¶57). *(Drafted.)*
+  - quote: une heure après son arrivée
+- 10-17/18, before midnight or about it: the fight in the powder room and the shots (III.2 ¶73–¶79). *(My reading, to confirm: after about an hour aboard, and half an hour before the 12:30 return in ¶82–¶83.)*
+  - quote: Une demi-heure se passa
+- 10-18, about 12:30 a.m.: the pirogue lands with Ayrton and Pencroff (III.2 ¶83). *(Drafted.)*
+  - quote: vers minuit et demi
+- 10-18, dawn: the Speedy seen in the morning mists (III.3 ¶2). *(My reading, to confirm: the next morning after 17 October.)*
+  - quote: quand l’aube commença à paraître
+- 10-18, 6:30 a.m.: the colonists are at their posts (III.3 ¶14). *(Drafted.)*
+  - quote: Il était six heures et demie du matin.
+- 10-18, 8 a.m.: the first boat is lowered from the brig (III.3 ¶23). *(Drafted.)*
+  - quote: À huit heures, cependant
+- 10-18, about 8 to 8:20 a.m.: the first shots, then the boat reaches the Mercy twenty minutes after them (III.3 ¶28, ¶36). *(My reading, to confirm: from 8 o'clock and "Vingt minutes après les premiers coups de feu".)*
+  - quote: Vingt minutes après les premiers coups de feu
+- 10-18, later in the morning: the first boat regains the brig half an hour after (III.3 ¶41); the second boat and the islet landing; the six landed (III.3 ¶43–¶47). *(Drafted.)*
+  - quote: Une demi-heure s’écoula
+- 10-18, the hour is not stated: the brig weighs; the sea "devait encore monter pendant une heure et demie" (III.3 ¶62). *(Drafted.)*
+  - quote: La mer devait encore monter pendant une heure et demie
+- 10-18, the hour is not stated: the Speedy is blown up from below and sinks in under ten seconds (III.3 ¶99). *(Drafted.)*
+  - quote: en moins de dix secondes
+- 10-18, shortly after the sinking: sea slack and very high; the moon new "depuis deux jours" (III.4 ¶17). *(Drafted.)*
+  - quote: la lune était nouvelle depuis deux jours
+- 10-18, about 1:30 p.m.: the colonists go to the wreck (III.4 ¶46). *(Drafted.)*
+  - quote: Vers une heure et demie
+- 10-18, 5 p.m.: dinner and the opening of the cases (III.4 ¶68). *(Drafted.)*
+  - quote: Il était cinq heures du soir.
+- 10-18 to 10-19, night: guard kept; no attack (III.4 ¶73–¶74). *(Drafted.)*
+  - quote: La nuit se passa, cependant, sans que les convicts eussent tenté quelque agression
+- 10-19 to 10-21: salvage of cargo and rigging (III.4 ¶75). *(Drafted.)*
+  - quote: 19, 20 et 21 octobre
+- 10-23 to 10-24, night: a north-east gale breaks the hull up (III.4 ¶78). *(Drafted.)*
+  - quote: dans la nuit du 23 au 24
+- 10-26, about: eight days after the catastrophe, nothing of the ship is seen (III.4 ¶80). *(My reading, to confirm: eight days from 18 October.)*
+  - quote: Huit jours après la catastrophe
+- 11-30: Nab finds the iron cylinder; Smith names it the remains of a torpedo (III.4 ¶81, ¶92). *(Drafted.)*
+  - quote: le 30 novembre, Nab, rôdant sur la grève
+- Several days, after the discussion of the unknown being and before 11-08: haying, harvest, storing (III.5 ¶22). *(Drafted.)*
+  - quote: Pendant quelques jours
+- 11-08: Pencroff proposes, and the colonists make, the trial of the four cannon with pyroxyle (III.5 ¶24, ¶34). *(Drafted.)*
+  - quote: c’était le 8 novembre
+- DISCORD, flagged and not reconciled: III.4 ¶81 dates the cylinder, the torpedo's proof, to 30 November, while III.5 ¶1 to ¶22 have Smith naming the torpedo and the search resolved some days before the trial dated 8 November (III.5 ¶24). Both lines above stand.
+  - quote: le 30 novembre
+  - quote: c’était le 8 novembre

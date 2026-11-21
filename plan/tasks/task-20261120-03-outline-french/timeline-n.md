@@ -1,0 +1,66 @@
+# Timeline fragment n (chapters 04800 to 05100, III.6 to III.9)
+
+The chapters give days and months but no year; the dates are written with the year left open as "----".
+
+- ----11-09, dawn: Ayrton leaves for the corral with the wagon (III.6 ¶7). *(Drafted.)*
+  - quote: Ayrton partit donc le 9 dès l’aube
+- ----11-09, about two hours after dawn: the electric bell reports all in order at the corral (III.6 ¶7). *(Drafted.)*
+  - quote: deux heures après, le timbre électrique annonçait qu’il avait trouvé tout en ordre au corral
+- ----11-09 to ----11-10: Smith's dams to hide the old outlet, during Ayrton's two days (III.6 ¶8). *(Drafted.)*
+  - quote: Pendant ces deux jours, Cyrus Smith s’occupa d’exécuter un projet
+- ----11-20: the date set for the expedition's start after a week's delay (III.6 ¶2). *(Drafted.)*
+  - quote: remettre le départ d’une semaine, c’est-à-dire au 20 novembre
+- ----11-20 minus nine days = ----11-11: "neuf jours" before the start (III.6 ¶3). Not reconciled with the 9th for Ayrton's departure. *(My reading, to confirm.)*
+  - quote: Pendant les neuf jours qui allaient précéder le départ
+- ----11-10, afternoon: the walk to Port-Ballon (III.6 ¶15). *(Drafted.)*
+  - quote: dans l’après-dînée du 10 novembre
+- ----11-10, about 3 p.m.: Pencroff, Spilett and Harbert leave Granite-house (III.6 ¶15). *(Drafted.)*
+  - quote: vers trois heures, tous trois quittèrent Granite-house
+- ----11-10, about 5 p.m.: they reach Port-Ballon after two hours' walk (III.6 ¶17). *(My reading, to confirm.)*
+  - quote: mirent deux heures à la franchir
+- ----11-10, evening: the telegram about the goats, with no acknowledgement (III.6 ¶54). *(Drafted.)*
+  - quote: Le soir même, on envoya un télégramme à Ayrton
+- ----11-10, evening: Ayrton was to be back "le 10 au soir, ou le 11 au plus tard" (III.6 ¶54). *(Drafted.)*
+  - quote: il avait été décidé que le 10 au soir, ou le 11 au plus tard, dès le matin, il serait de retour
+- ----11-10, about 10 p.m.: second dispatch, no answer (III.6 ¶56). *(Drafted.)*
+  - quote: vers dix heures du soir, il n’était aucunement question d’Ayrton
+- ----11-11, first light: Smith tries the wire again, twice (III.6 ¶64). *(Drafted.)*
+  - quote: Dès les premières lueurs du jour, — 11 novembre,
+- ----11-11, 6 a.m.: the four cross Glycerine Creek (III.6 ¶71). *(Drafted.)*
+  - quote: À six heures du matin, l’ingénieur et ses trois compagnons avaient passé le creek Glycérine
+- ----11-11, morning: the broken pole at no. 74, about halfway (III.6 ¶75, ¶85). *(Drafted.)*
+  - quote: arrivé au poteau no 74
+- ----11-11, morning: Harbert is shot at the corral gate (III.6 ¶92–¶93). *(Drafted.)*
+  - quote: Une détonation éclata au-dessus de la palissade, et un cri de douleur lui répondit.
+- ----11-11, morning: Smith kills a convict with his dagger (III.7 ¶8). *(Drafted.)*
+  - quote: frappé au cœur par le poignard de Cyrus Smith
+- ----11-11, all day and night: Harbert unconscious, fever high (III.7 ¶45). *(Drafted.)*
+  - quote: toute la journée et la nuit se passèrent ainsi sans qu’il eût repris connaissance
+- ----11-12: Harbert wakes (III.7 ¶46). *(Drafted.)*
+  - quote: Le lendemain, 12 novembre, Cyrus Smith et ses compagnons reprirent quelque espoir.
+- ----11-12, 10 a.m.: Top is sent to Granite-house (III.7 ¶85–¶86). *(Drafted.)*
+  - quote: Dix heures.
+- ----11-12, a little before 11 a.m.: Smith and Spilett wait behind the gate (III.7 ¶90). *(Drafted.)*
+  - quote: Un peu avant onze heures
+- ----11-12, about 11 a.m.: Top returns with Nab's note, a shot fired at him (III.7 ¶91–¶96). *(Drafted.)*
+  - quote: une détonation retentit et fut aussitôt suivie d’aboiements répétés
+- ----11-12 to ----11-22: Harbert's cure by cold water, "quelques jours" in the first stage (III.8 ¶9). *(Drafted.)*
+  - quote: Quelques jours se passèrent
+- ----11-22: ten days after the shooting day by the text's count, Harbert markedly better (III.8 ¶11). *(Drafted.)*
+  - quote: Au bout de dix jours, le 22 novembre
+- ----11-27: Spilett's second sortie; Top finds a scrap of Ayrton's jacket (III.9 ¶31–¶35). *(Drafted.)*
+  - quote: à sa seconde sortie, le 27 novembre
+- ----11-29: the debate on hunting the convicts, in the day (III.9 ¶4). Placed before the 27th's events in the text. Flagged, not reconciled. *(Drafted.)*
+  - quote: fut traitée à fond dans la journée du 29 novembre
+- ----11-29, 6 a.m., "Vendredi": Nab writes that the plateau is invaded (III.9 ¶64–¶65). *(Drafted.)*
+  - quote: Vendredi, 6 h. matin.
+- ----11-29, 7 a.m.: Jup leaps into the corral (III.9 ¶48, ¶56). *(Drafted.)*
+  - quote: On était au 29 novembre. Il était sept heures du matin.
+- ----11-29, 7:30 a.m.: the wagon leaves the corral (III.9 ¶86). *(Drafted.)*
+  - quote: Il avait quitté le corral à sept heures et demie.
+- ----11-29, about 8:30 a.m.: four of the five miles done (III.9 ¶86). *(Drafted.)*
+  - quote: Une heure après, quatre milles sur cinq avaient été franchis
+- ----11-29, about 9 a.m.: the wagon sights the smoke over the plateau; the convicts left half an hour before (III.9 ¶92, ¶96). *(My reading, to confirm.)*
+  - quote: depuis une demi-heure environ, après l’avoir dévasté
+- ----12-early: the return to Granite-house, as Spilett reckons eight days (III.9 ¶25–¶26). Not reached in these chapters. *(Drafted.)*
+  - quote: aux premiers jours de décembre seulement

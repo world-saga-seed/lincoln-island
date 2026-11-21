@@ -30,9 +30,6 @@ Keywords: baie Washington, Washington Bay, south, échancrure, bay, south coast
     - quote: la grève était peu spacieuse et resserrée entre la lisière des récifs et celle de la forêt
   - The granite wall rises higher and higher along it, and from below only the green crowns of the trees on top can be seen (II.5 ¶40). *(Drafted.)*
     - quote: La muraille de granit tendait aussi à s’exhausser de plus en plus
-  - Edible shellfish abound on its beach, but they could be worked profitably only when a crossing of the Mercy is made and the means of transport improved (II.5 ¶41). *(Drafted.)*
-    - quote: les coquillages comestibles abondaient sur cette plage
-    - quote: lorsqu’une communication aurait été établie entre les deux rives de la Mercy
   - The shore shows no trace of any landing, old or recent, no wreck, no camp remains, no ashes of a fire, no footprint, and nothing connected with the supposed wreck (II.5 ¶26, ¶42). *(Drafted.)*
     - quote: la moindre trace d’un débarquement ancien ou récent
     - quote: rien de ce qui avait rapport au naufrage présumé n’apparaissait sur ce littoral

@@ -242,8 +242,6 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He reasons that an island absent from the newest charts is a reason for a ship to visit it rather than flee it (III.1 ¶27). *(Drafted.)*
     - quote: elle n’est même pas portée sur les cartes les plus récentes
     - quote: cherche à la visiter plutôt qu’à la fuir
-  - He and Pencroff are "singulièrement nerveux", going and coming and unable to stand still, when the ship is sighted (III.1 ¶55). *(Drafted.)*
-    - quote: Gédéon Spilett et Pencroff étaient singulièrement nerveux
   - He is a very good shot, armed with one of the two precision carbines (III.3 ¶5). *(Drafted.)*
     - quote: Gédéon Spilett et Ayrton, tous deux très-bons tireurs
   - Seeing the torn hull he says the openings look made by the shock of a reef rather than by the explosion of a powder-room (III.4 ¶52). *(Drafted.)*
@@ -376,6 +374,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: l’heure vraie qu’il serait alors à Washington
   - His origin, age and newspaper are not stated in these chapters; the text calls him only a reporter of great talent (I.13 ¶5). *(Drafted.)*
     - quote: reporter de grand talent
-  - The date of the volcano's waking, counted in III.18: Harbert says it was "deux mois et demi" ago, about 15 October; Spilett answers that the underground fires have smouldered "dix semaines" (III.18 ¶38, ¶39). The text does not reconcile them. *(Drafted.)*
+  - The date of the volcano's waking, counted in III.18: Spilett puts the first vapours "vers le 15 octobre", hedged "si je ne me trompe"; Harbert says it was "deux mois et demi" ago; Spilett answers that the underground fires have smouldered "dix semaines" (III.18 ¶37, ¶38, ¶39). The text does not reconcile them. *(Drafted.)*
+    - quote: si je ne me trompe, vers le 15 octobre
     - quote: voilà déjà deux mois et demi de cela
     - quote: Les feux souterrains ont donc couvé pendant dix semaines

@@ -395,11 +395,8 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Il plia les genoux, il prit sa main et la lui baisa.
   - Cyrus Smith calls him 'cet enfant, dont le hasard a fait notre fils' (II.11 ¶23). *(Drafted.)*
     - quote: cet enfant, dont le hasard a fait notre fils
-  - In the bow of the Bonadventure, to point the course through the passes, he cries 'Lofe, Pencroff, lofe', plunges his arm in the water and comes up with a bottle he has seized a few cable-lengths from the coast (II.12 ¶124, ¶125, ¶128, ¶129, ¶130). *(Drafted.)*
+  - In the bow of the Bonadventure he is the lookout who points the course through the passes; it is he who seizes the bottle (see [the bottle](../things/the-bottle.md)) (II.12 ¶124). *(Drafted.)*
     - quote: Harbert se tenait à l’avant, afin d’indiquer la route à suivre au milieu des passes
-    - quote: Lofe, Pencroff, lofe
-    - quote: plongea rapidement son bras dans l’eau
-    - quote: Une bouteille
     - quote: à quelques encâblures de la côte
 - **Habits.**
   - He is a naturalist who names what the party finds (I.4 ¶16). *(Drafted.)*

@@ -25,7 +25,7 @@
 | 17 | `world/things/southern-cross.md` | 14 | Alpha is about twenty-seven degrees from the pole (I.13 ¶75). *(Drafted.)* |
 | 18 | `world/things/boat-plan.md` | 10 | Smith said that if the island lay only two or three hundred miles from New Zealand or Chile, they would make a boat instead of a house, and Pencroff would command it (I.14 ¶61). *(Drafted.)* |
 | 19 | `world/places/creek-glycerine.md` | 37 | It is fed from one of the two cuts in the lake’s rim, the other feeding the creek of the Grande-Chute (III.6 ¶9). *(Drafted.)* |
-| 20 | `world/things/horseradish.md` | 14 | It grows in the garden's small squares (see [the kitchen garden](../places/the-kitchen-garden.md)) (II.8 ¶43). *(Drafted.)* |
+| 20 | `world/things/horseradish.md` | 14 | It grows in the garden's small squares (see the kitchen garden) (II.8 ¶43). *(Drafted.)* |
 | 21 | `world/animals/top.md` | 148 | He goes ahead of Harbert and Gédéon Spilett on their hunts along the corral road (III.14 ¶20). *(Drafted.)* |
 | 22 | `world/places/mercy-river.md` | 152 | Rocks lie at its mouth, among which men can hide to bar any passage by boat or any landing on the opposite bank (III.3 ¶8). *(Drafted.)* |
 | 23 | `world/places/riviere-de-la-chute.md` | 23 | It widens by degrees and its waters grow less tumultuous as it nears the sea (II.4 ¶30). *(Drafted.)* |
@@ -54,7 +54,7 @@
 | 11 | `world/people/captain-nemo.md` | 346 | He sent back the canoe into the Mercy's current (III.16 ¶65). *(Drafted.)* |
 | 12 | `world/places/far-west-forests.md` | 87 | At that season the trees are dried by torrid heat, so that when the second current of lava runs through the forest it takes fire at once, through the base of the trunks and the high branches, the flames running faster along the crowns than the lava at the foot (III.19 ¶59). *(Drafted.)* |
 | 13 | `world/people/gedeon-spilett.md` | 149 | He is curious to see Pencroff handle a harpoon; he is surprised to see a whale at so high a latitude (II.10 ¶37, ¶39). *(Drafted.)* |
-| 14 | `world/things/the-telegraph.md` | 22 | The posts, fitted with glass insulators to carry the wire, begin to be planted on 6 February along the corral road, and a few days later the wire is stretched (see [the telegraph posts](telegraph-posts.md); [the glass insulators](glass-insulators.md)) (II.18 ¶46). *(Drafted.)* |
+| 14 | `world/things/the-telegraph.md` | 22 | The posts, fitted with glass insulators to carry the wire, begin to be planted on 6 February along the corral road, and a few days later the wire is stretched (see the telegraph posts; the glass insulators) (II.18 ¶46). *(Drafted.)* |
 | 15 | `world/things/hearth.md` | 10 | It is made of large flat stones laid at the end of the first left corridor, at the mouth of the narrow gut kept for the smoke (I.5 ¶11). *(Drafted.)* |
 | 16 | `world/places/red-creek.md` | 8 | It was expected to run under the trees at the edge of the plain at the mountain's foot (I.12 ¶19). *(Drafted.)* |
 | 17 | `world/people/ayrton.md` | 334 | He stands respectfully aside in a corner of the magnificent salon (III.16 ¶8). *(Drafted.)* |

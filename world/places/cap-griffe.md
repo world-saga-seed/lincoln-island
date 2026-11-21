@@ -60,6 +60,11 @@ Keywords: cap Griffe, headland, promontory, point, south shore, cap de la Griffe
     - quote: toute la côte orientale depuis le cap Griffe jusqu’aux caps Mandibules
   - From it to the promontoire du Reptile, the vast shore of Washington Bay is explored only imperfectly (III.11 ¶25). *(Drafted.)*
     - quote: depuis le cap Griffe jusqu’au promontoire du Reptile
+  - On the irregular coast that begins at the head of the Baie Washington and runs toward it, edible shellfish abound on the beach, but they could be worked profitably only when a crossing of the Mercy is made and the means of transport improved (II.5 ¶39, ¶41). *(Drafted.)*
+    - quote: Là commençait une côte irrégulière
+    - quote: les coquillages comestibles abondaient sur cette plage
+    - quote: lorsqu’une communication aurait été établie entre les deux rives de la Mercy
+
 - **On the page.**
   - From the plateau a sharp point in the south shuts the horizon, and one could not tell whether the land goes on or turns south-east and south-west, making a very long peninsula (I.4 ¶46). *(Drafted.)*
     - quote: une sorte de presqu’île très-allongée

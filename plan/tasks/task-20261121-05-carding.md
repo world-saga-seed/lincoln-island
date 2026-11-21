@@ -6,8 +6,8 @@
 - **Region:** writes `world/people/`, `world/animals/`, `world/places/`, `world/things/` and this task's folder. Reads `texts/fr-1875/`, the card folders.
 - **Wave:** see Steps.
 - **Start hash:** a579947, 2026-11-21.
-- **End hash:** (on close)
-- **Status:** Running, four chapters a wave.
+- **End hash:** the commit "Phase 4: closed", 2026-11-21.
+- **Status:** Done, 2026-11-21. The questions for the author are in `carding/questions.md`.
 
 ## What a card holds *(Settled R1121-05.)*
 
@@ -54,7 +54,22 @@ The outlines hold the events; a card holds what is true of its subject. A card r
 - 2026-11-21 The second reviewer (67,345 tokens) agreed on 233 of the 387. A sample of eighteen of the 233 still held about a quarter that were not scenes: Nab's jesting "le plus sérieusement du monde" (III.18 ¶18), a habit (III.14 ¶20), Top missing from the first cavern (I.18 ¶31), and the capybara "seeing men for the first time" (I.9 ¶105), a clue White cuts, held for `plan/reread-hooks.md`, which the script did not protect because the I.9 notes' Clues do not cite ¶105. **The large cards are not pruned** (rule 11; "when in doubt, keep"): their scene lines stay, and the cost is length only. The two verdict files are kept (`large-cards-review.tsv`, `large-cards-review-2.tsv`) should the author want a pass by hand. Lesson: a Clues section is not a complete list of a chapter's clues, so a script cannot protect them; pruning by agent is safe only for lines a person reads.
 - 2026-11-21 Carried forward: the lines pruned in waves 3 to 15 (about 300; wave 3's in `pruned-w3.json`, the rest in the wave commits' diffs) were cleared against the Clues sections only. When `plan/reread-hooks.md` is built, check every pruned line's cite against it and restore any that falls on a hook (rule 11).
 - 2026-11-21 Step 4, Vingt mille (R1120-25, R1121-02): one fresh Sonnet carder, 297,287 tokens; the tool refused its report file, saved by the main session (`report-vml.md`). 5 cards made (the three men, the frigate Abraham-Lincoln, the rammed ship, the book, the Candiotes), 10 extended, about 122 VML-cited lines, four answered or false gap lines deleted. Traced every III.15 to III.17 statement that rests on Vingt mille; not found there: the "appareil alphabétique" (III.16 ¶66), and Dakkar, Bundelkund, Tippo-Saïb and the 1857 revolt, which only L'Île tells. Eleven discords on Open lines, both readings, carded neither: among them the year of 6 November, the escape's date, seven months against ten, England, the sunk ship, the cemetery's ocean, the crew, Nemo's age, the Nautilus's length and the engine room's end. The carder offered to copy the VML lines onto six more cards (maelstrom, coral-cemetery, vigo-treasure, diving-suit, electric-bullets, nemos-casket); rule 1 keeps each fact in one file, so not done; the electric-bullets gap line now points to the answer on `captain-nemo.md`. 643 cards; all 8,702 quotes resolve against the two French texts; checks print 0.
+- 2026-11-21 Step 5, the check (`carding/check/`). The sample, seed 20261125: 60 quoted facts drawn from 5,409 on the full cards, in proportion to folder and Part (VML included), and two chapters for coverage, II.3 and II.16. Two fresh Sonnet finders (113,005 and 108,725 tokens): 52 sound, 8 findings; coverage complete (II.3: 50 subjects, 46 carded, 4 crowd figures; II.16: 41, 37, 4). The critic (84,673 tokens), seed 20261126: all 8 findings stand; of 12 passed facts re-read, 10 sound, 2 findings. Its twelve decisive quotes resolve (rule 10). So about 50 of 60 sampled facts were right as they stood: three misread the French (who takes the bearings, III.3 ¶26; VML I.1 ¶1's "1866"; Ayrton's day at the corral, III.7 ¶46), two were mis-cited or misplaced (III.18 ¶37; II.5 ¶41), one generalised a scene (III.3 ¶8), and four were scene lines (III.1 ¶55; II.12 ¶124; III.16 ¶8; I.12 ¶19). All ten fixed as the critic proposed: three corrected, two re-cited or moved (the beach to `cap-griffe.md`), two trimmed, three deleted, none on a Clues paragraph. The scene lines the check found agree with the large-card reviews: the cards still carry some.
 
 ## Resolution
 
-(On close.)
+Phase 4 is done: 647 cards (people, animals, places, things), 220 of them stubs under R1121-04, and the tool chain of 136 made things in book order. Every quote resolves against the two French texts (8,700 or so); `cards.py check` and `links.py` print 0. Phase 4 cost about 7.03 M agent tokens, against the 12 M cap (R1120-35) and the budget sample's estimate of 8 M to 10.9 M.
+
+Against the acceptance:
+1. **Coverage.** Every chapter carded by a wave or by the budget sample; the crowd figures are in the carders' reports. The check found no gap in II.3 or II.16.
+2. **Facts.** All in English, cited, quoted, marked; all quotes resolve. The check put the rate of lines right as they stood at about five in six; the ten wrong ones are fixed. The rest of the cards were not read line by line, and the kinds of slip found (a side of a discord taken, a date carried from the wrong paragraph, a scene kept) will be met again; the drafters check a card line against the French before leaning on it.
+3. **Checks.** 0 and 0.
+4. **The tool chain.** 136 lines, each linked to its card.
+5. **The record.** The sample, the findings and the critic's verdicts are in `carding/check/`; the tokens in `plan/records/tokens.md`.
+
+Carried forward:
+- The scene lines left on the large cards (the two reviews and the check agree some remain); they cost length, not truth. A pass by a person, or none.
+- The lines pruned in waves 3 to 15, to be checked against `plan/reread-hooks.md` when it is built (rule 11); with them the capybara of I.9 ¶105 and Ben Joyce of III.9 ¶41, both cut by White, for the hooks.
+- The questions for the author (`carding/questions.md`): most are the text's discords, which R1120-33 already settles; the rest are kinds, readings and card shape, each with a recommendation.
+
+Lessons, for the retrospective: a Clues section is not a complete list of a chapter's clues, so no script protects them; pruning by agent needs a person reading each cut; two carders writing at once must leave the shared index to the main session; the tool may refuse an agent's report file, so the main session saves reports from the final message; carders drift into git commands to see their work unless told to read their files (five slips in thirty-one runs, all read-only).

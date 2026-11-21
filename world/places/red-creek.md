@@ -5,8 +5,6 @@
 Keywords: Creek-Rouge, brook, stream mouth, coal seam, creek, ruisseau, terre rouge, oxyde de fer, red earth, banks, iron oxide
 
 - **What it is.**
-  - It was expected to run under the trees at the edge of the plain at the mountain's foot (I.12 ¶19). *(Drafted.)*
-    - quote: le cours du creek, qui, suivant lui, devait se dérouler sous les arbres, à la lisière de la plaine
   - It runs between high banks of red earth whose colour betrays iron oxide, and that colour at once gave it the name Creek-Rouge (I.12 ¶39). *(Drafted.)*
     - quote: hautes berges de terre rouge, dont la couleur décelait la présence de l’oxyde de fer
     - quote: le nom de Creek-Rouge

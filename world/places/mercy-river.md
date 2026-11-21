@@ -149,9 +149,8 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: la Mercy grossit au point de donner lieu de craindre que le pont et les ponceaux ne fussent emportés
   - It has a watering place (aiguade) at its mouth, where Smith thinks the pirates might fill their casks (III.2 ¶2). *(Drafted.)*
     - quote: faire de l’eau à l’aiguade de la Mercy
-  - Rocks lie at its mouth, among which men can hide to bar any passage by boat or any landing on the opposite bank (III.3 ¶8). *(Drafted.)*
+  - Rocks lie at its mouth (III.3 ¶8). *(Drafted.)*
     - quote: au milieu des roches, à l’embouchure de la Mercy
-    - quote: tout passage en canot et même tout débarquement sur la rive opposée
   - With its bridges raised it cannot be crossed by men who have landed on its right bank (III.3 ¶48). *(Drafted.)*
     - quote: ils ne pouvaient traverser la rivière, dont les ponts étaient relevés
   - Reefs at its mouth wreck the pirates’ second boat (III.3 ¶47). *(Drafted.)*

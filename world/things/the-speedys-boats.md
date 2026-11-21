@@ -12,9 +12,10 @@ Keywords: canot, canots, embarcations, boats, davits, porte-embarcations, ligne 
     - quote: se jetèrent dans l’embarcation au nombre d’une douzaine
   - A second boat takes eight men (III.3 ¶43). *(Drafted.)*
     - quote: Un second canot fut également lancé à la mer dans lequel huit hommes prirent place
-  - Its crew sound the channel with a lead line, to learn the channel the Mercy has dug, and take bearings from the brig’s rigging (III.3 ¶26). *(Drafted.)*
+  - A convict in its bow sounds the channel with a lead line, to learn the channel the Mercy has dug; some thirty pirates in the brig's shrouds follow the boat and take bearings for the brig's landing (III.3 ¶26). *(Drafted.)*
     - quote: tenait une ligne de sonde à la main
     - quote: le chenal creusé par le courant de la Mercy
+    - quote: Une trentaine de pirates, dispersés dans les haubans, ne perdaient pas un des mouvements du canot et relevaient certains amers
   - The second boat is broken on the reefs at the mouth of the Mercy and is quite unusable (III.3 ¶47; III.4 ¶46). *(Drafted.)*
     - quote: s’y brisa à l’embouchure de la Mercy
     - quote: absolument hors d’usage

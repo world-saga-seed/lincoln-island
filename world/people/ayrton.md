@@ -237,7 +237,8 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
   - Asked what should be done with the six convicts, he hesitates, then says humbly that he has been one of those jaguars and has no right to speak, and walks slowly away (III.5 ¶45, ¶46, ¶47). *(Drafted.)*
     - quote: répondit d’une voix humble
     - quote: J’ai été un de ces jaguars, monsieur Pencroff, et je n’ai pas le droit de parler
-  - At the corral on 11 November there is no trace of him and the ammunition he was supplied with is gone with him; the colonists fear him carried off by his old accomplices, or killed in a struggle, and the narrator later calls him without doubt massacred (III.7 ¶53, ¶54, ¶55; III.8 ¶24). *(Drafted.)*
+  - At the corral on 12 November there is no trace of him and the ammunition he was supplied with is gone with him; the colonists fear him carried off by his old accomplices, or killed in a struggle, and the narrator later calls him without doubt massacred (III.7 ¶46, ¶53, ¶54, ¶55; III.8 ¶24). *(Drafted.)*
+    - quote: Le lendemain, 12 novembre
     - quote: Il n’y avait aucune trace d’Ayrton
     - quote: les munitions, dont Ayrton était approvisionné, avaient disparu avec lui
     - quote: Ayrton avait été, sans aucun doute, massacré par ces misérables
@@ -331,8 +332,6 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
   - In Iowa he is "prêt à se sacrifier à toute occasion" (III.20 ¶53). *(Drafted.)*
     - quote: Ayrton prêt à se sacrifier à toute occasion
 - **On the page.**
-  - He stands respectfully aside in a corner of the magnificent salon (III.16 ¶8). *(Drafted.)*
-    - quote: dans un angle de ce magnifique salon
   - The document in the bottle is one of the incidents that seemed supernatural and that Nemo explains (III.16 ¶65). *(Drafted.)*
     - quote: au moyen du document enfermé dans la bouteille
   - When taken he is a savage in the worst sense: bristling hair, an uncut beard down to the chest, body nearly naked but for a rag of blanket about the loins, wild eyes, huge hands, nails far too long, a skin dark as mahogany, feet hardened as if made of horn (II.14 ¶56). *(Drafted.)*

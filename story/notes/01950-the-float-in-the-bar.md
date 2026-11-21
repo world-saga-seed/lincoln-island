@@ -59,4 +59,4 @@
 
 ## Next pass
 
-*(Settled R1121-132.)* Every item is in the final text of R1121-132. Draft 4 (R1121-134 on) is open in its task. The writer's reading comments and the next pass's items join here.
+*(Settled R1121-141.)* Every item is in the final text (draft 4). Nothing is open. The writer's reading comments and the next pass's items join here.

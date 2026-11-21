@@ -118,7 +118,7 @@
   - quote: le géant qui joue au bilboquet
 - The lavas have not yet risen to the crater's lip; the north-east breach, partly visible, pours nothing on the northern slope. *(Drafted.)*
   - quote: l’égueulement du nord-est
-- Other duties call: the corral's sheep and goats need fodder. Ayrton is to go the next day, 7 January, alone, as he often does. *(Drafted.)*
+- Other duties call: the corral's mouflons and goats need fodder. Ayrton is to go the next day, 7 January, alone, as he often does. *(Drafted.)*
   - quote: Ayrton s’y rendrait le lendemain 7 janvier
 - Smith says he will go with him, to see how the eruption stands, and they will be back the day after; Pencroff objects that it costs four hands. *(Drafted.)*
   - quote: Nous serons revenus le lendemain
@@ -142,7 +142,7 @@
 - He tells Ayrton to tend the corral while he climbs past the sources of the Red Creek to examine the northern slope, then they will visit the Dakkar crypt; he will return in two hours. *(Drafted.)*
   - quote: Puis nous ferons une visite à la crypte Dakkar
   - quote: je reviendrai vous prendre dans deux heures
-- Ayrton tends the sheep and goats, which seem uneasy. *(Drafted.)*
+- Ayrton tends the mouflons and goats, which seem uneasy. *(Drafted.)*
   - quote: qui semblaient éprouver un certain malaise
 - Smith reaches the sulphurous spring found on the first exploration: instead of one column of smoke there are thirteen, and the air is full of sulphurous gas, hydrogen and carbonic acid. He sees no new lava. *(Drafted.)*
   - quote: il en compta treize qui fusaient hors de terre

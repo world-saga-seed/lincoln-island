@@ -6,7 +6,7 @@
 - **Wave:** none.
 - **Start hash:** fdb14c1, 2026-11-20.
 - **End hash:** (on close)
-- **Status:** Running: four chapters a labeller, two at a time, cap 4.5 M (R1120-42).
+- **Status:** Labelling done; the finder's check next.
 
 ## Steps
 
@@ -43,6 +43,7 @@
 - 2026-11-20 p back (III.10 to III.13): 83 discords, 1 outline slip (05500 beat 6, "that very day, 19 February", which the timeline already sets against ¶4's "Le lendemain"; the fold-back points the beat there); 161,003 tokens, 24 calls, 4.4 min; passes the checker. III.10 ¶52's print reading is noted under the file's head, as asked. White turns Smith's "acte de reconnaissance" into "to make a discovery" (III.12) and "justicier de l'île" into "ruler of the island" (III.13).
 - 2026-11-20 The outline slips of the 59 lists back so far (33, R1120-41) are folded back into `story/outline/`: guesses in the French restored as guesses (00100, 00300, 04400, 04500), speakers the French leaves unnamed left unnamed (00300, 00800, 02200, 04500), numbers and words put back (00400, 01700, 02100, 02500, 02600, 02800, 03000, 03400, 03600, 03800), and the French's own discords given a pointer to the timeline or notes where they are set out (00200, 02900, 03800, 04700, 05500). `check_outlines.py` passes.
 - 2026-11-20 q back (III.14, III.15): 68 discords, 2 outline slips, both folded back (05700: the cavern question is the narrator's; ¶52's "neuf heures un quart" comes before ¶49's 9:47, Verne's slip, now flagged); 119,661 tokens, 11 calls, 3.3 min; passes the checker. White drops III.14 ¶30 to ¶41 whole, the passage on why the island's winters are cold.
+- 2026-11-20 r back (III.17 to III.20): 78 discords, 4 outline slips, all folded back (05900: "some day" for "à un jour donné"; the gesture is Smith's; no "afternoon" in the French; 06000: mouflons, not sheep); 179,370 tokens, 24 calls, 4.3 min; passes the checker. All 62 lists are in: 1,341 discords (548 cut, 517 changed, 184 condensed, 63 softened, 29 addition) and 39 outline slips, every one folded back. `texts/sum_discords.py` writes `texts/align/SUMMARY.md`, with a book-wide section ("Good Luck", the glossary, the footnotes, the names, the source's faults). The glossary is noted at the head of `62-discords.md`.
 
 ## Resolution
 

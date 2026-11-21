@@ -45,7 +45,7 @@
   - quote: une collection de perles recueillies par mes amis et moi au fond des mers
   - quote: « Ce coffret… là… renferme pour plusieurs millions… »
   - at: III.17 pl2
-- With the treasure they can do good things "at a fixed day"; in hands like theirs money is no danger; he will be "from up there" associated with their works and does not fear them. *(Drafted.)*
+- With the treasure they can do good things "some day" (à un jour donné); in hands like theirs money is no danger; he will be "from up there" associated with their works and does not fear them. *(Drafted.)*
   - quote: à un jour donné, de bonnes choses
   - quote: l’argent ne saurait être un péril
 
@@ -56,7 +56,7 @@
 - They are then to embark in the boat that brought them; before leaving they are to go aft and open two large taps on the waterline; water will enter the tanks and the Nautilus sink slowly to rest at the bottom of the abyss. *(Drafted.)*
   - quote: ouvrez deux larges robinets qui se trouvent sur la ligne de flottaison
   - quote: L’eau pénétrera dans les réservoirs
-- He tells Smith, by a gesture, not to fear: "You will bury only one dead man!" None of them thinks to object; Nemo asks "I have your promise?" and Smith answers he has it. *(Drafted.)*
+- At a gesture from Smith, he tells him not to fear: "You will bury only one dead man!" None of them thinks to object; Nemo asks "I have your promise?" and Smith answers he has it. *(Drafted.)*
   - quote: « Ne craignez rien ! Vous n’ensevelirez qu’un mort ! »
   - quote: Vous l’avez, capitaine, » répondit l’ingénieur.
 - Nemo asks to be left alone for some hours; Spilett insists on staying in case of a crisis, but he refuses: "I shall live until tomorrow, sir!" *(Drafted.)*
@@ -82,7 +82,7 @@
   - quote: Le Nautilus n’est pas à nous, et nous n’avons pas le droit d’en disposer.
   - quote: par un exhaussement des roches basaltiques
 
-### 6. The afternoon talk; Nemo speaks to Smith alone (III.17 ¶52–¶73)
+### 6. After the meal; Nemo speaks to Smith alone (III.17 ¶52–¶73)
 
 - After a longer conversation they go down inside the Nautilus, eat something and return to the salon; Nemo is out of his prostration, eyes bright, and a smile on his lips. *(Drafted.)*
   - quote: Là, ils prirent quelque nourriture et rentrèrent dans le salon.

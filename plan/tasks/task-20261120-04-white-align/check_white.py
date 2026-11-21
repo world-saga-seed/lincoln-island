@@ -77,7 +77,7 @@ def check(nn):
             frtxt = ' '.join(fr.get(k, '') for k in fr_r)
             if notes: frtxt += ' ' + frfile   # a footnote: its text is under the chapter's Notes
             cur = (frtxt, ' '.join(wh.get(k, '') for k in wh_r)); continue
-        if re.match(r'^- ', s) and (cur or in_slips) and not MARK.search(s):
+        if re.match(r'^- ', s) and (cur or in_slips) and not MARK.search(s) and not re.match(r'^- None found\.?$', s):
             probs.append(f'{i}: bullet without a mark')
         m = re.match(r'^\s+- (quote|white|outline): (.*)$', s)
         if not m:

@@ -21,7 +21,7 @@ WHAT IS A DISCORD. Any place where a reader of White learns less than, more than
 - **changed**: a fact differs: a number, a date, a name, a distance, who does what, a cause.
 - **softened**: White changes tone or force on politics, religion, war, race, violence, or a character's feeling (a curse made mild, a judgement removed, a political line toned down). Also the reverse, sharpened.
 
-NOT discords: paragraphing (White often merges paragraphs); ordinary choices of words that keep the sense; the spellings Herbert, Neb, Gideon (for Harbert, Nab, Gédéon), and other settled English forms of names; units kept as Verne gives them.
+NOT discords: where White follows the 1875 print against a correction the French working text takes from Wikisource (III.10 ¶52: the print reads "novembre" where Wikisource reads "décembre"; see texts/README.md). Note it in one line under the file's head instead. Also not discords: paragraphing (White often merges paragraphs); ordinary choices of words that keep the sense; the spellings Herbert, Neb, Gideon (for Harbert, Nab, Gédéon), and other settled English forms of names; units kept as Verne gives them.
 
 Be thorough. White's departures are usually inside paragraphs, not whole paragraphs. A dropped clause with a date, a number or a reason is a discord. Read every bead.
 

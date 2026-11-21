@@ -24,3 +24,4 @@
 | 2026-11-20 | agent, Sonnet: outliner n | phase 2 (scene-outlines D) | 04800 to 05100 | 10,367 | whole files: the four chapters, the workflow, the forms, texts/README, CLAUDE.md | 116,158 | 18 | 4.8 |
 | 2026-11-20 | agent, Sonnet: outliner o | phase 2 (scene-outlines D) | 05200 to 05500 | 11,921 | whole files: the four chapters, the workflow, the forms, texts/README, CLAUDE.md | 130,173 | 20 | 5.6 |
 | 2026-11-20 | agent, Sonnet: outliner p | phase 2 (scene-outlines D) | 05600 to 05900 | 13,539 | whole files: the four chapters, the workflow, the forms, texts/README, CLAUDE.md; also ran check_outlines.py, not on its list | 134,206 | 22 | 5.6 |
+| 2026-11-20 | agent, Sonnet: outliner q | phase 2 (scene-outlines D) | 06000 to 06200 | 11,026 | whole files: the three chapters, the workflow, the forms, texts/README, CLAUDE.md | 114,643 | 23 | 4.8 |

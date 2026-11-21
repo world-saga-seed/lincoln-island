@@ -43,6 +43,7 @@ Chapter `NNNNN` is the French chapter in book order, in steps of 100: 00100 is I
 - 2026-11-20 Wave 5 back. k (03600 to 03900): 147,776 tokens, 22 calls, 7.0 min. l (04000 to 04300): 147,653 tokens, 27 calls, 6.8 min. Both pass. l's returned text garbled one reference ("II.19 ¶92 of III.1"); the saved report gives it as III.1 ¶92 and says so. The running total is 1,681,190 tokens for 43 chapters.
 - 2026-11-20 Wave 6 back. m (04400 to 04700): 141,320 tokens, 21 calls, 6.5 min. n (04800 to 05100): 116,158 tokens, 18 calls, 4.8 min. Both pass. m flags III.4 ¶81's "30 novembre" before III.5's "8 novembre"; it is not among Wikisource's listed corrections, so it is a candidate for the scan if the author wants it. The running total is 1,938,668 tokens for 51 chapters.
 - 2026-11-20 Wave 7 back. o (05200 to 05500): 130,173 tokens, 20 calls, 5.6 min. p (05600 to 05900): 134,206 tokens, 22 calls, 5.6 min. Both pass. p ran the task's `check_outlines.py`, which was not on its read list: a small breach of its file list, harmless and logged. One quote in the saved report-o failed through the main session's own copying ("il" for "Il"), and was fixed. The running total is 2,203,047 tokens for 59 chapters.
+- 2026-11-20 Wave 8 back. q (06000 to 06200): 114,643 tokens, 23 calls, 4.8 min. It passes. All 62 outlines and 62 notes files now pass `check_outlines.py`. The outlining total is 2,317,690 agent tokens for 62 chapters, under the 3.1 M projection.
 
 ## Resolution
 

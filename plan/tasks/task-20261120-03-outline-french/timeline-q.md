@@ -1,0 +1,69 @@
+- 1868-10-16, dawn: the colonists return to the Dakkar crypt's entrance and name it (III.18 ¶1). *(My reading, to confirm.)*
+  - quote: cette nuit du 15 au 16 octobre
+- 1868-10-16, about 9 a.m.: back at Granite-house (III.18 ¶6). *(Drafted.)*
+  - quote: Vers neuf heures du matin, les colons étaient rentrés à Granite-house.
+- 1869-03, beginning: the target for the new ship to be ready, set on that day (III.18 ¶8). *(Drafted.)*
+  - quote: prêt dans cinq mois, c’est-à-dire pour le commencement de mars
+- 1868, end: frames in place and first planks fitted after two and a half months of work (III.18 ¶9). *(Drafted.)*
+  - quote: La fin de l’année 1868 s’écoula
+- 1869-01-01: a violent storm, lightning on the island (III.18 ¶11). *(Drafted.)*
+  - quote: Le 1er janvier 1869 fut même signalé par un orage d’une violence extrême
+- 1869-01-03, dawn: Harbert sees the plume on the volcano (III.18 ¶12). *(Drafted.)*
+  - quote: Ce fut le 3 janvier que Harbert
+- 1869-01-03, all day: the précintes are set (III.18 ¶32). *(Drafted.)*
+  - quote: pendant toute cette journée du 3 janvier
+- 1869-01-03, evening and night: the crater on fire; "deux mois et demi" since about 15 October (III.18 ¶33–¶38). *(Drafted.)*
+  - quote: voilà déjà deux mois et demi de cela !
+- 1869-01-03: "dix semaines" of smouldering, in tension with the two and a half months and the real interval of about eleven and a half weeks. Flagged; not reconciled (III.18 ¶39). *(Drafted.)*
+  - quote: Les feux souterrains ont donc couvé pendant dix semaines
+- 1869-01-04 to 1869-01-06: work on the boat (III.18 ¶52). *(Drafted.)*
+  - quote: les 4, 5 et 6 janvier
+- 1869-01-07, daybreak: Smith and Ayrton go to the corral (III.18 ¶55, ¶61). *(Drafted.)*
+  - quote: Ayrton s’y rendrait le lendemain 7 janvier
+- 1869-01-07, about 9 a.m.: Smith is back at the corral after the northern slope (III.18 ¶76). *(Drafted.)*
+  - quote: À neuf heures du matin, il était de retour au corral.
+- 1869-01-07, after 10 a.m.: they reach the coast crest above the crypt (III.18 ¶86). *(Drafted.)*
+  - quote: Il était donc plus de dix heures
+- 1869-01-07, mid-morning: the row into the crypt takes twenty-five minutes; they leave half an hour after the inspection (III.18 ¶100, ¶106). *(My reading, to confirm.)*
+  - quote: Vingt-cinq minutes après avoir franchi l’ouverture
+- 1869-01-08, morning: Smith and Ayrton return to Granite-house (III.19 ¶1). *(Drafted.)*
+  - quote: Le lendemain matin, 8 janvier
+- 1869-01-23, about: the ship is half planked (III.19 ¶25). *(Drafted.)*
+  - quote: Vers le 23 janvier, le navire était à demi bordé
+- 1869-01-24, about 2 a.m.: the cone is thrown down (III.19 ¶25–¶26). *(Drafted.)*
+  - quote: pendant la nuit du 23 au 24
+  - quote: Il était environ deux heures du matin.
+- 1869-01-24, before 3 a.m.: the colonists reach the corral (III.19 ¶31). *(Drafted.)*
+  - quote: Avant trois heures du matin, ils étaient arrivés au corral
+- 1869-01-24, about 4 a.m.: the corral is destroyed an hour later (III.19 ¶32). *(My reading, to confirm.)*
+  - quote: Une heure après, la lave bouillonnante emplissait le corral
+- 1869-01-24, day: the colonists watch the lava (III.19 ¶34). *(Drafted.)*
+  - quote: Le jour était venu, — 24 janvier. —
+- 1869-01-24, about 7 a.m.: they withdraw to the edge of the Jacamar wood (III.19 ¶38). *(Drafted.)*
+  - quote: Vers sept heures du matin, la position n’était plus tenable pour les colons
+- 1869-01-24, later that morning: the dike is built "en quelques heures" and the lava falls into the lake (III.19 ¶50–¶51). *(My reading, to confirm.)*
+  - quote: ils parvinrent, en quelques heures, à élever une digue
+- 1869-01-25 to 1869-01-30: six days of work on the ship (III.19 ¶57). *(Drafted.)*
+  - quote: du 25 au 30 janvier
+- 1869-02-07: the lava still flows; vibrations felt about then (III.19 ¶67). *(Drafted.)*
+  - quote: jusqu’au 7 février
+- 1869-02-20: a month still needed for the ship (III.19 ¶68). *(Drafted.)*
+  - quote: On était au 20 février.
+- 1869-03-03: launch expected in about ten days (III.19 ¶69). *(Drafted.)*
+  - quote: Ils arrivèrent ainsi au 3 mars
+- 1869-03, first week: the second eruption and the lava on Grande-Vue (III.19 ¶78). *(Drafted.)*
+  - quote: Pendant la première semaine de mars
+- 1869-03-08: preparations for a launch the next morning (III.19 ¶80). *(My reading, to confirm.)*
+  - quote: dans la matinée du 9 mars
+- 1869-03-08 to 1869-03-09, night: the island explodes (III.19 ¶81). *(Drafted.)*
+  - quote: pendant cette nuit du 8 au 9
+- 1869-03-09 to 1869-03-18: nine days on the rock (III.20 ¶6). *(Drafted.)*
+  - quote: C’était sur ce roc nu qu’ils vivaient depuis neuf jours !
+- 1869-03-18: two days of tinned food left (III.20 ¶7); in tension with the sighting on 24 March, six days later. Flagged; not reconciled. *(Drafted.)*
+  - quote: Ce jour-là, 18 mars, il ne leur restait plus de conserves que pour deux jours
+- 1869-03-19 to 1869-03-23: five days of rationing (III.20 ¶11). *(My reading, to confirm.)*
+  - quote: Pendant les cinq jours qui suivirent
+- 1869-03-24, morning: the Duncan is sighted (III.20 ¶15). *(Drafted.)*
+  - quote: dans la matinée du 24 mars
+- 1869-04-08, about: the colonists land in America, fifteen days after the rescue (III.20 ¶50). *(My reading, to confirm.)*
+  - quote: Quinze jours après, les colons débarquaient en Amérique

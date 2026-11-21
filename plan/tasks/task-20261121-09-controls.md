@@ -7,7 +7,7 @@
 - **Wave:** none.
 - **Start hash:** db2c80c 2026-11-21.
 - **End hash:** (on close)
-- **Status:** Executing: the prompts are approved and frozen (R1121-88); the runs are next.
+- **Status:** Executing: the six replies are in; the checks wait for phase 8.
 
 ## Steps
 
@@ -25,6 +25,8 @@
 
 - 2026-11-21 Opened. Prompts built: 01900 7,805 words, 01950 5,185, 02000 8,199.
 - 2026-11-21 Approved by the author as they stand (R1121-88) and frozen, with their checksums in SHA256SUMS. The author reports that the Gemini runs used these exact files.
+- 2026-11-21 The Gemini replies were placed in `gemini/` by the author at 07:31 local, with their checksums; `sha256sum -c` passes. Their record is `gemini/RECORD.md`, as reported and unverified; the number of tries is not stated and has been asked.
+- 2026-11-21 The Opus controls were run by the main session, one try each, 15:31 to 15:35 UTC, all ending end_turn. The record is `opus/RECORD.md`.
 
 ## Resolution
 

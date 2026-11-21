@@ -38,5 +38,5 @@ files = [
 ]
 cmd = ['python3', 'tools/epub.py', '--title', 'Lincoln Island: chapters XIX to XX',
        '--author', 'Jules Verne; the missing chapter by a model, by the World Saga Seed method',
-       '--front', str(HERE / 'front.md'), '--kepub', '--out', OUT]  # --kepub: R1121-126 + [str(f) for f in files]
+       '--front', str(HERE / 'front.md'), '--kepub', '--out', OUT] + [str(f) for f in files]  # --kepub: R1121-126
 print(' '.join(cmd)); sys.exit(subprocess.call(cmd))

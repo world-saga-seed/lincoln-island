@@ -1,0 +1,61 @@
+# The pirogue: the bark canoe Pencroff builds in five days
+
+*A flat-bottomed canoe of sewn douglas bark on a frame of crejimba rods, twelve feet long, finished on 29 October, in which the colonists test the coast, tow the chest and go up the Mercy.*
+
+Keywords: pirogue, canoe, canot, bark, écorce, Indian fashion, godille, oars, avirons, Pencroff, boat, Mercy
+
+- **What it is.**
+  - Pencroff calls it "a boat in the Indian fashion", of bark rather than wood (II.1 ¶22, ¶24). *(Drafted.)*
+    - quote: un bateau à la mode indienne
+    - quote: ou plutôt en écorce
+  - It is not meant for the open sea, only for the Mercy (II.1 ¶20). *(Drafted.)*
+    - quote: nous n’avons pas besoin d’une embarcation destinée à tenir la mer
+    - quote: suffisante pour naviguer sur la Mercy
+  - It is a flat-bottomed floating apparatus without ribs or planking, good for the Mercy and especially near its sources where the water is shallow, made of pieces of bark sewn together, light and not bulky enough to hinder a portage (II.1 ¶34). *(Drafted.)*
+    - quote: un appareil flottant, à fond plat
+    - quote: Des morceaux d’écorce, cousus l’un à l’autre
+    - quote: elle ne serait ni lourde, ni encombrante
+  - Pencroff means to join the strips of bark with riveted nails and to count on their adhesion for watertightness (II.1 ¶34). *(Drafted.)*
+    - quote: au moyen de clous rivés
+  - The bark is of douglas firs that the last hurricane had thrown down, supple and tough; stripping them was the hardest part, given the colonists’ imperfect tools (II.1 ¶35). *(Drafted.)*
+    - quote: le dernier ouragan avait abattu une certaine quantité de douglas
+    - quote: vu l’imperfection des outils que possédaient les colons
+  - Pencroff builds it, helped by the engineer (II.1 ¶36). *(Drafted.)*
+    - quote: le marin, secondé par l’ingénieur
+  - It is finished on 29 October, built in five days, as Pencroff had promised (II.2 ¶1). *(Drafted.)*
+    - quote: le canot d’écorce était entièrement achevé
+    - quote: avait été construite en cinq jours
+  - Its hull is framed with flexible rods of crejimba (see [the crejimba](crejimba.md)) (II.2 ¶1). *(Drafted.)*
+    - quote: dont la coque était membrée au moyen de baguettes flexibles de crejimba
+  - It has a stern bench, a middle bench to keep the sides apart and a bow bench, a gunwale to hold the thole-pins of two oars, and a stern oar to scull and steer (II.2 ¶1). *(Drafted.)*
+    - quote: Un banc à l’arrière, un second banc au milieu
+    - quote: un plat-bord pour soutenir les tolets de deux avirons
+    - quote: une godille pour gouverner
+  - It is twelve feet long and weighs under two hundred pounds (II.2 ¶1). *(Drafted.)*
+    - quote: longue de douze pieds
+    - quote: ne pesait pas deux cents livres
+  - It is launched on the sand before Granite-house and floated by the rising tide, and Pencroff finds it very suitable (II.2 ¶1). *(Drafted.)*
+    - quote: devant Granite-house, et le flot montant la souleva
+    - quote: très-convenable pour l’usage qu’on en voulait faire
+  - It leaks a good deal at first; Pencroff says the wood must swell and that in two days it will not show (II.2 ¶7, ¶8). *(Drafted.)*
+    - quote: il fait pas mal d’eau
+    - quote: Il faut que le bois s’étanche
+  - Pencroff says that with stones for ballast, a mast forward and a scrap of sail that Smith will one day make, one could go far in it (II.2 ¶4). *(Drafted.)*
+    - quote: Quelques cailloux pour lest, un mât sur l’avant
+  - It carries the five colonists, so loaded that it feels the long swell hardly at all (II.2 ¶11). *(Drafted.)*
+    - quote: elle était lourdement chargée
+  - It can tow the chest, and the colonists are carried a distance of three miles in an hour and a half with it in tow (II.2 ¶42). *(Drafted.)*
+    - quote: remorquant la caisse
+    - quote: une heure et demie après son départ
+  - It is fragile, unfit to carry what a wreck might yield, which the cart would take better (II.3 ¶3). *(Drafted.)*
+    - quote: la fragile pirogue
+  - It takes the five colonists and Top up the Mercy from its mouth on 30 October, and is pushed on with oars and a stern oar and, when the water fails, with a pole (II.3 ¶8, ¶57). *(Drafted.)*
+    - quote: Tous s’embarquaient, y compris Top
+    - quote: Pencroff dut pousser avec une perche
+  - It is left carefully moored at the camp at the fall, 31 October (II.4 ¶3). *(Drafted.)*
+    - quote: assuré l’amarrage de la pirogue
+- **Appears in:** II.1, II.2, II.3, II.4
+- **Open:**
+  - Pencroff proposes a canoe in II.1 as a new idea, and Smith answers "Votre idée est bonne"; I.20 has already agreed that a canoe would be built. Card neither (II.1 ¶18; I.20 ¶20). *(Drafted.)*
+    - quote: ne serait-il pas convenable, avant d’aller à la découverte, de construire un canot
+    - quote: il fut convenu que l’on construirait, tant bien que mal, un canot

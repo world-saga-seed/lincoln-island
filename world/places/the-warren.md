@@ -31,7 +31,9 @@ Keywords: garenne, rabbits, lapins, burrows, terriers, meadow, prairie, herbs, t
   - Rabbits from the warren were taken in the snares almost every day, so that the table was always rabbit (I.22 ¶13). *(Drafted.)*
     - quote: quelque lapin de la garenne se laissât prendre
     - quote: C’était toujours du lapin
-- **Appears in:** I.19, I.20, I.22
+  - It gives its usual share of game, enough to feed the whole colony (II.1 ¶36). *(Drafted.)*
+    - quote: la garenne donnait-elle son contingent accoutumé, qui eût pu nourrir toute la colonie
+- **Appears in:** I.19, I.20, I.22, II.1
 - **Open:**
   - Which water the "lagon" is: I.19 ¶30 puts the warren toward "l’angle sud-ouest du lagon", and Lake Grant is called "lac" elsewhere. Which water is meant is not said. *(My reading, to confirm.)*
     - quote: vers l’angle sud-ouest du lagon

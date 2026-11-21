@@ -34,4 +34,16 @@ Keywords: fauve, bête, beast, prey, empreintes, tracks, griffes, claws, dangere
     - quote: Peut-être sentaient-ils les hôtes de Granite-house
   - Gédéon Spilett says that if the island holds fierce animals they must be fought and exterminated (I.22 ¶58). *(Drafted.)*
     - quote: il faut penser à les combattre et à les exterminer
-- **Appears in:** I.10, I.12, I.15, I.16, I.19, I.22
+  - Roars of a suspicious kind are heard at nightfall at the camp by the Mercy's falls, and the watchers think they see shadows of animals about it; the night passes without mishap (II.3 ¶72). *(Drafted.)*
+    - quote: quelques rugissements de nature suspecte s’étant fait entendre avec la tombée du jour
+    - quote: quelques ombres d’animaux errer autour du campement
+  - The colonists expect to hew their way through the Far-West "si on s’en rapportait aux cris de fauves entendus dans la nuit" (II.4 ¶1). *(Drafted.)*
+    - quote: si on s’en rapportait aux cris de fauves entendus dans la nuit
+  - On the creek bank tracks of large animals that come to drink there are seen from time to time (II.4 ¶28). *(Drafted.)*
+    - quote: quelques traces laissées par des animaux de grande taille, qui venaient habituellement se désaltérer à ce ruisseau
+  - On the forest strip of the west coast the fur-bearing game no longer shows itself (II.4 ¶42). *(Drafted.)*
+    - quote: le gibier de poil ne se montrait plus sur cette lisière
+  - At the Reptile promontory formidable roars stop Pencroff and Harbert at the mouth of a cavity in the rocks; the beast is a jaguar (II.4 ¶60, ¶62, ¶63). *(Drafted.)*
+    - quote: de formidables rugissements les arrêtèrent
+    - quote: C’était un jaguar
+- **Appears in:** I.10, I.12, I.15, I.16, I.19, I.22, II.3, II.4

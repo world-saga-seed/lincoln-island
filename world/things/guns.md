@@ -27,4 +27,8 @@ Keywords: fusils, powder, poudre, fulminate, mercury, nitric acid, barrels, shot
   - Pencroff presses for firearms that he says Smith promised; Smith knows that without a special set of tools he could hardly make a gun of any service, and puts it off again and again (I.22 ¶57). *(Drafted.)*
     - quote: les armes à feu qu’il affirmait avoir été promises par Cyrus Smith
     - quote: reculait toujours et remettait l’opération à plus tard
-- **Appears in:** I.12, I.14, I.17, I.18, I.21, I.22
+  - The chest of 29 October holds two flintlock guns, two percussion guns and two central-fire carbines, with powder and caps (see [the flintlock guns](flintlock-guns.md), [the percussion guns](percussion-guns.md), [the carbines](carbines.md), [the powder](the-powder.md)) (II.2 ¶53). *(Drafted.)*
+    - quote: 2 fusils à pierre
+    - quote: 2 fusils à capsule
+    - quote: 2 carabines à inflammation centrale
+- **Appears in:** I.12, I.14, I.17, I.18, I.21, I.22, II.2

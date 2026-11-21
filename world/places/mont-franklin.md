@@ -86,7 +86,18 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
     - quote: dont la présence avait été signalée, lors de l’exploration au mont Frankin
   - Coal is fetched from the foot of its buttresses (I.21 ¶5). *(Drafted.)*
     - quote: au pied des contreforts du mont Franklin
-- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21
+  - The colonists explored the island from its top, and Smith reasons that had the island been inhabited then, they would have seen or been seen (II.1 ¶15). *(Drafted.)*
+    - quote: à l’époque à laquelle nous explorions l’île du haut du mont Franklin
+  - Seen from the top of a kauri, it rises in the north-west and hides a good quarter of the horizon (II.1 ¶53). *(Drafted.)*
+    - quote: Dans le nord-ouest se dressait le mont Franklin, qui masquait un grand quart de l’horizon
+  - From half a mile off the coast it can be seen in its whole development (II.2 ¶11). *(Drafted.)*
+    - quote: de manière à apercevoir tout le développement du mont Franklin
+  - Its first buttresses hollow the bed of the Mercy, and its southern slopes feed the river’s sources (II.3 ¶60). *(Drafted.)*
+    - quote: les premiers contreforts du mont Franklin
+    - quote: toutes les eaux des pentes méridionales de la montagne
+  - It is a volcano, rising to the north of the camp at the Mercy fall at less than three miles (II.4 ¶2). *(Drafted.)*
+    - quote: le volcan se relevait dans le nord à une distance de moins de trois milles
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4
 - **Open:**
   - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
     - quote: à une distance de six ou sept milles

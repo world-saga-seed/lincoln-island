@@ -70,19 +70,53 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: Des glaçons s’entassèrent à l’embouchure de la Mercy
   - Its current is a tireless motor, used to float timber down until the cold chains it (I.21 ¶5). *(Drafted.)*
     - quote: Le courant était un moteur infatigable
-  - On 5 July the colonists cross it on the ice that encumbers it (I.21 ¶9). *(Drafted.)*
-    - quote: traverser la Mercy sur les glaçons qui l’encombraient alors
-  - It is the first time the colonists set foot on its right bank (I.21 ¶12). *(Drafted.)*
-    - quote: la première fois que les colons mettaient pied sur la rive droite de la Mercy
   - After the August snowstorm its water runs under a vault of ice that breaks up with a crash at each flow and ebb (I.22 ¶30). *(Drafted.)*
     - quote: L’eau de la Mercy courait sous une voûte de glace
     - quote: à chaque flux et reflux, faisait débâcle
   - Once the ice is gone its current is free again and carries trains of wood (I.22 ¶38). *(Drafted.)*
     - quote: du courant de la Mercy, qui était redevenu libre
+  - Pencroff reckons a bark pirogue will serve to navigate it, especially toward its sources where the water would be shallow (II.1 ¶20, ¶34). *(Drafted.)*
+    - quote: suffisante pour naviguer sur la Mercy
+    - quote: aux approches de ses sources, où l’eau présenterait peu de profondeur
+  - From the top of a kauri the forest hides its course, so that neither it nor the point in the mountain where it rises can be made out (II.1 ¶56). *(Drafted.)*
+    - quote: impossible de suivre le cours de la Mercy et de reconnaître le point de la montagne dans lequel elle prenait sa source
+  - The point where the chest lay is about three miles from it (II.2 ¶13). *(Drafted.)*
+    - quote: environ à trois milles de la Mercy
+  - The flood runs hard in it, and between its two high banks the pirogue goes fast with the current alone, on 30 October (II.3 ¶9). *(Drafted.)*
+    - quote: marcha rapidement entre les deux hautes rives
+  - After the sharp bend the river rounds and turns south-west, and its course runs under the shade of tall evergreen conifers (II.3 ¶11). *(Drafted.)*
+    - quote: la rivière, en s’arrondissant, obliquait vers le sud-ouest
+    - quote: sous l’ombrage de grands conifères à verdure permanente
+  - On its right bank grow fine elms, nettle trees, lardizabalaceae and two or three ebony-family trunks (II.3 ¶12). *(Drafted.)*
+    - quote: Sur la rive droite de la rivière s’étageaient de magnifiques échantillons des ulmacées
+    - quote: quelques lardizabalées
+    - quote: deux ou trois troncs d’ébenacées
+  - Its left bank is less steep and the right more wooded (II.3 ¶21). *(Drafted.)*
+    - quote: Celle-ci était moins abrupte, mais celle-là plus boisée
+  - From the first bend its direction is nearly south-west to north-east and almost straight for about three miles; Smith supposes it later turns north-west toward the buttresses of Mont Franklin, which must feed it (II.3 ¶21). *(Drafted.)*
+    - quote: presque rectiligne sur une longueur de trois milles environ
+    - quote: la Mercy remontait au nord-ouest, vers les contreforts du mont Franklin
+  - About five miles from its mouth, at a second bend, it is still sixty to seventy feet wide and five to six feet deep (II.3 ¶29, ¶30). *(Drafted.)*
+    - quote: environ à cinq milles de son embouchure
+    - quote: soixante à soixante-dix pieds de large, et son lit cinq à six pieds de profondeur
+  - Many tributaries swell it, but they are only little unnavigable rios (II.3 ¶30). *(Drafted.)*
+    - quote: de nombreux affluents en grossissaient le cours
+    - quote: de simples rios innavigables
+  - The flood fails there, whether because the tide was turning or because it was no longer felt at that distance from the mouth (II.3 ¶32). *(Drafted.)*
+    - quote: soit que la marée baissât
+    - quote: soit qu’elle ne se fît plus sentir à cette distance de l’embouchure de la Mercy
+  - Beyond that it is rather winding, sunk between high green banks, obstructed by tall grasses and sharp rocks, with the bottom rising (II.3 ¶57). *(Drafted.)*
+    - quote: assez sinueux, se creusait alors entre de hautes berges verdoyantes
+    - quote: le fond montait peu à peu
+  - Toward four in the afternoon it is choked with water plants and rocks, and its bed hollows between the first buttresses of Mont Franklin, which feed its sources with all the waters of the mountain’s southern slopes (II.3 ¶60). *(Drafted.)*
+    - quote: obstrué de plantes aquatiques et de roches
+    - quote: s’alimentaient de toutes les eaux des pentes méridionales de la montagne
+  - At the end of the navigable part it is no more than twenty feet wide, with a pebbly bottom, under a thick arch of green (II.3 ¶68). *(Drafted.)*
+    - quote: dont la largeur alors ne dépassait pas vingt pieds
+    - quote: Un épais berceau de verdure
+  - Below the fall the rios that join make it a true river, above it only a limpid brook with no depth (see [the Mercy fall](the-mercy-fall.md)) (II.3 ¶70). *(Drafted.)*
+    - quote: en faisaient plus bas une véritable rivière
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, III.16
-- **Open:**
-  - The text gives the Mercy no width, depth in figures, source or mouth.
-    - quote: alors profonde
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, III.16

@@ -34,7 +34,9 @@ Keywords: marais, marécage, marsh, fen, tadornes, sheldrake, south-east, wildfo
     - quote: acclimatés aux environs du lac
   - In the winter confinement the colonists wished to hunt in it, thinking the game easy to approach (I.22 ¶51). *(Drafted.)*
     - quote: Le gibier devait être facile à approcher
-- **Appears in:** I.21, I.22
+  - It is a marshy plain, which the curve of the coast toward the point hides from anyone going by water (II.2 ¶12). *(Drafted.)*
+    - quote: cachait toute la plaine marécageuse des Tadornes
+- **Appears in:** I.21, I.22, II.2
 - **Open:**
   - Where the marshy part lies: I.11 ¶32 speaks of stagnant water "dans la portion marécageuse du nord-est", and I.21 ¶7 puts the marsh in the south-east between the Mercy and cape Griffe. Card neither as one marsh. *(Drafted.)*
     - quote: dans la portion marécageuse du nord-est

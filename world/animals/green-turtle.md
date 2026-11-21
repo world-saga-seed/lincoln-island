@@ -1,0 +1,47 @@
+# Green turtle: the mydas the colonists turned over and lost
+
+*A green-reflected sea turtle of the chelonian order, three feet long and four hundred pounds, whose flesh is extremely savoury and which vanished from where it was turned on its back.*
+
+Keywords: tortue, turtle, chélonée, mydase, tortue franche, carapace, zostères, retournée, galets, marée, disparue, soupe
+
+- **What it is.**
+  - It is a "tortue franche du genre mydase", a magnificent specimen of the order of chelonians, its carapace showing admirable green reflections (II.1 ¶61). *(Drafted.)*
+    - quote: un magnifique échantillon de l’ordre des chélonées
+    - quote: une tortue franche du genre mydase
+    - quote: admirables reflets verts
+  - It is three feet long and must weigh at least four hundred pounds (II.1 ¶68). *(Drafted.)*
+    - quote: mesurait trois pieds de longueur
+    - quote: devait peser au moins quatre cents livres
+  - It feeds on zostera, and its flesh is extremely savoury (II.1 ¶70). *(Drafted.)*
+    - quote: qui se nourrissent de zostères
+    - quote: est extrêmement savoureuse
+  - Its head is small and flattened, much widened behind by large temporal pits hidden under a bony vault (II.1 ¶70). *(Drafted.)*
+    - quote: sa tête petite, aplatie, mais très élargie postérieurement par de grandes fosses temporales
+  - Sensing danger it withdraws between carapace and plastron, so that neither head nor feet show, and stays motionless "comme un roc" (II.1 ¶67). *(Drafted.)*
+    - quote: s’était retiré entre sa carapace et son plastron
+    - quote: il était immobile comme un roc
+  - Harbert holds that a turtle laid on its back cannot get on its feet again, above all a large one; Cyrus Smith confirms it (II.1 ¶90, ¶91). *(Drafted.)*
+    - quote: les tortues, une fois placées sur le dos, ne pouvaient se remettre sur leurs pattes
+    - quote: Cela est vrai, mon enfant
+- **On the page.**
+  - On 28 October Harbert and Nab take one on the shore two miles from Granite-house, as it slips between the rocks toward the sea (II.1 ¶60, ¶61, ¶62). *(Drafted.)*
+    - quote: 28 octobre
+    - quote: En rôdant sur la grève, à deux milles de Granite-house
+    - quote: qui se glissait entre les roches pour gagner la mer
+  - They turn it on its back and wedge it with large pebbles about fifteen feet from the sea, at low tide (II.1 ¶68, ¶74, ¶94, ¶95). *(Drafted.)*
+    - quote: parvinrent, non sans peine, à le retourner sur le dos
+    - quote: caler l’animal avec de gros galets
+    - quote: À une quinzaine de pieds, au plus
+    - quote: Et la marée était basse, à ce moment ?
+  - Two hours later it is gone; the pebbles are found scattered on the sand (II.1 ¶74, ¶77). *(Drafted.)*
+    - quote: mais deux heures après
+    - quote: Le « superbe échantillon des chélonées » n’y était plus
+    - quote: les galets épars sur le sable
+  - Pencroff reckons the loss as "cinquante potages au moins" (II.1 ¶84). *(Drafted.)*
+    - quote: cinquante potages au moins
+- **Appears in:** II.1
+- **Open:**
+  - Cyrus Smith says that what the turtle could not do on the sand it may have done in the water: it would have turned when the flood took it and calmly regained the open sea (II.1 ¶97). The narrator then asks whether he was truly convinced and says one would not dare affirm it (II.1 ¶100). *(Drafted.)*
+    - quote: ce que la tortue ne pouvait faire sur le sable, il se peut qu’elle l’ait fait dans l’eau
+    - quote: Mais était-il bien convaincu de la justesse de cette explication ?
+    - quote: On n’oserait l’affirmer

@@ -24,4 +24,7 @@ Keywords: kangourou, kangaroo, bond, leap, gibier, game, venaison, venison, broc
   - Kangaroo is made into a soup that is found excellent (I.22 ¶74, ¶75). *(Drafted.)*
     - quote: un potage de kangourou
     - quote: On le trouva excellent
-- **Appears in:** I.12, I.19, I.22
+  - Kangaroos are among the game of the first forest slopes near Granite-house (II.1 ¶36), and some are seen on the march to the west coast (II.4 ¶8). *(Drafted.)*
+    - quote: d’agoutis, de cabiais, de kangourous
+    - quote: des agoutis, des kangourous et autres rongeurs
+- **Appears in:** I.12, I.19, I.22, II.1, II.4

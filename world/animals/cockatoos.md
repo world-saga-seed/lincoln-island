@@ -11,4 +11,7 @@ Keywords: kakatoès, cockatoo, perroquet, oiseaux, Creek-Rouge, eucalyptus, casu
     - quote: voletaient au milieu d’un caquetage assourdissant
   - A whole world of noisy cockatoos, "véritables prismes mobiles", hops from branch to branch among the yellowing trees above the lake (I.16 ¶27). *(Drafted.)*
     - quote: tout un monde de kakatoès bruyants, véritables prismes mobiles
-- **Appears in:** I.12, I.16
+  - Cockatoos ("kakatoès") are among the birds that swarm on the forest strip of the west coast, where there is no tree without a nest (II.4 ¶42). *(Drafted.)*
+    - quote: loris, perroquets, kakatoès, faisans
+    - quote: Pas un arbre qui n’eût un nid
+- **Appears in:** I.12, I.16, II.4

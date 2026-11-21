@@ -37,12 +37,6 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: Le mot house s’applique également aux palais et aux maisons
   - It is reached only by climbing back up the old outlet to the plateau’s top (see [the old outlet](the-old-outlet.md)) (I.18 ¶73). *(Drafted.)*
     - quote: en remontant le couloir
-  - The colonists are called the colonists of Granite-house, so it is their dwelling (III.16 ¶66). *(My reading, to confirm.)*
-    - quote: les colons de Granite-house
-  - It has an inner well (a shaft) that can be reached from the sea floor (III.16 ¶64). *(Drafted.)*
-    - quote: arriver au fond du puits intérieur de Granite-house
-  - The well has an upper opening, reached by climbing projections of the rock (III.16 ¶64). *(Drafted.)*
-    - quote: s’élevant par les saillies du roc jusqu’à son orifice supérieur
   - It is a vast, healthy retreat hollowed in the solid rock, sheltered from the waters of sea and sky, to replace the insufficient shelter of the Chimneys (I.19 ¶1). *(Drafted.)*
     - quote: creusée en plein roc, à l’abri des eaux de la mer et du ciel
   - The hole of the opening lies on the perpendicular above where the pick fell in the sand, about eighty feet above the beach; rock-pigeons already go in and out of it (I.19 ¶3). *(Drafted.)*
@@ -111,6 +105,17 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: c’était la nature qui avait creusé cette vaste caverne, et il n’avait fait que la découvrir
   - In the great cold every opening of the facade must be stopped hermetically (see [the shutters](../things/the-shutters.md)) (I.22 ¶41). *(Drafted.)*
     - quote: obstruer hermétiquement toutes les ouvertures de la façade
+  - The sand of the shore before it is where the pirogue is launched and where it and the chest are hauled up (II.2 ¶1, ¶43). *(Drafted.)*
+    - quote: devant Granite-house
+    - quote: halés sur le sable
+  - It has a great hall, where on 29 October the objects of the chest are set out in order (II.2 ¶76). *(Drafted.)*
+    - quote: disposés méthodiquement dans la grande salle
+  - The colonists are called the colonists of Granite-house, so it is their dwelling (III.16 ¶66). *(My reading, to confirm.)*
+    - quote: les colons de Granite-house
+  - It has an inner well (a shaft) that can be reached from the sea floor (III.16 ¶64). *(Drafted.)*
+    - quote: arriver au fond du puits intérieur de Granite-house
+  - The well has an upper opening, reached by climbing projections of the rock (III.16 ¶64). *(Drafted.)*
+    - quote: s’élevant par les saillies du roc jusqu’à son orifice supérieur
 - **On the page.**
   - The well is at the cavern’s end (see [the well](the-well.md)); Top’s barking finds nothing in the cavern, and Smith murmurs that Top knows more than they do about many things (I.18 ¶56). *(Drafted.)*
     - quote: Top en sait plus long que nous sur bien des choses
@@ -120,7 +125,7 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: la corde du haut de Granite-house
   - Nemo summoned the colonists of Granite-house by a wire linking the corral to the Nautilus (III.16 ¶66). *(Drafted.)*
     - quote: il manda, comme on sait, les colons de Granite-house
-- **Appears in:** I.18, I.19, I.20, I.21, I.22, III.16
+- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, III.16
 - **Open:**
   - Chapter I.13 knows no Granite-house: there the engineer still hopes to find or build a better dwelling than the Chimneys (I.13 ¶40). Nothing in these chapters says where Granite-house stands, how big it is, or how the well opens inside it.
     - quote: une demeure plus convenable

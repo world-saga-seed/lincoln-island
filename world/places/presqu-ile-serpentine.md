@@ -17,7 +17,14 @@ Keywords: presqu’île, Serpentine, tail, queue, alligator, rade foraine, penin
     - quote: qui couvraient la presqu’île Serpentine
   - The high forests on the right of the Mercy reach to its end, and are still unexplored (I.22 ¶60). *(Drafted.)*
     - quote: jusqu’à l’extrémité de la presqu’île Serpentine
-- **Appears in:** I.11, I.22
+  - Its coast along the west offers refuges that the arid, wild northern coast would refuse to castaways; the exploration is to be continued along it (II.4 ¶36). *(Drafted.)*
+    - quote: sur toute la presqu’île Serpentine
+    - quote: cette partie du littoral offrait des refuges
+  - Smith will not count the shore explored until he has gone to the very end of the peninsula (II.4 ¶37). *(Drafted.)*
+    - quote: jusqu’à l’extrémité même de la presqu’île Serpentine
+  - Its end, the promontoire du Reptile, is still two miles off at five in the afternoon of 31 October (II.4 ¶42). *(Drafted.)*
+    - quote: l’extrémité de la presqu’île Serpentine se trouvait encore à deux milles
+- **Appears in:** I.11, I.22, II.4
 - **Open:**
   - The lengths: I.11 ¶25 says the peninsula runs "plus de trente milles" to sea from the south-east cape; ¶26 gives the island's greatest length, from the jaw of the north-east to the tail's end, as "pas moins de trente milles"; ¶38 repeats "environ trente milles" from the summit to the extreme points. Card none of the figures.
     - quote: s’allongeait de plus de trente milles en mer, à compter du cap sud-est de l’île

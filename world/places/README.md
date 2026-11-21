@@ -11,7 +11,9 @@ A card for every place named on or off the island, each fact cited to the French
 | [Baie de l’Union](baie-de-l-union.md) | the vast bay of the east coast, facing the islet |
 | [Baie Washington](baie-washington.md) | the large indentation of the south coast |
 | [The bend](the-bend.md) | the river's bend at the edge of the forest |
+| [The boatyard](the-boatyard.md) | the yard where Pencroff builds the pirogue |
 | [Bundelkund](bundelkund.md) | the Indian territory of Nemo's birth |
+| [The camp at the fall](camp-at-the-fall.md) | the night camp of 30 October at the head of the Mercy |
 | [Cap de la Griffe](cap-griffe.md) | the sharp south-east cape of the Union Bay |
 | [Cap Mandibule-Nord](cap-mandibule-nord.md) | the northern of the two capes of the Shark-gulf |
 | [Cap Mandibule-Sud](cap-mandibule-sud.md) | the southern of the two capes of the Shark-gulf |
@@ -35,8 +37,11 @@ A card for every place named on or off the island, each fact cited to the French
 | [Granite-house](granite-house.md) | the colonists' dwelling, with an inner well |
 | [Greenwich](greenwich.md) | the meridian from which longitudes are counted |
 | [The grotto](the-grotto.md) | the excavation behind a high dune where Smith lay |
+| [The jaguar’s cave](the-jaguars-cave.md) | a cavern in the rocks at the promontoire du Reptile |
 | [Juan Fernández](juan-fernandez.md) | an island of a castaway's story, named for comparison |
-| [La pointe de l’Épave](pointe-de-l-epave.md) | a point on the south-east coast |
+| [The kauri stand](the-kauri-stand.md) | a part of the forest by the Mercy with giant kauris |
+| [La pointe de l’Épave](pointe-de-l-epave.md) | the granite point where the chest ran aground |
+| [La rivière de la Chute](riviere-de-la-chute.md) | the creek that falls forty feet into the sea on the west coast |
 | [Lake Grant](lake-grant.md) | the lake west of the brickworks clearing |
 | [The landing place](landing-place.md) | where the balloon came down and the four came ashore |
 | [Le marais des Tadornes](marais-des-tadornes.md) | the marsh of the south-east, named for its sheldrakes |
@@ -47,6 +52,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [Massachusetts](massachusetts.md) | the state Smith and Nab come from |
 | [The Mendana archipelago](mendana-archipelago.md) | a Pacific group named as a possible landfall |
 | [The Mercy](mercy-river.md) | a deep river with a left bank and a rock-lined edge |
+| [The Mercy fall](the-mercy-fall.md) | the small cascade that ends the navigation of the Mercy |
 | [The Micronesian archipelago](micronesian-archipelago.md) | the group Smith names as a possible home of the land |
 | [Mont Franklin](mont-franklin.md) | the extinct volcano of two cones at the island's north-west |
 | [The natural stair](the-natural-stair.md) | the slope of rock-fall up to the plateau |
@@ -75,11 +81,14 @@ A card for every place named on or off the island, each fact cited to the French
 | [Tabor Island](tabor-island.md) | an island where Ayrton was left |
 | [Tahiti](tahiti.md) | an island of the Pacific |
 | [The talus](the-talus.md) | the long slope west of the granite wall’s north angle |
+| [The turtle shore](the-turtle-shore.md) | the beach two miles from Granite-house where the turtle is left |
 | [The upper cave](the-upper-cave.md) | a small cave about a hundred feet down the old outlet |
 | [The warren](the-warren.md) | the natural rabbit warren at the lake’s south-west |
 | [Washington](washington.md) | the capital of the Union, whose meridian the colonists keep time by |
 | [The well](the-well.md) | the sheer shaft at the end of the great cavern, ninety feet to the sea |
+| [The west coast](the-west-coast.md) | a shore of forest, with no cliff, reef or beach |
 | [The western creek](western-creek.md) | a narrow creek of the west coast |
+| [The westward track](the-westward-track.md) | the way cut through the forest from the camp |
 | [The wheat field](the-wheat-field.md) | the sheltered plot on the plateau where the one grain was sown |
 | [The wood of the Jacamar](jacamar-wood.md) | the forest on the left bank of the Mercy |
 <!-- /cards -->

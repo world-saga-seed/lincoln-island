@@ -42,5 +42,7 @@ Keywords: baie, grève, beach, shore, reefs, brisants, sandbanks, ebb, coast, ba
   - In the south-east part of the bay, which nothing covers from the open sea, not even a sandbank, ships beaten by the east winds would find no shelter; the coast is steep-to over deep abysses (I.21 ¶20). *(Drafted.)*
     - quote: en cette partie de la baie de l’Union, que rien ne couvrait du large, pas même un banc de sable
     - quote: cette côte était accore
+  - Going south along the coast by water, the two Mandibule capes seem to shift and to close the bay more tightly (II.2 ¶15). *(Drafted.)*
+    - quote: les deux caps Mandibule paraissaient se déplacer et fermer plus étroitement la baie de l’Union
 - **On the page.**
-- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21
+- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2

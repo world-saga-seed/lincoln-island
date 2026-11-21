@@ -12,4 +12,6 @@ Keywords: sanglier, sangliers, wild boar, pig, hog, gibier, game, forêt, Jacama
   - A few of the sangliers reported earlier north of the lake are taken in the traps in the second week of August; they look so like American or European pigs that Pencroff needs no telling they are edible (I.22 ¶14). *(Drafted.)*
     - quote: quelques-uns de ces sangliers qui avaient été déjà signalés au nord du lac
     - quote: leur ressemblance avec le cochon d’Amérique ou d’Europe
-- **Appears in:** I.15, I.19, I.22
+  - A few wild boars are seen on the march toward the west coast (II.4 ¶8). *(Drafted.)*
+    - quote: On vit aussi quelques sangliers
+- **Appears in:** I.15, I.19, I.22, II.4

@@ -13,4 +13,7 @@ Keywords: déodars, cedar, Himalayan, conifer, aroma, evergreen
     - quote: qui répandaient un agréable arôme
   - The forest's conifers include deodars, already recognised by Harbert (I.6 ¶27). *(Drafted.)*
     - quote: tels que les déodars, déjà reconnus par Harbert
-- **Appears in:** I.4, I.6
+  - It is among the trees of the forest cut through on 31 October, most of which were already known round the lake and the Grande-Vue plateau, generally of medium size because their number has hindered their growth (II.4 ¶5). *(Drafted.)*
+    - quote: des déodars
+    - quote: généralement de taille médiocre, car leur nombre avait nui à leur développement
+- **Appears in:** I.4, I.6, II.4

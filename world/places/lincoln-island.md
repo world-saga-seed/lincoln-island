@@ -112,12 +112,6 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: au moins à douze cents milles de Taïti et des îles de l’archipel des Pomotou, à plus de dix-huit cents milles de la Nouvelle-Zélande
   - Smith recalls no island that occupies, in that part of the Pacific, the position assigned to Lincoln Island (I.14 ¶80). *(Drafted.)*
     - quote: il ne se rappelait en aucune façon qu’une île quelconque occupât, dans cette partie du Pacifique, la situation assignée à l’île Lincoln
-  - It is described as a desert island (III.16 ¶64). *(Drafted.)*
-    - quote: sur une île déserte
-  - A port is hollowed out beneath it (III.16 ¶61). *(Drafted.)*
-    - quote: L’un de ces ports était creusé sous l’île Lincoln
-  - Volcanic actions have acted on it (III.16 ¶63). *(Drafted.)*
-    - quote: sous l’influence des actions volcaniques
   - Smith puts it very probably between the thirty-fifth and fortieth parallels, so subject in the southern hemisphere to the climate of Sicily or Greece in the northern (I.16 ¶1). *(Drafted.)*
     - quote: située très-vraisemblablement entre le trente-cinquième et le quarantième parallèle
     - quote: aux mêmes conditions climatériques que la Sicile ou la Grèce
@@ -175,6 +169,17 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: ces formidables carnassiers n’existaient point dans l’île
   - A part of the island is still unknown: the whole west side under the high forests (I.22 ¶60). *(Drafted.)*
     - quote: toute la partie ignorée de l’île Lincoln
+  - In seven months no human being has shown himself on it, no smoke and no work of hands has betrayed man, and it seemed never to have been inhabited (II.1 ¶1). *(Drafted.)*
+    - quote: aucun être humain ne s’était montré à eux
+    - quote: on devait croire qu’elle n’avait jamais dû l’être
+  - From the lead-shot incident on, it is certain that it is or has been inhabited by others than the colonists (II.1 ¶29). *(Drafted.)*
+    - quote: l’île était ou avait été habitée par d’autres que par les colons
+  - It is described as a desert island (III.16 ¶64). *(Drafted.)*
+    - quote: sur une île déserte
+  - A port is hollowed out beneath it (III.16 ¶61). *(Drafted.)*
+    - quote: L’un de ces ports était creusé sous l’île Lincoln
+  - Volcanic actions have acted on it (III.16 ¶63). *(Drafted.)*
+    - quote: sous l’influence des actions volcaniques
 - **On the page.**
   - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
     - quote: peu effrayés de la présence de l’homme
@@ -184,7 +189,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, III.16
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, III.16
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent

@@ -16,6 +16,9 @@ Keywords: dragonniers, dragon trees, dracaena, liliaceae, roots, liqueur, poirea
   - The island has them in abundance enough to feed the colonists’ supply of roots through the winter (I.22 ¶28, ¶37). *(Drafted.)*
     - quote: ses récoltes de rhizomes, d’amandes de pin-pignon et de racines de dragonnier
     - quote: racines de dragonnier
+  - It is among the trees of the forest cut through on 31 October, most of which were already known round the lake and the Grande-Vue plateau, generally of medium size because their number has hindered their growth (II.4 ¶5). *(Drafted.)*
+    - quote: des dragonniers
+    - quote: généralement de taille médiocre, car leur nombre avait nui à leur développement
 - **Leads to.**
   - The roots, fermented, give a very agreeable liquor (I.15 ¶33). *(Drafted.)*
     - quote: soumises à une certaine fermentation, donnent une très-agréable liqueur
@@ -23,4 +26,4 @@ Keywords: dragonniers, dragon trees, dracaena, liliaceae, roots, liqueur, poirea
     - quote: une boisson acidulée, sorte de bière bien préférable à l’eau pure
   - Dragon-tree drink is among the dishes of the 24 October dinner (I.22 ¶74). *(Drafted.)*
     - quote: de la boisson de dragonnier
-- **Appears in:** I.15, I.20, I.22
+- **Appears in:** I.15, I.20, I.22, II.4

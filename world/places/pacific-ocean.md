@@ -32,4 +32,6 @@ Keywords: Pacifique, ocean, sea, océan, Mexico, crossing, presumption
     - quote: ne sont que des sommets d’un continent maintenant englouti
   - Smith holds that the coral animalcules have built Clermont-Tonnerre and the atolls and many coral islands of the Pacific, and that in ages the Pacific may become a vast continent (I.21 ¶36). *(Drafted.)*
     - quote: ce Pacifique pourra se changer un jour en un vaste continent
-- **Appears in:** I.7, I.9, I.11, I.14, I.16, I.19, I.21
+  - The Pacific tides, even at their greatest rise, would never reach the level of the Falls-river’s bed (II.4 ¶35). *(Drafted.)*
+    - quote: les marées du Pacifique, même à leur maximum d’élévation, ne devaient jamais atteindre le niveau de la rivière
+- **Appears in:** I.7, I.9, I.11, I.14, I.16, I.19, I.21, II.4

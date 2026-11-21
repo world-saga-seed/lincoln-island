@@ -11,7 +11,10 @@ Keywords: hibiscus, mallow, cord, fibre, string, malvaceae
     - quote: qui fournit des fibres d’une ténacité remarquable, qu’on eût pu comparer à des tendons d’animaux
   - Nab made a net of hibiscus fibres (see [the net](fibre-net.md)) (I.14 ¶36). *(Drafted.)*
     - quote: une sorte de filet en fibres d’hibiscus, que Nab avait confectionné
+  - It is among the trees of the forest cut through on 31 October, most of which were already known round the lake and the Grande-Vue plateau, generally of medium size because their number has hindered their growth (II.4 ¶5). *(Drafted.)*
+    - quote: des hibiscus
+    - quote: généralement de taille médiocre, car leur nombre avait nui à leur développement
 - **On the page.**
   - It was the plant sought to make the string of the bow (I.13 ¶30). *(Drafted.)*
     - quote: une plante propre à former la corde de l’arc
-- **Appears in:** I.13, I.14
+- **Appears in:** I.13, I.14, II.4

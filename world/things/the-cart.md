@@ -11,7 +11,11 @@ Keywords: chariot, cart, wagon, hauling, hurdle, claie, transport
     - quote: Ils avaient traîné avec eux
   - The sailor and Nab take it to the coal seam to bring back a few tons of fuel (I.22 ¶37). *(Drafted.)*
     - quote: avec le chariot, jusqu’au gisement de houille
-- **Appears in:** I.20, I.22
+  - It is kept for fetching what is too heavy to carry back from the shore (II.1 ¶72). *(Drafted.)*
+    - quote: nous reviendrons le reprendre avec le chariot
+  - It is heavy and coarse and has to be dragged by hand, which makes it less handy than the pirogue for a long trip (II.3 ¶3). *(Drafted.)*
+    - quote: ce chariot, lourd et grossier, il fallait le traîner
+- **Appears in:** I.20, I.22, II.1, II.3
 - **Open:**
   - Who made the cart, of what, and when is not said (I.20 ¶29). *(Drafted.)*
     - quote: une sorte de grossier chariot

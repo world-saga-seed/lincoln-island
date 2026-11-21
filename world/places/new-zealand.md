@@ -13,4 +13,11 @@ Keywords: Nouvelle-Zélande, Maoris, English, colony, landfall
     - quote: au lieu de faire une maison, nous ferons un bateau
   - The island lies more than eighteen hundred miles from it (I.14 ¶79). *(Drafted.)*
     - quote: à plus de dix-huit cents milles de la Nouvelle-Zélande
-- **Appears in:** I.9, I.14
+  - Its natives call "kauris" the superb conifers of the forest by the Mercy, near two hundred feet high (II.1 ¶48). *(Drafted.)*
+    - quote: auxquels les indigènes donnent le nom de « kauris » dans la Nouvelle-Zélande
+  - It lies on the same latitude as Lincoln Island, and has the congeners of the eucalyptus found in the forest (II.3 ¶36). *(Drafted.)*
+    - quote: toutes deux situées sur la même latitude que l’île Lincoln
+  - The eucalyptus are called there "fever trees" (II.3 ¶48, ¶50). *(Drafted.)*
+    - quote: Savez-vous comment on les appelle dans l’Australie et la Nouvelle-Zélande
+    - quote: les « arbres à fièvre »
+- **Appears in:** I.9, I.14, II.1, II.3

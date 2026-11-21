@@ -15,4 +15,9 @@ Keywords: Australie, Nouvelle-Hollande, Australian, continent, route, trees, hun
     - quote: aussi adroits à les manier que des chasseurs australiens
   - Smith suggests that Australia, New Ireland and all that English geographers call Australasia, joined to the archipelagos of the Pacific, once formed a sixth part of the world (I.21 ¶26). *(Drafted.)*
     - quote: l’Australie, la Nouvelle-Irlande, tout ce que les géographes anglais appellent l’Australasie
-- **Appears in:** I.11, I.12, I.21
+  - It lies on the same latitude as Lincoln Island, and its eucalyptus have congeners among the giants of the forest (II.3 ¶36). *(Drafted.)*
+    - quote: les congénères de ces eucalyptus de l’Australie et de la Nouvelle-Zélande, toutes deux situées sur la même latitude que l’île Lincoln
+  - The eucalyptus are called there "fever trees" (II.3 ¶48, ¶50). *(Drafted.)*
+    - quote: Savez-vous comment on les appelle dans l’Australie et la Nouvelle-Zélande
+    - quote: les « arbres à fièvre »
+- **Appears in:** I.11, I.12, I.21, II.3

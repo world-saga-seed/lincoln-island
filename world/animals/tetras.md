@@ -22,6 +22,9 @@ Keywords: tétras, grouse, gallinacé, gélinotte, game, ligne, hameçon, fishin
     - quote: auxquels leurs propriétaires ne pouvaient manquer de revenir
   - They are voracious: they peck at the baited hooks, and three swallow bait and hook together (I.6 ¶47). *(Drafted.)*
     - quote: Trois tétras, très-voraces sans doute, avalèrent à la fois l’appât et l’hameçon
+  - Tétras are among the birds that swarm on the forest strip of the west coast, where there is no tree without a nest (II.4 ¶42). *(Drafted.)*
+    - quote: jacamars, couroucous, tragopans, tétras, loris
+    - quote: Pas un arbre qui n’eût un nid
 - **On the page.**
   - Several pairs return to their nests after a good half hour, hopping and pecking the ground, unaware of the hunters who have placed themselves downwind (I.6 ¶43). *(Drafted.)*
     - quote: plusieurs couples de tétras revinrent à leurs nids
@@ -40,4 +43,4 @@ Keywords: tétras, grouse, gallinacé, gélinotte, game, ligne, hameçon, fishin
     - quote: toute la chair de tétras avait été consommée
   - Their ground is the marshy part of the forest, where Pencroff made "sa pêche aux tétras" (I.9 ¶88). *(Drafted.)*
     - quote: cette partie marécageuse de la forêt, dans laquelle il avait si heureusement opéré sa pêche aux tétras
-- **Appears in:** I.6, I.7, I.8, I.9
+- **Appears in:** I.6, I.7, I.8, I.9, II.4

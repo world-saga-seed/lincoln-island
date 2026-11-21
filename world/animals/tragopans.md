@@ -17,4 +17,7 @@ Keywords: tragopan, faisan, pheasant, gallinacé, gallinacean, gibier, game, wat
     - quote: faisan, que Nab réservait pour le lendemain
   - The roast tragopan is the whole of the colonists' breakfast on 30 March (I.11 ¶2). *(Drafted.)*
     - quote: le tragopan rôti fit tous les frais
-- **Appears in:** I.10, I.11
+  - Tragopans are among the birds that swarm on the forest strip of the west coast, where there is no tree without a nest (II.4 ¶42). *(Drafted.)*
+    - quote: les oiseaux y fourmillaient, jacamars, couroucous, tragopans
+    - quote: Pas un arbre qui n’eût un nid
+- **Appears in:** I.10, I.11, II.4

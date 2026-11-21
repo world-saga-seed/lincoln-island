@@ -88,6 +88,27 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He backs Pencroff in asking for firearms, and says that if the island holds fierce animals they must be fought and exterminated (I.22 ¶57, ¶58). *(Drafted.)*
     - quote: Gédéon Spilett appuyait, du reste, Pencroff
     - quote: il faut penser à les combattre et à les exterminer
+  - He counsels prudence on learning that a gun has been fired on the island (II.1 ¶16). *(Drafted.)*
+    - quote: Je pense que nous devrons agir prudemment
+  - He and Cyrus Smith talk at length of the lead shot and of any link with the engineer's rescue (II.1 ¶30). *(Drafted.)*
+    - quote: s’entretinrent longuement de ces choses
+  - He judges it more than probable that the strangers have left the island, calling them "des naufragés provisoires" if a gale threw them ashore without wrecking their boat (II.1 ¶41, ¶43). *(Drafted.)*
+    - quote: C’est plus que probable, mon garçon
+    - quote: ce que j’appellerai des naufragés provisoires
+  - He knows that eucalyptus wood is beginning to be used with advantage in cabinet-making (II.3 ¶40). *(Drafted.)*
+    - quote: le bois d’eucalyptus commence à être employé très-avantageusement dans l’ébénisterie
+  - He says of tobacco "Nous en trouverons un jour !" (II.3 ¶18). *(Drafted.)*
+    - quote: Nous en trouverons un jour !
+  - He jokes about the monkeys, asking whether they take the men for degenerate brothers (II.4 ¶7). *(Drafted.)*
+    - quote: Gédéon Spilett demandait plaisamment
+  - He wants the creek named so as not to leave their geography incomplete (II.4 ¶14). *(Drafted.)*
+    - quote: Ne laissons pas notre géographie incomplète
+  - He reasons that the sea may have carried off all wreckage, so that finding no trace does not prove no ship was cast ashore (II.4 ¶40). *(Drafted.)*
+    - quote: la mer avait pu tout entraîner au large
+  - He has faced a tiger before; before the jaguar he stands ten paces off, carbine at the shoulder, without a muscle trembling (II.4 ¶65). *(Drafted.)*
+    - quote: Il n’en était pas à son premier tigre
+    - quote: la carabine à l’épaule
+    - quote: sans qu’un de ses muscles tressaillît
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -136,7 +157,13 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He sketches calmly an animal he takes for a bear, and, once it proves a koula, strikes "ours" from the legend of his sketch and writes "koula" in its place (I.15 ¶38). *(Drafted.)*
     - quote: se mit à dessiner tranquillement
     - quote: effaça « ours » de la légende de son croquis, mit « koula » à la place
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
+  - He sketches the coast in broad strokes, pencil in one hand and notebook in the other (II.2 ¶15). *(Drafted.)*
+    - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
+  - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
+    - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
+  - He notes down what the engineer tells of the eucalyptus (II.3 ¶53). *(Drafted.)*
+    - quote: Je vais noter cela
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

@@ -21,7 +21,23 @@ Keywords: Far-West, forêts, bois, woods, forest, Serpentine, impenetrable, for�
   - The unexplored part of the island is the high forests on the right of the Mercy from its mouth to the end of the Serpentine peninsula, and the whole west coast (I.22 ¶60). *(Drafted.)*
     - quote: depuis son embouchure jusqu’à l’extrémité de la presqu’île Serpentine
     - quote: sur toute la côte occidentale
-- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22
+  - Seen from the top of a kauri, the woods of the Far-West form an impenetrable dome covering several square miles, without a clearing or a gap (II.1 ¶56). *(Drafted.)*
+    - quote: Au milieu des bois du Far-West
+    - quote: La forêt formait un impénétrable dôme, mesurant plusieurs milles carrés
+  - The wood of the Jacamar and the forests of the Far-West are two names for the forest that the colonists see stretching out of sight on both sides of the upper Mercy; no sign of man is found in it, and no axe has ever notched its trees (II.3 ¶30). *(Drafted.)*
+    - quote: aussi bien sous le nom de bois du Jacamar que sous celui de forêts du Far-West
+    - quote: jamais la hache du bûcheron n’avait entaillé ces arbres
+  - It seems to thin out toward the Far-West, where the trees stand farther apart and are splendid (II.3 ¶33). *(Drafted.)*
+    - quote: la forêt tendait à s’éclaircir du côté du Far-West
+  - The part of the Far-West west of the camp seems packed with wood, like an immense thicket of very varied species (II.4 ¶1). *(Drafted.)*
+    - quote: Cette partie du Far-West paraissait serrée de bois
+  - Its trees there are mostly of medium size, since their number has hindered their growth (II.4 ¶5). *(Drafted.)*
+    - quote: généralement de taille médiocre, car leur nombre avait nui à leur développement
+  - On the west coast the forest itself forms the shore (see [the west coast](the-west-coast.md)) (II.4 ¶34). *(Drafted.)*
+    - quote: La forêt formait le littoral
+  - The last trees of the forest of the Far-West die at the promontoire du Reptile (II.4 ¶44). *(Drafted.)*
+    - quote: Les derniers arbres de la forêt du Far-West venaient mourir à cette pointe
+- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4
 - **Open:**
   - How much of the great forest the name covers: I.11 ¶32 says the trees make "two thirds" of the island a forest; I.11 ¶27 has the forest cover the whole south from the mountain to the shore; ¶81 gives the name to the woods of the Serpentine peninsula. The three do not say how they overlap, nor whether it takes in [the evergreen forest](the-evergreen-forest.md) or [the wood of the Jacamar](jacamar-wood.md). Card neither.
     - quote: très-boisée dans toute sa portion méridionale depuis la montagne jusqu’au littoral

@@ -15,4 +15,9 @@ Keywords: coude, elbow, turn, river bend, forest edge, landmark
     - quote: Une demi-heure après, ils arrivaient au coude de la rivière
   - From there, as the first time, Pencroff quickly set up a raft of logs, the card's own link to the bend (I.9 ¶118). *(My reading, to confirm.)*
     - quote: Ainsi qu’il l’avait fait la première fois, Pencroff établit rapidement un train de bois
-- **Appears in:** I.6, I.9
+  - It is the bend of the Mercy at the very angle where, seven months before, Pencroff had made his first raft; the text thus confirms the card’s reading that the bend of I.4 and the bend of I.9 are the one (II.3 ¶10). *(Drafted.)*
+    - quote: au coude que formait la Mercy
+    - quote: précisément à l’angle où, sept mois auparavant, Pencroff avait formé son premier train de bois
+  - It is a rather sharp angle, after which the river rounds and turns south-west (II.3 ¶11). *(Drafted.)*
+    - quote: Après cet angle assez aigu
+- **Appears in:** I.6, I.9, II.3

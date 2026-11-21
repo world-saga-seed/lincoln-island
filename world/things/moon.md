@@ -12,4 +12,6 @@ Keywords: lune, croissant, crescent, moon, reflection, sea, western horizon
   - Smith holds the moon to be truly a cooled star, no longer habitable though the sun still pours on it the same heat (I.21 ¶42). *(Drafted.)*
     - quote: la lune est bien véritablement un astre refroidi
     - quote: n’est plus habitable
-- **Appears in:** I.10, I.21
+  - On 30 October the moon is to be full three days later (II.3 ¶9). *(Drafted.)*
+    - quote: la lune devait être pleine trois jours après
+- **Appears in:** I.10, I.21, II.3

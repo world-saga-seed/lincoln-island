@@ -30,7 +30,14 @@ Keywords: pécari, peccary, tajassou, sanglier, cochon, pig, trappe, trap, cocho
   - Pencroff breaks a molar on a lead shot in his helping: "Ce n’était point un caillou… C’était un grain de plomb." The shot is in the flesh of a young peccary (I.22 ¶81, ¶82). *(Drafted.)*
     - quote: Ce n’était point un caillou
     - quote: C’était un grain de plomb.
-- **Appears in:** I.22
+  - The wounded young peccary was barely three months old: Pencroff says it was still suckling when he found it in the pit (II.1 ¶5, ¶6). *(Drafted.)*
+    - quote: à peine âgé de trois mois
+    - quote: Il tétait encore sa mère quand je l’ai trouvé dans la fosse
+  - Peccaries are among the game that the first slopes of the forest yield (II.1 ¶36). *(Drafted.)*
+    - quote: d’agoutis, de cabiais, de kangourous, de pécaris, etc
+  - The peccary that took the lead shot, at the cost of Pencroff's molar, was not wounded in this part of the Far-West (II.4 ¶28). *(Drafted.)*
+    - quote: ce n’était pas encore dans cette partie du Far-West que le pécari avait reçu le grain de plomb qui coûtait une mâchelière à Pencroff
+- **Appears in:** I.22, II.1, II.4
 - **Open:**
   - The animals of the traps are first called "sangliers" and judged like pigs (I.22 ¶14), then "des pécaris" of the tajassou kind (I.22 ¶21); Pencroff calls the young "du cochon de lait" (I.22 ¶66). The text does not say they are two kinds. *(Drafted.)*
     - quote: ces sangliers qui avaient été déjà signalés
@@ -38,3 +45,8 @@ Keywords: pécari, peccary, tajassou, sanglier, cochon, pig, trappe, trap, cocho
     - quote: Du cochon de lait
   - The text says it was a lead shot in the young peccary's flesh and not a stone; it gives no reason (I.22 ¶82). *(Drafted.)*
     - quote: C’était un grain de plomb.
+
+  - II.1 ¶1 calls the creature in which the lead shot was found "un inoffensif rongeur"; II.1 ¶5 and ¶12 call it "le pécari". A peccary is not a rodent; the text does not reconcile the two. *(Drafted.)*
+    - quote: trouvé dans le corps d’un inoffensif rongeur
+    - quote: le pécari, blessé par ce grain de plomb
+    - quote: ce pécari fût né avec un grain de plomb dans le corps

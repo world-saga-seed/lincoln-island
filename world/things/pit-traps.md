@@ -28,4 +28,6 @@ Keywords: trappes, traps, fosses, pits, snare, hunting, game, appât, bait, culp
     - quote: Aucun animal n’y était tombé
   - On 24 October Pencroff finds in one a female peccary and her two young (I.22 ¶62). *(Drafted.)*
     - quote: une femelle de pécari et ses deux petits
-- **Appears in:** I.20, I.22
+  - Their yield is small since the cold has ended (II.1 ¶36). *(Drafted.)*
+    - quote: le rendement des trappes était peu important depuis que le froid avait cessé
+- **Appears in:** I.20, I.22, II.1

@@ -221,6 +221,28 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: il convenait d’aviser aux moyens d’en former un troupeau
   - He holds that dangerous beasts are on the island; Harbert's reading of the claw marks "justifiait l’opinion de l’ingénieur" (I.22 ¶31). *(Drafted.)*
     - quote: l’opinion de l’ingénieur sur la présence de fauves dangereux
+  - He is quick to see the use of a thing and spare it: he will not let Pencroff smash the chest ("qui peut nous être utile"), and says that if survivors are found it will be given back to its owners (II.2 ¶33, ¶40). *(Drafted.)*
+    - quote: ne brisez pas cette caisse, qui peut nous être utile
+    - quote: nous la remettrons à ceux auxquels elle appartient
+  - He plans to make an explosive substance to spare the powder (II.3 ¶6). *(Drafted.)*
+    - quote: l’ingénieur comptait fabriquer une substance explosive qui permettrait de la ménager
+  - He knows that eucalyptus forests neutralise marsh miasmas, and that they are called "arbres à fièvre" in Australia and New Zealand because they prevent fever (II.3 ¶48, ¶50, ¶54). *(Drafted.)*
+    - quote: On les appelle les « arbres à fièvre »
+    - quote: parce qu’ils l’empêchent
+    - quote: la présence des eucalyptus suffit à neutraliser les miasmes paludéens
+  - He reads the course of the river by his pocket compass, and leads the march compass in hand (II.3 ¶21; II.4 ¶4). *(Drafted.)*
+    - quote: en consultant sa boussole de poche
+    - quote: sa boussole à la main, Cyrus Smith indiqua la route à suivre
+  - He forbids a needless slaughter of the monkeys, which are vigorous and extremely agile and might be redoubtable (II.3 ¶58). *(Drafted.)*
+    - quote: Cyrus Smith s’opposa à ce massacre inutile
+    - quote: pouvaient être redoutables
+  - He had made his companions promise not to fire without need, and asks them to avoid any ill-timed shot so as not to signal their presence near the coast (II.3 ¶7; II.4 ¶3). *(Drafted.)*
+    - quote: ne pas tirer un coup de fusil sans nécessité
+    - quote: d’éviter toute détonation intempestive
+  - He does not remember, from his excursion to the crater, any water-course but Red Creek and the Mercy (II.4 ¶6). *(Drafted.)*
+    - quote: ne se souvenait pas, lors de son excursion au cratère, d’avoir reconnu d’autre cours d’eau que ceux du Creek-Rouge et de la Mercy
+  - From the swift current that does not feel the tide he infers that the party is much farther from the west coast than it thought (II.4 ¶29). *(Drafted.)*
+    - quote: Cyrus Smith fut amené à supposer que ses compagnons et lui étaient beaucoup plus loin de la côte occidentale qu’ils ne le croyaient
   - He was thrown into the sea when the balloon fell (III.16 ¶62). *(Drafted.)*
     - quote: lorsque l’ingénieur fut précipité dans la mer
   - The balloon carried prisoners of the Southerners (III.16 ¶62). *(Drafted.)*
@@ -335,6 +357,39 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He has the old outlet stopped with rock cemented in and hidden by plants, but does not yet carry out his plan of drowning its orifice under the lake by a dam (I.19 ¶44). *(Drafted.)*
     - quote: Cyrus Smith ne réalisa pas encore le projet qu’il avait formé de noyer cet orifice sous les eaux du lac
     - quote: Il se contenta de dissimuler l’obstruction
+  - From the age of the peccary he holds it proved that a gun has been fired on the island within three months at most (II.1 ¶7). *(Drafted.)*
+    - quote: il est par cela même prouvé que, depuis trois mois au plus, un coup de fusil a été tiré dans l’île Lincoln
+  - He says the island was inhabited before their arrival or men have landed within three months at most, and that nothing tells whether they are Europeans or Malays, friends or enemies, or whether they still live there (II.1 ¶9). *(Drafted.)*
+    - quote: ou l’île était habitée avant notre arrivée, ou des hommes y ont débarqué depuis trois mois au plus
+    - quote: Européens ou Malais, ennemis ou amis de notre race
+  - He is inclined to think the beings who landed have been there only a very short time, or have only passed, since from Mount Franklin the colonists would have seen or been seen; he thinks castaways were thrown on the coast "depuis quelques semaines seulement" (II.1 ¶15). *(Drafted.)*
+    - quote: n’y sont que depuis très-peu de temps ou qu’ils n’ont fait qu’y passer
+    - quote: depuis quelques semaines seulement
+  - He fears that Malay pirates have landed on the island (II.1 ¶17). *(Drafted.)*
+    - quote: il est malheureusement à craindre que ce ne soient des pirates malais qui aient débarqué sur l’île
+  - He and the reporter ask whether the lead-shot incident has some connection with the inexplicable circumstances of the engineer's rescue; he concludes that however minutely they explore the island, they will find nothing (II.1 ¶30, ¶33). *(Drafted.)*
+    - quote: cet incident n’aurait pas quelque connexité avec les circonstances inexplicables du sauvetage de l’ingénieur
+    - quote: si minutieusement que nous explorions l’île, nous ne trouverons rien
+  - Harbert says that Cyrus Smith has always seemed rather to dread than to desire the presence of human beings on the island, and the reporter replies that he sees only Malays frequenting these seas (II.1 ¶44, ¶45). *(Drafted.)*
+    - quote: M. Smith a toujours paru plutôt redouter que désirer la présence d’êtres humains sur notre île
+    - quote: il ne voit guère que des Malais qui puissent fréquenter ces mers
+  - He hears Harbert's report of the view from the kauri, shakes his head and says nothing (II.1 ¶59). *(Drafted.)*
+    - quote: secoua la tête et ne dit rien
+  - He explains the vanished turtle by the tide: what it could not do on the sand it may have done in the water, turning over when the flood took it; the narrator asks whether he was convinced and says one would not dare affirm it (II.1 ¶97, ¶100). *(Drafted.)*
+    - quote: ce que la tortue ne pouvait faire sur le sable, il se peut qu’elle l’ait fait dans l’eau
+    - quote: Mais était-il bien convaincu de la justesse de cette explication ?
+    - quote: On n’oserait l’affirmer
+  - On the boat he does not speak; he looks, and by the distrust of his gaze he seems always to observe some strange country (II.2 ¶16). *(Drafted.)*
+    - quote: il ne parlait pas, il regardait
+    - quote: à la défiance qu’exprimait son regard
+    - quote: il semblait toujours qu’il observât quelque contrée étrange
+  - Of the chest's contents he murmurs, thoughtfully, "Rien n’y manque, en effet"; of the photographic apparatus he says he does not well understand its use (II.2 ¶55, ¶62). *(Drafted.)*
+    - quote: Rien n’y manque, en effet, murmura Cyrus Smith d’un air pensif
+    - quote: je n’en comprends pas bien l’utilité
+  - He answers Pencroff's longing for tobacco: "Cela viendra, Pencroff, cela se trouvera" (II.3 ¶56). *(Drafted.)*
+    - quote: Cela viendra, Pencroff, cela se trouvera
+  - He is "toujours absorbé dans ses réflexions" on the Mercy (II.3 ¶20). *(Drafted.)*
+    - quote: toujours absorbé dans ses réflexions
   - He says he knows the name of the submarine apparatus, the Nautilus (III.16 ¶14). *(Drafted.)*
     - quote: comme je sais le nom de cet admirable appareil sous-marin
   - He keeps his idea about the seals to himself, saying only that the islet will soon be visited (I.14 ¶29). *(Drafted.)*
@@ -370,7 +425,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
   - When his plan succeeds he shows no satisfaction, "suivant son habitude": lips pressed, gaze fixed, motionless (I.18 ¶1). *(Drafted.)*
     - quote: suivant son habitude, sans témoigner aucune satisfaction, les lèvres serrées, le regard fixe
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

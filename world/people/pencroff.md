@@ -177,6 +177,25 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: je viens de me casser une dent
     - quote: C’était un grain de plomb.
     - quote: On était au 24 octobre
+  - He has thirty-two fine teeth and boasts that no hollow one will be found in his jaw (II.1 ¶14). *(Drafted.)*
+    - quote: les magnifiques trente-deux dents qui la garnissaient
+    - quote: si tu trouves une dent creuse dans ce râtelier-là
+  - He says he can build in five days at most a pirogue "in the Indian fashion", of bark rather than wood, good enough to sail the Mercy (II.1 ¶20, ¶22, ¶24). *(Drafted.)*
+    - quote: en cinq jours au plus, je me fais fort de construire une pirogue suffisante pour naviguer sur la Mercy
+    - quote: un bateau à la mode indienne
+    - quote: ou plutôt en écorce
+  - The narrator calls him "l’intraitable marin" (II.1 ¶86). *(Drafted.)*
+    - quote: l’intraitable marin
+  - He knows a sailor's knots when he sees them (II.2 ¶38). *(Drafted.)*
+    - quote: que Pencroff reconnut aisément pour des « nœuds marins »
+  - He is superstitious, by his own word (II.2 ¶80). *(Drafted.)*
+    - quote: je suis superstitieux
+  - He has never seen his favourite plant anywhere but in the bowl of his pipe; he takes a small hairy plant for tobacco and is told it is mustard (II.3 ¶15, ¶16). *(Drafted.)*
+    - quote: n’avait jamais vu sa plante de prédilection que dans le fourneau de sa pipe
+    - quote: ce n’est pas du tabac, c’est de la moutarde
+  - He is quick to judge that small shot would not trouble a beast that roars loudly (II.4 ¶61). *(Drafted.)*
+    - quote: Nous n’avons que du petit plomb dans nos fusils
+    - quote: s’en soucieraient comme d’un grain de sel
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -221,6 +240,25 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He promises himself to make fishing tackle for the lake, whose waters seem extremely rich in fish (I.16 ¶31). *(Drafted.)*
     - quote: Les eaux semblaient extrêmement poissonneuses
     - quote: Pencroff se promit bien de fabriquer quelques engins de pêche
+  - He keeps his promise: the bark canoe, twelve feet long and under two hundred pounds, is finished on 29 October, five days after he began; he launches it and works it with the stern oar, and finds it very fit for its use (II.2 ¶1). *(Drafted.)*
+    - quote: Pencroff avait tenu sa promesse
+    - quote: construite en cinq jours
+    - quote: la manœuvra à la godille
+    - quote: très-convenable pour l’usage qu’on en voulait faire
+  - He hoped to find in the chest half a pound of tobacco, "et rien n’aurait manqué à mon bonheur"; the chest holds none, and his hurrahs fall as the objects come out (II.2 ¶69, ¶73). *(Drafted.)*
+    - quote: Une demi-livre de tabac !
+    - quote: rien n’aurait manqué à mon bonheur
+    - quote: ne renfermait pas une chose à laquelle il semblait tenir énormément
+  - He asks that a tobacco plant, if one turns up, not be despised, and says that once it is found he will not know what the island can still lack (II.3 ¶17, ¶19). *(Drafted.)*
+    - quote: si, par hasard, un plant de tabac se présentait
+    - quote: je ne sais vraiment plus ce qui manquera à notre île
+  - He recognises the jacamar as the bird that escaped the first excursion, and his shot goes off "malgré lui" (II.3 ¶24, ¶26). *(Drafted.)*
+    - quote: Je le reconnais !
+    - quote: son coup partit malgré lui
+    - quote: Le volatile qui nous a échappé à notre première excursion
+  - He catches crayfish by hand from the creek bank, some dozens in five minutes (II.4 ¶24, ¶27). *(Drafted.)*
+    - quote: plongea ses bras dans les eaux vives et fit bientôt sauter quelques douzaines de belles écrevisses
+    - quote: Il ne fallut pas cinq minutes pour faire une pêche miraculeuse
   - He and Nab had expected to find almost a god in the "génie de l’île" (III.16 ¶10). *(Drafted.)*
     - quote: là où Pencroff et Nab croyaient trouver presque un dieu
 - **Habits.**
@@ -262,7 +300,17 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He makes a great display of his catch, and does not like to hear it run down (I.22 ¶63, ¶70). *(Drafted.)*
     - quote: fit grand étalage de sa chasse
     - quote: qui n’aimait pas à entendre déprécier sa chasse
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
+  - He counts the lost turtle as "cinquante potages au moins" (II.1 ¶84). *(Drafted.)*
+    - quote: Avoir laissé échapper cinquante potages au moins !
+  - It would be hard to persuade him that he had not killed "le roi des volatiles comestibles" when the jacamar fell (II.3 ¶28). *(Drafted.)*
+    - quote: on eût difficilement persuadé à Pencroff qu’il n’avait point tué le roi des volatiles comestibles
+  - He looks on the monkeys purely as food, and the narrator calls him "l’enragé Pencroff" (II.3 ¶58, ¶59). *(Drafted.)*
+    - quote: le marin considérait le singe au point de vue purement alimentaire
+    - quote: qui tentait un peu l’enragé Pencroff
+  - He says there is everything on the island "excepté du tabac", and asks whether bamboo cannot be smoked (II.4 ¶26, ¶58). *(Drafted.)*
+    - quote: qu’excepté du tabac, il y a de tout dans cette île
+    - quote: Et ça ne se fume pas, par hasard ?
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

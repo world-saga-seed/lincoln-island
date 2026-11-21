@@ -41,8 +41,12 @@ Keywords: Creek-Rouge, brook, stream mouth, coal seam, creek, ruisseau, terre ro
     - quote: une large vasque, qui avait été remplie par les eaux du Creek-Rouge
   - Its sources lie in the west, beyond which a detour would have to go to avoid the new stream (I.20 ¶29). *(Drafted.)*
     - quote: jusqu’au delà des sources du Creek-Rouge
+  - A road to the Red Creek exists, with which the new track through the forest is to be joined later (II.4 ¶5). *(Drafted.)*
+    - quote: devrait être reliée plus tard à celle du Creek-Rouge
+  - Smith recalls no watercourse on his trip to the crater other than the Red Creek and the Mercy (II.4 ¶6). *(Drafted.)*
+    - quote: d’avoir reconnu d’autre cours d’eau que ceux du Creek-Rouge et de la Mercy
 - **On the page.**
-- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20
+- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4
 - **Open:**
   - The text does not say where the creek runs or how far its mouth is from the clearing.
     - quote: vers l’embouchure du Creek-Rouge

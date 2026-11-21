@@ -25,7 +25,10 @@ Keywords: lapin, rabbit, garenne, warren, terrier, burrow, lapins d’Amérique,
     - quote: C’était toujours du lapin
   - The colonists renew their stock of warren rabbits after the storm (I.22 ¶37). *(Drafted.)*
     - quote: lapins de garenne, agoutis et kangourous
-- **Appears in:** I.19, I.20, I.22
+  - The warren still gives its customary share, enough to feed the whole colony, though the traps yield little now that the cold has ended (II.1 ¶36). *(Drafted.)*
+    - quote: la garenne donnait-elle son contingent accoutumé, qui eût pu nourrir toute la colonie
+    - quote: le rendement des trappes était peu important depuis que le froid avait cessé
+- **Appears in:** I.19, I.20, I.22, II.1
 - **Open:**
   - The text gives the name "lapins d’Amérique" both to the maras of I.12 and to the warren's rabbits; it does not say whether they are one kind (I.12 ¶64; I.19 ¶41). *(Drafted.)*
     - quote: véritables lapins d’Amérique

@@ -17,7 +17,10 @@ Keywords: agouti, rongeur, rodent, mara, grillade, pot-au-feu, gibier, game, fl�
   - Agoutis are among the animal stores renewed after the storm (I.22 ¶37), and fall to the arrows of Harbert and Gédéon Spilett (I.22 ¶57). *(Drafted.)*
     - quote: lapins de garenne, agoutis et kangourous
     - quote: agoutis, kangourous, cabiais, pigeons
-- **Appears in:** I.12, I.13, I.22
+  - Agoutis are among the game of the first forest slopes near Granite-house (II.1 ¶36), and some are seen on the march to the west coast (II.4 ¶8). *(Drafted.)*
+    - quote: d’agoutis, de cabiais, de kangourous
+    - quote: des agoutis, des kangourous et autres rongeurs
+- **Appears in:** I.12, I.13, I.22, II.1, II.4
 - **Open:**
   - The text calls the maras "sorte d’agoutis" yet says the five molars "distingue précisément" them from agoutis, and calls the meal of maras "grillades d’agoutis" (I.12 ¶64, ¶75). Card neither as one name; see maras.md. *(Drafted.)*
     - quote: sorte d’agoutis

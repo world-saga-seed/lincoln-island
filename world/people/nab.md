@@ -75,6 +75,10 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: Nab savait varier ses sauces
   - He stores in special baskets his harvest of rhizomes, pine almonds and dragon-tree roots (I.22 ¶28). *(Drafted.)*
     - quote: Nab enferma dans des corbeilles spéciales ses récoltes de rhizomes, d’amandes de pin-pignon et de racines de dragonnier
+  - He wants to hide his mishap over the turtle (II.1 ¶80). *(Drafted.)*
+    - quote: qui voulait cacher sa mésaventure
+  - He skins the jaguar (II.4 ¶77). *(Drafted.)*
+    - quote: Nab dépouillait le jaguar
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -102,7 +106,15 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: Nab avait préparé un pot-au-feu d’agouti
   - The dugong's flesh is left to him: "c'était l'affaire de Nab" (I.17 ¶2). *(Drafted.)*
     - quote: Mais cela, c’était l’affaire de Nab.
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
+  - He would have covered the kitchen utensils from the chest with kisses (II.2 ¶51). *(Drafted.)*
+    - quote: des ustensiles de cuisine que Nab eût couverts de baisers
+  - He had already stowed the provisions, and is careful not to forget the little portable stove (II.3 ¶4). *(Drafted.)*
+    - quote: Les provisions, déjà embarquées par Nab
+    - quote: Nab n’eut garde d’oublier le petit fourneau portatif
+  - He and Pencroff carry the provisions on the march and lay out the midday meal (II.4 ¶3, ¶37). *(Drafted.)*
+    - quote: Pencroff et Nab emportaient des provisions
+    - quote: Nab et Pencroff disposèrent le déjeuner
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

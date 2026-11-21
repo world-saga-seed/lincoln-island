@@ -100,6 +100,45 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: on les observe depuis le Mexique jusqu’aux Pampas de Buenos-Ayres
   - He and Gédéon Spilett have become skilful archers (I.22 ¶57). *(Drafted.)*
     - quote: Harbert et Gédéon Spilett étaient devenus des archers habiles
+  - He has acquired a remarkable skill with bow or spear, and shows great boldness with the coolness that "le raisonnement de la bravoure" might be called (II.1 ¶36). *(Drafted.)*
+    - quote: qui avait acquis une adresse remarquable dans le maniement de l’arc ou de l’épieu
+    - quote: Harbert montrait aussi une grande hardiesse
+    - quote: « le raisonnement de la bravoure »
+  - He is agile and adroit, climbs to the top of a kauri two hundred feet high in a few minutes, and his sight is excellent (II.1 ¶48, ¶52, ¶58). *(Drafted.)*
+    - quote: Le jeune garçon, agile et adroit
+    - quote: en quelques minutes, il était arrivé à sa cime
+    - quote: sa vue était excellente
+  - He takes the care, which Nab thought needless, to wedge the turtle with pebbles, and says that the loss must be told (II.1 ¶74, ¶81). *(Drafted.)*
+    - quote: Harbert prit le soin, que Nab jugeait superflu, de caler l’animal avec de gros galets
+    - quote: Au contraire, Nab, il faut en parler
+  - He knows how to hold a turtle by turning it on its back, and believes that a large one cannot right itself (II.1 ¶66, ¶90). *(Drafted.)*
+    - quote: Nous allons retourner cette tortue sur le dos, et elle ne pourra plus s’enfuir
+    - quote: les tortues, une fois placées sur le dos, ne pouvaient se remettre sur leurs pattes
+  - As "le jeune naturaliste" he notes lardizabaleae and ebenaceae on the Mercy's banks, and finds wild spinach, cress, radish, turnips and other crucifers that could be "civilised" by transplanting (II.3 ¶12, ¶13). *(Drafted.)*
+    - quote: Harbert remarqua quelques lardizabalées
+    - quote: le jeune naturaliste fut servi à souhait
+    - quote: qu’il serait certainement possible de « civiliser » par la transplantation
+  - He knows mustard from tobacco, names the tinamous "avec raison", and names the jacamar (II.3 ¶16, ¶22, ¶27). *(Drafted.)*
+    - quote: ce n’est pas du tabac, c’est de la moutarde
+    - quote: Harbert leur donna, avec raison, le nom de « tinamous »
+    - quote: Un jacamar !
+  - He names the eucalyptus at sight and gives, with much spirit, a little lesson in botany on the myrtle family, of forty-six genera and thirteen hundred species (II.3 ¶35, ¶41, ¶42). *(Drafted.)*
+    - quote: Des eucalyptus !
+    - quote: quarante-six genres et treize cents espèces
+    - quote: qui débitait avec beaucoup d’entrain sa petite leçon de botanique
+  - Cyrus Smith tells him to name the new creek; he would rather wait until it has been followed to its mouth (II.4 ¶16, ¶17). *(Drafted.)*
+    - quote: Nomme-le, mon enfant
+    - quote: Ne vaut-il pas mieux attendre que nous l’ayons reconnu jusqu’à son embouchure ?
+  - He knows the uses of bamboo: baskets, Chinese paper, canes, pipes, building material, vessels, and in India the young shoots are eaten like asparagus (II.4 ¶47, ¶49). *(Drafted.)*
+    - quote: sert à la fabrication du papier de Chine
+    - quote: dans l’Inde, on mange ces bambous en guise d’asperges
+    - quote: on obtient ainsi des vases solides et commodes
+  - He knows the jaguar for "ce féroce rival du tigre", far more redoubtable than the cougar (II.4 ¶63). *(Drafted.)*
+    - quote: Harbert reconnut là ce féroce rival du tigre
+    - quote: bien autrement redoutable que le couguar
+  - He admires and envies the reporter's coolness before the jaguar, and does not think he could match it (II.4 ¶68, ¶70). *(Drafted.)*
+    - quote: Que je vous admire et que je vous envie !
+    - quote: Moi ! un pareil sang-froid !…
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -148,7 +187,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: remarquablement instruit déjà dans les sciences naturelles
   - He shoots with a bow (I.13 ¶36). *(Drafted.)*
     - quote: de très-adroits tireurs d’arc
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

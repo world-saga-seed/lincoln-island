@@ -19,6 +19,9 @@ Keywords: couroucou, trogon, oiseau, bird, game, bâton, club, plumes, mauviette
     - quote: leurs pattes emplumées
   - They do not think of flying and let themselves be struck down stupidly, in rows, until the rest flee (I.6 ¶33). *(Drafted.)*
     - quote: ne songeaient point à s’envoler et se laissèrent stupidement abattre
+  - Couroucous are among the birds that swarm on the forest strip of the west coast, where there is no tree without a nest (II.4 ¶42). *(Drafted.)*
+    - quote: les oiseaux y fourmillaient, jacamars, couroucous
+    - quote: Pas un arbre qui n’eût un nid
 - **On the page.**
   - A hundred are strewn on the ground before the rest decide to flee (I.6 ¶33). *(Drafted.)*
     - quote: Une centaine jonchait déjà le sol
@@ -34,4 +37,4 @@ Keywords: couroucou, trogon, oiseau, bird, game, bâton, club, plumes, mauviette
     - quote: les couroucous qui servaient de réserve avaient disparu
   - Hunting away from the river on the second expedition, the hunters find them absolutely invisible (I.9 ¶88). *(Drafted.)*
     - quote: Les couroucous eux-mêmes étaient absolument invisibles
-- **Appears in:** I.6, I.7, I.8, I.9
+- **Appears in:** I.6, I.7, I.8, I.9, II.4

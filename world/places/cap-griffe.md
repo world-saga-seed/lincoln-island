@@ -34,12 +34,16 @@ Keywords: cap Griffe, headland, promontory, point, south shore, cap de la Griffe
     - quote: à quatre milles environ vers le sud-est
   - The marshy land of the south-east lies between the Mercy and the cape (I.21 ¶7). *(Drafted.)*
     - quote: comprise au sud-est entre la Mercy et le cap Griffe
+  - It lies at the south-east of the island’s southern part, seen from the top of a kauri (II.1 ¶53). *(Drafted.)*
+    - quote: depuis le cap Griffe, au sud-est
+  - A glimpse of the coast as far as it is meant to be taken from the point where the chest lay (II.2 ¶13). *(Drafted.)*
+    - quote: un aperçu rapide de la côte jusqu’au cap Griffe
 - **On the page.**
   - From the plateau a sharp point in the south shuts the horizon, and one could not tell whether the land goes on or turns south-east and south-west, making a very long peninsula (I.4 ¶46). *(Drafted.)*
     - quote: une sorte de presqu’île très-allongée
   - The half-circle of horizon visible from the plateau runs from the cape to the promontory of the Reptile (I.13 ¶73). *(My reading, to confirm.)*
     - quote: depuis le cap jusqu’au promontoire du Reptile
-- **Appears in:** I.3, I.4, I.11, I.13, I.19, I.21
+- **Appears in:** I.3, I.4, I.11, I.13, I.19, I.21, II.1, II.2
 - **Open:**
   - The text does not say how far the cape is from the Chimneys or the plateau.
     - quote: le cap Griffe lui cachait l’horizon du sud

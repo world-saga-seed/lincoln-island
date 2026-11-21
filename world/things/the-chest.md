@@ -1,0 +1,59 @@
+# The chest: the oak chest of tools, arms, instruments, clothes and books washed up on 29 October
+
+*A zinc-lined oak chest, buoyed by two barrels, found stranded in a cove at the point of the Wreck on 29 October, holding a carefully chosen outfit, all new and unmarked, from no ship in sight.*
+
+Keywords: caisse, chest, épave, wreck, flotson, barrels, inventory, zinc, tools, arms, unmarked, provenance, Pencroff, Spilett notebook
+
+- **What it is.**
+  - It is found stranded on the shore, half sunk in the sand, still strongly tied to two barrels that had kept it afloat until it grounded (II.2 ¶26). *(Drafted.)*
+    - quote: Deux barils étaient là, à demi enfoncés dans le sable
+    - quote: solidement attachés à une large caisse
+  - It is five feet long and three wide, of oak, very carefully closed and covered with a thick hide held by copper nails (II.2 ¶38). *(Drafted.)*
+    - quote: cinq pieds de long sur trois de large
+    - quote: en bois de chêne, très-soigneusement fermée, et recouverte d’une peau épaisse que maintenaient des clous de cuivre
+  - The two big barrels, tightly stopped and felt empty at a knock, are fixed to its sides by strong ropes with knots that Pencroff knows for sailors’ knots (see [the chest barrels](the-chest-barrels.md)) (II.2 ¶38). *(Drafted.)*
+    - quote: adhéraient à ses flancs au moyen de fortes cordes
+    - quote: des « nœuds marins »
+  - It is heavy, since it had to be lightened by two empty barrels (II.2 ¶35). *(Drafted.)*
+    - quote: qui devait être pesante, puisqu’il avait fallu la « soulager » au moyen de deux barils vides
+  - It is lined inside with a second casing of zinc, evidently so that its contents were safe from damp in all circumstances (II.2 ¶45). *(Drafted.)*
+    - quote: Une seconde enveloppe en zinc doublait l’intérieur de la caisse
+  - The zinc casing could not have been soldered in a moment of haste (II.2 ¶64). *(Drafted.)*
+    - quote: n’aurait pu être soudée dans un moment de hâte
+  - It is in perfect order, because it grounded on a sand beach and not on reefs; its stay in the sea was not long and its arrival on the shore is recent; no water has got in (II.2 ¶38). *(Drafted.)*
+    - quote: dans un parfait état de conservation
+    - quote: son séjour dans la mer n’avait pas été long
+    - quote: son arrivée sur ce rivage était récente
+  - No other wreckage appears for several hundred paces along the shore, and no ship or disabled vessel is in sight (II.2 ¶36). *(Drafted.)*
+    - quote: Nul autre débris ne leur apparut
+    - quote: l’horizon était désert
+  - The wreck has evidently an American or European origin, not Malay (II.2 ¶37). *(Drafted.)*
+    - quote: une provenance soit américaine, soit européenne
+  - The colonists wonder whether this incident is connected with the lead-shot incident (see [the lead shot](lead-shot.md)) (II.2 ¶37). *(Drafted.)*
+    - quote: Peut-être même cet incident se rattachait-il à l’incident du grain de plomb ?
+  - It was evidently thrown overboard from a disabled ship running toward the island, and lightened by a floating device in the hope that it would come ashore and be found again later by passengers (II.2 ¶39). *(Drafted.)*
+    - quote: jetée par-dessus le bord d’un navire désemparé, courant vers l’île
+    - quote: de l’alléger au moyen d’un appareil flottant
+  - Smith proposes to hand it over to its owners if survivors are found on the island, and to keep it if no one is found (II.2 ¶40). *(Drafted.)*
+    - quote: nous la remettrons à ceux auxquels elle appartient
+  - It holds tools, arms, instruments, clothes and books, listed in Spilett’s notebook (the items have their own cards) (II.2 ¶52). *(Drafted.)*
+    - quote: des outils, des armes, des instruments, des vêtements, des livres
+  - Spilett says its owner was a practical man, who seems to have expected a wreck and prepared for it, since nothing is wanting (II.2 ¶54). *(Drafted.)*
+    - quote: le propriétaire de cette caisse était un homme pratique
+    - quote: qu’il s’attendait à faire naufrage et qu’il s’y était préparé d’avance
+  - Smith agrees thoughtfully that nothing is missing (II.2 ¶55). *(Drafted.)*
+    - quote: Rien n’y manque, en effet
+  - Neither the arms nor the instruments carry the maker’s mark, contrary to custom, and they are in perfect order and seem never to have been used (II.2 ¶64). *(Drafted.)*
+    - quote: contrairement à ce qui se fait d’habitude, ne portaient la marque du fabricant
+    - quote: ne semblaient pas avoir servi
+  - The tools and utensils likewise are new; the choice of the objects was thought out and their packing done with care (II.2 ¶64). *(Drafted.)*
+    - quote: tout était neuf
+    - quote: le choix de ces objets avait été médité et leur classement fait avec soin
+  - No object bears any sign of its origin or of the nationality of the ship that must have passed these waters lately (II.2 ¶68). *(Drafted.)*
+    - quote: aucun indice qui pût en indiquer la provenance
+  - It makes the colonists rich; until then they had made everything themselves from the products of nature (II.2 ¶68). *(Drafted.)*
+    - quote: elle faisait riches les colons de l’île Lincoln
+    - quote: ils avaient tout créé par eux-mêmes
+  - The objects are carried to Granite-house on 29 October and set out in order in the great hall (II.2 ¶76). *(Drafted.)*
+    - quote: disposés méthodiquement dans la grande salle
+- **Appears in:** II.2, II.3

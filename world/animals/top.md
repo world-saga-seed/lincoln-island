@@ -61,6 +61,13 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He is the most impatient of the shut-in colonists after Pencroff, finds Granite-house far too narrow, and shows his boredom by pacing from room to room (I.22 ¶52). *(Drafted.)*
     - quote: le plus impatient de cet emprisonnement, après Pencroff toutefois, c’était Top
     - quote: Il allait et venait d’une chambre à l’autre
+  - He goes ahead of the hunters when they land to beat the banks of the Mercy (II.3 ¶13). *(Drafted.)*
+    - quote: le fusil à la main et précédés de Top, battaient la rive
+  - He retrieves shot game: he brings the jacamar to the canoe, with a dozen touracos-loris (II.3 ¶28). *(Drafted.)*
+    - quote: Top le rapporta au canot
+  - On the creek's bank he does not bark, and the narrator says that the intelligent animal would not have failed to signal any stranger near the water (II.4 ¶30). *(Drafted.)*
+    - quote: car Top n’aboyait pas
+    - quote: l’intelligent animal n’eût pas manqué de signaler la présence de tout étranger
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -114,4 +121,4 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - His master, who watches this several times, takes him for a sensible dog "qui n’ont jamais perdu leur temps à aboyer à la lune", and wonders what in the well so affects him (I.22 ¶54). *(Drafted.)*
     - quote: un de ces chiens sensés qui n’ont jamais perdu leur temps à aboyer à la lune
     - quote: Qu’y avait-il donc dans cet abîme qui pût impressionner à ce point l’intelligent animal
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4

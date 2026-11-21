@@ -56,4 +56,11 @@ Keywords: caisse, chest, épave, wreck, flotson, barrels, inventory, zinc, tools
     - quote: ils avaient tout créé par eux-mêmes
   - The objects are carried to Granite-house on 29 October and set out in order in the great hall (II.2 ¶76). *(Drafted.)*
     - quote: disposés méthodiquement dans la grande salle
-- **Appears in:** II.2, II.3
+  - Its zinc lining is used by Smith for the battery of the telegraph (see [the zinc](zinc.md)) (II.18 ¶40). *(Drafted.)*
+    - quote: la caisse trouvée à la pointe de l’Épave était doublée d’une enveloppe de ce métal
+  - The photographic apparatus was found in it, and not used until the spring of 1867 (see [the photographic apparatus](photographic-apparatus.md)) (II.18 ¶59). *(Drafted.)*
+    - quote: l’appareil photographique qui avait été trouvé dans la caisse et dont on n’avait pas fait usage jusqu’alors
+  - Smith counts among the enigmas of the island that the chest stranded so happily, without any trace of wreck (II.18 ¶21; II.20 ¶49). *(Drafted.)*
+    - quote: la caisse échouée sur le sable
+    - quote: comment cette caisse s’est si heureusement échouée, sans qu’il y ait eu trace de naufrage
+- **Appears in:** II.2, II.3, II.18, II.20

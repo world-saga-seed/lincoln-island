@@ -16,6 +16,12 @@ Keywords: moulin à foulon, fulling mill, foulage, pilons, cames, chute d’eau,
     - quote: C’était du « feutre lincolnien »
   - Its fall is spoken of as already taken: Smith could have used "la seconde chute qui s’épanchait sur la Mercy" for his new mill, "la première étant déjà occupée à mouvoir les pilons du moulin à foulon"; the first fall is read as the beach fall of II.11 ¶6 (II.16 ¶82). *(My reading, to confirm.)*
     - quote: la première étant déjà occupée à mouvoir les pilons du moulin à foulon
-- **Appears in:** II.11, II.16
+  - It stands near the great fall on the beach, which Smith uses for its motive force (II.18 ¶36, ¶37). *(Drafted.)*
+    - quote: la grande chute, dont l’ingénieur allait encore utiliser la force motrice
+    - quote: là était le moulin à foulon
+  - In February 1867 it is not running, but its shaft, driven with extreme power, can serve to draw the wire by winding it round itself (II.18 ¶37). *(Drafted.)*
+    - quote: qui ne fonctionnait pas alors
+    - quote: pouvait servir à étirer le fil, en l’enroulant autour de lui
+- **Appears in:** II.11, II.16, II.18
 - **Open:**
   - Which falls are "la première" and "la seconde chute qui s’épanchait sur la Mercy" of II.16 ¶82 is not said.

@@ -60,10 +60,23 @@ Keywords: île Tabor, Ayrton, bottle, message, castaway
     - quote: elle avait été construite en planches
   - Ayrton's presence on Tabor Island was made known by a document enclosed in a bottle (III.16 ¶65). *(Drafted.)*
     - quote: fit connaître la présence d’Ayrton à l’île Tabor, au moyen du document enfermé dans la bouteille
+  - It lies on the thirty-seventh parallel, where Captain Grant and his two men are found by the Duncan (II.17 ¶76). *(Drafted.)*
+    - quote: précisément sur ce trente-septième parallèle
+  - It is a desert islet, far from every land and without possible communication with other men, which the exile cannot flee (II.17 ¶76, ¶77). *(Drafted.)*
+    - quote: cet îlot désert
+    - quote: éloigné de toute terre et sans communication possible avec vos semblables
+    - quote: Vous ne pourrez fuir cet îlot
+  - Ayrton, landed there on 18 March 1855, does not lack munitions, arms, tools or seeds (II.17 ¶79, ¶80). *(Drafted.)*
+    - quote: On était au 18 mars 1855
+    - quote: ni les munitions, ni les armes, ni les outils, ni les graines ne lui manquaient
+  - Lord Glenarvan has promised Ayrton to come back for him there when he judges his crimes sufficiently expiated (II.19 ¶17). *(Drafted.)*
+    - quote: Lord Glenarvan a promis à Ayrton de venir le reprendre à l’île Tabor
+  - It is the island where the Scottish ship will call, not Lincoln Island, in the colonists’ view (II.19 ¶19). *(Drafted.)*
+    - quote: Mais où relâchera-t-il ? À l’île Tabor, et non à l’île Lincoln
 - **On the page.**
   - The editor refers to Ayrton's adventures and a note on the disagreement of some dates (III.16 n1). *(Drafted.)*
     - quote: sur la discordance de quelques dates
-- **Appears in:** II.9, II.11, II.12, II.13, II.14, III.16
+- **Appears in:** II.9, II.11, II.12, II.13, II.14, II.17, II.19, III.16
 - **Open:**
   - These chapters say nothing else of Tabor Island. The editor's note refers to the earlier tale of Ayrton's adventures and warns of a disagreement of dates; no earlier book is drawn on here.
     - quote: à propos des aventures d’Ayrton
@@ -76,3 +89,5 @@ Keywords: île Tabor, Ayrton, bottle, message, castaway
   - The direction: the boat’s course is south-west going and east-north-east returning (II.13 ¶20, ¶32; II.14 ¶94), which agrees with the atlas of II.9 ¶91, "plus à l’ouest et plus au sud", and not with II.9 ¶99 "dans le nord-est"; card neither (II.13 ¶20, ¶32; II.14 ¶94). *(Drafted.)*
     - quote: prendre directement ensuite la route du sud-ouest
     - quote: mit le cap à l’est-nord-est
+  - Hetzel’s note says the events of Ayrton’s tale are drawn from "Les Enfants du capitaine Grant" and that the reader will remark "une certaine discordance dans les dates"; the dates given in II.17 (20 December 1854, 3 March, 18 March 1855) are not squared with the colonists’ year 1866 (card neither) (II.17 n1). *(Drafted.)*
+    - quote: une certaine discordance dans les dates

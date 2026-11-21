@@ -225,6 +225,32 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
   - He owes his life to the unknown, who kills the jaguar that had cornered him (II.16 ¶104, ¶109). *(Drafted.)*
     - quote: Harbert était en face d’un formidable jaguar
     - quote: Pour sauver notre enfant, vous avez risqué votre vie
+  - He hunts with the reporter, who does not let him roam the forest alone (II.17 ¶3). *(Drafted.)*
+    - quote: il n’eût pas été prudent de laisser le jeune garçon courir seul la forêt
+  - He becomes an excellent horseman under the reporter's direction (II.18 ¶54). *(Drafted.)*
+    - quote: Harbert, devenu un excellent cavalier sous la direction du reporter
+  - In the war on the jaguars he seconds Spilett well; his boldness is superb (II.18 ¶57). *(Drafted.)*
+    - quote: son élève Harbert le secondait bien
+    - quote: La hardiesse d’Harbert était superbe
+  - He helps Spilett with the camera and becomes a skilful operator (II.18 ¶59, ¶61). *(Drafted.)*
+    - quote: aidé d’Harbert
+    - quote: d’habiles opérateurs
+  - He knows that April tides at full moon are very strong (II.19 ¶73). *(Drafted.)*
+    - quote: ces marées d’avril sont très-fortes
+  - He is, with the reporter, one of the colony's appointed hunters (II.19 ¶54). *(Drafted.)*
+    - quote: les chasseurs attitrés de la colonie, c’est-à-dire Harbert et Gédéon Spilett
+  - He saw the fire of 19 to 20 October, which shone like a star of the first magnitude and was certainly on the heights of Granite-house (II.20 ¶59, ¶63). *(Drafted.)*
+    - quote: ce feu brillait comme une étoile de première grandeur
+    - quote: il était certainement placé sur les hauteurs de Granite-house
+  - With Spilett, aided by Jup and Top, he hunts the marshes of the tadornes (II.20 ¶77). *(Drafted.)*
+    - quote: Gédéon Spilett et Harbert, aidés de Jup et de Top
+  - On 17 October he takes, as he usually does, a plate of the whole Union Bay from Cape Mandible to Claw Cape, with the camera set at a window of the great hall; he fixes the plate in the dark room, finds on it a speck he cannot wash away, takes it for a flaw in the glass, and, looking at it through a lens unscrewed from a spyglass, cries out (II.20 ¶82, ¶84, ¶85, ¶86, ¶87, ¶88). *(Drafted.)*
+    - quote: le 17 de ce mois d’octobre
+    - quote: Harbert procéda comme il avait l’habitude de le faire
+    - quote: un petit point presque imperceptible qui tachait l’horizon de mer
+    - quote: C’est un défaut qui se trouve dans le verre
+    - quote: une forte lentille qu’il dévissa de l’une des lunettes
+    - quote: il poussa un cri
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -281,7 +307,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: de très-adroits tireurs d’arc
   - He takes his turn at the helm of the boat, relieving Pencroff every two hours through the night (II.13 ¶31). *(Drafted.)*
     - quote: Pencroff et Harbert se relayèrent de deux heures en deux heures au gouvernail
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

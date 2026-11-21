@@ -74,4 +74,12 @@ Keywords: puits, shaft, abyss, gouffre, conduit, underground, sea level, water, 
     - quote: il restait toujours un secret à découvrir
   - On the night of the raid Top does not bark at the well but at the door (II.12 ¶17). *(Drafted.)*
     - quote: Le chien n’aboyait pas, cette fois, près de l’orifice du puits, mais au seuil de la porte
-- **Appears in:** I.18, I.21, I.22, II.9, II.11, II.12
+  - It puts Granite-house in communication with the sea (II.20 ¶69). *(Drafted.)*
+    - quote: du puits qui mettait Granite-house en communication avec la mer
+  - The engineer has explored it without result, and nothing suspect was found there, though Top barked again at its mouth in the summer of 1867 (II.18 ¶58; II.20 ¶69). *(Drafted.)*
+    - quote: ce puits que l’ingénieur avait exploré sans résultat
+    - quote: sans y découvrir rien de suspect
+  - Top’s barking at the mouth of the well is heard again on the basalt coast, and Top and Jup prowl no more around it in the winter of 1867 (II.19 ¶49; II.20 ¶79). *(Drafted.)*
+    - quote: comme ceux que le chien faisait entendre à l’orifice du puits de Granite-house
+    - quote: ne rôdaient plus autour du puits
+- **Appears in:** I.18, I.21, I.22, II.9, II.11, II.12, II.18, II.19, II.20

@@ -18,4 +18,7 @@ Keywords: sanglier, sangliers, wild boar, pig, hog, gibier, game, forêt, Jacama
     - quote: à l’endroit où passaient communément les animaux pour se rendre au lac
     - quote: quelques sangliers
     - quote: l’estomac perforé par les fanons détendus
-- **Appears in:** I.15, I.19, I.22, II.4, II.11
+  - In the Far-West forests the colonists meet frequently certain sangliers, very wild and very fierce, against which they have to fight seriously (II.18 ¶55, ¶56). *(Drafted.)*
+    - quote: jusque dans les profondeurs des forêts du Far-West
+    - quote: certains sangliers, très-sauvages et très-féroces, contre lesquels il fallait lutter sérieusement
+- **Appears in:** I.15, I.19, I.22, II.4, II.11, II.18

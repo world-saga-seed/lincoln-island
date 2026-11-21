@@ -25,7 +25,9 @@ Keywords: chariot, cart, wagon, hauling, hurdle, claie, transport
     - quote: faisait-elle de fréquents voyages au corral
   - Jup, taken along by Pencroff, drives it, cracking his whip, with his usual intelligence (II.9 ¶63). *(Drafted.)*
     - quote: il emmenait Jup et le faisait conduire, ce dont Jup, faisant claquer son fouet, s’acquittait avec son intelligence habituelle
-- **Appears in:** I.20, I.22, II.1, II.3, II.5, II.7, II.8, II.9
+  - The onaggas are harnessed to it to carry wood and coal to Granite-house and the mineral products that Smith uses (II.18 ¶54). *(Drafted.)*
+    - quote: on les attelait aussi au chariot, soit pour transporter à Granite-house le bois et la houille
+- **Appears in:** I.20, I.22, II.1, II.3, II.5, II.7, II.8, II.9, II.18
 - **Open:**
   - Who made the cart, of what, and when is not said (I.20 ¶29). *(Drafted.)*
     - quote: une sorte de grossier chariot

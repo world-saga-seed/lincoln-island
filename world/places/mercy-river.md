@@ -139,7 +139,15 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: cette étroite portion de la berge comprise entre la rivière et la muraille de granit
   - The Bonadventure’s anchor bites the sand near its mouth before she sails (II.12 ¶94). *(Drafted.)*
     - quote: l’ancre qui mordait le sable près de l’embouchure de la Mercy
+  - Its mouth is so picturesquely framed in high rocks that it is one of the photographed landscapes (II.18 ¶61). *(Drafted.)*
+    - quote: l’embouchure de la Mercy, si pittoresquement encadrée dans ses hautes roches
+  - The road along its left bank runs from the corral to the mouth of the Falls-river, and the explorers visit the whole left bank (II.18 ¶55). *(Drafted.)*
+    - quote: Ils visitèrent ainsi toute la rive gauche de la Mercy
+  - The Bonadventure anchors at its mouth, on a sand bottom, at five in the afternoon of 19 April (II.20 ¶30). *(Drafted.)*
+    - quote: l’ancre du Bonadventure mordait le fond de sable à l’embouchure de la Mercy
+  - In the winter storms it twice swells so much as to make the bridge and the culverts seem likely to be carried off (II.20 ¶74). *(Drafted.)*
+    - quote: la Mercy grossit au point de donner lieu de craindre que le pont et les ponceaux ne fussent emportés
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.16

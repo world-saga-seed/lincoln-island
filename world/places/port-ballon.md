@@ -48,4 +48,7 @@ Keywords: port Ballon, Balloon harbour, crique, passe, havre, coupée, natural p
   - By sea it is reached by doubling cape Griffe, and its waters are tranquil (II.15 ¶60). *(Drafted.)*
     - quote: conduisit rapidement au cap Griffe
     - quote: les eaux tranquilles du port Ballon
-- **Appears in:** II.5, II.7, II.11, II.12, II.15
+  - The Bonadventure lies moored in it before the voyage round the island, and leaves it by tacking to gain the promontoire du Reptile (II.19 ¶38, ¶40). *(Drafted.)*
+    - quote: le Bonadventure, mouillé au port Ballon
+    - quote: le Bonadventure dut louvoyer en quittant le port Ballon
+- **Appears in:** II.5, II.7, II.11, II.12, II.15, II.19

@@ -448,6 +448,93 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He makes soda at the Chimneys, with the reporter, the soap supply being used up (II.16 ¶99). *(Drafted.)*
     - quote: fabriquer de la soude
     - quote: la provision de savon étant épuisée
+  - He and Gédéon Spilett work together, now as chemists, now as physicists (II.17 ¶3). *(Drafted.)*
+    - quote: Cyrus Smith et Gédéon Spilett travaillaient ensemble, tantôt chimistes, tantôt physiciens
+  - He understands what passes in the soul of the guilty man, and holds him back by the hand, insisting on purpose on the cordial name of "mon ami" (II.17 ¶13, ¶25). *(Drafted.)*
+    - quote: Cyrus Smith comprit ce qui se passait dans l’âme du coupable
+    - quote: qui insistait à dessein sur cette cordiale appellation
+  - He pardons Ayrton after the tale ("vous avez expié vos crimes") and offers him fellowship (II.17 ¶86). *(Drafted.)*
+    - quote: Ayrton, vous êtes pardonné ! Et maintenant, voulez-vous être notre compagnon ?
+  - He holds that Ayrton told the truth, since it was cruel enough for him (II.18 ¶14). *(Drafted.)*
+    - quote: On dit vrai quand on s’accuse ainsi !
+  - He says he believes nothing and knows nothing, and puts the bottle among the incidents he has not been able to explain (II.18 ¶20). *(Drafted.)*
+    - quote: Je ne crois rien, je ne sais rien !
+    - quote: Je me contente de ranger cet incident parmi ceux que je n’ai pu expliquer jusqu’à ce jour
+  - He will find the key of the mystery, if he must search the island "jusque dans ses entrailles"; he does not believe in chance or in mysteries in this world, and holds that everything inexplicable has a cause he will discover (II.18 ¶22, ¶24). *(Drafted.)*
+    - quote: quand je devrais fouiller cette île jusque dans ses entrailles
+    - quote: Je ne crois guère au hasard, pas plus que je ne crois aux mystères en ce monde
+    - quote: Il y a une cause à tout ce qui se passe d’inexplicable ici, et cette cause, je la découvrirai
+  - He resolves to put the corral in instant communication with Granite-house, and reckons on having every element for a battery, the hardest part being the drawing of the iron wire (II.18 ¶28, ¶33). *(Drafted.)*
+    - quote: Cyrus Smith résolut-il de mettre le corral en communication instantanée avec Granite-house
+    - quote: Nous avons tous les éléments nécessaires pour confectionner une pile
+  - He makes a drawplate, a steel plate pierced with conical holes of several gauges, tempered "de tout son dur" and fixed on a frame sunk in the ground a few feet from the great fall (II.18 ¶36). *(Drafted.)*
+    - quote: une plaque d’acier, qui fut percée de trous coniques de divers calibres
+    - quote: de tout son dur
+    - quote: à quelques pieds seulement de la grande chute
+  - He draws the island's excellent iron into wire by the fulling mill's shaft, and gets lengths of forty to fifty feet that are easy to join and stretch over the five miles between the corral and Granite-house (II.18 ¶36, ¶37, ¶38). *(Drafted.)*
+    - quote: Le fer de l’île Lincoln, on le sait, était de qualité excellente
+    - quote: l’arbre de couche, mû avec une extrême puissance, pouvait servir à étirer le fil
+    - quote: des fils longs de quarante à cinquante pieds
+  - He has found no trace of copper on the island, despite his searches, and uses for the battery the zinc lining of the chest found at Wreck Point (II.18 ¶40). *(Drafted.)*
+    - quote: Le cuivre manquait absolument à l’ingénieur, qui, malgré ses recherches, n’en avait pas trouvé trace dans l’île Lincoln
+    - quote: la caisse trouvée à la pointe de l’Épave était doublée d’une enveloppe de ce métal
+  - He makes a very simple battery, like the one Becquerel devised in 1820, using zinc only, with nitric acid and potash at hand; the potash comes from burning various plants (II.18 ¶41, ¶43). *(Drafted.)*
+    - quote: résolut donc de fabriquer une pile très-simple, se rapprochant de celle que Becquerel imagina en 1820, et dans laquelle le zinc est uniquement employé
+    - quote: acide azotique et potasse, tout cela était à sa disposition
+    - quote: par l’incinération de diverses plantes
+  - He makes two batteries, one for Granite-house and one for the corral, and a very simple receiver and manipulator: an electromagnet, a soft-iron plate and a needle on a dial bearing the letters of the alphabet (II.18 ¶47, ¶48). *(Drafted.)*
+    - quote: Deux piles avaient été fabriquées, l’une pour Granite-house, l’autre pour le corral
+    - quote: une aiguille disposée sur un cadran, qui portait en exergue les lettres de l’alphabet
+  - The telegraph is wholly installed on 12 February; posts with glass insulators were begun on 6 February (II.18 ¶46, ¶49). *(Drafted.)*
+    - quote: Ce fut le 6 février que fut commencée la plantation des poteaux, munis d’isoloirs en verre
+    - quote: Le tout fut complètement installé le 12 février
+  - He never lets a week pass without going to see Ayrton at the corral (II.18 ¶51). *(Drafted.)*
+    - quote: Cyrus Smith ne laissait jamais passer une semaine sans l’aller voir
+  - He tells Pencroff that counting the wheat's four hundred thousand million grains at three hundred a minute would take about five thousand five hundred years (II.18 ¶52). *(Drafted.)*
+    - quote: il lui faudrait environ cinq mille cinq cents ans pour achever son opération
+  - He joins some reconnaissances in the unknown parts of the island, looking in the thickest woods for traces other than those of animals, and nothing suspect ever appears to his eyes (II.18 ¶58). *(Drafted.)*
+    - quote: C’étaient d’autres traces que celles des animaux qu’il cherchait
+    - quote: jamais rien de suspect n’apparut à ses yeux
+  - He cannot explain the white layer on the islet and the beach at that season and with that temperature (II.18 ¶76). *(Drafted.)*
+    - quote: il ne savait vraiment pas comment expliquer ce phénomène
+  - He holds that Lord Glenarvan will return to Tabor, and that notice of the colonists' and Ayrton's presence on Lincoln Island must be left there, in the fine days of October (II.19 ¶17, ¶21, ¶27). *(Drafted.)*
+    - quote: je crois qu’il reviendra
+    - quote: devons-nous prendre les précautions nécessaires pour que notre présence et celle d’Ayrton à l’île Lincoln soient signalées à l’île Tabor
+    - quote: dès les premiers beaux jours d’octobre
+  - He says that if the colonists leave the island it will be because they are far from "ce qu’un homme doit chérir le plus au monde, sa famille, ses amis, son pays natal" (II.19 ¶33). *(Drafted.)*
+    - quote: loin de tout ce qu’un homme doit chérir le plus au monde, sa famille, ses amis, son pays natal
+  - He wants to see for himself the whole of his domain, and prefers to anchor near land at night so as to see the coast by day (II.19 ¶36, ¶42). *(Drafted.)*
+    - quote: car il voulait voir par lui-même toute cette portion de son domaine
+    - quote: Mais Cyrus Smith préféra mouiller à quelques encâblures de terre, afin de revoir cette partie de la côte pendant le jour
+  - At the basalt coast he notes that Top's barks have something odd, like those the dog gave at the mouth of the Granite-house well, and looks for a cave, but sees no cavern and no hollow that could shelter any being (II.19 ¶49, ¶51). *(Drafted.)*
+    - quote: ces aboiements avaient quelque chose de bizarre, comme ceux que le chien faisait entendre à l’orifice du puits de Granite-house
+    - quote: Cyrus Smith ne vit rien, pas une caverne, pas une anfractuosité qui pût servir de retraite à un être quelconque
+  - He leaves the sailing to Pencroff (II.19 ¶65). *(Drafted.)*
+    - quote: faites pour le mieux, nous nous en rapportons à vous
+  - He agrees aloud with Pencroff that lighting the fire was "une heureuse idée", then tells Spilett in private that he never lit a fire in the night of 19 to 20 October, on the plateau of Granite-house or elsewhere on the island (II.19 ¶84, ¶88). *(Drafted.)*
+    - quote: C’est une heureuse idée que j’ai eue là !
+    - quote: je n’ai jamais allumé de feu dans la nuit du 19 au 20 octobre, ni sur le plateau de Granite-house, ni en aucune autre partie de l’île
+  - He explains the Shark Gulf as formed by two lava flows from the volcano accumulated by successive eruptions, and the deep sea bottom as natural given the island's plutonic origin (II.20 ¶8, ¶20). *(Drafted.)*
+    - quote: ce golfe a été formé par deux coulées de laves, vomies par le volcan, qui se sont accumulées par des éruptions successives
+    - quote: en tenant compte de l’origine plutonienne de l’île
+  - He asks the reporter, a twentieth time, whether the fire might not have been a partial eruption of the volcano or some meteor (II.20 ¶34, ¶35). *(Drafted.)*
+    - quote: redire une vingtième fois
+    - quote: N’était-ce pas une éruption partielle du volcan, un météore quelconque ?
+  - He calls the facts that have passed on the island "pour ainsi dire surnaturels", and the island "mystérieuse"; he names his own rescue and transport inland, Top's finding the party's refuge five miles from the cave, the dog thrown out of the lake and the dugong's wound, the lead shot in the young peccary, the stranded chest, the bottle, the boat that broke its mooring and came to them, the ladder sent back after the monkeys' invasion, and the document Ayrton claims never to have written (II.20 ¶38, ¶40, ¶42, ¶44, ¶47, ¶48, ¶49). *(Drafted.)*
+    - quote: Ces faits sont pour ainsi dire surnaturels
+    - quote: mystérieuse, à coup sûr
+    - quote: j’aie été retrouvé à un quart de mille à l’intérieur de l’île
+    - quote: Top a pu découvrir votre retraite, à cinq milles de la grotte où j’étais couché
+    - quote: notre chien fut si étrangement rejeté hors des eaux du lac
+    - quote: ce grain de plomb s’est trouvé dans le corps du jeune pécari
+    - quote: notre canot, ayant rompu son amarre
+    - quote: après l’invasion des singes, l’échelle a été si opportunément renvoyée
+  - He says that neither he nor Nab lit a fire on the coast in the night of 19 to 20 October; they did not leave Granite-house, and if a fire appeared, another hand lit it (II.20 ¶64, ¶66). *(Drafted.)*
+    - quote: ni Nab, ni moi, nous n’avons allumé un feu sur la côte
+    - quote: Nous n’avons pas quitté Granite-house
+  - He recalls the odd attitude of Top and Jup at the mouth of the well that joins Granite-house to the sea, and says he explored that well and found nothing suspect (II.20 ¶69). *(Drafted.)*
+    - quote: la singulière attitude de Top et de Jup
+    - quote: il avait exploré ce puits sans y découvrir rien de suspect
 - **On the page.**
   - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
@@ -628,7 +715,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He watches the unknown at every moment, and his eyes do not leave the man's (II.15 ¶68, ¶88). *(Drafted.)*
     - quote: comme l’ingénieur l’observait à tous moments
     - quote: dont les yeux ne quittaient pas ceux de son malade
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer
@@ -643,3 +730,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - The miller's rule gives sixteen turns a minute for twenty-four feet a second: the text says the turns are "sextuple" of the feet a second, which for twenty-four feet would be 144 (II.16 ¶92). *(Drafted.)*
     - quote: sextuple du nombre de pieds parcourus par le vent en une seconde
     - quote: il imprimera seize tours aux ailes pendant une minute
+  - To his companions he says Ayrton's case "ne peut s’expliquer qu’ainsi" (that he was already half mad) and that he lost his reason much later than he thinks (II.18 ¶7, ¶9); next day he tells Spilett "n’est-ce pas lui qui l’a jetée" (¶18). The text does not reconcile them (II.18 ¶7, ¶9, ¶18). *(Drafted.)*
+    - quote: Cela ne peut s’expliquer qu’ainsi, mes amis
+    - quote: Ayrton n’a été privé d’intelligence qu’à une époque beaucoup plus récente qu’il ne le croit
+    - quote: Aussi n’est-ce pas lui qui l’a jetée

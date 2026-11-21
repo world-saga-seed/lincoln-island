@@ -92,6 +92,21 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
     - quote: Top en vaut bien un autre
   - He did not sail with the Bonadventure for Tabor: Pencroff hopes to catch pigs there even without him, so counts on him as a help in the hunt (II.14 ¶41). *(My reading, to confirm.)*
     - quote: même en l’absence de Top
+  - On the engineer's reconnaissances in the unknown parts of the island he goes with Jup, and neither shows by attitude that anything is amiss; yet more than once the dog barks again at the mouth of the well the engineer explored without result (II.18 ¶58). *(Drafted.)*
+    - quote: Ni Top, ni Jup, qui l’accompagnaient, ne laissaient pressentir par leur attitude qu’il y eût rien d’extraordinaire
+    - quote: le chien aboya à l’orifice de ce puits que l’ingénieur avait exploré sans résultat
+  - At the basalt coast his barks have something odd, like those he gave at the mouth of the Granite-house well; they stop when the boat finds no cave (II.19 ¶49, ¶51). *(Drafted.)*
+    - quote: ces aboiements avaient quelque chose de bizarre, comme ceux que le chien faisait entendre à l’orifice du puits de Granite-house
+    - quote: Bientôt les aboiements de Top cessèrent
+  - He does wonders at the hunt, and no game is lost, thanks to his zeal and skill (II.19 ¶54). *(Drafted.)*
+    - quote: Top avait fait merveille, et pas un gibier n’avait été perdu, grâce à son zèle et à son adresse
+  - Smith and Spilett recall, among the unexplained facts, that Top found the party's refuge five miles from the cave where the engineer lay, that he reached the Chimneys dry and without a spot of mud in the rain and wind, and that he was thrown out of the lake after the fight with the dugong (II.20 ¶44, ¶46, ¶47). *(Drafted.)*
+    - quote: Top a pu découvrir votre retraite, à cinq milles de la grotte où j’étais couché
+    - quote: Top arriva aux Cheminées sec et sans une tache de boue
+    - quote: notre chien fut si étrangement rejeté hors des eaux du lac
+  - In winter he hunts the marshes with Jup, Spilett and Harbert, and in the quiet winter he and Jup no longer prowl round the well and show no sign of uneasiness (II.20 ¶77, ¶79). *(Drafted.)*
+    - quote: aidés de Jup et de Top
+    - quote: Top et Jup eux-mêmes ne rôdaient plus autour du puits et ne donnaient aucun signe d’inquiétude
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -157,4 +172,4 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He licks Jup's hand, which hangs out of the bed, ruefully, and walks 'on tiptoe' to visit his friend (II.12 ¶57). *(Drafted.)*
     - quote: Top, marchant, on peut dire « sur la pointe des pieds », venait visiter son ami
     - quote: Top la léchait d’un air contrit
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20

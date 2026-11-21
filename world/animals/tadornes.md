@@ -20,4 +20,6 @@ Keywords: tadorne, shelduck, canard, duck, marais, marsh, Tadorn’s-fens, gibie
     - quote: le marais des Tadornes (Tadorn’s-fens)
   - The game there is easy to approach (I.22 ¶51). *(Drafted.)*
     - quote: Le gibier devait être facile à approcher
-- **Appears in:** I.21, I.22
+  - The marshes of the tadornes are vast, and the best hunts of the great cold are made there (II.20 ¶77). *(Drafted.)*
+    - quote: dans les vastes marais des tadornes
+- **Appears in:** I.21, I.22, II.20

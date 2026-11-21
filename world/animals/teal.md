@@ -11,4 +11,6 @@ Keywords: sarcelle, teal, canard, duck, marais, marsh
   - Teal abound at the south-east marsh in winter, where the water game has its winter quarters (II.11 ¶78). *(Drafted.)*
     - quote: tout le gibier aquatique, qui établissait là ses quartiers d’hiver
     - quote: sarcelles
-- **Appears in:** I.21, II.11
+  - Teal are among the myriads of water-game shot in the great cold in the tadornes' marshes (II.20 ¶77). *(Drafted.)*
+    - quote: de sarcelles
+- **Appears in:** I.21, II.11, II.20

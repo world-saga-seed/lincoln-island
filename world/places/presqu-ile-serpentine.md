@@ -27,7 +27,10 @@ Keywords: presqu’île, Serpentine, tail, queue, alligator, rade foraine, penin
   - Its woods are the great forests where the wild beasts take refuge, still the unknown part of the island, which Spilett means to purge of them (II.8 ¶42). *(Drafted.)*
     - quote: La portion encore inconnue de l’île Lincoln était toujours celle de ces grands bois qui couvraient la presqu’île Serpentine
     - quote: où se réfugiaient les fauves, dont Gédéon Spilett comptait bien purger son domaine
-- **Appears in:** I.11, I.22, II.4, II.5, II.8
+  - The coast has been fully explored by sea, so that any mysterious being could reside only under the cover of the impenetrable woods of the peninsula, where the colonists have not yet carried their investigations (II.20 ¶32). *(Drafted.)*
+    - quote: ce ne pouvait être que sous le couvert des bois impénétrables de la presqu’île Serpentine
+    - quote: là où les colons n’avaient encore porté leurs investigations
+- **Appears in:** I.11, I.22, II.4, II.5, II.8, II.20
 - **Open:**
   - The lengths: I.11 ¶25 says the peninsula runs "plus de trente milles" to sea from the south-east cape; ¶26 gives the island's greatest length, from the jaw of the north-east to the tail's end, as "pas moins de trente milles"; ¶38 repeats "environ trente milles" from the summit to the extreme points. Card none of the figures.
     - quote: s’allongeait de plus de trente milles en mer, à compter du cap sud-est de l’île

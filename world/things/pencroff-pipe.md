@@ -16,7 +16,7 @@ Keywords: pipe, smoker, tobacco, lost
   - From then on it is Jup’s, "the ex-pipe of the sailor", hung in his room near his tobacco; he fills it himself and lights it at a live coal (see [Jup’s room](../places/jups-room.md)) (II.12 ¶73). *(Drafted.)*
     - quote: l’ex-pipe du marin
     - quote: Il la bourrait lui-même, il l’allumait à un charbon ardent
-- **Appears in:** I.5, II.10, II.12
+- **Appears in:** I.5, II.10, II.12, II.20
 - **Open:**
   - The text does not say whether the pipe was found again.
     - quote: Ma pipe, elle-même, m’a bien quitté

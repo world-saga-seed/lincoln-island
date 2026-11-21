@@ -36,4 +36,10 @@ Keywords: côte occidentale, west shore, littoral, forest coast, lisière, Pacif
   - Smith had believed the west shore might offer refuge to a ship in distress or on a regular course; since it offers no landfall, the south shore must be searched (II.5 ¶5). *(Drafted.)*
     - quote: le rivage occidental pouvait offrir refuge, soit à un bâtiment en détresse
     - quote: ce littoral ne présentait aucun atterrage
-- **Appears in:** II.3, II.4, II.5
+  - The wooded coast, well known to the colonists from having walked its edge, is magnificent and still excites their admiration when coasted by sea; floating tree trunks lie here and there in the water (II.19 ¶45). *(Drafted.)*
+    - quote: cette côte boisée, si magnifique
+    - quote: ils en avaient déjà parcouru à pied la lisière
+    - quote: quelques troncs d’arbres qui flottaient çà et là
+  - The southern portion is wooded and green and the northern harsh and wild (see [the basalt coast](the-basalt-coast.md)) (II.19 ¶47). *(Drafted.)*
+    - quote: Quel contraste entre la portion sud et la portion nord de cette côte
+- **Appears in:** II.3, II.4, II.5, II.19

@@ -19,6 +19,8 @@ Keywords: dugong, lamantin, manatee, cétacé, cetacean, amphibie, amphibian, la
   - Its fat is the source of the glycerine: kept in great earthenware jars, it is to be saponified with soda (I.17 ¶45). *(Drafted.)*
     - quote: Nab et Pencroff avaient enlevé la graisse du dugong, qui avait été recueillie dans de grandes jarres de terre
     - quote: isoler un de ses éléments, la glycérine, en la saponifiant
+  - Smith counts the dog's being thrown out of the lake after the fight with the dugong among the unexplained facts of the island (II.20 ¶47). *(Drafted.)*
+    - quote: comment notre chien fut si étrangement rejeté hors des eaux du lac, après sa lutte avec le dugong
 - **On the page.**
   - It seizes Top, who has dived in after it, and drags him under; after a struggle under the water the lake turns red with blood and its body is driven ashore on a small beach at the lake's south angle (I.16 ¶58, ¶63). *(Drafted.)*
     - quote: Top, saisi par le dugong, disparaissait sous les eaux
@@ -34,4 +36,8 @@ Keywords: dugong, lamantin, manatee, cétacé, cetacean, amphibie, amphibian, la
     - quote: Déjà des bandes d’oiseaux s’étaient abattus sur cette masse charnue
   - Nab and Pencroff are charged with extracting the fat and preserving the flesh for food (I.17 ¶36). *(Drafted.)*
     - quote: d’extraire la graisse du dugong, et d’en conserver la chair, qui était destinée à l’alimentation
-- **Appears in:** I.16, I.17
+- **Appears in:** I.16, I.17, II.20
+- **Open:**
+  - Where the dugong's wound was: "À son cou s’ouvrait une blessure" (I.16 ¶64); Pencroff speaks of "la blessure que le dugong avait au flanc" (II.20 ¶48). Both are said to look made by a cutting instrument (I.16 ¶64; II.20 ¶48). *(Drafted.)*
+    - quote: À son cou s’ouvrait une blessure qui semblait avoir été faite avec une lame tranchante
+    - quote: la blessure que le dugong avait au flanc, blessure qui semblait avoir été faite par un instrument tranchant

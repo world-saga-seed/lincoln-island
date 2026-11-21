@@ -39,6 +39,7 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Kangaroos](kangaroos.md) | the bounding game of the lake forest |
 | [Kingfishers](kingfishers.md) | the fishers on the lake rock |
 | [Koulas](koulas.md) | the sloths of the Jacamar Wood |
+| [Lapwings](lapwings.md) | the vanneaux of the winter marsh |
 | [Large beasts](large-beasts.md) | the unseen fauves of the slopes and forest |
 | [Lithodomes](lithodomes.md) | the peppery rock-boring shellfish of the first meal |
 | [Lyrebirds](lyrebirds.md) | the lyre-tailed menures of the lake shore |
@@ -75,6 +76,7 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Trout](trout.md) | the fine trout of the lake and the Mercy |
 | [Tétras](tetras.md) | the grouse taken on hook and line |
 | [The unseen creature](unseen-creature.md) | what the colonists suppose fought the dugong and left the cavern |
+| [White sea birds](white-sea-birds.md) | the swarms taken for snow |
 | [Wild boars](wild-boars.md) | the sangliers of the island's woods |
 | [Wild ducks](wild-ducks.md) | the game Pencroff cannot reach |
 | [Wild goats](wild-goats.md) | the chèvres sauvages of the corral beat |

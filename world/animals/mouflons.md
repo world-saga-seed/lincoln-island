@@ -49,4 +49,8 @@ Keywords: mouflon, mouton, sheep, bighorn, horns, wool, toison, gigot, côtelett
     - quote: la laine plongea pendant vingt-quatre heures
   - The flock of mouflons and goats at the corral counts a certain number of young that have to be housed and fed (II.12 ¶85). *(Drafted.)*
     - quote: le troupeau de mouflons et de chèvres comptait un certain nombre de petits
-- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12
+  - In December the corral's flock of mouflons counts more than eighty head (II.17 ¶28). *(Drafted.)*
+    - quote: le troupeau de mouflons, qui comptait alors plus de quatre-vingts têtes
+  - By the winter of the third year the mouflons, now numerous, have supplied abundantly the wool for the felt clothing (II.20 ¶72). *(Drafted.)*
+    - quote: les mouflons, nombreux alors, avaient abondamment fourni la laine nécessaire
+- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.17, II.20

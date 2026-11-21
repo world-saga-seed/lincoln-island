@@ -33,4 +33,7 @@ Keywords: chute, nouvelle chute, cascade, waterfall, saignée, stream, déversoi
     - quote: on maintint les sables au moyen d’une double palissade
   - The mechanical force of the beach fall, till then unused, drives Smith’s fulling mill (see [the fulling mill](../things/the-fulling-mill.md)) (II.11 ¶6). *(My reading, to confirm.)*
     - quote: profiter de la force mécanique, inutilisée jusqu’alors, que possédait la chute d’eau de la grève
-- **Appears in:** I.17, I.18, I.20, I.22, II.7, II.11
+  - The great fall on the beach is where the fulling mill stands; Smith fixes the wire-drawing frame a few feet from it to use its motive force (II.18 ¶36, ¶37). *(My reading, to confirm.)*
+    - quote: à quelques pieds seulement de la grande chute, dont l’ingénieur allait encore utiliser la force motrice
+    - quote: là était le moulin à foulon
+- **Appears in:** I.17, I.18, I.20, I.22, II.7, II.11, II.18

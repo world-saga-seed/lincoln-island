@@ -32,7 +32,9 @@ Keywords: pointe, Épave, Flotson-point, point, headland, wreck, chest, cove, an
     - quote: sur la grève de la pointe de l’Épave, à trois milles de Granite-house et à mer haute
   - The Bonadventure, leaving the Union Bay, doubles the pointe de l’Épave and cap Griffe before holding close to the wind along the southern coast (II.12 ¶96). *(Drafted.)*
     - quote: Après avoir doublé la pointe de l’Épave et le cap Griffe, Pencroff dut tenir le plus près
-- **Appears in:** I.21, II.2, II.5, II.10, II.12
+  - Its rocks can be rounded to reach the marshes of the tadornes, an alternative to the route from port Ballon across the Mercy bridge (II.20 ¶77). *(Drafted.)*
+    - quote: soit en tournant les roches de la pointe de l’Épave
+- **Appears in:** I.21, II.2, II.5, II.10, II.12, II.18, II.20
 - **Open:**
   - I.21 ¶20 already says "la pointe de l’Épave" in July, though II.2 ¶42 gives the point that name only on 29 October. Card neither (I.21 ¶20; II.2 ¶42). *(Drafted.)*
     - quote: Après avoir tourné la pointe de l’Épave

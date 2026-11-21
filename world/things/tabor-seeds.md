@@ -15,4 +15,6 @@ Keywords: graines, seeds, légumes, vegetables, récolte, Harbert, Tabor, semée
     - quote: une récolte de graines potagères
   - The seeds are carefully sown on Lincoln, and the Grande-Vue plateau becomes a vast kitchen garden (see [the kitchen garden](../places/the-kitchen-garden.md)) (II.16 ¶79). *(Drafted.)*
     - quote: les graines récoltées par Harbert à l’île Tabor avaient été soigneusement semées
-- **Appears in:** II.13, II.14, II.16
+  - The plants brought from Tabor have perfectly succeeded (II.18 ¶52). *(Drafted.)*
+    - quote: les plants rapportés de l’île Tabor avaient parfaitement réussi
+- **Appears in:** II.13, II.14, II.16, II.18

@@ -196,6 +196,25 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: L’un de ces ports était creusé sous l’île Lincoln
   - Volcanic actions have acted on it (III.16 ¶63). *(Drafted.)*
     - quote: sous l’influence des actions volcaniques
+  - The perimeter of the island measures ninety miles (II.19 ¶40). *(Drafted.)*
+    - quote: Sur les quatre-vingt-dix milles que mesurait le périmètre de l’île
+  - For two years no ship has passed in sight of it, nor a sail been seen; it lies outside the routes followed and is unknown, as the charts prove (II.19 ¶3). *(Drafted.)*
+    - quote: pas un navire n’avait passé en vue de l’île
+    - quote: se trouvait en dehors des routes suivies
+    - quote: ce que prouvaient les cartes
+  - It has no port, but a watering place that ought to have drawn ships wanting fresh water (II.19 ¶3). *(Drafted.)*
+    - quote: à défaut d’un port, son aiguade aurait dû attirer les bâtiments désireux de renouveler leur provision d’eau
+  - Harbert says it is not even marked on the chart (II.19 ¶20). *(Drafted.)*
+    - quote: l’île Lincoln n’est pas même portée sur la carte
+  - Pencroff says that the land nearest to it lies at least twelve hundred miles off (II.19 ¶8). *(Drafted.)*
+    - quote: douze cents milles à franchir, c’est un joli bout de chemin, et la terre la plus rapprochée est au moins à cette distance
+  - In April 1867 the colonists still have only an imperfect idea of the coast to the west and north, from the mouth of the Falls-river to the Mandibule capes (II.19 ¶35). *(Drafted.)*
+    - quote: les colons n’avaient qu’une idée imparfaite du littoral à l’ouest et au nord
+  - Pencroff thinks of the island as his personal property and, after the colonists’ review of the mysteries, feels he shares it with another master (II.20 ¶70). *(Drafted.)*
+    - quote: Cette île dont il faisait sa propriété personnelle
+    - quote: il la partageait avec un autre maître
+  - The colonists, Smith says, would leave it not because they are ill there but because they are far from all a man should cherish most: family, friends, native land (II.19 ¶33). *(Drafted.)*
+    - quote: ce sera parce que nous y sommes loin de tout ce qu’un homme doit chérir le plus au monde
 - **On the page.**
   - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
     - quote: peu effrayés de la présence de l’homme
@@ -205,7 +224,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, III.16
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.16
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent
@@ -245,3 +264,6 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: huit degrés fahrenheit (13,33° centigrades au-dessous de zéro)
     - quote: huit degrés Fahrenheit au-dessous de zéro (22° centig. au-dessous de glace)
     - quote: huit degrés Fahrenheit (13° centigr. au-dessous de zéro)
+  - The nearest land: Pencroff says it lies at least twelve hundred miles off (II.19 ¶8), while Smith says Tabor lies about a hundred and fifty miles off, in the north-east (II.9 ¶99); card neither (II.19 ¶8; II.9 ¶99). *(Drafted.)*
+    - quote: la terre la plus rapprochée est au moins à cette distance
+    - quote: À cent cinquante milles environ dans le nord-est

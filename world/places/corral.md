@@ -57,4 +57,19 @@ Keywords: corral, enclos, palissade, mouflons, sheepfold, pen, hangars, wool, la
     - quote: Le corral était réaménagé, car le troupeau de mouflons et de chèvres comptait un certain nombre de petits
   - Smith intends to build a farm there (II.16 ¶79). *(Drafted.)*
     - quote: au corral, où Cyrus Smith avait l’intention de bâtir une ferme
-- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16
+  - The corral lies at the foot of the mountain, four or five miles from Granite-house, and has only stables, hardly fit for animals, at the time Ayrton asks to live there (II.17 ¶19, ¶21). *(Drafted.)*
+    - quote: à quatre ou cinq milles d’ici, au pied de la montagne
+    - quote: le corral n’a que des étables, à peine convenables pour les animaux
+  - The flock of mouflons there counts more than eighty head in December 1866 (II.17 ¶28). *(Drafted.)*
+    - quote: qui comptait alors plus de quatre-vingts têtes
+  - A wooden house is built there for Ayrton (see [the corral house](the-corral-house.md)) (II.17 ¶27). *(Drafted.)*
+    - quote: une maison de bois
+  - The corral is joined to Granite-house, five miles off, by a telegraph wire, so as to be in instant communication (see [the telegraph](../things/the-telegraph.md)) (II.18 ¶28, ¶38). *(Drafted.)*
+    - quote: mettre le corral en communication instantanée avec Granite-house
+    - quote: cette distance de cinq milles qui séparait le corral de l’enceinte de Granite-house
+  - One of the photographs shows the clearing and the corral backed against the first croups of the mountain (II.18 ¶61). *(Drafted.)*
+    - quote: la clairière et le corral adossé aux premières croupes de la montagne
+  - In the winter it is less exposed than the plateau and covered in great part by Mont Franklin, so that it receives only the remains of the gales already broken by the forests and the high rocks of the coast; the damage there is slight (II.20 ¶78). *(Drafted.)*
+    - quote: moins exposé que le plateau et couvert en grande partie par le mont Franklin
+    - quote: Les dégâts y furent donc peu importants
+- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20

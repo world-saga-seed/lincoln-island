@@ -25,4 +25,6 @@ Keywords: ascenseur, lift, elevator, hydraulic, water power, ladder, plan
   - The lift’s banne takes a man from the door of Granite-house down to the beach in a few moments (II.15 ¶81). *(Drafted.)*
     - quote: lui firent prendre place dans l’ascenseur
     - quote: La banne descendit, et en quelques instants tous furent réunis sur la grève
-- **Appears in:** I.19, II.9, II.12, II.15
+  - A rope of the lift lets one slide down it from the door of Granite-house to the ground in the dark (II.18 ¶1). *(Drafted.)*
+    - quote: glisser par la corde de l’ascenseur
+- **Appears in:** I.19, II.9, II.12, II.15, II.18

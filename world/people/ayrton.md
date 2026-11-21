@@ -90,6 +90,86 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: Qu’est-ce qu’elle vaut ? Moins que rien !
     - quote: Vous êtes d’honnêtes gens, vous ! Et moi !…
     - quote: sa tête s’abaissa sur sa poitrine
+  - He is the boatswain (contre-maître) of the Britannia, as his papers show (II.17 ¶55). *(Drafted.)*
+    - quote: le contre-maître du Britannia, ainsi que le témoignaient ses papiers
+  - After quarrels with his captain he tried to draw the crew into revolt and seize the ship; Captain Grant put him ashore on the west coast of Australia on 8 April 1852 and sailed on without him (II.17 ¶59). *(Drafted.)*
+    - quote: il avait essayé d’entraîner son équipage à la révolte et de s’emparer du navire
+    - quote: le capitaine Grant l’avait débarqué, le 8 avril 1852, sur la côte ouest de l’Australie
+    - quote: puis il était reparti en l’abandonnant
+  - He was a servant of an Irish farmer on the Australian coast, who had had him more than a year and vouched for him (II.17 ¶51, ¶57). *(Drafted.)*
+    - quote: un des serviteurs de l’Irlandais
+    - quote: qui l’avait à son service depuis plus d’un an, en répondait
+  - He spoke with a frank voice and a steady look, so that no one could doubt his words (II.17 ¶57). *(Drafted.)*
+    - quote: avait la voix franche, le regard assuré
+  - After his abandonment he became, under the name of Ben Joyce, the chief of escaped convicts (II.17 ¶60). *(Drafted.)*
+    - quote: il était devenu, sous le nom de Ben Joyce, le chef de convicts évadés
+  - He told Glenarvan the Britannia was lost on the east coast and pressed him to cross Australia, hoping to separate him from his ship, seize the Duncan and make the yacht a pirate of the Pacific (II.17 ¶56, ¶60). *(Drafted.)*
+    - quote: mais sur la côte est de l’Australie que le Britannia s’est perdu
+    - quote: s’il soutint impudemment que le naufrage avait eu lieu sur la côte est
+    - quote: faire de ce yacht un pirate du Pacifique
+  - When he tried to revolt aboard the Duncan he was shut up, and was carried to the east coast of New Zealand (II.17 ¶67). *(Drafted.)*
+    - quote: Il voulut se révolter. On l’enferma.
+  - He refused to speak before Lord Glenarvan; then, Lady Glenarvan overcoming his resistance, he proposed, in exchange for what he could say, to be left on an island of the Pacific rather than given to the English authorities (II.17 ¶73, ¶74). *(Drafted.)*
+    - quote: Ayrton refusa de parler.
+    - quote: Ayrton, en échange de ce qu’il pourrait dire, proposa à Lord Glenarvan de l’abandonner sur une des îles du Pacifique
+  - He knew nothing of Captain Grant since the day Grant landed him (II.17 ¶75). *(Drafted.)*
+    - quote: il ne savait rien depuis le jour où le capitaine Grant l’avait débarqué
+  - He is landed on Tabor from the Duncan on 18 March 1855, the island where Captain Grant and his two men were found, and takes their place on the desert islet (II.17 ¶76, ¶79). *(Drafted.)*
+    - quote: C’était là qu’Ayrton devait être déposé
+    - quote: on retrouva le capitaine Grant et ses deux hommes
+    - quote: On était au 18 mars 1855
+  - At his landing Lord Glenarvan tells him he will be neither lost nor forgotten: "Je sais où vous êtes, Ayrton, et je sais où vous trouver" (II.17 ¶77). *(Drafted.)*
+    - quote: les hommes se souviendront de vous. Je sais où vous êtes, Ayrton, et je sais où vous trouver. Je ne l’oublierai jamais !
+  - On Tabor he lacks neither munitions, arms, tools nor seeds, and has the house built by Captain Grant (II.17 ¶80). *(Drafted.)*
+    - quote: ni les munitions, ni les armes, ni les outils, ni les graines ne lui manquaient
+    - quote: la maison construite par l’honnête capitaine Grant
+  - He repents and is ashamed of his crimes, works to remake himself by work, and prays to regenerate himself by prayer (II.17 ¶81). *(Drafted.)*
+    - quote: il se repentit, il eut honte de ses crimes
+    - quote: Comme il travailla pour se refaire par le travail
+  - Worn down by isolation, he feels himself becoming a savage, brutishness winning on him little by little (II.17 ¶82, ¶83). *(Drafted.)*
+    - quote: il sentit peu à peu qu’il devenait un sauvage
+    - quote: il devint le misérable que vous avez trouvé
+  - He says that Ayrton and Ben Joyce are one man (II.17 ¶84). *(Drafted.)*
+    - quote: Ayrton ou Ben Joyce et moi, nous ne faisons qu’un
+  - He feels unworthy to give his hand to honest people, and after the jaguar he no longer leaves the enclosure of Granite-house (II.17 ¶1). *(Drafted.)*
+    - quote: il ne se sentait pas digne de la tendre à d’honnêtes gens
+    - quote: il ne quitta plus l’enceinte de Granite-house
+  - He ploughs all the plateau's land, so that it is ready for sowing (II.17 ¶29). *(Drafted.)*
+    - quote: grâce à lui, toutes les terres étaient labourées et prêtes à être ensemencées
+  - He asks to live at the corral, to tend the animals there (II.17 ¶19). *(Drafted.)*
+    - quote: Voulez-vous me permettre de vivre là-bas avec eux ?
+  - He says he never threw a document into the sea, and seems not to know what is meant; Smith later counts "le document qu’Ayrton prétend n’avoir jamais écrit" among the unexplained facts (II.17 ¶95, ¶98; II.20 ¶49). *(Drafted.)*
+    - quote: paraissait ne pas savoir ce dont on lui parlait
+    - quote: Je n’ai jamais jeté de document à la mer !
+    - quote: le document qu’Ayrton prétend n’avoir jamais écrit
+  - Smith pardons him and offers him fellowship; he takes the offered hand weeping, and asks to be left alone a while longer in the corral house (II.17 ¶86, ¶89, ¶91). *(Drafted.)*
+    - quote: Ayrton, vous êtes pardonné !
+    - quote: de grosses larmes coulèrent de ses yeux
+    - quote: laissez-moi seul dans cette habitation du corral
+  - He goes to the corral house in the night of 20 to 21 December and takes charge of the numerous flock, sparing his companions the visit every two or three days (II.18 ¶15, ¶25). *(Drafted.)*
+    - quote: Ayrton avait gagné pendant la nuit sa maison du corral
+    - quote: Il s’occupait du nombreux troupeau confié à ses soins
+  - He is to report to Granite-house any incident on that side of the island, and answers Smith's telegraph from the corral on 12 February (II.18 ¶26, ¶49). *(Drafted.)*
+    - quote: ne négligerait pas d’en informer les habitants de Granite-house
+    - quote: reçut, quelques instants après, une réponse satisfaisante d’Ayrton
+  - He comes from time to time to Granite-house, where he always finds a good welcome; the wire spares him complete isolation (II.18 ¶51). *(Drafted.)*
+    - quote: Ayrton venait de temps en temps à Granite-house, où il trouvait toujours bon accueil
+    - quote: il ne le laissait pas dans un complet isolement
+  - Nab counts him as one more sailor among them; Smith says he had lost his reason in the last years of his stay on Tabor (II.19 ¶11, ¶17). *(Drafted.)*
+    - quote: nous comptons un marin de plus parmi nous
+    - quote: Ayrton n’avait plus sa raison pendant les dernières années de son séjour
+  - Smith says Lord Glenarvan promised Ayrton to come and take him from Tabor when he judged his crimes sufficiently expiated (II.19 ¶17). *(Drafted.)*
+    - quote: Lord Glenarvan a promis à Ayrton de venir le reprendre à l’île Tabor, quand il jugerait ses crimes suffisamment expiés
+  - In April he has been with the colonists five months (II.19 ¶27). *(Drafted.)*
+    - quote: depuis que Ayrton est avec nous, c’est-à-dire depuis cinq mois
+  - Offered a place on the Bonadventure for the voyage round the island, he prefers to stay ashore (II.19 ¶39). *(Drafted.)*
+    - quote: Ayrton ayant préféré rester à terre
+  - He is given felt clothes; in the second half of October he goes back to the corral to repair the winter's damage, and his active, skilful hand mends it quickly (II.20 ¶73, ¶78). *(Drafted.)*
+    - quote: Ayrton avait été pourvu de ces confortables vêtements
+    - quote: la main active et habile d’Ayrton suffit à les réparer promptement
+  - He shares the common life and makes himself useful on every occasion, but, always humble and sad, takes no part in his companions' pleasures (II.20 ¶73). *(Drafted.)*
+    - quote: se rendit utile en toute occasion
+    - quote: toujours humble et triste, il ne prenait jamais part aux plaisirs de ses compagnons
 - **On the page.**
   - He stands respectfully aside in a corner of the magnificent salon (III.16 ¶8). *(Drafted.)*
     - quote: dans un angle de ce magnifique salon
@@ -157,12 +237,12 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: il se blottissait dans quelque anfractuosité des roches
   - He lives as in the days when he had no shelter but the forests of Tabor (II.16 ¶65). *(Drafted.)*
     - quote: il vivait encore comme au temps où il n’avait d’autre abri que les forêts de l’île Tabor
-- **Appears in:** III.16, II.13, II.14, II.15, II.16
+  - After the jaguar he goes back to his old life: he does not come to the meals, sleeps under the trees of the plateau and never mixes with his companions (II.17 ¶4). *(Drafted.)*
+    - quote: n’assistant point aux repas, couchant sous les arbres du plateau, ne se mêlant jamais à ses compagnons
+- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
 - **Open:**
   - The editor warns, in a note that recalls the one on Ayrton's adventures, of a "discordance de quelques dates" with the earlier books (III.16 n1); the card cannot say which dates. *(Drafted.)*
     - quote: sur la discordance de quelques dates
-  - Who Ayrton is, his trade, age and origin, and how he came to Tabor, are not told in III.16; the text only refers back to "des aventures d’Ayrton" (III.16 n1). *(Drafted.)*
-    - quote: des aventures d’Ayrton
   - Two dates for the same scene: II.16 ¶11 puts the man's tears and first words on 3 November; Harbert answers the man's question of the month "Décembre" (¶37). Whether the questions are the same day as ¶11 is not told (II.16 ¶11, ¶37). *(Drafted.)*
     - quote: le 3 novembre
     - quote: Décembre, répondit Harbert
@@ -174,7 +254,22 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: le document que nous avons trouvé avait été récemment écrit
     - quote: il était depuis douze ans déjà sur l’îlot
     - quote: le document semblait récemment écrit
-  - Whether he reached Tabor by shipwreck or was left there: the document and the Britannia plank say shipwreck, while Pencroff thinks he was abandoned after some crime and the man himself asks whether he was not condemned to die there (II.14 ¶22; II.16 ¶45, ¶68). *(Drafted.)*
-    - quote: un bâtiment désemparé avait été jeté à la côte
-    - quote: à la suite de quelque crime, il y aura été abandonné
-    - quote: que je n’étais pas condamné à mourir là
+  - He tells Glenarvan he is "Un Écossais comme vous" (II.17 ¶54); asked what he is, he answers "Anglais" (II.16 ¶33). The text does not reconcile them (II.17 ¶54; II.16 ¶33). *(Drafted.)*
+    - quote: Un Écossais comme vous, milord
+    - quote: Anglais, » répondit-il précipitamment
+  - Years on Tabor: "Pendant deux ans, trois ans" (II.17 ¶82) and "après deux ou quatre ans d’abandon" (¶83); the landing is dated 18 March 1855 (¶79), the colonists' year is 1866 and he cries "Douze ans !" (II.16 ¶40). Hetzel's note warns of discordant dates in the account (II.17 ¶79, ¶82, ¶83, n1). *(Drafted.)*
+    - quote: Pendant deux ans, trois ans
+    - quote: après deux ou quatre ans d’abandon
+    - quote: une certaine discordance dans les dates
+  - Dates of the Britannia's loss: the Duncan anchors on 20 December 1854 and the Britannia is said to have been lost "une année auparavant" (II.17 ¶42), and "depuis moins de deux ans" (¶50); Ayrton was put ashore on 8 April 1852 (¶59) and served the Irishman "depuis plus d’un an" (¶57). The text does not reconcile them (II.17 ¶42, ¶50, ¶57, ¶59). *(Drafted.)*
+    - quote: avait péri corps et biens, une année auparavant
+    - quote: se fût perdu depuis moins de deux ans
+    - quote: le 8 avril 1852
+  - Who built the house on Tabor: his tale says "la maison construite par l’honnête capitaine Grant" (II.17 ¶80); the colonists, on first seeing it, read the planks as a single survivor's work from the wreck (II.14 ¶22) (II.17 ¶80; II.14 ¶22). *(Drafted.)*
+    - quote: la maison construite par l’honnête capitaine Grant
+    - quote: au moyen des débris du navire, cet homme, ayant des outils à sa disposition, avait construit cette demeure
+  - The date of his move to Granite-house: "Ce qu’il fit vers la mi-avril" (II.20 ¶73), after ¶71 has reached May ("les mauvais jours étaient venus avec le mois de mai"); on the colonists' return on 19 April he is waiting "sur la grève" (¶31), and II.19 ¶39 has him come to Granite-house during their absence (II.20 ¶31, ¶71, ¶73; II.19 ¶39). *(Drafted.)*
+    - quote: Ce qu’il fit vers la mi-avril
+    - quote: les mauvais jours étaient venus avec le mois de mai
+    - quote: Ayrton les attendait sur la grève
+    - quote: il fut décidé qu’il viendrait à Granite-house pendant l’absence de ses compagnons

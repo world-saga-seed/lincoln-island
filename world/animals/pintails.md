@@ -13,4 +13,6 @@ Keywords: pilet, pintail, canard, duck, marais, marsh, lac, lake, gibier, game
   - Pintails are among the water game that crowd the south-east marsh in winter, its winter quarters (II.11 ¶78). *(Drafted.)*
     - quote: tout le gibier aquatique, qui établissait là ses quartiers d’hiver
     - quote: pilets
-- **Appears in:** I.21, I.22, II.11
+  - Pintails are among the myriads of water-game shot in the great cold in the tadornes' marshes (II.20 ¶77). *(Drafted.)*
+    - quote: de pilets
+- **Appears in:** I.21, I.22, II.11, II.20

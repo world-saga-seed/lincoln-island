@@ -48,4 +48,10 @@ Keywords: habitation, hut, cabane, maison, Tabor, naufragé, castaway, planches,
     - quote: Vingt minutes après avoir quitté l’habitation
   - It is the only dwelling on the islet, and long abandoned (II.15 ¶20). *(Drafted.)*
     - quote: la seule habitation de l’îlot était depuis longtemps abandonnée
-- **Appears in:** II.13, II.14, II.15
+  - It is called "cette cabane qui fut la demeure du capitaine Grant et d’Ayrton" (II.19 ¶22). *(Drafted.)*
+    - quote: cette cabane qui fut la demeure du capitaine Grant et d’Ayrton
+- **Appears in:** II.13, II.14, II.15, II.17, II.19
+- **Open:**
+  - Who built it: Ayrton’s tale says it was "la maison construite par l’honnête capitaine Grant" (II.17 ¶80), while the colonists reason that a castaway built it from the wreck (II.14 ¶22); card neither (II.17 ¶80; II.14 ¶22). *(Drafted.)*
+    - quote: la maison construite par l’honnête capitaine Grant
+    - quote: un homme de l’équipage avait été sauvé, et qu’au moyen des débris du navire, cet homme, ayant des outils à sa disposition, avait construit cette demeure

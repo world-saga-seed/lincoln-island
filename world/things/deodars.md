@@ -16,4 +16,6 @@ Keywords: déodars, cedar, Himalayan, conifer, aroma, evergreen
   - It is among the trees of the forest cut through on 31 October, most of which were already known round the lake and the Grande-Vue plateau, generally of medium size because their number has hindered their growth (II.4 ¶5). *(Drafted.)*
     - quote: des déodars
     - quote: généralement de taille médiocre, car leur nombre avait nui à leur développement
-- **Appears in:** I.4, I.6, II.4
+  - In October, at the edge of the wood, the new foliage of the nettle trees, banksias and deodars appears among the persistent foliage of the conifers (II.20 ¶80). *(Drafted.)*
+    - quote: au milieu du feuillage persistant des conifères qui formaient la lisière du bois, apparaissait déjà le feuillage nouveau des micocouliers, des banksias et des deodars
+- **Appears in:** I.4, I.6, II.4, II.20

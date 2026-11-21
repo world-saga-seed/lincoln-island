@@ -21,4 +21,7 @@ Keywords: singe, singes, monkey, quadrumane, quadrumanes, bandes, herbivores, gi
     - quote: des bandes de singes qui semblaient marquer le plus vif étonnement à la vue de ces hommes
     - quote: Ces singes étaient nombreux
     - quote: ils ne manifestèrent aucune disposition hostile
-- **Appears in:** II.3, II.4
+  - In the great bad weather of winter, bands of quadrumanes venture to the edge of the plateau, and the most supple and bold, driven by hunger, might get across the stream (II.20 ¶76). *(Drafted.)*
+    - quote: des bandes de quadrumanes s’aventuraient jusqu’à la lisière du plateau
+    - quote: poussés par la faim
+- **Appears in:** II.3, II.4, II.20

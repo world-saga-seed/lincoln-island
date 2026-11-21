@@ -17,4 +17,7 @@ Keywords: route du Corral, road, chemin, corral, Red Creek, sources, cart, onagg
     - quote: Chaque excursion était, en même temps, un moyen d’améliorer les routes, dont la chaussée se tassait peu à peu sous les roues du chariot
   - In February it is improved, and a third road is begun from the corral toward the west coast (see [the road to the west coast](road-to-the-west-coast.md)) (II.8 ¶42). *(Drafted.)*
     - quote: en même temps qu’on améliorait les routes du corral et du port Ballon
-- **Appears in:** II.7, II.8
+  - The telegraph posts, with glass insulators, are planted along it from 6 February, to carry the wire to the corral (II.18 ¶46). *(Drafted.)*
+    - quote: la plantation des poteaux, munis d’isoloirs en verre
+    - quote: la route du corral
+- **Appears in:** II.7, II.8, II.18

@@ -8,16 +8,23 @@ A card for every person named in the French, and every person the insert adds, e
 | [Abraham Lincoln](abraham-lincoln.md) | the statesman the island is named for |
 | [The Aleutian hunters](aleutian-hunters.md) | the trappers of Russian America whose whalebone engine Cyrus Smith borrows |
 | [Ayrton](ayrton.md) | man found on Tabor Island, among the colonists |
+| [Captain Grant](captain-grant.md) | master of the Britannia, found on Tabor |
 | [Captain Nemo](captain-nemo.md) | Prince Dakkar of Bundelkund, commander of the Nautilus |
 | [Cyrus Smith](cyrus-smith.md) | engineer, leader of the castaways |
 | [Gédéon Spilett](gedeon-spilett.md) | reporter, colonist |
 | [Harbert](harbert.md) | the boy among the colonists |
 | [John Benett](john-benett.md) | the director of the New-York Herald |
+| [John Mangles](john-mangles.md) | captain of the Duncan |
 | [Jonathan Forster](jonathan-forster.md) | Southern diehard who built the balloon |
+| [Lady Glenarvan](lady-glenarvan.md) | Lord Glenarvan's wife |
+| [Lord Glenarvan](lord-glenarvan.md) | Scottish laird, owner of the Duncan |
 | [Malay pirates](malay-pirates.md) | the sea-robbers Cyrus Smith fears in this part of the Pacific |
+| [Mary Grant](mary-grant.md) | Captain Grant's daughter |
 | [Nab](nab.md) | devoted colonist and cook |
 | [Natives](natives.md) | the islanders of other islands, feared and never met |
 | [Pencroff](pencroff.md) | sailor and jack-of-all-trades |
+| [Robert Grant](robert-grant.md) | Captain Grant's son |
 | [Tippo-Saïb](tippo-saib.md) | hero of India, Dakkar's uncle |
+| [Tom Austin](tom-austin.md) | second of the Duncan |
 | [Ulysse Grant](ulysse-grant.md) | Federal general besieging Richmond |
 <!-- /cards -->

@@ -20,4 +20,14 @@ Keywords: Australie, Nouvelle-Hollande, Australian, continent, route, trees, hun
   - The eucalyptus are called there "fever trees" (II.3 ¶48, ¶50). *(Drafted.)*
     - quote: Savez-vous comment on les appelle dans l’Australie et la Nouvelle-Zélande
     - quote: les « arbres à fièvre »
-- **Appears in:** I.11, I.12, I.21, II.3
+  - Its west coast is where the Duncan anchors at cape Bernouilli on 20 December 1854, and where Ayrton was put ashore on 8 April 1852 (II.17 ¶42, ¶59). *(Drafted.)*
+    - quote: sur la côte occidentale de l’Australie
+    - quote: le capitaine Grant l’avait débarqué, le 8 avril 1852, sur la côte ouest de l’Australie
+  - Glenarvan crosses it along the thirty-seventh parallel, from cape Bernouilli to the bay of Twofold on the east coast (II.17 ¶57, ¶70). *(Drafted.)*
+    - quote: il résolut de traverser l’Australie en suivant le trente-septième parallèle
+    - quote: arriver à la côte est de l’Australie, sur la baie de Twofold
+  - Escaped convicts roam it, and Ayrton became their chief under the name of Ben Joyce (II.17 ¶60). *(Drafted.)*
+    - quote: le chef de convicts évadés
+  - Ayrton claims that the Britannia was lost on its east coast, not on its west coast (II.17 ¶56). *(Drafted.)*
+    - quote: ce n’est pas sur la côte ouest, mais sur la côte est de l’Australie que le Britannia s’est perdu
+- **Appears in:** I.11, I.12, I.21, II.3, II.17

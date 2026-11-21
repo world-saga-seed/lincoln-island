@@ -61,6 +61,11 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: ni l’îlot, ni le plateau de Grande-Vue n’étaient visibles
   - The whale comes so near the islet that it can be fully distinguished (II.10 ¶44). *(My reading, to confirm.)*
     - quote: il s’approchait si près de l’îlot, qu’on pouvait le distinguer complètement
+  - From the windows of Granite-house the islet and the whole beach below are seen to be covered with a white layer, which is a flock of white sea-birds settled there by hundreds of thousands (II.18 ¶72, ¶81). *(Drafted.)*
+    - quote: non-seulement l’îlot, mais toute la grève
+    - quote: Ils s’étaient abattus par centaines de mille sur l’îlot et sur la côte
+  - The channel between the islet and the coast is entered, on returning, by passing the islet’s point on the left (II.20 ¶30). *(Drafted.)*
+    - quote: laissant sur sa gauche la pointe de l’îlot, entrait dans le canal qui le séparait de la côte
 - **On the page.**
   - Large heavy-flying birds rose from its holes, and others in flocks; Pencroff took them for gulls and sea-mews (I.3 ¶14). *(Drafted.)*
     - quote: des goëlands et des mouettes
@@ -68,7 +73,7 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10
+- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10, II.18, II.20
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?

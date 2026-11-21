@@ -32,6 +32,13 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
     - quote: ramassé sur lui-même, allait s’élancer
     - quote: il lui fouillait le cœur avec son couteau
     - quote: Le jaguar tomba
+  - Jaguars abound in the forests: in the fine season of 1867 the colonists make a terrible war on them, and some twenty magnificent skins already adorn the great hall of Granite-house; if it goes on, the jaguar race will soon be extinct on the island (II.18 ¶57). *(Drafted.)*
+    - quote: une guerre terrible aux jaguars
+    - quote: une vingtaine de magnifiques peaux ornaient-elles déjà la grande salle de Granite-house
+    - quote: la race des jaguars serait bientôt éteinte dans l’île
+  - In great bad weather some pairs of jaguars venture to the edge of the plateau; the frozen stream gives them an easy passage, and shots must be fired to keep them at a respectful distance (II.20 ¶76). *(Drafted.)*
+    - quote: quelques couples de jaguars
+    - quote: lorsqu’il était gelé, leur offrait un passage facile
 - **On the page.**
   - It comes forward, bristling, eye aflame, as if it had never before smelt man (II.4 ¶64). *(Drafted.)*
     - quote: le poil hérissé, l’œil en feu
@@ -43,4 +50,4 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
   - Its skin is thought to make the ornament of the great hall of Granite-house, and Nab skins it (II.4 ¶67, ¶77). *(Drafted.)*
     - quote: dont la magnifique dépouille ferait l’ornement de la grande salle de Granite-house
     - quote: Nab dépouillait le jaguar
-- **Appears in:** I.13, II.4, II.11, II.16
+- **Appears in:** I.13, II.4, II.11, II.16, II.18, II.20

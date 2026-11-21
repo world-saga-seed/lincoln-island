@@ -11,4 +11,8 @@ Keywords: cap Mandibule-Nord, Mandible-cape, north, jaw, north-east
     - quote: le cap Mandibule-Nord et le cap Mandibule-Sud
   - The two Mandibule capes close the horizon on the north from the windows of Granite-house (I.19 ¶48). *(Drafted.)*
     - quote: les deux caps Mandibule fermaient au nord
-- **Appears in:** I.11, I.19
+  - The Bonadventure runs up toward it on 18 April with a following wind (II.19 ¶55). *(Drafted.)*
+    - quote: filait très-rapidement en s’élevant vers le cap Mandibule-nord
+  - The cap du nord covers the south one, so as to make it very difficult for squalls to enter the gulf (II.20 ¶9). *(Drafted.)*
+    - quote: le cap du nord couvre-t-il celui du sud, de manière à rendre très-difficile l’entrée des rafales
+- **Appears in:** I.11, I.19, II.19, II.20

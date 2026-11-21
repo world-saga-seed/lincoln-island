@@ -50,5 +50,7 @@ Keywords: baie, grève, beach, shore, reefs, brisants, sandbanks, ebb, coast, ba
     - quote: profondément engagé dans la vaste baie de l’Union, la sillonnait rapidement depuis le cap Mandibule jusqu’au cap Griffe
   - To leave it the Bonadventure first runs before the wind (II.12 ¶95). *(Drafted.)*
     - quote: Pour sortir de la baie de l’Union, il fallut d’abord faire vent arrière
+  - It lies facing the Grande-Vue plateau, from cape Mandibule to cape Griffe (II.20 ¶82). *(Drafted.)*
+    - quote: toute la baie de l’union qui faisait face au plateau de Grande-Vue, depuis le cap Mandibule jusqu’au cap Griffe
 - **On the page.**
-- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5, II.10, II.12
+- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5, II.10, II.12, II.20

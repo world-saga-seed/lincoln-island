@@ -98,7 +98,22 @@ Keywords: Bonadventure, bateau, boat, sloop, embarcation, quille, keel, sapin, f
     - quote: cette embouchure ne présente aucun abri
   - On 20 October she is taken to port Ballon, round cape Griffe, and lies two hours later in its quiet waters (see [port Ballon](../places/port-ballon.md)) (II.15 ¶60). *(Drafted.)*
     - quote: Deux heures après, il reposait sur les eaux tranquilles du port Ballon
-- **Appears in:** II.10, II.11, II.12, II.13, II.14, II.15
+  - She is provisioned at port Ballon for a voyage that may last some time, and leaves it on 16 April (II.19 ¶38). *(Drafted.)*
+    - quote: fut approvisionné pour un voyage qui pouvait avoir quelque durée
+  - She can reef: Pencroff proposes to run on at a slow speed with two reefs in her sail (II.19 ¶42). *(Drafted.)*
+    - quote: deux ris dans sa voile
+  - She is well ballasted, would not have capsized, and has hatches (panneaux) that withstand the water falling aboard in the gale; Pencroff has great confidence in her (II.20 ¶2). *(Drafted.)*
+    - quote: car il était bien lesté
+    - quote: si les panneaux n’avaient pas résisté
+    - quote: Il avait une confiance extrême dans son embarcation
+  - In the gale Pencroff sets his jib on the main mast as a storm staysail and waits, head to land (II.20 ¶1). *(Drafted.)*
+    - quote: après avoir installé son foc au grand mât en guise de tourmentin
+  - Pencroff values the immersed part of her hull, her "œuvres vives", more than his own skin (II.19 ¶66, ¶67). *(Drafted.)*
+    - quote: J’aimerais mieux un coup de couteau dans mes œuvres vives qu’un coup de roche dans celles de mon Bonadventure
+    - quote: il y tenait plus qu’à sa propre peau
+  - She carries a sounding line, a long cord with an iron block (see [the sounding line](the-sounding-line.md)) (II.20 ¶18). *(Drafted.)*
+    - quote: une longue corde qui lui servait de ligne de sonde
+- **Appears in:** II.10, II.11, II.12, II.13, II.14, II.15, II.19, II.20
 - **Open:**
   - The crossing out: II.13 ¶17 says it needs no more than forty-eight hours for the hundred and fifty miles, leaving on 11 October; the landing is at about noon on the 13th (II.13 ¶50), more than fifty hours after the five o’clock departure of ¶20; card neither (II.13 ¶17, ¶20, ¶50). *(Drafted.)*
     - quote: il ne fallait pas plus de quarante-huit heures pour faire cette traversée de cent cinquante milles

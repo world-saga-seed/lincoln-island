@@ -130,6 +130,17 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
     - quote: muet de naissance
   - Pencroff counts him among the colony: 'Sur six ! Vous oubliez Jup.' (II.12 ¶117). *(Drafted.)*
     - quote: Sur six ! répondit Pencroff. Vous oubliez Jup.
+  - He accompanies the engineer on the reconnaissances with Top and shows nothing unusual by his attitude (II.18 ¶58). *(Drafted.)*
+    - quote: Ni Top, ni Jup, qui l’accompagnaient, ne laissaient pressentir par leur attitude qu’il y eût rien d’extraordinaire
+  - He poses for his portrait with a seriousness impossible to describe, and looks at his image in a sentimental way that lets show a slight dose of conceit (II.18 ¶65, ¶67). *(Drafted.)*
+    - quote: Maître Jup avait posé avec un sérieux impossible à décrire
+    - quote: il contemplait son image d’un air sentimental, qui laissait percer une légère dose de fatuité
+  - He is left to keep Ayrton company at Granite-house and makes no complaint; on the colonists' return he runs joyfully to meet them with good grunts of satisfaction (II.19 ¶39; II.20 ¶31). *(Drafted.)*
+    - quote: Maître Jup devait lui tenir compagnie et ne fit aucune récrimination
+    - quote: maître Jup vint joyeusement au-devant d’eux, en faisant entendre de bons grognements de satisfaction
+  - In winter he hunts the marshes with Spilett and Harbert, and he and Top no longer prowl round the well nor show uneasiness (II.20 ¶77, ¶79). *(Drafted.)*
+    - quote: aidés de Jup et de Top
+    - quote: Top et Jup eux-mêmes ne rôdaient plus autour du puits et ne donnaient aucun signe d’inquiétude
 - **On the page.**
   - He is the ape that took refuge in the passage and is run down by Nab; he defends himself valiantly before being thrown down and bound (II.6 ¶89, ¶96). *(Drafted.)*
     - quote: un grand singe, qui s’était réfugié dans le couloir
@@ -169,7 +180,7 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
     - quote: je t’en fais cadeau
     - quote: l’ex-pipe du marin
     - quote: il l’allumait à un charbon ardent
-- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12
+- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20
 - **Open:**
   - Whether Jup lowered the ladder is not said: Cyrus Smith says he did (II.6 ¶94), and Pencroff, the next day, speaks of "cette échelle qu'il nous a si galamment renvoyée hier" (II.7 ¶11); the chapter does not say who in fact lowered it. *(My reading, to confirm.)*
     - quote: C’est lui qui nous a jeté l’échelle

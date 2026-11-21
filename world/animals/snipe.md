@@ -16,4 +16,9 @@ Keywords: bécassine, snipe, marais, marsh, gibier, game, oiseau, bird, flèche
   - Snipe are among the water game that crowd the south-east marsh in winter, its winter quarters (II.11 ¶78). *(Drafted.)*
     - quote: tout le gibier aquatique, qui établissait là ses quartiers d’hiver
     - quote: bécassines
-- **Appears in:** I.21, I.22, II.11
+  - Snipe are shot with ducks on the north coast, near the gulf, in strings (II.19 ¶53, ¶54). *(Drafted.)*
+    - quote: mouilla dans un léger renfoncement du littoral, au nord de l’île
+    - quote: plusieurs chapelets de canards et de bécassines
+  - In the great cold, snipe are among the myriads of water-game that Spilett and Harbert shoot in the tadornes' marshes (II.20 ¶77). *(Drafted.)*
+    - quote: de bécassines
+- **Appears in:** I.21, I.22, II.11, II.19, II.20

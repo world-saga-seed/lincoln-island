@@ -190,8 +190,6 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He does not forget his trade as the New-York Herald's reporter: he declares he would swim rather than miss such an occasion (II.13 ¶18). *(Drafted.)*
     - quote: n’oubliait point son métier de reporter du New-York Herald
     - quote: il irait à la nage plutôt que de manquer une pareille occasion
-  - He lends a hand at the boat's manoeuvre when needed (II.13 ¶28). *(Drafted.)*
-    - quote: au besoin, il mettait la main à la manœuvre
   - He wonders whether he entrusted his last chronicle for the Herald to one of the great sea birds (II.13 ¶33). *(Drafted.)*
     - quote: il avait confié sa dernière chronique adressée au New-York Herald
   - He proposes climbing the cone to get a summary view of the islet and so ease the search (II.13 ¶53). *(Drafted.)*
@@ -213,6 +211,34 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He thinks the unknown has too grave things to say if he is silent, and that he has come back into humanity only by way of remorse (II.16 ¶9, ¶23). *(Drafted.)*
     - quote: des choses trop graves à dire
     - quote: il semble qu’il ne soit rentré dans l’humanité que par la voie du remords
+  - He leaves the engineer only to hunt with Harbert, for it would not be prudent to let the boy roam the forest alone (II.17 ¶3). *(Drafted.)*
+    - quote: Le reporter ne quittait l’ingénieur que pour chasser avec Harbert, car il n’eût pas été prudent de laisser le jeune garçon courir seul la forêt
+  - He remembers that the newspapers reported Lord Glenarvan's attempt and its result, and holds Ayrton's tale true in every point (II.18 ¶13). *(Drafted.)*
+    - quote: les journaux ont rapporté la tentative faite par Lord Glenarvan
+    - quote: vraie de tous points
+  - Smith's explanation of the bottle does not satisfy him at all; he asks how the man could write the document and throw the bottle without remembering it, and he sums up the mystery in the rescue, the chest, Top's adventures and the bottle (II.18 ¶17, ¶21). *(Drafted.)*
+    - quote: ne m’a pas satisfait du tout
+    - quote: Votre sauvetage, la caisse échouée sur le sable, les aventures de Top, cette bouteille enfin
+  - He is the horseman who trains Harbert: Harbert becomes an excellent rider under the reporter's direction, and they most often ride the onaggas (II.18 ¶54). *(Drafted.)*
+    - quote: Harbert, devenu un excellent cavalier sous la direction du reporter
+    - quote: étaient le plus souvent montés par Gédéon Spilett et Harbert
+  - He has a special hatred of the jaguars, and an astonishing coolness against them (II.18 ¶57). *(Drafted.)*
+    - quote: Gédéon Spilett leur avait voué une haine toute spéciale
+    - quote: le sang-froid du reporter étonnant
+  - With Harbert's help he takes several views of the island's picturesque parts with the camera of the chest, which had not been used before; the two soon become skilful operators and obtain fine landscape proofs (II.18 ¶59, ¶61). *(Drafted.)*
+    - quote: Gédéon Spilett, aidé d’Harbert, prit plusieurs vues des parties les plus pittoresques de l’île
+    - quote: devinrent donc, en peu de temps, d’habiles opérateurs
+  - He is, with Harbert, one of the "chasseurs attitrés de la colonie"; he photographs the west coast from the boat (II.19 ¶45, ¶54). *(Drafted.)*
+    - quote: les chasseurs attitrés de la colonie, c’est-à-dire Harbert et Gédéon Spilett
+    - quote: Gédéon Spilett prit des vues photographiques de ce superbe littoral
+  - He saw the fire of 19 to 20 October himself, and holds it was certainly lit by a man's hand; to him it was very bright and threw out as it were an electric sheet (II.20 ¶3, ¶36, ¶62). *(Drafted.)*
+    - quote: Ce feu, il l’avait bien réellement vu !
+    - quote: c’était certainement un feu allumé de main d’homme
+    - quote: il projetait comme une nappe électrique
+  - He resolves to press Smith to put their companions in the way of these strange facts (II.20 ¶4). *(Drafted.)*
+    - quote: pousser Cyrus Smith à mettre ses compagnons au courant de ces faits étranges
+  - He and Harbert, helped by Jup and Top, hunt the vast marshes of the tadornes in the great cold and lose no shot among the ducks, snipe, teal, pintails and lapwings (II.20 ¶77). *(Drafted.)*
+    - quote: Gédéon Spilett et Harbert, aidés de Jup et de Top, ne perdaient pas un coup
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -265,7 +291,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
   - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

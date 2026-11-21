@@ -32,4 +32,6 @@ Keywords: promontoire du Reptile, Reptile-end, queue, reptile, extremity, south-
   - From the end of the promontory, which forms the tail of the peninsula, the coast rounds over five miles (II.5 ¶26). *(Drafted.)*
     - quote: l’extrémité du promontoire qui formait la queue de la presqu’île
     - quote: la côte s’arrondissait sur une distance de cinq milles
-- **Appears in:** I.11, I.20, II.1, II.4, II.5
+  - Of the ninety miles of the island’s perimeter, the south coast counts about twenty from port Ballon to it (II.19 ¶40). *(Drafted.)*
+    - quote: la côte sud en comptait une vingtaine depuis le port jusqu’au promontoire
+- **Appears in:** I.11, I.20, II.1, II.4, II.5, II.19

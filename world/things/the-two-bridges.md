@@ -22,4 +22,6 @@ Keywords: ponceaux, bridges, passerelles, plateau, grève, new outlet, carpentry
     - quote: ils ne se couchèrent plus sans que l’un d’eux se fût assuré que tous les ponts étaient relevés
   - By day the bridges are kept raised, so that Nab says the unknown cannot escape from the plateau (II.15 ¶86). *(Drafted.)*
     - quote: il ne pourra pas s’échapper, fit observer Nab, puisque les ponts sont relevés
-- **Appears in:** I.20, II.7, II.12, II.15
+  - In the storms the small bridges of the beach disappear under the water when the sea beats the coast, and have to be strengthened (II.20 ¶74). *(My reading, to confirm.)*
+    - quote: il fallut même consolider ceux de la grève, qui disparaissaient sous les couches d’eau
+- **Appears in:** I.20, II.7, II.12, II.15, II.20

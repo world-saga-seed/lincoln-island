@@ -149,6 +149,19 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: s’ils avaient bouleversé le mobilier des chambres, du moins n’avaient-ils rien brisé
   - It has a kitchen with stoves and a pantry (office) holding reserves (II.7 ¶2). *(Drafted.)*
     - quote: Nab ralluma ses fourneaux, et les réserves de l’office
+  - Some twenty magnificent jaguar skins adorn the great hall (see [the jaguar skins](../things/jaguar-skins.md)) (II.18 ¶57). *(Drafted.)*
+    - quote: une vingtaine de magnifiques peaux ornaient-elles déjà la grande salle de Granite-house
+  - The portraits of the colonists and of Jup hang on its walls, so that Pencroff stops before them as before the shop windows of Broadway (see [the portraits](../things/the-portraits.md)) (II.18 ¶64). *(Drafted.)*
+    - quote: orner les murs de Granite-house
+  - It has a dark closet where the photographic substances are kept (see [the dark closet](the-dark-closet.md)) (II.20 ¶84). *(Drafted.)*
+    - quote: dans un réduit obscur de Granite-house
+  - The great hall has windows overlooking the beach and the bay, one of which holds the camera lens when Harbert takes his plate (II.20 ¶84). *(Drafted.)*
+    - quote: à l’une des fenêtres de la grande salle de Granite-house
+    - quote: il dominait la grève et la baie
+  - Smith offers Ayrton to spend the bad season there, where he would be better lodged than at the corral (II.20 ¶73). *(Drafted.)*
+    - quote: où il serait mieux logé qu’au corral
+  - It suffers little from the weather of the third winter (II.20 ¶78). *(Drafted.)*
+    - quote: Granite-house ne souffrit pas trop des inclémences du temps
 - **On the page.**
   - The well is at the cavern’s end (see [the well](the-well.md)); Top’s barking finds nothing in the cavern, and Smith murmurs that Top knows more than they do about many things (I.18 ¶56). *(Drafted.)*
     - quote: Top en sait plus long que nous sur bien des choses
@@ -158,7 +171,7 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: la corde du haut de Granite-house
   - Nemo summoned the colonists of Granite-house by a wire linking the corral to the Nautilus (III.16 ¶66). *(Drafted.)*
     - quote: il manda, comme on sait, les colons de Granite-house
-- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, III.16
+- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, II.18, II.20, III.16
 - **Open:**
   - Chapter I.13 knows no Granite-house: there the engineer still hopes to find or build a better dwelling than the Chimneys (I.13 ¶40). Nothing in these chapters says where Granite-house stands, how big it is, or how the well opens inside it.
     - quote: une demeure plus convenable

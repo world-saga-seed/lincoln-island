@@ -58,7 +58,13 @@ Keywords: grain de blé, blé, wheat, grain, seed, bread, pain, harvest, moisson
   - Two or three bushels of wheat are ground on the morning of the mill’s first day, and the next morning a fine loaf is on the table at Granite-house (see [the first loaf](the-first-loaf.md)) (II.16 ¶94). *(Drafted.)*
     - quote: deux à trois boisseaux de blé furent moulus
     - quote: une magnifique miche
-- **Appears in:** I.20, I.21, II.7, II.8, II.10, II.16
+  - The fourth wheat harvest is admirable; no one thinks of counting whether the "quatre cents milliards de grains" are in the crop (II.18 ¶52). *(Drafted.)*
+    - quote: La quatrième récolte de blé avait été admirable
+    - quote: les quatre cents milliards de grains figuraient à la moisson
+  - Pencroff meant to count them, but Smith shows that even at three hundred grains a minute, nine thousand an hour, it would take about five thousand five hundred years, and the sailor gives up (II.18 ¶52). *(Drafted.)*
+    - quote: trois cents grains par minute, soit neuf mille à l’heure
+    - quote: cinq mille cinq cents ans
+- **Appears in:** I.20, I.21, II.7, II.8, II.10, II.16, II.18
 - **Open:**
   - The harvest of the third field: ¶80 heads it "la troisième moisson" yet calls the crop of six hundred thousand grains "La seconde récolte"; and the second harvest of 15 April gave six hundred and fifty thousand grains (II.10 ¶11); card neither (II.16 ¶80; II.10 ¶11). *(Drafted.)*
     - quote: Au 15 novembre, on fit la troisième moisson

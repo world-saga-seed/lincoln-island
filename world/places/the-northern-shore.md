@@ -31,7 +31,9 @@ Keywords: grève, littoral, strand, coast, relais de marée, tide mark, north co
     - quote: Toute cette portion de l’île était fort aride jusqu’à cette pointe qui fermait la baie de l’Union
   - Sea birds frequent this desolate coast: gulls, great albatrosses and wild ducks (I.14 ¶38). *(Drafted.)*
     - quote: Quelques oiseaux de mer fréquentaient cette côte désolée
+  - Pencroff says the north coast "n’est formée que de dunes" (II.19 ¶59). *(Drafted.)*
+    - quote: la côte nord n’est formée que de dunes
 - **On the page.**
   - Nab examined above all the part of the strand that high water does not cover, for the ebb and flow must have effaced any sign on its edge (I.8 ¶18). *(Drafted.)*
     - quote: la partie de la grève que la haute mer ne recouvrait pas
-- **Appears in:** I.6, I.7, I.8, I.14
+- **Appears in:** I.6, I.7, I.8, I.14, II.19

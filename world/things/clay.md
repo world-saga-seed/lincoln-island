@@ -15,9 +15,11 @@ Keywords: argile, figuline, earth, mud, loam, brick earth, potter's earth
     - quote: retourner à la rive occidentale du lac, là où il avait remarqué la veille cette terre argileuse dont il possédait un échantillon
   - Smith had a sample of it (I.13 ¶29). *(Drafted.)*
     - quote: dont il possédait un échantillon
+  - A plug of clay held in a cloth closes the lower end of each glass tube of the battery, through which acid and potash react on each other (II.18 ¶43). *(Drafted.)*
+    - quote: un tampon d’argile maintenu par un linge
 - **On the page.**
   - Pencroff asked what the bricks were made of and Smith answered: clay (I.13 ¶16). *(Drafted.)*
     - quote: Avec de l’argile
   - The same clay was used for the pottery, with a little lime and quartz added (I.13 ¶47). *(Drafted.)*
     - quote: La matière première était cette argile même du sol, à laquelle Cyrus Smith fit ajouter un peu de chaux et du quartz
-- **Appears in:** I.10, I.12, I.13
+- **Appears in:** I.10, I.12, I.13, II.18

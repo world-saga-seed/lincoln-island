@@ -96,19 +96,11 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: une sorte de vérandah couverte de plantes grimpantes, que Nab avait élevée de ses propres mains
   - He has trained Jup, whom he calls 'mon élève, et bientôt mon égal' (II.9 ¶9). *(Drafted.)*
     - quote: Mon élève, répondait Nab, et bientôt mon égal
-  - He and Harbert each have a favourite among the new-born lambs (II.9 ¶17). *(Drafted.)*
-    - quote: à la grande joie de Nab et d’Harbert, qui avaient chacun leur favori parmi les nouveaux-nés
   - He fattens the young peccaries in the sty by the poultry-yard (II.9 ¶18). *(Drafted.)*
     - quote: de s’engraisser par les soins de Nab
   - He is in the secret of the tobacco, and has trouble keeping it from Pencroff (II.10 ¶33, ¶100). *(Drafted.)*
     - quote: Cyrus Smith et Nab furent mis dans la confidence
     - quote: Nab qui a eu bien de la peine à nous garder le secret
-  - He watches the whale through the telescope while minding his furnaces, and from his kitchen window he sees it stranded (II.10 ¶44, ¶47). *(Drafted.)*
-    - quote: Nab, tout en surveillant ses fourneaux, ne quittaient pas la lunette
-    - quote: des cris de Nab, posté à la fenêtre de sa cuisine
-  - In the talk about coal he intervenes only with a quip to Pencroff: 'Tu t’es levé trop tôt' (II.11 ¶65). *(Drafted.)*
-    - quote: Tu t’es levé trop tôt, Pencroff
-    - quote: qui n’intervint que par ces mots dans la discussion
   - He plans preserves and pâtés from the winter game, 'une réserve agréable', and works with the reporter on the savoury preparations that fill Granite-house with good smells (II.12 ¶3, ¶11). *(Drafted.)*
     - quote: Conserves, pâtés, nous aurons là une réserve agréable
     - quote: des bonnes odeurs qu’émettaient les manipulations savantes de Nab et du reporter
@@ -124,10 +116,19 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - In his joy at the Bonadventure's return he dances, turns on himself, claps his hands and cries "Oh ! mon maître !", a pantomime "plus touchante que le plus beau discours" (II.15 ¶4). *(Drafted.)*
     - quote: il s’était mis à danser, à tourner sur lui-même en battant des mains
     - quote: plus touchante que le plus beau discours
-  - He hastens the lunch for the three who are dying of hunger (II.15 ¶38). *(Drafted.)*
-    - quote: pendant le déjeuner, que Nab avait hâté
   - He and Pencroff have become very able carpenters (II.16 ¶86). *(Drafted.)*
     - quote: Nab et Pencroff étaient devenus de très-habiles charpentiers
+  - He and Pencroff spend much of their time on the care of the pigs (II.18 ¶54). *(Drafted.)*
+    - quote: les soins à donner à ces animaux absorbaient une grande partie du temps de Nab et de Pencroff
+  - He finds the Shark Gulf has a wicked look and does not please him much, and is uneasy in "cette énorme mâchoire" (II.20 ¶14, ¶28). *(Drafted.)*
+    - quote: ce golfe-là ne me plaît pas beaucoup ! Il a une physionomie méchante !
+    - quote: le brave nègre ne se sentait pas à l’aise dans cette énorme mâchoire
+  - He did not leave Granite-house in the night of 19 to 20 October, and lit no fire on the coast (II.20 ¶64, ¶66). *(Drafted.)*
+    - quote: ni Nab, ni moi, nous n’avons allumé un feu sur la côte
+    - quote: Nous n’avons pas quitté Granite-house
+  - With Pencroff he is, by nature, very much inclined to the marvellous, and is not far from believing the island subject to a supernatural power (II.20 ¶70). *(Drafted.)*
+    - quote: très-portés au merveilleux par leur nature même
+    - quote: n’étaient pas éloignés de croire que l’île Lincoln fût subordonnée à quelque puissance surnaturelle
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -161,7 +162,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He and Pencroff carry the provisions on the march and lay out the midday meal (II.4 ¶3, ¶37). *(Drafted.)*
     - quote: Pencroff et Nab emportaient des provisions
     - quote: Nab et Pencroff disposèrent le déjeuner
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

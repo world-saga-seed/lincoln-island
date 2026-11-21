@@ -24,4 +24,11 @@ Keywords: Nouvelle-Zélande, Maoris, English, colony, landfall
     - quote: entre la Nouvelle-Zélande et l’Amérique du Sud, que les baleines de l’hémisphère austral se rencontrent en plus grand nombre
   - Harbert says the albatross, vanished in the west, goes towards it (II.11 ¶37). *(Drafted.)*
     - quote: Vers la Nouvelle-Zélande
-- **Appears in:** I.9, I.14, II.1, II.3, II.10, II.11
+  - The letter Ayrton obtained, drafted by the French geographer, by an error named the east coast of New Zealand as the Duncan’s destination, so that the yacht was taken there instead of to Twofold Bay (II.17 ¶66). *(Drafted.)*
+    - quote: la côte est de la Nouvelle-Zélande était indiquée comme lieu de destination
+  - The Duncan cruises on that coast until 3 March (1855), and Glenarvan, who crossed the country on the thirty-seventh parallel from the west coast, finds her waiting on the other coast (II.17 ¶68, ¶72). *(Drafted.)*
+    - quote: Le Duncan resta à croiser sur cette côte jusqu’au 3 mars
+    - quote: la traversa sur le trente-septième parallèle
+  - It lies to the west of the island, a voyage the colonists put aside as too long for a boat of theirs (II.19 ¶34). *(Drafted.)*
+    - quote: jusqu’à la Nouvelle-Zélande, dans l’ouest
+- **Appears in:** I.9, I.14, II.1, II.3, II.10, II.11, II.17, II.19

@@ -383,6 +383,36 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He says the windmill will be gayer and look well in the landscape; as always he is delighted with his work and sure that the apparatus is perfect (II.16 ¶83, ¶88). *(Drafted.)*
     - quote: ce moulin à vent sera plus gai et fera bon effet dans le paysage
     - quote: Comme toujours, Pencroff était enchanté de son ouvrage
+  - He argues that if the castaway wrote the document seven or eight years ago and threw it in the sea, the paper could not have escaped damage by damp (II.18 ¶8). *(Drafted.)*
+    - quote: comment ce papier n’a-t-il pas été altéré par l’humidité ?
+  - He once thought of counting the grains of the wheat harvest and gave it up when told how long it would take (II.18 ¶52). *(Drafted.)*
+    - quote: Pencroff avait eu l’idée de le faire
+    - quote: le brave marin crut devoir y renoncer
+  - He and Nab spend much of their time on the care of the pigs (II.18 ¶54). *(Drafted.)*
+    - quote: les soins à donner à ces animaux absorbaient une grande partie du temps de Nab et de Pencroff
+  - He is delighted to see his portrait hang on the walls of Granite-house and stops before the display as before the richest windows of Broadway (II.18 ¶64). *(Drafted.)*
+    - quote: le marin était enchanté de voir son image, fidèlement reproduite, orner les murs de Granite-house
+    - quote: comme il eût fait aux plus riches vitrines de Broadway
+  - He always has the deciding voice in maritime questions, and says he is not a man to draw back (II.19 ¶8, ¶10). *(Drafted.)*
+    - quote: qui avait toujours voix prépondérante dans les questions maritimes
+    - quote: je ne suis point homme à reculer
+  - He reads the sky: the red sunset and the "queues de chat" (cirrus) announce a west gale (II.19 ¶56, ¶57). *(Drafted.)*
+    - quote: des « queues de chat » qui ne présagent rien de bon
+    - quote: des cyrrhus effilés, éparpillés au zénith
+  - He would rather take a knife stab in his own "œuvres vives" than a rock blow in the Bonadventure's; he holds the immersed part of her hull dearer than his own skin (II.19 ¶66, ¶67). *(Drafted.)*
+    - quote: J’aimerais mieux un coup de couteau dans mes œuvres vives qu’un coup de roche dans celles de mon Bonadventure
+    - quote: il y tenait plus qu’à sa propre peau
+  - He saw the fire of 19 to 20 October, without which the Bonadventure would have passed to leeward of the island; he is sure of having seen it, with a sky of heavy clouds in which a star would not have been so low on the horizon (II.19 ¶83; II.20 ¶57, ¶61). *(Drafted.)*
+    - quote: Comme je vous vois.
+    - quote: nous aurions passé sous le vent de l’île, sans la précaution que vous avez prise d’allumer un feu
+    - quote: le ciel était couvert de gros nuages, et une étoile, en tout cas, n’aurait pas été si basse sur l’horizon
+  - He foresaw the gale, which his presentiments never deceive; he sets his jib on the main mast as a storm-jib, heads to land, and, as a skilful seaman, provides for every event (II.20 ¶1, ¶2). *(Drafted.)*
+    - quote: ses pressentiments ne pouvaient tromper
+    - quote: après avoir installé son foc au grand mât en guise de tourmentin
+    - quote: Pencroff, en habile marin, para à tout événement
+  - He makes the island his personal property and, after Smith's list of mysteries, feels he shares it with another master to whom he is subject; with Nab, very much inclined to the marvellous, he is not far from believing the island subject to a supernatural power (II.20 ¶70). *(Drafted.)*
+    - quote: Cette île dont il faisait sa propriété personnelle
+    - quote: très-portés au merveilleux par leur nature même
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -491,7 +521,7 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Et ça ne se fume pas, par hasard ?
   - He smokes with delight now that he has tobacco (II.10 ¶96). *(Drafted.)*
     - quote: Pencroff fumait, fumait, fumait
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

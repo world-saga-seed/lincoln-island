@@ -42,7 +42,9 @@ Keywords: singes, quadrumanes, orang, anthropomorphes, bande, farceurs, Granite-
   - The narrator offers that the band may have sensed an assault coming by another route, "la seule façon d'interpréter leur mouvement de retraite", their terror being "non moins subite qu'inexplicable" (II.7 ¶1). *(Drafted.)*
     - quote: une terreur, non moins subite qu’inexplicable
     - quote: C’était à peu près la seule façon d’interpréter leur mouvement de retraite
-- **Appears in:** II.6, II.7
+  - Smith counts the ladder "si opportunément renvoyée des hauteurs de Granite-house" after the apes' invasion among the unexplained facts of the island (II.20 ¶49). *(Drafted.)*
+    - quote: après l’invasion des singes, l’échelle a été si opportunément renvoyée des hauteurs de Granite-house
+- **Appears in:** II.6, II.7, II.20
 - **Open:**
   - The text gives two views of who drew up the lower ladder: that the intruders had done so "pour se mettre à l'abri de toute surprise" (II.6 ¶24), and that the apes, in flight, did not even try to put the ladder back although it would have been easy to come down by it (II.6 ¶74). *(Drafted.)*
     - quote: Il était plus qu’évident que les intrus avaient voulu se mettre à l’abri de toute surprise

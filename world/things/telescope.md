@@ -16,7 +16,12 @@ Keywords: longue-vue, lunette, telescope, glass, spyglass, instrument, chest
   - At the cove the engineer's "lunette" goes over the whole line of the horizon point by point, and then the shore from the beach to the reefs, finding no ship or wreck (II.5 ¶48, ¶49). *(Drafted.)*
     - quote: la lunette de l’ingénieur eût parcouru point à point toute cette ligne circulaire
     - quote: la lunette fut promenée avec le même soin depuis la grève jusqu’aux récifs
-- **Appears in:** II.2, II.3, II.5
+  - One of the telescopes carries a strong lens that Harbert can unscrew, and which he uses to examine the speck on his plate (II.20 ¶87). *(Drafted.)*
+    - quote: une forte lentille qu’il dévissa de l’une des lunettes
+  - Smith takes up his long-glass and sweeps the horizon slowly until he stops on the suspect point (II.20 ¶90, ¶91). *(Drafted.)*
+    - quote: saisissant sa longue-vue
+    - quote: après avoir parcouru lentement l’horizon, s’arrêta enfin sur le point suspect
+- **Appears in:** II.2, II.3, II.5, II.20
 - **Open:**
   - Whether "la longue-vue" (II.5 ¶2) and "la lunette de l’ingénieur" (II.5 ¶48) are one instrument is not said. *(My reading, to confirm.)*
     - quote: la longue-vue

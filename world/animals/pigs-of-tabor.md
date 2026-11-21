@@ -20,7 +20,9 @@ Keywords: porc, porcs, cochon, pig, swine, île Tabor, Tabor, baleinier, étable
   - On Lincoln Island they are led to the stables, where they are expected to acclimatise easily, and the catch is judged very profitable to the island (II.15 ¶45). *(Drafted.)*
     - quote: ces animaux furent conduits aux étables, où ils devaient s’acclimater facilement
     - quote: devant être très-profitable à l’île Lincoln
-- **Appears in:** II.13, II.14, II.15
+  - The pigs of the stables have already produced young, and the care of them takes much of Nab's and Pencroff's time. The text says only "les porcs" (II.18 ¶54). *(My reading, to confirm.)*
+    - quote: Les porcs avaient déjà produit des petits
+- **Appears in:** II.13, II.14, II.15, II.18
 - **Open:**
   - Whether Lincoln Island has pigs: Pencroff says the island lacks them, while the sangliers taken in the traps looked like American or European pigs (see the wild boars) (II.14 ¶36; I.22 ¶14). *(Drafted.)*
     - quote: ces porcs, dont l’île Lincoln est dépourvue

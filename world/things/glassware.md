@@ -4,5 +4,11 @@
 
 Keywords: gobeletterie, glassware, verres, bouteilles, bottles, tumblers, glass
 
-- **What it is.** A set of made things, glasses and bottles. Build if needed. *(Drafted.)*
-- **Appears in:** II.9 ¶42
+- **What it is.**
+  - The tumblers and bottles of the glassworks are mere play, accepted as they come at the end of the pipe; Pencroff asks the favour of blowing in his turn and gives them very cheerful shapes (II.9 ¶42). *(Drafted.)*
+    - quote: Quant à la gobeletterie, verres et bouteilles, ce ne fut qu’un jeu
+    - quote: tels qu’ils venaient au bout de la canne
+  - Glass flasks and a glass tube are made for the telegraph battery (see [the telegraph battery](the-telegraph-battery.md)) (II.18 ¶43). *(Drafted.)*
+    - quote: Un certain nombre de flacons de verre furent fabriqués
+    - quote: un tube de verre
+- **Appears in:** II.9, II.18

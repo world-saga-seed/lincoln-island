@@ -35,4 +35,10 @@ Keywords: Falls-river, Chute, creek, ruisseau, west coast, côte occidentale, wa
     - quote: ce radier de granit
   - The colonists, by common accord, name it "rivière de la Chute" (Falls-river) (II.4 ¶35). *(Drafted.)*
     - quote: donna-t-on à ce cours d’eau le nom de « rivière de la Chute » (Falls-river)
-- **Appears in:** II.4
+  - Beyond its mouth, on the right bank, the trees thin out and three miles farther form only isolated clumps (see [the basalt coast](the-basalt-coast.md)) (II.19 ¶46). *(Drafted.)*
+    - quote: sur la rive droite, les arbres reparaissaient, mais plus clairsemés
+  - The coast from its mouth to the Mandibule capes was known only imperfectly before the voyage of April (II.19 ¶35). *(Drafted.)*
+    - quote: depuis l’embouchure de la rivière de la Chute jusqu’aux caps Mandibule
+  - A road runs from the corral to its mouth, along the left bank of the Mercy (II.18 ¶55). *(Drafted.)*
+    - quote: la route qui allait du corral à l’embouchure de la rivière de la Chute
+- **Appears in:** II.4, II.18, II.19

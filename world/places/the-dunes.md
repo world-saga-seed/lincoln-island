@@ -25,4 +25,9 @@ Keywords: dunes, sable, sand hills, monticules, collines, thistles, région sabl
     - quote: non loin de cette partie des dunes dans laquelle l’ingénieur avait été retrouvé, après son énigmatique sauvetage
   - The long series of dunes ends at the point of cape Mandibule, where the ground takes a volcanic look (I.15 ¶5). *(My reading, to confirm.)*
     - quote: Là finissait la longue série des dunes, et le sol prenait une apparence volcanique
-- **Appears in:** I.7, I.8, I.14, I.15
+  - The dunes of the north coast are called by Pencroff "peu intéressantes à considérer" (II.19 ¶59). *(Drafted.)*
+    - quote: la côte nord n’est formée que de dunes peu intéressantes à considérer
+  - They are the capricious dunes among which the engineer was so strangely found, and sea birds frequent them by hundreds (II.20 ¶29). *(Drafted.)*
+    - quote: ces dunes capricieuses, entre lesquelles l’ingénieur avait été si singulièrement retrouvé
+    - quote: que les oiseaux de mer fréquentaient par centaines
+- **Appears in:** I.7, I.8, I.14, I.15, II.19, II.20

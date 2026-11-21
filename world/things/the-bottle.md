@@ -48,7 +48,19 @@ Keywords: bouteille, bottle, document, message, naufragé, castaway, Tabor, Harb
   - The paper gives the position of Tabor in latitude and longitude with precision, which implies in its author a fairly complete knowledge of hydrography, which a simple sailor could not have (II.16 ¶63). *(Drafted.)*
     - quote: il donnait la situation de l’île Tabor en latitude et en longitude avec précision
     - quote: des connaissances assez complètes en hydrographie, qu’un simple marin ne pouvait avoir
-- **Appears in:** II.9, II.12, II.13, II.15, II.16
+  - The document it held gave the exact situation of Tabor Island, and Smith asks Ayrton why he threw it to the sea; Ayrton answers that he never threw a document into the sea (II.17 ¶94, ¶96, ¶98). *(Drafted.)*
+    - quote: ce document enfermé dans une bouteille que nous avons trouvé, et qui donnait la situation exacte de l’île Tabor
+    - quote: Je n’ai jamais jeté de document à la mer
+  - Pencroff objects that if Ayrton threw the paper seven or eight years ago, it should have been altered by damp; Smith answers that Ayrton lost his intelligence much later than he thinks (II.18 ¶8, ¶9). *(Drafted.)*
+    - quote: s’il y a sept ou huit ans qu’il l’a jeté à la mer, comment ce papier n’a-t-il pas été altéré par l’humidité
+    - quote: Ayrton n’a été privé d’intelligence qu’à une époque beaucoup plus récente qu’il ne le croit
+  - Spilett does not think that Smith’s explanation of it, the day before, fits; Smith says it was not Ayrton who threw it, and counts it among the incidents he has not been able to explain (II.18 ¶17, ¶18, ¶20). *(Drafted.)*
+    - quote: Aussi n’est-ce pas lui qui l’a jetée, mon cher Spilett
+    - quote: Je me contente de ranger cet incident parmi ceux que je n’ai pu expliquer jusqu’à ce jour
+  - Smith lists it among the strange facts of the island: the bottle containing the document offered itself so opportunely at the first excursion at sea, and the document that Ayrton claims never to have written fell into the colonists’ hands (II.20 ¶49). *(Drafted.)*
+    - quote: cette bouteille renfermant le document s’est offerte si à propos, lors de notre première excursion en mer
+    - quote: le document qu’Ayrton prétend n’avoir jamais écrit est tombé entre nos mains
+- **Appears in:** II.9, II.12, II.13, II.15, II.16, II.17, II.18, II.20
 - **Open:**
   - Distance from the coast: the Bonadventure is "half a mile from the coast" when she nears port Ballon, and the bottle is taken "a few cable lengths" from it; whether these are the same distance is not said (II.12 ¶123, ¶130). *(Drafted.)*
     - quote: On n’était plus qu’à un demi-mille de la côte
@@ -61,3 +73,6 @@ Keywords: bouteille, bottle, document, message, naufragé, castaway, Tabor, Harb
     - quote: Il faut donc admettre que le document a une date déjà ancienne ?
     - quote: Il y aurait donc, par conséquent, plusieurs années qu’il aurait écrit ce document
     - quote: le document semblait récemment écrit
+  - Smith’s explanations differ: to the colonists he says that the throwing can be explained only by Ayrton’s being already half mad, and that Ayrton lost his intelligence much later than he thinks (II.18 ¶7, ¶9); to Spilett next day he says "Aussi n’est-ce pas lui qui l’a jetée" (II.18 ¶18); card neither (II.18 ¶7, ¶9, ¶18). *(Drafted.)*
+    - quote: Cela ne peut s’expliquer qu’ainsi
+    - quote: Aussi n’est-ce pas lui qui l’a jetée

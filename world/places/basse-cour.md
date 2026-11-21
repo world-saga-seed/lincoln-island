@@ -37,4 +37,9 @@ Keywords: basse-cour, poultry yard, volaille, palissade, cahutes, tinamous, cana
   - Standing on the Grande-Vue plateau, directly exposed to the east wind, it is considerably damaged by the winter gales: the dovecote unroofed twice and the barrier blown down (II.11 ¶76). *(Drafted.)*
     - quote: la basse-cour, établie sur le plateau de Grande-Vue, et, par conséquent, directement exposée aux coups du vent d’est, eut à subir des dégâts assez considérables
     - quote: la barrière s’abattit également
-- **Appears in:** II.7, II.8, II.9, II.11
+  - Its inhabitants multiply so fast that the colony lives on the surplus and its population must be brought down to a more moderate number; the pigs have already had young (II.18 ¶54). *(Drafted.)*
+    - quote: Les hôtes de la basse-cour pullulaient
+    - quote: ramener sa population à un chiffre plus modéré
+  - The winter gales damage it, with the windmill, more than other places, and urgent repairs are needed to save the fowl (II.20 ¶75). *(Drafted.)*
+    - quote: Le moulin et la basse-cour eurent particulièrement à souffrir
+- **Appears in:** II.7, II.8, II.9, II.11, II.17, II.18, II.20

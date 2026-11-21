@@ -40,7 +40,13 @@ Keywords: marais, marécage, marsh, fen, tadornes, sheldrake, south-east, wildfo
     - quote: dans le sud-est de l’île, vers le marais des tadornes
     - quote: le gibier aquatique, qui établissait là ses quartiers d’hiver
     - quote: Canards sauvages, bécassines, pilets, sarcelles, grèbes, y abondaient
-- **Appears in:** I.21, I.22, II.2, II.11
+  - The "vastes marais des tadornes" give fine hunts in the great cold, with myriads of ducks, snipe, teal, pintails and lapwings (II.20 ¶77). *(Drafted.)*
+    - quote: les vastes marais des tadornes
+    - quote: de canards, de bécassines, de sarcelles, de pilets et de vanneaux
+  - Its game territory is easy to reach, by the port Ballon road after the Mercy bridge or by the rocks of the pointe de l’Épave, and the hunters go no more than two or three miles from Granite-house (II.20 ¶77). *(Drafted.)*
+    - quote: L’accès de ce giboyeux territoire était facile
+    - quote: par la route du port Ballon, après avoir passé le pont de la Mercy
+- **Appears in:** I.21, I.22, II.2, II.11, II.20
 - **Open:**
   - Where the marshy part lies: I.11 ¶32 speaks of stagnant water "dans la portion marécageuse du nord-est", and I.21 ¶7 puts the marsh in the south-east between the Mercy and cape Griffe. Card neither as one marsh. *(Drafted.)*
     - quote: dans la portion marécageuse du nord-est

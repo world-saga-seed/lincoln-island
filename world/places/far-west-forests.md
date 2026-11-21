@@ -55,7 +55,9 @@ Keywords: Far-West, forêts, bois, woods, forest, Serpentine, impenetrable, for�
     - quote: dans le sud-ouest du Far-West
   - Parts of it, still unexplored in the autumn, are rich in game (II.12 ¶85). *(Drafted.)*
     - quote: quelques parties jusque-là inexplorées des forêts du Far-West, qui étaient fort giboyeuses
-- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12
+  - In the depths of the forests the explorers need not fear the heat, since the sun’s rays scarcely pierce the thick foliage entangled overhead (II.18 ¶55). *(Drafted.)*
+    - quote: les rayons solaires perçaient à peine l’épaisse ramure
+- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12, II.18
 - **Open:**
   - How much of the great forest the name covers: I.11 ¶32 says the trees make "two thirds" of the island a forest; I.11 ¶27 has the forest cover the whole south from the mountain to the shore; ¶81 gives the name to the woods of the Serpentine peninsula. The three do not say how they overlap, nor whether it takes in [the evergreen forest](the-evergreen-forest.md) or [the wood of the Jacamar](jacamar-wood.md). Card neither.
     - quote: très-boisée dans toute sa portion méridionale depuis la montagne jusqu’au littoral

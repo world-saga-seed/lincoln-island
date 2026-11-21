@@ -26,4 +26,9 @@ Keywords: canard sauvage, wild duck, gibier, game, vol, flight, flèche, arrow, 
     - quote: le gibier, par ce froid intense, se gardait parfaitement
     - quote: canards sauvages et autres furent mangés frais
     - quote: déclarés supérieurs à toutes autres bêtes aquatiques du monde connu
-- **Appears in:** I.12, I.14, I.21, I.22, II.11, II.12
+  - Wild ducks are shot in strings, with snipe, on the north coast (II.19 ¶53, ¶54). *(Drafted.)*
+    - quote: mouilla dans un léger renfoncement du littoral, au nord de l’île
+    - quote: plusieurs chapelets de canards et de bécassines
+  - In the great cold they swarm by myriads in the tadornes' marshes, with snipe, teal, pintails and lapwings (II.20 ¶77). *(Drafted.)*
+    - quote: au milieu de ces myriades de canards, de bécassines, de sarcelles, de pilets et de vanneaux
+- **Appears in:** I.12, I.14, I.21, I.22, II.11, II.12, II.19, II.20

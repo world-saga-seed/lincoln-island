@@ -48,7 +48,7 @@ The 2nd of June dawned in rain. A cold rain, driven by a wind which had gone rou
 
 There were picks and shovels in the storeroom, and Pencroff thought of them. But a man does not carry a pick down a ladder to lift his lines, and the engineer would have asked what it was for. The tools stayed behind, and the sailor had his knife, one of the two blades made from Top's collar; and that was all.
 
-Toward eight o'clock the ebb began to near its lowest. Pencroff turned up the collar of his jacket, and said aloud that the fish did not mind the rain, if he did, and went out by the door, Herbert after him. Neb called to them that they were two madmen, and went back to his pots.
+Toward eight o'clock the ebb began to near its lowest. Pencroff turned up the collar of his jacket, and said aloud that the fish did not mind the rain, if he did, and went out by the door, Herbert after him. Neb called after the sailor that he was a madman, and went back to his pots.
 
 At the foot of the wall the two companions took off their shoes, which were much worn, set them under the rock, and rolled their trousers to the knee. The sand was hard under their feet, and the water in the pools was cold enough to numb them. They went first to the lines at the mouth of the Mercy, and Pencroff hauled them in, one after the other; the hooks came up with their bait untouched.
 
@@ -78,7 +78,7 @@ The sailor might well say so.
 
 Only in late years had the fishermen of the north of Europe, in the cod fisheries of Norway, begun to buoy their great nets with globes of blown glass, which do not drink the water as cork does, and neither rot nor sink. They were still a novelty of the northern seas, and an American sailor had very likely never seen one.
 
-The sea opens strange roads to floating bodies. In the South Pacific the waters turn in a great round: up the coasts of Chile and Peru, westward below the line, then south, and back to the east under the westerly winds; and whatever falls into that round, a spar, a cask, a float, it carries for months and for years. The sea is patient, and sooner or later it brings in everything that it does not sink.
+The sea opens strange roads to floating bodies. In the South Pacific the waters turn in a great round: up the coasts of Chile and Peru, westward below the line, then south, and back to the east under the westerly winds; and whatever falls into that round, a spar, a cask, a float, it carries for months and for years.
 
 Herbert picked up a stone from the bar and began to knock away the crust, a little at a time, holding his hand very lightly, for fear of cracking the glass. Pencroff, on his knees, held the ball steady with both hands, and kept one eye upon the water.
 
@@ -116,7 +116,7 @@ Herbert looked at them a long while, his stone in his hand.
 
 "Latin, I think," said he; "but a word in Latin may be read a dozen ways, and here there are not letters enough to choose among them."
 
-The two bent over these three letters, the lad trying the crust again between the B and the L, the sailor with his eyes upon them, and for a while even Pencroff forgot to watch the water. The hour of low water went by in this way.
+The two bent over these three letters, the lad trying the crust again between the B and the L, the sailor with his eyes upon them; and Pencroff, who had looked once at the gut and judged they had the half hour yet, bent over them again. The hour of low water went by in this way.
 
 A sound made them look up.
 
@@ -144,11 +144,9 @@ At the foot of the ladder Herbert stopped.
 
 "We must tell Mr. Smith, Pencroff."
 
-"Tell him what, my boy?" answered the sailor. "That a thing made by men's hands lay on the bar, and is gone? What should we be giving them but a hope, and nothing to show for it?"
+"And so we shall, my boy, when we have something to show him," answered the sailor. "What should we be giving them now but a hope?"
 
-Herbert thought a moment, and owned that he was right. "Then no one need know that I took a ducking," said he.
-
-The sailor looked at him, and said nothing; and they went up. The ladder streamed with water, and they came into Granite House wet to the skin.
+Herbert thought a moment, and owned that he was right; and they went up. The ladder streamed with water, and they came into Granite House wet to the skin.
 
 "Well, Pencroff," said the reporter, "what has the sea given you this morning?"
 

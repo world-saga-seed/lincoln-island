@@ -6,3 +6,5 @@
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-20 | the author's session, 17:47Z to 20:25Z | phase 0 planning (upper bound; out 39,394) | | | | 7,876,544 | 61 | 150 |
 | 2026-11-20 | the author's session, 2026-11-21 04:17Z on | phase 0 answers (upper bound; out 40,043) | | | | 20,044,050 | 65 | 34 |
+| 2026-11-20 | agent, Sonnet: carder, people | budget sample (card-existing) | I.1, I.13, III.16 | 10,234 | whole files: the three chapters, the card form, texts/README, CLAUDE.md | 112,859 | 17 | 5.2 |
+| 2026-11-20 | agent, Sonnet: carder, places and things | budget sample (card-existing) | I.1, I.13, III.16 | 10,234 | whole files: the three chapters, the card form, texts/README, CLAUDE.md | 138,953 | 16 | 8.3 |

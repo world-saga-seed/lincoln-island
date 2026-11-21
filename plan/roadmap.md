@@ -13,4 +13,4 @@ Phases 0 and 1 are done and committed. The working texts are in `texts/`: the Fr
 
 ## Waiting
 
-- **The author:** whether to fetch and card *Les Enfants du capitaine Grant* under R1120-25's rule (II.17 n1 names it as Ayrton's source). The question and recommendation are in `tasks/task-20261120-01-sources/intake.md`.
+- Nothing.

@@ -1,0 +1,67 @@
+# Pencroff: sailor and jack-of-all-trades
+
+*A sailor who was also shipwright, tailor's aide and gardener, who makes the bows and pipes and misses tobacco.*
+
+Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe, tobacco, colonist
+
+- **What it is.**
+  - He had been a sailor on every ocean (I.13 ¶8). *(Drafted.)*
+    - quote: il avait été marin sur tous les océans
+  - He had been a carpenter in the shipyards of Brooklyn (I.13 ¶8). *(Drafted.)*
+    - quote: charpentier dans les chantiers de construction de Brooklyn
+  - He had been a tailor's assistant on state vessels (I.13 ¶8). *(Drafted.)*
+    - quote: aide-tailleur sur les bâtiments de l’état
+  - He had been a gardener and farmer during his leaves (I.13 ¶8). *(Drafted.)*
+    - quote: jardinier, cultivateur, pendant ses congés
+  - Like sea people, he is fit for everything and knows how to do everything (I.13 ¶8). *(Drafted.)*
+    - quote: il savait tout faire
+  - He is called "le marin" in the narration (I.13 ¶18). *(Drafted.)*
+    - quote: s’écria le marin
+  - He is one of five men judged hard to match for fighting fate (I.13 ¶9). *(Drafted.)*
+    - quote: cinq hommes plus propres à lutter contre le sort
+  - He is one of the Americans described as religious men (I.13 ¶50). *(Drafted.)*
+    - quote: Ces Américains étaient des hommes religieux
+- **On the page.**
+  - He asks Cyrus where they are to begin (I.13 ¶1). *(Drafted.)*
+    - quote: par où allons-nous commencer
+  - He asks what the kiln will be for (I.13 ¶11). *(Drafted.)*
+    - quote: À quoi servira ce four ?
+  - He cries that with only a knife he would soon make a bow and arrows, and game would abound (I.13 ¶20). *(Drafted.)*
+    - quote: j’aurais vite fait de fabriquer un arc et des flèches
+  - He answers Cyrus's two knives with two hurrahs (I.13 ¶27). *(Drafted.)*
+    - quote: Deux hurrahs du marin lui répondirent.
+  - He gets bows of good strength from crejimba branches strung with hibiscus fibre (I.13 ¶30). *(Drafted.)*
+    - quote: Pencroff obtint ainsi des arcs d’une assez grande puissance
+  - He tells himself that, having done his share, chance would supply arrow tips (I.13 ¶30). *(Drafted.)*
+    - quote: le hasard ferait le reste
+  - He has some dozens of arrows tipped with porcupine quills that Top retrieved (I.13 ¶36). *(Drafted.)*
+    - quote: Pencroff possédait maintenant quelques douzaines de flèches armées de pointes très-acérées
+  - He clamours for guns (I.13 ¶39). *(Drafted.)*
+    - quote: un de ces fusils que réclamait Pencroff
+  - He helps Nab haul limestone for lime (I.13 ¶44). *(Drafted.)*
+    - quote: Nab et Pencroff, guidés par Cyrus Smith
+  - He is almost ready to believe the kiln will turn out every product of modern industry (I.13 ¶46). *(Drafted.)*
+    - quote: Pencroff n’était pas éloigné de croire que de ce four allaient sortir tous les produits de l’industrie moderne
+  - He makes himself some rough pipes from the clay and finds them charming (I.13 ¶48). *(Drafted.)*
+    - quote: se fabriqua quelques pipes assez grossières, qu’il trouva charmantes
+  - He misses tobacco, a great privation for him (I.13 ¶48). *(Drafted.)*
+    - quote: c’était une grosse privation pour Pencroff
+  - He keeps saying that tobacco will come like all things, in his surges of absolute confidence (I.13 ¶49). *(Drafted.)*
+    - quote: Mais le tabac viendra, comme toutes choses !
+  - He asks, on seeing the mugwort, whether it is tobacco (I.13 ¶54). *(Drafted.)*
+    - quote: Est-ce du tabac ?
+  - He stands aside with the others in Nemo's salon (III.16 ¶8). *(Drafted.)*
+    - quote: Ayrton, Pencroff, Harbert et Nab se tenaient respectueusement à l’écart
+  - He and Nab had expected to find almost a god in the "génie de l’île" (III.16 ¶10). *(Drafted.)*
+    - quote: là où Pencroff et Nab croyaient trouver presque un dieu
+- **Habits.**
+  - He smokes a pipe, or would if he had tobacco (I.13 ¶48). *(Drafted.)*
+    - quote: auxquelles le tabac manquait, hélas !
+  - He is confident of every outcome (I.13 ¶49). *(Drafted.)*
+    - quote: ses élans de confiance absolue
+  - He can turn his hand to any trade, as seamen do (I.13 ¶8). *(Drafted.)*
+    - quote: propre à tout
+- **Appears in:** I.13, III.16
+- **Open:**
+  - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
+    - quote: charpentier dans les chantiers de construction de Brooklyn

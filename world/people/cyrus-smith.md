@@ -1,0 +1,119 @@
+# Cyrus Smith: engineer, leader of the castaways
+
+*The engineer who directs the colonists' first work on Lincoln Island and who recognises Captain Nemo.*
+
+Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, Southern Cross, Nemo's guest, Top's master
+
+- **What it is.**
+  - An engineer, called "l’ingénieur Smith" in the narration (I.13 ¶4). *(Drafted.)*
+    - quote: L’ingénieur Smith
+  - He is addressed as "monsieur Cyrus" in the balloon's basket; the text there does not name the person addressed (I.1 ¶3). *(My reading, to confirm.)*
+    - quote: monsieur Cyrus
+  - He could not have been better seconded than by his companions, whose aptitudes he had learned by questioning them (I.13 ¶4). *(Drafted.)*
+    - quote: ne pouvait être secondé par de plus intelligents compagnons
+  - He had questioned his companions about what they could do (I.13 ¶4). *(Drafted.)*
+    - quote: Il les avait interrogés.
+  - He is the master of the dog Top (I.13 ¶25). *(Drafted.)*
+    - quote: à l’appel de son maître
+  - He is one of five men judged hard to match for fighting fate (I.13 ¶9). *(Drafted.)*
+    - quote: cinq hommes plus propres à lutter contre le sort
+  - He is one of the Americans described as religious men who keep the Bible's precepts (I.13 ¶50). *(Drafted.)*
+    - quote: Ces Américains étaient des hommes religieux
+  - He was thrown into the sea when the balloon fell (III.16 ¶62). *(Drafted.)*
+    - quote: lorsque l’ingénieur fut précipité dans la mer
+  - The balloon carried prisoners of the Southerners (III.16 ¶62). *(Drafted.)*
+    - quote: ballon qui emportait les prisonniers des sudistes
+  - Captain Nemo saved him from the sea (III.16 ¶62). *(Drafted.)*
+    - quote: il sauva Cyrus Smith
+- **On the page.**
+  - Asked by Pencroff where to begin, he answers that they begin at the beginning (I.13 ¶2). *(Drafted.)*
+    - quote: Par le commencement,
+  - He says the first need is a kiln, to make pottery (I.13 ¶12). *(Drafted.)*
+    - quote: À fabriquer la poterie dont nous avons besoin
+  - He decides to set the workshop at the clay itself, to avoid carrying (I.13 ¶16). *(Drafted.)*
+    - quote: nous établirons notre atelier au lieu même de production
+  - Wishing for a knife, he speaks as if to himself (I.13 ¶21). *(Drafted.)*
+    - quote: comme s’il se fût parlé à lui-même
+  - His look brightens when it falls on Top (I.13 ¶23). *(Drafted.)*
+    - quote: le regard de Cyrus Smith s’anima
+  - He breaks Top's collar in two and calls the halves two knives (I.13 ¶26). *(Drafted.)*
+    - quote: Voilà deux couteaux, Pencroff !
+  - He leads the party back to the clay he had noticed on the lake's western shore (I.13 ¶29). *(Drafted.)*
+    - quote: L’intention de Cyrus Smith était de retourner à la rive occidentale du lac
+  - He makes the bricks by hand, without moulds (I.13 ¶32). *(Drafted.)*
+    - quote: l’ingénieur se contenta de les fabriquer à la main
+  - On 2 April he sets about fixing the island's orientation (I.13 ¶33). *(Drafted.)*
+    - quote: Cyrus Smith s’occupa de fixer l’orientation de l’île
+  - He takes the sun's meridian passage from the noted times of sunset and sunrise, and sets two trees in line with it as a fixed meridian (I.13 ¶35). *(Drafted.)*
+    - quote: une méridienne invariable pour ses opérations ultérieures
+  - He warns the hunters to be extremely prudent, since large clawed animals have passed (I.13 ¶38). *(Drafted.)*
+    - quote: Cyrus Smith leur recommanda donc une extrême prudence
+  - He means to find or build a better dwelling than the Chimneys (I.13 ¶40). *(Drafted.)*
+    - quote: l’ingénieur comptait découvrir ou bâtir, s’il le fallait, une demeure plus convenable
+  - He guides Nab and Pencroff in carrying limestone, which gives quicklime and, with sand, mortar (I.13 ¶44). *(Drafted.)*
+    - quote: guidés par Cyrus Smith
+  - He had found an open-air coal seam near the mouth of Red Creek (I.13 ¶46). *(Drafted.)*
+    - quote: l’ingénieur avait découvert un gisement à ciel ouvert
+  - He has a little lime and quartz added to the clay for the pottery (I.13 ¶47). *(Drafted.)*
+    - quote: Cyrus Smith fit ajouter un peu de chaux et du quartz
+  - He will turn the colonists into smiths whenever he sees fit (I.13 ¶50). *(Drafted.)*
+    - quote: Quand il conviendrait à Cyrus Smith de les changer en forgerons
+  - He finds a plant of the wormwood genus that can replace tinder (I.13 ¶51). *(Drafted.)*
+    - quote: l’ingénieur, ayant reconnu une certaine plante appartenant au genre armoise
+  - He tells Pencroff it is not tobacco but Chinese mugwort, tinder for them (I.13 ¶55). *(Drafted.)*
+    - quote: ce sera de l’amadou
+  - He later soaks it in potassium nitrate, of which the island has several beds (I.13 ¶56). *(Drafted.)*
+    - quote: l’ingénieur l’eut imprégnée de ce nitrate de potasse
+  - He had saluted the Southern Cross from the summit of Mount Franklin some days earlier (I.13 ¶58). *(Drafted.)*
+    - quote: que l’ingénieur, quelques jours auparavant, saluait à la cime du mont Franklin
+  - He tells Harbert that next day true and mean time coincide, and that he may find the island's longitude (I.13 ¶63). *(Drafted.)*
+    - quote: obtenir la longitude de l’île
+  - He says he will try tonight for the latitude from the height of the Southern Cross, since they need to know the island's distance from the continents and archipelagos (I.13 ¶65). *(Drafted.)*
+    - quote: obtenir notre latitude en calculant la hauteur de la Croix du Sud
+  - Without a sextant, he cuts two small flat rules and joins them into a compass, pinned with an acacia thorn (I.13 ¶69). *(Drafted.)*
+    - quote: il tailla deux petites règles plates
+  - He chooses the Grande-Vue plateau for the sighting because Cape Claw hides the southern horizon (I.13 ¶70). *(Drafted.)*
+    - quote: le cap Griffe lui cachait l’horizon du sud
+  - He sights the horizon and the star alpha with the two arms and pins the arms to a third board to keep the angle (I.13 ¶76). *(Drafted.)*
+    - quote: il piqua, au moyen d’épines, les deux planchettes de son appareil sur une troisième
+  - On seeing Captain Nemo he says "Je vous connais !" (III.16 ¶4). *(Drafted.)*
+    - quote: Je vous connais !
+  - He approaches Nemo's couch (III.16 ¶8). *(Drafted.)*
+    - quote: Cyrus Smith s’approcha du capitaine Nemo
+  - He says he knows the name of the submarine apparatus, the Nautilus (III.16 ¶14). *(Drafted.)*
+    - quote: comme je sais le nom de cet admirable appareil sous-marin
+  - He tells Nemo that a man who had made no pledge to him, and so cannot be called a traitor, gave the secret away (III.16 ¶20). *(Drafted.)*
+    - quote: Un homme qui n’avait jamais pris d’engagement envers vous
+  - He says a book titled "Vingt mille Lieues sous les mers" contains Nemo's story (III.16 ¶24). *(Drafted.)*
+    - quote: il a paru, sous le titre de Vingt mille Lieues sous les mers, un ouvrage qui contient votre histoire
+  - He says he has no call to judge Nemo's past life and, like everyone, does not know its motives (III.16 ¶30). *(Drafted.)*
+    - quote: Je n’ai point à juger le capitaine Nemo
+  - He names Nemo as the good, generous, powerful being to whom they owe their lives (III.16 ¶30). *(Drafted.)*
+    - quote: cet être puissant, généreux et bon, c’est vous, capitaine Nemo !
+  - He urges Nemo several times to rest (III.16 ¶36). *(Drafted.)*
+    - quote: Cyrus Smith l’engagea à prendre quelque repos
+  - After the life story he recalls all the incidents that helped the colony and thanks Nemo (III.16 ¶67). *(Drafted.)*
+    - quote: il rappela tous les incidents qui avaient exercé sur la colonie une si salutaire influence
+  - He understands Nemo's allusion to the sunk frigate and does not answer (III.16 ¶72). *(Drafted.)*
+    - quote: Cyrus Smith comprit l’allusion et demeura sans répondre
+  - Asked his view, he says Nemo's error was to believe the past could be revived (III.16 ¶79). *(Drafted.)*
+    - quote: votre tort est d’avoir cru qu’on pouvait ressusciter le passé
+  - He tells Nemo history will not condemn his name (III.16 ¶79). *(Drafted.)*
+    - quote: votre nom n’a rien à redouter des jugements de l’histoire
+  - He tells Nemo the honest men he helped will mourn him for ever (III.16 ¶83). *(Drafted.)*
+    - quote: vous pleureront à jamais
+- **Habits.**
+  - He notes exactly the hour the sun vanishes and the hour it rises, allowing for refraction (I.13 ¶34). *(Drafted.)*
+    - quote: il avait noté exactement l’heure à laquelle le soleil avait disparu sous l’horizon
+  - He prepares each observation and makes his own instrument when one is lacking (I.13 ¶68). *(Drafted.)*
+    - quote: l’appareil manquant, il fallait le suppléer
+  - He plans the next day's calculation (the plateau's height) while making tonight's sighting (I.13 ¶71). *(Drafted.)*
+    - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
+- **Appears in:** I.1, I.13, III.16
+- **Open:**
+  - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
+    - quote: Le passager manquant avait évidemment été enlevé par le coup de mer
+  - III.16 refers to the earlier book, "Vingt mille Lieues sous les mers", as the source of what Cyrus knows of Nemo; these chapters do not say how Cyrus came by it (III.16 ¶24). *(Drafted.)*
+    - quote: il a paru, sous le titre de Vingt mille Lieues sous les mers, un ouvrage qui contient votre histoire
+  - The editor warns that some dates disagree with the earlier books (III.16 n1). *(Drafted.)*
+    - quote: sur la discordance de quelques dates

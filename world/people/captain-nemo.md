@@ -1,0 +1,228 @@
+# Captain Nemo: Prince Dakkar of Bundelkund, commander of the Nautilus
+
+*An Indian prince turned submariner, dying beneath Lincoln Island, who is the colonists' unseen benefactor and tells his life to Cyrus Smith.*
+
+Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, benefactor, genius of the island, nobody
+
+- **What it is.**
+  - At first he says he has no name (III.16 ¶3). *(Drafted.)*
+    - quote: Je n’ai pas de nom, monsieur.
+  - He speaks English (III.16 ¶2). *(Drafted.)*
+    - quote: quand il dit en anglais
+  - He is called "le capitaine Nemo" (III.16 ¶5). *(Drafted.)*
+    - quote: Le capitaine Nemo fixa un regard ardent sur l’ingénieur
+  - He was an Indian, Prince Dakkar (III.16 ¶38). *(Drafted.)*
+    - quote: Le capitaine Nemo était un Indien, le prince Dakkar
+  - He was the son of a rajah of the then independent territory of Bundelkund (III.16 ¶38). *(Drafted.)*
+    - quote: fils d’un rajah du territoire alors indépendant du Bundelkund
+  - He was the nephew of the Indian hero Tippo-Saïb (III.16 ¶38). *(Drafted.)*
+    - quote: neveu du héros de l’Inde, Tippo-Saïb
+  - His father sent him to Europe at ten for a complete education (III.16 ¶38). *(Drafted.)*
+    - quote: dès l’âge de dix ans, l’envoya en Europe, afin qu’il y reçût une éducation complète
+  - His father hoped he might one day fight on equal terms those he saw as his country's oppressors (III.16 ¶38). *(Drafted.)*
+    - quote: dans la secrète intention qu’il pût lutter un jour, à armes égales
+  - From ten to thirty he studied everything, in the sciences, letters and arts (III.16 ¶39). *(Drafted.)*
+    - quote: De dix ans à trente ans
+  - He is called the colonists' "génie de l’île" (III.16 ¶10). *(Drafted.)*
+    - quote: le « génie de l’île »
+  - In the end he is a man only, where Pencroff and Nab expected almost a god (III.16 ¶10). *(Drafted.)*
+    - quote: Devant les yeux, ils n’avaient qu’un homme
+  - The narrator calls him a great misanthrope who thirsted to do good (III.16 ¶66). *(Drafted.)*
+    - quote: ce grand misanthrope avait soif du bien
+- **On the page.**
+  - He has a magnificent head, high forehead, proud look, white beard and abundant hair swept back (III.16 ¶1). *(Drafted.)*
+    - quote: tête magnifique, front haut, regard fier, barbe blanche, chevelure abondante et rejetée en arrière
+  - His look is calm; a slow illness has worn him down, yet his voice is still strong (III.16 ¶2). *(Drafted.)*
+    - quote: une maladie lente l’avait miné peu à peu
+  - He fixes an ardent look on the engineer, as if to annihilate him (III.16 ¶5). *(Drafted.)*
+    - quote: comme s’il eût voulu l’anéantir
+  - He says that, after all, he is going to die (III.16 ¶7). *(Drafted.)*
+    - quote: je vais mourir
+  - His hand is burning (III.16 ¶8). *(Drafted.)*
+    - quote: qu’il trouva brûlante
+  - He withdraws his hand at once and signs to the engineer and reporter to sit (III.16 ¶9). *(Drafted.)*
+    - quote: le capitaine Nemo avait aussitôt retiré sa main
+  - He smiles half-way when the Nautilus is named (III.16 ¶15). *(Drafted.)*
+    - quote: dit en souriant à demi le capitaine
+  - He asks whether Cyrus Smith knows who he is, and Cyrus says he does (III.16 ¶17-18). *(Drafted.)*
+    - quote: savez-vous qui je suis ?
+  - He asks who could have betrayed his secret (III.16 ¶19). *(Drafted.)*
+    - quote: Qui donc a pu trahir mon secret ?
+  - He says he has lived in the depths of the sea, the only place where he found independence (III.16 ¶19). *(Drafted.)*
+    - quote: le seul milieu où j’aie trouvé l’indépendance
+  - He says the book holds only a history of some months of his life (III.16 ¶25). *(Drafted.)*
+    - quote: Mon histoire de quelques mois seulement, monsieur !
+  - With a haughty smile he calls himself a great culprit, a rebel put perhaps outside humanity's pale (III.16 ¶27). *(Drafted.)*
+    - quote: un révolté, mis peut-être au ban de l’humanité
+  - Told that he is the benefactor, he answers simply that it is he (III.16 ¶31). *(Drafted.)*
+    - quote: C’est moi, » répondit simplement le capitaine.
+  - He stops the colonists' thanks with a sign, until they have heard him (III.16 ¶34). *(Drafted.)*
+    - quote: Quand vous m’aurez entendu
+  - He tells his whole life in a few clear, hurried phrases (III.16 ¶35). *(Drafted.)*
+    - quote: en quelques phrases nettes et pressées, fit connaître sa vie tout entière
+  - He fights extreme weakness to tell it to the end (III.16 ¶36). *(Drafted.)*
+    - quote: il luttait contre une extrême faiblesse
+  - He shakes his head, as a man for whom tomorrow no longer exists (III.16 ¶36). *(Drafted.)*
+    - quote: en homme auquel le lendemain n’appartient plus
+  - He refuses the reporter's care: his hours are counted (III.16 ¶37). *(Drafted.)*
+    - quote: mes heures sont comptées
+  - His fortune and noble birth made him sought after, but worldly seductions never attracted him (III.16 ¶40). *(Drafted.)*
+    - quote: les séductions du monde ne l’attirèrent jamais
+  - Young and handsome, he stayed serious and sombre, devoured by thirst to learn and with an implacable resentment riveted to his heart (III.16 ¶40). *(Drafted.)*
+    - quote: dévoré de la soif d’apprendre, ayant un implacable ressentiment rivé au cœur
+  - He hated England, the only country where he had never wished to set foot, and all the more because he admired it on more than one point (III.16 ¶41). *(Drafted.)*
+    - quote: il haïssait l’Angleterre et d’autant plus que sur plus d’un point il l’admirait
+  - He would never set foot on English soil (III.16 ¶42). *(Drafted.)*
+    - quote: ne voulut jamais poser le pied sur cette terre par lui maudite
+  - He became an artist, a scholar and a statesman formed among European courts (III.16 ¶43). *(Drafted.)*
+    - quote: un artiste que les merveilles de l’art impressionnaient noblement
+  - Observers who saw him incompletely took him for a rich cosmopolitan traveller (III.16 ¶43). *(Drafted.)*
+    - quote: pour un de ces opulents voyageurs
+  - He remained an Indian at heart, in desire for vengeance and hope of freeing his country (III.16 ¶44). *(Drafted.)*
+    - quote: Indien par l’espoir qu’il nourrissait de pouvoir revendiquer un jour les droits de son pays
+  - He returned to Bundelkund in 1849 (III.16 ¶45). *(Drafted.)*
+    - quote: revint-il au Bundelkund dans l’année 1849
+  - He married a noble Indian woman who grieved as he did over their country's woes (III.16 ¶45). *(Drafted.)*
+    - quote: Il se maria avec une noble Indienne
+  - He had two children, whom he cherished (III.16 ¶45). *(Drafted.)*
+    - quote: Il en eut deux enfants qu’il chérissait.
+  - He gave voice to the discontented and travelled the independent and the British-ruled regions (III.16 ¶46). *(Drafted.)*
+    - quote: Le prince Dakkar emprunta la voix des mécontents.
+  - He was the soul of the great sepoy revolt of 1857 and organised the uprising (III.16 ¶47). *(Drafted.)*
+    - quote: Le prince Dakkar en fut l’âme.
+  - He put his talents and riches at the cause's service (III.16 ¶47). *(Drafted.)*
+    - quote: Il mit ses talents et ses richesses au service de cette cause.
+  - He fought in the front rank and was wounded ten times in twenty encounters, without finding death (III.16 ¶47). *(Drafted.)*
+    - quote: il fut blessé dix fois en vingt rencontres
+  - His name became famous, and he fought openly (III.16 ¶49). *(Drafted.)*
+    - quote: Le héros qui le portait ne se cacha pas et lutta ouvertement.
+  - His head was put at a price, and no traitor delivered it (III.16 ¶49). *(Drafted.)*
+    - quote: Sa tête fut mise à prix
+  - His father, mother, wife and children paid for him (III.16 ¶49). *(Drafted.)*
+    - quote: son père, sa mère, sa femme, ses enfants payèrent pour lui
+  - After the defeat he went back, alone, to the Bundelkund mountains, filled with disgust for all that bore the name of man (III.16 ¶51). *(Drafted.)*
+    - quote: pris d’un immense dégoût contre tout ce qui portait le nom d’homme
+  - He sold the remains of his fortune and gathered about twenty faithful companions, and one day all vanished (III.16 ¶51). *(Drafted.)*
+    - quote: réunit une vingtaine de ses plus fidèles compagnons
+  - He sought, beneath the sea, the independence the inhabited land refused him (III.16 ¶52). *(Drafted.)*
+    - quote: Sous les eaux, dans la profondeur des mers, où nul ne pouvait le suivre.
+  - A desert island of the Pacific served him as shipyard, where a submarine was built on his plans (III.16 ¶53). *(Drafted.)*
+    - quote: Une île déserte du Pacifique lui servit à établir ses chantiers
+  - He used electricity for motive force, light and heat in his craft (III.16 ¶53). *(Drafted.)*
+    - quote: comme force motrice, force éclairante, force calorifique
+  - He named the craft the Nautilus and himself Captain Nemo, and disappeared under the seas (III.16 ¶53). *(Drafted.)*
+    - quote: il s’appela le capitaine Nemo, et il disparut sous les mers
+  - For many years he visited all oceans from pole to pole, a pariah of the inhabited universe (III.16 ¶54). *(Drafted.)*
+    - quote: Paria de l’univers habité
+  - He drew an inexhaustible mine of wealth from the millions lost at Vigo Bay in 1702 by the Spanish galleons (III.16 ¶54). *(Drafted.)*
+    - quote: Les millions perdus dans la baie de Vigo, en 1702, par les galions espagnols
+  - He gave this wealth always anonymously to peoples fighting for their independence (III.16 ¶54). *(Drafted.)*
+    - quote: anonymement, en faveur des peuples qui se battaient pour l’indépendance de leur pays
+  - The editor says he aided the uprising of the Candiotes in this way (III.16 n2). *(Drafted.)*
+    - quote: Il s’agit du soulèvement des Candiotes
+  - On the night of 6 November 1866 three men were thrown aboard: a French professor, his servant and a Canadian fisherman (III.16 ¶55). *(Drafted.)*
+    - quote: C’étaient un professeur français, son domestique et un pêcheur canadien
+  - Their fall into the sea came from a collision between the Nautilus and the United States frigate "Abraham-Lincoln", which was hunting him (III.16 ¶55). *(Drafted.)*
+    - quote: la frégate des États-Unis l’Abraham-Lincoln, qui lui donnait la chasse
+  - He learned from the professor that the Nautilus, taken for a giant cetacean or a pirate vessel, was hunted on all seas (III.16 ¶56). *(Drafted.)*
+    - quote: était poursuivi sur toutes les mers
+  - He could have returned the three men to the ocean; he kept them prisoners for seven months (III.16 ¶57). *(Drafted.)*
+    - quote: il les garda prisonniers, et, pendant sept mois
+  - The three escaped on 22 June 1867 with the Nautilus's boat (III.16 ¶58). *(Drafted.)*
+    - quote: le 22 juin 1867, ces trois hommes
+  - He believed them drowned in the Maelstrom off Norway (III.16 ¶58). *(Drafted.)*
+    - quote: le capitaine dut croire que les fugitifs
+  - He did not know that they had been cast ashore, taken in by Lofoten fishermen, and that the professor had published the book (III.16 ¶58). *(Drafted.)*
+    - quote: Il ignorait donc que le Français et ses deux compagnons eussent été miraculeusement rejetés à la côte
+  - His companions died one by one and rest in a coral cemetery in the Pacific (III.16 ¶59). *(Drafted.)*
+    - quote: leur cimetière de corail, au fond du Pacifique
+  - He was left alone of all who had taken refuge with him (III.16 ¶59). *(Drafted.)*
+    - quote: le capitaine Nemo resta seul de tous ceux qui s’étaient réfugiés avec lui
+  - Alone, he brought the Nautilus to one of the submarine ports he sometimes used (III.16 ¶60). *(Drafted.)*
+    - quote: un des ports sous-marins qui lui servaient quelquefois de points de relâche
+  - One such port was hollowed under Lincoln Island and now shelters the Nautilus (III.16 ¶61). *(Drafted.)*
+    - quote: L’un de ces ports était creusé sous l’île Lincoln
+  - He waited there six years, no longer sailing, waiting for death (III.16 ¶62). *(Drafted.)*
+    - quote: Depuis six ans, le capitaine était là, ne naviguant plus, attendant la mort
+  - He saw the balloon fall, while walking under the water in his diving suit (III.16 ¶62). *(Drafted.)*
+    - quote: Revêtu de son scaphandre
+  - A good impulse made him save Cyrus Smith (III.16 ¶62). *(Drafted.)*
+    - quote: Un bon mouvement entraîna le capitaine
+  - At first he wanted to flee the five castaways, but his harbour was shut (III.16 ¶63). *(Drafted.)*
+    - quote: son port de refuge était fermé
+  - The entrance of the crypt was blocked by a basalt rise under volcanic action, too shallow for the Nautilus (III.16 ¶63). *(Drafted.)*
+    - quote: par suite d’un exhaussement du basalte qui s’était produit sous l’influence des actions volcaniques
+  - He watched the castaways but would not be seen (III.16 ¶64). *(Drafted.)*
+    - quote: mais il ne voulut point être vu
+  - He grew interested in their efforts when he saw them honest, energetic and bound by fraternal friendship (III.16 ¶64). *(Drafted.)*
+    - quote: honnêtes, énergiques, liés les uns aux autres par une amitié fraternelle
+  - With his diving suit he could reach the bottom of Granite House's inner well and climb its rock projections to overhear the colonists (III.16 ¶64). *(Drafted.)*
+    - quote: il entendait les colons raconter le passé, étudier le présent et l’avenir
+  - He learned of America's great effort against herself to abolish slavery (III.16 ¶64). *(Drafted.)*
+    - quote: pour abolir l’esclavage
+  - He was reconciled by these men with the humanity they represented (III.16 ¶64). *(Drafted.)*
+    - quote: réconcilier le capitaine Nemo avec cette humanité
+  - It was he who brought the dog back to the Chimneys and threw Top out of the lake (III.16 ¶65). *(Drafted.)*
+    - quote: qui ramena le chien aux Cheminées, qui rejeta Top des eaux du lac
+  - He stranded at Wreck Point the chest of useful objects (III.16 ¶65). *(Drafted.)*
+    - quote: qui fit échouer à la pointe de l’Épave cette caisse contenant tant d’objets utiles pour les colons
+  - He sent back the canoe into the Mercy's current (III.16 ¶65). *(Drafted.)*
+    - quote: qui renvoya le canot dans le courant de la Mercy
+  - He threw the rope from the top of Granite House when the apes attacked (III.16 ¶65). *(Drafted.)*
+    - quote: qui jeta la corde du haut de Granite-house, lors de l’attaque des singes
+  - He blew up the brig with a torpedo placed on the canal's bed (III.16 ¶65). *(Drafted.)*
+    - quote: qui fit sauter le brick par le choc d’une torpille disposée au fond du canal
+  - He saved Harbert by bringing sulphate of quinine (III.16 ¶65). *(Drafted.)*
+    - quote: qui sauva Harbert d’une mort certaine en apportant le sulfate de quinine
+  - He struck the convicts with electric bullets whose secret was his, used in his underwater hunting (III.16 ¶65). *(Drafted.)*
+    - quote: qui frappa les convicts de ces balles électriques dont il avait le secret
+  - He summoned the colonists by a wire linking the corral to the Nautilus, which had an alphabetic apparatus (III.16 ¶66). *(Drafted.)*
+    - quote: au moyen d’un fil par lequel il relia le corral au Nautilus
+  - He might not have done so had he known that Cyrus Smith knew his history well enough to greet him as Nemo (III.16 ¶66). *(Drafted.)*
+    - quote: peut-être ne l’eût-il pas fait, s’il avait su que Cyrus Smith connaissait assez son histoire
+  - Before taking the engineer's hand, he is stirred by a last thought and asks him to judge his life (III.16 ¶69). *(Drafted.)*
+    - quote: maintenant que vous connaissez ma vie, jugez-la !
+  - He cries that it was an English frigate that attacked him in a narrow, shallow bay, and he passed (III.16 ¶73). *(Drafted.)*
+    - quote: j’ai passé !
+  - He is described as becoming Prince Dakkar again for an instant (III.16 ¶73). *(Drafted.)*
+    - quote: redevenu un instant le prince Dakkar
+  - He says he stood in justice and right and did good where he could, and evil where he must (III.16 ¶75). *(Drafted.)*
+    - quote: J’ai fait partout le bien que j’ai pu, et aussi le mal que j’ai dû.
+  - He says that not all justice lies in forgiving (III.16 ¶75). *(Drafted.)*
+    - quote: Toute justice n’est pas dans le pardon !
+  - He asks "Ai-je eu tort, ai-je eu raison ?" (III.16 ¶81). *(Drafted.)*
+    - quote: Ai-je eu tort, ai-je eu raison ?
+  - A tear slips from the dying man's eyes (III.16 ¶85). *(Drafted.)*
+    - quote: Une larme glissa des yeux du mourant.
+  - He blesses Harbert (III.16 ¶86). *(Drafted.)*
+    - quote: sois béni
+- **Habits.**
+  - He wears a diving suit to walk under the water near the shore (III.16 ¶62). *(Drafted.)*
+    - quote: il se promenait sous les eaux
+  - He hunts under the sea with electric bullets (III.16 ¶65). *(Drafted.)*
+    - quote: qu’il employait dans ses chasses sous-marines
+  - He drew his food from the sea: fish, seaweed, large mammals (III.16 ¶53). *(Drafted.)*
+    - quote: ses myriades de poissons, ses moissons de varechs et de sargasses, ses énormes mammifères
+  - He gave away treasure anonymously to peoples fighting for independence (III.16 ¶54). *(Drafted.)*
+    - quote: toujours, et anonymement
+  - He prefers not to be seen, even while helping (III.16 ¶64). *(Drafted.)*
+    - quote: il ne voulut point être vu
+- **Appears in:** III.16
+- **Open:**
+  - III.16 refers throughout to the earlier book, "Vingt mille Lieues sous les mers" (the professor's account of seven months aboard); the card holds only what III.16 states (III.16 ¶24). *(Drafted.)*
+    - quote: Vingt mille Lieues sous les mers
+  - The editor warns that dates disagree with the earlier books (III.16 n1). *(Drafted.)*
+    - quote: sur la discordance de quelques dates
+  - Disagreement on elapsed time since his withdrawal from the world: Nemo says thirty years (III.16 ¶19), yet the chapter dates the revolt in 1857 and his disappearance after it (III.16 ¶47). Neither is carded.
+    - quote: Il y a pourtant trente années que je n’ai plus aucune communication avec le monde habité
+    - quote: En 1857, la grande révolte des cipayes éclata.
+  - Disagreement on the time since the Frenchman came aboard: "il y a seize ans" (III.16 ¶21), against the night of 6 November 1866 (III.16 ¶55). Neither is carded.
+    - quote: Ce Français que le hasard jeta à mon bord il y a seize ans ?
+    - quote: pendant la nuit du 6 novembre 1866
+  - Disagreement on his age: "soixante ans" when he was left alone (III.16 ¶60), against study from ten to thirty and return in 1849 (III.16 ¶45). Neither is carded.
+    - quote: Le capitaine Nemo avait alors soixante ans.
+    - quote: revint-il au Bundelkund dans l’année 1849
+  - The method of producing his electricity is unrevealed: "par des moyens qui seront connus un jour" (III.16 ¶53). *(Drafted.)*
+    - quote: par des moyens qui seront connus un jour
+  - The fate of his father, mother, wife and children is not stated beyond "payèrent pour lui" (III.16 ¶49). *(Drafted.)*
+    - quote: son père, sa mère, sa femme, ses enfants payèrent pour lui

@@ -50,6 +50,8 @@ There were picks and shovels in the storeroom, and Pencroff thought of them. But
 
 Toward eight o'clock the ebb began to near its lowest. Pencroff turned up the collar of his jacket, and said aloud that the fish did not mind the rain, if he did, and went out by the door, Herbert after him. Neb called to them that they were two madmen, and went back to his pots.
 
+Toward eight o'clock the ebb began to near its lowest. Pencroff turned up the collar of his jacket, and said aloud that the fish did not mind the rain, if he did, and went out by the door, Herbert after him. Neb called to them that they were two madmen, and went back to his pots.
+
 At the foot of the wall the two companions took off their shoes, which were much worn, set them under the rock, and rolled their trousers to the knee. The sand was hard under their feet, and the water in the pools was cold enough to numb them. They went first to the lines at the mouth of the Mercy, and Pencroff hauled them in, one after the other; the hooks came up with their bait untouched.
 
 "Empty," said he. "The fish have more sense than we have, my boy, and keep indoors."
@@ -124,7 +126,7 @@ The squall was on them. It came out of the east, across the bay, a grey wall of 
 
 They could not stay. Already the sea was running over the sands they had crossed dry an hour before. The water was at their knees, then above them. They waded, ran, waded again. But the ebb had scoured the sands into hollows that ran down toward the gut, and in one of these the bottom went from under Herbert's feet. The current took him, turned him over, and drew him seaward. Pencroff threw himself after him, caught him by the collar, lost him, caught him again by the arm, and, planting himself against the stream, hauled him up on firmer sand. Then he took the lad under the shoulder, and carried rather than led him. The wind tore at them. Behind them the waves broke upon the bar, and when Pencroff turned his head he could still see the float, dark in the white of the surf.
 
-They reached the beach. They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. Under the wall Herbert coughed up the sea water he had swallowed, and laughed, and said that it was nothing. Pencroff did not laugh. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
+They reached the beach. They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. Under the wall Herbert coughed up the sea water he had swallowed, and laughed, and said that it was nothing. Pencroff did not laugh. Under the wall Herbert coughed up the sea water he had swallowed, and laughed, and said that it was nothing. Pencroff did not laugh. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
 
 The squall did not slacken. The sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it, and it rocked under each sea; and the cord upon which the sailor's knife had worked, if it was not cut through, had been weakened. At last it gave way; the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet.
 
@@ -144,7 +146,7 @@ Neb laughed loudly, and set about making up the fire, and the engineer smiled. T
 
 Pencroff might have told the rest then, by the fire. He did not. He meant to tell it, he had promised it; but the rest could not be told by halves. To speak of the float was to speak of the bar, of the hour of low water let slip, of the flood which he, a seaman, had not watched, and of the lad turned over in the current like a piece of weed. He had let the boy stay out on the bar with the flood making, against a rule he had kept all his life.
 
-The 3rd of June was grey and still, for in the night the wind had gone round to the south-west, and the sea was down. Toward the middle of the morning, at low water, the two went down once more to the lines, and from the lines out over the sands. This time Pencroff kept the lad on his landward side, and did not take his eyes off the gut.
+The 3rd of June was grey and still, for in the night the wind had gone round to the south-west, and the sea was down. Toward the middle of the morning, at low water, the two went down once more to the lines, and from the lines out over the sands. This time Pencroff kept the lad on his landward side, and did not take his eyes off the gut. This time Pencroff kept the lad on his landward side, and did not take his eyes off the gut.
 
 The bar had moved.
 

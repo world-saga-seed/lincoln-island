@@ -124,7 +124,9 @@ The squall was on them. It came out of the east, across the bay, a grey wall of 
 
 "Back!" cried the sailor.
 
-They could not stay. Already the sea was running over the sands they had crossed dry an hour before. The water was at their knees, then above them. They waded, ran, waded again. But the ebb had scoured the sands into hollows that ran down toward the gut, and in one of these the bottom went from under Herbert's feet. The current turned him over and drew him seaward. Pencroff threw himself after him, caught him by the collar, lost him, caught him again by the arm, and, planting himself against the stream, hauled him up on firmer sand. Then he took the lad under the shoulder, and carried rather than led him. The wind tore at them. Behind them the waves broke upon the bar, and when Pencroff turned his head he could still see the float, dark in the white of the surf.
+Herbert rose, and fell again. His foot had gone through the old meshes where they lay under the sand, and the sand had closed upon it. The sailor dug about it with his hands, and the sand ran back as fast as he dug. A sea broke over them both. Then Pencroff drew his knife, felt for the meshes under the water, and cut the foot free.
+
+They could not stay. Already the sea was running over the sands they had crossed dry an hour before. The water was at their knees, then above them. Pencroff took the lad by the arm. They waded, ran, waded again. The wind tore at them. Behind them the waves broke upon the bar, and when Pencroff turned his head he could still see the float, dark in the white of the surf.
 
 They reached the beach. They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. Under the wall Herbert coughed up the sea water he had swallowed, and laughed. Pencroff did not laugh. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
 

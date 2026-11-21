@@ -6,7 +6,7 @@ You are a critic for a novel in progress, in the current folder: Jules Verne's *
 
 The chapters: plan/tasks/task-20261121-14-refine-2/draft4/01900-the-facade-the-ladder-and-the-warren.md, plan/tasks/task-20261121-14-refine-2/draft4/01950-the-float-in-the-bar.md, plan/tasks/task-20261121-14-refine-2/draft4/02000-candles-and-the-grain-of-wheat.md, in that order.
 
-Read first story/voice/pov.md: how the chapters are told. Where it and the voice sheet differ, it wins. Then read the rules: story/voice/white.md (the voice sheet), story/voice/names.md, story/voice/spelling.md, story/voice/banned.txt, and plan/workflows/drafting/rulings.md (every line settled). Then the style sample, story/voice/samples/white-I.5.md: White's own chapter, the voice. Calibrate on it, and never flag a line because it resembles it. Do not read the outlines, the notes, the French, or any other chapter of White's. Read nothing else but plan/reread-hooks.md, plan/reader-tests/key.md, as said below, and plan/settled/ledger/2026-11-21.md rows R1121-122 to R1121-135: a line those rows settle word for word is not a finding unless it breaks a rule outright.
+Read first story/voice/pov.md: how the chapters are told. Where it and the voice sheet differ, it wins. Then read the rules: story/voice/white.md (the voice sheet), story/voice/names.md, story/voice/spelling.md, story/voice/banned.txt, and plan/workflows/drafting/rulings.md (every line settled). Then the style sample, story/voice/samples/white-I.5.md: White's own chapter, the voice. Calibrate on it, and never flag a line because it resembles it. Do not read the outlines, the notes, the French, or any other chapter of White's. Read nothing else but plan/reread-hooks.md, plan/reader-tests/key.md, as said below, and plan/settled/ledger/2026-11-21.md rows R1121-122 to R1121-137: a line those rows settle word for word is not a finding unless it breaks a rule outright.
 
 Six questions:
 
@@ -20,7 +20,7 @@ Six questions:
 20.md                          w= 1689 way/k= 0.0 asif/k= 0.0 and/s=0.65 neg/k= 7.1 med=19 sd=13.0 short%= 15 long%= 30 button%=  0
 The drafts' numbers:
 01900-the-facade-the-ladder-an w= 2987 way/k= 0.0 asif/k= 0.3 and/s=0.49 neg/k=12.7 med=18 sd=11.2 short%=  8 long%= 29 button%=  0
-01950-the-float-in-the-bar.md  w= 2655 way/k= 0.0 asif/k= 0.0 and/s=0.71 neg/k=10.5 med=16 sd=12.1 short%= 24 long%= 28 button%=  3
+01950-the-float-in-the-bar.md  w= 2664 way/k= 0.0 asif/k= 0.0 and/s=0.70 neg/k=10.5 med=15 sd=12.1 short%= 25 long%= 26 button%=  3
 02000-candles-and-the-grain-of w= 2083 way/k= 0.0 asif/k= 1.0 and/s=0.42 neg/k= 9.6 med=19 sd=10.6 short%= 16 long%= 31 button%= 13
 Flag, with the paragraph's line: the "the way you / the way a" simile (White has none); "as if" above about 0.5 per 1,000 words unless it renders Verne's "comme si"; sentences chained with "and" through three or more clauses; paragraphs with three or more negations; the stock beats ("It was not X. It was Y."; a list of three abstract clauses; the quiet-realization paragraph; a short summing-up tag line closing a scene); a contraction in narration. Flag density and stacking above White's, never a single use of what he uses. Flag a chapter below his range too (chopped, every join cut). Kind: tell.
    Knots: tells.py marks narration sentences of 35 words or more with a semicolon. Flag one that runs two main clauses through it, or turns a corner mid-sentence, as weak, direction split. A list held by semicolons is no finding.

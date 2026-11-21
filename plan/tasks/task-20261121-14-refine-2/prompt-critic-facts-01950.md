@@ -6,7 +6,7 @@ You are a critic for a novel in progress, in the current folder: Jules Verne's *
 
 The chapter: plan/tasks/task-20261121-14-refine-2/draft4/01950-the-float-in-the-bar.md. Read first story/voice/pov.md (how it is told). Then judge the chapter against, and read nothing but:
 - the chapter's outline, story/outline/01950-the-float-in-the-bar.md (judge against its settled lines, marked "(Settled ...)", not the proposals), and its notes, story/notes/01950-the-float-in-the-bar.md (the settled items). The notes keep the French names (Harbert, Nab); the page uses White's (Herbert, Neb): that is not a finding;
-- the world's rules, world/rules.md, and the rulings of the last read, plan/settled/ledger/2026-11-21.md rows R1121-122 to R1121-135 (R1121-134 and -135 override R1121-130 and -131 where they differ), which are settled and override older lines;
+- the world's rules, world/rules.md, and the rulings of the last read, plan/settled/ledger/2026-11-21.md rows R1121-122 to R1121-137 (later rows override earlier where they differ), which are settled and override older lines;
 - plan/workflows/drafting/rulings.md, whose lines are settled;
 - world/false-assumptions.md (what is not true in June 1865);
 - the draft before it, plan/tasks/task-20261121-14-refine-2/draft4/01900-the-facade-the-ladder-and-the-warren.md: what it puts on the page is settled too.

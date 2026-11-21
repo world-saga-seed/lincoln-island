@@ -927,7 +927,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: comme l’ingénieur l’observait à tous moments
     - quote: dont les yeux ne quittaient pas ceux de son malade
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - On 2 June he works indoors at the furnishing, Top at his feet, and smiles at Pencroff's joke (XIX bis ¶21, 69). *(Drafted.)*
+  - On 2 June he works indoors at the furnishing, Top at his feet, and smiles at Pencroff's joke (XIX bis ¶21, 75). *(Drafted.)*
     - quote: Top lay at his master's feet
     - quote: the engineer smiled
 - **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20, XIX bis

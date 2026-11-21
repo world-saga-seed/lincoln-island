@@ -680,22 +680,27 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He has become a true farmer, attached at heart to his harvests (III.9 ¶45). *(Drafted.)*
     - quote: Pencroff était devenu un vrai fermier, attaché de cœur à ses récoltes
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - He crossed the channel on the first day and knows its current; a seaman, he does not go out alone on the bar with the flood making, a rule he has kept all his life (XIX bis ¶7, 70). *(Drafted.)*
+  - He crossed the channel on the first day and knows its current; a seaman, he does not go out alone on the bar with the flood making (XIX bis ¶7). *(Drafted.)*
     - quote: he had crossed that channel on the first day
-    - quote: against a rule he had kept all his life
-  - On 1 June he sees the float, keeps it from the others so as not to raise their hopes, takes Herbert aside, and promises to tell "to-morrow night at latest" if it is worth telling (XIX bis ¶9–19). *(Drafted.)*
+    - quote: Pencroff was bold, but he was a seaman, and he did not go out alone.
+  - On 1 June he sees the float, keeps it from the others so as not to raise their hopes, and takes Herbert aside: "If it is worth the telling, we tell it" (XIX bis ¶18). *(Drafted.)*
     - quote: I'll not have Mr. Smith and Mr. Spilett and Neb all hoping
-    - quote: If it is worth telling, I'll tell it, and to-morrow night at latest.
-  - He has put in at many good ports and never seen a glass float; he has scraped barnacles off many a ship's bottom (XIX bis ¶34, 42). *(Drafted.)*
+    - quote: If it is worth the telling, we tell it.
+  - He has put in at many good ports and never seen a glass float; he has scraped barnacles off many a ship's bottom (XIX bis ¶35, 43). *(Drafted.)*
     - quote: I have put in at many good ports, my boy, and I have never seen the like.
     - quote: I have scraped them off many a ship's bottom.
-  - His unspoken reckoning: a window of the ball for the shuttered house, or the finest float for his lines (XIX bis ¶39). *(Drafted.)*
+  - Under the wall, when Herbert says they must tell Mr. Smith: "And so we shall, my boy, when we have something to show him"; they would be giving the others only a hope (XIX bis ¶71). *(Drafted.)*
+    - quote: And so we shall, my boy, when we have something to show him
+    - quote: What should we be giving them now but a hope?
+  - His unspoken reckoning: a window of the ball for the shuttered house, or the finest float for his lines (XIX bis ¶40). *(Drafted.)*
     - quote: it would be the finest float for his lines that a fisherman ever had; but he kept all this to himself
-  - On 2 June he saves Herbert from the current, and does not laugh after; at the fire he tells nothing more, for he let the boy stay out on the bar with the flood making, for the pleasure of laying the thing on the table himself (XIX bis ¶60, 61, 70). *(Drafted.)*
-    - quote: Pencroff threw himself after him
+  - On 2 June, where they reach the ball, he sets the boy a limit from old habit, back before the turn; over the letters he misjudges the half hour; when Herbert's foot is held by the net and the sand he digs it free with his knife; he does not laugh after; on 3 June he keeps the lad on his landward side (XIX bis ¶27, 57, 61, 63, 76). *(Drafted.)*
+    - quote: "Back before the turn, my boy," said Pencroff, from old habit, with a look at the gut.
+    - quote: judged they had the half hour yet
+    - quote: Then Pencroff dug with the blade of his knife, and at last drew the foot free.
     - quote: Pencroff did not laugh.
-    - quote: for the pleasure of laying the thing on the table with his own hands
-  - On 3 June: "Five of us and the picks, and we'd have had it"; then "the sea will give us something else" (XIX bis ¶75, 76). *(Drafted.)*
+    - quote: This time Pencroff kept the lad on his landward side
+  - On 3 June: "Five of us and the picks, and we'd have had it"; then, to the lad, "the sea will give us something else" (XIX bis ¶80, 82). *(Drafted.)*
     - quote: Five of us and the picks, and we'd have had it
     - quote: The sea has taken, and the sea will give us something else.
 - **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20, XIX bis

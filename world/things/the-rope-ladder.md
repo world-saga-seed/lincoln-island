@@ -46,6 +46,6 @@ Keywords: échelle, échelle de corde, ladder, rungs, échelons, landing, palier
   - Pencroff worked it with a master’s hand (I.19 ¶19). *(Drafted.)*
     - quote: travaillé de main de maître par Pencroff
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - On 2 June it streams with water on the climb home (XIX bis ¶66). *(Drafted.)*
-    - quote: climbed the ladder, which streamed with water
+  - On 2 June it streams with water on the climb home (XIX bis ¶72). *(Drafted.)*
+    - quote: The ladder streamed with water
 - **Appears in:** I.19, I.22, II.6, II.7, II.9, II.11, III.11, XIX bis

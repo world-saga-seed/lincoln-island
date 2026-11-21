@@ -29,6 +29,6 @@ Keywords: verre à vitre, glass, panes, windows, châssis, frames, fenêtres
     - quote: il suffisait de recommencer cinquante fois l’opération pour avoir cinquante vitres
     - quote: pas très-blanches peut-être, mais suffisamment transparentes
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - Pencroff's unspoken reckoning on 2 June: the glass float might make a window for the shuttered house, since Smith has not yet had the time to make glass (XIX bis ¶39). *(Drafted.)*
+  - Pencroff's unspoken reckoning on 2 June: the glass float might make a window for the shuttered house, since Smith has not yet had the time to make glass (XIX bis ¶40). *(Drafted.)*
     - quote: because the engineer had not yet had the time to make glass for its windows
 - **Appears in:** I.19, II.9, XIX bis

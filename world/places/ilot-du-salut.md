@@ -93,11 +93,7 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - On 2 June the glass float, carried across, breaks on the rocks at the islet's point in the spray; a flash, seen from under the granite wall; no piece is ever found (XIX bis ¶62, 63, 65). *(Drafted.)*
-    - quote: Out on the rocks of the islet, in the spray, something flashed, once, and flew apart.
-    - quote: They both knew that glass thrown upon those rocks by such a sea was in pieces.
-- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10, II.18, II.20, III.2, III.3, III.4, III.5, III.14, III.19, III.20, XIX bis
+- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10, II.18, II.20, III.2, III.3, III.4, III.5, III.14, III.19, III.20
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?

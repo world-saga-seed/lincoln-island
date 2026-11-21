@@ -30,9 +30,10 @@ Keywords: knives, couteaux, cutting edge, blade, tool, steel, hilt, whetstone
   - Smith had said that the colonists did not even have the tools needed to make tools (I.13 ¶3). *(Drafted.)*
     - quote: Ils ne possédaient même pas les outils nécessaires à faire les outils
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - Pencroff carries one of the two blades on 2 June, and saws blind with it at the cord under the float (XIX bis ¶22, 30). *(Drafted.)*
+  - Pencroff carries one of the two blades on 2 June; he saws blind with it at the cord under the float, and digs Herbert's foot free of the sand with it (XIX bis ¶22, 31, 61). *(Drafted.)*
     - quote: the sailor had his knife, one of the two blades made from Top's collar
     - quote: sawed at it blindly a long while
+    - quote: Then Pencroff dug with the blade of his knife
 - **Appears in:** I.13, I.15, XIX bis
 - **Open:**
   - The text does not say that these blades cut the bow branches; I.13 ¶30 says only that the branches were cut, stripped and trimmed.

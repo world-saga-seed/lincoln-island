@@ -414,17 +414,19 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
   - He finds in the forest species not yet signalled on the island, tree ferns and carob trees (III.11 ¶53). *(Drafted.)*
     - quote: Harbert découvrit des essences nouvelles, dont la présence n’avait pas encore été signalée dans l’île
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - He knows barnacles and goose barnacles by name: goose barnacles hang by a stalk, fasten on anything afloat and live near the surface; from them he reads that the float floated long and came from far off (XIX bis ¶41–45). *(Drafted.)*
+  - He knows barnacles and goose barnacles by name: goose barnacles hang by a stalk, fasten on anything afloat and live near the surface; from them he reads that the float floated long and came from far off (XIX bis ¶42, 44). *(Drafted.)*
     - quote: these are goose barnacles
     - quote: They fasten upon anything that floats
-  - He reads the letters as "Latin, I think", too few to choose a word among (XIX bis ¶55). *(Drafted.)*
+  - He reads the letters as "Latin, I think", too few to choose a word among (XIX bis ¶56). *(Drafted.)*
     - quote: here there are not letters enough to choose among them
-  - On 2 June the current turns him over in a hollow of the channel sands and draws him seaward; Pencroff hauls him out; under the wall he coughs up the sea water and laughs, saying it was nothing (XIX bis ¶60, 61). *(Drafted.)*
-    - quote: The current took him, turned him over, and drew him seaward.
-    - quote: Herbert coughed up the sea water he had swallowed, and laughed, and said that it was nothing
-  - He keeps Pencroff's secret from 1 June; on 3 June Pencroff keeps him on his landward side (XIX bis ¶19, 71). *(Drafted.)*
+  - On 2 June his foot is caught in the old net under the sand, and Pencroff digs it free as a sea breaks over them; under the wall he coughs up the sea water and laughs; at the ladder he says they must tell Mr. Smith, and owns Pencroff is right that they would be giving the others only a hope (XIX bis ¶61, 63, 70, 72). *(Drafted.)*
+    - quote: Herbert rose, and fell again.
+    - quote: Herbert coughed up the sea water he had swallowed, and laughed
+    - quote: We must tell Mr. Smith, Pencroff.
+    - quote: Herbert thought a moment, and owned that he was right
+  - He keeps Pencroff's secret from 1 June; on 3 June, at the smooth sand, he answers: "and it lay under our hands the whole time the sea was out" (XIX bis ¶19, 81). *(Drafted.)*
     - quote: Herbert promised
-    - quote: This time Pencroff kept the lad on his landward side
+    - quote: and it lay under our hands the whole time the sea was out
 - **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20, XIX bis
 - **Open:**
   - The day of the second fit: the first fit is dated 6 December (III.10 ¶34) and the fever does not return "le jour suivant" (¶42); the day and night of anxiety are then "cette journée du 7 décembre" (¶52, where "décembre" is Wikisource's correction of the print's "novembre"), and "La journée du lendemain, 8 décembre" follows the night with the second fit (¶56). *(Drafted.)*

@@ -52,16 +52,17 @@ Keywords: canal, chenal, strait, current, jusant, ford, swim, tide, low water
     - quote: There was no need to cross the gut
   - The squalls at the end of May reshape the shore near the Mercy: sand cut from the foot of a rock, a bank where there was none (XIX bis ¶3). *(Drafted.)*
     - quote: Here the sand had been cut away from the foot of a rock, there a bank showed where there had been none before.
-  - The tides of 1 to 3 June: low water near first light on 1 June, toward eight on 2 June, mid-morning on 3 June; the evening ebb of 1 June falls after dark (XIX bis ¶3, 7, 20, 23, 71). *(Drafted.)*
+  - The tides of 1 to 3 June: low water near first light on 1 June, toward eight on 2 June, mid-morning on 3 June; the evening ebb of 1 June falls after dark (XIX bis ¶3, 20, 23, 76). *(Drafted.)*
     - quote: The tide was near its lowest
     - quote: The evening ebb fell after dark
     - quote: Toward eight o'clock the ebb began to near its lowest.
     - quote: Toward the middle of the morning, at low water
-  - The ebb scours the sands into hollows running toward the gut; on 2 June, in the retreat before the flood, the bottom goes from under Herbert in one, and the current turns him over and draws him seaward (XIX bis ¶60). *(Drafted.)*
-    - quote: the ebb had scoured the sands into hollows that ran down toward the gut, and in one of these the bottom went from under Herbert's feet
-  - On 2 June the backwash draws the freed float off the bar into the gut, and the channel's current carries it toward the islet's point (R1121-110) (XIX bis ¶62). *(Drafted.)*
-    - quote: the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet
-  - On 3 June the bar has moved; where the float lay, the sand runs smooth and level to the gut, and not a thread of the net shows (XIX bis ¶72, 73). *(Drafted.)*
+  - On 2 June, as they rise to go, Herbert's foot goes through the old net's meshes under the bar's sand, and the sand closes on it and holds it fast while the flood comes on; Pencroff digs it free with his knife (XIX bis ¶61). *(Drafted.)*
+    - quote: His foot had gone through the old meshes where they lay under the sand, and the sand had closed upon it.
+    - quote: but the sand held the foot fast, and ran back as fast as he dug
+  - On 2 June the backwash draws the freed float off the bar into the gut, and the flood in the channel carries it in toward the mouth of the river (R1121-136) (XIX bis ¶64). *(Drafted.)*
+    - quote: The backwash drew the freed ball off the bar into the gut, and the flood in the channel carried it in toward the mouth of the river.
+  - On 3 June the bar has moved; where the float lay, the sand runs smooth and level to the gut, and not a thread of the net shows (XIX bis ¶77, 78). *(Drafted.)*
     - quote: The bar had moved.
     - quote: the sand ran smooth and level to the gut, and of the net not a thread showed
 - **Appears in:** I.3, I.14, I.15, I.20, II.20, III.2, III.3, III.4, III.5, III.6, XIX bis

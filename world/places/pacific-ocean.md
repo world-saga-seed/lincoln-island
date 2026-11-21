@@ -51,6 +51,6 @@ Keywords: Pacifique, ocean, sea, océan, Mexico, crossing, presumption
     - quote: Des morceaux de montagnes retombèrent dans le Pacifique
     - quote: devait désormais figurer sur les cartes du Pacifique
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - The narrator: in the South Pacific the waters turn in a great round, north up the coasts of Chile and Peru, west below the line, south, and east under the westerlies, carrying what falls into it for months and years (XIX bis ¶37). *(Drafted.)*
+  - The narrator: in the South Pacific the waters turn in a great round, north up the coasts of Chile and Peru, west below the line, south, and east under the westerlies, carrying what falls into it for months and years (XIX bis ¶38). *(Drafted.)*
     - quote: In the South Pacific the waters turn in a great round: up the coasts of Chile and Peru, westward below the line, then south, and back to the east under the westerly winds
 - **Appears in:** I.7, I.9, I.11, I.14, I.16, I.19, I.21, II.4, II.10, II.11, II.13, II.17, III.1, III.2, III.19, III.20, XIX bis

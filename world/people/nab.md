@@ -221,8 +221,8 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: Pencroff et Nab emportaient des provisions
     - quote: Nab et Pencroff disposèrent le déjeuner
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - On 2 June he calls Pencroff and Herbert two madmen for going out in the rain, and laughs at Pencroff's joke when they come home wet (XIX bis ¶23, 69). *(Drafted.)*
-    - quote: Neb called to them that they were two madmen
+  - On 2 June he calls after Pencroff that he is a madman for going out in the rain, and laughs at Pencroff's joke when they come home wet (XIX bis ¶23, 75). *(Drafted.)*
+    - quote: Neb called after the sailor that he was a madman
     - quote: Neb laughed loudly
 - **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20, XIX bis
 - **Open:**

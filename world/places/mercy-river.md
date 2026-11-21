@@ -181,6 +181,9 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - On 2 June the glass float, carried in by the flood, breaks on the rocks at the river's mouth in the spray: a flash, seen from under the granite wall; no piece is ever found (R1121-136) (XIX bis ¶65, 67). *(Drafted.)*
+    - quote: Out on the rocks at the river's mouth, in the spray, something flashed, once, and flew apart.
+    - quote: They both knew that glass thrown upon those rocks by such a sea was in pieces.
   - Pencroff's lines are set near the Chimneys, on the left bank at the river's mouth (XIX bis ¶1). *(Drafted.)*
     - quote: toward the mouth of the Mercy, where, near the Chimneys, on the left bank of the river, he had set his lines
 - **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.13, II.15, II.16, II.18, II.20, III.2, III.3, III.4, III.6, III.7, III.9, III.10, III.11, III.13, III.14, III.15, III.16, III.19, III.20, XIX bis

@@ -59,7 +59,7 @@ Keywords: courtine, muraille, cliff, falaise, pan coupé, scree, prismatic, shor
   - In the morning sun it is flecked with gold on its prismatic roughness (I.9 ¶48). *(Drafted.)*
     - quote: piquait de paillettes d’or les rugosités prismatiques de l’énorme muraille
 - **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
-  - Close under the wall near the foot of the ladder is a shelter from the worst of an east wind, with the bar and the islet in view; the shoes are left under a rock at its foot (XIX bis ¶24, 61). *(Drafted.)*
+  - Close under the wall near the foot of the ladder is a shelter from the worst of an east wind, with the bar and the islet in view; the shoes are left under a rock at its foot (XIX bis ¶24, 63). *(Drafted.)*
     - quote: They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind.
     - quote: set them under the rock
 - **Appears in:** I.3, I.4, I.7, I.8, I.9, I.11, I.14, I.16, I.17, I.18, I.19, II.2, XIX bis

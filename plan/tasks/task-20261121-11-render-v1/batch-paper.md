@@ -143,3 +143,11 @@ Four edits by the main session; two findings left as they stand:
 - Left: the tools' reason (K2, stated at l.49), and the still 3 June (seams 2).
 - **Facts re-check on the edited 01950** (fresh Sonnet), 2026-11-21: 1 weak finding. It held "something flashed, once, and flew apart." against the outline's "a flash in the spray, and it is gone" and the POV file's "No one sees it break up close". **Disposition:** the draft stands. R1121-68 itself says "The two see the float break", and the author ruled "flew apart" (R1121-119). The outline's and the POV file's wording lagged the ruling, and both are now brought up to it. This was a notes fix, not a prose fix.
 - **Probe re-ask:** K3 and K4 now as meant (see `probe/score.md`).
+
+## The invention check (01950)
+
+A fresh Sonnet agent, `prompt-invention-check.md`, on `inventions.md` (22 rows), 2026-11-21: **19 stand, 3 reword, 0 break, 0 to the writer.**
+- Row 9, reword: "the hooks came up as clean as they had gone down" can read as the bait gone, against the joke that the fish "keep indoors". Fix: "with their bait untouched".
+- Row 14, reword: "he had seen him make a lens of two watch glasses". By the lens card (I.10), Smith made it away from the camp ("mais j'en ai fait une"). Fix: "he had seen the lens he made of two watch glasses".
+- Row 16, reword: "The stalks have rotted away, and only the shells are left." A goose barnacle holds by its stalk, so with the stalks gone the crust would fall away, yet the page keeps the shells "packed" on the ball. **This touches settled gap item 4** ("a grey-white crust of dead shells, the stalks long gone", R1121-80), so it goes to the author.
+All three are prose changes, and the author asked to see any before it is made.

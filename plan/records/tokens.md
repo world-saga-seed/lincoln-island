@@ -92,3 +92,5 @@
 | 2026-11-21 | agent, Sonnet: critic | phase 4 check | the 8 findings; 12 passed facts | — | the critic's sample, the finders' reports, the cards, the cited French | 84,673 | 12 | 1.4 |
 | 2026-11-21 | agent, Sonnet: clue-register builder | the clue register | all 62 chapters' Clues; III.16 ¶65 | 6,181 | clues-all.md, the form, the series critic, the cited French, the White discord lists | 197,266 | 46 | 8.1 |
 | 2026-11-21 | agent, Sonnet: stub builder | phase 5 | the six stubs the sample rests on | — | the six stubs' French paragraphs, the form | 68,274 | 9 | 1.1 |
+| 2026-11-21 | agent, Opus: renderer r1 | phase 5 | A1, A4, A6, S1 to S6 | — | the voice sample, nine bundles | 127,797 | 21 | 2.9 |
+| 2026-11-21 | agent, Opus: renderer r2 | phase 5 | A2, A3, A5, P1, P2, S7 to S12 | — | the voice sample, eleven bundles | 132,952 | 16 | 1.8 |

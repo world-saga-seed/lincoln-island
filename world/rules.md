@@ -15,7 +15,7 @@
    - quote: il ne voulut point être vu (III.16 ¶64)
    - quote: il entendait les colons raconter le passé, étudier le présent et l’avenir (III.16 ¶64)
 5. **The colonists have only what they brought or have made by that date.** See [the tool chain](things/tool-chain.md). *(Settled R1121-44.)*
-6. **From outside, only four things reach the island:** the harpoon in the whale (II.10), the bottle, the Speedy and the Duncan. A thing of Nemo's is no exception, even when the colonists read it as one. *(Settled R1121-45.)*
+6. **From outside, only four things reach the island:** the harpoon in the whale (II.10), the bottle, the Speedy and the Duncan. A thing of Nemo's is no exception: it is not from outside, even when the colonists read it as one. *(Settled R1121-45, R1121-133.)*
    - quote: Un navire du Vineyard ! (II.10 ¶62)
 7. **Providence is how they speak.** Characters and narrator alike use it of what happens. The cause on the page is always work, science, Nemo, or the plain chance Verne names. Providence never acts. *(Settled R1121-46.)*
    - quote: Cependant la Providence devait, en cette circonstance, venir directement en aide aux colons (I.20 ¶33)

@@ -4,14 +4,18 @@
 
 ## Now
 
-Phases 0 to 6 are done. The insert is chapter 01950, "XIX bis", "The Float in the Bar", set 1 to 3 June 1865 between I.19 and I.20 (R1121-23 to -82). Its outline, its notes (the gap pass) and the seams in its two neighbours' outlines are in `story/`. The world's rules are in `world/rules.md`. The actor logs are in `story/calendar/`, the key for the three chapters in `plan/reader-tests/key.md`, and the new clue thread on the register as H36. Phase 7 starts next, at the author's word.
+Phases 0 to 11 are done for the three chapters. 01900, 01950 ("XIX bis", "The Float in the Bar") and 02000 are final in `story/prose/` (R1121-132). The final build is `build/lincoln-island-xix-xx-final.epub`, with its kepub, made from 430c257. The read (phase 9) and the author's read-aloud of the insert (in place of phase 10's recorded reading) were folded in as patches (R1121-122 to -131). The insert's 52 new facts are carded, cited "(XIX bis ¶N)". Phase 12 is held until the author has seen the blind scores on the final (R1121-133). The next session starts there.
 
 ## Next
 
-1. Phase 7: the prompt-only controls. One fixed prompt per chapter (01900, 01950, 02000), written from the chapter as settled in phase 6, with White's neighbouring chapters pasted in. The same prompts go to Opus in a fresh context and to Gemini in the human's account. Frozen and committed before phase 8; the author approves the prompts.
-2. At the head of phase 8, before any drafting: the interview to fill the drafting rules (`plan/workflows/drafting/rulings.md`, still the kit's template but for spelling, names and the tells), R1121-86.
-3. Phase 8: render version 1 of the three chapters.
+1. **The blind scores on the final.** This is the author's scoring with the rubrics and questions frozen in phase 7 (`plan/tasks/task-20261121-09-controls/scoring/`, which stays closed to this session until the comparison, R1121-89). The final, v1 and the six controls get the same ones.
+2. **The blind probe on the final** (BRIEF phase 11's check), re-asking K1 to K15 of `plan/reader-tests/key.md` with a fresh reader, as in phase 8's `probe/` (now in `plan/archive/task-20261121-11-render-v1/probe/`). K3 and K4 moved at the read (R1121-130).
+3. **The checks on the controls** (phase 7's task, still open): the same checks and critics as phase 8, run on the six control chapters.
+4. **Phase 12, the book,** at the author's word: one epub with White, the two prompt-only controls, v1 and the final, each labelled, and the cards and ledger alongside, with the kepub. The phase 9 builder (`plan/archive/task-20261121-11-render-v1/ereader/build_epub.py`) is the start: move it to `tools/` when the second build needs it.
+5. Phase 12b, the clearance (kingston-1875 stays closed until then), and phase 13, the close.
 
 ## Waiting
 
-- Nothing on the author. Carried from phase 4: the scene lines left on the large cards (length, not truth); the text's discords, each ruled when a draft leans on it (R1121-07).
+- **On the author:** the blind scores on the final, then the word for phase 12.
+- Carried from phase 4: the scene lines left on the large cards (length, not truth); the text's discords, each ruled when a draft leans on it (R1121-07).
+- Not run: epubcheck on any build (the author's hold); the omission critics on the neighbours' four final patches, which render the French and were checked one by one.

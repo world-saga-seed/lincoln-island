@@ -4,7 +4,7 @@
 Usage:
   python3 tools/tokens.py TRANSCRIPT.jsonl [MORE.jsonl ...] [--step "session close"]
                           [--since 2026-11-20T09:00] [--until 2026-11-20T18:00]
-                          [--log plan/tokens.md] [--append]
+                          [--log plan/records/tokens.md] [--append]
 
 Reads each transcript (one JSON object a line, as Claude Code writes them under
 ~/.claude/projects/) and sums the usage of every model call in it: input,
@@ -90,7 +90,7 @@ def main():
     ap.add_argument('--chapter', default='', help='the Chapter cell of the row')
     ap.add_argument('--since', help='keep calls at or after this ISO time')
     ap.add_argument('--until', help='keep calls at or before this ISO time')
-    ap.add_argument('--log', default='plan/tokens.md')
+    ap.add_argument('--log', default='plan/records/tokens.md')
     ap.add_argument('--append', action='store_true', help='add the row to --log')
     a = ap.parse_args()
 

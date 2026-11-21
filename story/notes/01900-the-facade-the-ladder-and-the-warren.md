@@ -45,4 +45,4 @@
 
 ## Next pass
 
-*(Settled R1121-132.)* Every item is in the final text (`plan/tasks/task-20261121-13-refine/patches.tsv`). Nothing is open. The writer's reading comments and the next pass's items join here.
+*(Settled R1121-132.)* Every item is in the final text. Nothing is open. The writer's reading comments and the next pass's items join here.

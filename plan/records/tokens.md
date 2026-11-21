@@ -39,3 +39,4 @@
 | 2026-11-20 | agent, Sonnet: labeller e | phase 3 (White discords) | 01000 to 01300 | 28134 (side-by-side) | the four side-by-side files and outlines | 188,947 | 21 | 5.2 |
 | 2026-11-20 | agent, Sonnet: labeller f | phase 3 (White discords) | 01400 to 01700 | 25876 (side-by-side) | the four side-by-side files and outlines | 174,427 | 14 | 5.0 |
 | 2026-11-20 | agent, Sonnet: labeller g | phase 3 (White discords) | 01800 to 02100 | 24373 (side-by-side) | the four side-by-side files and outlines | 161,961 | 23 | 4.2 |
+| 2026-11-20 | agent, Sonnet: labeller h | phase 3 (White discords) | 02200 to 02500 | 29044 (side-by-side) | the four side-by-side files and outlines | 187,170 | 19 | 5.2 |

@@ -132,3 +132,12 @@ A fresh Sonnet critic, `prompt-critic-seams.md`, 2026-11-21: **0 breaks, 2 weak,
 ## The blind probe
 
 See `probe/score.md`: no leaks; 11 of 15 key questions as meant; K3 (the point) and K2 half-missed; K4 thin.
+
+## 01950, draft 2, after the probe and the seams (R1121-119)
+
+Four edits by the main session; two findings left as they stand:
+- "The hour of low water went by in this way." added after "for a while even Pencroff forgot to watch the water." (K3: the hour is on the page before Herbert names it).
+- "something flashed, once, and flew apart." (K4).
+- "where the current still ran fast" (seams 1).
+- "which were much worn" (seams 3).
+- Left: the tools' reason (K2, stated at l.49), and the still 3 June (seams 2).

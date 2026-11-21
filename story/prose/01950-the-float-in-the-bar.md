@@ -48,11 +48,11 @@ The 2nd of June dawned in rain. A cold rain, driven by a wind which had gone rou
 
 There were picks and shovels in the storeroom, and Pencroff thought of them. But a man does not carry a pick down a ladder to lift his lines, and the engineer would have asked what it was for. The tools stayed behind, and the sailor had his knife, one of the two blades made from Top's collar; and that was all.
 
-At the foot of the wall the two companions took off their shoes, which were nearly worn through, set them under the rock, and rolled their trousers to the knee. The sand was hard under their feet, and the water in the pools was cold enough to numb them. They went first to the lines at the mouth of the Mercy, and Pencroff hauled them in, one after the other; the hooks came up as clean as they had gone down.
+At the foot of the wall the two companions took off their shoes, which were much worn, set them under the rock, and rolled their trousers to the knee. The sand was hard under their feet, and the water in the pools was cold enough to numb them. They went first to the lines at the mouth of the Mercy, and Pencroff hauled them in, one after the other; the hooks came up as clean as they had gone down.
 
 "Empty," said he. "The fish have more sense than we have, my boy, and keep indoors."
 
-The tide was out, and from the river's mouth the bared sands of the channel stretched toward the islet, ribbed by the ebb and shining with water. And on the coast side of the gut, where the current still ran deep and fast, the bar rose a little above them. There was no need to cross the gut; the two walked out over the wet sand, with the rain in their faces, and in a few minutes they stood beside the thing.
+The tide was out, and from the river's mouth the bared sands of the channel stretched toward the islet, ribbed by the ebb and shining with water. And on the coast side of the gut, where the current still ran fast, the bar rose a little above them. There was no need to cross the gut; the two walked out over the wet sand, with the rain in their faces, and in a few minutes they stood beside the thing.
 
 It was a ball of glass.
 
@@ -106,7 +106,7 @@ Herbert looked at them a long while, his stone in his hand.
 
 "Latin, I think," said he.
 
-He said no more. The two bent over these three letters, the lad trying the crust again between the B and the L, the sailor with his eyes upon them, and for a while even Pencroff forgot to watch the water.
+He said no more. The two bent over these three letters, the lad trying the crust again between the B and the L, the sailor with his eyes upon them, and for a while even Pencroff forgot to watch the water. The hour of low water went by in this way.
 
 A sound made them look up.
 
@@ -120,7 +120,7 @@ They reached the beach. They went up it to the granite wall and stood close unde
 
 The squall did not slacken. The sea came in heavier with every minute, and the rain drove along the face of the wall. At last what was left of the rotten cord gave way; the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet.
 
-Then, for a moment, the clouds broke under the squall. A pale light fell across the channel. Out on the rocks of the islet, in the spray, something flashed, once, as wet glass flashes in the sun.
+Then, for a moment, the clouds broke under the squall. A pale light fell across the channel. Out on the rocks of the islet, in the spray, something flashed, once, and flew apart.
 
 Then nothing.
 

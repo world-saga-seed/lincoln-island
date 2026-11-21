@@ -76,7 +76,7 @@
 ### 5. The squall (2 June)
 
 - *(Settled R1121-23.)* The squall comes in. The waves are too high to stay, but they can see the float in the surf. They go back to safety and wait it out. *(Proposal.)* The flood and the squall come together, and the surge covers the bar (R1121-53). The weather is the text's own: "des averses et des rafales qui se succédèrent sans relâche" (I.20 ¶1).
-- *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The squall comes out of the east across the bay, a grey wall of rain and wind. A wave breaks over Pencroff's knees, and he takes the lad by the arm for the run back over the flooding sands.
+- *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The squall comes out of the east across the bay, a grey wall of rain and wind. A wave breaks over Pencroff's knees. *(Settled R1121-129.)* In the run back the bottom goes from under Harbert in a hollow scoured toward the gut; the current turns him over and draws him seaward, and Pencroff catches him, loses him, catches him again and hauls him out, and half carries him to the wall. There the lad coughs up the sea water and laughs; Pencroff does not.
 - *(Settled R1121-70.)* They wait it out under the granite wall near the foot of the ladder, where they can still see the float.
 - *(Settled R1121-65, R1121-66, R1121-68.)* In the squall, what is left of the rotten mooring breaks. The surge throws the float on the islet's rocks: from under the wall, a flash in the spray, and it is gone. They know it shattered. The bar closes over the net. *(Settled R1121-119.)* They see it break, as R1121-68 has it: the flash flies apart, seen across the channel, not up close.
 - *(Settled R1121-110.)* The path, in one clause: the backwash draws the freed float off the bar into the gut, and the channel's current, "un courant extrêmement rapide" (I.3 ¶42), takes it onto the islet's point. The wind is onshore, so the sea alone would drive it to the coast.
@@ -97,7 +97,7 @@
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The pretext is the lines once more; they go out by the lines, and the chapter ends as they go back across the sand to them.
 - *(Settled R1121-23, R1121-65.)* The bar has shifted. There is nothing to find, not even the net. *(Settled R1121-68.)* No one ever finds a piece of the glass.
 - *(Settled R1121-57.)* Pencroff, at the smooth sand: "Five of us and the picks, and we'd have had it."
-- *(Settled R1121-123.)* Harbert: "Yes," answered Herbert; "and it lay under our hands the whole time the sea was out." Plain, as Verne's people talk. It turns Pencroff's "would have" back on the hour of low water, which the page has already shown going by in the reading.
+- *(Settled R1121-130.)* No answer from Harbert. Pencroff shakes himself, as Top does coming out of the water: "Bah! The sea has taken, and the sea will give us something else. She owes us that much, my boy." His hand on the lad's shoulder, they go back to the lines. The narrator does not look ahead (R1121-91).
 - *(Settled R1121-34.)* The grain of wheat later that month (I.20 ¶34) is the pair. The chapter does not point to it.
 
 ## Clues
@@ -107,4 +107,4 @@
 
 ## After
 
-- *(Settled R1121-79.)* Afterward the two never bring it up, with no pact between them, from shame at the hour lost. It is never spoken of indoors, through III.16, and the other three never learn of it. The page says nothing (R1121-24).
+- *(Settled R1121-79, R1121-130.)* Afterward the two never bring it up, with no pact between them, from shame at the hour lost. It is never spoken of indoors, through III.16, and the other three never learn of it. On 2 June the page gives what telling would mean (the bar, the hour let slip, the flood unwatched, the lad in the current, the rule broken) and names no shame; at the chest and after it says nothing (R1121-24).

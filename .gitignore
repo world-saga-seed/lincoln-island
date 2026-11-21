@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *.epub
 *.kepub.epub
+
+# Webster 1864 OCR text: fetch from the Archive, check by SHA256SUMS (R1121-22)
+existing/webster-1864/americandictiona00websuoft_djvu.txt

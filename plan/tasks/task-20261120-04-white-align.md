@@ -1,0 +1,34 @@
+# Task: phase 3, White aligned to the French
+
+- **Objective:** White's 1876 translation aligned to the French by paragraph, and every place White departs (a cut, a condensation, an addition, a changed fact, a softened line) listed as a discord beat citing the French paragraph.
+- **Context:** `BRIEF.md` phase 3; R1120-29, R1120-33, R1120-41 (the labellers also note slips in the phase 2 outlines).
+- **Region:** writes `texts/align/` (the aligner's beads and the side-by-side files), the discord lists (place to be settled; the pilot writes to this task's folder), and this task's folder. Reads `texts/fr-1875/`, `texts/white-1876/`, `story/outline/`.
+- **Wave:** none.
+- **Start hash:** fdb14c1, 2026-11-20.
+- **End hash:** (on close)
+- **Status:** Pilot done; waiting on the author for the budget and the lists' place.
+
+## Steps
+
+1. **Align** (script): `texts/align_white.py all` writes `texts/align/NN.tsv`, the beads; `texts/side_white.py all` writes `texts/align/NN-side.md`, each bead with both texts. The beads are hints; the labeller corrects them.
+2. **Pilot:** two Sonnet labellers, A on I.1 and II.17, B on III.16. Measure; project to 62; put the cost and the place for the discord lists to the author.
+3. **Run** the rest, two agents at a time, in contiguous spans.
+4. **Check:** `check_white.py`: every discord cites a French paragraph; every French quote resolves in its chapter and every White quote in White's; every bullet is marked. Then a finder samples discords against both texts (the brief's check).
+5. **Close:** the discord list summed (counts by kind, by chapter); the outline slips folded back; commit.
+
+## Acceptance
+
+1. 62 discord lists; every discord cites a French paragraph and quotes the French and White (or marks White's silence).
+2. Every quote resolves by script.
+3. The finder's sample and its findings are logged.
+4. The token rows are in `plan/records/tokens.md`.
+
+## Log
+
+- 2026-11-20 Opened. The aligner: monotone dynamic programming over beads (1-1, n-1, 1-n to 5, 1-0, 0-1), scored on length against the chapter's ratio and on shared anchors (figures, names with White's spellings mapped, number words). White's III.20 ends with a glossary of 92 entries after "THE END." (White ¶54 to ¶145), the edition's own; it is not aligned, and stands as one addition. On I.1 the beads were read by eye and are right; White condenses inside paragraphs more than it cuts whole ones (White ¶19 drops "Dès le début de cette journée du 24 mars", I.1 ¶21). With the skip cost at 1.6 the aligner proposes 7 whole cuts and 1 addition over the book, 55 short beads and 18 long; two cuts checked by eye were condensations (II.5 ¶41 is White ¶33's "enumerated many species").
+- 2026-11-20 The pilot. A (I.1, II.17): 104,506 tokens, 14 calls, 2.7 min; 16 and 24 discords, 3 outline slips in 00100. B (III.16): 72,791 tokens, 6 calls, 1.4 min; 30 discords, no slips. No bead needed correcting. `check_white.py` passes all three lists (widened to take footnote cites, "III.16 ¶34 n1", and paragraph lists). White departs often and on facts: II.17 has 1854 printed 1861, Grant's 1852 printed 1832, "plus de quatre-vingts têtes" printed "twenty-four"; III.16 drops "il y a seize ans" and the Publisher's note on dates, and turns "au ban de l'humanité" into "a scourge to humanity". A source quirk, kept: White ¶80 of II.17 breaks mid-sentence ("two or four years of" / "abandonment"), as the Gutenberg HTML has it.
+- 2026-11-20 The projection: about 33 k tokens a labeller plus 5.4 per word of the side-by-side text (420,646 words for the book): 2.8 M at four chapters a labeller, 3.0 M at three, 3.6 M by flat scaling; with a finder's check, about 3.1 to 3.9 M. Put to the author with the place for the lists.
+
+## Resolution
+
+(On close.)

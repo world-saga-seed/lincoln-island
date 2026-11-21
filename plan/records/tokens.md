@@ -32,3 +32,5 @@
 | 2026-11-20 | agent, Haiku: finder f1 | phase 2 (the check) | 31 beats, 00100 to 03100 | — | the sampled beats and their cited French | 149,481 | 13 | 2.6 |
 | 2026-11-20 | agent, Haiku: finder f2 | phase 2 (the check) | 31 beats, 03200 to 06200 | — | the sampled beats and their cited French | 162,513 | 23 | 3.4 |
 | 2026-11-20 | agent, Sonnet: critic | phase 2 (the check) | 3 findings, 12 beats re-read | — | report-f2, critic-recheck, the outlines and cited French | 78,290 | 19 | 1.3 |
+| 2026-11-20 | agent, Sonnet: labeller A | phase 3 (pilot) | 00100, 03900 | 13,239 (side-by-side) | the two side-by-side files and outlines | 104,506 | 14 | 2.7 |
+| 2026-11-20 | agent, Sonnet: labeller B | phase 3 (pilot) | 05800 | 7,397 (side-by-side) | the side-by-side file and outline | 72,791 | 6 | 1.4 |

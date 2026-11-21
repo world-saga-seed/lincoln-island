@@ -76,7 +76,7 @@ The sailor might well say so.
 
 Only in late years had the fishermen of the north of Europe, in the cod fisheries of Norway, begun to buoy their great nets with globes of blown glass, which do not drink the water as cork does, and neither rot nor sink. They were still a novelty of the northern seas, and an American sailor had very likely never seen one.
 
-That such a float should lie upon Lincoln Island would astonish no one who knows the roads which the sea opens to floating bodies. In the South Pacific the waters turn in a great round: up the coasts of Chile and Peru, westward below the line, then south, and back to the east under the westerly winds; and whatever falls into that round, a spar, a cask, a float, it carries for months and for years. The sea is patient, and sooner or later it brings in everything that it does not sink.
+The sea opens strange roads to floating bodies. In the South Pacific the waters turn in a great round: up the coasts of Chile and Peru, westward below the line, then south, and back to the east under the westerly winds; and whatever falls into that round, a spar, a cask, a float, it carries for months and for years. The sea is patient, and sooner or later it brings in everything that it does not sink.
 
 Herbert picked up a stone from the bar and began to knock away the crust, a little at a time, holding his hand very lightly, for fear of cracking the glass. Pencroff, on his knees, held the ball steady with both hands, and kept one eye upon the water.
 
@@ -142,7 +142,7 @@ Toward one o'clock the squall eased; the flood had long since covered the bar. T
 
 Neb laughed loudly, and set about making up the fire, and the engineer smiled. The two wet men stood before the hearth and dried their clothes upon their backs, as sailors do. That was all they told, and it was true, as far as it went.
 
-Pencroff might have told the rest then, by the fire. He did not. He meant to tell it, he had promised it; but the rest could not be told by halves. To speak of the float was to speak of the bar, of the hour of low water let slip, of the flood which he, a seaman, had not watched, and of the lad turned over in the current like a piece of weed. He had let the boy stay out on the bar with the flood making, against a rule he had kept all his life.
+Pencroff might have told the rest then, by the fire. He did not. He meant to tell it, he had promised it; but the rest could not be told by halves. To speak of the float was to speak of the bar, of the hour of low water let slip, of the flood which he, a seaman, had not watched, and of the lad turned over in the current like a piece of weed. He had let the boy stay out on the bar with the flood making, against a rule he had kept all his life, for the pleasure of laying the thing on the table with his own hands.
 
 The 3rd of June was grey and still, for in the night the wind had gone round to the south-west, and the sea was down. Toward the middle of the morning, at low water, the two went down once more to the lines, and from the lines out over the sands. This time Pencroff kept the lad on his landward side, and did not take his eyes off the gut.
 

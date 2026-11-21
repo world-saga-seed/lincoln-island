@@ -49,7 +49,7 @@
 
 ### The page
 
-21. **Length.** Pick: about 2,500 words. Its neighbours run 3,064 (I.19) and 2,659 (I.20). *(Settled R1121-80.)*
+21. **Length.** About 3,200 words, the length the author's reading gives it. Its neighbours run 3,064 (I.19) and 2,659 (I.20), and they are the measure, not a number: nothing that holds the story is cut to fit one. *(Settled R1121-131.)*
 22. **The heading.** White prints a summary under each chapter number, in phrases set off by dashes (his chapter XX: "THE RAINY SEASON—WHAT TO WEAR—A SEAL-HUNT—…"). Pick: the insert has one too, in his manner. *(Settled R1121-80.)*
 23. **The number.** "XIX bis", between White's XIX and XX, with a note that it has no translation (BRIEF phase 9). *(Settled R1121-81.)*
 

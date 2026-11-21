@@ -11,4 +11,7 @@ Keywords: golfe du Requin, Shark-gulf, mâchoire, jaw, north-east, gulf, squale,
     - quote: appelons-le golfe du Requin (Shark-gulf)
   - Pencroff completed the image by naming the two parts of the jaw cap Mandibule; there being two, they became cap Mandibule-Nord and cap Mandibule-Sud (see [Mandibule-Nord](cap-mandibule-nord.md), [Mandibule-Sud](cap-mandibule-sud.md)) (I.11 ¶69). *(Drafted.)*
     - quote: nommant cap Mandibule (Mandible-cape) les deux parties de la mâchoire
-- **Appears in:** I.11
+  - The narrow gulf between the two capes is framed by a bizarre and capricious border formed of the mineral matter vomited by the volcano (I.15 ¶5). *(Drafted.)*
+    - quote: cet étroit golfe compris entre les deux caps
+    - quote: formés des matières minérales vomies par le volcan
+- **Appears in:** I.11, I.15

@@ -54,6 +54,16 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: À la lueur du foyer
   - Beside the dwelling is a woodpile, where dead wood was found (I.13 ¶69). *(My reading, to confirm.)*
     - quote: que fournit le bois mort du bûcher
+  - The colonists decide on 16 April to look for a more comfortable dwelling than the Chimneys for the winter (I.15 ¶6). *(Drafted.)*
+    - quote: que l’on chercherait une demeure plus confortable que les Cheminées
+  - Pencroff has a fondness for the retreat he discovered, but sees that another must be sought, since the sea has once visited the Chimneys (I.16 ¶4). *(Drafted.)*
+    - quote: Déjà les Cheminées avaient été visitées par la mer
+  - On the whole stretch of coast it is the only provisional habitable shelter, and it is to be abandoned (I.16 ¶22). *(Drafted.)*
+    - quote: Pencroff avait découvert le seul abri provisoirement habitable
+  - Behind it lies a levelled piece of ground where the pyrites heap was laid (I.17 ¶41). *(Drafted.)*
+    - quote: derrière les Cheminées, un emplacement dont le sol fût soigneusement égalisé
+  - In the blast of 21 May its rocks swayed (I.17 ¶75). *(Drafted.)*
+    - quote: les roches des Cheminées oscillèrent
 - **On the page.**
   - The river mouth lies a few steps from it (I.4 ¶64). *(Drafted.)*
     - quote: à quelques pas des Cheminées
@@ -80,7 +90,7 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: la cuisine des Cheminées se trouva pourvue d’un certain nombre d’ustensiles
   - The colonists went back to the Chimneys for good on the evening of 15 April (I.13 ¶51). *(Drafted.)*
     - quote: Le soir du 15 avril, on revint donc définitivement aux Cheminées
-- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.15, I.16, I.17, I.18, III.16
 - **Open:**
   - The text does not say where the Chimneys stand in relation to the Mercy or the lake, nor how many corridors or chambers there are.
     - quote: sur le sable des couloirs

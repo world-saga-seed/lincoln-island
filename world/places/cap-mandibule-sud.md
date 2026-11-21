@@ -11,4 +11,6 @@ Keywords: cap Mandibule-Sud, Mandible-cape, south jaw, north-east, point
     - quote: cette pointe qui fermait la baie de l’Union, et qui avait reçu le nom de cap Mandibule-Sud
   - All the country to it is very arid, sand and shells mixed with lava debris (I.14 ¶38). *(Drafted.)*
     - quote: On n’y voyait que sable et coquilles, mélangés de débris de laves
-- **Appears in:** I.11, I.14
+  - The point of "cap Mandibule" reached on 16 April lies nearly seven miles from the Chimneys; it is read as this cape (I.15 ¶5). *(My reading, to confirm.)*
+    - quote: distante de près de sept milles des Cheminées
+- **Appears in:** I.11, I.14, I.15

@@ -13,4 +13,7 @@ Keywords: Pomotou, Paumotu, Tuamotu, archipel, Pacific, landfall
     - quote: la distance qui nous en sépare est de plus de douze cents milles
   - Tahiti and the Pomotou lie at least twelve hundred miles from the island on Smith's bearing (I.14 ¶79). *(Drafted.)*
     - quote: au moins à douze cents milles de Taïti et des îles de l’archipel des Pomotou
-- **Appears in:** I.9, I.14
+  - Twelve hundred miles separate the island from it; a canoe would not suffice to cross them, especially at the approach of the bad season (I.15 ¶6). *(Drafted.)*
+    - quote: douze cents milles qui séparaient l’île de l’archipel des Pomotou
+    - quote: Un canot n’eût pas suffi à la franchir
+- **Appears in:** I.9, I.14, I.15

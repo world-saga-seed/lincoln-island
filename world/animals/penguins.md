@@ -11,4 +11,13 @@ Keywords: manchot, penguin, plongeur, diver, braiment, âne, ass, îlot du Salut
     - quote: très-reconnaissables à leur cri désagréable, qui rappelle le braîment de l’âne
   - Their flesh, though blackish, is quite edible (I.14 ¶28). *(Drafted.)*
     - quote: leur chair, quoique noirâtre, est fort mangeable
-- **Appears in:** I.14
+  - A few hundred "pingouins" watch the colonists with a candid eye as they land on the islet (I.15 ¶16). *(Drafted.)*
+    - quote: quelques centaines de pingouins les regardèrent d’un œil candide
+  - Certain "manchots très-innocents" have wings reduced to stumps, flattened like flippers and set with feathers that look scaly (I.15 ¶16). *(Drafted.)*
+    - quote: certains manchots très-innocents
+    - quote: dont les ailes, réduites à l’état de moignons, s’aplatissaient en forme de nageoires, garnies de plumes d’apparence squammeuse
+- **Appears in:** I.14, I.15
+- **Open:**
+  - Whether the "pingouins" and the "manchots" of this paragraph are one kind or two the text does not say (I.15 ¶16). *(Drafted.)*
+    - quote: quelques centaines de pingouins
+    - quote: certains manchots très-innocents

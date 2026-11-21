@@ -9,4 +9,6 @@ Keywords: kakatoès, cockatoo, perroquet, oiseaux, Creek-Rouge, eucalyptus, casu
     - quote: Kakatoès noirs, blancs ou gris
   - They flutter amid a deafening cackle together with parrots, parakeets and the other bright birds (I.12 ¶43). *(Drafted.)*
     - quote: voletaient au milieu d’un caquetage assourdissant
-- **Appears in:** I.12
+  - A whole world of noisy cockatoos, "véritables prismes mobiles", hops from branch to branch among the yellowing trees above the lake (I.16 ¶27). *(Drafted.)*
+    - quote: tout un monde de kakatoès bruyants, véritables prismes mobiles
+- **Appears in:** I.12, I.16

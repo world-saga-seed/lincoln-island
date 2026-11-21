@@ -19,4 +19,8 @@ Keywords: canal, chenal, strait, current, jusant, ford, swim, tide, low water
     - quote: dont la profondeur ne dépassait pas cinq pieds
   - The canal that the party followed on 16 April is read as this channel: the islet of Safety lies on its other side (I.14 ¶28). *(My reading, to confirm.)*
     - quote: De l’autre côté, sur l’îlot du Salut
-- **Appears in:** I.3, I.14
+  - At the lowest ebb it leaves a sort of fordable passage, crossed without wetting above the knee (I.15 ¶15). *(Drafted.)*
+    - quote: sans se mouiller plus haut que le genou
+  - It can be crossed back only when the sea has ebbed again (I.15 ¶29). *(Drafted.)*
+    - quote: Les colons durent attendre que la mer eût rebaissé
+- **Appears in:** I.3, I.14, I.15

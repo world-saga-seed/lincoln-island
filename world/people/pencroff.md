@@ -88,6 +88,33 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: nous trouverons le moyen de nous en aller
   - He is quite ready to be captain once Cyrus Smith has built a boat fit for the sea (I.14 ¶62). *(Drafted.)*
     - quote: je suis tout prêt à passer capitaine
+  - He had formally declared that a canoe could not cross the twelve hundred miles to the Pomotou archipelago, above all as the bad season nears (I.15 ¶6). *(Drafted.)*
+    - quote: Un canot n’eût pas suffi à la franchir
+    - quote: Pencroff l’avait formellement déclaré
+  - He knows the habits of seals: in the sun they soon fall into a deep sleep, and they should then be cut off from the sea and struck on the nostrils (I.15 ¶19). *(Drafted.)*
+    - quote: Pencroff connaissait les habitudes de ces amphibies
+    - quote: à les frapper aux naseaux
+  - He is tall: "la haute taille du marin" (I.15 ¶22). *(Drafted.)*
+    - quote: la haute taille du marin
+  - He and Nab skin the two seals adroitly (I.15 ¶28). *(Drafted.)*
+    - quote: Le marin et le nègre se tirèrent adroitement de leur opération
+  - He calls the dragon trees "poireaux prétentieux" (I.15 ¶33). *(Drafted.)*
+    - quote: que Pencroff traita de « poireaux prétentieux »
+  - He says that after being brickmakers, potters, founders and smiths they will manage to be masons (I.16 ¶13). *(Drafted.)*
+    - quote: Après avoir été briquetiers, potiers, fondeurs, forgerons, nous saurons bien être maçons
+  - The narrator calls him "l'enthousiaste Pencroff", whose plans are "un peu fantaisistes" (I.16 ¶20). *(Drafted.)*
+    - quote: l’enthousiaste Pencroff, développant ses projets un peu fantaisistes
+  - He says he will be as good a chemist as mason or bootmaker, "même professeur de danse et de maintien" if need be (I.17 ¶35). *(Drafted.)*
+    - quote: Il serait tout ce qu’on voudrait, « même professeur de danse et de maintien, »
+  - Guided by the engineer, he becomes one of "les plus adroits ouvriers du monde" (I.17 ¶49). *(Drafted.)*
+    - quote: habilement guidés par l’ingénieur, étaient devenus les plus adroits ouvriers du monde
+  - He wields a pick adroitly and vigorously (I.17 ¶67). *(Drafted.)*
+    - quote: armé d’un pic qu’il maniait adroitement et vigoureusement
+  - He has a big head, which he shakes when he is moved (I.18 ¶1). *(Drafted.)*
+    - quote: Pencroff balançait sa grosse tête
+  - He has struck the word "impossible" from the dictionary of Lincoln Island; the chapter's summary says he "ne doute plus de rien" (I.18 ¶11, ¶26). *(Drafted.)*
+    - quote: Pencroff avait rayé le mot « impossible » du dictionnaire de l’île Lincoln
+    - quote: qui ne doutait plus de rien
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -99,8 +126,6 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: je n’ai jamais pu y parvenir
   - His brass box of matches, which never left him, is missing, and so is his pipe (I.5 ¶18). *(Drafted.)*
     - quote: la boîte qui ne le quittait jamais
-  - He lost his pipe too in the shaking (I.5 ¶24). *(Drafted.)*
-    - quote: Ma pipe, elle-même, m’a bien quitté !
   - He makes two cudgels from two stout branches broken from the first tree of the forest; Harbert wears the points on a rock (I.6 ¶18). *(Drafted.)*
     - quote: Pencroff cassa au premier arbre deux solides branches qu’il transforma en gourdins
   - He makes bird lines of thin lianas knotted together, fifteen to twenty feet long, with strong acacia thorns for hooks and fat red worms for bait, and spares the nests (I.6 ¶41). *(Drafted.)*
@@ -122,6 +147,18 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: c’était une grosse privation pour Pencroff
   - He keeps saying that tobacco will come like all things, in his surges of absolute confidence (I.13 ¶49). *(Drafted.)*
     - quote: Mais le tabac viendra, comme toutes choses !
+  - With Nab, skilfully directed, he makes steel axe-heads, heated red and plunged into cold water, which take an excellent temper (I.15 ¶50). *(Drafted.)*
+    - quote: Nab et Pencroff, habilement dirigés, firent des fers de hache
+    - quote: acquirent une trempe excellente
+  - He has a liking for the retreat he found, the Chimneys, yet understands they must seek another (I.16 ¶4). *(Drafted.)*
+    - quote: Pencroff, naturellement, avait quelque prédilection pour cette retraite qu’il avait découverte
+    - quote: il comprit bien qu’il fallait en chercher une autre
+  - He dreams of five or six rooms hollowed in the granite wall that faces the sea, out of reach, and thinks pick and gunpowder could make them (I.16 ¶16, ¶19). *(Drafted.)*
+    - quote: cinq ou six chambres
+    - quote: Est-ce que M. Cyrus ne saura pas fabriquer de la poudre pour faire sauter la mine ?
+  - He promises himself to make fishing tackle for the lake, whose waters seem extremely rich in fish (I.16 ¶31). *(Drafted.)*
+    - quote: Les eaux semblaient extrêmement poissonneuses
+    - quote: Pencroff se promit bien de fabriquer quelques engins de pêche
   - He and Nab had expected to find almost a god in the "génie de l’île" (III.16 ¶10). *(Drafted.)*
     - quote: là où Pencroff et Nab croyaient trouver presque un dieu
 - **Habits.**
@@ -151,7 +188,9 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: ne les considéra qu’au point de vue comestible
   - He tries to bring down wild ducks with arrows, without result: they hardly settle and must be hit in flight (I.14 ¶38). *(Drafted.)*
     - quote: Il essaya bien de les abattre à coups de flèche, mais sans résultat
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
+  - He asks what a new beast will be like in the stew-pot (I.15 ¶35). *(Drafted.)*
+    - quote: Et quand il sera dans le pot-au-feu, fit naturellement observer Pencroff, à quoi ressemblera-t-il ?
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

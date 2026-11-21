@@ -15,6 +15,8 @@ Keywords: poterie, crockery, earthenware, pots, cooking vessels, pipe clay, terr
     - quote: La forme de ces objets était gauche, défectueuse
   - A plate shows the colonists making it (I.13 pl2). *(Drafted.)*
     - quote: Les colons fabriquèrent une poterie commune
+  - The fat of the dugong was gathered in great earthen jars (I.17 ¶45). *(Drafted.)*
+    - quote: recueillie dans de grandes jarres de terre
 - **Made from.**
   - The raw material is the [clay](clay.md) of the ground (I.13 ¶47). *(Drafted.)*
     - quote: La matière première était cette argile même du sol
@@ -36,4 +38,4 @@ Keywords: poterie, crockery, earthenware, pots, cooking vessels, pipe clay, terr
     - quote: Les colons, devenus potiers, ne firent pas autre chose que de la poterie
   - The rest of the pottery was carried to the Chimneys on 15 April (I.13 ¶51). *(Drafted.)*
     - quote: Le reste des poteries fut emporté
-- **Appears in:** I.13
+- **Appears in:** I.13, I.17

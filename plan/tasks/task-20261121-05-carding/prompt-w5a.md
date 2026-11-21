@@ -17,7 +17,7 @@ READ:
 YOUR ROLE: A
 - **A** writes `world/people/` (every named person) and `world/animals/` (Top, Jup, and each kind of beast, bird, fish or insect the colonists meet, hunt, tame, breed or eat: one card a kind).
 - **B** writes `world/places/` (every named or described place: island features, rooms, coasts, waters, and places off the island), `world/things/` (every thing found, owned, made or used, and every plant put to use: one card a thing), and `world/things/tool-chain.md` (see below).
-Write nothing outside your folders, except your report: plan/tasks/task-20261121-05-carding/report-w5a.md.
+Write nothing outside your folders (and do not run `tools/cards.py build`: the main session rebuilds the index tables after the wave), except your report: plan/tasks/task-20261121-05-carding/report-w5a.md.
 
 THE CARD. A new card follows `plan/templates/card.md`: the five-line head (title "# Name: what it is, in a few words", the italic one-line summary, the Keywords line), then the sections **What it is.**, **On the page.**, **Habits.** (people only), **Appears in:**, **Open:** (only if needed). A file name is the name in lower case with hyphens, ASCII only (gedeon-spilett.md).
 

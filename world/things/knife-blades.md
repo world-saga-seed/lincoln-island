@@ -11,6 +11,8 @@ Keywords: knives, couteaux, cutting edge, blade, tool, steel, hilt, whetstone
     - quote: l’outillage de la colonie se composait de deux lames tranchantes
   - They were hailed as the first tool, a precious conquest (I.13 ¶28). *(Drafted.)*
     - quote: La conquête de ce premier outil fut saluée comme un triomphe
+  - They are the two steel blades from Top’s collar; they are all Smith has to work with when sewing the seal skins into the bellows (I.15 ¶30). *(Drafted.)*
+    - quote: les deux lames d’acier provenant du collier de Top
 - **Made from.**
   - Top's collar was a thin strip of tempered steel (I.13 ¶27). *(Drafted.)*
     - quote: Le collier de Top était fait d’une mince lame d’acier trempé
@@ -27,14 +29,7 @@ Keywords: knives, couteaux, cutting edge, blade, tool, steel, hilt, whetstone
     - quote: j’aurais vite fait de fabriquer un arc et des flèches
   - Smith had said that the colonists did not even have the tools needed to make tools (I.13 ¶3). *(Drafted.)*
     - quote: Ils ne possédaient même pas les outils nécessaires à faire les outils
-- **On the page.**
-  - Smith's eye lit up when he saw the dog (I.13 ¶23). *(Drafted.)*
-    - quote: Soudain, le regard de Cyrus Smith s’anima
-  - He said: here are two knives, Pencroff (I.13 ¶26). *(Drafted.)*
-    - quote: Voilà deux couteaux, Pencroff !
-  - The sailor answered with two cheers (I.13 ¶27). *(Drafted.)*
-    - quote: Deux hurrahs du marin lui répondirent
-- **Appears in:** I.13
+- **Appears in:** I.13, I.15
 - **Open:**
   - The text does not say that these blades cut the bow branches; I.13 ¶30 says only that the branches were cut, stripped and trimmed.
     - quote: furent coupées, effeuillées, taillées

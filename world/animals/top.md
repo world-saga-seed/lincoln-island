@@ -24,8 +24,6 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
     - quote: dont la portion avait été fort congrue
   - He goes ahead of the party, sniffing out the smallest corners (I.12 ¶16). *(Drafted.)*
     - quote: précédés de Top, qui fouillait les moindres coins
-  - He is sent ahead and does not bark at the smoke of the sulphur spring (I.12 ¶25). *(Drafted.)*
-    - quote: Et il n’aboie pas ?
   - He answers a light whistle from his master and comes back (I.12 ¶30). *(Drafted.)*
     - quote: rappelé par un léger sifflement de son maître
   - He hunts with a ferocious appetite, and may be hunting for himself rather than for the hunters (I.12 ¶60). *(Drafted.)*
@@ -33,6 +31,22 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He fell on a litter of maras, killed three and devoured one on the spot (I.12 ¶62). *(Drafted.)*
     - quote: le chien était tombé sur une nichée ; il avait fait coup triple
     - quote: dévorant avec avidité un quadrupède
+  - His collar held two steel blades (I.15 ¶30). *(Drafted.)*
+    - quote: les deux lames d’acier provenant du collier de Top
+  - He is "plus spécialement chargé de la faune": he ranges through grass and brush, flushing every kind of game without distinction (I.15 ¶34). *(Drafted.)*
+    - quote: Top, plus spécialement chargé de la faune
+    - quote: faisant lever indistinctement toute espèce de gibier
+  - He hunts reptiles with a fury that makes one fear for him, and his master constantly calls him back (I.16 ¶29). *(Drafted.)*
+    - quote: donnait la chasse aux reptiles avec un acharnement qui faisait craindre pour lui
+    - quote: Aussi son maître le rappelait-il constamment
+  - He retrieves shot birds from the marsh, and is expected to be less fastidious about food than his masters (I.16 ¶33). *(Drafted.)*
+    - quote: Top se précipita vers lui, et rapporta un bel oiseau nageur
+    - quote: Top se montrerait sans doute moins difficile que ses maîtres
+  - The narrator calls him "l'intelligent animal" (I.16 ¶35). *(Drafted.)*
+    - quote: L’intelligent animal
+  - He leads the little troop into the passage, and the dog's sagacity is relied on to give the alarm if need be (I.18 ¶21). *(Drafted.)*
+    - quote: Top tenait la tête de la petite troupe
+    - quote: on pouvait s’en rapporter à la sagacité du chien, qui ne manquerait point de donner l’alarme, le cas échéant
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -46,8 +60,37 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
     - quote: à Top revenait tout l’honneur de l’affaire
   - He sleeps at his master's feet (I.9 ¶29). *(Drafted.)*
     - quote: Top dormait aux pieds de son maître
-  - He seizes the capybara by an ear and follows it into the pond, swimming on the surface to find it (I.9 ¶103). *(Drafted.)*
-    - quote: virent Top aux prises avec un animal qu’il tenait par une oreille
   - His instinct, and the intelligent animal himself, let the hunters find the path they had followed (I.9 ¶117). *(Drafted.)*
     - quote: grâce à l’intelligent animal, purent retrouver le chemin déjà parcouru
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12
+  - Beside the lake, after being very calm, he grows agitated: he paces the bank, stops short and watches the water with a paw raised, as if pointing at invisible game, barks furiously, then falls silent (I.16 ¶35). *(Drafted.)*
+    - quote: qui avait été fort calme jusqu’alors
+    - quote: une patte levée, comme s’il eût été en arrêt sur quelque gibier invisible
+  - His barks become so frequent that his master is worried; he bounds toward his master showing real anxiety, and then dives into the lake (I.16 ¶36, ¶38). *(Drafted.)*
+    - quote: les aboiements du chien devinrent bientôt si fréquents, que l’ingénieur s’en préoccupa
+    - quote: en laissant voir une inquiétude véritable
+    - quote: il se précipita dans le lac
+  - Called back, he returns to the bank but cannot rest; his instinct seems to lead him after some invisible being gliding under the water along the shore (I.16 ¶44). *(Drafted.)*
+    - quote: il ne pouvait rester en repos
+    - quote: il semblait suivre quelque être invisible qui se serait glissé sous les eaux du lac
+  - He plunges into the lake a second time, barking with rage, before his master can hold him (I.16 ¶53). *(Drafted.)*
+    - quote: il se précipita une seconde fois dans le lac
+  - The dugong seizes him and he disappears under the water; "lancé en l'air par quelque force inconnue" he rises ten feet above the surface, falls back, and soon regains the bank without serious wounds, "miraculeusement sauvé" (I.16 ¶58, ¶61). *(Drafted.)*
+    - quote: Top, saisi par le dugong, disparaissait sous les eaux
+    - quote: Lancé en l’air par quelque force inconnue
+    - quote: il s’éleva à dix pieds au-dessus de la surface du lac
+    - quote: eût bientôt regagné la berge sans blessures graves, miraculeusement sauvé
+  - The reporter cannot explain how Top came to be thrown so vigorously out of the water (I.17 ¶8). *(Drafted.)*
+    - quote: comment il a pu se faire que Top ait été si vigoureusement rejeté hors des eaux
+  - He is not in the first cavern when his companions look for him (I.18 ¶31). *(Drafted.)*
+    - quote: Le chien n’y était pas
+  - His barking, heard far below, has "une rage étrange" in its broken voice (I.18 ¶40). *(Drafted.)*
+    - quote: On sentait dans sa voix saccadée une rage étrange
+  - In the empty great cavern he goes on barking; neither caresses nor threats silence him (I.18 ¶42). *(Drafted.)*
+    - quote: Ni les caresses, ni les menaces ne purent le faire taire.
+  - Urged on by his master he runs to the far end of the cavern, where his barking redoubles at the mouth of the well (I.18 ¶46). *(Drafted.)*
+    - quote: ses aboiements redoublèrent
+  - His master murmurs that Top knows more than they do about many things (I.18 ¶56). *(Drafted.)*
+    - quote: Top en sait plus long que nous sur bien des choses
+  - On the climb back he closes the march, still making singular growls (I.18 ¶81). *(Drafted.)*
+    - quote: Top fermait la marche, et faisait encore entendre de singuliers grognements
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18

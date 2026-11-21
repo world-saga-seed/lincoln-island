@@ -22,6 +22,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The crater of Mont Franklin](crater.md) | the extinct crater, with its breach and lava stair on the north |
 | [The dead-wood clearings](dead-wood-clearings.md) | forest clearings strewn with stumps and dead wood |
 | [The dunes](the-dunes.md) | the sand belt north of the Chimneys |
+| [The east bank of Lake Grant](lake-east-bank.md) | the granite frame, five hundred paces from the coast |
 | [The evergreen forest](the-evergreen-forest.md) | the conifer forest upstream of the river mouth |
 | [The first plateau](first-plateau.md) | the broad ledge of Mont Franklin's lower cone where the party camped |
 | [The forest marsh](the-forest-marsh.md) | the marshy part of the forest where the tétras were taken |
@@ -45,8 +46,10 @@ A card for every place named on or off the island, each fact cited to the French
 | [Mont Franklin](mont-franklin.md) | the extinct volcano of two cones at the island's north-west |
 | [The natural stair](the-natural-stair.md) | the slope of rock-fall up to the plateau |
 | [The Nautilus's port](nautilus-port.md) | a submarine port hollowed under Lincoln Island, now closed |
+| [The new fall](the-new-fall.md) | the stream opened from the lake’s east bank, falling three hundred feet to the beach |
 | [New Zealand](new-zealand.md) | the land named as the farthest the wind might have carried them |
 | [The northern shore](the-northern-shore.md) | the flat strand and tide line north of the Chimneys |
+| [The old outlet](the-old-outlet.md) | the passage in the granite by which the lake’s overflow ran to the sea |
 | [The oyster bed](oyster-bed.md) | the great oyster bank on the shore north of the Chimneys |
 | [The Pacific Ocean](pacific-ocean.md) | the ocean the storm is thought to have carried the balloon across |
 | [The Pomotou](pomotou.md) | a Pacific group named as a possible landfall |
@@ -58,11 +61,15 @@ A card for every place named on or off the island, each fact cited to the French
 | [Richmond](richmond.md) | the besieged Virginian capital the prisoners flee |
 | [The rock in the lake](lake-islet.md) | a rock rising from Lake Grant near its south shore |
 | [The saloon](nautilus-saloon.md) | the room where Nemo receives the colonists |
+| [The small beach at the lake’s south angle](lake-south-beach.md) | where the dugong came ashore |
 | [The stream by the grotto](grotto-stream.md) | a clear stream a hundred paces from the grotto |
 | [The sulphur spring](sulphur-spring.md) | a warm sulphurous spring at the foot of Mont Franklin |
 | [Tabor Island](tabor-island.md) | an island where Ayrton was left |
 | [Tahiti](tahiti.md) | an island of the Pacific |
+| [The talus](the-talus.md) | the long slope west of the granite wall’s north angle |
+| [The upper cave](the-upper-cave.md) | a small cave about a hundred feet down the old outlet |
 | [Washington](washington.md) | the capital of the Union, whose meridian the colonists keep time by |
+| [The well](the-well.md) | the sheer shaft at the end of the great cavern, ninety feet to the sea |
 | [The western creek](western-creek.md) | a narrow creek of the west coast |
 | [The wood of the Jacamar](jacamar-wood.md) | the forest on the left bank of the Mercy |
 <!-- /cards -->

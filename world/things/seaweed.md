@@ -20,4 +20,9 @@ Keywords: varech, algues, sargasses, wrack, fucaceae, couch, bed, food, shore
     - quote: un goût très-supportable
   - The sargasses, with the pine nuts, completed the supper at the Chimneys (I.10 ¶15). *(Drafted.)*
     - quote: Les sargasses et les amandes de pin pignon complétèrent ce repas
-- **Appears in:** I.8, I.9, I.10
+  - Sea plants abound on the shore: glasswort, ficoids and all the fucaceae that form wrack and tang (I.17 ¶45). *(Drafted.)*
+    - quote: les plantes marines abondaient sur le rivage, salicornes, ficoïdes
+  - Dried and then burnt in open-air pits for several days, until the heat melted the ashes, they gave a compact greyish mass known as natural soda (see [the soda](soda.md)) (I.17 ¶45). *(Drafted.)*
+    - quote: on les fit d’abord sécher, puis ensuite brûler dans des fosses en plein air
+    - quote: soude naturelle
+- **Appears in:** I.8, I.9, I.10, I.17

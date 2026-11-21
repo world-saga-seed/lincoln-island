@@ -8,13 +8,19 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Albatrosses](albatrosses.md) | the great sea birds of the barren north shore |
 | [Bronze-winged pigeons](bronze-winged-pigeons.md) | the forest pigeons Harbert points out |
 | [Capybaras](capybaras.md) | the big water rodents of the forest pool |
+| [Cephalopods](cephalopods.md) | the giant octopus feared in the granite cavities |
 | [Cockatoos](cockatoos.md) | the black, white and grey screamers of the creek trees |
+| [Coots](coots.md) | the slate-coloured water bird shot on the lake |
 | [Couroucous](couroucous.md) | the small long-tailed birds that let themselves be clubbed |
+| [Diamond snakes](diamond-snakes.md) | the big harmless snake killed north of the lake |
+| [Dugong](dugong.md) | the sea-mammal killed in Lake Grant |
+| [Echidnas](echidnas.md) | the spiny anteaters of the Jacamar Wood |
 | [Gulls and mews](gulls.md) | sea birds of the islet and the granite wall |
 | [Honeyeaters](honeyeaters.md) | the brush-tongued philédons of the lake shore |
 | [Jacamar](jacamar.md) | the metallic marsh bird that ran from Harbert's stone |
 | [Kangaroos](kangaroos.md) | the bounding game of the lake forest |
 | [Kingfishers](kingfishers.md) | the fishers on the lake rock |
+| [Koulas](koulas.md) | the sloths of the Jacamar Wood |
 | [Large beasts](large-beasts.md) | the unseen fauves of the slopes and forest |
 | [Lithodomes](lithodomes.md) | the peppery rock-boring shellfish of the first meal |
 | [Lyrebirds](lyrebirds.md) | the lyre-tailed menures of the lake shore |
@@ -33,5 +39,7 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Top](top.md) | Cyrus Smith's dog |
 | [Tragopans](tragopans.md) | the horned pheasants of the mountain thickets |
 | [Tétras](tetras.md) | the grouse taken on hook and line |
+| [The unseen creature](unseen-creature.md) | what the colonists suppose fought the dugong and left the cavern |
+| [Wild boars](wild-boars.md) | the sangliers of the island's woods |
 | [Wild ducks](wild-ducks.md) | the game Pencroff cannot reach |
 <!-- /cards -->

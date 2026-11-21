@@ -29,6 +29,19 @@ Keywords: courtine, muraille, cliff, falaise, pan coupé, scree, prismatic, shor
     - quote: la muraille de granit mesurait trois cent trente-trois pieds de hauteur
   - The feet are English feet of 30 centimetres, says the note (I.14 n1). *(Drafted.)*
     - quote: Il s’agit du pied anglais, qui vaut 30 centimètres.
+  - Examined from the river’s mouth to its north angle over about two miles, it shows no cavity anywhere, its face being smooth and straight; no hole, not even a crack (I.16 ¶15, ¶21). *(Drafted.)*
+    - quote: pas un trou, pas même une fente
+    - quote: la paroi, unie et droite, ne laissa voir une cavité quelconque
+  - The rock-pigeons’ nests are only holes bored in the crest and on its ragged edge (I.16 ¶21). *(Drafted.)*
+    - quote: n’étaient, en réalité, que des trous forés à la crête même
+  - To dig an excavation in the mass with pick or powder was not to be thought of (I.16 ¶22). *(Drafted.)*
+    - quote: il n’y fallait point songer
+  - Along this stretch of coast the Chimneys are the only provisionally habitable shelter (I.16 ¶22). *(Drafted.)*
+    - quote: le seul abri provisoirement habitable
+  - At its north angle it ends in long slopes that die away on the beach (see [the talus](the-talus.md)) (I.16 ¶23). *(Drafted.)*
+    - quote: ces pentes allongées qui venaient mourir sur la grève
+  - The granite mass of the coast, Smith says, is likely to contain a cavity to which the outlet leads (I.17 ¶34). *(Drafted.)*
+    - quote: une cavité plus ou moins considérable devait exister dans la masse de granit
 - **On the page.**
   - Seen from the islet its top plateau shows no tree, but green trees stand to the right behind the cut face (I.3 ¶53). *(Drafted.)*
     - quote: la verdure ne manquait pas à droite, en arrière du pan coupé
@@ -38,4 +51,4 @@ Keywords: courtine, muraille, cliff, falaise, pan coupé, scree, prismatic, shor
     - quote: jusqu’au pied de l’énorme courtine de granit
   - In the morning sun it is flecked with gold on its prismatic roughness (I.9 ¶48). *(Drafted.)*
     - quote: piquait de paillettes d’or les rugosités prismatiques de l’énorme muraille
-- **Appears in:** I.3, I.4, I.7, I.8, I.9, I.11, I.14
+- **Appears in:** I.3, I.4, I.7, I.8, I.9, I.11, I.14, I.16, I.17, I.18

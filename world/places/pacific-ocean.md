@@ -19,4 +19,9 @@ Keywords: Pacifique, ocean, sea, océan, Mexico, crossing, presumption
     - quote: ma mémoire a conservé un souvenir très-net de sa portion méridionale
   - Smith recalls no island at the island's position in that part of it (I.14 ¶80). *(Drafted.)*
     - quote: dans cette partie du Pacifique
-- **Appears in:** I.7, I.9, I.11, I.14
+  - The island lies in the open Pacific, exposed to every storm of the sea, where bad weather must be frequent and probably terrible (I.16 ¶2). *(Drafted.)*
+    - quote: les mauvais temps devaient être fréquents, et probablement terribles
+  - Smith says that this part of the Pacific is often visited by Malay pirates, bold seamen and redoubtable malefactors (I.16 ¶7, ¶9). *(Drafted.)*
+    - quote: souvent fréquentée par les pirates malais
+    - quote: hardis marins aussi bien que des malfaiteurs redoutables
+- **Appears in:** I.7, I.9, I.11, I.14, I.16

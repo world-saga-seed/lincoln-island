@@ -55,12 +55,16 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: il eût fallu traverser la Mercy, alors profonde, et c’était une difficulté
   - A line of rocks cut in odd shapes borders the river along the edge of the Grande-Vue plateau (I.13 ¶72). *(Drafted.)*
     - quote: cette ligne de roches capricieusement découpées qui bordait la rivière
+  - The colonists are placed between the Mercy and Lake Grant, which Smith counts a considerable advantage for a dwelling (I.16 ¶12). *(Drafted.)*
+    - quote: nous sommes placés entre la Mercy et le lac Grant, avantage considérable
+  - The wall that the colonists explore ends, at the river’s mouth, the stretch of about two miles to its north angle (I.16 ¶20). *(Drafted.)*
+    - quote: depuis l’embouchure de la rivière jusqu’à l’angle qui la terminait au nord
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
   - The colonists went up its left bank from the shore to the plateau (I.13 ¶72). *(Drafted.)*
     - quote: en remontant la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, III.16
 - **Open:**
   - The text gives the Mercy no width, depth in figures, source or mouth.
     - quote: alors profonde

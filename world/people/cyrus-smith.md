@@ -106,6 +106,49 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: Je n’ai pas de carte du Pacifique, mais ma mémoire a conservé un souvenir très-net de sa portion méridionale
   - He finds noon without an instrument by the shortest shadow of a rod planted in the sand (I.14 ¶68). *(Drafted.)*
     - quote: le moment où cette ombre atteindrait son minimum de longueur serait le midi précis
+  - He means to make a blowing machine from the skins of the seals, to treat the ore (I.15 ¶26). *(Drafted.)*
+    - quote: une machine soufflante, nécessaire pour le traitement du minerai, que l’ingénieur comptait fabriquer avec la peau de ces amphibies
+  - With only the two steel blades from Top's collar, he is so adroit, and his companions help him so intelligently, that in three days the colony has a blowing machine (I.15 ¶30). *(Drafted.)*
+    - quote: Cyrus Smith n’avait à sa disposition que les deux lames d’acier provenant du collier de Top
+    - quote: il fut si adroit, ses compagnons l’aidèrent avec tant d’intelligence
+  - He means to reduce the ore by the Catalan method, simplified as it is used in Corsica (I.15 ¶41). *(Drafted.)*
+    - quote: la méthode catalane, mais simplifiée, ainsi qu’on l’emploie en Corse
+  - He means to spare himself the furnaces and crucibles of the Catalan method, and to form with ore and coal a cubic mass at whose centre he will direct the blast of his bellows (I.15 ¶42). *(Drafted.)*
+    - quote: Mais Cyrus Smith prétendait économiser ces constructions
+    - quote: une masse cubique au centre de laquelle il dirigerait le vent de son soufflet
+  - He makes cementation steel by heating the pure iron with powdered charcoal in a crucible of refractory clay (I.15 ¶49). *(Drafted.)*
+    - quote: Il y réussit en chauffant le métal avec du charbon en poudre dans un creuset fait en terre réfractaire
+  - He knows the large snake is not venomous, being of the diamond-snake kind that the natives of New South Wales eat, and that deadly kinds may exist, the deaf viper with forked tail and the winged snake with two ear-flaps (I.16 ¶29). *(Drafted.)*
+    - quote: il n’était pas venimeux, car il appartenait à l’espèce des serpents-diamants
+    - quote: il était possible qu’il en existât d’autres dont la morsure est mortelle
+  - He knows alligators are found only in regions of lower latitude (I.16 ¶43). *(Drafted.)*
+    - quote: Les alligators ne se rencontrent que dans les régions moins élevées en latitude.
+  - He is a practical man, who looks to soda rather than lime for the saponification, since lime gives insoluble, useless soaps (I.17 ¶45). *(Drafted.)*
+    - quote: en homme pratique, Cyrus Smith devait plutôt chercher à obtenir de la soude
+  - He guides Gédéon Spilett, Harbert, Nab and Pencroff so skilfully that they become "les plus adroits ouvriers du monde" (I.17 ¶49). *(Drafted.)*
+    - quote: habilement guidés par l’ingénieur, étaient devenus les plus adroits ouvriers du monde
+  - He knows that in Bohemia sulphuric acid is made by simpler means, at a higher concentration, as the acid called Nordhausen acid (I.17 ¶52). *(Drafted.)*
+    - quote: il savait qu’en Bohême particulièrement, on fabrique l’acide sulfurique par des moyens plus simples
+  - He knows nitro-glycerine detonates on shock, and has the idea of a suspended mass of iron, dropped by a burning fibre, to set it off (I.17 ¶71, ¶72). *(Drafted.)*
+    - quote: la nitro-glycérine a la propriété de détonner au choc
+    - quote: Cyrus Smith imagina donc de suspendre à un montant
+  - He says the nitro-glycerine could blow up the island, the continents and the earth itself, "une question de quantité" (I.18 ¶7). *(Drafted.)*
+    - quote: Ce n’est qu’une question de quantité.
+  - He holds nitro-glycerine too shattering to charge firearms, but says gun-cotton or ordinary powder would be easy, since they have nitric acid, saltpetre, sulphur and charcoal, and that what they lack are the arms (I.18 ¶9). *(Drafted.)*
+    - quote: c’est une substance trop brisante
+    - quote: puisque nous avons l’acide azotique, le salpêtre, le soufre et le charbon
+    - quote: ce sont les armes que nous n’avons pas
+  - He finds the granite of the passage black, without stratum or fault and of very close grain, and concludes that the passage dates from the island's origin, bored by "Pluton, et non pas Neptune", with traces of eruptive work the water has not wholly washed out (I.18 ¶19). *(Drafted.)*
+    - quote: Il n’y vit pas une strate, pas une faille
+    - quote: Ce boyau datait donc de l’origine même de l’île
+    - quote: Pluton, et non pas Neptune, l’avait foré de sa propre main
+    - quote: les traces d’un travail éruptif
+  - On the descent he follows the passage's bends and keeps track of its general direction, toward the sea (I.18 ¶34). *(Drafted.)*
+    - quote: il se rendait assez facilement compte de sa direction générale, qui allait vers la mer
+  - He estimates the depth of the well from the time a burning branch takes to fall: about ninety feet (I.18 ¶49). *(Drafted.)*
+    - quote: calculant le temps employé à la chute, put en estimer la profondeur du puits
+  - He had judged the slope and length of the passage during the descent, and so believes the cavern's seaward wall cannot be very thick (I.18 ¶58). *(Drafted.)*
+    - quote: avait apprécié assez approximativement l’obliquité, et par conséquent la longueur du déversoir
   - He was thrown into the sea when the balloon fell (III.16 ¶62). *(Drafted.)*
     - quote: lorsque l’ingénieur fut précipité dans la mer
   - The balloon carried prisoners of the Southerners (III.16 ¶62). *(Drafted.)*
@@ -117,8 +160,6 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
   - He is not a man to let an occasion slip; he judges Pencroff's plan very dangerous and therefore feasible (I.2 ¶36). *(Drafted.)*
     - quote: Il n’était pas homme à la laisser échapper
-  - He is carried off by a sea through the torn meshes of the netting when the balloon falls on the coast; Top has vanished too (I.3 ¶1). *(Drafted.)*
-    - quote: L’ingénieur, à travers les mailles du filet qui avaient cédé, avait été enlevé par un coup de mer.
   - His companions are keenly attached to him (I.3 ¶30). *(Drafted.)*
     - quote: s’étaient vivement attachés à cet intrépide Cyrus Smith
   - Pencroff calls him a man, and a true one (I.5 ¶6). *(Drafted.)*
@@ -168,6 +209,47 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: l’ingénieur l’eut imprégnée de ce nitrate de potasse
   - Without a sextant, he cuts two small flat rules and joins them into a compass, pinned with an acacia thorn (I.13 ¶69). *(Drafted.)*
     - quote: il tailla deux petites règles plates
+  - He gives Pencroff no reason for the seal hunt; only after the seals are dead does he say "Nous en ferons des soufflets de forge !" (I.15 ¶12, ¶14, ¶24). *(Drafted.)*
+    - quote: Il faut donc du phoque pour fabriquer du fer ?
+    - quote: sans avoir obtenu d’autre explication
+    - quote: Nous en ferons des soufflets de forge !
+  - He thinks the island probably uninhabited, though not yet explored whole; if no man is on it he fears dangerous animals abound, and wants shelter from attack without a nightly watch kept for the fire (I.16 ¶7). *(Drafted.)*
+    - quote: bien que nous ne l’ayons pas explorée encore dans son entier
+    - quote: je crains que les animaux dangereux n’y abondent
+  - He says this part of the Pacific is often visited by Malay pirates, bold seamen as well as redoubtable malefactors, even at this distance from any land (I.16 ¶7, ¶9). *(Drafted.)*
+    - quote: souvent fréquentée par les pirates malais
+    - quote: Ces pirates sont de hardis marins aussi bien que des malfaiteurs redoutables
+  - He holds that they should settle near running water, and on this east-facing coast, which is not exposed like the other to the north-west trade winds; from the mountain he saw no stream to the west (I.16 ¶12). *(Drafted.)*
+    - quote: il convient de nous établir dans le voisinage d’un cours d’eau
+    - quote: n’est pas exposée comme l’autre aux vents alizés
+  - He will not decide before looking: a dwelling made by nature would spare work and be safer against enemies within and without (I.16 ¶14). *(Drafted.)*
+    - quote: avant de prendre une décision, il faut chercher
+    - quote: aussi bien défendue contre les ennemis du dedans que contre ceux du dehors
+  - He finds the flow of the creek into the lake "assez considérable", so the lake must have an outlet, a fall whose power could be used (I.16 ¶30). *(Drafted.)*
+    - quote: le débit d’eau du creek était assez considérable
+    - quote: il formait une chute dont il serait possible d’utiliser la puissance mécanique
+  - He finds no outlet along the whole shore of the lake (I.16 ¶47). *(Drafted.)*
+    - quote: l’ingénieur n’avait pu découvrir par où et comment s’opérait la décharge des eaux
+  - He reasons that the outlet, since it is not outside, must be cut inside the granite mass of the coast, where there may be a cavity that could be made habitable once the waters were turned aside (I.16 ¶48, ¶50). *(Drafted.)*
+    - quote: il faut qu’il soit creusé à l’intérieur du massif granitique de la côte
+    - quote: il est possible qu’il s’y trouve quelque cavité
+  - He cannot explain the lake fight, nor how he was himself "arraché des flots et transporté dans les dunes"; he foresees a mystery they will discover one day, and asks the reporter not to press these incidents before their companions but to keep their remarks to themselves (I.17 ¶9). *(Drafted.)*
+    - quote: comment j’ai pu être arraché des flots et transporté dans les dunes
+    - quote: n’insistons pas devant nos compagnons sur ces singuliers incidents
+    - quote: Gardons nos remarques pour nous
+  - He holds that a cavity more or less large must exist in the granite mass under the Grande-Vue plateau, and means to reach it (I.17 ¶34). *(Drafted.)*
+    - quote: une cavité plus ou moins considérable devait exister dans la masse de granit qui supportait le plateau de Grande-Vue
+  - He keeps his companions ignorant of what he means to do with the nitric acid; he has not said the last word of his work (I.17 ¶56). *(Drafted.)*
+    - quote: il n’avait pas dit le dernier mot de son travail
+  - He makes the nitro-glycerine alone, apart and far from the Chimneys, because of the danger of explosion, and brings his friends a flask of it: "Voilà de la nitro-glycérine !" (I.17 ¶59, ¶60). *(Drafted.)*
+    - quote: Cette dernière opération, Cyrus Smith l’avait faite seul, à l’écart, loin des Cheminées
+    - quote: car elle présentait des dangers d’explosion
+    - quote: Voilà de la nitro-glycérine !
+  - Looking at his dog, he murmurs that Top knows more than they do about many things (I.18 ¶55, ¶56). *(Drafted.)*
+    - quote: Top en sait plus long que nous sur bien des choses
+  - At the well he stands motionless, ear alert and eyes in the gulf, saying not a word, and answers his companion "comme s’il fût revenu du pays des rêves" (I.18 ¶75, ¶78). *(Drafted.)*
+    - quote: l’ingénieur, immobile, l’oreille attentive, le regard plongé dans le gouffre, ne prononçait pas une seule parole
+    - quote: comme s’il fût revenu du pays des rêves
   - He says he knows the name of the submarine apparatus, the Nautilus (III.16 ¶14). *(Drafted.)*
     - quote: comme je sais le nom de cet admirable appareil sous-marin
   - He keeps his idea about the seals to himself, saying only that the islet will soon be visited (I.14 ¶29). *(Drafted.)*
@@ -201,7 +283,9 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: l’appareil manquant, il fallait le suppléer
   - He plans the next day's calculation (the plateau's height) while making tonight's sighting (I.13 ¶71). *(Drafted.)*
     - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
+  - When his plan succeeds he shows no satisfaction, "suivant son habitude": lips pressed, gaze fixed, motionless (I.18 ¶1). *(Drafted.)*
+    - quote: suivant son habitude, sans témoigner aucune satisfaction, les lèvres serrées, le regard fixe
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

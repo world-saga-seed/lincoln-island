@@ -48,6 +48,13 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: Ces Américains étaient des hommes religieux
   - He has made a net of hibiscus fibre (I.14 ¶36). *(Drafted.)*
     - quote: une sorte de filet en fibres d’hibiscus, que Nab avait confectionné
+  - He and Pencroff skin the two seals adroitly; the narrator calls him "le nègre" (I.15 ¶28). *(Drafted.)*
+    - quote: Le marin et le nègre se tirèrent adroitement de leur opération
+  - He is ready to throw himself into the lake, iron-tipped spear in hand, to save Top from the dugong; Cyrus Smith holds back "son courageux serviteur" (I.16 ¶59, ¶60). *(Drafted.)*
+    - quote: Nab, son épieu ferré à la main, voulut se jeter au secours du chien
+    - quote: son courageux serviteur
+  - Guided by the engineer, he becomes one of "les plus adroits ouvriers du monde" (I.17 ¶49). *(Drafted.)*
+    - quote: habilement guidés par l’ingénieur, étaient devenus les plus adroits ouvriers du monde
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -59,8 +66,11 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: Ce demi-mille qui séparait l’îlot de la terre, il employa plus d’une demi-heure à le franchir
   - In searching he finds no sign of any landing along two to three hundred yards of shore, the shells above the tide line unbroken (I.8 ¶19). *(Drafted.)*
     - quote: il n’existait pas trace d’un atterrissage, ni ancien, ni récent
-  - He prepares a pot-au-feu of agouti and flavoured capybara ham for the evening meal at the Chimneys (I.13 ¶57). *(Drafted.)*
-    - quote: Nab avait préparé un pot-au-feu d’agouti
+  - He and Pencroff are charged with extracting the dugong's fat and keeping its flesh for food, and go without asking for an explanation: their confidence in the engineer is absolute (I.17 ¶36). *(Drafted.)*
+    - quote: Nab et Pencroff furent tout d’abord chargés d’extraire la graisse du dugong
+    - quote: La confiance qu’ils avaient en l’ingénieur était absolue.
+  - In the great cavern he uncovers his head, as if carried into a temple (I.18 ¶68). *(Drafted.)*
+    - quote: Nab s’était découvert, comme s’il eût été transporté dans un temple
   - He and Pencroff had expected to find almost a god in the "génie de l’île" (III.16 ¶10). *(Drafted.)*
     - quote: là où Pencroff et Nab croyaient trouver presque un dieu
 - **Habits.**
@@ -70,7 +80,9 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: l’un en sa qualité de nègre
   - He cooks for the colony (I.13 ¶57). *(My reading, to confirm.)*
     - quote: Nab avait préparé un pot-au-feu d’agouti
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
+  - The dugong's flesh is left to him: "c'était l'affaire de Nab" (I.17 ¶2). *(Drafted.)*
+    - quote: Mais cela, c’était l’affaire de Nab.
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

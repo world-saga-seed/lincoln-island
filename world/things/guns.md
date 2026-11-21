@@ -17,4 +17,9 @@ Keywords: fusils, powder, poudre, fulminate, mercury, nitric acid, barrels, shot
     - quote: du fer pour les canons, de l’acier pour les batteries
   - Smith said all those substances could probably be found on the island, but a firearm is a delicate instrument that needs tools of great precision (I.14 ¶42). *(Drafted.)*
     - quote: une arme à feu est un instrument délicat et qui nécessite des outils d’une grande précision
-- **Appears in:** I.12, I.14
+  - Smith could make a primer like guncotton for the nitro-glycerine, having nitric acid at his disposal, or fulminate-like substances (I.17 ¶70). *(Drafted.)*
+    - quote: il pouvait facilement obtenir une substance analogue au coton-poudre
+  - Pencroff asks whether the nitro-glycerine could load firearms; Smith says no, it is too shattering, but it would be easy to make guncotton or even ordinary powder, since they have nitric acid, saltpetre, sulphur and charcoal; unfortunately it is arms that they lack (I.18 ¶9). *(Drafted.)*
+    - quote: c’est une substance trop brisante
+    - quote: Malheureusement, ce sont les armes que nous n’avons pas
+- **Appears in:** I.12, I.14, I.17, I.18

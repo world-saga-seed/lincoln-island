@@ -23,4 +23,6 @@ Keywords: dunes, sable, sand hills, monticules, collines, thistles, région sabl
     - quote: remonter la côte entre les dunes et la mer
   - The part of the dunes where the engineer was found lies six miles from the Chimneys; his rescue is called "enigmatic" (I.14 ¶65). *(Drafted.)*
     - quote: non loin de cette partie des dunes dans laquelle l’ingénieur avait été retrouvé, après son énigmatique sauvetage
-- **Appears in:** I.7, I.8, I.14
+  - The long series of dunes ends at the point of cape Mandibule, where the ground takes a volcanic look (I.15 ¶5). *(My reading, to confirm.)*
+    - quote: Là finissait la longue série des dunes, et le sol prenait une apparence volcanique
+- **Appears in:** I.7, I.8, I.14, I.15

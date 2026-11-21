@@ -118,6 +118,23 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: L’un de ces ports était creusé sous l’île Lincoln
   - Volcanic actions have acted on it (III.16 ¶63). *(Drafted.)*
     - quote: sous l’influence des actions volcaniques
+  - Smith puts it very probably between the thirty-fifth and fortieth parallels, so subject in the southern hemisphere to the climate of Sicily or Greece in the northern (I.16 ¶1). *(Drafted.)*
+    - quote: située très-vraisemblablement entre le trente-cinquième et le quarantième parallèle
+    - quote: aux mêmes conditions climatériques que la Sicile ou la Grèce
+  - On 6 May, the day that matches 6 November in the northern hemisphere, a centigrade thermometer would still show an average of ten to twelve degrees above zero (I.16 ¶1). *(Drafted.)*
+    - quote: jour qui correspond au 6 novembre
+    - quote: une moyenne de dix à douze degrés au-dessus de zéro
+  - Like Greece or Sicily it would probably suffer violent cold in the depth of winter, with snow and ice, against which one must take precautions (I.16 ¶1). *(Drafted.)*
+    - quote: certains abaissements de température contre lesquels il convenait de se prémunir
+  - The rainy season is near; the island’s bad weather will be frequent (I.16 ¶2). *(Drafted.)*
+    - quote: la saison des pluies était prochaine
+  - Smith thinks it probably uninhabited but not yet explored in its whole, and fears that dangerous animals abound (I.16 ¶7). *(Drafted.)*
+    - quote: bien que nous ne l’ayons pas explorée encore dans son entier
+    - quote: je crains que les animaux dangereux n’y abondent
+  - The east-facing coast is, Smith says, not exposed like the other to the trade winds, which blow from the north-west in this hemisphere (I.16 ¶12). *(Drafted.)*
+    - quote: qui soufflent du nord-ouest dans cet hémisphère
+  - Smith says alligators are met only in regions of lower latitude (I.16 ¶43). *(Drafted.)*
+    - quote: Les alligators ne se rencontrent que dans les régions moins élevées en latitude
 - **On the page.**
   - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
     - quote: peu effrayés de la présence de l’homme
@@ -127,7 +144,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, III.16
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent

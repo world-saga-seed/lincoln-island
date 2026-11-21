@@ -45,10 +45,37 @@ Keywords: lac Grant, pond, shore, water, west bank, lac Grant, creek, déversoir
     - quote: retourner à la rive occidentale du lac
   - Limestone stones are abundant to the north of the lake (I.13 ¶44). *(Drafted.)*
     - quote: qui se trouvaient abondamment au nord du lac
-- **Appears in:** I.11, I.12, I.13, III.16
+  - Its shores are very steep on the walk round it; the water seems extremely rich in fish (I.16 ¶31). *(Drafted.)*
+    - quote: qui était très-accore
+    - quote: extrêmement poissonneuses
+  - At its north-east a sharp point, where the lake’s end almost touches the edge of the plateau (I.16 ¶32). *(Drafted.)*
+    - quote: la pointe aiguë du nord-est
+  - Its east side was seen whole and calm; a coot was shot in the marsh herbs at its edge (I.16 ¶33). *(Drafted.)*
+    - quote: herbes marécageuses
+  - Round the whole shore, from the creek’s mouth to the Grande-Vue plateau, no sign of the overflow was found (I.16 ¶24, ¶34). *(Drafted.)*
+    - quote: depuis l’embouchure du ruisseau, à l’ouest, jusqu’au plateau de Grande-Vue
+    - quote: il ne voyait aucun indice d’écoulement du trop-plein des eaux
+  - The fertile zone stops at its north: vegetation is less vigorous there than in the stretch between the creek and the Mercy (I.16 ¶28). *(Drafted.)*
+    - quote: la végétation s’y montrait moins vigoureuse que dans toute la partie comprise entre les cours du creek et de la Mercy
+  - Smith thinks the lake must have an outlet through the granite mass of the coast, and a cavity that could be made habitable once the waters were turned aside (I.16 ¶48, ¶50). *(Drafted.)*
+    - quote: il faut qu’il soit creusé à l’intérieur du massif granitique de la côte
+    - quote: il est possible qu’il s’y trouve quelque cavité, qu’il eût été facile de rendre habitable
+  - Near the south beach the lake is shallow, and its bed sinks little by little; it is a wide basin filled by the Red Creek (I.17 ¶5). *(Drafted.)*
+    - quote: le fond du lac s’abaissait peu à peu
+    - quote: une large vasque
+  - Its outlet is at the south angle, where the two shores meet, a hole one foot under the surface (see [the old outlet](the-old-outlet.md)) (I.17 ¶14). *(Drafted.)*
+    - quote: à l’angle des deux rives
+  - Its surface was lowered by the blast of 21 May; the pines and other evergreens shade its banks (I.18 ¶18). *(Drafted.)*
+    - quote: ombragées de pins et autres arbres verts
+  - The new outflow takes at least triple what the old one passed (see [the new fall](the-new-fall.md)) (I.18 ¶3). *(Drafted.)*
+    - quote: au moins triple de celui qui passait auparavant par l’ancien
+- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, III.16
 - **Open:**
   - The text gives the lake no size.
     - quote: du lac Grant
   - The lake's measures: I.12 ¶68 gives "a circumference of about seven miles and an area of two hundred and fifty acres", and the note n2 gives "Environs 200 hectares", which is about 494 acres, and a seven-mile circuit would hold more than either. Carded none of the figures. *(My reading, to confirm.)*
     - quote: d’une circonférence de sept milles environ et d’une superficie de deux cent cinquante acres
     - quote: Environs 200 hectares.
+  - The lake’s fall: Smith plans to lower it by three feet (I.17 ¶17); after the blast the text says it will have fallen "two feet at least" (I.18 ¶3). Carded neither way (I.17 ¶17). *(Drafted.)*
+    - quote: En abaissant de trois pieds le niveau des eaux du lac
+    - quote: le niveau du lac aurait baissé de deux pieds, au moins

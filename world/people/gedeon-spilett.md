@@ -61,6 +61,10 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: du mercure et de l’acide azotique pour le fulminate, enfin du plomb pour les balles
   - He is easy about their lack of everything: "que nous manque-t-il ? Rien !" (I.14 ¶52). *(Drafted.)*
     - quote: D’ailleurs, que nous manque-t-il ? Rien !
+  - His confidence in Cyrus Smith is such that he does not doubt the engineer's enterprise will succeed (I.17 ¶26). *(Drafted.)*
+    - quote: dont la confiance en Cyrus Smith était telle qu’il ne doutait pas que l’entreprise ne réussît
+  - Guided by the engineer, he becomes one of "les plus adroits ouvriers du monde" (I.17 ¶49). *(Drafted.)*
+    - quote: habilement guidés par l’ingénieur, étaient devenus les plus adroits ouvriers du monde
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -68,9 +72,6 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: un petit morceau de bois engagé dans la doublure de son gilet
   - He notes the day's incidents in summary before sleeping (I.5 ¶88). *(Drafted.)*
     - quote: après avoir sommairement noté les incidents de ce jour
-  - He alone is kept awake by anxiety through the storm, reproaching himself for not having gone with Nab (I.7 ¶34). *(Drafted.)*
-    - quote: Seul, Gédéon Spilett était tenu éveillé par l’inquiétude
-    - quote: Il se reprochait de ne pas avoir accompagné Nab
   - He is expected to contribute largely with head and hand to colonising the island (I.13 ¶5). *(Drafted.)*
     - quote: devait contribuer largement de la tête et de la main à la colonisation de l’île
   - He will turn hunting into a trade (I.13 ¶5). *(Drafted.)*
@@ -81,6 +82,17 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: se promettait bien de faire aux bêtes féroces une guerre acharnée
   - On 16 April, which is the day true time and mean time coincide, his chronometer is taken to give the true time at Washington (I.14 ¶70). *(Drafted.)*
     - quote: l’heure donnée par Gédéon Spilett serait l’heure vraie qu’il serait alors à Washington
+  - He calls the period of the forging "la période métallurgique" in his notes (I.15 ¶31). *(Drafted.)*
+    - quote: ainsi que l’appela le reporter dans ses notes
+    - quote: la période métallurgique
+  - He says the dugong's wound is strange: it is as if a powerful arm had thrown Top out of the water, and the same arm, armed with a dagger, had killed the dugong (I.17 ¶8). *(Drafted.)*
+    - quote: On croirait vraiment que c’est un bras puissant qui l’a lancé ainsi
+    - quote: armé d’un poignard
+  - Cyrus Smith confides to him his sense of a mystery and asks him not to press these incidents before their companions (I.17 ¶9). *(Drafted.)*
+    - quote: n’insistons pas devant nos compagnons sur ces singuliers incidents
+  - The empty cavern does not satisfy his curiosity; he holds that some being occupied it (I.18 ¶52). *(Drafted.)*
+    - quote: qui ne trouvait pas sa curiosité satisfaite
+    - quote: elle était occupée par un être quelconque
 - **Habits.**
   - His notes are short, clear and neat, each one throwing light on an important point; he does not clog the wires with idle cables (I.2 ¶9). *(Drafted.)*
     - quote: chacune de ses notes, courtes, nettes, claires, portait la lumière sur un point important
@@ -98,7 +110,10 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: Le reporter et Harbert devinrent promptement de très-adroits tireurs d’arc
   - He is a hunter by passion (I.13 ¶5). *(Drafted.)*
     - quote: chasseur passionné
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
+  - He sketches calmly an animal he takes for a bear, and, once it proves a koula, strikes "ours" from the legend of his sketch and writes "koula" in its place (I.15 ¶38). *(Drafted.)*
+    - quote: se mit à dessiner tranquillement
+    - quote: effaça « ours » de la légende de son croquis, mit « koula » à la place
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

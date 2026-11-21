@@ -37,6 +37,16 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: qui semblaient avoir choisi l’îlot pour refuge
   - Smith watched the seals closely and, without telling his idea, said the islet would soon be visited (I.14 ¶29). *(Drafted.)*
     - quote: sans faire connaître son idée
+  - Smith sets foot on it for the first time on 17 April, his companions for the second, since it was there that the balloon first threw them (I.15 ¶16). *(Drafted.)*
+    - quote: puisque c’était là que le ballon les avait jetés tout d’abord
+  - A few hundred penguins, and some very innocent auks whose wings are reduced to flipper-like stumps, live on it (I.15 ¶16). *(Drafted.)*
+    - quote: quelques centaines de pingouins
+    - quote: certains manchots très-innocents
+  - Its pitted ground forms so many nests of water birds (I.15 ¶17). *(Drafted.)*
+    - quote: qui formaient autant de nids d’oiseaux aquatiques
+  - The seals lie on its sand and are seen swimming off its north point as large black spots (I.15 ¶16, ¶17). *(Drafted.)*
+    - quote: les amphibies, qui étaient couchés sur le sable
+    - quote: de gros points noirs qui nageaient à fleur d’eau
 - **On the page.**
   - Large heavy-flying birds rose from its holes, and others in flocks; Pencroff took them for gulls and sea-mews (I.3 ¶14). *(Drafted.)*
     - quote: des goëlands et des mouettes
@@ -46,7 +56,7 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **Appears in:** I.3, I.7, I.8, I.11, I.14
+- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?

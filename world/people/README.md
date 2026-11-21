@@ -12,6 +12,7 @@ A card for every person named in the French, and every person the insert adds, e
 | [Gédéon Spilett](gedeon-spilett.md) | reporter, colonist |
 | [Harbert](harbert.md) | the boy among the colonists |
 | [Jonathan Forster](jonathan-forster.md) | Southern diehard who built the balloon |
+| [Malay pirates](malay-pirates.md) | the sea-robbers Cyrus Smith fears in this part of the Pacific |
 | [Nab](nab.md) | devoted colonist and cook |
 | [Natives](natives.md) | the islanders of other islands, feared and never met |
 | [Pencroff](pencroff.md) | sailor and jack-of-all-trades |

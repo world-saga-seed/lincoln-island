@@ -51,6 +51,19 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Harbert, aimant à s’instruire de toutes choses
   - He knows the first principles of geometry, and the property of similar triangles: their homologous sides are proportional (I.14 ¶14). *(Drafted.)*
     - quote: Leurs côtés homologues sont proportionnels.
+  - He points out new trees, among them dragon trees, which belong to the lily family like the onion, chive, shallot and asparagus (I.15 ¶33). *(Drafted.)*
+    - quote: Harbert en signala de nouveaux, entre autres, des dragonniers
+    - quote: de cette même famille des liliacées
+  - He suggests that the lake's water may run out through its bed and reach the sea by an underground conduit (I.16 ¶51). *(Drafted.)*
+    - quote: que les eaux s’écoulent par le fond même du lac
+  - He recognises at once the species of amphibian from its conical head, large eyes and long silky whiskers, but takes it for a manatee; the narrator says it is a dugong (I.16 ¶55, ¶56, ¶57). *(Drafted.)*
+    - quote: Harbert reconnut aussitôt l’espèce d’amphibie
+    - quote: Un lamantin !
+    - quote: Ce n’était pas un lamantin
+  - He finds a bed of saltpetre in the north of the island, at the foot of Mont Franklin (I.17 ¶48). *(Drafted.)*
+    - quote: Harbert en découvrit un gisement dans le nord de l’île, au pied du mont Franklin
+  - Guided by the engineer, he becomes one of "les plus adroits ouvriers du monde" (I.17 ¶49). *(Drafted.)*
+    - quote: habilement guidés par l’ingénieur, étaient devenus les plus adroits ouvriers du monde
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -66,8 +79,6 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: fort adroitement, sans le casser
   - He names a bird of the marshy forest as a "jacamar" (I.6 ¶22). *(Drafted.)*
     - quote: Ce doit être un « jacamar »
-  - He throws a stone skilfully and hard at the jacamar and strikes it at the wing root, but not hard enough to stop it (I.6 ¶24). *(Drafted.)*
-    - quote: adroitement et vigoureusement lancée par le jeune garçon
   - He names the little long-tailed birds as couroucous from their shed feathers (I.6 ¶29). *(Drafted.)*
     - quote: Ce sont des « couroucous »
   - He knows that couroucous are good to eat, their flesh very delicate, and easy to club (I.6 ¶31). *(Drafted.)*
@@ -101,7 +112,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: remarquablement instruit déjà dans les sciences naturelles
   - He shoots with a bow (I.13 ¶36). *(Drafted.)*
     - quote: de très-adroits tireurs d’arc
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

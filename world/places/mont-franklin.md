@@ -74,7 +74,15 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
     - quote: De gros quartiers de ce basalte
   - No lava lies on that side, the flows having poured chiefly down the northern slopes (I.12 ¶18). *(Drafted.)*
     - quote: il n’y avait pas trace des laves, qui s’étaient plus particulièrement épanchées par les pentes septentrionales
-- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12
+  - Its north-east spurs have, at their foot, the deposits of coal and ore, six miles from the Chimneys (I.15 ¶31). *(Drafted.)*
+    - quote: au bas des contreforts nord-est du mont Franklin, c’est-à-dire à une distance de six milles
+  - At the edge of the forest begin the powerful spurs that shore up the mountain towards the east (I.15 ¶39). *(Drafted.)*
+    - quote: ces puissants contreforts qui étançonnaient le mont Franklin vers l’est
+  - From its summit no stream or river was seen towards the west (I.16 ¶12). *(Drafted.)*
+    - quote: nous n’avons aperçu vers l’ouest ni ruisseau ni rivière
+  - A saltpetre bed lies in the north of the island at its foot (I.17 ¶48). *(Drafted.)*
+    - quote: au pied du mont Franklin
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17
 - **Open:**
   - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
     - quote: à une distance de six ou sept milles

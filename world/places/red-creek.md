@@ -27,10 +27,22 @@ Keywords: Creek-Rouge, brook, stream mouth, coal seam, creek, ruisseau, terre ro
     - quote: Nom que les Américains donnent aux cours d’eau peu importants.
   - A coal deposit lies in the open air near its mouth (I.13 ¶46). *(Drafted.)*
     - quote: vers l’embouchure du Creek-Rouge
+  - Its water is within a few hundred paces of the forest-edge camp at the spurs (I.15 ¶39). *(Drafted.)*
+    - quote: À quelques centaines de pas coulait le Creek-Rouge
+  - The iron ore lies at ground level, almost at the creek’s very sources (I.15 ¶41). *(Drafted.)*
+    - quote: presque aux sources même du creek
+  - Its excess water is what the lake must lose somewhere (I.16 ¶24). *(Drafted.)*
+    - quote: l’excès d’eau fourni par le Creek-Rouge
+  - Its mouth is on the lake’s north-west side; the party reaches it by skirting the plateau’s edge, on its left bank, a detour of a mile and a half at most (I.16 ¶28). *(Drafted.)*
+    - quote: rejoindre l’embouchure du creek sur sa rive gauche
+  - Its flow at the lake is considerable (I.16 ¶30). *(Drafted.)*
+    - quote: le débit d’eau du creek était assez considérable
+  - The lake is a wide basin that the Red Creek’s water filled (I.17 ¶5). *(Drafted.)*
+    - quote: une large vasque, qui avait été remplie par les eaux du Creek-Rouge
 - **On the page.**
   - The engineer found the deposit and the kiln was charged with the coal (I.13 ¶46). *(Drafted.)*
     - quote: dont l’ingénieur avait découvert un gisement à ciel ouvert
-- **Appears in:** I.12, I.13
+- **Appears in:** I.12, I.13, I.15, I.16, I.17
 - **Open:**
   - The text does not say where the creek runs or how far its mouth is from the clearing.
     - quote: vers l’embouchure du Creek-Rouge

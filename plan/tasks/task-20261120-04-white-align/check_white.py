@@ -16,12 +16,12 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../..'))
 TASK = os.path.dirname(os.path.abspath(__file__))
 KINDS = {'cut', 'condensed', 'addition', 'changed', 'softened'}
 MARK = re.compile(r'\*\((Drafted|My reading, to confirm|Proposal)[^)]*\)\*')
-HEAD = re.compile(r'^### (\d+)\. (\w+): .*\(([IV]+\.\d+) ((?:¶\d+(?:[–-]¶?\d+)?|n\d+)(?:,? (?:¶\d+(?:[–-]¶?\d+)?|n\d+))*); White ((?:¶\d+(?:[–-]¶?\d+)?)(?:, ¶\d+(?:[–-]¶?\d+)?)*|—)\)\s*$')
+HEAD = re.compile(r'^### (\d+)\. (\w+): .*\(([IV]+\.\d+) ((?:¶\d+(?:[–-]¶?\d+)?|(?:n|ln|pl)\d+)(?:,? (?:¶\d+(?:[–-]¶?\d+)?|(?:n|ln|pl)\d+))*); White ((?:¶\d+(?:[–-]¶?\d+)?)(?:, ¶\d+(?:[–-]¶?\d+)?)*|—)\)\s*$')
 
 
 def refs(t):
     # "¶3–¶5, ¶9 n1" -> ([3,4,5,9], ['n1'])
-    ps, ns = [], re.findall(r'n\d+', t)
+    ps, ns = [], re.findall(r'(?:n|ln|pl)\d+', t)
     for a, b in re.findall(r'¶(\d+)(?:[–-]¶?(\d+))?', t):
         ps += list(range(int(a), int(b or a) + 1))
     return ps, ns

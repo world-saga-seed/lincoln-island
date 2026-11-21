@@ -58,3 +58,15 @@ A fresh Sonnet agent, `prompt-critic-facts-01950.md`, 2026-11-21, 106,401 tokens
 3. Taste: "upon the rooms which the long days of winter were to finish" (l.47), a forward glance against R1121-91. **Disposition:** fix, to "upon the rooms that were still unfinished" (R1121-115).
 4. Taste: "the sands they had crossed dry-shod an hour before" (l.117), when they are barefoot (gap item 13). **Disposition:** fix, to "dry" (R1121-115).
 Its other checks were all clear: dates, tides, wind, names, the float's look and letters, the tools, the shoes, the pretext, the joke, the cast at home, the two settled lines, and the unspoken sum.
+
+## 02000, facts critic
+
+A fresh Sonnet agent, `prompt-critic-facts-02000.md`, 2026-11-21, 57,837 tokens. **1 finding**, both quotes resolving:
+- ¶31, changed: "gave them an acid drink" for "leur donnaient une boisson acidulée" (acidulated, slightly acid). **Disposition:** fix ("an acidulated drink").
+It checked every figure in the wheat arithmetic, the seals, the fat, the bridges and the dates. It judged "monsieur Cyrus" as "Mr. Smith" ordinary (R1121-96). Calibrated on 01900 (4 of 5, weak on losses); the omission critic covers losses.
+
+## 01900, omission critic
+
+Calibrated 5 of 5 (`cal/plants-01900-lost.md`). The clean run is running.
+- Clean run (fresh Sonnet, `prompt-critic-omission-01900.md`, 52,457 tokens): **No losses.** It went through ¶1 to ¶48 sentence by sentence, the dialogue and n1. One borderline case it did not count: "assez semblables à leurs congénères d'Europe" as "much like their European fellows" (¶41).
+- 02000, omission critic, clean run (fresh Sonnet, `prompt-critic-omission-02000.md`, 49,953 tokens): **No losses** in ¶0 to ¶68, with the qualifications and every figure checked.

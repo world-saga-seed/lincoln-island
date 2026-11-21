@@ -104,6 +104,7 @@ Calibrated 5 of 5 (`cal/plants-01900-lost.md`). The clean run is running.
 - **The main session's re-check:**
   - spelling.py 0; banned 0; lengths.py 68 to 68 (¶42 low, as in draft 1); every line of dialogue identical to the snapshot.
   - tells.py: `and/s` 0.43 to 0.42, `long%` 35 to 31, knots 5 to 1.
+  - **Omission re-check on draft 2** (fresh Sonnet), 2026-11-21: **No losses** in ¶1 to ¶68.
 
 ## Triplets (R1121-117)
 
@@ -118,3 +119,4 @@ Calibrated 5 of 5 (`cal/plants-01900-lost.md`). The clean run is running.
 | 01950 draft 2 (no French; against White's rate) | 2,275 | 1 ("dead and empty", within "a crust of grey-white shells, dead and empty") | 0.44 |
 
 **Result:** none of ours runs over White's rate. The one in 02000 is Verne's. 01950's 0.44 is at White's XIX rate, and its one series is the settled detail of the shells (gap item 4). **No flags.**
+- **Facts re-check on 01950 draft 2** (fresh Sonnet), 2026-11-21: 1 weak finding, and its quote resolves. "upon the rooms that were still unfinished" (l.47) strains 01900, "the partitions were finished. Nothing remained but to furnish the rooms, which would be the work of the long days of winter." **The wording was the main session's own** (sent as the corrected pick for I3 and ruled in R1121-115), so the error is ours, not the reviser's. Put to the author. Everything else checks, including the new path clause and no held fact.

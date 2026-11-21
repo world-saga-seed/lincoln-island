@@ -1,6 +1,6 @@
 # The clue register
 
-*Every clue the book plants, at every distance. No trim, cut or revision removes a line in the Keep column. The series critic tests each row.*
+*Every clue the book plants, at every distance. H4, H5 and H17 stay left open, with no explanation added (R1121-11). No trim, cut or revision removes a line in the Keep column. The series critic tests each row.*
 
 *Made from the Clues sections of the 62 chapter notes, checked against the French (Hetzel, 1875) paragraph by paragraph. Plants and Payoff cite the French as chapter and paragraph (I.7 ¶64). Keep is copied character for character from the cited paragraph, one quote a plant, in the order of the Plants column. Distance is chapter (the next one or two), part, or book. The Tests column is empty until the series critic runs. Where the book never explains a thread, Payoff reads "none: left open" and the paragraph where the text last raises it. *(Proposal.)*
 
@@ -41,6 +41,8 @@
 | H31 | the fate of the men who left Richmond by balloon with the engineer | I.2 ¶19; I.2 ¶46 | none: left open (last raised I.2 ¶46) | book | Un aérostat fut fabriqué et mis à la disposition de Jonathan Forster, que cinq de ses compagnons devaient suivre dans les airs. / ni Jonathan Forster, ni ses compagnons ne pouvaient songer à l’affronter dans cette frêle nacelle ! | |
 | H32 | the source of the captain's electric power | III.16 ¶53; III.16 ¶65 | none: left open (last raised III.16 ¶65) | book | par des moyens qui seront connus un jour / ces balles électriques dont il avait le secret | |
 | H33 | the apes' sudden flight from the dwelling | II.6 ¶74; II.7 ¶1 | none: left open (last raised II.7 ¶1) | chapter | les singes, pris d’un effroi subit, provoqué par quelque cause inconnue / une terreur, non moins subite qu’inexplicable, qui les avait chassés de Granite-house | |
+| H34 | the harpoon in the stranded whale | II.10 ¶54; II.10 ¶57; II.10 ¶59; II.10 ¶62 | none: left open (last raised II.10 ¶59) | chapter | un harpon sortait de son flanc gauche / Puisque ce harpon est encore là / que l’affirmation de Pencroff ne satisfaisait pas / La Maria-Stella | |
+| H35 | what the dying man told the engineer alone | III.17 ¶72 | none: left open (III.17 ¶72) | book | il ne leur dit rien des choses secrètes que le mourant avait voulu lui confier | |
 
 ## Near puzzles
 
@@ -63,6 +65,7 @@
 | N15 | the footprints of the men in the forest | III.11 ¶55 | III.12 ¶107 | chapter | on retrouva aisément la trace des pieds de cinq hommes | |
 | N16 | the paper and the cable laid out for the colonists | III.15 ¶70; III.15 ¶76 | III.15 ¶112; III.15 ¶129 | chapter | Suivez le nouveau fil. / entouré d’une substance isolante, comme l’est un câble sous-marin | |
 | N17 | the engineer's wish to visit the mountain | III.18 ¶46; III.18 ¶50 | III.19 ¶11 | chapter | Oui et non / il faut que je voie… que je visite la montagne | |
+| N18 | the fallen telegraph pole and the broken wire | III.6 ¶78; III.6 ¶80; III.6 ¶81; III.6 ¶83 | III.7 (the convicts at the corral) | chapter | le poteau renversé se trouvait en travers de la route / il a été déraciné de main d’homme / qui avait été violemment rompu / il y a certainement peu de temps que la rupture a été produite | |
 
 ## Not a clue
 
@@ -95,7 +98,7 @@ Clues lines judged not a clue (a plain fact, a measure, a plan, an answer given 
 - **II.7 ¶11, Jup's behaviour with the ladder; ¶15, the plateau closed to quadrupeds; ¶53, the onaggas let in by open bridges:** plain events (the apes' terror is H33).
 - **II.8 ¶7, powder and lead kept for a departure; ¶48, talk of the war; ¶50, "faits inexplicables":** a plan and a recap.
 - **II.9 ¶15, Cyrus thinking of Harbert as his successor; ¶85, the atlas printed in France; ¶103, the boat for October:** plain facts and a plan.
-- **II.10 ¶47, the whale put down to chance; II.10 ¶54-¶62, the Maria-Stella harpoon:** a plain incident in one chapter; Spilett's doubt is not taken up again. Kept for the author's decision (a rereader may want it).
+- **II.10 ¶47, the whale put down to chance:** a plain incident in one chapter. (The Maria-Stella harpoon, II.10 ¶54 to ¶62, is thread H34, R1121-11.)
 - **II.12 ¶10, ¶17, ¶28, ¶74, ¶77, ¶81, ¶93, ¶121; II.13 ¶6-¶7, ¶67, ¶74-¶94; II.14 ¶5, ¶76, ¶95, ¶99; II.15 ¶26-¶44, ¶66-¶69:** plain events and inferences about the castaway and the old house (answered by II.17), apart from those placed in N12 and H10.
 - **II.17 pl1 and n1; ¶77, ¶80:** the plate's caption and Hetzel's note on dates; Glenarvan's promise and Grant's house.
 - **II.18 ¶26, ¶40:** a stated reason and the zinc lining spent on the battery.

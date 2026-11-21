@@ -38,9 +38,9 @@ At breakfast he said nothing; but later in the morning, finding Herbert alone on
 
 "Then a ship—!" cried Herbert.
 
-"Gently, gently. It may have come a long way. That is why I say nothing to the others. I'll not have Mr. Smith and Mr. Spilett and Neb all hoping, and tumbling down the ladder, for a thing that may turn out to be a stone with a coat of weed on it. We will go and see, the two of us. If it is worth the telling, we tell it."
+"Gently, gently. It may have come a long way. That is why I say nothing to the others. I'll not have Mr. Smith and Mr. Spilett and Neb all hoping, and tumbling down the ladder, for a thing that may turn out to be a stone with a coat of weed on it. We will go and see, the two of us. If it is worth telling, I'll tell it, and to-morrow night at latest."
 
-Herbert promised; and no one would wonder to see the lad go down with the sailor to the lines, for it was the errand of every day.
+Herbert promised, the more readily for the last word, and no one would wonder to see the lad go down with the sailor to the lines, for it was the errand of every day.
 
 The rest of that day passed at the work of Granite House. The evening ebb fell after dark, when nothing could be done on the sands, and the sailor, who was not a patient man, had to wait the night through for the low water of the next morning.
 
@@ -54,13 +54,13 @@ At the foot of the wall the two companions took off their shoes, which were much
 
 The tide was out, and from the river's mouth the bared sands of the channel stretched toward the islet, ribbed by the ebb and shining with water. And on the coast side of the gut, where the current still ran fast, the bar rose a little above them. There was no need to cross the gut; the two walked out over the wet sand, with the rain in their faces, and in a few minutes they stood beside the thing.
 
-It was a ball of glass.
+It was a ball of glass, covered in seaweed and almost invisible in the barnacles.
 
 Pencroff knelt down beside it in the sand. About a third of it stood above the bar, and the rest was buried, so that it showed above the sand as the back of a turtle shows above the sea. Over all its upper part lay a crust of grey-white shells, dead and empty, packed one against another, thickest on the top, where it had faced the sky. Here and there a shell had broken away, and there the glass showed through, dark green, like the glass of a bottle. From under the crust, on the side toward the gut, a dark cord came out of the sand, rotten and swollen with water, with the meshes of a net choked with sand along it; and it ran down again into the bar.
 
 "A net," said Pencroff.
 
-They tried to turn the ball, but it was heavy with the sand that held it, and stuck as fast as a rock. The sailor felt round it with his fingers as far as he could reach. A cord of the same kind as the other passed under it, on the hidden side, and went down into the sand, and his knife could not get at it. To free the ball they must dig; and they had nothing to dig with but their hands, and the sand, as fast as they scooped it out, filled again with water.
+They tried to turn the ball, but it was heavy with the sand that held it, and stuck as fast as a rock. The sailor felt round it with his fingers as far as he could reach. A cord of the same kind as the other passed under it, on the hidden side, and went down into the sand. Pencroff worked the blade of his knife down beside the glass, until he felt the cord with its point, and sawed at it blindly a long while; but the sand closed upon the blade at every stroke, and when at last he drew it out, he could not tell whether he had cut the cord half through or not cut it at all. To free the ball they must dig; and they had nothing to dig with but their hands, and the sand, as fast as they scooped it out, filled again with water.
 
 Pencroff sat back on his heels and looked at the thing.
 
@@ -104,7 +104,7 @@ Herbert scraped again. The first was a B. After it came a place where the crust 
 
 Herbert looked at them a long while, his stone in his hand.
 
-"Latin, I think," said he.
+"Latin, I think," said he; "but a word in Latin may be read a dozen ways, and here there are not letters enough to choose among them, and Mr. Smith would know better than I."
 
 He said no more. The two bent over these three letters, the lad trying the crust again between the B and the L, the sailor with his eyes upon them, and for a while even Pencroff forgot to watch the water. The hour of low water went by in this way.
 
@@ -114,11 +114,11 @@ The squall was on them. It came out of the east, across the bay, a grey wall of 
 
 "Back!" cried the sailor.
 
-They could not stay. Already the sea was running over the sands they had crossed dry an hour before. The water was at their knees, then above them. Pencroff took the lad by the arm. They waded, ran, waded again. The wind tore at them. Behind them the waves broke upon the bar, and when Pencroff turned his head he could still see the float, dark in the white of the surf.
+They could not stay. Already the sea was running over the sands they had crossed dry an hour before. The water was at their knees, then above them. They waded, ran, waded again. But the ebb had scoured the sands into hollows that ran down toward the gut, and in one of these the bottom went from under Herbert's feet. The current took him, turned him over, and drew him seaward. Pencroff threw himself after him, caught him by the collar, lost him, caught him again by the arm, and, planting himself against the stream, hauled him up on firmer sand. Then he took the lad under the shoulder, and carried rather than led him. The wind tore at them. Behind them the waves broke upon the bar, and when Pencroff turned his head he could still see the float, dark in the white of the surf.
 
-They reached the beach. They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
+They reached the beach. They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. Under the wall Herbert coughed up the sea water he had swallowed, and laughed, and said that it was nothing. Pencroff did not laugh. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
 
-The squall did not slacken. The sea came in heavier with every minute, and the rain drove along the face of the wall. At last what was left of the rotten cord gave way; the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet.
+The squall did not slacken. The sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it, and it rocked under each sea; and the cord upon which the sailor's knife had worked, if it was not cut through, had been weakened. At last it gave way; the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet.
 
 Then, for a moment, the clouds broke under the squall. A pale light fell across the channel. Out on the rocks of the islet, in the spray, something flashed, once, and flew apart.
 
@@ -136,7 +136,7 @@ Neb laughed loudly, and set about making up the fire, and the engineer smiled. T
 
 Pencroff might have told the rest then, by the fire. He did not. The sea had uncovered the thing once; it might give back something else at the next low water, the net, or some piece of what had been on the bar. The sailor meant to go back and see, and to bring home with his own hands whatever he found, and lay it on the table before them all.
 
-The 3rd of June was grey and still, for in the night the wind had gone round to the south-west, and the sea was down. Toward the middle of the morning, at low water, the two went down once more to the lines, and from the lines out over the sands.
+The 3rd of June was grey and still, for in the night the wind had gone round to the south-west, and the sea was down. Toward the middle of the morning, at low water, the two went down once more to the lines, and from the lines out over the sands. This time Pencroff kept the lad on his landward side, and did not take his eyes off the gut.
 
 The bar had moved.
 

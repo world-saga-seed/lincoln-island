@@ -149,6 +149,78 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: calculant le temps employé à la chute, put en estimer la profondeur du puits
   - He had judged the slope and length of the passage during the descent, and so believes the cavern's seaward wall cannot be very thick (I.18 ¶58). *(Drafted.)*
     - quote: avait apprécié assez approximativement l’obliquité, et par conséquent la longueur du déversoir
+  - He is "l’homme des grands moyens" (I.19 ¶14). *(Drafted.)*
+    - quote: Cyrus Smith était l’homme des grands moyens
+  - No trade is foreign to him: he handles hammer and trowel himself and sets his companions the example (I.19 ¶21). *(Drafted.)*
+    - quote: Aucune main-d’œuvre n’était étrangère à Cyrus Smith
+    - quote: qui maniait lui-même le marteau et la truelle
+  - He lets Pencroff run on, knowing how catching confidence is, and says nothing of the fears the future sometimes gives him (I.19 ¶22). *(Drafted.)*
+    - quote: L’ingénieur laissait dire Pencroff
+    - quote: Il savait combien la confiance est communicative
+    - quote: ne disait rien des inquiétudes que lui inspirait quelquefois l’avenir
+  - He fears that in this part of the Pacific, away from the ships' track, they may never be rescued, so the colonists must count on themselves alone (I.19 ¶22). *(Drafted.)*
+    - quote: il pouvait craindre de n’être jamais secouru
+    - quote: C’était donc sur eux-mêmes, sur eux seuls, que les colons devaient compter
+  - His attachment to Harbert grows (I.19 ¶25). *(Drafted.)*
+    - quote: Cyrus Smith s’attachait de plus en plus à cet enfant
+  - His ingenuity fails him over clothes: he has had to see to the most pressing needs first, and means to make warm, strong cloth from mouflon wool once the fine season comes (I.20 ¶4). *(Drafted.)*
+    - quote: l’ingéniosité de Cyrus Smith fut en défaut
+    - quote: Il avait dû parer au plus pressé
+    - quote: l’ingénieur saurait bien fabriquer de chaudes et solides étoffes
+  - He holds that an island should have a milder climate than a continent in the same latitude, because the sea is "un immense réservoir" that stores the summer's heat and gives it back in winter (I.20 ¶7, ¶9). *(Drafted.)*
+    - quote: j’espère que la température y sera plus modérée
+    - quote: peut être considérée comme un immense réservoir
+    - quote: L’hiver venu, elle restitue ces chaleurs
+  - He knows that heating fat with sulphuric acid frees the glycerine and leaves oleine, margarine and stearine to be parted by boiling water, and chooses instead to saponify the seal fat with lime, to simplify the work (I.20 ¶18, ¶23). *(Drafted.)*
+    - quote: il avait de la chaux et de l’acide sulfurique
+    - quote: il pouvait isoler la glycérine
+    - quote: il préféra saponifier la graisse au moyen de la chaux
+  - He makes a fine pair of snuffers for the candles (I.20 ¶25). *(Drafted.)*
+    - quote: Cyrus Smith ayant fabriqué une belle paire de mouchettes
+  - He knows how fast seed multiplies: a grain of wheat gives ten ears, an ear bears eighty grains on average, a poppy carries thirty-two thousand seeds and a tobacco plant three hundred and sixty thousand (I.20 ¶46, ¶48, ¶50). *(Drafted.)*
+    - quote: Dix, Pencroff
+    - quote: Quatre-vingts en moyenne
+    - quote: ces pieds de pavots qui portent trente-deux mille graines
+    - quote: ces pieds de tabac qui en produisent trois cent soixante mille
+  - He sees at once what a single grain of wheat is worth ("Nous en ferons du pain"), and holds that in their state everything can serve (I.20 ¶41, ¶60). *(Drafted.)*
+    - quote: Nous en ferons du pain
+    - quote: Tout, mes amis, tout peut nous servir dans les conditions où nous sommes
+  - He thinks the island strange in form and nature, "un résumé de tous les aspects que présente un continent", and would not be surprised if it had once been continent; the variety of its animals is his argument that it once formed part of a vast continent that sank under the Pacific (I.21 ¶24, ¶32). *(Drafted.)*
+    - quote: On dirait un résumé de tous les aspects que présente un continent
+    - quote: je ne serais pas surpris qu’elle eût été continent autrefois
+    - quote: l’île Lincoln a pu faire autrefois partie de quelque vaste continent
+  - He holds that the coral infusoria are building the Pacific's new continents, and, of the two views on how the globe will end, takes the one that has it cool through the dying of its inner fires (I.21 ¶36, ¶42). *(Drafted.)*
+    - quote: Les infusoires du corail, répondit Cyrus Smith
+    - quote: Je tiens, moi, pour cette dernière hypothèse
+  - He believes the future of the world to be "le secret de l’Auteur de toutes choses" and "le secret de Dieu" (I.21 ¶42, ¶44). *(Drafted.)*
+    - quote: c’est le secret de l’Auteur de toutes choses
+    - quote: C’est le secret de Dieu
+  - He says the island is "purement d’origine volcanique" and will probably disappear one day (I.21 ¶46, ¶48). *(Drafted.)*
+    - quote: elle est purement d’origine volcanique
+    - quote: C’est probable.
+  - He says the colonists will not be on the island when it goes, since they have no wish to die there and "nous finirons peut-être par nous en tirer" (I.21 ¶50). *(Drafted.)*
+    - quote: nous finirons peut-être par nous en tirer
+  - He instructs his companions in everything, explaining chiefly the practical applications of science; he is "un livre toujours prêt, toujours ouvert à la page dont chacun avait besoin" (I.22 ¶50). *(Drafted.)*
+    - quote: Cyrus Smith instruisait ses compagnons en toutes choses
+    - quote: l’ingénieur était un livre toujours prêt, toujours ouvert à la page dont chacun avait besoin
+  - He insists that no one risk his health, since he needs every hand (I.22 ¶51). *(Drafted.)*
+    - quote: Cyrus Smith tenait à ce que personne ne compromît sa santé
+    - quote: il avait besoin de tous les bras
+  - He is used to going far into the realm of scientific fact, and cannot forgive himself for being drawn toward "l’étrange et presque du surnaturel" by Top's behaviour at the well; it intrigues him more than he thinks reasonable to admit (I.22 ¶54). *(Drafted.)*
+    - quote: Habitué à aller loin dans le domaine des réalités scientifiques
+    - quote: dans le domaine de l’étrange et presque du surnaturel
+    - quote: La conduite de Top intriguait Cyrus Smith plus qu’il ne lui paraissait raisonnable de se l’avouer à lui-même
+  - He tells his impressions of Top at the well to Gédéon Spilett alone, thinking it useless to bring his companions in on it (I.22 ¶55). *(Drafted.)*
+    - quote: l’ingénieur ne communiqua ses impressions qu’à Gédéon Spilett
+    - quote: trouvant inutile d’initier ses compagnons
+  - He holds that without special tools it would be almost impossible to make a gun that would serve, and keeps putting the work off (I.22 ¶57). *(Drafted.)*
+    - quote: sans un outillage spécial, il lui serait presque impossible de fabriquer un fusil qui pût rendre quelque service
+    - quote: reculait toujours et remettait l’opération à plus tard
+  - His chief care in the spring is clothing, not firearms; he means to raise a flock of mouflons for wool, and to found a farm (I.22 ¶59). *(Drafted.)*
+    - quote: mais bien celle des vêtements
+    - quote: il convenait d’aviser aux moyens d’en former un troupeau
+  - He holds that dangerous beasts are on the island; Harbert's reading of the claw marks "justifiait l’opinion de l’ingénieur" (I.22 ¶31). *(Drafted.)*
+    - quote: l’opinion de l’ingénieur sur la présence de fauves dangereux
   - He was thrown into the sea when the balloon fell (III.16 ¶62). *(Drafted.)*
     - quote: lorsque l’ingénieur fut précipité dans la mer
   - The balloon carried prisoners of the Southerners (III.16 ¶62). *(Drafted.)*
@@ -250,6 +322,19 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - At the well he stands motionless, ear alert and eyes in the gulf, saying not a word, and answers his companion "comme s’il fût revenu du pays des rêves" (I.18 ¶75, ¶78). *(Drafted.)*
     - quote: l’ingénieur, immobile, l’oreille attentive, le regard plongé dans le gouffre, ne prononçait pas une seule parole
     - quote: comme s’il fût revenu du pays des rêves
+  - He asks Pencroff "En êtes-vous bien sûr ?" that the island has no natives; he says enemies may come from outside, since these Pacific waters are bad, and means to take precautions against every eventuality (I.19 ¶9, ¶11). *(Drafted.)*
+    - quote: En êtes-vous bien sûr, Pencroff
+    - quote: ce sont de mauvais parages que ces parages du Pacifique
+    - quote: Prenons donc nos précautions contre toute éventualité
+  - He means to stop the old outlet at its mouth and hide its entrance by raising the lake with a dam, and to enter by a rope ladder that, once drawn up, makes access impossible (I.19 ¶5, ¶7). *(Drafted.)*
+    - quote: en dissimuler absolument l’entrée en provoquant, au moyen d’un barrage, un relèvement des eaux du lac
+    - quote: une échelle de corde, qui, une fois retirée, rendra impossible l’accès de notre demeure
+  - He means to set up a hydraulic lift later, to spare the inhabitants of Granite-house all fatigue and lost time, and to make window glass in place of the shutters (I.19 ¶28, ¶46). *(Drafted.)*
+    - quote: Cyrus Smith comptait installer plus tard un ascenseur hydraulique
+    - quote: en attendant que l’ingénieur eût eu le temps de fabriquer du verre à vitre
+  - He has the old outlet stopped with rock cemented in and hidden by plants, but does not yet carry out his plan of drowning its orifice under the lake by a dam (I.19 ¶44). *(Drafted.)*
+    - quote: Cyrus Smith ne réalisa pas encore le projet qu’il avait formé de noyer cet orifice sous les eaux du lac
+    - quote: Il se contenta de dissimuler l’obstruction
   - He says he knows the name of the submarine apparatus, the Nautilus (III.16 ¶14). *(Drafted.)*
     - quote: comme je sais le nom de cet admirable appareil sous-marin
   - He keeps his idea about the seals to himself, saying only that the islet will soon be visited (I.14 ¶29). *(Drafted.)*
@@ -285,7 +370,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
   - When his plan succeeds he shows no satisfaction, "suivant son habitude": lips pressed, gaze fixed, motionless (I.18 ¶1). *(Drafted.)*
     - quote: suivant son habitude, sans témoigner aucune satisfaction, les lèvres serrées, le regard fixe
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

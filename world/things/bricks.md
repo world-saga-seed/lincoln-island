@@ -17,6 +17,13 @@ Keywords: briques, brickmaking, moulding, firing, drying, building material
     - quote: dans trois ou quatre jours
   - A plate shows three thousand bricks laid out (I.13 pl1). *(Drafted.)*
     - quote: Trois mille briques furent rangées
+  - Some thousands of bricks lie ready when the fitting-out of Granite-house begins; they are carried and laid at its foot, then hoisted to the door by the pulley (see [the pulley](pulley.md)) (I.19 ¶17, ¶20). *(Drafted.)*
+    - quote: les briques furent apportées et déposées au pied de Granite-house
+    - quote: quelques milliers de briques étaient là
+  - The kitchen flue of Granite-house is made of brick earth (I.19 ¶43). *(Drafted.)*
+    - quote: le fabriquer en terre de brique
+  - The kitchen has a brick stove (I.20 ¶28). *(Drafted.)*
+    - quote: son fourneau de briques
 - **Made from.**
   - Clay is degreased with sand (see [the clay](clay.md)) (I.13 ¶31). *(Drafted.)*
     - quote: dégraisser cette figuline avec du sable
@@ -34,7 +41,7 @@ Keywords: briques, brickmaking, moulding, firing, drying, building material
 - **On the page.**
   - Smith set the workshop at the place of production, to avoid transport (I.13 ¶16). *(Drafted.)*
     - quote: Pour éviter les transports
-- **Appears in:** I.13
+- **Appears in:** I.13, I.19, I.20
 - **Open:**
   - Whether all of the three thousand were fired in the stack is not stated; ¶45 says only some thousands.
     - quote: quelques milliers de briques

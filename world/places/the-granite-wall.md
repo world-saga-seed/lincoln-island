@@ -42,6 +42,9 @@ Keywords: courtine, muraille, cliff, falaise, pan coupé, scree, prismatic, shor
     - quote: ces pentes allongées qui venaient mourir sur la grève
   - The granite mass of the coast, Smith says, is likely to contain a cavity to which the outlet leads (I.17 ¶34). *(Drafted.)*
     - quote: une cavité plus ou moins considérable devait exister dans la masse de granit
+  - Its curtain has a salient angling over the Mercy’s mouth, and Granite-house’s facade runs along the stretch between that salient and the heap of rocks of the Chimneys (I.19 ¶13). *(Drafted.)*
+    - quote: le saillant faisant angle sur l’embouchure de la Mercy
+    - quote: cette portion de la courtine
 - **On the page.**
   - Seen from the islet its top plateau shows no tree, but green trees stand to the right behind the cut face (I.3 ¶53). *(Drafted.)*
     - quote: la verdure ne manquait pas à droite, en arrière du pan coupé
@@ -51,4 +54,4 @@ Keywords: courtine, muraille, cliff, falaise, pan coupé, scree, prismatic, shor
     - quote: jusqu’au pied de l’énorme courtine de granit
   - In the morning sun it is flecked with gold on its prismatic roughness (I.9 ¶48). *(Drafted.)*
     - quote: piquait de paillettes d’or les rugosités prismatiques de l’énorme muraille
-- **Appears in:** I.3, I.4, I.7, I.8, I.9, I.11, I.14, I.16, I.17, I.18
+- **Appears in:** I.3, I.4, I.7, I.8, I.9, I.11, I.14, I.16, I.17, I.18, I.19

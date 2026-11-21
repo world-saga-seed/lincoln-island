@@ -115,6 +115,68 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He has struck the word "impossible" from the dictionary of Lincoln Island; the chapter's summary says he "ne doute plus de rien" (I.18 ¶11, ¶26). *(Drafted.)*
     - quote: Pencroff avait rayé le mot « impossible » du dictionnaire de l’île Lincoln
     - quote: qui ne doutait plus de rien
+  - He maintains that the island has no natives, though he grants that nobody will be sure until it has been explored in all its parts (I.19 ¶8, ¶10). *(Drafted.)*
+    - quote: Quant à être habitée par des indigènes, notre île ne l’est pas !
+    - quote: Nous n’en serons sûrs, évidemment, que lorsque nous l’aurons explorée dans toutes ses parties
+  - He asks for a "chambre d’amis" in the plan of Granite-house (I.19 ¶15). *(Drafted.)*
+    - quote: réclamée par Pencroff
+  - He works the rungs of the rope ladder "de main de maître" (I.19 ¶19). *(Drafted.)*
+    - quote: l’appareil fut travaillé de main de maître par Pencroff
+  - His faith in Cyrus Smith is absolute; nothing could shake it, and he thinks him able to undertake and succeed at anything (I.19 ¶21). *(Drafted.)*
+    - quote: Sa foi dans l’ingénieur était absolue
+    - quote: Rien n’eût pu la troubler
+    - quote: Il le croyait capable de tout entreprendre et de réussir à tout
+  - He is always ready with a joke, by turns carpenter, ropemaker and mason, and passes his good humour to the rest (I.19 ¶21). *(Drafted.)*
+    - quote: Pencroff ayant toujours le mot pour rire
+    - quote: communiquant sa bonne humeur à tout ce petit monde
+  - He dreams of canalised rivers, quarries and mines, machines for every industry and railways whose network would one day cover Lincoln Island; clothes, shoes, lighting and the taming of the wild flora all seem easy to him, "Cyrus Smith aidant" (I.19 ¶21). *(Drafted.)*
+    - quote: Il rêvait de rivières canalisées
+    - quote: de chemins de fer, oui, de chemins de fer !
+    - quote: tout lui paraissait facile, Cyrus Smith aidant
+  - He says the colonists outdo "les Robinsons d’autrefois" by a hundred cubits, since they know what to do (I.19 ¶23). *(Drafted.)*
+    - quote: ils dépassaient de cent coudées les Robinsons d’autrefois
+  - He is not jealous of the close sympathy that forms between Harbert and Cyrus Smith (I.19 ¶25). *(Drafted.)*
+    - quote: Pencroff voyait bien l’étroite sympathie
+    - quote: il n’en était point jaloux
+  - He and Nab are very fond of each other, and soon say "tu" to each other (I.19 ¶26). *(Drafted.)*
+    - quote: Pencroff et lui s’aimaient beaucoup, et n’avaient pas tardé à se tutoyer
+  - He is always a little astonished that the reporter is not the clumsiest of workmen (I.19 ¶27). *(Drafted.)*
+    - quote: ce dont s’étonnait toujours un peu le marin
+  - As a sailor used to running on the shrouds' ratlines he gives the colonists lessons on the ladder, and so zealous a master is he that Top learns to climb; he sometimes carries the dog on his back (I.19 ¶29). *(Drafted.)*
+    - quote: Pencroff, en sa qualité de marin, habitué à courir sur les enfléchures des haubans, put leur donner des leçons
+    - quote: Pencroff était un maître si zélé, que Top finit par exécuter convenablement ses ascensions
+    - quote: Pencroff le monta sur son dos
+  - He answers Harbert's plan to store the herbs for sickness with a serious question: why be ill, "puisqu’il n’y a pas de médecins dans l’île ?" (I.19 ¶33). *(Drafted.)*
+    - quote: Pourquoi serions-nous malades, puisqu’il n’y a pas de médecins dans l’île
+    - quote: répondit très-sérieusement Pencroff
+  - He makes snares of woody fibre, meaning also to set traps (I.20 ¶2); his snares of curry-jonc fibre bring in more than the traps do (I.22 ¶13). *(Drafted.)*
+    - quote: Il avait fabriqué des collets de fibres ligneuses
+    - quote: les collets donnèrent plus de profit que les trappes
+  - He had given Harbert the pigeons Harbert fed at Richmond (I.20 ¶37). *(Drafted.)*
+    - quote: ramiers dont Pencroff lui avait fait présent
+  - Told that four hundred thousand million grains make three million bushels, he says he knows only that he is "une bête" (I.20 ¶53). *(Drafted.)*
+    - quote: ce que je sais, c’est que je ne suis qu’une bête !
+  - He would not throw to the wind a tobacco seed that multiplies three hundred and sixty thousand times (I.20 ¶61). *(Drafted.)*
+    - quote: si jamais je trouve une de ces graines de tabac
+  - He goes every day to see what he calls, in earnest, his "champ de blé", and the insects that venture there get no mercy (I.21 ¶1). *(Drafted.)*
+    - quote: ce qu’il appelait sérieusement son « champ de blé »
+    - quote: Ils n’avaient aucune grâce à attendre
+  - He regrets that the island does not shelter bears rather than foxes and seals, whose fur is poor; the narrator says no bears existed or had shown themselves (I.22 ¶1, ¶5). *(Drafted.)*
+    - quote: Pencroff en était à regretter que l’île Lincoln ne donnât pas asile à quelques familles d’ours
+    - quote: dont la fourrure laissait à désirer
+    - quote: ils ne s’étaient pas montrés jusqu’alors
+  - He and Nab are proud of the heavy furniture made in the days of the storm, which they would not swap for Boule pieces (I.22 ¶27). *(Drafted.)*
+    - quote: ils firent l’orgueil de Nab et de Pencroff
+  - He and Harbert had cut the purple osiers before the rains, and the colonists turn basket-makers (I.22 ¶28). *(Drafted.)*
+    - quote: Pencroff et Harbert avaient moissonné ces utiles arbustes
+  - He claims that Cyrus Smith promised him firearms, and with the reporter's backing will not let the engineer rest until they are made; the narrator calls him "l’entêté marin" (I.22 ¶57). *(Drafted.)*
+    - quote: les armes à feu qu’il affirmait avoir été promises par Cyrus Smith
+    - quote: l’entêté marin
+    - quote: Gédéon Spilett appuyait, du reste, Pencroff
+  - He breaks a molar on a lead shot found in his helping of peccary, on 24 October (I.22 ¶62, ¶79, ¶82). *(Drafted.)*
+    - quote: je viens de me casser une dent
+    - quote: C’était un grain de plomb.
+    - quote: On était au 24 octobre
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -190,7 +252,17 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Il essaya bien de les abattre à coups de flèche, mais sans résultat
   - He asks what a new beast will be like in the stew-pot (I.15 ¶35). *(Drafted.)*
     - quote: Et quand il sera dans le pot-au-feu, fit naturellement observer Pencroff, à quoi ressemblera-t-il ?
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
+  - He looks on every animal as a question of the table: he asks if the culpeux can be eaten, and holds that any animal, whatever it be, is a good catch (I.21 ¶17; I.22 ¶6). *(Drafted.)*
+    - quote: qui ne considérait jamais les représentants de la faune de l’île qu’à un point de vue spécial
+    - quote: tout animal, quel qu’il fût, serait de bonne prise
+  - He answers a victory with a great "hurrah" (I.20 ¶59). *(Drafted.)*
+    - quote: suivant son habitude, Pencroff ne crut pas pouvoir répliquer autrement que par un hurrah formidable
+  - He is fond of pork, "surtout pour ses pieds" (I.22 ¶20). *(Drafted.)*
+    - quote: J’aime beaucoup le cochon, répondit le marin, surtout pour ses pieds
+  - He makes a great display of his catch, and does not like to hear it run down (I.22 ¶63, ¶70). *(Drafted.)*
+    - quote: fit grand étalage de sa chasse
+    - quote: qui n’aimait pas à entendre déprécier sa chasse
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

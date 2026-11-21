@@ -43,6 +43,74 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: arriver au fond du puits intérieur de Granite-house
   - The well has an upper opening, reached by climbing projections of the rock (III.16 ¶64). *(Drafted.)*
     - quote: s’élevant par les saillies du roc jusqu’à son orifice supérieur
+  - It is a vast, healthy retreat hollowed in the solid rock, sheltered from the waters of sea and sky, to replace the insufficient shelter of the Chimneys (I.19 ¶1). *(Drafted.)*
+    - quote: creusée en plein roc, à l’abri des eaux de la mer et du ciel
+  - The hole of the opening lies on the perpendicular above where the pick fell in the sand, about eighty feet above the beach; rock-pigeons already go in and out of it (I.19 ¶3). *(Drafted.)*
+    - quote: à quatre-vingts pieds environ au-dessus de la grève
+    - quote: Quelques pigeons de roche entraient et sortaient déjà
+  - Smith’s plan is to divide the right part of the cavern into several rooms preceded by an entrance corridor, lit by five windows and a door pierced in the facade (I.19 ¶4). *(Drafted.)*
+    - quote: diviser la portion droite de la caverne en plusieurs chambres précédées d’un couloir d’entrée
+    - quote: cinq fenêtres et d’une porte
+  - The facade faces east, so the rising sun greets it with its first rays (I.19 ¶13). *(Drafted.)*
+    - quote: était exposée à l’est
+    - quote: le soleil levant la saluait de ses premiers rayons
+  - It spreads over the stretch of the curtain between the salient that makes an angle over the Mercy’s mouth and a line drawn above the heap of rocks that form the Chimneys (I.19 ¶13). *(Drafted.)*
+    - quote: le saillant faisant angle sur l’embouchure de la Mercy
+    - quote: l’entassement de roches qui formaient les Cheminées
+  - The north-east winds, the bad ones, strike it only obliquely, since the orientation of the salient protects it (I.19 ¶13). *(Drafted.)*
+    - quote: ne la frappaient que d’écharpe
+  - The apartment proper is served by the five windows and a door, and a large bay and bull’s-eyes let the light pour into the great hall (I.19 ¶13). *(Drafted.)*
+    - quote: une large baie et d’œils-de-bœuf
+  - The openings were first blasted out with nitro-glycerine, then the pick and mattock finished the pointed shape of the five windows, the large bay, the bull’s-eyes and the door (see [the nitro-glycerine](../things/nitro-glycerine.md)) (I.19 ¶14). *(Drafted.)*
+    - quote: le granit se défonça aux places mêmes choisies par l’ingénieur
+    - quote: le pic et la pioche achevèrent le dessin ogival
+  - The plan divides the apartment into five compartments looking on the sea: from the right an entrance with the door where the ladder ends, a kitchen-room thirty feet wide, a dining-room forty feet, a dormitory of equal width, and a "guest room" asked for by Pencroff, next to the great hall (I.19 ¶15). *(Drafted.)*
+    - quote: cinq compartiments prenant vue sur la mer
+    - quote: une première chambre-cuisine, large de trente pieds
+    - quote: une salle à manger, mesurant quarante pieds
+    - quote: une « chambre d’amis », réclamée par Pencroff
+  - A corridor runs between the rooms and a long store for utensils, provisions and reserves, safe from damp (I.19 ¶16). *(Drafted.)*
+    - quote: un corridor ménagé entre elles et un long magasin
+    - quote: complètement à l’abri de l’humidité
+  - The small cave above the great cavern is to be its loft (see [the upper cave](the-upper-cave.md)) (I.19 ¶16). *(Drafted.)*
+    - quote: le grenier de la nouvelle demeure
+  - It is reached by the rope ladder, which drawn up makes the entrance absolutely inaccessible (see [the rope ladder](../things/the-rope-ladder.md)) (I.19 ¶18). *(Drafted.)*
+    - quote: rendrait l’entrée de Granite-house absolument inaccessible
+  - The partitions’ frame was erected easily, very rudimentary, and the apartment was divided into rooms and store (I.19 ¶20). *(Drafted.)*
+    - quote: On dressa aisément la charpente des cloisons, très-rudimentaire
+    - quote: l’appartement fut divisé en chambres et en magasin
+  - The partitions were finished on 31 May (I.19 ¶43). *(Drafted.)*
+    - quote: Le 31 mai, les cloisons étaient achevées
+  - A fireplace stands in the first room, which serves as kitchen; its flue, of brick earth, goes obliquely out through a hole pierced in the granite above the kitchen window, like a sheet-iron stove’s (I.19 ¶43). *(Drafted.)*
+    - quote: Une cheminée fut établie dans la première chambre, qui servait de cuisine
+    - quote: le fabriquer en terre de brique
+    - quote: on perça un trou dans le granit au-dessus de la fenêtre de ladite cuisine
+  - The chimney will probably smoke in the strong east winds that strike the facade head-on, but those are rare (I.19 ¶43). *(Drafted.)*
+    - quote: les grands vents d’est qui battaient directement la façade
+    - quote: ces vents étaient rares
+  - The water of the lake is led to it (see [the water channel](../things/the-water-channel.md)) (I.19 ¶45). *(Drafted.)*
+    - quote: jusqu’à la nouvelle demeure un filet des eaux douces du lac
+  - Spilett arranged plants of various kinds and long floating grasses in the projections of the rock round the windows, framing them in picturesque green (I.19 ¶47). *(Drafted.)*
+    - quote: des plantes d’espèces variées, ainsi que de longues herbes flottantes
+  - From the windows the eye sweeps a limitless horizon, shut by the two Mandibule capes on the north and cape Griffe on the south, with the whole Union Bay before them (I.19 ¶48). *(Drafted.)*
+    - quote: les deux caps Mandibule fermaient au nord et le cap Griffe au sud
+    - quote: Toute la baie de l’Union se développait magnifiquement devant eux
+  - Pencroff jokes that it is his "apartment on the fifth floor above the mezzanine" (I.19 ¶48). *(Drafted.)*
+    - quote: son appartement au cinquième au-dessus de l’entresol
+  - A second fireplace is set in the dining-room, where the colonists work together in the cold (I.21 ¶5). *(Drafted.)*
+    - quote: Une seconde cheminée avait été établie dans la salle à manger
+  - An interior tank is dug in the corner of the back store (see [the water channel](../things/the-water-channel.md)) (I.21 ¶6). *(Drafted.)*
+    - quote: un réservoir intérieur, qui avait été creusé à l’angle de l’arrière-magasin
+  - The well’s mouth opens at the bottom of the store, covered with a wooden panel (see [the well](the-well.md)) (I.22 ¶53). *(Drafted.)*
+    - quote: dont l’orifice s’ouvrait au fond du magasin
+    - quote: recouvert d’un panneau en bois
+  - In the hurricane from the north-west that takes the island from behind, the orientation of Granite-house spares it a direct assault (I.22 ¶23). *(Drafted.)*
+    - quote: l’orientation de Granite-house la préservait d’un assaut direct
+  - It is a solid, unshakable retreat, a mass on which neither water nor air has any hold; nature dug the cavern, and Smith only discovered it (I.22 ¶26). *(Drafted.)*
+    - quote: cette solide et inébranlable retraite
+    - quote: c’était la nature qui avait creusé cette vaste caverne, et il n’avait fait que la découvrir
+  - In the great cold every opening of the facade must be stopped hermetically (see [the shutters](../things/the-shutters.md)) (I.22 ¶41). *(Drafted.)*
+    - quote: obstruer hermétiquement toutes les ouvertures de la façade
 - **On the page.**
   - The well is at the cavern’s end (see [the well](the-well.md)); Top’s barking finds nothing in the cavern, and Smith murmurs that Top knows more than they do about many things (I.18 ¶56). *(Drafted.)*
     - quote: Top en sait plus long que nous sur bien des choses
@@ -52,7 +120,7 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: la corde du haut de Granite-house
   - Nemo summoned the colonists of Granite-house by a wire linking the corral to the Nautilus (III.16 ¶66). *(Drafted.)*
     - quote: il manda, comme on sait, les colons de Granite-house
-- **Appears in:** I.18, III.16
+- **Appears in:** I.18, I.19, I.20, I.21, I.22, III.16
 - **Open:**
   - Chapter I.13 knows no Granite-house: there the engineer still hopes to find or build a better dwelling than the Chimneys (I.13 ¶40). Nothing in these chapters says where Granite-house stands, how big it is, or how the well opens inside it.
     - quote: une demeure plus convenable

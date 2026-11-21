@@ -29,6 +29,8 @@ Keywords: Virginia, siege, capital, stronghold, great square, prison, escape, Gr
     - quote: nous sommes sortis de Richmond, sans la permission des autorités
   - Spilett's watch kept the Richmond time, and the meridian of Richmond is about that of Washington (I.12 ¶9). *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington
+  - At Richmond Harbert fed some wood-pigeons that Pencroff had given him (I.20 ¶37). *(Drafted.)*
+    - quote: étant à Richmond, de nourrir quelques ramiers dont Pencroff lui avait fait présent
 - **On the page.**
   - The castaways were seven thousand miles from it when they landed on 24 March (I.2 ¶1). *(Drafted.)*
     - quote: à sept mille milles de cette capitale
@@ -36,4 +38,4 @@ Keywords: Virginia, siege, capital, stronghold, great square, prison, escape, Gr
     - quote: Une pluie mêlée de neige tombait
   - The landing shore was more than six thousand miles from their country (I.2 ¶57). *(Drafted.)*
     - quote: à plus de six mille milles de leur pays
-- **Appears in:** I.2, I.11, I.12
+- **Appears in:** I.2, I.11, I.12, I.20

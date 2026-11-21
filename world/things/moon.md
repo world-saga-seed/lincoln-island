@@ -9,6 +9,7 @@ Keywords: lune, croissant, crescent, moon, reflection, sea, western horizon
     - quote: le croissant délié de la lune, déjà près de disparaître
   - Its light sufficed to draw the line of the horizon, and the engineer saw its trembling image reflected a moment on a liquid surface (I.10 ¶59). *(Drafted.)*
     - quote: son image tremblotante se refléter un instant sur une surface liquide
-  - The crescent went out in the waves as Smith cried "An island!" (I.10 ¶61). *(Drafted.)*
-    - quote: au moment où le croissant lunaire s’éteignait dans les flots
-- **Appears in:** I.10
+  - Smith holds the moon to be truly a cooled star, no longer habitable though the sun still pours on it the same heat (I.21 ¶42). *(Drafted.)*
+    - quote: la lune est bien véritablement un astre refroidi
+    - quote: n’est plus habitable
+- **Appears in:** I.10, I.21

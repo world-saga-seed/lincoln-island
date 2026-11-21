@@ -25,4 +25,6 @@ Keywords: varech, algues, sargasses, wrack, fucaceae, couch, bed, food, shore
   - Dried and then burnt in open-air pits for several days, until the heat melted the ashes, they gave a compact greyish mass known as natural soda (see [the soda](soda.md)) (I.17 ¶45). *(Drafted.)*
     - quote: on les fit d’abord sécher, puis ensuite brûler dans des fosses en plein air
     - quote: soude naturelle
-- **Appears in:** I.8, I.9, I.10, I.17
+  - Dried wrack, "warechs", is used with brushwood for a fire on the south-east beach (I.21 ¶20). *(Drafted.)*
+    - quote: Un feu de broussailles et de warechs desséchés
+- **Appears in:** I.8, I.9, I.10, I.17, I.21

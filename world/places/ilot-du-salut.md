@@ -37,8 +37,6 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: qui semblaient avoir choisi l’îlot pour refuge
   - Smith watched the seals closely and, without telling his idea, said the islet would soon be visited (I.14 ¶29). *(Drafted.)*
     - quote: sans faire connaître son idée
-  - Smith sets foot on it for the first time on 17 April, his companions for the second, since it was there that the balloon first threw them (I.15 ¶16). *(Drafted.)*
-    - quote: puisque c’était là que le ballon les avait jetés tout d’abord
   - A few hundred penguins, and some very innocent auks whose wings are reduced to flipper-like stumps, live on it (I.15 ¶16). *(Drafted.)*
     - quote: quelques centaines de pingouins
     - quote: certains manchots très-innocents
@@ -47,16 +45,24 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
   - The seals lie on its sand and are seen swimming off its north point as large black spots (I.15 ¶16, ¶17). *(Drafted.)*
     - quote: les amphibies, qui étaient couchés sur le sable
     - quote: de gros points noirs qui nageaient à fleur d’eau
+  - Seals, "the amphibians of the islet", supply the fat for the candles (I.20 ¶18). *(Drafted.)*
+    - quote: les amphibies de l’îlot
+  - The seals on it are numerous; the hunters kill half a dozen easily with iron-shod spears on 5 June (I.20 ¶21). *(Drafted.)*
+    - quote: Les phoques étaient nombreux
+    - quote: en tuèrent aisément une demi-douzaine
+  - Smith notes that off Granite-house the banks and the islet multiplied the chances of salvation, where the south-east shore offered only the abyss (I.21 ¶22). *(Drafted.)*
+    - quote: il y avait des bancs, un îlot, qui multipliaient les chances de salut
+  - In the August storm the sea passes over it and beats the Chimneys behind (I.22 ¶26, ¶39). *(Drafted.)*
+    - quote: la mer, passant par-dessus l’îlot
+    - quote: sautant par-dessus l’îlot
 - **On the page.**
   - Large heavy-flying birds rose from its holes, and others in flocks; Pencroff took them for gulls and sea-mews (I.3 ¶14). *(Drafted.)*
     - quote: des goëlands et des mouettes
-  - Pencroff took the first point for a promontory and saw on reaching the second that they had walked the whole islet from end to end (I.3 ¶24). *(Drafted.)*
-    - quote: nous l’avons arpenté d’une extrémité à l’autre
   - The whole islet showed when the fog lifted, as if it had come down from a cloud (I.3 ¶41). *(Drafted.)*
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15
+- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?

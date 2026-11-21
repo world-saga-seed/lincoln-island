@@ -9,4 +9,6 @@ Keywords: promontoire du Reptile, Reptile-end, queue, reptile, extremity, south-
     - quote: celui de promontoire du Reptile (Reptile-end) à la queue recourbée qui la termine
   - Smith adopted the name (I.11 ¶67). *(Drafted.)*
     - quote: Adopté, dit l’ingénieur
-- **Appears in:** I.11
+  - The wooded part of the island is said to stretch from the Mercy to it (I.20 ¶30). *(Drafted.)*
+    - quote: jusqu’au promontoire du Reptile
+- **Appears in:** I.11, I.20

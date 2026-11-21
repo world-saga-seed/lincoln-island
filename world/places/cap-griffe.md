@@ -27,12 +27,19 @@ Keywords: cap Griffe, headland, promontory, point, south shore, cap de la Griffe
     - quote: le cap Griffe lui cachait l’horizon du sud
   - The heights of the right bank slope down to its end (I.13 ¶73). *(Drafted.)*
     - quote: jusqu’à l’extrémité du cap Griffe
+  - From the windows of Granite-house it closes the horizon on the south (I.19 ¶48). *(Drafted.)*
+    - quote: le cap Griffe au sud
+  - It is curved like a yataghan and tapers sharply, about four miles to the south-east of the beach where the colonists halt on 5 July (I.21 ¶20). *(Drafted.)*
+    - quote: recourbé en forme de yatagan
+    - quote: à quatre milles environ vers le sud-est
+  - The marshy land of the south-east lies between the Mercy and the cape (I.21 ¶7). *(Drafted.)*
+    - quote: comprise au sud-est entre la Mercy et le cap Griffe
 - **On the page.**
   - From the plateau a sharp point in the south shuts the horizon, and one could not tell whether the land goes on or turns south-east and south-west, making a very long peninsula (I.4 ¶46). *(Drafted.)*
     - quote: une sorte de presqu’île très-allongée
   - The half-circle of horizon visible from the plateau runs from the cape to the promontory of the Reptile (I.13 ¶73). *(My reading, to confirm.)*
     - quote: depuis le cap jusqu’au promontoire du Reptile
-- **Appears in:** I.3, I.4, I.11, I.13
+- **Appears in:** I.3, I.4, I.11, I.13, I.19, I.21
 - **Open:**
   - The text does not say how far the cape is from the Chimneys or the plateau.
     - quote: le cap Griffe lui cachait l’horizon du sud

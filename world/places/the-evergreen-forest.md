@@ -41,12 +41,14 @@ Keywords: forêt, conifers, woodland, deodar, pine, dead wood, riverbank, tall g
     - quote: à neuf heures, Cyrus Smith et ses compagnons atteignaient la lisière occidentale de la forêt
   - The ground rises slightly from the shore towards the interior (I.10 ¶21). *(Drafted.)*
     - quote: accusait une légère pente, qui remontait du littoral vers l’intérieur de la contrée
+  - The forest on the Mercy’s right bank is of great, superb conifers, covered with snow in July (I.21 ¶12). *(Drafted.)*
+    - quote: ces grands et superbes conifères, alors couverts de neige
 - **On the page.**
   - A mass of tall trees was visible from the islet to the right of the cut face (I.3 ¶53). *(Drafted.)*
     - quote: la masse confuse de grands arbres
   - The grass on the bank had probably never been trodden by a man (I.4 ¶38). *(Drafted.)*
     - quote: le pied d’un homme ne s’était, probablement, jamais hasardé
-- **Appears in:** I.3, I.4, I.6, I.9, I.10
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.21
 - **Open:**
   - I.4 does not name this forest. I.13 ¶36 names the wood of the Jacamar as the part of the forest on the left bank of the Mercy, and I.4 ¶28 puts this forest on the left bank of the river at the Chimneys; the card does not join them.
     - quote: ils commencèrent à remonter la rive gauche de la rivière

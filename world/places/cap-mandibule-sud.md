@@ -13,4 +13,6 @@ Keywords: cap Mandibule-Sud, Mandible-cape, south jaw, north-east, point
     - quote: On n’y voyait que sable et coquilles, mélangés de débris de laves
   - The point of "cap Mandibule" reached on 16 April lies nearly seven miles from the Chimneys; it is read as this cape (I.15 ¶5). *(My reading, to confirm.)*
     - quote: distante de près de sept milles des Cheminées
-- **Appears in:** I.11, I.14, I.15
+  - The two Mandibule capes close the horizon on the north from the windows of Granite-house (I.19 ¶48). *(Drafted.)*
+    - quote: les deux caps Mandibule fermaient au nord
+- **Appears in:** I.11, I.14, I.15, I.19

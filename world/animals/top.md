@@ -47,6 +47,20 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He leads the little troop into the passage, and the dog's sagacity is relied on to give the alarm if need be (I.18 ¶21). *(Drafted.)*
     - quote: Top tenait la tête de la petite troupe
     - quote: on pouvait s’en rapporter à la sagacité du chien, qui ne manquerait point de donner l’alarme, le cas échéant
+  - He is no climber by build, with his four paws; Pencroff trains him so well that he climbs the ladder properly, like the dogs of the circus, and never complains when the sailor carries him on his back (I.19 ¶29). *(Drafted.)*
+    - quote: Le pauvre chien, avec ses quatre pattes, n’était pas bâti pour cet exercice
+    - quote: monta bientôt à l’échelle comme font couramment ses congénères dans les cirques
+    - quote: ce dont Top ne se plaignit jamais
+  - He cannot outrun the warren's rabbits, which flee so fast that "Top lui-même n’aurait pu les gagner de vitesse" (I.19 ¶40). *(Drafted.)*
+    - quote: Top lui-même n’aurait pu les gagner de vitesse
+  - Barking foxes surprise him: he stops short in the chase and lets them get away; "il ne savait pas l’histoire naturelle" (I.21 ¶15, ¶16). *(Drafted.)*
+    - quote: Top parut lui-même fort étonné, car il s’arrêta dans sa poursuite
+    - quote: il ne savait pas l’histoire naturelle
+  - He takes part skilfully in the capture of the shelducks (I.21 ¶55). *(Drafted.)*
+    - quote: Top concourut adroitement à la capture de ces volatiles
+  - He is the most impatient of the shut-in colonists after Pencroff, finds Granite-house far too narrow, and shows his boredom by pacing from room to room (I.22 ¶52). *(Drafted.)*
+    - quote: le plus impatient de cet emprisonnement, après Pencroff toutefois, c’était Top
+    - quote: Il allait et venait d’une chambre à l’autre
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -93,4 +107,11 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
     - quote: Top en sait plus long que nous sur bien des choses
   - On the climb back he closes the march, still making singular growls (I.18 ¶81). *(Drafted.)*
     - quote: Top fermait la marche, et faisait encore entendre de singuliers grognements
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18
+  - Beside the well that opens at the back of the storeroom and is joined to the sea, he growls, circles the hole (covered with a wooden panel), tries to slip his paws under it as if to lift it, and yaps with both anger and anxiety (I.22 ¶53). *(Drafted.)*
+    - quote: Top faisait entendre des grognements singuliers
+    - quote: il cherchait à glisser ses pattes sous ce panneau, comme s’il eût voulu le soulever
+    - quote: qui indiquait à la fois colère et inquiétude
+  - His master, who watches this several times, takes him for a sensible dog "qui n’ont jamais perdu leur temps à aboyer à la lune", and wonders what in the well so affects him (I.22 ¶54). *(Drafted.)*
+    - quote: un de ces chiens sensés qui n’ont jamais perdu leur temps à aboyer à la lune
+    - quote: Qu’y avait-il donc dans cet abîme qui pût impressionner à ce point l’intelligent animal
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22

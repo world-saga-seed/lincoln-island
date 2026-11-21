@@ -18,4 +18,20 @@ Keywords: fauve, bête, beast, prey, empreintes, tracks, griffes, claws, dangere
   - On the north rim of the lake no fauve shows itself, and it is probable that such animals haunt rather the thick forests of the south (I.16 ¶29). *(Drafted.)*
     - quote: aucun fauve ne se montra
     - quote: ces animaux fréquentaient plutôt les épaisses forêts du sud
-- **Appears in:** I.10, I.12, I.15, I.16
+  - Pencroff says that so far the animals have not seemed very formidable (I.19 ¶8). *(Drafted.)*
+    - quote: Jusqu’ici les animaux ne nous ont pas semblé être bien redoutables
+  - Bears do not exist on the island, or at least have not shown themselves (I.22 ¶5). *(Drafted.)*
+    - quote: ces formidables carnassiers n’existaient point dans l’île, ou, du moins, ils ne s’étaient pas montrés jusqu’alors
+  - Round the snow-buried traps the prints are numerous, among them very clear claw marks; Harbert affirms that a carnivore of the feline kind passed there, which bears out the engineer's opinion that dangerous beasts are on the island (I.22 ¶31). *(Drafted.)*
+    - quote: certaines marques de griffes très-nettement accusées
+    - quote: quelque carnassier du genre des féliens
+    - quote: la présence de fauves dangereux à l’île Lincoln
+  - The felines are, Harbert says, tigers, found on the new continent from Mexico to the Pampas of Buenos Aires (I.22 ¶33, ¶35). *(Drafted.)*
+    - quote: Ce sont des tigres
+    - quote: depuis le Mexique jusqu’aux Pampas de Buenos-Ayres
+  - These beasts probably live in the thick forests of the Far-West and, pressed by hunger, came as far as the plateau; they may have scented the dwellers of Granite-house (I.22 ¶31). *(Drafted.)*
+    - quote: ces fauves habitaient ordinairement les épaisses forêts du Far-West
+    - quote: Peut-être sentaient-ils les hôtes de Granite-house
+  - Gédéon Spilett says that if the island holds fierce animals they must be fought and exterminated (I.22 ¶58). *(Drafted.)*
+    - quote: il faut penser à les combattre et à les exterminer
+- **Appears in:** I.10, I.12, I.15, I.16, I.19, I.22

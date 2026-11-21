@@ -15,6 +15,11 @@ Keywords: bois mort, fagots, fuel, kindling, bûches, combustible
     - quote: une charge de bois, liée en fagots
   - On the first plateau of the mountain fuel was scarce: mosses and dry brush bristled on parts of it, and Nab and Harbert fetched a load of brushwood (I.10 ¶45). *(Drafted.)*
     - quote: des mousses et des broussailles sèches qui hérissaient certaines portions du plateau
+  - Pencroff has enormous trains of wood driven down the Mercy before it freezes, and the current carries driftwood until the cold chains it; the fuel store must be renewed several times (I.21 ¶5). *(Drafted.)*
+    - quote: conduire d’énormes trains de bois à leur destination
+    - quote: charrier du bois flotté
+  - When the river is free again the colonists use its current to bring down several more trains (I.22 ¶38). *(Drafted.)*
+    - quote: pour en amener plusieurs trains
 - **On the page.**
   - Its large store was put in one of the Chimneys' chambers (I.5 ¶11). *(Drafted.)*
     - quote: La provision de bois fut emmagasinée dans l’une des chambres
@@ -22,4 +27,4 @@ Keywords: bois mort, fagots, fuel, kindling, bûches, combustible
     - quote: quelques bûches, entremêlées de menu bois
   - The forest's clearings are covered with dead wood, inexhaustible reserves of fuel (I.9 ¶87). *(Drafted.)*
     - quote: étaient couvertes de bois mort, et formaient ainsi d’inépuisables réserves de combustible
-- **Appears in:** I.4, I.5, I.7, I.9, I.10
+- **Appears in:** I.4, I.5, I.7, I.9, I.10, I.21, I.22

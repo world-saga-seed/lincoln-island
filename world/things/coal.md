@@ -19,10 +19,13 @@ Keywords: houille, charcoal, fuel, seam, deposit, mineral
     - quote: la houille fut récoltée, sans peine et non loin, à la surface du sol
   - The coal deposit abounds in schistose pyrites (I.17 ¶37). *(Drafted.)*
     - quote: où abondaient ces pyrites schisteuses
+  - In the cold the colonists add several cartloads of coal to the wood fuel, fetched from the foot of the buttresses of Mont Franklin (I.21 ¶5). *(Drafted.)*
+    - quote: plusieurs charretées de houille
+    - quote: au pied des contreforts du mont Franklin
+  - The sailor and Nab go again to the coal seam with the cart and bring back some tons of fuel (I.22 ¶37). *(Drafted.)*
+    - quote: jusqu’au gisement de houille, afin de rapporter quelques tonnes de combustible
 - **On the page.**
-  - The engineer found it, and the kiln was charged with it five days after the kiln was begun (I.13 ¶46). *(Drafted.)*
-    - quote: Cinq jours après, le four fut chargé de cette houille
-- **Appears in:** I.12, I.13, I.15, I.17
+- **Appears in:** I.12, I.13, I.15, I.17, I.21, I.22
 - **Open:**
   - The size of the seam and the distance to the clearing are not given.
     - quote: un gisement à ciel ouvert

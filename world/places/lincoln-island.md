@@ -135,6 +135,46 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: qui soufflent du nord-ouest dans cet hémisphère
   - Smith says alligators are met only in regions of lower latitude (I.16 ¶43). *(Drafted.)*
     - quote: Les alligators ne se rencontrent que dans les régions moins élevées en latitude
+  - Pencroff holds that the island is not inhabited by natives, and Smith asks whether he is sure; they can be sure only when they have explored it all, since they know only a small part (I.19 ¶8, ¶9, ¶11). *(Drafted.)*
+    - quote: Quant à être habitée par des indigènes, notre île ne l’est pas
+    - quote: nous n’en connaissons encore qu’une petite portion
+  - Enemies might come from outside, for these are bad waters of the Pacific (I.19 ¶11). *(Drafted.)*
+    - quote: ce sont de mauvais parages que ces parages du Pacifique
+  - Out of the track of ships in this part of the Pacific, the colonists may never be rescued, and the distance to any other land is such that venturing out in a boat of necessarily poor build would be grave and perilous (I.19 ¶22). *(Drafted.)*
+    - quote: en dehors du passage des navires, il pouvait craindre de n’être jamais secouru
+    - quote: se hasarder sur un bateau, de construction nécessairement médiocre
+  - Winter begins in June, the month that matches December in the northern hemisphere (I.20 ¶1). *(Drafted.)*
+    - quote: qui correspond au mois de décembre de l’hémisphère boréal
+  - Spilett says the thirty-fifth parallel matches Spain’s; Smith answers that some Spanish winters are very cold, but that, an island, it should have a milder climate (I.20 ¶6, ¶7). *(Drafted.)*
+    - quote: ce trente-cinquième parallèle correspondait à celui de l’Espagne
+    - quote: c’est une île, et, comme telle, j’espère que la température y sera plus modérée
+  - On 29 June a Fahrenheit thermometer would have shown twenty degrees above zero; on 4 July eight degrees (13 degrees centigrade below zero) (I.21 ¶2, ¶5). *(Drafted.)*
+    - quote: vingt degrés seulement au-dessus de zéro
+    - quote: huit degrés Fahrenheit (13° centigr. au-dessous de zéro)
+  - The south-east part of the island is truly sterile and contrasts with the whole western region (I.21 ¶21). *(Drafted.)*
+    - quote: Cette partie de l’île Lincoln était réellement stérile et contrastait avec toute la région occidentale
+  - Spilett finds so varied a soil strange on a relatively small island: the west seems bathed by the warm waters of the Gulf of Mexico, the north and south-east shores by a sort of Arctic sea (I.21 ¶23). *(Drafted.)*
+    - quote: est baignée par les eaux chaudes du golfe Mexicain
+    - quote: sur une sorte de mer Arctique
+  - Smith finds it strange in form and nature, a summary of all the aspects of a continent, and would not be surprised if it had once been a continent (I.21 ¶24). *(Drafted.)*
+    - quote: On dirait un résumé de tous les aspects que présente un continent
+    - quote: qu’elle eût été continent autrefois
+  - Smith explains the variety of its products and the number and variety of its animals by its having been part of a vast continent that sank by degrees below the Pacific (I.21 ¶30, ¶32). *(Drafted.)*
+    - quote: cela expliquerait assez cette diversité de productions
+    - quote: a pu faire autrefois partie de quelque vaste continent
+  - It is of purely volcanic origin and will probably disappear one day (I.21 ¶46, ¶47, ¶48). *(Drafted.)*
+    - quote: elle est purement d’origine volcanique
+    - quote: Alors, elle disparaîtra un jour ?
+    - quote: C’est probable.
+  - Smith thinks the colonists may perhaps end by getting out of it (I.21 ¶50). *(Drafted.)*
+    - quote: nous finirons peut-être par nous en tirer
+  - Snow falls for several days in mid-August and covers the whole island, two feet deep, giving it a new aspect (I.22 ¶22). *(Drafted.)*
+    - quote: Toute l’île se couvrit d’une couche blanche
+    - quote: son épaisseur atteignit bientôt deux pieds
+  - There are no bears, or at least none had shown themselves (I.22 ¶5). *(Drafted.)*
+    - quote: ces formidables carnassiers n’existaient point dans l’île
+  - A part of the island is still unknown: the whole west side under the high forests (I.22 ¶60). *(Drafted.)*
+    - quote: toute la partie ignorée de l’île Lincoln
 - **On the page.**
   - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
     - quote: peu effrayés de la présence de l’homme
@@ -144,7 +184,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, III.16
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, III.16
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent
@@ -170,3 +210,6 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: un développement de plus de cent milles
     - quote: Environ 45 lieues de 4 kilomètres.
   - The lengths of the island and of its tail: see the Open line of [Presqu’île Serpentine](presqu-ile-serpentine.md).
+  - Where the marsh lies: I.11 ¶32 speaks of stagnant water "dans la portion marécageuse du nord-est", and I.21 ¶7 puts the marshy ground in the south-east between the Mercy and cape Griffe (see [the marsh of the Tadornes](marais-des-tadornes.md)). Carded neither way. *(Drafted.)*
+    - quote: dans la portion marécageuse du nord-est
+    - quote: comprise au sud-est entre la Mercy et le cap Griffe

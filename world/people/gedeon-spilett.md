@@ -65,6 +65,29 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: dont la confiance en Cyrus Smith était telle qu’il ne doutait pas que l’entreprise ne réussît
   - Guided by the engineer, he becomes one of "les plus adroits ouvriers du monde" (I.17 ¶49). *(Drafted.)*
     - quote: habilement guidés par l’ingénieur, étaient devenus les plus adroits ouvriers du monde
+  - He takes his share of the common work and is "pas le plus maladroit"; he is a "journaliste" able not only to understand everything but to do everything (I.19 ¶27). *(Drafted.)*
+    - quote: il prenait sa part du travail commun, et n’était pas le plus maladroit
+    - quote: habile, non pas seulement à tout comprendre, mais à tout exécuter
+  - He and Harbert are the colony's providers, and hunt some hours a day (I.19 ¶30). *(Drafted.)*
+    - quote: le reporter et Harbert, devenus décidément les pourvoyeurs de la colonie
+  - He is set on stocking the larder with at least half a dozen rabbits before he quits the warren, meaning to domesticate those taken later (I.19 ¶40). *(Drafted.)*
+    - quote: le reporter était bien résolu à ne pas quitter la place avant d’avoir capturé au moins une demi-douzaine de ces quadrupèdes
+    - quote: quitte à domestiquer ceux que l’on prendrait plus tard
+  - He arranges plants and long floating grasses "très-artistement" in the rock around the windows, framing them in green (I.19 ¶47). *(Drafted.)*
+    - quote: Gédéon Spilett avait très-artistement disposé
+  - He recalls that the island lies on the thirty-fifth parallel, which answers to Spain's in the other hemisphere, and so thinks its winters will not be hard (I.20 ¶6). *(Drafted.)*
+    - quote: ce trente-cinquième parallèle correspondait à celui de l’Espagne
+    - quote: il est probable que les hivers n’y sont pas rudes
+  - He finds it singular that so small an island should have so varied a soil, which belongs logically only to continents of some extent (I.21 ¶23). *(Drafted.)*
+    - quote: cette île, relativement petite, présente un sol aussi varié
+  - He tells Cyrus Smith his theories are for him prophecies, and says: "installons-nous comme pour l’éternité. Il ne faut jamais rien faire à demi." (I.21 ¶43, ¶51). *(Drafted.)*
+    - quote: ces théories sont pour moi des prophéties
+    - quote: installons-nous comme pour l’éternité
+  - He is the only companion Cyrus Smith tells of Top's behaviour at the well (I.22 ¶55). *(Drafted.)*
+    - quote: l’ingénieur ne communiqua ses impressions qu’à Gédéon Spilett
+  - He backs Pencroff in asking for firearms, and says that if the island holds fierce animals they must be fought and exterminated (I.22 ¶57, ¶58). *(Drafted.)*
+    - quote: Gédéon Spilett appuyait, du reste, Pencroff
+    - quote: il faut penser à les combattre et à les exterminer
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -113,7 +136,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He sketches calmly an animal he takes for a bear, and, once it proves a koula, strikes "ours" from the legend of his sketch and writes "koula" in its place (I.15 ¶38). *(Drafted.)*
     - quote: se mit à dessiner tranquillement
     - quote: effaça « ours » de la légende de son croquis, mit « koula » à la place
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

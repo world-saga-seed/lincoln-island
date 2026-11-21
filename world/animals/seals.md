@@ -28,4 +28,15 @@ Keywords: phoque, seal, amphibie, amphibian, îlot du Salut, islet, huile, oil, 
   - Their skins are meant to make a blowing machine for the forge, and are to be used as they are, without tanning (I.15 ¶26, ¶28). *(Drafted.)*
     - quote: que l’ingénieur comptait fabriquer avec la peau de ces amphibies
     - quote: sans leur faire subir aucun tannage
-- **Appears in:** I.14, I.15
+  - The amphibians of the islet furnish the fat Cyrus Smith needs for candles (I.20 ¶18). *(Drafted.)*
+    - quote: les amphibies de l’îlot lui fourniraient la graisse nécessaire
+  - They are numerous on the islet; about half a dozen are killed with iron-shod spears (I.20 ¶21). *(Drafted.)*
+    - quote: Les phoques étaient nombreux
+    - quote: en tuèrent aisément une demi-douzaine
+  - Only the fat and the skins are taken back, the skins to make strong shoes; the fat comes to about three hundred pounds (I.20 ¶21, ¶22). *(Drafted.)*
+    - quote: ne rapportèrent à Granite-house que leur graisse et leur peau
+    - quote: cette peau devant servir à la fabrication de solides chaussures
+    - quote: environ trois cents livres de graisse
+  - Pencroff finds their fur poor for clothing (I.22 ¶1). *(Drafted.)*
+    - quote: ces renards ou à ces phoques, dont la fourrure laissait à désirer
+- **Appears in:** I.14, I.15, I.20, I.22

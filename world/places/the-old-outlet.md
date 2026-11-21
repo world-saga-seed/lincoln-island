@@ -48,10 +48,27 @@ Keywords: déversoir, ancien déversoir, outlet, overflow, conduit, boyau, coulo
     - quote: soixante pieds plus bas
   - The upper cave serves as a landing halfway up the long granite stair (I.18 ¶81). *(Drafted.)*
     - quote: à mi-hauteur de ce long escalier de granit
+  - Pencroff sees in it a natural stair by which access to Granite-house would always be easy (I.19 ¶4). *(Drafted.)*
+    - quote: l’ancien déversoir offrait un escalier naturel
+  - Smith means to stop it hermetically at its mouth and, if need be, hide the entrance altogether by raising the lake’s waters with a dam (I.19 ¶5). *(Drafted.)*
+    - quote: obstruer ce déversoir à son orifice, le boucher hermétiquement
+    - quote: au moyen d’un barrage, un relèvement des eaux du lac
+  - Until the ladder it was the only way into the cavern: climb to the Grande-Vue plateau by a detour along the river bank, go down two hundred feet by the passage, and climb the same height back (I.19 ¶18). *(Drafted.)*
+    - quote: n’avaient eu accès dans la caverne que par l’ancien déversoir
+    - quote: à descendre deux cents pieds par le couloir
+  - Its mouth at the lake was stopped: rock quarters were rolled into the opening and strongly cemented (I.19 ¶44). *(Drafted.)*
+    - quote: Des quartiers de roches furent roulés à l’ouverture et cimentés fortement
+  - Smith has not yet carried out his plan of drowning the mouth under the lake by a dam; he disguised the blocking with grasses, shrubs and brushwood planted in the gaps between the rocks (I.19 ¶44). *(Drafted.)*
+    - quote: Cyrus Smith ne réalisa pas encore le projet
+    - quote: dissimuler l’obstruction
+  - He used it to lead a thread of the lake’s fresh water to Granite-house, by a small cut below the lake’s level (see [the water channel](../things/the-water-channel.md)) (I.19 ¶45). *(Drafted.)*
+    - quote: Une petite saignée, faite au-dessous de leur niveau
+  - In the frost the water taken beneath the frozen surface and led by it keeps its liquidity (I.21 ¶6). *(Drafted.)*
+    - quote: conduites par l’ancien déversoir, elles conservaient leur liquidité
 - **On the page.**
   - The drops of water still hanging on the rocks sparkle in the torchlight, so that the walls seem lined with countless stalactites (I.18 ¶19). *(Drafted.)*
     - quote: s’irisaient çà et là sous le feu des torches
-- **Appears in:** I.16, I.17, I.18
+- **Appears in:** I.16, I.17, I.18, I.19, I.21
 - **Open:**
   - How far the passage runs in all is not totalled: Smith and Harbert say that after about a hundred feet they are still at about a third of the height (I.18 ¶28, ¶29). *(Drafted.)*
     - quote: Nous ne sommes encore qu’au tiers de la hauteur

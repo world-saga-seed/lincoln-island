@@ -37,7 +37,10 @@ Keywords: baie, grève, beach, shore, reefs, brisants, sandbanks, ebb, coast, ba
     - quote: ce qui mettait à l’est la baie de l’Union et tout le plateau de Grande-Vue
   - The point that closes it on the north is named cape Mandibule-Sud (see [Cape Mandibule-Sud](cap-mandibule-sud.md)) (I.14 ¶38). *(Drafted.)*
     - quote: cette pointe qui fermait la baie de l’Union
+  - The whole bay spreads before the windows of Granite-house (I.19 ¶48). *(Drafted.)*
+    - quote: Toute la baie de l’Union se développait magnifiquement devant eux
+  - In the south-east part of the bay, which nothing covers from the open sea, not even a sandbank, ships beaten by the east winds would find no shelter; the coast is steep-to over deep abysses (I.21 ¶20). *(Drafted.)*
+    - quote: en cette partie de la baie de l’Union, que rien ne couvrait du large, pas même un banc de sable
+    - quote: cette côte était accore
 - **On the page.**
-  - Nab and Spilett walked the coast for more than eight miles and found no trace, footprint or inhabitant (I.5 ¶42). *(Drafted.)*
-    - quote: Il était évident qu’aucun habitant ne fréquentait cette portion de la côte
-- **Appears in:** I.3, I.4, I.5, I.11, I.14
+- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21

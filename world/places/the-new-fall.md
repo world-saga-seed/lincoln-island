@@ -17,4 +17,12 @@ Keywords: chute, nouvelle chute, cascade, waterfall, saignée, stream, déversoi
     - quote: d’une hauteur de trois cents pieds sur la grève
   - The new outflow carries at least triple the volume that passed before by the old outlet (I.18 ¶3). *(Drafted.)*
     - quote: au moins triple de celui qui passait auparavant par l’ancien
-- **Appears in:** I.17, I.18
+  - The outlet made by the mine cuts the plateau and the beach across, so that going north means crossing a stream, or a detour west beyond the Red Creek’s sources (I.20 ¶29). *(Drafted.)*
+    - quote: le nouveau déversoir, créé à coups de mine
+    - quote: remonter dans l’ouest jusqu’au delà des sources du Creek-Rouge
+  - Two small bridges are built to cross it (see [the two bridges](../things/the-two-bridges.md)) (I.20 ¶29). *(Drafted.)*
+    - quote: deux ponceaux, longs de vingt à vingt-cinq pieds
+  - In the winter ice the rocks over which the cascade falls at the plateau’s edge are bristling with ice, like a monstrous gargoyle (I.22 ¶30). *(Drafted.)*
+    - quote: étaient hérissés de glaces
+    - quote: une monstrueuse gargouille
+- **Appears in:** I.17, I.18, I.20, I.22

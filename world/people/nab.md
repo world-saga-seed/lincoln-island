@@ -55,6 +55,26 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: son courageux serviteur
   - Guided by the engineer, he becomes one of "les plus adroits ouvriers du monde" (I.17 ¶49). *(Drafted.)*
     - quote: habilement guidés par l’ingénieur, étaient devenus les plus adroits ouvriers du monde
+  - "Nab était Nab": courage, zeal, devotion and self-denial in person, and always will be (I.19 ¶26). *(Drafted.)*
+    - quote: Nab était Nab
+    - quote: le courage, le zèle, le dévouement, l’abnégation personnifiée
+  - He has the same faith in his master as Pencroff, but shows it less noisily; when the sailor is enthusiastic Nab seems to answer "Mais rien n’est plus naturel" (I.19 ¶26). *(Drafted.)*
+    - quote: Il avait en son maître la même foi que Pencroff, mais il la manifestait moins bruyamment
+    - quote: Mais rien n’est plus naturel
+  - He and Pencroff are very fond of each other and soon say "tu" to each other (I.19 ¶26). *(Drafted.)*
+    - quote: Pencroff et lui s’aimaient beaucoup, et n’avaient pas tardé à se tutoyer
+  - He is "maître Nab, le cuisinier", who does not look closely at whether the kitchen chimney will smoke (I.19 ¶43). *(Drafted.)*
+    - quote: maître Nab, le cuisinier, n’y regardait pas de si près
+  - He gives almost all his time to salting and smoking meats, which secures excellent stores (I.20 ¶2). *(Drafted.)*
+    - quote: Nab employait presque tout son temps à saler ou à fumer des viandes
+  - He works in the new kitchen with gravity, "comme s’il eût été dans un laboratoire de chimiste" (I.20 ¶28). *(Drafted.)*
+    - quote: Nab y fonctionnait gravement, comme s’il eût été dans un laboratoire de chimiste
+  - He laughs and jokes with Pencroff about the bears and their coats (I.22 ¶3). *(Drafted.)*
+    - quote: répondait Nab en riant
+  - He knows how to vary his sauces, so that rabbit again and again draws no complaint (I.22 ¶13). *(Drafted.)*
+    - quote: Nab savait varier ses sauces
+  - He stores in special baskets his harvest of rhizomes, pine almonds and dragon-tree roots (I.22 ¶28). *(Drafted.)*
+    - quote: Nab enferma dans des corbeilles spéciales ses récoltes de rhizomes, d’amandes de pin-pignon et de racines de dragonnier
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -82,7 +102,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: Nab avait préparé un pot-au-feu d’agouti
   - The dugong's flesh is left to him: "c'était l'affaire de Nab" (I.17 ¶2). *(Drafted.)*
     - quote: Mais cela, c’était l’affaire de Nab.
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

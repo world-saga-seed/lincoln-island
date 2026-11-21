@@ -23,4 +23,7 @@ Keywords: canal, chenal, strait, current, jusant, ford, swim, tide, low water
     - quote: sans se mouiller plus haut que le genou
   - It can be crossed back only when the sea has ebbed again (I.15 ¶29). *(Drafted.)*
     - quote: Les colons durent attendre que la mer eût rebaissé
-- **Appears in:** I.3, I.14, I.15
+  - It is waded at low tide on 5 June, and a canoe is planned to ease crossing (I.20 ¶20). *(Drafted.)*
+    - quote: profiter de la marée basse pour franchir à gué le canal
+    - quote: un canot qui rendrait les communications plus faciles
+- **Appears in:** I.3, I.14, I.15, I.20

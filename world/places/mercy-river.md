@@ -41,8 +41,6 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: la rivière devait prendre sa source dans la montagne et s’alimenter de la fonte des neiges
   - It flows at the bottom of a narrow valley, into which the gale's air currents plunged with irresistible violence (I.7 ¶27). *(Drafted.)*
     - quote: l’étroite vallée au fond de laquelle se soulevait le cours d’eau
-  - The party followed its left bank on the way to the mountain and left it at the point where it bends towards the south-west (I.10 ¶20). *(Drafted.)*
-    - quote: on suivit la rive gauche de la rivière, qui fut abandonnée au point où elle se coudait vers le sud-ouest
   - The river that supplied the colonists' drinking water, beside which the balloon threw them, was named the Mercy, a real thanks to Providence (I.11 ¶78). *(Drafted.)*
     - quote: le nom de la Mercy, — un véritable remerciement à la Providence
   - Its first bend lies at the foot of the Grande-Vue plateau, above the Chimneys (I.12 ¶73). *(Drafted.)*
@@ -59,12 +57,32 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: nous sommes placés entre la Mercy et le lac Grant, avantage considérable
   - The wall that the colonists explore ends, at the river’s mouth, the stretch of about two miles to its north angle (I.16 ¶20). *(Drafted.)*
     - quote: depuis l’embouchure de la rivière jusqu’à l’angle qui la terminait au nord
+  - A salient of the granite wall makes an angle over its mouth (I.19 ¶13). *(Drafted.)*
+    - quote: le saillant faisant angle sur l’embouchure de la Mercy
+  - It has not yet been crossed for want of a bridge and a boat; the hunters keep to the Jacamar wood on its left (I.19 ¶30). *(Drafted.)*
+    - quote: faute de pont et de canot, la Mercy n’avait pas encore été franchie
+  - A canoe is to be built to make crossing easier and to go up the Mercy on the great south-west exploration (I.20 ¶20). *(Drafted.)*
+    - quote: permettrait aussi de remonter la Mercy
+  - The oysters are acclimatised in the rocks at its mouth, which form so many natural parks (see [the oyster bed](oyster-bed.md)) (I.20 ¶29). *(Drafted.)*
+    - quote: à l’embouchure de la Mercy
+    - quote: autant de parcs naturels
+  - In the cold of early July ice heaps up at its mouth (I.21 ¶4). *(Drafted.)*
+    - quote: Des glaçons s’entassèrent à l’embouchure de la Mercy
+  - Its current is a tireless motor, used to float timber down until the cold chains it (I.21 ¶5). *(Drafted.)*
+    - quote: Le courant était un moteur infatigable
+  - On 5 July the colonists cross it on the ice that encumbers it (I.21 ¶9). *(Drafted.)*
+    - quote: traverser la Mercy sur les glaçons qui l’encombraient alors
+  - It is the first time the colonists set foot on its right bank (I.21 ¶12). *(Drafted.)*
+    - quote: la première fois que les colons mettaient pied sur la rive droite de la Mercy
+  - After the August snowstorm its water runs under a vault of ice that breaks up with a crash at each flow and ebb (I.22 ¶30). *(Drafted.)*
+    - quote: L’eau de la Mercy courait sous une voûte de glace
+    - quote: à chaque flux et reflux, faisait débâcle
+  - Once the ice is gone its current is free again and carries trains of wood (I.22 ¶38). *(Drafted.)*
+    - quote: du courant de la Mercy, qui était redevenu libre
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-  - The colonists went up its left bank from the shore to the plateau (I.13 ¶72). *(Drafted.)*
-    - quote: en remontant la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, III.16
 - **Open:**
   - The text gives the Mercy no width, depth in figures, source or mouth.
     - quote: alors profonde

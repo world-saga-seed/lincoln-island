@@ -11,4 +11,10 @@ Keywords: huîtrière, oysters, ostracées, banc, bank, shore, low tide, shellfi
     - quote: le banc d’ostracées qui s’étendait au large
   - Spilett judged it an inexhaustible reserve, given the fifty to sixty thousand eggs an oyster is said to lay each year (I.14 ¶32). *(Drafted.)*
     - quote: nous aurons là une réserve inépuisable
-- **Appears in:** I.14
+  - The bed lies out beyond the dunes (I.20 ¶29). *(Drafted.)*
+    - quote: l’huîtrière qui avait été découverte au large des dunes
+  - Nab and Pencroff bring back some thousand oysters, which acclimatise quickly among the rocks of the Mercy’s mouth; they are of excellent quality and the colonists eat them almost daily (I.20 ¶29). *(Drafted.)*
+    - quote: quelques milliers d’huîtres
+    - quote: de qualité excellente
+    - quote: une consommation presque quotidienne
+- **Appears in:** I.14, I.20

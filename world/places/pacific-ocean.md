@@ -24,4 +24,12 @@ Keywords: Pacifique, ocean, sea, océan, Mexico, crossing, presumption
   - Smith says that this part of the Pacific is often visited by Malay pirates, bold seamen and redoubtable malefactors (I.16 ¶7, ¶9). *(Drafted.)*
     - quote: souvent fréquentée par les pirates malais
     - quote: hardis marins aussi bien que des malfaiteurs redoutables
-- **Appears in:** I.7, I.9, I.11, I.14, I.16
+  - Smith says these are bad waters, the Pacific (I.19 ¶11). *(Drafted.)*
+    - quote: ce sont de mauvais parages que ces parages du Pacifique
+  - In this part of the Pacific, out of the passage of ships, rescue may never come (I.19 ¶22). *(Drafted.)*
+    - quote: en dehors du passage des navires
+  - Smith says that all the islands that have emerged from this vast ocean may be only the summits of a now engulfed continent that stood above the waters in prehistoric times (I.21 ¶26). *(Drafted.)*
+    - quote: ne sont que des sommets d’un continent maintenant englouti
+  - Smith holds that the coral animalcules have built Clermont-Tonnerre and the atolls and many coral islands of the Pacific, and that in ages the Pacific may become a vast continent (I.21 ¶36). *(Drafted.)*
+    - quote: ce Pacifique pourra se changer un jour en un vaste continent
+- **Appears in:** I.7, I.9, I.11, I.14, I.16, I.19, I.21

@@ -13,4 +13,6 @@ Keywords: Australie, Nouvelle-Hollande, Australian, continent, route, trees, hun
     - quote: ce haut gazon que l’on appelle « tussac » dans la Nouvelle-Hollande
   - Its hunters are skilful with bows and arrows (I.12 ¶52). *(Drafted.)*
     - quote: aussi adroits à les manier que des chasseurs australiens
-- **Appears in:** I.11, I.12
+  - Smith suggests that Australia, New Ireland and all that English geographers call Australasia, joined to the archipelagos of the Pacific, once formed a sixth part of the world (I.21 ¶26). *(Drafted.)*
+    - quote: l’Australie, la Nouvelle-Irlande, tout ce que les géographes anglais appellent l’Australasie
+- **Appears in:** I.11, I.12, I.21

@@ -5,6 +5,7 @@ A card for every place named on or off the island, each fact cited to the French
 <!-- cards: built by tools/cards.py; do not edit -->
 | Card | What it is |
 |---|---|
+| [Atlantis](atlantis.md) | the sunken continent named by Harbert |
 | [The Auckland archipelago](auckland-islands.md) | islands of a castaway's story, named for comparison |
 | [Australia](australia.md) | the continent whose route and whose trees the island is measured against |
 | [Baie de l’Union](baie-de-l-union.md) | the vast bay of the east coast, facing the islet |
@@ -18,6 +19,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [Chile](chile.md) | the coast of South America east of the island's latitude |
 | [The Chimneys](the-chimneys.md) | the colonists' first shelter, with sand corridors |
 | [The clearing](clearing-brickworks.md) | the brickworks and pottery works site |
+| [Clermont-Tonnerre](clermont-tonnerre.md) | a coral island built by polyps |
 | [The coral cemetery](coral-cemetery.md) | the burial place of the Nautilus crew, in the Pacific |
 | [The crater of Mont Franklin](crater.md) | the extinct crater, with its breach and lava stair on the north |
 | [The dead-wood clearings](dead-wood-clearings.md) | forest clearings strewn with stumps and dead wood |
@@ -34,8 +36,11 @@ A card for every place named on or off the island, each fact cited to the French
 | [Greenwich](greenwich.md) | the meridian from which longitudes are counted |
 | [The grotto](the-grotto.md) | the excavation behind a high dune where Smith lay |
 | [Juan Fernández](juan-fernandez.md) | an island of a castaway's story, named for comparison |
+| [La pointe de l’Épave](pointe-de-l-epave.md) | a point on the south-east coast |
 | [Lake Grant](lake-grant.md) | the lake west of the brickworks clearing |
 | [The landing place](landing-place.md) | where the balloon came down and the four came ashore |
+| [Le marais des Tadornes](marais-des-tadornes.md) | the marsh of the south-east, named for its sheldrakes |
+| [Les Malouines](malouines.md) | the Falkland Islands, where the culpeux are found |
 | [Lincoln Island](lincoln-island.md) | the island on which the castaways land |
 | [L’îlot du Salut](ilot-du-salut.md) | the barren islet first reached by the castaways |
 | [The Maelstrom](maelstrom.md) | whirlpool off the coast of Norway |
@@ -50,6 +55,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [New Zealand](new-zealand.md) | the land named as the farthest the wind might have carried them |
 | [The northern shore](the-northern-shore.md) | the flat strand and tide line north of the Chimneys |
 | [The old outlet](the-old-outlet.md) | the passage in the granite by which the lake’s overflow ran to the sea |
+| [The osier bed](the-osier-bed.md) | a stand of purple osiers at the lake’s north point |
 | [The oyster bed](oyster-bed.md) | the great oyster bank on the shore north of the Chimneys |
 | [The Pacific Ocean](pacific-ocean.md) | the ocean the storm is thought to have carried the balloon across |
 | [The Pomotou](pomotou.md) | a Pacific group named as a possible landfall |
@@ -62,14 +68,18 @@ A card for every place named on or off the island, each fact cited to the French
 | [The rock in the lake](lake-islet.md) | a rock rising from Lake Grant near its south shore |
 | [The saloon](nautilus-saloon.md) | the room where Nemo receives the colonists |
 | [The small beach at the lake’s south angle](lake-south-beach.md) | where the dugong came ashore |
+| [The south-east beach](the-southeast-beach.md) | the long barren beach beyond the point of the Épave |
+| [Spain](spain.md) | the European country whose latitude matches the island’s |
 | [The stream by the grotto](grotto-stream.md) | a clear stream a hundred paces from the grotto |
 | [The sulphur spring](sulphur-spring.md) | a warm sulphurous spring at the foot of Mont Franklin |
 | [Tabor Island](tabor-island.md) | an island where Ayrton was left |
 | [Tahiti](tahiti.md) | an island of the Pacific |
 | [The talus](the-talus.md) | the long slope west of the granite wall’s north angle |
 | [The upper cave](the-upper-cave.md) | a small cave about a hundred feet down the old outlet |
+| [The warren](the-warren.md) | the natural rabbit warren at the lake’s south-west |
 | [Washington](washington.md) | the capital of the Union, whose meridian the colonists keep time by |
 | [The well](the-well.md) | the sheer shaft at the end of the great cavern, ninety feet to the sea |
 | [The western creek](western-creek.md) | a narrow creek of the west coast |
+| [The wheat field](the-wheat-field.md) | the sheltered plot on the plateau where the one grain was sown |
 | [The wood of the Jacamar](jacamar-wood.md) | the forest on the left bank of the Mercy |
 <!-- /cards -->

@@ -33,13 +33,15 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
     - quote: en mesurant la hauteur du plateau de Grande-Vue au-dessus du niveau de la mer
   - Smith made his star observation on it and reduced the plateau's height to sea level (I.14 ¶25). *(Drafted.)*
     - quote: en réduisant au niveau de la mer la hauteur du plateau sur lequel l’observation avait été faite
-  - The colonists reach its upper plateau by climbing the talus, and skirt its edge to the creek’s mouth (I.16 ¶26, ¶28). *(Drafted.)*
-    - quote: arrivés au plateau supérieur
-    - quote: contournèrent la lisière du plateau
-  - The party comes back to the plateau of Grande-Vue itself at the lake’s south-east angle (I.16 ¶47). *(Drafted.)*
-    - quote: se retrouvaient sur le plateau même de Grande-Vue
   - Smith expects a cavity more or less considerable in the granite mass that supports the plateau, and means to reach it (I.17 ¶34). *(Drafted.)*
     - quote: une cavité plus ou moins considérable devait exister dans la masse de granit qui supportait le plateau de Grande-Vue
+  - The old way to the cavern meant climbing onto it by a detour along the river bank (I.19 ¶18). *(Drafted.)*
+    - quote: à monter sur le plateau de Grande-Vue en faisant un détour par la berge de la rivière
+  - The new outlet cuts it across, and a small bridge is built on it (see [the two bridges](../things/the-two-bridges.md)) (I.20 ¶29). *(Drafted.)*
+    - quote: le plateau et la grève étaient transversalement coupés par un cours d’eau
+    - quote: l’un sur le plateau de Grande-Vue
+  - Pit traps are set on it and at the forest’s edge (see [the pit traps](../things/pit-traps.md)) (I.22 ¶6). *(Drafted.)*
+    - quote: des trappes sur le plateau de Grande-Vue et aux abords de la forêt
 - **On the page.**
   - Pigeons fly by hundreds at the crest of the plateau (I.6 ¶7). *(Drafted.)*
     - quote: ces pigeons qui volaient par centaines à la crête du plateau
@@ -52,4 +54,4 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
   - On the plateau old enormous trunks, felled by age, show dark bark against the green carpet, and noisy cockatoos hop from branch to branch (I.16 ¶27). *(Drafted.)*
     - quote: Quelques vieux troncs énormes, abattus par l’âge
     - quote: tout un monde de kakatoès bruyants
-- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18
+- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18, I.19, I.20, I.22

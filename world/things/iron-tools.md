@@ -24,4 +24,8 @@ Keywords: outils, tools, pics, pioches, haches, hachettes, marteaux, clous, tena
   - With a pick, working in turns, Pencroff, Nab and Spilett pierce a granite wall three feet thick in two hours (I.18 ¶63, ¶65). *(Drafted.)*
     - quote: Ce travail durait depuis deux heures déjà
     - quote: trois pieds d’épaisseur
-- **Appears in:** I.15, I.16, I.17, I.18
+  - A pick and a mattock finish the pointed frames of the facade openings of Granite-house (I.19 ¶14). *(Drafted.)*
+    - quote: le pic et la pioche achevèrent le dessin ogival
+  - In June the tools, which were very rudimentary, are improved and completed (I.20 ¶26). *(Drafted.)*
+    - quote: On perfectionna les outils, qui étaient fort rudimentaires
+- **Appears in:** I.15, I.16, I.17, I.18, I.19, I.20

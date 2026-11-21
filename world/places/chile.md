@@ -9,7 +9,9 @@ Keywords: Chili, Chile, American coast, côte américaine, east, distance
     - quote: par le travers de la Nouvelle-Zélande à l’ouest, et de la côte du Chili à l’est
   - Smith's bearing puts the island more than forty-five hundred miles from the American coast (I.14 ¶79). *(Drafted.)*
     - quote: à plus de quatre mille cinq cents milles de la côte américaine
-- **Appears in:** I.14
+  - The culpeux, a kind of fox, are found often in Chile (I.21 ¶16). *(Drafted.)*
+    - quote: se rencontrent fréquemment au Chili
+- **Appears in:** I.14, I.21
 - **Open:**
   - The text does not say that "the American coast" of I.14 ¶79 is the Chilean coast of ¶54; the two are carded apart.
     - quote: à plus de quatre mille cinq cents milles de la côte américaine

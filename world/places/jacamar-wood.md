@@ -20,7 +20,10 @@ Keywords: bois du Jacamar, forest, hunting ground, trees
     - quote: il ne semblait pas que l’on dût rencontrer de fauves redoutables
   - On its north-west side the forest ends where the strong spurs of Mont Franklin begin on the east (I.15 ¶39). *(Drafted.)*
     - quote: Il se trouvait en dehors de la forêt, à la naissance de ces puissants contreforts
+  - Spilett and Harbert hunt only the Jacamar wood, on the left of the river, where kangaroos and boars abound (I.19 ¶30). *(Drafted.)*
+    - quote: Ils n’exploitaient encore que les bois du Jacamar, sur la gauche de la rivière
+    - quote: kangourous et sangliers y abondaient
 - **On the page.**
   - Most of the game was killed there (I.13 ¶36). *(Drafted.)*
     - quote: La plupart de ces animaux furent tués dans la partie de la forêt
-- **Appears in:** I.13, I.15
+- **Appears in:** I.13, I.15, I.19

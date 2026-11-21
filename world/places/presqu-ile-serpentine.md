@@ -15,7 +15,9 @@ Keywords: presqu’île, Serpentine, tail, queue, alligator, rade foraine, penin
     - quote: je proposerai de donner le nom de presqu’île Serpentine
   - Its woods are named the forests of the Far-West (see [the Far-West](far-west-forests.md)) (I.11 ¶81). *(Drafted.)*
     - quote: qui couvraient la presqu’île Serpentine
-- **Appears in:** I.11
+  - The high forests on the right of the Mercy reach to its end, and are still unexplored (I.22 ¶60). *(Drafted.)*
+    - quote: jusqu’à l’extrémité de la presqu’île Serpentine
+- **Appears in:** I.11, I.22
 - **Open:**
   - The lengths: I.11 ¶25 says the peninsula runs "plus de trente milles" to sea from the south-east cape; ¶26 gives the island's greatest length, from the jaw of the north-east to the tail's end, as "pas moins de trente milles"; ¶38 repeats "environ trente milles" from the summit to the extreme points. Card none of the figures.
     - quote: s’allongeait de plus de trente milles en mer, à compter du cap sud-est de l’île

@@ -22,4 +22,9 @@ Keywords: fusils, powder, poudre, fulminate, mercury, nitric acid, barrels, shot
   - Pencroff asks whether the nitro-glycerine could load firearms; Smith says no, it is too shattering, but it would be easy to make guncotton or even ordinary powder, since they have nitric acid, saltpetre, sulphur and charcoal; unfortunately it is arms that they lack (I.18 ¶9). *(Drafted.)*
     - quote: c’est une substance trop brisante
     - quote: Malheureusement, ce sont les armes que nous n’avons pas
-- **Appears in:** I.12, I.14, I.17, I.18
+  - A shot of lead from a fowling piece would certainly have brought down some dozens of the marsh birds; the colonists must make do with arrows (I.21 ¶55). *(Drafted.)*
+    - quote: Un coup de fusil à plomb eût certainement atteint quelques douzaines de ces oiseaux
+  - Pencroff presses for firearms that he says Smith promised; Smith knows that without a special set of tools he could hardly make a gun of any service, and puts it off again and again (I.22 ¶57). *(Drafted.)*
+    - quote: les armes à feu qu’il affirmait avoir été promises par Cyrus Smith
+    - quote: reculait toujours et remettait l’opération à plus tard
+- **Appears in:** I.12, I.14, I.17, I.18, I.21, I.22

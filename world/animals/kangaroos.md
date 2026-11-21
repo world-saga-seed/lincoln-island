@@ -15,4 +15,13 @@ Keywords: kangourou, kangaroo, bond, leap, gibier, game, venaison, venison, broc
     - quote: ce gibier élastique, qui rebondissait comme une balle
   - They are giants with long grey fur, the species hardest to take; the black, red and rock kangaroos and kangaroo-rats are easier, and about a dozen species are counted (I.12 ¶57). *(Drafted.)*
     - quote: C’étaient des géants à longue fourrure grise
-- **Appears in:** I.12
+  - Kangaroos and wild boars abound in the Jacamar Wood, on the left of the Mercy, and the iron-shod spears, bow and arrows do wonders against them (I.19 ¶30). *(Drafted.)*
+    - quote: kangourous et sangliers y abondaient
+    - quote: faisaient merveille
+  - The colonists renew their stock of kangaroos, with agoutis and warren rabbits, for the animal side of their stores (I.22 ¶37); kangaroos fall to the arrows of Harbert and Gédéon Spilett (I.22 ¶57). *(Drafted.)*
+    - quote: lapins de garenne, agoutis et kangourous, pour la partie animale
+    - quote: tombaient sous leurs flèches
+  - Kangaroo is made into a soup that is found excellent (I.22 ¶74, ¶75). *(Drafted.)*
+    - quote: un potage de kangourou
+    - quote: On le trouva excellent
+- **Appears in:** I.12, I.19, I.22

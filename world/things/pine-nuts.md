@@ -17,7 +17,10 @@ Keywords: pin pignon, pin pigeon, amandes, almonds, nuts, pine kernels, edible f
     - quote: quelques douzaines d’amandes de pin pignon formèrent les éléments du souper
   - The stock of game and almonds was entirely used up at the plateau breakfast (I.12 ¶13). *(Drafted.)*
     - quote: la réserve de gibier et d’amandes fut totalement épuisée
-- **Appears in:** I.9, I.10, I.12
+  - Nab keeps his harvests of pine nuts, with rhizomes and dragon-tree roots, in special baskets; the supply is renewed after the storm, and the nuts are among the dishes of the 24 October dinner (I.22 ¶28, ¶37, ¶74). *(Drafted.)*
+    - quote: ses récoltes de rhizomes, d’amandes de pin-pignon et de racines de dragonnier
+    - quote: des amandes de pignon
+- **Appears in:** I.9, I.10, I.12, I.22
 - **Open:**
   - The tree's name: I.9 ¶97 reads "pin pigeon"; the chapter's summary (¶0) reads "pin pignon". Carded neither way.
     - quote: C’était le pin pigeon, qui produit une amande excellente

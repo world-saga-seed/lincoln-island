@@ -9,6 +9,8 @@ Keywords: arcs, archery, hunting weapon, cord, shooting
     - quote: nous commencerons d’abord par fabriquer des arcs et des flèches
   - They are bows of fairly great power (I.13 ¶30). *(Drafted.)*
     - quote: Pencroff obtint ainsi des arcs d’une assez grande puissance
+  - Harbert and Spilett are become skilful archers (I.22 ¶57). *(Drafted.)*
+    - quote: Harbert et Gédéon Spilett étaient devenus des archers habiles
 - **Made from.**
   - The branches came from [the crejimba](crejimba.md) (I.13 ¶30). *(Drafted.)*
     - quote: dont les Indiens de l’Amérique méridionale emploient les branches à fabriquer leurs arcs
@@ -23,4 +25,4 @@ Keywords: arcs, archery, hunting weapon, cord, shooting
     - quote: devinrent promptement de très-adroits tireurs d’arc
   - Game was plentiful at the Chimneys (I.13 ¶36). *(Drafted.)*
     - quote: le gibier de poil et de plume abonda-t-il aux Cheminées
-- **Appears in:** I.12, I.13
+- **Appears in:** I.12, I.13, I.22

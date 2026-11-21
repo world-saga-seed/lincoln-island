@@ -15,4 +15,11 @@ Keywords: huître, oyster, huîtrière, banc, bed, ostracées, mollusque, low ti
     - quote: il n’en faudrait pas moins de quinze à seize douzaines par jour
   - Pencroff and Nab detach some for the day's meal, carried in Nab's net (I.14 ¶36). *(Drafted.)*
     - quote: le marin et Nab détachèrent une certaine quantité de ces mollusques
-- **Appears in:** I.14
+  - Pencroff and Nab bring back some thousands from the bed with a rough cart; they acclimatise among the rocks at the Mercy's mouth, which make natural parks (I.20 ¶29). *(Drafted.)*
+    - quote: ils rapportèrent quelques milliers d’huîtres
+    - quote: dont l’acclimatation se fit rapidement au milieu de ces rochers
+    - quote: qui formaient autant de parcs naturels à l’embouchure de la Mercy
+  - The oysters are excellent, and the colonists eat them almost every day (I.20 ¶29). *(Drafted.)*
+    - quote: Ces mollusques étaient de qualité excellente
+    - quote: les colons en firent une consommation presque quotidienne
+- **Appears in:** I.14, I.20

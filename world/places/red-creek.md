@@ -39,10 +39,10 @@ Keywords: Creek-Rouge, brook, stream mouth, coal seam, creek, ruisseau, terre ro
     - quote: le débit d’eau du creek était assez considérable
   - The lake is a wide basin that the Red Creek’s water filled (I.17 ¶5). *(Drafted.)*
     - quote: une large vasque, qui avait été remplie par les eaux du Creek-Rouge
+  - Its sources lie in the west, beyond which a detour would have to go to avoid the new stream (I.20 ¶29). *(Drafted.)*
+    - quote: jusqu’au delà des sources du Creek-Rouge
 - **On the page.**
-  - The engineer found the deposit and the kiln was charged with the coal (I.13 ¶46). *(Drafted.)*
-    - quote: dont l’ingénieur avait découvert un gisement à ciel ouvert
-- **Appears in:** I.12, I.13, I.15, I.16, I.17
+- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20
 - **Open:**
   - The text does not say where the creek runs or how far its mouth is from the clearing.
     - quote: vers l’embouchure du Creek-Rouge

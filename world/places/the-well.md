@@ -23,7 +23,20 @@ Keywords: puits, shaft, abyss, gouffre, conduit, underground, sea level, water, 
     - quote: le conduit souterrain qui se prolongeait sous la grève
   - Smith leans over it again before leaving, listening, his gaze plunged in the gulf, and says nothing (I.18 ¶75). *(Drafted.)*
     - quote: l’oreille attentive, le regard plongé dans le gouffre
-- **Appears in:** I.18
-- **Open:**
-  - Whether this well is the inner well of Granite-house of III.16 ¶64 is not said in these chapters (I.18 ¶47). *(Drafted.)*
-    - quote: un véritable puits
+  - Its overflow carries the tank’s excess water to the sea (I.21 ¶6). *(Drafted.)*
+    - quote: dont le trop-plein s’enfuyait par le puits jusqu’à la mer
+  - It is the dark well in communication with the sea whose mouth opens at the bottom of the store, covered with a wooden panel (I.22 ¶53). *(Drafted.)*
+    - quote: ce puits sombre, qui était en communication avec la mer
+    - quote: dont l’orifice s’ouvrait au fond du magasin
+    - quote: recouvert d’un panneau en bois
+  - The well of I.22 is read as the well of the great cavern of I.18, the store being the cavern’s partitioned left part (I.22 ¶53). *(My reading, to confirm.)*
+    - quote: ce puits sombre, qui était en communication avec la mer
+  - Top often growls strangely as Smith nears it, circles it, and tries to slip his paws under the panel as if to lift it, yelping with anger and unease (I.22 ¶53). *(Drafted.)*
+    - quote: Top faisait entendre des grognements singuliers
+    - quote: cherchait à glisser ses pattes sous ce panneau
+  - Smith wonders whether it branches in narrow guts through the island’s frame, whether it joins other inner cavities, and whether some sea monster comes from time to time to breathe at its bottom (I.22 ¶54). *(Drafted.)*
+    - quote: Se ramifiait-il donc en étroits boyaux à travers la charpente de l’île
+    - quote: Quelque monstre marin ne venait-il pas, de temps en temps, respirer au fond de ce puits
+  - He tells his impressions only to Spilett, thinking it useless to bring his companions into the thoughts it stirred in him (I.22 ¶55). *(Drafted.)*
+    - quote: ne communiqua ses impressions qu’à Gédéon Spilett
+- **Appears in:** I.18, I.21, I.22

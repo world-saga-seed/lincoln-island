@@ -11,6 +11,12 @@ Keywords: chaux, limestone, calcium carbonate, burning, calcination, slaking
     - quote: une chaux vive, très-grasse, foisonnant beaucoup par l’extinction
   - It is as pure as if made by calcining chalk or marble (I.13 ¶44). *(Drafted.)*
     - quote: aussi pure enfin que si elle eût été produite par la calcination de la craie ou du marbre
+  - The lime does not run short when Granite-house is fitted up (I.19 ¶20). *(Drafted.)*
+    - quote: La chaux ne manquait pas
+  - Smith chooses to saponify the seal fat with lime for the candles (see [the candles](candles.md)) (I.20 ¶23). *(Drafted.)*
+    - quote: il préféra saponifier la graisse au moyen de la chaux
+  - The wheat bed is improved with a little lime (see [the wheat field](../places/the-wheat-field.md)) (I.20 ¶67). *(Drafted.)*
+    - quote: amendée d’un peu de chaux
 - **Made from.**
   - It comes from stones of calcium carbonate, very common, found plentifully north of the lake (see [the lake](../places/lake-grant.md)) (I.13 ¶44). *(Drafted.)*
     - quote: plusieurs charges de carbonate de chaux, pierres très-communes, qui se trouvaient abondamment au nord du lac
@@ -25,7 +31,7 @@ Keywords: chaux, limestone, calcium carbonate, burning, calcination, slaking
     - quote: une certaine quantité de chaux toute préparée
   - A little lime was added to the clay for the pottery (see [the pottery](pottery.md)) (I.13 ¶47). *(Drafted.)*
     - quote: un peu de chaux et du quartz
-- **Appears in:** I.12, I.13
+- **Appears in:** I.12, I.13, I.19, I.20
 - **Open:**
   - The text says the stones were decomposed by heat but not in what fire, nor how many days it took.
     - quote: décomposées par la chaleur

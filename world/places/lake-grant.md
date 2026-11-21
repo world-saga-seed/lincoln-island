@@ -19,8 +19,6 @@ Keywords: lac Grant, pond, shore, water, west bank, lac Grant, creek, déversoir
     - quote: ce lac Grant si magnifiquement encadré dans sa bordure d’arbres
   - The Red Creek runs to it over a mile and a half (I.12 ¶40). *(Drafted.)*
     - quote: courait ainsi vers le lac sur une longueur d’un mille et demi
-  - The colonists reached its west shore where the creek ends (I.12 ¶68). *(Drafted.)*
-    - quote: Les explorateurs étaient arrivés sur la rive occidentale du lac Grant
   - It lies in a border of varied trees, with a glittering horizon of sea seen to the east through a curtain of foliage (I.12 ¶68). *(Drafted.)*
     - quote: reposait dans une bordure d’arbres variés
     - quote: un étincelant horizon de mer
@@ -50,8 +48,6 @@ Keywords: lac Grant, pond, shore, water, west bank, lac Grant, creek, déversoir
     - quote: extrêmement poissonneuses
   - At its north-east a sharp point, where the lake’s end almost touches the edge of the plateau (I.16 ¶32). *(Drafted.)*
     - quote: la pointe aiguë du nord-est
-  - Its east side was seen whole and calm; a coot was shot in the marsh herbs at its edge (I.16 ¶33). *(Drafted.)*
-    - quote: herbes marécageuses
   - Round the whole shore, from the creek’s mouth to the Grande-Vue plateau, no sign of the overflow was found (I.16 ¶24, ¶34). *(Drafted.)*
     - quote: depuis l’embouchure du ruisseau, à l’ouest, jusqu’au plateau de Grande-Vue
     - quote: il ne voyait aucun indice d’écoulement du trop-plein des eaux
@@ -69,7 +65,15 @@ Keywords: lac Grant, pond, shore, water, west bank, lac Grant, creek, déversoir
     - quote: ombragées de pins et autres arbres verts
   - The new outflow takes at least triple what the old one passed (see [the new fall](the-new-fall.md)) (I.18 ¶3). *(Drafted.)*
     - quote: au moins triple de celui qui passait auparavant par l’ancien
-- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, III.16
+  - In the cold of early July the lake freezes over its whole extent (I.21 ¶4). *(Drafted.)*
+    - quote: le lac ne tarda pas à se prendre sur toute son étendue
+  - Its water, drawn under the frozen surface, still reaches Granite-house (see [the water channel](../things/the-water-channel.md)) (I.21 ¶6). *(Drafted.)*
+    - quote: Prises au-dessous de la surface glacée
+  - A fertile osier bed lies toward the point the lake throws out to the north (see [the osier bed](the-osier-bed.md)) (I.22 ¶28). *(Drafted.)*
+    - quote: vers cette pointe que le lac projetait au nord
+  - In the great cold numerous birds, ducks, snipe, pintails and guillemots, flutter over its solid surface, by thousands (I.22 ¶30). *(Drafted.)*
+    - quote: De nombreux oiseaux voletaient à la surface solide du lac
+- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, III.16
 - **Open:**
   - The text gives the lake no size.
     - quote: du lac Grant

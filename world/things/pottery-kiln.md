@@ -11,6 +11,8 @@ Keywords: four à poteries, furnace, chimney, stoneware, firing, oven, factory
     - quote: un four, qui devait servir à la cuisson des diverses poteries indispensables pour les usages domestiques
   - It was built without too much difficulty (I.13 ¶46). *(Drafted.)*
     - quote: On y réussit sans trop de difficulté
+  - In the August storm the wind badly damaged its chimney, beheading it by six good feet at least (I.22 ¶37). *(Drafted.)*
+    - quote: la cheminée du four à poteries avait été très-endommagée par le vent et découronnée de six bons pieds au moins
 - **Made from.**
   - Smith said the kiln would be of bricks (see [the bricks](bricks.md)) (I.13 ¶14). *(Drafted.)*
     - quote: Avec des briques
@@ -30,7 +32,7 @@ Keywords: four à poteries, furnace, chimney, stoneware, firing, oven, factory
     - quote: tous les produits de l’industrie moderne
   - The kiln went out on 15 April, awaiting a new purpose (I.13 ¶51). *(Drafted.)*
     - quote: le four s’éteignit en attendant une destination nouvelle
-- **Appears in:** I.13
+- **Appears in:** I.13, I.22
 - **Open:**
   - The kiln's size apart from its chimney height, and its shape, are not given.
     - quote: une cheminée haute d’une vingtaine de pieds

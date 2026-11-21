@@ -82,7 +82,11 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
     - quote: nous n’avons aperçu vers l’ouest ni ruisseau ni rivière
   - A saltpetre bed lies in the north of the island at its foot (I.17 ¶48). *(Drafted.)*
     - quote: au pied du mont Franklin
-- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17
+  - Mouflons were noted on it during the exploration (I.20 ¶4). *(Drafted.)*
+    - quote: dont la présence avait été signalée, lors de l’exploration au mont Frankin
+  - Coal is fetched from the foot of its buttresses (I.21 ¶5). *(Drafted.)*
+    - quote: au pied des contreforts du mont Franklin
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21
 - **Open:**
   - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
     - quote: à une distance de six ou sept milles
@@ -100,3 +104,6 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
     - quote: Cinq cents pieds seulement séparaient alors les explorateurs du plateau
   - The snow cap of I.3 ¶54 and the snows of I.6 ¶35 are not mentioned on the mountain in I.10 to I.12; whether the white summit and this volcano are one is the card's reading above.
     - quote: C’était un chapeau de neiges, coiffant quelque mont éloigné
+  - The print spells the name "Frankin" at I.20 ¶4 and "Franklin" at I.21 ¶5. *(Drafted.)*
+    - quote: au mont Frankin
+    - quote: au pied des contreforts du mont Franklin

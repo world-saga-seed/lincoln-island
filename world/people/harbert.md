@@ -64,6 +64,42 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Harbert en découvrit un gisement dans le nord de l’île, au pied du mont Franklin
   - Guided by the engineer, he becomes one of "les plus adroits ouvriers du monde" (I.17 ¶49). *(Drafted.)*
     - quote: habilement guidés par l’ingénieur, étaient devenus les plus adroits ouvriers du monde
+  - He distinguishes himself in the work on Granite-house: intelligent and active, he understands quickly and does well (I.19 ¶25). *(Drafted.)*
+    - quote: Harbert se distingua
+    - quote: il comprenait vite, exécutait bien
+  - He feels for the engineer a lively and respectful friendship (I.19 ¶25). *(Drafted.)*
+    - quote: Harbert sentait pour l’ingénieur une vive et respectueuse amitié
+  - He and the reporter are the colony's providers, and hunt some hours a day (I.19 ¶30). *(Drafted.)*
+    - quote: devenus décidément les pourvoyeurs de la colonie
+  - He gathers the herbs of the warren for their healing properties (basil, rosemary, balm, betony and others), meaning them "à nous soigner" when the colonists fall ill; Pencroff sees no need (I.19 ¶31, ¶32, ¶34). *(Drafted.)*
+    - quote: Harbert recueillit ainsi une certaine quantité de pousses de basilic, de romarin, de mélisse, de bétoine
+    - quote: qui possèdent des propriétés thérapeutiques diverses
+    - quote: À nous soigner, répondit le jeune garçon, à nous traiter quand nous serons malades
+  - He knows the monarda didyma, the "thé d’Oswego" of North America, and gathers a good quantity for a drink (I.19 ¶34). *(Drafted.)*
+    - quote: une notable quantité de monardes didymes
+    - quote: sous le nom de « thé d’Oswego »
+  - He finds the single grain of wheat in the lining of his jacket, which he is mending, through a hole in his pocket; it comes from his habit at Richmond of feeding pigeons that Pencroff had given him (I.20 ¶33, ¶36, ¶37). *(Drafted.)*
+    - quote: dans la doublure de sa veste, qu’il s’occupait de raccommoder
+    - quote: de sa poche trouée
+    - quote: nourrir quelques ramiers dont Pencroff lui avait fait présent
+  - He attaches little importance to the grain and is about to throw it away; Cyrus Smith tells him he has made a discovery "d’une importance extrême pour nous" (I.20 ¶43, ¶60). *(Drafted.)*
+    - quote: n’attachant que peu d’importance à sa découverte
+    - quote: une découverte d’une importance extrême pour nous
+  - He is the one who names the foxes at once, "culpeux", and who raises the zoologists' open question whether their pupil is diurnal or nocturnal; Cyrus Smith smiles at a remark that "attestait un esprit sérieux" (I.21 ¶16, ¶18, ¶19). *(Drafted.)*
+    - quote: Harbert leur donna-t-il, sans hésiter, leur véritable nom de « culpeux »
+    - quote: si la pupille de ces renards est diurne ou nocturne
+    - quote: qui attestait un esprit sérieux
+  - He recalls the Atlantis when the engineer speaks of a vanished continent (I.21 ¶27). *(Drafted.)*
+    - quote: Comme fut autrefois l’Atlantide
+  - He knows the shelducks at sight, "tadornes" (I.21 ¶55). *(Drafted.)*
+    - quote: qu’Harbert reconnut pour des « tadornes »
+  - He tells Pencroff that the animals in the traps are not pigs, and says that the felines, "des tigres", range from Mexico to the Pampas of Buenos Aires, and so may be found at Lincoln Island's latitude; from the claw marks he affirms that a feline passed (I.22 ¶15, ¶31, ¶33, ¶35). *(Drafted.)*
+    - quote: Mais ce ne sont point des cochons
+    - quote: Harbert n’hésita pas à affirmer que quelque carnassier du genre des féliens avait passé là
+    - quote: Ce sont des tigres
+    - quote: on les observe depuis le Mexique jusqu’aux Pampas de Buenos-Ayres
+  - He and Gédéon Spilett have become skilful archers (I.22 ¶57). *(Drafted.)*
+    - quote: Harbert et Gédéon Spilett étaient devenus des archers habiles
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -112,7 +148,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: remarquablement instruit déjà dans les sciences naturelles
   - He shoots with a bow (I.13 ¶36). *(Drafted.)*
     - quote: de très-adroits tireurs d’arc
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, III.16
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

@@ -64,11 +64,21 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: derrière les Cheminées, un emplacement dont le sol fût soigneusement égalisé
   - In the blast of 21 May its rocks swayed (I.17 ¶75). *(Drafted.)*
     - quote: les roches des Cheminées oscillèrent
+  - The engineer’s plan is to make it a workshop for the heavy work once the colonists leave it (I.19 ¶1). *(Drafted.)*
+    - quote: d’en faire un atelier pour les gros ouvrages
+  - The forge and the furnaces are installed in it; Smith takes precautions to preserve them, since the great tides driven by the sea winds might again burst in (I.20 ¶1). *(Drafted.)*
+    - quote: la forge et les fourneaux qui y étaient installés
+    - quote: n’y fissent encore irruption
+  - In the August storm, by the din of the waves, it was held absolutely uninhabitable, the sea passing over the islet to beat on it (I.22 ¶26). *(Drafted.)*
+    - quote: absolument inhabitables
+  - After the storm the sea had left plain marks of its ravages: it had leapt over the islet and violently assailed the corridors, now half silted with sand, and thick layers of wrack lay over the rocks (I.22 ¶39). *(Drafted.)*
+    - quote: elle avait violemment assailli les couloirs, qui étaient à demi ensablés
+    - quote: d’épaisses couches de varech recouvraient les roches
+  - The forge and furnaces were found nearly intact, protected by the heap of sand (I.22 ¶39). *(Drafted.)*
+    - quote: retrouvèrent la forge et les fourneaux à peu près intacts
 - **On the page.**
   - The river mouth lies a few steps from it (I.4 ¶64). *(Drafted.)*
     - quote: à quelques pas des Cheminées
-  - In the storm stones torn from the top of the plateau fell on the strand, and some rolled onto the upper part of the Chimneys or burst there (I.7 ¶33). *(Drafted.)*
-    - quote: Quelques-unes roulaient même à la partie supérieure des Cheminées
   - Pencroff calls it "a house with rooms, beds and hearth" (I.8 ¶56). *(Drafted.)*
     - quote: une maison avec chambres, lits et foyer
   - After the storm of the day before, considerable landslips had occurred and big blocks of rock lay on the strand (I.8 ¶90). *(Drafted.)*
@@ -88,9 +98,7 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: le gibier de poil et de plume abonda-t-il aux Cheminées
   - The kitchen of the Chimneys was supplied with pottery (I.13 ¶47). *(Drafted.)*
     - quote: la cuisine des Cheminées se trouva pourvue d’un certain nombre d’ustensiles
-  - The colonists went back to the Chimneys for good on the evening of 15 April (I.13 ¶51). *(Drafted.)*
-    - quote: Le soir du 15 avril, on revint donc définitivement aux Cheminées
-- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.15, I.16, I.17, I.18, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.15, I.16, I.17, I.18, I.19, I.20, I.22, III.16
 - **Open:**
   - The text does not say where the Chimneys stand in relation to the Mercy or the lake, nor how many corridors or chambers there are.
     - quote: sur le sable des couloirs

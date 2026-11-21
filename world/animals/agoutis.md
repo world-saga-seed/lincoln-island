@@ -25,7 +25,10 @@ Keywords: agouti, rongeur, rodent, mara, grillade, pot-au-feu, gibier, game, fl�
   - Agoutis pass within good range of Harbert's gun in the Far-West forest, on the left of the Mercy, and escape it (II.9 ¶44). *(Drafted.)*
     - quote: bien des kangourous, des cabiais ou des agoutis passèrent à bonne portée
     - quote: échappèrent pourtant au fusil du jeune garçon
-- **Appears in:** I.12, I.13, I.22, II.1, II.4, II.8, II.9, III.11
+  - Agoutis are among the big game that never fail at the house when Harbert and Spilett hunt on the corral road (III.14 ¶20). *(Drafted.)*
+    - quote: cabiais, agoutis, kangourous, sangliers, porcs sauvages pour le gros gibier
+    - quote: ne manquaient jamais à la maison
+- **Appears in:** I.12, I.13, I.22, II.1, II.4, II.8, II.9, III.11, III.14
 - **Open:**
   - The text calls the maras "sorte d’agoutis" yet says the five molars "distingue précisément" them from agoutis, and calls the meal of maras "grillades d’agoutis" (I.12 ¶64, ¶75). Card neither as one name; see maras.md. *(Drafted.)*
     - quote: sorte d’agoutis

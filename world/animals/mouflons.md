@@ -57,4 +57,9 @@ Keywords: mouflon, mouton, sheep, bighorn, horns, wool, toison, gigot, côtelett
     - quote: Ni les bêlements accoutumés des mouflons
   - The mouflons and the goats are supposed asleep in their stables in the corral at night (III.12 ¶45). *(Drafted.)*
     - quote: Les mouflons et les chèvres, endormis sans doute dans leurs étables
-- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.17, II.20, III.6, III.12
+  - Wild goats and mouflons frisk among the rocks in the stony gorge where the trees thin out and the island's barren part begins (III.13 ¶68). *(Drafted.)*
+    - quote: Les chèvres sauvages et les mouflons gambadaient entre les roches
+  - The corral is not abandoned: every two days a colonist goes to tend the flock of mouflons and goats and brings back the milk that supplies Nab's pantry (III.14 ¶20). *(Drafted.)*
+    - quote: allait soigner le troupeau de mouflons et de chèvres
+    - quote: rapportait le lait qui approvisionnait l’office de Nab
+- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.17, II.20, III.6, III.12, III.13, III.14

@@ -31,6 +31,8 @@ A card for every place named on or off the island, each fact cited to the French
 | [The Chute mouth camp](the-chute-mouth-camp.md) | the camp at the mouth of the Falls-river |
 | [The clearing](clearing-brickworks.md) | the brickworks and pottery works site |
 | [Clermont-Tonnerre](clermont-tonnerre.md) | a coral island built by polyps |
+| [The convicts’ cave](the-convicts-cave.md) | the dark cave at the foot of Mont Franklin where the pirates lodge and Ayrton is held |
+| [The convicts’ grave](the-convicts-grave.md) | the deep grave in the forest of the five dead convicts |
 | [The coral cemetery](coral-cemetery.md) | the burial place of the Nautilus crew, in the Pacific |
 | [The corral](corral.md) | the palisaded pasture at the Red Creek's sources, for the island's wool-bearing animals |
 | [The corral clearing](the-corral-clearing.md) | the bare meadow before the corral palisade |
@@ -44,6 +46,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The dovecote](the-dovecote.md) | the pigeon house in a corner of the poultry-yard |
 | [The dunes](the-dunes.md) | the sand belt north of the Chimneys |
 | [The east bank of Lake Grant](lake-east-bank.md) | the granite frame, five hundred paces from the coast |
+| [The engine room of the Nautilus](nautilus-engine-room.md) | the room at the bow with the electric apparatus |
 | [The evergreen forest](the-evergreen-forest.md) | the conifer forest upstream of the river mouth |
 | [The first plateau](first-plateau.md) | the broad ledge of Mont Franklin's lower cone where the party camped |
 | [The forest marsh](the-forest-marsh.md) | the marshy part of the forest where the tétras were taken |
@@ -69,6 +72,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The landing place](landing-place.md) | where the balloon came down and the four came ashore |
 | [Le marais des Tadornes](marais-des-tadornes.md) | the marsh of the south-east, named for its sheldrakes |
 | [Les Malouines](malouines.md) | the Falkland Islands, where the culpeux are found |
+| [The library of the Nautilus](nautilus-library.md) | the room with the luminous ceiling between the saloon and the dining room |
 | [Lincoln Island](lincoln-island.md) | the island on which the castaways land |
 | [L’îlot du Salut](ilot-du-salut.md) | the barren islet first reached by the castaways |
 | [The Maelstrom](maelstrom.md) | whirlpool off the coast of Norway |
@@ -93,6 +97,8 @@ A card for every place named on or off the island, each fact cited to the French
 | [The Pacific Ocean](pacific-ocean.md) | the ocean the storm is thought to have carried the balloon across |
 | [Patagonia](patagonia.md) | the land Glenarvan crosses along the thirty-seventh parallel |
 | [The peccary sty](the-peccary-sty.md) | the shed built beside the poultry-yard |
+| [The platform of the Nautilus](nautilus-platform.md) | the deck with the hatch, the lenticular eye and the helm cabin |
+| [The plutonian tunnels](the-plutonian-tunnels.md) | the dark galleries at the north foot of Mont Franklin, where the rumbling is heard |
 | [Polynesia](polynesia.md) | the archipelagos east of the Pacific the long-haul ships frequent |
 | [The Pomotou](pomotou.md) | a Pacific group named as a possible landfall |
 | [The pond](the-pond.md) | a large pond shaded by old pines |
@@ -127,6 +133,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [Tahiti](tahiti.md) | an island of the Pacific |
 | [The talus](the-talus.md) | the long slope west of the granite wall’s north angle |
 | [The thirty-seventh parallel](thirty-seventh-parallel.md) | the line Glenarvan follows across lands and seas to find Captain Grant |
+| [The timber shed](the-timber-shed.md) | the vast plank lean-to near the Chimneys where the ship’s timber is stacked |
 | [Tristan da Cunha](tristan-d-acunha.md) | the island visited by the Duncan on her way to Australia |
 | [The turtle shore](the-turtle-shore.md) | the beach two miles from Granite-house where the turtle is left |
 | [Twofold Bay](twofold-bay.md) | the bay on the east coast of Australia named in the letter to the Duncan |

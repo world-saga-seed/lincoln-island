@@ -37,6 +37,8 @@ Keywords: tortue, turtle, chélonée, mydase, tortue franche, carapace, zostère
     - quote: une douzaine de ces chéloniens
     - quote: très-estimables au point de vue alimentaire
     - quote: Le bouillon de tortue
+  - Among the riches stored by Nab are "quelques tortues qui furent prises"; the text does not say they are of the same kind as the mydas (III.14 ¶20). *(My reading, to confirm.)*
+    - quote: quelques tortues qui furent prises
 - **On the page.**
   - On 28 October Harbert and Nab take one on the shore two miles from Granite-house, as it slips between the rocks toward the sea (II.1 ¶60, ¶61, ¶62). *(Drafted.)*
     - quote: 28 octobre
@@ -53,7 +55,7 @@ Keywords: tortue, turtle, chélonée, mydase, tortue franche, carapace, zostère
     - quote: les galets épars sur le sable
   - Pencroff reckons the loss as "cinquante potages au moins" (II.1 ¶84). *(Drafted.)*
     - quote: cinquante potages au moins
-- **Appears in:** II.1, II.5, II.8
+- **Appears in:** II.1, II.5, II.8, III.14
 - **Open:**
   - Cyrus Smith says that what the turtle could not do on the sand it may have done in the water: it would have turned when the flood took it and calmly regained the open sea (II.1 ¶97). The narrator then asks whether he was truly convinced and says one would not dare affirm it (II.1 ¶100). *(Drafted.)*
     - quote: ce que la tortue ne pouvait faire sur le sable, il se peut qu’elle l’ait fait dans l’eau

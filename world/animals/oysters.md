@@ -25,4 +25,7 @@ Keywords: huître, oyster, huîtrière, banc, bed, ostracées, mollusque, low ti
   - The oyster-bed laid out among the rocks of the beach, whose stock is often renewed, gives excellent molluscs daily (II.8 ¶15). *(Drafted.)*
     - quote: l’huîtrière, disposée au milieu des rocs de la plage
     - quote: elle donnait quotidiennement d’excellents mollusques
-- **Appears in:** I.14, I.20, II.8
+  - The oyster-bed's produce is among the riches that Nab hardly suffices to store (III.14 ¶20). *(My reading, to confirm.)*
+    - quote: ceux de l’huîtrière
+    - quote: Nab, le maître-coq, suffisait à peine à les emmagasiner
+- **Appears in:** I.14, I.20, II.8, III.14

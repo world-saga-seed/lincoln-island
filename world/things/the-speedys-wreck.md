@@ -58,7 +58,14 @@ Keywords: épave, wreck, coque, hull, carcasse, quille, keel, trombe, waterspout
   - Struck in the bottom by the explosion, the brig sank at once, and her hull was so broken that she could not be refloated (III.5 ¶1). *(Drafted.)*
     - quote: le brick, foudroyé dans ses fonds, avait coulé instantanément
     - quote: tant les dégâts subis par sa coque avaient été considérables
-- **Appears in:** III.3, III.4, III.5
+  - Harbert counts all the brig’s ironwork and rigging as at the colonists’ disposal (III.13 ¶59). *(Drafted.)*
+    - quote: toutes les ferrures, tout le gréement du brick
+  - Her complete rigging is to serve the ship being built (III.14 ¶48). *(Drafted.)*
+    - quote: du gréement complet, qui servirait au navire en chantier
+  - Her ironwork was saved after the underwater explosion: Pencroff and Ayrton drew the pins and a great quantity of copper nails from the mutilated planks and curves (III.15 ¶9). *(Drafted.)*
+    - quote: les ferrures de l’ancien brick avaient pu être sauvées après l’explosion sous-marine
+    - quote: une grande quantité de clous de cuivre
+- **Appears in:** III.3, III.4, III.5, III.13, III.14, III.15
 - **Open:**
   - What destroyed her is not said in III.3; Pencroff holds to an explosion and denies any rock (III.4 ¶44, ¶53), Spilett thinks the openings look more like the shock of a reef than a powder-room explosion (III.4 ¶52), and Smith says only that he does not commit himself (III.4 ¶43); the cylinder points to a torpedo, which Smith says he did not lay (III.4 ¶92, ¶95). Card the cause neither way beyond the torpedo card.
     - quote: Je ne me prononce pas, Pencroff

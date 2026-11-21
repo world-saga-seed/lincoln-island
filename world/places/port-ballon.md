@@ -59,4 +59,4 @@ Keywords: port Ballon, Balloon harbour, crique, passe, havre, coupée, natural p
   - A small cove opens at the head of it, where the Bonadventure lies at anchor (III.6 ¶12, ¶18). *(Drafted.)*
     - quote: la petite anse au fond de laquelle était mouillé le Bonadventure
     - quote: l’étroite crique
-- **Appears in:** II.5, II.7, II.11, II.12, II.15, II.19, III.1, III.6
+- **Appears in:** II.5, II.7, II.11, II.12, II.15, II.19, III.1, III.6, III.14

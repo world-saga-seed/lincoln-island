@@ -21,4 +21,7 @@ Keywords: bécassine, snipe, marais, marsh, gibier, game, oiseau, bird, flèche
     - quote: plusieurs chapelets de canards et de bécassines
   - In the great cold, snipe are among the myriads of water-game that Spilett and Harbert shoot in the tadornes' marshes (II.20 ¶77). *(Drafted.)*
     - quote: de bécassines
-- **Appears in:** I.21, I.22, II.11, II.19, II.20
+  - Snipe are among the small game that never fail at the house when Harbert and Spilett hunt on the corral road (III.14 ¶20). *(Drafted.)*
+    - quote: canards, tétras, coqs de bruyère, jacamars, bécassines pour le petit
+    - quote: ne manquaient jamais à la maison
+- **Appears in:** I.21, I.22, II.11, II.19, II.20, III.14

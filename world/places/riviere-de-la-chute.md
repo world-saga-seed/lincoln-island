@@ -59,4 +59,10 @@ Keywords: Falls-river, Chute, creek, ruisseau, west coast, côte occidentale, wa
     - quote: se raréfiaient vers les zones supérieures du volcan
   - The ground there is hilly and uneven, well suited to ambush (III.12 ¶16). *(Drafted.)*
     - quote: très-propre aux embûches
-- **Appears in:** II.4, II.18, II.19, III.8, III.11, III.12
+  - The valley south of the volcano gathers its first waters (III.13 ¶66). *(Drafted.)*
+    - quote: la vallée qui s’ouvrait au sud du volcan et qui recueillait les premières eaux de la rivière de la Chute
+  - The valley of the corral borders its valley on the west (III.13 ¶68). *(Drafted.)*
+    - quote: confinait par l’ouest à la vallée de la rivière de la Chute
+  - Between the corral valley and its valley rises a buttress, which the colonists cross at its narrowest part (III.15 ¶80). *(Drafted.)*
+    - quote: le contrefort dressé entre la vallée du corral et celle de la rivière de la Chute, qu’ils traversèrent dans sa partie la plus étroite
+- **Appears in:** II.4, II.18, II.19, III.8, III.11, III.12, III.13, III.15

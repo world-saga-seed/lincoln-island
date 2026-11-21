@@ -167,7 +167,11 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: toute la droite de la Mercy
   - From the Chimneys the cart turns the angle of the mouth, goes up the left bank for a mile and crosses the bridge, beyond which the Port-Ballon road starts (III.11 ¶40). *(Drafted.)*
     - quote: après avoir remonté pendant un mille la rive gauche de la Mercy, il traversa le pont
+  - It is fed more directly by abundant springs lost under the cover of the Jacamar wood (III.13 ¶68). *(Drafted.)*
+    - quote: la Mercy, elle était plus directement alimentée par d’abondantes sources, perdues sous le couvert du bois de Jacamar
+  - Excellent salmon run again up its waters (III.14 ¶20). *(Drafted.)*
+    - quote: une nouvelle pêche de ces excellents saumons qui vinrent encore s’engouffrer dans les eaux de la Mercy
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.16, III.2, III.3, III.4, III.6, III.7, III.9, III.10, III.11
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.2, III.3, III.4, III.6, III.7, III.9, III.10, III.11, III.13, III.14, III.15, III.16

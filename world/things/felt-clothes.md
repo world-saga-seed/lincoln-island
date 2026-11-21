@@ -12,4 +12,6 @@ Keywords: vêtements de feutre, habits, hiver, laine, Ayrton, felt clothing, win
     - quote: cette chaude étoffe
   - Ayrton is also provided with these comfortable clothes (II.20 ¶73). *(Drafted.)*
     - quote: Ayrton avait été pourvu de ces confortables vêtements
-- **Appears in:** II.11, II.20
+  - It is no longer necessary to make coarse felt stuffs, clothes and instruments having come from the brig (III.14 ¶48). *(Drafted.)*
+    - quote: Il n’avait même plus été nécessaire de recourir à la confection de grosses étoffes de feutre
+- **Appears in:** II.11, II.20, III.14

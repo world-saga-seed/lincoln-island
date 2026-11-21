@@ -51,4 +51,7 @@ Keywords: golfe du Requin, Shark-gulf, mâchoire, jaw, north-east, gulf, squale,
     - quote: la mine aidant, on saurait bien éventrer cette muraille
   - The dunes end at its half-open mouth (III.11 ¶25). *(Drafted.)*
     - quote: la gueule entr’ouverte du golfe du Requin
-- **Appears in:** I.11, I.15, II.19, II.20, III.5, III.11
+  - Its high walls are of lava, and it is extremely difficult to reach the level of the gulf itself (III.13 ¶96). *(Drafted.)*
+    - quote: les hautes murailles laviques du golfe du Requin
+    - quote: il fût extrêmement difficile d’atteindre le niveau même du golfe
+- **Appears in:** I.11, I.15, II.19, II.20, III.5, III.11, III.13, III.14

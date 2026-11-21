@@ -60,6 +60,15 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
   - Well rested, they can give a long haul; they browse the carob pods with greed on the expedition (III.11 ¶30, ¶53). *(Drafted.)*
     - quote: Les onaggas, bien reposés, pourraient fournir une longue traite
     - quote: dont les onaggas broutèrent avec avidité les longues gousses
+  - The stables hold five onaggas, four vigorous and well trained, that let themselves be harnessed or ridden, and a little one just born (III.14 ¶18). *(Drafted.)*
+    - quote: cinq onaggas, dont quatre vigoureux, bien dressés, se laissant atteler ou monter
+    - quote: un petit qui venait de naître
+  - The colony has added a plough, and the onaggas are used for ploughing like true oxen of Yorkshire or Kentucky (III.14 ¶18). *(Drafted.)*
+    - quote: d’une charrue
+    - quote: les onaggas étaient employés au labourage, comme de véritables bœufs du Yorkshire ou du Kentucky
+  - Every two days a colonist, driving the cart or riding an onagga, goes to the corral to tend the flock and bring back the milk (III.14 ¶20). *(Drafted.)*
+    - quote: conduisant le chariot ou montant un des onaggas
+    - quote: rapportait le lait qui approvisionnait l’office de Nab
 - **On the page.**
   - They enter the plateau on 23 December because the small bridges had not been closed (II.7 ¶52, ¶53). *(Drafted.)*
     - quote: Un jour, le 23 décembre
@@ -69,4 +78,4 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
   - They are first put to the cart at the end of December, for the trip to Port Balloon, with Pencroff walking at their head (II.7 ¶61, ¶63). *(Drafted.)*
     - quote: ce fut vers la fin de décembre qu’on essaya pour la première fois les onaggas
     - quote: Pencroff, qui marchait à la tête de ses bêtes
-- **Appears in:** II.7, II.8, II.9, II.16, II.18, III.6, III.9, III.10, III.11, III.12
+- **Appears in:** II.7, II.8, II.9, II.16, II.18, III.6, III.9, III.10, III.11, III.12, III.14

@@ -145,6 +145,12 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He chases a pair of emus at full speed and is easily outdistanced (III.11 ¶54). *(Drafted.)*
     - quote: Top s’élança après eux de toute la vitesse de ses quatre pattes
     - quote: les casoars le distancèrent aisément
+  - He goes ahead of Harbert and Gédéon Spilett on their hunts along the corral road (III.14 ¶20). *(Drafted.)*
+    - quote: Top en avant
+  - For the seven months after the last searches his growls stop, and he no longer prowls at the mouth of the inner well, nor barks or whines in the singular way that first roused the engineer; his instinct had seemed to foresee the communications of the unknown through the granite (III.14 ¶54). *(Drafted.)*
+    - quote: si l’instinct de Top les avait pour ainsi dire pressenties
+    - quote: Les grondements du chien avaient complétement cessé
+    - quote: ne rôdaient plus à l’orifice du puits intérieur
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -215,4 +221,4 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - At the corral, lying quiet with his head on his paws, he gives no sign of alarm; later, held on a leash by Nab, he breaks it, barks furiously and runs towards the back of the corral, to the bank where the five bodies lie (III.12 ¶25, ¶58, ¶102, ¶107). *(Drafted.)*
     - quote: Top, couché à terre, sa tête allongée sur ses pattes, ne donnait aucun signe d’inquiétude
     - quote: Top, rompant violemment sa laisse, se mit à aboyer avec fureur
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4, III.5, III.6, III.7, III.9, III.10, III.11, III.12
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4, III.5, III.6, III.7, III.9, III.10, III.11, III.12, III.14, III.15

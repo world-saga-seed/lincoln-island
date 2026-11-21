@@ -50,4 +50,7 @@ Keywords: basse-cour, poultry yard, volaille, palissade, cahutes, tinamous, cana
     - quote: Les volatiles, qui s’étaient réfugiés pendant l’incendie sur les eaux du lac, revenaient déjà à leur emplacement habituel
   - Smith leaves its buildings unrebuilt, preferring to wait (III.11 ¶20). *(Drafted.)*
     - quote: Quant à relever les bâtiments de la basse-cour
-- **Appears in:** II.7, II.8, II.9, II.11, II.17, II.18, II.20, III.2, III.9, III.10, III.11
+  - New buildings rise on the site of the poultry-yard, on a larger scale, since the fowl population is growing considerably (III.14 ¶18). *(Drafted.)*
+    - quote: de nouveaux bâtiments s’élevèrent sur l’emplacement de la basse-cour
+    - quote: la population volatile s’accroissait dans une proportion considérable
+- **Appears in:** II.7, II.8, II.9, II.11, II.17, II.18, II.20, III.2, III.9, III.10, III.11, III.14

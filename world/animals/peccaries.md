@@ -45,7 +45,9 @@ Keywords: pécari, peccary, tajassou, sanglier, cochon, pig, trappe, trap, cocho
     - quote: c’est-à-dire de s’engraisser par les soins de Nab
   - Smith counts the lead shot found in the young peccary among the unexplained facts of the island (II.20 ¶49). *(Drafted.)*
     - quote: ce grain de plomb s’est trouvé dans le corps du jeune pécari
-- **Appears in:** I.22, II.1, II.4, II.8, II.9, II.20, III.5
+  - "Porcs sauvages" are named with the sangliers among the big game brought to the house from the corral road; whether they are peccaries is not said (III.14 ¶20). *(My reading, to confirm.)*
+    - quote: sangliers, porcs sauvages pour le gros gibier
+- **Appears in:** I.22, II.1, II.4, II.8, II.9, II.20, III.5, III.14
 - **Open:**
   - The animals of the traps are first called "sangliers" and judged like pigs (I.22 ¶14), then "des pécaris" of the tajassou kind (I.22 ¶21); Pencroff calls the young "du cochon de lait" (I.22 ¶66). The text does not say they are two kinds. *(Drafted.)*
     - quote: ces sangliers qui avaient été déjà signalés

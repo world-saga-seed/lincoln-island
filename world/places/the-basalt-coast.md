@@ -37,4 +37,33 @@ Keywords: côte de fer, basalte, iron coast, lava, blocs, prismes, cathedral, To
     - quote: Aux énormes roches laviques succédèrent bientôt ces dunes capricieuses
   - At the mouth of the Falls-river, basalts of all shapes are piled up picturesquely beyond it (see [the Falls-river](riviere-de-la-chute.md)) (III.12 ¶13). *(My reading, to confirm.)*
     - quote: s’entassaient si pittoresquement des basaltes de toutes formes
-- **Appears in:** II.19, II.20, III.12
+  - A narrower gorge starts at the point of the south-west buttress from the picturesque heap of the coast’s basalts (III.13 ¶67). *(Drafted.)*
+    - quote: cet entassement si pittoresque des basaltes du littoral
+  - There the trees thin out, stone replaces grass, and wild goats and mouflons skip among the rocks; there the arid part of the island begins (III.13 ¶68). *(Drafted.)*
+    - quote: La pierre remplaçait l’herbe
+    - quote: Les chèvres sauvages et les mouflons gambadaient entre les roches
+    - quote: Là commençait la partie aride de l’île
+  - An arid plateau ends in a wall of basalts strangely heaped up (III.15 ¶82). *(Drafted.)*
+    - quote: ce plateau aride que terminait cette muraille de basaltes si étrangement amoncelés
+  - Its high edge overlooks the ocean on the west, and the surf roars five hundred feet below (III.15 ¶84). *(Drafted.)*
+    - quote: la haute lisière qui dominait l’océan à l’ouest
+    - quote: Le ressac mugissait à cinq cents pieds plus bas
+  - Smith reckons the edge a mile and a half from the corral (III.15 ¶85). *(Drafted.)*
+    - quote: la distance d’un mille et demi depuis le corral
+  - A steep, narrow and capricious ravine runs down among the rocks, practically impassable even in full light (III.15 ¶86, ¶88). *(Drafted.)*
+    - quote: la pente assez raide d’un ravin étroit et capricieusement tracé
+    - quote: même en pleine lumière, eût été pour ainsi dire impraticable
+  - At the foot of the basalt wall the shore is a veritable sowing of reefs, which the great tides must beat (III.15 ¶89). *(Drafted.)*
+    - quote: véritable semis d’écueils que les grandes marées devaient battre
+    - quote: la limite inférieure de la muraille basaltique
+  - There a narrow shoulder runs horizontally along the sea and, in less than a hundred paces, slopes down to the level of the waves (III.15 ¶90). *(Drafted.)*
+    - quote: un étroit épaulement qui courait horizontalement et parallèlement à la mer
+    - quote: Ils n’avaient pas fait cent pas
+  - Under a hollow of the rocks there is a deep portico cut in the rock, where one can shelter (III.15 ¶95, ¶100). *(Drafted.)*
+    - quote: sous une anfractuosité des roches
+    - quote: sous une sorte de portique profond, creusé dans la roche
+- **Appears in:** II.19, II.20, III.12, III.13, III.15
+- **Open:**
+  - At the foot of these rocks Smith sees "not a cavern, not a crevice" from the Bonadventure (II.19 ¶51), yet the arch of a vast excavation shows at their foot at low tide (III.15 ¶103); the text does not reconcile them (see [the Nautilus’s port](nautilus-port.md)). (III.15 ¶103; II.19 ¶51). *(Drafted.)*
+    - quote: pas une caverne, pas une anfractuosité
+    - quote: La voussure d’une vaste excavation commençait à se dessiner au-dessus des eaux

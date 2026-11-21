@@ -502,6 +502,46 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Pencroff, à bout de patience, s’offrit à l’accompagner
     - quote: peu disposé à obéir
     - quote: des plus rudes qualifications du répertoire maritime
+  - He says a crossing to Tabor is needed, to carry there a notice of the island's position and of where Ayrton now is, in case the Scottish yacht comes to take him back (III.13 ¶48, ¶50). *(Drafted.)*
+    - quote: Il est nécessaire d’y porter une notice
+    - quote: pour le cas où le yacht écossais viendrait le reprendre
+  - He knows that a boat of thirty to forty tons takes at least five to six months to build, and a ship of two hundred and fifty to three hundred tons seven or eight months at least, wood being hard to work in the great cold (III.13 ¶60; III.14 ¶11). *(Drafted.)*
+    - quote: il faut au moins cinq à six mois pour construire une embarcation de trente à quarante tonneaux
+    - quote: Sept ou huit mois au moins
+    - quote: le bois est difficile à travailler
+  - He is dismayed at the loss of the Bonadventure, of which he was so proud (III.13 ¶63). *(Drafted.)*
+    - quote: véritablement consterné de la perte de son embarcation, dont il était si fier
+  - His confidence in "notre génie", the special god of his island, is absolute: he says it will gag the volcano's crater if it so much as tries to open it (III.13 ¶90, ¶92, ¶93). *(Drafted.)*
+    - quote: la confiance du marin envers le dieu spécial de son île était absolue
+    - quote: Notre génie, Nab, notre génie
+  - He and Nab, more than the rest, let themselves be carried into the world of the supernatural when the search fails (III.13 ¶98). *(Drafted.)*
+    - quote: Pencroff et Nab, particulièrement, ne se contentaient plus de l’étrange
+    - quote: se laissaient emporter dans le monde du surnaturel
+  - He says the genius might himself supply the means of getting home; he and Nab would not have shown surprise had they been told a ship of three hundred tons awaited them in Shark Gulf or Port-Ballon (III.14 ¶4, ¶5). *(Drafted.)*
+    - quote: À moins, disait Pencroff, que notre génie ne fournisse lui-même les moyens de nous rapatrier
+    - quote: n’auraient pas même fait un geste de surprise
+    - quote: ils s’attendaient à tout
+  - He and Ayrton are the two most zealous builders of the new vessel, men not to mind the wind or the rain that soaks them to the bone; with Ayrton he pulls the pegs and copper nails from the brig's mutilated planks and ribs (III.14 ¶29; III.15 ¶9). *(Drafted.)*
+    - quote: les deux plus zélés constructeurs du nouveau bâtiment
+    - quote: Ils n’étaient point hommes à s’embarrasser du vent
+    - quote: Pencroff et Ayrton avaient arraché les chevilles et une grande quantité de clous de cuivre
+  - As a whaler he has seen icebergs as far north as off Cape Horn (III.14 ¶35). *(Drafted.)*
+    - quote: quand je faisais le métier de baleinier, j’ai vu des icebergs jusque par le travers du cap Horn
+  - He frowns that his hemisphere should be so ill-shared ("Ce n’est pas juste, cela !"), and is slow to resign himself (III.14 ¶38, ¶40). *(Drafted.)*
+    - quote: Ce n’est pas juste, cela !
+    - quote: une certaine difficulté à se résigner
+  - He and Spilett show themselves distinguished washers of linen (III.14 ¶48). *(Drafted.)*
+    - quote: Pencroff et Gédéon Spilett
+    - quote: se montrèrent des blanchisseurs distingués
+  - He and Nab above all hope to end their days on Lincoln Island; he tells Harbert he will stay and wait for him, and make fine fellows of his children (III.15 ¶13, ¶16). *(Drafted.)*
+    - quote: Pencroff et Nab surtout espéraient bien y finir leurs jours
+    - quote: je vous attendrai ! Vous me ramènerez votre femme et vos enfants
+  - He is quick to answer Nemo that they will leave the island only to return (III.17 ¶59). *(Drafted.)*
+    - quote: Pour y revenir, capitaine ! répondit vivement Pencroff
+  - He says he would never venture to steer a vessel like the Nautilus: to run on the seas, good, but under them, no; he prefers a good gale aboard a well-rigged ship, a boat being made to go on the water and not under it (III.17 ¶47, ¶49). *(Drafted.)*
+    - quote: Courir sur les mers, bien ! mais sous les mers, non !
+    - quote: j’aime mieux un bon coup de vent à bord d’un navire bien gréé
+    - quote: Un bateau est fait pour aller sur l’eau et non dessous
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -616,7 +656,7 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Sorte de nœud familier au marin, et qui a l’avantage de se maintenir toujours serré
   - He has become a true farmer, attached at heart to his harvests (III.9 ¶45). *(Drafted.)*
     - quote: Pencroff était devenu un vrai fermier, attaché de cœur à ses récoltes
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

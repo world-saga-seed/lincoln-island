@@ -42,4 +42,4 @@ Keywords: bois du Jacamar, forest, hunting ground, trees
 - **On the page.**
   - Most of the game was killed there (I.13 ¶36). *(Drafted.)*
     - quote: La plupart de ces animaux furent tués dans la partie de la forêt
-- **Appears in:** I.13, I.15, I.19, II.3, II.8, III.1, III.9, III.10, III.11
+- **Appears in:** I.13, I.15, I.19, II.3, II.8, III.1, III.9, III.10, III.11, III.13

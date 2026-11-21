@@ -12,6 +12,8 @@ Keywords: corde, rope, Granite-house, door, palier, descent, Jup, Pencroff, glis
     - quote: il en redescendit au moyen d’une corde dont le double était maintenu en bas
   - Once drawn to the ground it leaves no communication between the upper landing and the beach (III.11 ¶33). *(Drafted.)*
     - quote: ne laissa plus subsister aucune communication entre le palier supérieur et la grève
-- **Appears in:** III.10, III.11
+  - The communication between the colonists’ domain and the ground is re-established by the double rope, which an arrow carries back to the landing of the door (III.13 ¶99). *(Drafted.)*
+    - quote: au moyen de la double corde, qu’une flèche reporta au palier de la porte, ils rétablirent la communication entre leur domaine et le sol
+- **Appears in:** III.10, III.11, III.13
 - **Open:**
   - Whether the rope of III.10 ¶13 is the lift’s rope, by which one slides down (II.18 ¶1), is not said (see [the hydraulic lift](the-hydraulic-lift.md)). *(Drafted.)*

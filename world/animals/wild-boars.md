@@ -21,4 +21,7 @@ Keywords: sanglier, sangliers, wild boar, pig, hog, gibier, game, forêt, Jacama
   - In the Far-West forests the colonists meet frequently certain sangliers, very wild and very fierce, against which they have to fight seriously (II.18 ¶55, ¶56). *(Drafted.)*
     - quote: jusque dans les profondeurs des forêts du Far-West
     - quote: certains sangliers, très-sauvages et très-féroces, contre lesquels il fallait lutter sérieusement
-- **Appears in:** I.15, I.19, I.22, II.4, II.11, II.18
+  - Sangliers are among the big game that never fail at the house when Harbert and Spilett hunt on the corral road (III.14 ¶20). *(Drafted.)*
+    - quote: cabiais, agoutis, kangourous, sangliers, porcs sauvages pour le gros gibier
+    - quote: ne manquaient jamais à la maison
+- **Appears in:** I.15, I.19, I.22, II.4, II.11, II.18, III.14

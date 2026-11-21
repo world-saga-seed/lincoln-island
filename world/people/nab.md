@@ -166,6 +166,15 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He leads the onaggas at the head of the cart, and holds their heads at the corral palisade (III.11 ¶39; III.12 ¶59). *(Drafted.)*
     - quote: Nab se mit en tête des onaggas
     - quote: Nab resta à la tête des onaggas pour les contenir
+  - He and Pencroff are carried by the failure of the search into the world of the supernatural (III.13 ¶98). *(Drafted.)*
+    - quote: Pencroff et Nab, particulièrement, ne se contentaient plus de l’étrange
+  - He is the master cook, who hardly suffices to store the riches that the hunt, the warren, the oyster-bed, the turtles, the salmon, the plateau's vegetables and the forest fruits bring (III.14 ¶20). *(Drafted.)*
+    - quote: Nab, le maître-coq, suffisait à peine à les emmagasiner
+  - When Spilett asks him to subscribe him to a newspaper, he laughs and answers that his own concern is the daily task (III.14 ¶45, ¶46). *(Drafted.)*
+    - quote: Nab s’était mis à rire
+    - quote: ce qui m’occupe, moi, c’est la besogne quotidienne
+  - He and Pencroff above all hope to end their days on Lincoln Island (III.15 ¶13). *(Drafted.)*
+    - quote: Pencroff et Nab surtout espéraient bien y finir leurs jours
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -199,7 +208,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He and Pencroff carry the provisions on the march and lay out the midday meal (II.4 ¶3, ¶37). *(Drafted.)*
     - quote: Pencroff et Nab emportaient des provisions
     - quote: Nab et Pencroff disposèrent le déjeuner
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

@@ -40,4 +40,4 @@ Keywords: baie Washington, Washington Bay, south, échancrure, bay, south coast
     - quote: pour l’observer, il serait alors nécessaire de gagner les hauteurs de la baie Washington, près de Port-Ballon
   - Its vast shore, from the cap de la Griffe to the promontoire du Reptile, has been explored only imperfectly (III.11 ¶25). *(Drafted.)*
     - quote: le vaste littoral de la baie Washington depuis le cap Griffe jusqu’au promontoire du Reptile
-- **Appears in:** I.11, II.5, III.1, III.11
+- **Appears in:** I.11, II.5, III.1, III.11, III.14

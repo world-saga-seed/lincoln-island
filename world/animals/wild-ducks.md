@@ -31,4 +31,7 @@ Keywords: canard sauvage, wild duck, gibier, game, vol, flight, flèche, arrow, 
     - quote: plusieurs chapelets de canards et de bécassines
   - In the great cold they swarm by myriads in the tadornes' marshes, with snipe, teal, pintails and lapwings (II.20 ¶77). *(Drafted.)*
     - quote: au milieu de ces myriades de canards, de bécassines, de sarcelles, de pilets et de vanneaux
-- **Appears in:** I.12, I.14, I.21, I.22, II.11, II.12, II.19, II.20
+  - Ducks ("canards") are among the small game that never fail at the house when Harbert and Spilett hunt on the corral road (III.14 ¶20). *(My reading, to confirm.)*
+    - quote: canards, tétras, coqs de bruyère, jacamars, bécassines pour le petit
+    - quote: ne manquaient jamais à la maison
+- **Appears in:** I.12, I.14, I.21, I.22, II.11, II.12, II.19, II.20, III.14

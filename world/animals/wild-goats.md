@@ -18,4 +18,9 @@ Keywords: chèvre, chèvres sauvages, corral, mouflons, battue
     - quote: le troupeau de mouflons et de chèvres comptait un certain nombre de petits
   - The corral has goats that Ayrton can bring back: Nab wants a couple of them to acclimatise on the plateau's prairies (III.6 ¶54). *(Drafted.)*
     - quote: une couple de chèvres que Nab voulait acclimater sur les prairies du plateau
-- **Appears in:** II.8, II.9, II.12, III.6, III.12
+  - Wild goats and mouflons frisk among the rocks in the stony gorge where the island's barren part begins (III.13 ¶68). *(Drafted.)*
+    - quote: Les chèvres sauvages et les mouflons gambadaient entre les roches
+  - The corral's flock of mouflons and goats is tended every two days, and its milk supplies Nab's pantry (III.14 ¶20). *(Drafted.)*
+    - quote: allait soigner le troupeau de mouflons et de chèvres
+    - quote: rapportait le lait qui approvisionnait l’office de Nab
+- **Appears in:** II.8, II.9, II.12, III.6, III.12, III.13, III.14

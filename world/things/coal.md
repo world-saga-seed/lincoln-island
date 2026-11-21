@@ -31,8 +31,10 @@ Keywords: houille, charcoal, fuel, seam, deposit, mineral
     - quote: bien chauffée de houille
   - The coal and iron deposits are among the places visited through the winter and spring (II.12 ¶85). *(Drafted.)*
     - quote: ni aux gisements de houille et de fer
+  - The surplus timber of the ship’s building saves the coal, which is harder to carry (III.14 ¶49). *(Drafted.)*
+    - quote: permit d’économiser la houille, qui exigeait un transport plus pénible
 - **On the page.**
-- **Appears in:** I.12, I.13, I.15, I.17, I.21, I.22, II.9, II.11, II.12
+- **Appears in:** I.12, I.13, I.15, I.17, I.21, I.22, II.9, II.11, II.12, III.14
 - **Open:**
   - The size of the seam and the distance to the clearing are not given.
     - quote: un gisement à ciel ouvert

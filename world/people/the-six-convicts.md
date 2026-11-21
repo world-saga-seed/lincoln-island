@@ -83,4 +83,26 @@ Keywords: six convicts, survivors, Speedy, pointe de l’Épave, Mercy, right ba
   - On 19 February five bodies lie on the bank of the corral's stream, those of the convicts who landed on the island four months earlier (III.12 ¶107, ¶108). *(Drafted.)*
     - quote: Cinq corps, étendus sur la berge
     - quote: C’étaient ceux des convicts qui, quatre mois auparavant, avaient débarqué sur l’île Lincoln
-- **Appears in:** III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
+  - They had found the corral soon after landing and lived on its stores without living there; on 10 November they climbed its enclosure, and took refuge in a dark cave at the foot of Mont Franklin (III.13 ¶6, ¶11). *(Drafted.)*
+    - quote: avaient découvert le corral, peu de temps après leur arrivée sur l’île
+    - quote: ils vivaient sur ses réserves, mais ils ne l’habitaient pas
+    - quote: là où les convicts s’étaient réfugiés
+  - While the colonists stayed at the corral through Harbert's illness the pirates did not leave their cave, and even after pillaging the Grande-Vue plateau thought it imprudent to abandon it (III.13 ¶13). *(Drafted.)*
+    - quote: les pirates ne quittèrent pas leur caverne
+    - quote: ils ne crurent pas prudent de l’abandonner
+  - Until the third week of February they keep watch for a favourable occasion and rarely leave their retreat, making only a few hunting excursions into the island's interior and as far as the south coast (III.13 ¶15). *(Drafted.)*
+    - quote: guettant toujours une occasion favorable
+    - quote: quittèrent rarement leur retraite
+    - quote: jusque sur la côte méridionale
+  - They find the Bonadventure in her little port eight days before 19 February, put to sea, and, without Bob Harvey to handle her, run her on the rocks and break her entirely (III.13 ¶55, ¶57). *(Drafted.)*
+    - quote: Les convicts l’ont découvert dans son petit port
+    - quote: n’ayant plus Bob Harvey pour manœuvrer
+    - quote: l’embarcation a été entièrement brisée
+  - The five bodies lie on the bank in the position in which a death that must have been thunderous caught them; they bear no apparent wound, only a small red point, a barely visible bruise of unknowable origin, on the forehead of one, the chest of another, the back and the shoulder of the rest (III.13 ¶22, ¶25, ¶26). *(Drafted.)*
+    - quote: dans la position où les avait surpris une mort qui avait dû être foudroyante
+    - quote: Ils ne portaient aucune trace apparente de blessure
+    - quote: un petit point rouge, sorte de contusion à peine visible
+  - Nab and Pencroff carry the bodies into the forest, some distance from the corral, and bury them deep (III.13 ¶38). *(Drafted.)*
+    - quote: Nab et Pencroff transportèrent les cadavres des convicts dans la forêt
+    - quote: ils les enterrèrent profondément
+- **Appears in:** III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14

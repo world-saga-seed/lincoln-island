@@ -38,7 +38,9 @@ Keywords: presqu’île, Serpentine, tail, queue, alligator, rade foraine, penin
     - quote: l’extrémité de la presqu’île était atteinte, et la forêt traversée sur toute sa longueur
   - Its forest is three to four miles wide, between the two shores of the peninsula (III.12 ¶1). *(Drafted.)*
     - quote: dont la largeur variait de trois à quatre milles, car elle était comprise entre les deux rivages de la presqu’île Serpentine
-- **Appears in:** I.11, I.22, II.4, II.5, II.8, II.20, III.6, III.8, III.11, III.12
+  - Springs trickling in a thousand threads water the ground of the peninsula (III.13 ¶68). *(Drafted.)*
+    - quote: s’épanchant par mille filets, abreuvaient le sol de la presqu’île Serpentine
+- **Appears in:** I.11, I.22, II.4, II.5, II.8, II.20, III.6, III.8, III.11, III.12, III.13, III.14
 - **Open:**
   - The lengths: I.11 ¶25 says the peninsula runs "plus de trente milles" to sea from the south-east cape; ¶26 gives the island's greatest length, from the jaw of the north-east to the tail's end, as "pas moins de trente milles"; ¶38 repeats "environ trente milles" from the summit to the extreme points. Card none of the figures.
     - quote: s’allongeait de plus de trente milles en mer, à compter du cap sud-est de l’île

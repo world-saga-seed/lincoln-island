@@ -208,6 +208,10 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
   - On 15 February Smith closes it against any invasion: the lift’s drum is taken down, and Pencroff goes out by a rope (see [the hydraulic lift](../things/the-hydraulic-lift.md) and [the descent rope](../things/the-descent-rope.md)) (III.11 ¶31, ¶33). *(Drafted.)*
     - quote: L’inaccessible demeure pouvait se garder toute seule
     - quote: pour mettre Granite-house à l’abri de toute invasion
+  - Its storerooms are now crowded with tools, arms, ammunition, clothes and instruments from the brig (III.14 ¶48). *(Drafted.)*
+    - quote: encombraient maintenant les magasins de Granite-house
+  - The smoke of its chimneys stains the granite wall with long black streaks, and the fires burn without stopping in the winter (III.14 ¶49). *(Drafted.)*
+    - quote: quel bon feu flambait incessamment dans les cheminées de Granite-house, dont les fumées tachaient de longues zébrures noires la muraille de granit
 - **On the page.**
   - The well is at the cavern’s end (see [the well](the-well.md)); Top’s barking finds nothing in the cavern, and Smith murmurs that Top knows more than they do about many things (I.18 ¶56). *(Drafted.)*
     - quote: Top en sait plus long que nous sur bien des choses
@@ -217,7 +221,7 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: la corde du haut de Granite-house
   - Nemo summoned the colonists of Granite-house by a wire linking the corral to the Nautilus (III.16 ¶66). *(Drafted.)*
     - quote: il manda, comme on sait, les colons de Granite-house
-- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, II.18, II.20, III.16, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11
+- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, II.18, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.13, III.14, III.15, III.16
 - **Open:**
   - Chapter I.13 knows no Granite-house: there the engineer still hopes to find or build a better dwelling than the Chimneys (I.13 ¶40). Nothing in these chapters says where Granite-house stands, how big it is, or how the well opens inside it.
     - quote: une demeure plus convenable

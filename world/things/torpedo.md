@@ -29,7 +29,7 @@ Keywords: mine, explosive, brig, channel, blast
 - **On the page.**
   - The shock of it blew up the brig (III.16 ¶65). *(Drafted.)*
     - quote: fit sauter le brick par le choc d’une torpille
-- **Appears in:** III.16, III.4, III.5
+- **Appears in:** III.4, III.5, III.16
 - **Open:**
   - Nothing is said of how it was made or set off.
     - quote: une torpille disposée au fond du canal

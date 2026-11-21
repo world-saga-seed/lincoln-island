@@ -85,7 +85,7 @@ Keywords: île Tabor, Ayrton, bottle, message, castaway
 - **On the page.**
   - The editor refers to Ayrton's adventures and a note on the disagreement of some dates (III.16 n1). *(Drafted.)*
     - quote: sur la discordance de quelques dates
-- **Appears in:** II.9, II.11, II.12, II.13, II.14, II.17, II.19, III.16, III.1, III.5, III.6
+- **Appears in:** II.9, II.11, II.12, II.13, II.14, II.17, II.19, III.1, III.5, III.6, III.13, III.14, III.16
 - **Open:**
   - These chapters say nothing else of Tabor Island. The editor's note refers to the earlier tale of Ayrton's adventures and warns of a disagreement of dates; no earlier book is drawn on here.
     - quote: à propos des aventures d’Ayrton

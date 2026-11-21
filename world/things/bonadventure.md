@@ -130,7 +130,14 @@ Keywords: Bonadventure, bateau, boat, sloop, embarcation, quille, keel, sapin, f
   - Pencroff is sure it has been moved since he brought it back to Port-Ballon: "notre Bonadventure a navigué sans nous" (III.6 ¶39, ¶40). *(Drafted.)*
     - quote: notre Bonadventure a navigué sans nous
     - quote: l’embarcation avait été déplacée, plus ou moins, depuis que Pencroff l’avait ramenée à Port-Ballon
-- **Appears in:** II.10, II.11, II.12, II.13, II.14, II.15, II.19, II.20, III.1, III.4, III.6
+  - The convicts found her in her little port and put to sea in her; with Bob Harvey no longer there to handle her, they ran onto the rocks and she was entirely broken up, about eight days before 20 February (III.13 ¶55, ¶57). *(Drafted.)*
+    - quote: Les convicts l’ont découvert dans son petit port, il y a huit jours à peine
+    - quote: n’ayant plus Bob Harvey pour manœuvrer, ils se sont échoués sur les roches, et l’embarcation a été entièrement brisée
+  - Pencroff, who was proud of her, is dismayed at her loss (III.13 ¶63). *(Drafted.)*
+    - quote: son embarcation, dont il était si fier
+  - Pencroff says a boat of thirty to forty tons needs five to six months at least to build (III.13 ¶60). *(Drafted.)*
+    - quote: il faut au moins cinq à six mois pour construire une embarcation de trente à quarante tonneaux
+- **Appears in:** II.10, II.11, II.12, II.13, II.14, II.15, II.19, II.20, III.1, III.4, III.6, III.13, III.14, III.17
 - **Open:**
   - The crossing out: II.13 ¶17 says it needs no more than forty-eight hours for the hundred and fifty miles, leaving on 11 October; the landing is at about noon on the 13th (II.13 ¶50), more than fifty hours after the five o’clock departure of ¶20; card neither (II.13 ¶17, ¶20, ¶50). *(Drafted.)*
     - quote: il ne fallait pas plus de quarante-huit heures pour faire cette traversée de cent cinquante milles

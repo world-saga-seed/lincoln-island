@@ -44,7 +44,9 @@ Keywords: Creek-Glycérine, fossé, ditch, moat, ruisseau, saignée, nitro-glyce
   - On the night of 28 to 29 November the convicts show themselves at the edge of the forest near it, and one of them is about to cross the stream when Nab fires (III.10 ¶8). *(Drafted.)*
     - quote: aux approches du creek Glycérine
     - quote: qui se disposait à traverser le cours d’eau
+  - A bridge carries the corral road over it (III.15 ¶42). *(Drafted.)*
+    - quote: passèrent le pont du creek Glycérine
 - **On the page.**
   - Its left bank has a slight rise crowned with a few tall dragon-trees, which hides a man waiting there (III.6 ¶71). *(Drafted.)*
     - quote: un léger épaulement que couronnaient quelques grands dragonniers, sur la rive gauche du ruisseau
-- **Appears in:** II.7, II.8, II.15, II.16, III.6, III.9, III.10
+- **Appears in:** II.7, II.8, II.15, II.16, III.6, III.9, III.10, III.15

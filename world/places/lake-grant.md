@@ -96,7 +96,7 @@ Keywords: lac Grant, pond, shore, water, west bank, lac Grant, creek, déversoir
     - quote: il y a des saules sur le bord du lac
   - Its surroundings are well known to the colonists (III.11 ¶24). *(Drafted.)*
     - quote: les environs du lac Grant
-- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, II.7, II.8, III.16, III.6, III.7, III.10, III.11
+- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, II.7, II.8, III.6, III.7, III.10, III.11, III.13, III.16
 - **Open:**
   - The text gives the lake no size.
     - quote: du lac Grant

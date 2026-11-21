@@ -40,7 +40,9 @@ Keywords: pointe, Épave, Flotson-point, point, headland, wreck, chest, cove, an
     - quote: frappant une pierre aiguë à près de trois milles de Granite-house
   - Smith says the convicts landed on the island in its neighbourhood (III.12 ¶4). *(Drafted.)*
     - quote: Les convicts ont abordé l’île aux environs de la pointe de l’Épave
-- **Appears in:** I.21, II.2, II.5, II.10, II.12, II.18, II.20, III.3, III.4, III.5, III.12
+  - In a south-east wind the shore of Granite-house is completely covered by the redan of the point (III.14 ¶28). *(Drafted.)*
+    - quote: le rivage de Granite-house se trouvait complétement couvert par le redan de la pointe de l’Épave
+- **Appears in:** I.21, II.2, II.5, II.10, II.12, II.18, II.20, III.3, III.4, III.5, III.12, III.14
 - **Open:**
   - I.21 ¶20 already says "la pointe de l’Épave" in July, though II.2 ¶42 gives the point that name only on 29 October. Card neither (I.21 ¶20; II.2 ¶42). *(Drafted.)*
     - quote: Après avoir tourné la pointe de l’Épave

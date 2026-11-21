@@ -123,7 +123,28 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
     - quote: là où tant de retraites profondes existaient sans doute
   - Seen from the corral, it stands like an enormous screen before the western horizon at dusk (III.12 ¶38). *(Drafted.)*
     - quote: Le mont Franklin se dressait comme un énorme écran devant l’horizon du couchant
-- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8, II.11, II.12, II.18, II.19, III.1, III.7, III.8, III.11, III.12
+  - The base of the mountain, between its buttresses and their many branches, makes a labyrinth of valleys and counter-valleys very capriciously laid out (III.13 ¶65). *(Drafted.)*
+    - quote: formait un labyrinthe de vallées et de contre-vallées disposé très-capricieusement
+  - Of the many valleys that branch at its base only three are wooded and rich in pasture, like that of the corral (III.13 ¶68). *(Drafted.)*
+    - quote: trois seulement étaient boisées et riches en pâturages comme celle du corral
+  - The waters of the whole mountain make fertile its southern part (III.13 ¶68). *(Drafted.)*
+    - quote: déterminaient ainsi la fertilité de sa portion méridionale
+  - The north side at its base is only two valleys, wide, shallow, without sign of green, strewn with erratic blocks, striped with long moraines, paved with lavas and dusted with obsidian and labradorite (III.13 ¶71). *(Drafted.)*
+    - quote: La partie nord du mont Franklin se composait uniquement à sa base de deux vallées, larges, peu profondes, sans apparence de verdure
+    - quote: saupoudrées d’obsidiennes et de labradorites
+  - The blocks lie as the volcano threw them above the waters when the island emerged (III.13 ¶71). *(Drafted.)*
+    - quote: tels le volcan les avait projetés au-dessus des eaux à l’époque de l’émersion de l’île
+  - The slope of the whole massif favours the pouring of matter toward the southern valleys, and only an earthquake that shifted the mountain’s centre of gravity could change it (III.13 ¶82). *(Drafted.)*
+    - quote: l’inclinaison de tout le massif du mont Franklin favorise l’épanchement des matières vers les vallées que nous explorons en ce moment
+    - quote: Il faudrait qu’un tremblement de terre changeât le centre de gravité de la montagne
+  - A truncated cone ends the first stage of its rocks, and above it rises an enormous cap, at whose bottom the crater opens (III.13 ¶94). *(Drafted.)*
+    - quote: du cône tronqué qui terminait le premier étage des roches
+    - quote: cet énorme chapeau au fond duquel s’ouvrait le cratère
+  - Lava flows streak its northern slopes (III.15 ¶3). *(Drafted.)*
+    - quote: les coulées de lave qui zébraient les pentes septentrionales de la montagne
+  - A new crater opening in its south walls would threaten the corral (III.15 ¶6). *(Drafted.)*
+    - quote: le corral aurait tout à craindre, si quelque nouveau cratère s’ouvrait dans les parois sud du mont Franklin
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8, II.11, II.12, II.18, II.19, III.1, III.7, III.8, III.11, III.12, III.13, III.14, III.15
 - **Open:**
   - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
     - quote: à une distance de six ou sept milles

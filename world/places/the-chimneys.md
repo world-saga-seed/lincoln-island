@@ -101,6 +101,10 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: Les ateliers des Cheminées n’auraient pas échappé à la dévastation
   - The ladders of the old ascent are brought there and buried deep in the sand on 15 February (III.11 ¶33). *(Drafted.)*
     - quote: Les échelles qui servaient autrefois à l’ascension furent apportées aux Cheminées et profondément enterrées dans le sable
+  - The timber for the new ship is hauled to it and the building yard set up there (see [the boatyard](the-boatyard.md)) (III.14 ¶15). *(Drafted.)*
+    - quote: les arbres furent transportés aux Cheminées
+  - A great plank shed for the seasoning timber is built beside it (see [the timber shed](the-timber-shed.md)) (III.14 ¶17). *(Drafted.)*
+    - quote: un vaste appentis en planches, qui fut construit auprès des Cheminées
 - **On the page.**
   - The river mouth lies a few steps from it (I.4 ¶64). *(Drafted.)*
     - quote: à quelques pas des Cheminées
@@ -123,7 +127,7 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: le gibier de poil et de plume abonda-t-il aux Cheminées
   - The kitchen of the Chimneys was supplied with pottery (I.13 ¶47). *(Drafted.)*
     - quote: la cuisine des Cheminées se trouva pourvue d’un certain nombre d’ustensiles
-- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.15, I.16, I.17, I.18, I.19, I.20, I.22, II.5, II.6, II.10, II.11, II.12, II.18, III.16, III.2, III.3, III.4, III.6, III.10, III.11
+- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.15, I.16, I.17, I.18, I.19, I.20, I.22, II.5, II.6, II.10, II.11, II.12, II.18, III.2, III.3, III.4, III.6, III.10, III.11, III.14, III.16
 - **Open:**
   - The text does not say where the Chimneys stand in relation to the Mercy or the lake, nor how many corridors or chambers there are.
     - quote: sur le sable des couloirs

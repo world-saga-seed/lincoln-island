@@ -34,4 +34,4 @@ Keywords: dunes, sable, sand hills, monticules, collines, thistles, région sabl
     - quote: les dunes qui formaient la côte supérieure de la baie de l’Union
   - The interminable dunes end at the half-open mouth of the Shark Gulf, and have been explored only imperfectly (III.11 ¶25). *(My reading, to confirm.)*
     - quote: ces interminables dunes qui finissaient à la gueule entr’ouverte du golfe du Requin
-- **Appears in:** I.7, I.8, I.14, I.15, II.19, II.20, III.5, III.11
+- **Appears in:** I.7, I.8, I.14, I.15, II.19, II.20, III.5, III.11, III.13

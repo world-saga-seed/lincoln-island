@@ -25,7 +25,10 @@ Keywords: jacamar, martin-pêcheur, kingfisher, oiseau, bird, marsh
     - quote: aussi bien sous le nom de bois du Jacamar que sous celui de forêts du Far-West
   - Jacamars swarm among the birds of the forest strip of the west coast (II.4 ¶42). *(Drafted.)*
     - quote: les oiseaux y fourmillaient, jacamars, couroucous
-- **Appears in:** I.6, I.13, II.3, II.4, III.11
+  - Jacamars are among the small game that never fail at the house when Harbert and Spilett hunt on the corral road (III.14 ¶20). *(Drafted.)*
+    - quote: canards, tétras, coqs de bruyère, jacamars, bécassines pour le petit
+    - quote: ne manquaient jamais à la maison
+- **Appears in:** I.6, I.13, II.3, II.4, III.11, III.14
 - **Open:**
   - Who killed the jacamar of the Mercy: of Pencroff's shot the text says "son coup partit malgré lui" (II.3 ¶24), and then that the honour of the fine shot went to Harbert (II.3 ¶28). It does not say whether both fired. *(Drafted.)*
     - quote: son coup partit malgré lui

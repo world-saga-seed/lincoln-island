@@ -39,4 +39,8 @@ Keywords: route du Corral, road, chemin, corral, Red Creek, sources, cart, onagg
     - quote: quatre milles sur cinq avaient été franchis
   - It runs through the part of the Jacamar wood between the Mercy and the lake (III.9 ¶87). *(Drafted.)*
     - quote: cette partie du bois de Jacamar qui s’étendait entre la Mercy et le lac
-- **Appears in:** II.7, II.8, II.18, III.6, III.9, III.10, III.11
+  - From Granite-house it goes up the left bank of the Mercy to the plateau, crosses the bridge over the Glycerine creek and enters the forest (III.15 ¶42). *(Drafted.)*
+    - quote: Ils remontèrent la rive gauche de la Mercy, atteignirent le plateau, passèrent le pont du creek Glycérine et s’avancèrent à travers la forêt
+  - From the mouth of the Mercy to the corral it is five miles (III.15 ¶49). *(Drafted.)*
+    - quote: les cinq qui séparaient l’embouchure de la Mercy du corral
+- **Appears in:** II.7, II.8, II.18, III.6, III.9, III.10, III.11, III.15

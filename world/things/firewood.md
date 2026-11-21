@@ -20,6 +20,8 @@ Keywords: bois mort, fagots, fuel, kindling, bûches, combustible
     - quote: charrier du bois flotté
   - When the river is free again the colonists use its current to bring down several more trains (I.22 ¶38). *(Drafted.)*
     - quote: pour en amener plusieurs trains
+  - Fuel is not spared, since it grows naturally a few steps from Granite-house (III.14 ¶49). *(Drafted.)*
+    - quote: On n’épargnait pas le combustible, qui poussait tout naturellement à quelques pas de là
 - **On the page.**
   - Its large store was put in one of the Chimneys' chambers (I.5 ¶11). *(Drafted.)*
     - quote: La provision de bois fut emmagasinée dans l’une des chambres
@@ -27,4 +29,4 @@ Keywords: bois mort, fagots, fuel, kindling, bûches, combustible
     - quote: quelques bûches, entremêlées de menu bois
   - The forest's clearings are covered with dead wood, inexhaustible reserves of fuel (I.9 ¶87). *(Drafted.)*
     - quote: étaient couvertes de bois mort, et formaient ainsi d’inépuisables réserves de combustible
-- **Appears in:** I.4, I.5, I.7, I.9, I.10, I.21, I.22
+- **Appears in:** I.4, I.5, I.7, I.9, I.10, I.21, I.22, III.14

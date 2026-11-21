@@ -15,10 +15,47 @@ Keywords: harbour, haven, crypt, cave, entrance, bar, basalt, dock
     - quote: par suite d’un exhaussement du basalte qui s’était produit sous l’influence des actions volcaniques
   - Over the bar there is still water for a light boat, but not enough for the Nautilus (III.16 ¶63). *(Drafted.)*
     - quote: Où il y avait encore assez d’eau pour qu’une légère embarcation pût passer la barre, il n’y en avait plus assez pour le Nautilus
+  - The opening is passable at low tide, the flood blocking it at the foot of the wall (III.15 ¶99). *(Drafted.)*
+    - quote: une ouverture, praticable à mer basse, que le flot obstruait en ce moment
+  - At midnight, two hours into the ebb, the vault of a vast excavation begins to show above the water (III.15 ¶102, ¶103). *(Drafted.)*
+    - quote: Il y avait déjà deux heures de mer baissée
+    - quote: La voussure d’une vaste excavation commençait à se dessiner au-dessus des eaux
+  - After three hours of ebb the water has fallen fifteen feet, and the top of the arch stands at least eight feet above it, like the arch of a bridge with foaming water passing under (III.15 ¶110). *(Drafted.)*
+    - quote: En trois heures, la marée avait baissé de quinze pieds
+    - quote: Le sommet de l’arc tracé par la voussure dominait son niveau de huit pieds au moins
+    - quote: C’était comme l’arche d’un pont
+  - The vault under which the boat first passes is very low, then rises abruptly; the dark is too deep to judge the cave’s extent (III.15 ¶115). *(Drafted.)*
+    - quote: La voûte, très-surbaissée, sous laquelle le canot passa d’abord, se relevait brusquement
+  - No noise from outside enters it, and thunder cannot pierce its thick walls (III.15 ¶115). *(Drafted.)*
+    - quote: Nul bruit du dehors n’y pénétrait
+    - quote: les éclats de la foudre ne pouvaient percer ses épaisses parois
+  - The light is half a mile in from the opening (III.15 ¶123). *(Drafted.)*
+    - quote: il devait avoir franchi une distance d’un demi-mille
+  - Nothing outside had let anyone suspect it (III.15 ¶126). *(Drafted.)*
+    - quote: dont rien n’avait pu faire soupçonner l’existence
+  - A vault rounded at a hundred feet rests on basalt shafts that seem cast in one mould; their drums, fitted one into another, measure forty to fifty feet, and the calm water bathes their base (III.15 ¶127). *(Drafted.)*
+    - quote: À une hauteur de cent pieds s’arrondissait une voûte, supportée sur des fûts de basalte
+    - quote: mesuraient quarante à cinquante pieds de hauteur
+    - quote: l’eau, paisible malgré les agitations du dehors, venait en baigner la base
+  - Where the Nautilus lies the sheet of water is about three hundred and fifty feet wide, and the sea forms a small lake; beyond it a huge basalt wall closes any exit on that side (III.15 ¶131). *(Drafted.)*
+    - quote: la largeur de la nappe d’eau mesurait environ trois cent cinquante pieds
+    - quote: la mer y formait un petit lac
+    - quote: un énorme mur basaltique qui fermait toute issue de ce côté
+  - By day no ray of light enters the deep crypt, and the sea, high, blocks its opening (III.17 ¶1). *(Drafted.)*
+    - quote: Aucun rayon lumineux ne pénétrait dans cette profonde crypte
+    - quote: La mer, haute en ce moment, en obstruait l’ouverture
+  - Nemo says the Nautilus is imprisoned in the grotto, whose entrance has risen, but can sink into the abyss that the grotto covers (III.17 ¶26). *(Drafted.)*
+    - quote: Le Nautilus est emprisonné dans cette grotte, dont l’entrée s’est exhaussée
+    - quote: l’abîme qu’elle recouvre
+  - Smith says the Nautilus can no longer leave the cave, whose entrance is closed by a rise of the basalt rocks (III.17 ¶50). *(Drafted.)*
+    - quote: il ne peut plus sortir de cette caverne, dont l’entrée est maintenant fermée par un exhaussement des roches basaltiques
+  - The Nautilus is sunk in it by the colonists, and the crypt grows dark again as its light fades (III.17 ¶90, ¶91). *(Drafted.)*
+    - quote: le Nautilus, s’enfonçant peu à peu, disparut sous la nappe liquide
+    - quote: la crypte redevenait obscure
 - **On the page.**
   - In his diving suit Nemo walked under the water a few cable-lengths from the island's shore (III.16 ¶62). *(Drafted.)*
     - quote: il se promenait sous les eaux, à quelques encâblures du rivage de l’île
-- **Appears in:** III.16
+- **Appears in:** III.15, III.16, III.17
 - **Open:**
   - Where the entrance lies on the coast is not stated. How long Nemo has been in the port is given as ‘six years’ in III.16 ¶62; this is set against the dates in the editor's note and is not carded (see the Nautilus card).
     - quote: Depuis six ans, le capitaine était là

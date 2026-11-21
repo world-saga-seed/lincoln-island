@@ -39,10 +39,15 @@ Keywords: Bob Harvey, Harvey, convict, pirate, chief, Speedy, Norfolk, capitaine
   - The convicts landed on the island are his band: Pencroff calls them his accomplices, and the convict Smith kills at the corral belongs to the band of Bob Harvey (III.5 ¶59; III.7 ¶53). *(Drafted.)*
     - quote: des complices de Bob Harvey
     - quote: appartenait bien à la bande de Bob Harvey
+  - Without him to handle her, the convicts who took the Bonadventure ran her on the rocks and broke her entirely (III.13 ¶57). *(My reading, to confirm.)*
+    - quote: n’ayant plus Bob Harvey pour manœuvrer
+  - The colonists think it possible that his companions, accomplices still held at Norfolk, were in the secret of his plans and might be tempted to imitate him (III.14 ¶22). *(Drafted.)*
+    - quote: des compagnons, des complices de Bob Harvey, encore détenus à Norfolk
+    - quote: eussent été dans le secret de ses projets
 - **On the page.**
   - Ayrton hears his name in the cheers before he sees him (III.2 ¶43, ¶44). *(Drafted.)*
     - quote: dans ce Bob Harvey, il venait de reconnaître un de ses anciens compagnons d’Australie
-- **Appears in:** III.2, III.3, III.4, III.5, III.7, III.9
+- **Appears in:** III.2, III.3, III.4, III.5, III.7, III.9, III.13, III.14
 - **Open:**
   - Who is "the chief of the escaped convicts": III.2 ¶71 calls Bob Harvey "le chef des convicts"; III.9 ¶41 supposes one of the convicts has found in Ayrton "un ancien compagnon d’Australie, le Ben Joyce, le chef des convicts évadés", and II.17 ¶60 has Ayrton himself become chief of escaped convicts under the name of Ben Joyce. Card neither. *(Drafted.)*
     - quote: le chef des convicts

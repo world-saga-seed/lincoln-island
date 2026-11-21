@@ -33,4 +33,4 @@ Keywords: pile, battery, acide azotique, potasse, zinc, flacons, tube, argile, c
     - quote: Chaque flacon produisit donc autant de courants
   - Two such batteries are made, one for Granite-house and one for the corral (see [the telegraph](the-telegraph.md)) (II.18 ¶47). *(Drafted.)*
     - quote: Deux piles avaient été fabriquées
-- **Appears in:** II.18
+- **Appears in:** II.18, III.15

@@ -291,6 +291,28 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - Pencroff calls him "le docteur Spilett" from then on, and he shows himself very strict with the convalescent, who must submit to his physician's prescriptions (III.11 ¶12, ¶21, ¶38). *(Drafted.)*
     - quote: le docteur Spilett se montrait fort sévère
     - quote: le jeune garçon dut se soumettre aux prescriptions de son médecin
+  - He says that if ever a reporter stood in front of a thrilling mystery, it is he; he would search the whole labyrinth of Mont Franklin's buttresses (III.13 ¶41). *(Drafted.)*
+    - quote: si jamais reporter s’est trouvé en présence d’un mystère émouvant, c’est bien moi qui vous parle
+    - quote: fouillons tout ce labyrinthe des contreforts du mont Franklin
+  - He goes with Smith into the dark cavity, hears the same rumblings and agrees that some chemical reaction is at work (III.13 ¶73, ¶74). *(Drafted.)*
+    - quote: Gédéon Spilett, qui l’accompagnait, entendit également ces lointains murmures
+    - quote: ils furent d’accord sur ce point
+  - He thinks the island's hard winters might be explained by ice or pack ice at a relatively very short distance (III.14 ¶36). *(Drafted.)*
+    - quote: par la présence de glaces ou de banquises à une distance relativement très-rapprochée
+  - Confinement seems hard to all the colonists and perhaps most to him: he would give Nab by notarial deed every inheritance that may come to him if Nab would subscribe him to some newspaper, for what he lacks most is to know every morning what happened the day before elsewhere (III.14 ¶43, ¶44). *(Drafted.)*
+    - quote: cette séquestration leur semblait dure à tous, et peut-être plus particulièrement à Gédéon Spilett
+    - quote: ce qui manque le plus à mon bonheur, c’est de savoir tous les matins ce qui s’est passé la veille, ailleurs qu’ici
+  - He and Pencroff show themselves distinguished washers of linen while he waits for the postman to bring his newspaper (III.14 ¶48). *(Drafted.)*
+    - quote: en attendant que le facteur lui apportât son journal
+    - quote: se montrèrent des blanchisseurs distingués
+  - In talk of the future he ends by founding a newspaper, the New-Lincoln Herald (III.15 ¶19). *(Drafted.)*
+    - quote: le reporter finissait par fonder un journal, le New-Lincoln Herald
+  - He knows the name Smith murmurs at the sight of the Nautilus, and it has a prodigious effect on him (III.15 ¶135, ¶136). *(Drafted.)*
+    - quote: un nom que Gédéon Spilett fut seul à entendre
+    - quote: cela fit sur lui un prodigieux effet
+  - He believes the handling of a submarine like the Nautilus must be very easy and quickly learned: no storms, no collisions, and a few feet down the sea is as calm as a lake (III.17 ¶48). *(Drafted.)*
+    - quote: la manœuvre d’un appareil sous-marin tel que ce Nautilus doit être très-facile
+    - quote: aussi calmes que celles d’un lac
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -343,7 +365,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
   - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

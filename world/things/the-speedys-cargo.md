@@ -38,4 +38,7 @@ Keywords: cargaison, cargo, caisses, chests, barils, casks, colis, sauvetage, sa
     - quote: À mer haute, on emmagasinait les objets sauvés
   - The colony’s arsenal gains as much as its stores and offices (III.4 ¶76). *(Drafted.)*
     - quote: l’arsenal de la colonie avait non moins gagné au sauvetage que les offices et les magasins de Granite-house
-- **Appears in:** III.2, III.4
+  - The brig’s destruction is a new source of riches: utensils and tools of every kind, arms and ammunition, clothes and instruments crowd the stores of Granite-house (III.14 ¶48). *(Drafted.)*
+    - quote: L’incident du brick détruit avait été une nouvelle source de richesses
+    - quote: ustensiles et outils de toutes sortes, armes et munitions, vêtements et instruments
+- **Appears in:** III.2, III.4, III.14

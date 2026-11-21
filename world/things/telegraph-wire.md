@@ -19,4 +19,6 @@ Keywords: fil de fer, fil télégraphique, étirage, iron wire, line, filière, 
   - At pole no. 74 the iron wire is violently broken and the break is fresh (III.6 ¶81, ¶83). *(Drafted.)*
     - quote: les deux bouts du fil de fer, qui avait été violemment rompu
     - quote: il y a certainement peu de temps que la rupture a été produite
-- **Appears in:** II.18, III.6
+  - In the part of the corral between the house and the palisaded enclosure there is no telegraph line (III.15 ¶74). *(Drafted.)*
+    - quote: Il n’y avait, dans toute la portion du corral qui séparait la maison de l’enceinte palissadée, aucune communication télégraphique
+- **Appears in:** II.18, III.6, III.14, III.15

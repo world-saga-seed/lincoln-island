@@ -41,7 +41,9 @@ Keywords: Glenarvan, Duncan, laird, Écossais, yacht, Grant, Ayrton, Tabor, lord
   - The Duncan is his yacht; it left Ayrton on the islet and is to return one day to fetch him (III.1 ¶15). *(Drafted.)*
     - quote: le yacht de lord Glenarvan, qui avait abandonné Ayrton sur l’îlot
     - quote: qui devait revenir l’y chercher un jour
-- **Appears in:** II.17, II.18, II.19, III.1
+  - Ayrton would like to see him again and show himself to all, rehabilitated (III.15 ¶22). *(Drafted.)*
+    - quote: qu’il voudrait revoir lord Glenarvan et se montrer à tous, réhabilité
+- **Appears in:** II.17, II.18, II.19, III.1, III.15
 - **Open:**
   - What he promised Ayrton: his spoken words at the landing are that men will remember him and that he knows where to find him (II.17 ¶77); Smith's account is that he promised "de venir le reprendre à l’île Tabor, quand il jugerait ses crimes suffisamment expiés" (II.19 ¶17). The tale gives only the first as spoken (II.17 ¶77; II.19 ¶17). *(Drafted.)*
     - quote: Je sais où vous êtes, Ayrton, et je sais où vous trouver

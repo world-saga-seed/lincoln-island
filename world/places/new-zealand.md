@@ -31,4 +31,4 @@ Keywords: Nouvelle-Zélande, Maoris, English, colony, landfall
     - quote: la traversa sur le trente-septième parallèle
   - It lies to the west of the island, a voyage the colonists put aside as too long for a boat of theirs (II.19 ¶34). *(Drafted.)*
     - quote: jusqu’à la Nouvelle-Zélande, dans l’ouest
-- **Appears in:** I.9, I.14, II.1, II.3, II.10, II.11, II.17, II.19
+- **Appears in:** I.9, I.14, II.1, II.3, II.10, II.11, II.17, II.19, III.14

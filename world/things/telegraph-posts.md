@@ -16,4 +16,6 @@ Keywords: poteaux, isoloirs, supports, route du corral, telegraph, posts, numér
   - Pole no. 74 lies across the road; the earth has been dug out at its foot, and it has been uprooted by a man’s hand, not by the wind (III.6 ¶78–¶80). *(Drafted.)*
     - quote: le poteau renversé se trouvait en travers de la route
     - quote: La terre a été creusée à son pied, et il a été déraciné de main d’homme
-- **Appears in:** II.18, III.6
+  - The first post stands just beyond the gate of the corral enclosure, and carries the insulator from which the new wire hangs (see [the new wire](the-new-wire.md)) (III.15 ¶74). *(Drafted.)*
+    - quote: courant droit au premier poteau
+- **Appears in:** II.18, III.6, III.15

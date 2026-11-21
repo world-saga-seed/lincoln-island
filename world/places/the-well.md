@@ -84,4 +84,9 @@ Keywords: puits, shaft, abyss, gouffre, conduit, underground, sea level, water, 
     - quote: ne rôdaient plus autour du puits
   - Spilett asks whether the unknown puts himself in secret communication with the colonists through the well of Granite-house, and so knows all their plans (III.5 ¶4). *(Drafted.)*
     - quote: Est-ce lui qui se met en communication secrète avec nous par le puits de Granite-house
-- **Appears in:** I.18, I.21, I.22, II.9, II.11, II.12, II.18, II.19, II.20, III.5
+  - Top and Jup no longer prowl at the mouth of the inner well, nor bark and moan there, in the winter and spring of the third year (III.14 ¶54). *(Drafted.)*
+    - quote: ne rôdaient plus à l’orifice du puits intérieur
+    - quote: ne gémissaient plus de cette singulière façon
+  - Smith supposes that communications between the unknown and the hosts of Granite-house might once have been made through the granite mass (III.14 ¶54). *(Drafted.)*
+    - quote: les communications entre l’inconnu et les hôtes de Granite-house s’étaient jamais établies à travers le massif de granit
+- **Appears in:** I.18, I.21, I.22, II.9, II.11, II.12, II.18, II.19, II.20, III.5, III.14

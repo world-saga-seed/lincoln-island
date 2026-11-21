@@ -68,6 +68,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The chest barrels](the-chest-barrels.md) | the two empty casks that buoyed the chest |
 | [The chest clothing](the-chest-clothing.md) | the shirts and stockings of vegetable cloth |
 | [The chicory](chicory.md) | the chicoraceous plants whose seed gives an excellent oil |
+| [The chloride of lime](chloride-of-lime.md) | the bleaching chlorides Smith makes from the chlorine of sea salt |
 | [The chlorinated papers](chlorinated-papers.md) | the sensitised papers of the photographic outfit |
 | [The claw prints](claw-prints.md) | the clear prints of a feline round the traps |
 | [The clay](clay.md) | figuline clay on the west shore of the lake |
@@ -169,7 +170,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The iron tools](iron-tools.md) | the pincers, picks, axes and other tools forged in the metallurgical period |
 | [The iron-shod spears](iron-shod-spears.md) | sticks tipped with a sharp iron |
 | [The jaguar skins](jaguar-skins.md) | some twenty skins that adorn the great hall of Granite-house |
-| [Jup's clothes](jups-clothes.md) | the white jacket, breeches and apron |
+| [Jup’s clothes](jups-clothes.md) | the white jacket and breeches and apron, and the padded dressing-gown |
 | [Jup’s stick](jups-stick.md) | the stick the orang carries in the forest |
 | [The kauri](kauri.md) | the giant conifer of New Zealand named in the forest by the Mercy |
 | [The koula skins](koula-skins.md) | the hides of three koulas, tanned with sulphuric acid |
@@ -198,9 +199,11 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The meridian line](meridian-line.md) | a north-south line fixed with two trees |
 | [The mine hole](mine-hole.md) | the blast hole bored in the lake’s granite rim |
 | [The mineral samples](mineral-samples.md) | the specimens Smith picked up on the walk and showed that night |
+| [Mobilis in mobili](mobilis-in-mobili.md) | the motto of the Nautilus, inscribed on the pediment of the saloon |
 | [The moon](moon.md) | the thin crescent that set over the western sea on 29 March |
 | [The mortar](mortar.md) | lime and sand mixed |
 | [The mouflon wool](mouflon-wool.md) | the fleeces shorn at the corral |
+| [The mountain survey](the-mountain-survey.md) | the very exact plan of Mont Franklin that Smith takes |
 | [The multi-blade knives](multi-blade-knives.md) | three knives with several blades, from the chest |
 | [The mustard](mustard.md) | the downy plant Pencroff takes for tobacco |
 | [Nab’s note](nabs-note.md) | the reply carried back by Top |
@@ -209,10 +212,15 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The natural sciences dictionary](natural-sciences-dictionary.md) | the six-volume English dictionary of the chest |
 | [The natural soda](soda.md) | ash of burnt sea plants |
 | [The Nautilus](nautilus.md) | Captain Nemo's submarine, now in a port under the island |
+| [The Nautilus’s boat](the-nautilus-boat.md) | the bolted-iron boat moored in the cave, in which the colonists reach the Nautilus |
+| [The Nautilus’s light](the-nautilus-light.md) | the white electric glare that fills the cave |
 | [The needles](needles.md) | two boxes of needles of the chest |
+| [Nemo’s casket](nemos-casket.md) | the casket of diamonds and pearls Nemo leaves the colonists |
 | [The nettle trees](nettle-trees.md) | the micocouliers of the Mercy, whose kernels give oil |
+| [The new wire](the-new-wire.md) | the insulated wire that runs from the corral line to the cave of the Nautilus |
 | [The nitric acid](nitric-acid.md) | distilled from the saltpetre by the sulphuric acid |
 | [The nitro-glycerine](nitro-glycerine.md) | the explosive Smith makes from the dugong’s fat and the saltpetre |
+| [The notice at the corral](the-notice-at-the-corral.md) | the paper on the telegraph table, "Follow the new wire" |
 | [The Oswego tea](oswego-tea.md) | tea of the monarda from the warren |
 | [The palms](palms.md) | the palms Pencroff looked for in vain in the forest |
 | [Pencroff's jacket](pencroff-jacket.md) | the sailor's jacket used to rub Smith |
@@ -231,6 +239,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The pit traps](pit-traps.md) | the covered pits set round the plateau and the forest edge |
 | [The planes](planes.md) | three planes of the chest |
 | [The plateau map](plateau-map.md) | the chart Smith drew to explain his plan |
+| [The plough](the-plough.md) | the plough added to the colony’s stock, drawn by the onaggas |
 | [The plumb line](plumb-line.md) | a stone on a flexible fibre |
 | [The pocket compass](pocket-compass.md) | the small compass of the chest |
 | [The Polynesian dictionary](polynesian-dictionary.md) | the English dictionary of the Polynesian languages in the chest |
@@ -251,6 +260,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The quinine box](the-quinine-box.md) | the small oblong box that appears on the table by Harbert’s bed |
 | [Quinine sulphate](quinine-sulphate.md) | the white alkaloid powder that cures Harbert |
 | [The raft of logs](raft-of-logs.md) | a raft of dead wood bound with dry lianas |
+| [The red marks](the-red-marks.md) | the small red points on the five dead convicts, the only sign of the blow |
 | [The refractory pottery](refractory-pottery.md) | ware of refractory clay for the blast pipe, the crucible and the acid |
 | [The revolver from the rack](the-revolver-from-the-rack.md) | the pirates’ revolver Ayrton takes aboard the Speedy |
 | [The revolvers](revolvers.md) | the colonists’ pistols, origin not given |
@@ -260,8 +270,10 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The salted salmon](salted-salmon.md) | the salmon caught in the Mercy and salted for winter |
 | [The saltpetre](saltpetre.md) | potassium nitrate, in layers on the island |
 | [The sandstone](sandstone.md) | a gritty rock found in quantity on the shore |
+| [The sawmill](the-sawmill.md) | the hydraulic sawmill Smith sets up on the shore fall |
 | [The saws of the chest](chest-saws.md) | three saws of various sizes |
 | [The scarecrows](scarecrows.md) | the clappers and dummies that guard the new wheat field |
+| [The schooner](the-schooner.md) | the new ship the colonists build to replace the Bonadventure |
 | [The scissors](scissors.md) | scissors forged to cut the colonists’ hair |
 | [The seal fat](seal-fat.md) | the fat of the islet’s seals, melted for candles |
 | [The seal-skin bellows](seal-bellows.md) | the blowing machine of two seal skins for the iron-making |
@@ -327,6 +339,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The Tabor guns](the-tabor-guns.md) | the two shotguns of the Tabor hut, one broken |
 | [The Tabor kettles](tabor-kettles.md) | the two rusted kettles of the Tabor hut |
 | [The Tabor lead](the-tabor-lead.md) | the barrel of lead from the Tabor hut |
+| [The Tabor notice](the-tabor-notice.md) | the document the colonists mean to leave on Tabor for the Scottish yacht |
 | [The Tabor pot](tabor-pot.md) | the overturned pot of the Tabor hut |
 | [The Tabor powder](the-tabor-powder.md) | the intact barrel of powder from the Tabor hut |
 | [The Tabor primers](the-tabor-primers.md) | the boxes of caps from the Tabor hut |

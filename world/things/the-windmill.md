@@ -42,4 +42,6 @@ Keywords: moulin à vent, windmill, ailes, sails, meules, millstones, poivrière
     - quote: Quant au moulin et aux bâtiments de la basse-cour, à l’étable des onaggas, le feu avait tout détruit
   - Smith will not raise it again until the island is cleared of the convicts (III.11 ¶20). *(Drafted.)*
     - quote: Quant à relever les bâtiments de la basse-cour, le moulin, les écuries, Cyrus Smith préféra attendre
-- **Appears in:** II.16, II.20, III.1, III.9, III.10, III.11
+  - It is rebuilt on the plateau after the devastation (III.14 ¶18). *(Drafted.)*
+    - quote: Le moulin fut rebâti
+- **Appears in:** II.16, II.20, III.1, III.9, III.10, III.11, III.14

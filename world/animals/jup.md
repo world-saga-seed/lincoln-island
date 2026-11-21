@@ -170,6 +170,18 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
   - At the corral he stays behind at Pencroff's order and is tied to the cart with Top, then, at the stream, runs to the dog and whistles shrilly (III.12 ¶58, ¶74, ¶104). *(Drafted.)*
     - quote: Jup, sur l’ordre de Pencroff, se tenait en arrière
     - quote: Jup, courant vers le chien, fit entendre des sifflements aigus
+  - He helps the carpenters skilfully, climbing to the top of a tree to fix the felling ropes or lending his robust shoulders to carry the lopped trunks (III.14 ¶16). *(Drafted.)*
+    - quote: Maître Jup les aidait adroitement
+    - quote: il grimpât au sommet d’un arbre pour y fixer les cordes d’abatage
+    - quote: il prêtât ses robustes épaules pour transporter les troncs ébranchés
+  - He is a little sensitive to cold, his only fault perhaps, and a well-wadded dressing-gown is made for him; the narrator calls him an adroit, zealous, indefatigable servant, neither indiscreet nor talkative, a model for his two-footed fellows, and an intelligent quadrumane that does his work properly (III.14 ¶50, ¶52). *(Drafted.)*
+    - quote: Maître Jup se montrait un peu frileux
+    - quote: une bonne robe de chambre, bien ouatée
+    - quote: quel domestique, adroit, zélé, infatigable, pas indiscret, pas bavard
+    - quote: l’intelligent quadrumane
+  - For the seven months after the last searches the orang's uneasiness stops, and he no longer prowls with Top at the mouth of the inner well (III.14 ¶54). *(Drafted.)*
+    - quote: aussi bien que les inquiétudes de l’orang
+    - quote: ne rôdaient plus à l’orifice du puits intérieur
 - **On the page.**
   - He is the ape that took refuge in the passage and is run down by Nab; he defends himself valiantly before being thrown down and bound (II.6 ¶89, ¶96). *(Drafted.)*
     - quote: un grand singe, qui s’était réfugié dans le couloir
@@ -209,7 +221,7 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
     - quote: je t’en fais cadeau
     - quote: l’ex-pipe du marin
     - quote: il l’allumait à un charbon ardent
-- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20, III.3, III.4, III.5, III.9, III.10, III.11, III.12
+- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20, III.3, III.4, III.5, III.9, III.10, III.11, III.12, III.14, III.15
 - **Open:**
   - Whether Jup lowered the ladder is not said: Cyrus Smith says he did (II.6 ¶94), and Pencroff, the next day, speaks of "cette échelle qu'il nous a si galamment renvoyée hier" (II.7 ¶11); the chapter does not say who in fact lowered it. *(My reading, to confirm.)*
     - quote: C’est lui qui nous a jeté l’échelle

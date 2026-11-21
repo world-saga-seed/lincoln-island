@@ -60,4 +60,4 @@ Keywords: baie, grève, beach, shore, reefs, brisants, sandbanks, ebb, coast, ba
   - From the landing of Granite-house the guns command the whole bay (III.5 ¶23). *(Drafted.)*
     - quote: ces bouches à feu commandaient véritablement toute la baie de l’union
 - **On the page.**
-- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5, II.10, II.12, II.20, III.1, III.3, III.5
+- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5, II.10, II.12, II.20, III.1, III.3, III.5, III.14

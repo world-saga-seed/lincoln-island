@@ -29,25 +29,84 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: Devant les yeux, ils n’avaient qu’un homme
   - The narrator calls him a great misanthrope who thirsted to do good (III.16 ¶66). *(Drafted.)*
     - quote: ce grand misanthrope avait soif du bien
+  - He is the man found lying on a rich divan in the great salon, who does not seem to notice the colonists' presence (III.15 ¶145). *(Drafted.)*
+    - quote: Étendu sur un riche divan, ils virent un homme qui ne sembla pas s’apercevoir de leur présence
+  - He is extremely worn out, and wills to remain among the wonders of the Nautilus, which millions could not have paid for, and there await a death that cannot be long in coming (III.17 ¶2). *(Drafted.)*
+    - quote: ces merveilles du Nautilus, que des millions n’eussent pas payées
+    - quote: y attendre une mort, qui ne pouvait tarder à venir
+  - He says himself that there is no remedy, and awaits death calmly; he does not fear it (III.17 ¶4). *(Drafted.)*
+    - quote: il n’y avait aucun remède
+    - quote: il attendait tranquillement la mort, qu’il ne craignait pas
+  - Smith says he has lived thirty years on the Nautilus and wishes to die on her (III.17 ¶9). *(Drafted.)*
+    - quote: Il y a trente ans qu’il vit sur le Nautilus
+    - quote: c’est sur le Nautilus qu’il veut mourir
+  - His salon holds pictures by Italian, Flemish, French and Spanish masters, marble and bronze reductions on pedestals, a magnificent organ against the rear bulkhead, and show-cases round a basin with the sea's finest products, sea plants, zoophytes and strings of pearls of inestimable value; its motto, on the pediment, is "Mobilis in mobili" (III.17 ¶13, ln1). *(Drafted.)*
+    - quote: ces chefs-d’œuvre des maîtres italiens, flamands, français et espagnols
+    - quote: l’orgue magnifique adossé à la cloison d’arrière
+    - quote: chapelets de perles d’une inappréciable valeur
+    - quote: la devise du Nautilus
+    - quote: Mobilis in mobili.
+  - He has limited his horizon for so many years to these masterpieces of art and nature in the depths of the seas (III.17 ¶14). *(Drafted.)*
+    - quote: auxquels il avait limité son horizon pendant un séjour de tant d’années dans l’abîme des mers
+  - He asks the colonists' promise to carry out his last wishes, and says he will then be paid for all he did for them (III.17 ¶19). *(Drafted.)*
+    - quote: Promettez-moi d’exécuter mes dernières volontés
+    - quote: je serai payé de tout ce que j’ai fait pour vous
+  - He wishes no other tomb than the Nautilus: it is his coffin, and all his friends rest at the bottom of the seas (III.17 ¶24). *(Drafted.)*
+    - quote: je désire ne pas avoir d’autre tombeau que le Nautilus
+    - quote: Tous mes amis reposent au fond des mers
+  - The Nautilus is imprisoned in the grotto, whose entrance has risen; she cannot leave her prison, but can sink into the abyss that the grotto covers (III.17 ¶26). *(Drafted.)*
+    - quote: Le Nautilus est emprisonné dans cette grotte, dont l’entrée s’est exhaussée
+    - quote: il peut du moins s’engouffrer dans l’abîme qu’elle recouvre
+  - All the riches the Nautilus holds must disappear with him; of Prince Dakkar one souvenir only will remain, a casket holding several millions of diamonds, mostly souvenirs of the time when, father and husband, he nearly believed in happiness, and a collection of pearls he and his friends gathered at the bottom of the seas (III.17 ¶28). *(Drafted.)*
+    - quote: toutes les richesses qu’il contient doivent disparaître avec moi
+    - quote: Un seul souvenir vous restera du prince Dakkar
+    - quote: pour plusieurs millions de diamants
+    - quote: j’ai presque cru au bonheur
+    - quote: une collection de perles recueillies par mes amis et moi au fond des mers
+  - He says the treasure will let them do good things one day, and that in hands like theirs money can be no peril; so he will be associated with their works from on high, and does not fear them (III.17 ¶28). *(Drafted.)*
+    - quote: vous pourrez faire, à un jour donné, de bonnes choses
+    - quote: je ne les crains pas
+  - He instructs them to close the salon, bolt the hatch of the platform, take the boat, and, before leaving, open two large taps at the stern on the waterline, so that water fills the reservoirs and the Nautilus sinks to rest in the abyss; he says they will bury only a dead man (III.17 ¶30, ¶32, ¶34). *(Drafted.)*
+    - quote: vous quitterez ce salon, dont vous fermerez la porte
+    - quote: ouvrez deux larges robinets qui se trouvent sur la ligne de flottaison
+    - quote: Vous n’ensevelirez qu’un mort
+  - He tells the colonists they are courageous, honest and good men, devoted without reserve to the common work; he has often observed them, loved them, and loves them (III.17 ¶54). *(Drafted.)*
+    - quote: vous êtes des hommes courageux, honnêtes et bons
+    - quote: Je vous ai souvent observés. Je vous ai aimés, je vous aime
+  - He knows how much Pencroff loves the island, which has been altered by the colonists' care and is theirs (III.17 ¶60). *(Drafted.)*
+    - quote: je sais combien vous aimez cette île
+    - quote: elle est bien vôtre
+  - He says the colonists think of their country and are right: one must return to the fatherland and die there, while he dies far from all he loved (III.17 ¶62). *(Drafted.)*
+    - quote: La patrie !… c’est là qu’il faut retourner
+    - quote: je meurs loin de tout ce que j’ai aimé
+  - He has no friends left: he is the last of his race and dead for a long time to all he knew; he dies of having believed that one could live alone (III.17 ¶64). *(Drafted.)*
+    - quote: Je n’ai plus d’amis ! Je suis le dernier de ma race
+    - quote: Je meurs d’avoir cru que l’on pouvait vivre seul
+  - He knows that the convicts destroyed the boat the colonists had built (III.17 ¶64). *(Drafted.)*
+    - quote: Je sais que ces misérables ont détruit l’embarcation que vous aviez faite
+  - He says "Et c’est ici que je reposerai dans l’éternel sommeil, si…" and, hesitating, does not finish the sentence; he asks to speak to Smith alone (III.17 ¶68, ¶69, ¶70). *(Drafted.)*
+    - quote: Et c’est ici que je reposerai dans l’éternel sommeil, si…
+    - quote: au lieu d’achever sa phrase
+    - quote: je voudrais vous parler… à vous seul
+  - He is kept up only by moral energy that will soon be unable to resist his physical weakening; his noble face, paled by the approach of death, is calm (III.17 ¶73, ¶75). *(Drafted.)*
+    - quote: n’était plus soutenu que par une énergie morale
+    - quote: Sa noble figure, pâlie par les approches de la mort, était calme
+  - He dies a little after midnight, crossing his arms on his chest, and about one in the morning, murmuring "Dieu et patrie !", he expires gently (III.17 ¶77, ¶78). *(Drafted.)*
+    - quote: il parvint à croiser ses bras sur sa poitrine
+    - quote: Dieu et patrie !
+    - quote: il expira doucement
+  - He is called the man who had been Prince Dakkar and who was no longer even Captain Nemo (III.17 ¶79). *(Drafted.)*
+    - quote: celui qui avait été le prince Dakkar et qui n’était même plus le capitaine Nemo
+  - Whatever judgment posterity passes on the acts of this existence, so to speak extra-human, Prince Dakkar will remain one of those strange physiognomies whose memory cannot fade (III.17 ¶44). *(Drafted.)*
+    - quote: cette existence pour ainsi dire extra-humaine
+    - quote: dont le souvenir ne peut s’effacer
+  - He is laid to rest in the Nautilus, which the colonists sink, and which, become his coffin, rests at the bottom of the seas (III.17 ¶90, ¶91). *(Drafted.)*
+    - quote: le Nautilus, devenu le cercueil du capitaine Nemo, reposait au fond des mers
 - **On the page.**
   - He has a magnificent head, high forehead, proud look, white beard and abundant hair swept back (III.16 ¶1). *(Drafted.)*
     - quote: tête magnifique, front haut, regard fier, barbe blanche, chevelure abondante et rejetée en arrière
   - His look is calm; a slow illness has worn him down, yet his voice is still strong (III.16 ¶2). *(Drafted.)*
     - quote: une maladie lente l’avait miné peu à peu
-  - He fixes an ardent look on the engineer, as if to annihilate him (III.16 ¶5). *(Drafted.)*
-    - quote: comme s’il eût voulu l’anéantir
-  - He says that, after all, he is going to die (III.16 ¶7). *(Drafted.)*
-    - quote: je vais mourir
-  - His hand is burning (III.16 ¶8). *(Drafted.)*
-    - quote: qu’il trouva brûlante
-  - He withdraws his hand at once and signs to the engineer and reporter to sit (III.16 ¶9). *(Drafted.)*
-    - quote: le capitaine Nemo avait aussitôt retiré sa main
-  - He smiles half-way when the Nautilus is named (III.16 ¶15). *(Drafted.)*
-    - quote: dit en souriant à demi le capitaine
-  - He asks whether Cyrus Smith knows who he is, and Cyrus says he does (III.16 ¶17-18). *(Drafted.)*
-    - quote: savez-vous qui je suis ?
-  - He asks who could have betrayed his secret (III.16 ¶19). *(Drafted.)*
-    - quote: Qui donc a pu trahir mon secret ?
   - He says he has lived in the depths of the sea, the only place where he found independence (III.16 ¶19). *(Drafted.)*
     - quote: le seul milieu où j’aie trouvé l’indépendance
   - He says the book holds only a history of some months of his life (III.16 ¶25). *(Drafted.)*
@@ -56,16 +115,6 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: un révolté, mis peut-être au ban de l’humanité
   - Told that he is the benefactor, he answers simply that it is he (III.16 ¶31). *(Drafted.)*
     - quote: C’est moi, » répondit simplement le capitaine.
-  - He stops the colonists' thanks with a sign, until they have heard him (III.16 ¶34). *(Drafted.)*
-    - quote: Quand vous m’aurez entendu
-  - He tells his whole life in a few clear, hurried phrases (III.16 ¶35). *(Drafted.)*
-    - quote: en quelques phrases nettes et pressées, fit connaître sa vie tout entière
-  - He fights extreme weakness to tell it to the end (III.16 ¶36). *(Drafted.)*
-    - quote: il luttait contre une extrême faiblesse
-  - He shakes his head, as a man for whom tomorrow no longer exists (III.16 ¶36). *(Drafted.)*
-    - quote: en homme auquel le lendemain n’appartient plus
-  - He refuses the reporter's care: his hours are counted (III.16 ¶37). *(Drafted.)*
-    - quote: mes heures sont comptées
   - His fortune and noble birth made him sought after, but worldly seductions never attracted him (III.16 ¶40). *(Drafted.)*
     - quote: les séductions du monde ne l’attirèrent jamais
   - Young and handsome, he stayed serious and sombre, devoured by thirst to learn and with an implacable resentment riveted to his heart (III.16 ¶40). *(Drafted.)*
@@ -192,10 +241,6 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: Toute justice n’est pas dans le pardon !
   - He asks "Ai-je eu tort, ai-je eu raison ?" (III.16 ¶81). *(Drafted.)*
     - quote: Ai-je eu tort, ai-je eu raison ?
-  - A tear slips from the dying man's eyes (III.16 ¶85). *(Drafted.)*
-    - quote: Une larme glissa des yeux du mourant.
-  - He blesses Harbert (III.16 ¶86). *(Drafted.)*
-    - quote: sois béni
 - **Habits.**
   - He wears a diving suit to walk under the water near the shore (III.16 ¶62). *(Drafted.)*
     - quote: il se promenait sous les eaux
@@ -207,7 +252,7 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: toujours, et anonymement
   - He prefers not to be seen, even while helping (III.16 ¶64). *(Drafted.)*
     - quote: il ne voulut point être vu
-- **Appears in:** III.16
+- **Appears in:** III.15, III.16, III.17
 - **Open:**
   - III.16 refers throughout to the earlier book, "Vingt mille Lieues sous les mers" (the professor's account of seven months aboard); the card holds only what III.16 states (III.16 ¶24). *(Drafted.)*
     - quote: Vingt mille Lieues sous les mers
@@ -226,3 +271,11 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: par des moyens qui seront connus un jour
   - The fate of his father, mother, wife and children is not stated beyond "payèrent pour lui" (III.16 ¶49). *(Drafted.)*
     - quote: son père, sa mère, sa femme, ses enfants payèrent pour lui
+  - Smith says "Il y a trente ans qu’il vit sur le Nautilus" (III.17 ¶9); the chapter III.16 dates the revolt in 1857 and his disappearance after it. Neither is carded; see the line on thirty years above (III.17 ¶9; III.16 ¶47). *(Drafted.)*
+    - quote: Il y a trente ans qu’il vit sur le Nautilus
+    - quote: En 1857, la grande révolte des cipayes éclata.
+  - What Nemo confided to Smith alone is not told (III.17 ¶72). *(Drafted.)*
+    - quote: il ne leur dit rien des choses secrètes que le mourant avait voulu lui confier
+  - Height of the Nautilus's platform: III.15 ¶132 says the apparatus rises "de dix à douze pieds au-dessus du niveau de la mer", and III.17 ¶42 says the platform rises "sept ou huit pieds au-dessus de l’eau"; both are in the text, and the tide stood differently at the two times (III.15 ¶132; III.17 ¶42). Carded neither. *(Drafted.)*
+    - quote: s’élevait de dix à douze pieds au-dessus du niveau de la mer
+    - quote: qui s’élevait de sept ou huit pieds au-dessus de l’eau

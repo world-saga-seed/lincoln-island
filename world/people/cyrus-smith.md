@@ -605,6 +605,94 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He reads from the animals being "plus craintifs qu’autrefois" that the woods have lately been crossed by the convicts (III.11 ¶43). *(Drafted.)*
     - quote: ces animaux, quadrupèdes et volatiles, sont plus craintifs qu’autrefois
     - quote: Ces bois ont donc été récemment parcourus par les convicts
+  - He names the unseen helper "le justicier de l’île": the one who carried Ayrton to the corral, who does for the colonists what they cannot do for themselves, and who then withdraws from them (III.13 ¶31). *(Drafted.)*
+    - quote: Le justicier de l’île
+    - quote: celui qui vous a transporté ici, Ayrton
+    - quote: et qui, cela fait, se dérobe à nous
+  - He says they will find the superior being who works such wonders only if it pleases him at last to call them to himself (III.13 ¶33, ¶43). *(Drafted.)*
+    - quote: nous ne le trouverons que s’il lui plaît enfin de nous appeler à lui
+    - quote: nous ne le retrouverons que s’il veut bien le permettre
+  - He wishes to repay the protector, if only at the price of their lives, by some signal service, and prays they may prove to the "protecteur hautain" that he has not to do with ingrates (III.13 ¶35). *(Drafted.)*
+    - quote: qu’il n’a point affaire à des ingrats
+    - quote: au prix de notre vie, quelque signalé service
+  - He sets about exploring the tangle of buttresses "avec une sévère méthode", and takes an exact survey of the mountain, carrying his search to its lowest foundations (III.13 ¶65, ¶94). *(Drafted.)*
+    - quote: avec une sévère méthode
+    - quote: prit même un levé très-exact de la montagne
+  - In a dark cavity several hundred feet inside the mountain he hears dull rumblings and judges with Spilett that a chemical reaction is at work in the ground; he says that any volcano held extinct may light again (III.13 ¶73, ¶74, ¶76). *(Drafted.)*
+    - quote: de sourds grondements
+    - quote: quelque réaction chimique s’élaborait dans les entrailles du sol
+    - quote: Tout volcan, bien qu’on le considère comme éteint, peut évidemment se rallumer
+  - He holds that the crater, the safety valve, will let the overflow of vapours and lavas escape by its customary outlet, that the slope of the whole mass favours the flow towards the valleys being explored, and that only an earthquake shifting the mountain's centre of gravity would change it (III.13 ¶78, ¶82). *(Drafted.)*
+    - quote: le trop-plein des vapeurs et des laves s’échappera
+    - quote: favorise l’épanchement des matières vers les vallées
+    - quote: Il faudrait qu’un tremblement de terre changeât le centre de gravité de la montagne
+  - He does not think the Grande-Vue domain can be seriously threatened: the ground between it and the mountain is notably depressed, and lavas taking the road to the lake would be thrown back on the dunes and the parts by Shark Gulf (III.13 ¶84). *(Drafted.)*
+    - quote: notre domaine de Grande-Vue puisse être sérieusement menacé
+    - quote: le sol est notablement déprimé
+    - quote: elles seraient rejetées sur les dunes
+  - He says no vapour escapes from the crater, whose summit he observed the day before, and that the "soupape" may be momentarily overloaded at the lower part of the chimney by rocks, ashes and hardened lavas; at the first serious effort every obstacle will vanish, and neither the island, the boiler, nor the volcano, the chimney, will burst (III.13 ¶86). *(Drafted.)*
+    - quote: pas une vapeur ne s’échappe du cratère
+    - quote: à la partie inférieure de la Cheminée
+    - quote: cette soupape dont je parlais soit trop chargée momentanément
+    - quote: ni l’île, qui est la chaudière, ni le volcan, qui est la cheminée, n’éclateront
+  - He is less trusting than Pencroff and Nab, and advises them to return to reality; it is urgent to build a vessel, to leave on Tabor a document giving Ayrton's new residence (III.14 ¶6). *(Drafted.)*
+    - quote: Mais Cyrus Smith, moins confiant
+    - quote: leur conseilla de rentrer dans la réalité
+    - quote: un document qui indiquât la nouvelle résidence d’Ayrton
+  - He proposes a bigger ship than the Bonadventure, of two hundred and fifty to three hundred tons, able to carry them to the Polynesian archipelagos or New Zealand; he finds the Scottish yacht's arrival at Tabor "fort problématique" (III.14 ¶8, ¶10). *(Drafted.)*
+    - quote: L’arrivée du yacht écossais à l’île Tabor est fort problématique
+    - quote: soit aux archipels polynésiens, soit à la Nouvelle-Zélande
+    - quote: un navire de deux cent cinquante à trois cents tonneaux
+  - He draws the plan of the new vessel and fixes her gauge (III.14 ¶15). *(Drafted.)*
+    - quote: s’occupa donc de faire le plan du navire et d’en déterminer le gabarit
+  - He conceives the plan of fortifying the corral: raising the palisaded enclosure and flanking it with a sort of blockhouse; Granite-house being inexpugnable by its position, the corral would always be the pirates' objective (III.14 ¶24). *(Drafted.)*
+    - quote: fortifier le corral
+    - quote: en rehausser l’enceinte palissadée
+    - quote: une sorte de blockhaus
+  - He explains the island's hard winters: islands and coastal regions suffer less from cold than inland countries; the southern hemisphere is colder than the northern; the pack ice must be near; and the earth is farthest from the sun in the austral winter (III.14 ¶31, ¶33, ¶37, ¶39). *(Drafted.)*
+    - quote: les îles et les régions du littoral sont moins éprouvées par le froid
+    - quote: l’hémisphère austral, qui, comme tu le sais, mon enfant, est plus froid
+    - quote: c’est évidemment à la proximité de la banquise que nous devons nos rigoureux hivers
+    - quote: c’est précisément pendant l’hiver des contrées australes qu’elle est à son point le plus éloigné du soleil
+  - From sea salt he easily extracted soda and chlorine, made the soda into carbonate of soda and the chlorine into chlorides of lime and others, used for domestic purposes and for bleaching linen (III.14 ¶48). *(Drafted.)*
+    - quote: De ce chlorure de sodium, qui n’est autre chose que le sel marin
+    - quote: Cyrus Smith avait facilement extrait la soude et le chlore
+    - quote: au blanchiment du linge
+  - By the beach fall he sets up a hydraulic sawmill, worked by a wheel, two cylinders and pulleys, that saws trunks into planks and joists faster (III.15 ¶8). *(Drafted.)*
+    - quote: au moyen de la chute de la grève, Cyrus Smith parvint à établir une scierie hydraulique
+    - quote: au moyen d’une roue, de deux cylindres et de poulies
+  - He sets out for his companions the pros and cons of an eruption, without exaggerating; Granite-house seems not menaced barring an earthquake, but the corral would have everything to fear if a new crater opened in the south walls of Mont Franklin (III.15 ¶5, ¶6). *(Drafted.)*
+    - quote: sans exagérer la situation, il leur en fit connaître le pour et le contre
+    - quote: le corral aurait tout à craindre
+  - He understands that the despatch did not start from the corral but from the mysterious retreat, which an additional wire joins directly to Granite-house (III.15 ¶71). *(Drafted.)*
+    - quote: qui comprit que la dépêche n’était pas partie du corral
+    - quote: un fil supplémentaire, raccordé à l’ancien
+  - At the sea's edge he says they must wait: the sea is high, and at low tide the way will be open; he says the unknown would not have called them if the means of reaching him were to fail; he speaks with such conviction that no objection is raised (III.15 ¶96, ¶98, ¶99). *(Drafted.)*
+    - quote: À mer basse, le chemin sera ouvert
+    - quote: Il ne nous aurait pas appelés, si les moyens devaient manquer pour arriver jusqu’à lui
+    - quote: avec un tel accent de conviction
+  - Seeing the Nautilus he cries "Mais c’est lui ! Ce ne peut être que lui !" and, falling back on his bench, murmurs a name that only Gédéon Spilett hears; the reporter answers "Lui ! un homme hors la loi !" (III.15 ¶134, ¶135, ¶137). *(Drafted.)*
+    - quote: Mais c’est lui ! Ce ne peut être que lui !
+    - quote: en murmurant un nom que Gédéon Spilett fut seul à entendre
+    - quote: Lui ! un homme hors la loi !
+  - He greets the man on the divan by his name: "Capitaine Nemo, vous nous avez demandés ? Nous voici." (III.15 ¶147). *(Drafted.)*
+    - quote: Capitaine Nemo, vous nous avez demandés ? Nous voici.
+  - He promises Nemo to carry out his last wishes, and by that promise binds his companions and himself (III.17 ¶20, ¶21, ¶37). *(Drafted.)*
+    - quote: Nous vous le promettons
+    - quote: il engageait ses compagnons et lui
+    - quote: Vous l’avez, capitaine
+  - Nemo says that in hands like his and his companions' money can be no peril, and leaves him the casket of diamonds and pearls; Smith and his companions take away this one souvenir, "ce coffret qui renfermait cent fortunes" (III.17 ¶28, ¶86). *(Drafted.)*
+    - quote: l’argent ne saurait être un péril
+    - quote: ce coffret qui renfermait cent fortunes
+  - He tells his friends it is useless to discuss submarine vessels: the Nautilus is not theirs, they have no right to dispose of it, and Nemo's wish that she be engulfed with him is formal, "et nous l’accomplirons" (III.17 ¶50). *(Drafted.)*
+    - quote: Le Nautilus n’est pas à nous, et nous n’avons pas le droit d’en disposer
+    - quote: Sa volonté est formelle, et nous l’accomplirons
+  - He says their plan is to give the island to the United States and to found there a naval station well placed in that part of the Pacific (III.17 ¶61). *(Drafted.)*
+    - quote: serait d’en doter les États-Unis
+    - quote: une relâche qui serait heureusement située dans cette portion du Pacifique
+  - He stays only a few minutes shut in with Nemo, and tells his friends nothing of the secret things the dying man wished to confide (III.17 ¶72). *(Drafted.)*
+    - quote: Cyrus Smith resta quelques minutes seulement enfermé avec le capitaine Nemo
+    - quote: il ne leur dit rien des choses secrètes que le mourant avait voulu lui confier
 - **On the page.**
   - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
@@ -766,6 +854,10 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He says Pencroff's account of the harpoon is perfectly possible, and proposes to look at the harpoon for the name of a ship, as whalers often engrave it (II.10 ¶60). *(Drafted.)*
     - quote: Cela est parfaitement possible
     - quote: les baleiniers ont-ils gravé sur celui-ci le nom de leur navire
+  - The unseen protection, which reduces their own action to nothing, both irritates and touches him: the relative inferiority it shows is of the kind a proud soul may feel wounded by, and a generosity that avoids all thanks seems to him a sort of disdain for those obliged (III.13 ¶34). *(Drafted.)*
+    - quote: irritait et touchait à la fois l’ingénieur
+    - quote: une âme fière peut se sentir blessée
+    - quote: une sorte de dédain pour les obligés
 - **Habits.**
   - He prefers to expect the worst at once and keep only the surprise of the better (I.9 ¶72). *(Drafted.)*
     - quote: Mieux vaut mettre les choses au pis tout de suite
@@ -785,7 +877,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He watches the unknown at every moment, and his eyes do not leave the man's (II.15 ¶68, ¶88). *(Drafted.)*
     - quote: comme l’ingénieur l’observait à tous moments
     - quote: dont les yeux ne quittaient pas ceux de son malade
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer
@@ -804,3 +896,5 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: Cela ne peut s’expliquer qu’ainsi, mes amis
     - quote: Ayrton n’a été privé d’intelligence qu’à une époque beaucoup plus récente qu’il ne le croit
     - quote: Aussi n’est-ce pas lui qui l’a jetée
+  - What Nemo confided to him alone is not told; the text says only that he told his friends nothing of it (III.17 ¶72). *(Drafted.)*
+    - quote: il ne leur dit rien des choses secrètes que le mourant avait voulu lui confier

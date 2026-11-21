@@ -57,8 +57,13 @@ Keywords: Creek-Rouge, brook, stream mouth, coal seam, creek, ruisseau, terre ro
     - quote: allait se perdre dans le Creek-Rouge
   - Its course is well known to the colonists (III.11 ¶24). *(Drafted.)*
     - quote: les cours de la Mercy et du creek Rouge
+  - The valley of the corral borders the valley of the Red Creek on the east (III.13 ¶68). *(Drafted.)*
+    - quote: par l’est, à la vallée du creek Rouge
+  - The Red Creek and the Falls-river are changed lower down into rivers by the absorption of some tributaries, being formed of all the waters of the mountain (III.13 ¶68). *(Drafted.)*
+    - quote: changés plus bas en rivières par l’absorption de quelques affluents
+    - quote: se formaient de toutes les eaux de la montagne
 - **On the page.**
-- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4, II.7, II.8, III.6, III.11
+- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4, II.7, II.8, III.6, III.11, III.13
 - **Open:**
   - The text does not say where the creek runs or how far its mouth is from the clearing.
     - quote: vers l’embouchure du Creek-Rouge

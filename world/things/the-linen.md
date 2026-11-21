@@ -29,4 +29,10 @@ Keywords: linge, linen, chemises, shirts, chaussettes, socks, draps, sheets, cou
     - quote: linge très-rude sans doute
   - The sheets make the Granite-house bunks into quite serious beds (II.8 ¶4). *(Drafted.)*
     - quote: firent des couchettes de Granite-house des lits tout à fait sérieux
-- **Appears in:** II.7, II.8
+  - Linen is abundant, and kept with extreme care (III.14 ¶48). *(Drafted.)*
+    - quote: Le linge était abondant aussi, et on l’entretenait, d’ailleurs, avec un soin extrême
+  - Only four washings are done a year, as in families of the old days (III.14 ¶48). *(Drafted.)*
+    - quote: on ne faisait plus que quatre lessives par année
+  - It is bleached with the soda and the chlorine that Smith draws from sea salt (see [the soda](soda.md); [the chloride of lime](chloride-of-lime.md)) (III.14 ¶48). *(Drafted.)*
+    - quote: employés à divers usages domestiques et précisément au blanchiment du linge
+- **Appears in:** II.7, II.8, III.14

@@ -21,6 +21,29 @@ Keywords: submarine, underwater boat, undersea, electricity, ram, vessel, Nemo's
     - quote: du canot du Nautilus
   - It rammed a frigate like a battering ram and sank it (III.16 ¶71). *(Drafted.)*
     - quote: s’était précipité comme un bélier sur cette frégate et l’avait coulée sans merci
+  - It is a long spindle-shaped body floating at the centre of the lake, silent and motionless, like the body of an enormous cetacean, about two hundred and fifty feet long (III.15 ¶132). *(Drafted.)*
+    - quote: Au centre du lac, un long objet fusiforme flottait à la surface des eaux, silencieux, immobile
+    - quote: semblable au corps d’un énorme cétacé
+    - quote: long de deux cent cinquante pieds environ
+  - Its wonders could not be paid for with millions (III.17 ¶2). *(Drafted.)*
+    - quote: que des millions n’eussent pas payées
+  - Nemo wishes it to be his only tomb, his coffin (III.17 ¶24). *(Drafted.)*
+    - quote: je désire ne pas avoir d’autre tombeau que le Nautilus. C’est mon cercueil
+  - All the riches it holds must vanish with Nemo (III.17 ¶28). *(Drafted.)*
+    - quote: toutes les richesses qu’il contient doivent disparaître avec moi
+  - Two large taps at the stern on the waterline let water into the reservoirs and sink it (III.17 ¶32, ¶89). *(Drafted.)*
+    - quote: deux larges robinets qui se trouvent sur la ligne de flottaison
+    - quote: L’eau pénétrera dans les réservoirs
+    - quote: communication avec les réservoirs destinés à déterminer l’immersion de l’appareil
+  - The engine room lies at the bow, where electric apparatus gives heat, light and mechanical force (see [the engine room](../places/nautilus-engine-room.md); [the library](../places/nautilus-library.md)) (III.17 ¶40). *(Drafted.)*
+    - quote: arrivèrent à l’avant, dans la chambre des machines
+    - quote: fournissaient la force mécanique au Nautilus
+  - Smith calls it a masterpiece that contained masterpieces (III.17 ¶41). *(Drafted.)*
+    - quote: Le Nautilus était un chef-d’œuvre qui contenait des chefs-d’œuvre
+  - It cannot leave its prison, and Nemo means it to sink with him; the colonists open the taps and it sinks slowly out of sight to the bottom of the sea, the coffin of Captain Nemo (III.17 ¶50, ¶90, ¶91). *(Drafted.)*
+    - quote: le capitaine Nemo veut qu’il s’engloutisse avec lui après sa mort
+    - quote: le Nautilus, s’enfonçant peu à peu, disparut sous la nappe liquide
+    - quote: devenu le cercueil du capitaine Nemo, reposait au fond des mers
 - **On the page.**
   - The sea supplied the needs of the prince and his crew (III.16 ¶53). *(Drafted.)*
     - quote: suffit amplement aux besoins du prince et de son équipage
@@ -40,7 +63,7 @@ Keywords: submarine, underwater boat, undersea, electricity, ram, vessel, Nemo's
     - quote: Le vide se fit dans le Nautilus
   - It is now in a port beneath Lincoln Island (III.16 ¶61). *(Drafted.)*
     - quote: celui qui donnait en ce moment asile au Nautilus
-- **Appears in:** III.16
+- **Appears in:** III.15, III.16, III.17
 - **Open:**
   - Dates and durations that do not agree. Nemo says he has had no communication with the inhabited world for thirty years; he says the Frenchman was thrown aboard sixteen years ago; the chapter dates that event to 1866; and it says the captain was sixty when he was alone and had been in the island port six years. Card neither reading: the numbers are held here, not carded.
     - quote: Il y a pourtant trente années que je n’ai plus aucune communication avec le monde habité
@@ -51,3 +74,8 @@ Keywords: submarine, underwater boat, undersea, electricity, ram, vessel, Nemo's
     - quote: sur la discordance de quelques dates
   - The chapter refers to the earlier book by its title; nothing from it is drawn on here.
     - quote: Vingt mille Lieues sous les mers
+  - The height above the sea: III.15 ¶132 says the apparatus rises ten to twelve feet; III.17 ¶42 says the platform rises seven or eight feet above the water (see [the platform](../places/nautilus-platform.md)). Card neither. (III.15 ¶132; III.17 ¶42). *(Drafted.)*
+    - quote: s’élevait de dix à douze pieds au-dessus du niveau de la mer
+    - quote: qui s’élevait de sept ou huit pieds au-dessus de l’eau
+  - The thirty years: III.17 ¶9 has Smith say that Nemo has lived thirty years on the Nautilus, a further reading beside the thirty years without communication with the inhabited world in III.16 and the dates given there. (III.17 ¶9). *(Drafted.)*
+    - quote: Il y a trente ans qu’il vit sur le Nautilus

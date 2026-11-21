@@ -99,7 +99,20 @@ Keywords: corral, enclos, palissade, mouflons, sheepfold, pen, hangars, wool, la
   - By moonlight it shows its clumps of trees, its small stream and its broad carpet of grass; on the mountain side the house and part of the palisade stand out white, and the gate end is dark (see [the corral stream](the-corral-stream.md), [the corral gate](the-corral-gate.md)) (III.12 ¶100). *(Drafted.)*
     - quote: Le corral s’éclaira tout entier avec ses bouquets d’arbres, le petit cours d’eau qui l’arrosait et son large tapis d’herbes
     - quote: Du côté de la montagne, la maison et une partie de la palissade se détachaient en blanc
-- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.7, III.8, III.9, III.10, III.11, III.12
+  - The convicts, who had found it soon after their arrival, lived on its stores without inhabiting it (III.13 ¶11). *(Drafted.)*
+    - quote: ils vivaient sur ses réserves, mais ils ne l’habitaient pas
+  - Its provisions are abundant, and it lies at the very centre of the colonists’ circle of search (III.13 ¶45). *(Drafted.)*
+    - quote: les provisions y sont abondantes, et nous sommes ici au centre même de notre cercle d’investigations
+  - It is not abandoned: every second day a colonist goes with the cart or an onagga to tend the flock of mouflons and goats, and brings back the milk for Nab’s pantry (III.14 ¶20). *(Drafted.)*
+    - quote: Tous les deux jours
+    - quote: allait soigner le troupeau de mouflons et de chèvres et rapportait le lait qui approvisionnait l’office de Nab
+  - From the buttress reached on the way to it, one sees a wide sector of the western horizon (III.14 ¶22). *(Drafted.)*
+    - quote: en s’élevant sur le contrefort, leur regard pouvait parcourir un large secteur de l’horizon occidental
+  - Smith plans to raise its palisaded enclosure and flank it with a sort of blockhouse, since the corral, with its buildings, stores and animals, would always be the pirates’ objective; the work is put off to the next spring (III.14 ¶24, ¶25). *(Drafted.)*
+    - quote: d’en rehausser l’enceinte palissadée et de la flanquer d’une sorte de blockhaus
+    - quote: serait toujours l’objectif des pirates
+    - quote: forcément remise au printemps prochain
+- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15
 - **Open:**
   - The stream that waters the corral meadows is "un petit rio, né sur ses pentes" that loses itself in the Red Creek in one chapter, and "ce petit ruisseau dérivé du creek Rouge" in another; card neither (II.8 ¶32; III.6 ¶88). *(Drafted.)*
     - quote: Un petit rio, né sur ses pentes, après l’avoir arrosée diagonalement, allait se perdre dans le Creek-Rouge

@@ -79,7 +79,9 @@ Keywords: Far-West, forêts, bois, woods, forest, Serpentine, impenetrable, for�
     - quote: On eût dit un coin de ces forêts vierges de l’Amérique ou de l’Afrique Centrale
   - The soil is damp at its upper layer but heated within by volcanic fires, which gives the trees a warmth that a temperate climate could not (III.12 ¶1). *(My reading, to confirm.)*
     - quote: humide à sa couche supérieure, mais chauffé à l’intérieur par des feux volcaniques
-- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12, II.18, III.6, III.8, III.11, III.12
+  - It gives the best oaks and elms for the new ship (see [the schooner](../things/the-schooner.md)) (III.14 ¶15). *(Drafted.)*
+    - quote: Ce fut la forêt du Far-West qui donna les meilleures essences en chênes et en ormes
+- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12, II.18, III.6, III.8, III.11, III.12, III.14
 - **Open:**
   - How much of the great forest the name covers: I.11 ¶32 says the trees make "two thirds" of the island a forest; I.11 ¶27 has the forest cover the whole south from the mountain to the shore; ¶81 gives the name to the woods of the Serpentine peninsula. The three do not say how they overlap, nor whether it takes in [the evergreen forest](the-evergreen-forest.md) or [the wood of the Jacamar](jacamar-wood.md). Card neither.
     - quote: très-boisée dans toute sa portion méridionale depuis la montagne jusqu’au littoral

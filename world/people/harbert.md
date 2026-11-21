@@ -331,6 +331,19 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
   - By 18 February he is again a vigorous, healthy boy, no longer needing the cart, and takes his place at the head of the party (III.12 ¶12). *(Drafted.)*
     - quote: redevenu le garçon vigoureux et bien portant qu’il était avant sa maladie
     - quote: en tête de la caravane
+  - He says they will not return to Granite-house until they have found their benefactor (III.13 ¶42). *(Drafted.)*
+    - quote: que lorsque nous aurons retrouvé notre bienfaiteur
+  - He takes Pencroff's hand and says they will make another Bonadventure, a bigger one, with all the ironwork and rigging of the brig at their disposal (III.13 ¶59). *(Drafted.)*
+    - quote: en prenant la main du marin
+    - quote: nous ferons un autre Bonadventure, un plus grand
+    - quote: tout le gréement du brick à notre disposition
+  - He and Gédéon Spilett, Top ahead, run oftener than any of their companions on the corral road, hunting with the excellent arms they have (III.14 ¶20). *(Drafted.)*
+    - quote: couraient-ils plus souvent qu’aucun autre de leurs compagnons sur la route du corral
+  - He knows that floating ice is met with at lower latitudes in the south than in the north of the Pacific (III.14 ¶34). *(Drafted.)*
+    - quote: les glaces flottantes se rencontrent sous des latitudes plus basses dans le sud que dans le nord du Pacifique
+  - He answers Pencroff that he will never abandon Lincoln Island, above all if Pencroff stays, laughing and blushing at once when Pencroff speaks of his wife and children (III.15 ¶15, ¶17). *(Drafted.)*
+    - quote: Jamais, Pencroff, et surtout si tu prends le parti d’y rester !
+    - quote: riant et rougissant à la fois
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -389,7 +402,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Pencroff et Harbert se relayèrent de deux heures en deux heures au gouvernail
   - He finds in the forest species not yet signalled on the island, tree ferns and carob trees (III.11 ¶53). *(Drafted.)*
     - quote: Harbert découvrit des essences nouvelles, dont la présence n’avait pas encore été signalée dans l’île
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

@@ -11,4 +11,4 @@ Keywords: Polynésie, polynésiens, archipels, Polynesian, archipelagos, routes,
     - quote: ils courent alors les archipels polynésiens
   - Its trade is the "grand cabotage", for which ships load utensils, manufactured goods and tools (III.4 ¶59). *(Drafted.)*
     - quote: le grand cabotage de la Polynésie
-- **Appears in:** III.1, III.2, III.4
+- **Appears in:** III.1, III.2, III.4, III.14

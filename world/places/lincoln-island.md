@@ -236,6 +236,16 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: plusieurs milliers d’acres de l’île avaient encore échappé à leurs investigations
   - In its forests it would have deserved a rank among the Canary group, whose first name was the Fortunate Isles (III.12 ¶2). *(Drafted.)*
     - quote: ce groupe des Canaries, dont le premier nom fut celui d’îles Fortunées
+  - Its winter cold is comparable to that of the New England states, at about the same distance from the equator (III.14 ¶30). *(Drafted.)*
+    - quote: Le froid était comparable à celui que ressentent les États de la Nouvelle-Angleterre
+  - Smith holds that the proximity of the pack ice must account for the hard winters, and that its summers are, on the contrary, very hot (III.14 ¶37). *(Drafted.)*
+    - quote: c’est évidemment à la proximité de la banquise que nous devons nos rigoureux hivers
+    - quote: les étés y sont très-chauds, au contraire
+  - The winter months June, July and August of the third year are very severe, the mean of the thermometer readings no more than eight degrees Fahrenheit (13.33 centigrade below zero), lower than in the previous winter (III.14 ¶49). *(Drafted.)*
+    - quote: Ils furent très-rigoureux, et la moyenne des observations thermométriques ne donna pas plus de huit degrés Fahrenheit (13°,33 centig au-dessous de zéro)
+    - quote: Elle fut donc inférieure à la température du précédent hivernage
+  - Smith’s plan is to give the island to the United States and found on it a station for their navy in this part of the Pacific (III.17 ¶61). *(Drafted.)*
+    - quote: d’en doter les États-Unis et d’y fonder pour notre marine une relâche
 - **On the page.**
   - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
     - quote: peu effrayés de la présence de l’homme
@@ -245,7 +255,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.16, III.1, III.2, III.10, III.11, III.12
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.1, III.2, III.10, III.11, III.12, III.13, III.14, III.15, III.16, III.17
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent

@@ -39,7 +39,11 @@ Keywords: maison du corral, Ayrton, wooden house, demeure, habitation, cabin, st
   - On the night of 19 February a lit lantern stands on its table and Ayrton’s old bed beside it (see [the corral lantern](../things/the-corral-lantern.md)) (III.12 ¶79). *(Drafted.)*
     - quote: Sur la table brillait un fanal allumé
     - quote: Près de la table était le lit qui servait autrefois à Ayrton
-- **Appears in:** II.17, II.18, II.20, III.6, III.7, III.8, III.9, III.12
+  - It is called Ayrton’s house (III.13 ¶3). *(Drafted.)*
+    - quote: sans quitter la maison d’Ayrton
+  - A table in its room is set aside for the wire service (see [the telegraph instruments](../things/telegraph-instruments.md)) (III.15 ¶63). *(Drafted.)*
+    - quote: la table qui était spécialement affectée au service du fil
+- **Appears in:** II.17, II.18, II.20, III.6, III.7, III.8, III.9, III.12, III.13, III.15
 - **Open:**
   - The date: the house is ready before the week is out (II.17 ¶28) and the installations are finished on 20 December (II.17 ¶30), though the request was made on 10 December (II.17 ¶10); whether the house and "les installations" are one work is not said (II.17 ¶10, ¶28, ¶30). *(My reading, to confirm.)*
     - quote: Le 10 décembre, une semaine après son retour à Granite-house

@@ -254,6 +254,60 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
   - Among the five men whose footprints are found at a recent fire he leaves no track: a sixth footprint would have been his, and the colonists find none, whence they conclude there is no hope of seeing him again (III.11 ¶55, ¶63). *(Drafted.)*
     - quote: on ne put découvrir une sixième empreinte, qui, dans ce cas, eût été celle du pied d’Ayrton
     - quote: il n’y avait plus à conserver aucun espoir de jamais le revoir
+  - He does not know how he comes to be back in the corral from the cave where he was kept prisoner, nor that he lies in the corral house (III.13 ¶3, ¶17). *(Drafted.)*
+    - quote: puisqu’il ne savait pas lui-même être dans la maison du corral
+    - quote: comment se fait-il que je me retrouve au corral
+  - On the night after his arrival at the corral, 10 November, the convicts, who had climbed the enclosure, surprise him, tie and gag him and take him to a dark cave at the foot of Mont Franklin, where they had taken refuge (III.13 ¶6). *(Drafted.)*
+    - quote: le 10 novembre dernier
+    - quote: à la tombée de la nuit, il fut surpris par les convicts
+    - quote: Ceux-ci le lièrent et le bâillonnèrent
+    - quote: une caverne obscure, au pied du mont Franklin
+  - The next day he was to be killed; a convict recognised him and called him by the name he bore in Australia, and they spared Ben Joyce (III.13 ¶7). *(Drafted.)*
+    - quote: l’appela du nom qu’il portait en Australie
+    - quote: Ils respectèrent Ben Joyce !
+  - His old accomplices press him to come back to them and count on him to take Granite-house and, the colonists murdered, become masters of the island (III.13 ¶8). *(Drafted.)*
+    - quote: Ceux-ci voulaient le ramener à eux
+    - quote: ils comptaient sur lui pour s’emparer de Granite-house
+  - He resists: the old convict, repentant and pardoned, would rather die than betray his companions (III.13 ¶9). *(Drafted.)*
+    - quote: L’ancien convict, repentant et pardonné
+    - quote: fût plutôt mort que de trahir ses compagnons
+  - He lives four months in the cave, bound, gagged and kept under watch (III.13 ¶10). *(Drafted.)*
+    - quote: attaché, bâillonné, gardé à vue
+    - quote: pendant quatre mois
+  - He is in despair when he hears the news of Harbert's death, which a convict brought back boasting (III.13 ¶11, ¶12). *(Drafted.)*
+    - quote: l’un d’eux revint en se vantant d’avoir tué un des habitants de l’île
+    - quote: du désespoir d’Ayrton, quand il apprit cette nouvelle de la mort d’Harbert
+  - Ill-treatment redoubles; his hands and feet bear the bloody mark of the bonds that tied him day and night (III.13 ¶14). *(Drafted.)*
+    - quote: Les mauvais traitements infligés à Ayrton redoublèrent
+    - quote: la sanglante empreinte des liens qui l’attachaient jour et nuit
+  - Weakened by ill-treatment, he falls into a deep prostration that lets him neither see nor hear, and for two days he could not even say what had happened (III.13 ¶16). *(Drafted.)*
+    - quote: affaibli par les mauvais traitements
+    - quote: une prostration profonde
+    - quote: depuis deux jours
+  - He tells the colonists that the convicts found the Bonadventure in her little port eight days before and put to sea, and that without Bob Harvey to handle her they ran her on the rocks and broke her entirely (III.13 ¶55, ¶57). *(Drafted.)*
+    - quote: Les convicts l’ont découvert dans son petit port, il y a huit jours à peine
+    - quote: n’ayant plus Bob Harvey pour manœuvrer
+    - quote: l’embarcation a été entièrement brisée
+  - He shows the colonists, in the valley south of the volcano that gathers the first waters of the Falls river, the cave where the convicts took refuge and where he was kept; it lies just as he left it, with munitions and food the convicts had carried off to make a reserve (III.13 ¶66). *(Drafted.)*
+    - quote: Ayrton leur montra la caverne où s’étaient réfugiés les convicts
+    - quote: dans laquelle il avait été séquestré
+    - quote: une certaine quantité de munitions et de vivres
+  - The colonists mean to carry to Tabor a notice telling where Ayrton now is, in case the Scottish yacht comes to take him back (III.13 ¶50; III.14 ¶6). *(Drafted.)*
+    - quote: où se trouve actuellement Ayrton, pour le cas où le yacht écossais viendrait le reprendre
+    - quote: un document qui indiquât la nouvelle résidence d’Ayrton
+  - He shares the common life in full, and there is no more talk of his going to live at the corral (III.14 ¶19). *(Drafted.)*
+    - quote: Ayrton partageait absolument l’existence commune
+    - quote: il n’était plus question pour lui d’aller vivre au corral
+  - Pencroff counts on him to lend a hand in building the new ship; he and Pencroff are its two most zealous builders and work as long as they can; they pull the pegs and a great quantity of copper nails from the brig's mutilated planks and ribs (III.14 ¶13, ¶29; III.15 ¶9). *(Drafted.)*
+    - quote: j’imagine qu’Ayrton pourra nous donner un bon coup de main
+    - quote: les deux plus zélés constructeurs du nouveau bâtiment
+    - quote: Pencroff et Ayrton avaient arraché les chevilles et une grande quantité de clous de cuivre
+  - Silent, he says to himself that he would like to see Lord Glenarvan again and show himself to all, rehabilitated (III.15 ¶22). *(Drafted.)*
+    - quote: qu’il voudrait revoir lord Glenarvan et se montrer à tous, réhabilité
+  - He was the last to come to the corral, four days before the night of 15 October (III.15 ¶64, ¶65, ¶67). *(Drafted.)*
+    - quote: Qui est venu pour la dernière fois ici ?
+    - quote: Moi, monsieur Smith, répondit Ayrton.
+    - quote: Il y a quatre jours.
 - **On the page.**
   - He stands respectfully aside in a corner of the magnificent salon (III.16 ¶8). *(Drafted.)*
     - quote: dans un angle de ce magnifique salon
@@ -326,6 +380,10 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: Seul ?
     - quote: Mais ils vont venir ! s’écria Ayrton !
     - quote: Et Ayrton retomba épuisé
+  - He stays sad and uncommunicative, joining in the work rather than the pleasures; a rough worker at the task, vigorous, skilful, ingenious, intelligent, esteemed and loved by all, and he cannot but know it (III.14 ¶19). *(Drafted.)*
+    - quote: il restait toujours triste, peu communicatif
+    - quote: un rude ouvrier à la besogne, vigoureux, adroit, ingénieux, intelligent
+    - quote: Il était estimé et aimé de tous, il ne pouvait l’ignorer
 - **Habits.**
   - He refuses to go up to Granite-house at mealtimes, eats a few raw vegetables, and sleeps out under a clump of trees, or in a hollow of the rocks in bad weather (II.16 ¶65). *(Drafted.)*
     - quote: il ne remontait point à Granite-house
@@ -335,7 +393,7 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: il vivait encore comme au temps où il n’avait d’autre abri que les forêts de l’île Tabor
   - After the jaguar he goes back to his old life: he does not come to the meals, sleeps under the trees of the plateau and never mixes with his companions (II.17 ¶4). *(Drafted.)*
     - quote: n’assistant point aux repas, couchant sous les arbres du plateau, ne se mêlant jamais à ses compagnons
-- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
+- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
 - **Open:**
   - The editor warns, in a note that recalls the one on Ayrton's adventures, of a "discordance de quelques dates" with the earlier books (III.16 n1); the card cannot say which dates. *(Drafted.)*
     - quote: sur la discordance de quelques dates
@@ -373,3 +431,7 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: un ancien compagnon d’Australie, le Ben Joyce, le chef des convicts évadés
     - quote: il était devenu, sous le nom de Ben Joyce, le chef de convicts évadés
     - quote: Ayrton ou Ben Joyce et moi, nous ne faisons qu’un
+  - The days of his captivity: he says he is back "après cent quatre jours de séparation" and that his capture was on "le 10 novembre dernier", and he lived in the cave "pendant quatre mois"; the finding is the night of 19 February (III.12), and a plain count from 10 November to the 20 February of his waking is not a hundred and four days. Card neither (III.13 ¶4, ¶6, ¶10). *(My reading, to confirm.)*
+    - quote: après cent quatre jours de séparation
+    - quote: le 10 novembre dernier
+    - quote: pendant quatre mois

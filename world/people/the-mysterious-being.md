@@ -85,7 +85,50 @@ Keywords: être mystérieux, bienfaiteur, bienfaisant inconnu, protecteur, incon
     - quote: nous avons un acte de reconnaissance à accomplir
     - quote: nous ne trouverons ce gentleman que s’il le veut bien
     - quote: la retraite de l’inconnu ne devait pas être moins mystérieuse qu’il ne l’était lui-même
-- **Appears in:** III.5, III.6, III.8, III.10, III.11, III.12
+  - The five convicts are found dead, killed by what Smith calls a thunderbolt weapon whose secret the colonists do not hold, and the unknown who struck them is "le justicier de l’île", who also carried Ayrton to the corral (III.13 ¶29, ¶31). *(Drafted.)*
+    - quote: Une arme foudroyante dont nous n’avons pas le secret
+    - quote: Le justicier de l’île
+    - quote: celui qui vous a transporté ici, Ayrton
+  - Smith says he is one "qui fait pour nous tout ce que nous ne pouvons faire nous-mêmes, et qui, cela fait, se dérobe à nous", and that the colonists will find this superior being only if it pleases him to call them (III.13 ¶31, ¶33, ¶43). *(Drafted.)*
+    - quote: celui qui fait pour nous tout ce que nous ne pouvons faire nous-mêmes
+    - quote: nous ne le trouverons que s’il lui plaît enfin de nous appeler à lui
+  - From that day the search for him is the sole preoccupation of the island's inhabitants, the word of the enigma being the name of a man endowed with a power truly inexplicable and in some sort superhuman (III.13 ¶36). *(Drafted.)*
+    - quote: cette recherche fut l’unique préoccupation des habitants de l’île Lincoln
+    - quote: d’un homme doué d’une puissance véritablement inexplicable et en quelque sorte surhumaine
+  - Pencroff's confidence in this "dieu spécial de son île" is absolute; the occult power seemed without limits, yet it escaped the colonists' minute searches (III.13 ¶93). *(Drafted.)*
+    - quote: le dieu spécial de son île
+    - quote: la puissance occulte
+    - quote: paraissait être sans limites
+  - The searches from 19 to 25 February, over the whole north of the island, the mountain to its crater, the dunes and the walls of Shark Gulf, find no trace of him; the colonists have the right to believe he does not live on the surface of the island (III.13 ¶94, ¶95, ¶96, ¶98). *(Drafted.)*
+    - quote: ne trouvèrent les traces de celui qu’ils cherchaient
+    - quote: l’être mystérieux ne résidait pas à la surface de l’île
+  - For the seven months after the last searches round the mountain, and through September, nothing is said of the genius of the island and his action shows itself in no circumstance (III.14 ¶53). *(Drafted.)*
+    - quote: Pendant les sept mois qui s’écoulèrent depuis les dernières recherches
+    - quote: il ne fut aucunement question du génie de l’île
+  - In that time Top's growls and the orang's uneasiness stop; the two friends no longer prowl at the mouth of the inner well, and no communication through the granite mass seems to hold (III.14 ¶54). *(Drafted.)*
+    - quote: Les grondements du chien avaient complétement cessé
+    - quote: ne rôdaient plus à l’orifice du puits intérieur
+  - Smith asks whether anything could be affirmed to have ended with the enigma, and whether some conjuncture would not bring the mysterious personage back on the stage (III.14 ¶54). *(Drafted.)*
+    - quote: Pouvait-il affirmer que quelque conjoncture ne se reproduirait pas
+  - The colonists believe the unknown must have been mixed in their existence, know its smallest details and hear all said in Granite-house, to have acted always at the right moment (III.15 ¶43). *(Drafted.)*
+    - quote: qu’il en connût les moindres détails
+    - quote: qu’il entendît tout ce qui se disait à Granite-house
+  - The message "Venez au corral en toute hâte", then a notice written in English, "Suivez le nouveau fil", come from his retreat, joined by an additional wire to Granite-house (III.15 ¶37, ¶69, ¶70, ¶71). *(Drafted.)*
+    - quote: Venez au corral en toute hâte
+    - quote: Suivez le nouveau fil
+    - quote: un fil supplémentaire, raccordé à l’ancien
+  - The additional wire is wrapped along its whole length in an insulating substance, like a submarine cable, and runs west through the woods and the mountain's southern buttresses to the sea (III.15 ¶76, ¶82, ¶91). *(Drafted.)*
+    - quote: il était entouré d’une substance isolante, comme l’est un câble sous-marin
+    - quote: il courait vers l’ouest
+    - quote: il s’enfonçait dans la mer
+  - He is the man of the Nautilus, whom Smith greets as Captain Nemo; the colonists reach him by a boat of bolted sheet iron moored to a projection of the cavern wall, and by an electric light (III.15 ¶112, ¶129, ¶147). *(Drafted.)*
+    - quote: Ce canot était fait en tôle boulonnée
+    - quote: Cette lumière provenait d’une source électrique
+    - quote: Capitaine Nemo, vous nous avez demandés ?
+  - The colonists call him "leur bienfaiteur" and "ce protecteur" they had known only a few hours (III.17 ¶43, ¶86). *(Drafted.)*
+    - quote: ce protecteur qu’ils auraient connu quelques heures à peine
+    - quote: leur bienfaiteur
+- **Appears in:** III.5, III.6, III.8, III.10, III.11, III.12, III.13, III.14, III.15, III.17
 - **Open:**
   - The text does not say what he is: "un naufragé comme nous peut-être" and "naufragé ou exilé" (Smith), whether he came of his own will and can leave, and whether he is still on the island (III.5 ¶3; III.6 ¶24). *(Drafted.)*
     - quote: un naufragé comme nous peut-être

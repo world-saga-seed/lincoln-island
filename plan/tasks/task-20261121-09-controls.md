@@ -32,3 +32,4 @@
 ## Resolution
 
 (On close.)
+- 2026-11-21 The checks begin (the author's word). Copies under neutral labels in `checks/`, prompts in `checks/prompts/`, the batch paper `checks/batch-paper.md`. Mechanical checks in.

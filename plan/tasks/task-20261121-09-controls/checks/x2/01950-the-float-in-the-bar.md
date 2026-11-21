@@ -1,0 +1,129 @@
+CHAPTER XIX bis.
+
+PENCROFF AT HIS LINES—A SAILOR’S EYE—SOMETHING ON THE BAR—A SECRET BETWEEN TWO—THE RAIN—EMPTY LINES—THE GREEN BALL—WHAT HERBERT READ IN THE BARNACLES—THREE LETTERS—THE SQUALL—THE BAR AT THE NEXT TIDE.
+
+The first day of June found the colonists fairly settled in their new abode. The partitions were up, the chimney drew, and the shutters, closed upon the five windows, kept out wind and rain well enough. Within, the hall was as dark as a ship’s hold in the daytime, and their only light came from the kitchen fire. Smith had promised glass from the sand of the shore, and candles from the fat of the seals, but neither could be had in a day. Meanwhile there was furniture to be made, and every hand was wanted for it.
+
+Pencroff had not forgotten the sea. He had set some lines at the mouth of the Mercy, a little above the point where the river fell into the channel, and he visited them at every low water. He went down the ladder that morning a little after sunrise, with Top at his heels. The sky was gray and low, the wind was in the southeast, and the channel between the shore and Safety Islet was nearly bare.
+
+Now a sailor does not look at the water as a landsman does. Where the landsman sees only a flat sheet, more or less wrinkled, the sailor reads the color of it, the run of the ripples, the line of foam that marks a shoal, the smooth patch that betrays an eddy. Pencroff, while he hauled in his first line, which was empty, cast his eye along the channel from habit, and saw, about halfway to the islet, a long sandbar which the ebb had just laid bare. Nothing could be more ordinary. But upon this bar, at its southern end, the water broke where it should not have broken; and when the little wave had passed, Pencroff saw something there which was neither sand nor rock nor weed.
+
+It was round, about a foot across, and half buried. It caught the gray light dully, as a wet stone does not.
+
+The sailor stood still, with the line in his hand. A round thing on a bar is no common thing. A cask, a buoy, the top of a wreck—any of these may come ashore upon a coast where ships pass. And if ships passed this coast—
+
+But the flood was already making. Pencroff knew it by the bubbles which began to rise along the edge of the bar, and by the turn of the floating weed in the channel. The bar was a good quarter of a mile away, and the sand between was beginning to cover. He could not reach it and come back dry, and he did not care to be caught midway by the tide with nothing to show for it.
+
+He finished with his lines, therefore, which gave him two small fish of no account, and he watched the bar until the water closed over it. Then he went back slowly towards the Chimneys, thinking.
+
+He had a strong desire to run up the ladder and tell the whole thing to Smith. But what was there to tell? A round thing on the sand, which might be a stone after all, or a lump of pumice from the volcano, or a dead sea-urchin of extraordinary size. If he spoke of a buoy, they would think of a ship; if they thought of a ship, they would watch the horizon all winter long; and if it came to nothing, he would have done his friends a poor service. Pencroff had seen men at sea grow sick with looking for a sail. He resolved to say nothing until he knew.
+
+Yet he wanted a second pair of hands, and a second pair of eyes, and above all he wanted to share it with someone. Towards noon, finding Herbert alone at the foot of the cliff, where the boy was gathering driftwood for the kitchen fire, the sailor drew him aside under the wall.
+
+“Herbert,” said he, in a low voice, “will you help me with the lines to-morrow morning at low water?”
+
+“Certainly, Pencroff,” answered the lad, rather surprised, for the lines had never needed two men.
+
+“And say nothing about it upstairs?”
+
+Herbert looked at him.
+
+“There’s something on the bar out yonder,” said Pencroff, pointing with his chin towards the channel, which was now full. “I saw it this morning. It may be nothing at all. I don’t want to make a fuss over nothing. We’ll go and look, you and I, and if it’s worth the telling, we’ll tell it.”
+
+Herbert promised. He was not used to keeping anything from Smith, and the promise cost him a little; but the sailor was his oldest friend, and the reason seemed a good one.
+
+The next morning, June 2, broke in rain. It was not a squall, but a steady, cold, slanting rain from the southeast, which hid the islet and the sea beyond it in a gray mist. The shutters of Granite House remained closed. Smith and Spilett were at work in the hall upon the frame of a table; Neb was salting the meat of the day before. Nobody thought it strange when Pencroff said that he and Herbert would go down and see to the lines.
+
+“You will be wet through,” said the reporter.
+
+“Fish don’t mind it,” answered the sailor, “and no more do I.”
+
+They went down the ladder. Top would have followed them, but Pencroff sent him back, for the dog would have run splashing and barking across the sand and brought every head to the windows. At the bottom, the sailor stood a moment and looked up at the cliff. There were picks in the storehouse, two of them, good ones, forged by Smith himself. He had thought of them more than once in the night. But a man does not carry a pick down a ladder in the rain to look at fishing lines, and if he had been asked what he wanted with it, he would have had to answer. He had his knife, and that must serve. It was one of the only two which the colony possessed, made by the engineer from the halves of Top’s collar, and Pencroff valued it above any blade he had ever owned.
+
+They went first to the lines. It was the right order, and besides, the ebb was not yet at its lowest. The lines were empty, every one. The bait had been taken clean from two of the hooks, by crabs, no doubt.
+
+“Bad luck,” said Herbert.
+
+“We didn’t come for fish,” answered Pencroff.
+
+The channel was now bare, or nearly so. A thin sheet of water still ran in the deeper part, but the sand was firm and ribbed, and they could cross it without wetting their knees. The rain beat upon their backs. The bar rose before them, long and low, and at its southern end, exactly where the sailor had seen it the day before, lay the round thing, half sunk in the sand, with a little pool of water about it.
+
+They knelt down beside it.
+
+It was a ball of glass. Its color was a dark green, so dark that it seemed almost black where the sand lay against it, and the rain ran off it in little streams. It was thick with barnacles, which covered it like a crust over nearly all its upper half, so that only here and there could the glass itself be seen. Around it, and under it, ran the remains of a lashing of cord, black and rotten, and this lashing, when Pencroff cleared away the sand with his hands, was found to be knotted into the meshes of a net. The net itself went down into the bar, and no one could say how far.
+
+Pencroff took hold of the ball with both hands and tried to turn it. It did not move. He tried to lift it. It did not move. He set his feet and pulled, until the rotten cord creaked; but whatever held the net below held it fast, and the sand, packed by a hundred tides, held all the rest.
+
+“It’s a float,” said he at last, sitting back upon his heels. “A net float. That’s plain enough. But it isn’t cork, and it isn’t American. I’ve been in fishing towns from Nantucket to Gloucester, and I never saw a float of glass, nor heard of one. Nor in England either. I don’t know where they make such things.”
+
+He drew his knife and tried to follow the lashing down under the ball, but it ran away under the glass, deep into the sand, where his hand could not reach. He dug with his fingers. The water came in as fast as he dug, and the sand with it.
+
+Herbert, meanwhile, was looking closely at the barnacles. He pried one off with his thumbnail, and turned it over, and looked at it for some time.
+
+“These are dead, Pencroff,” said he. “Every one of them. Long dead. There is nothing inside them at all.”
+
+“Well?”
+
+“And they are not the kind that grow on rocks. They are the kind that grow only on things that float—on drifting logs, and ships’ bottoms, and weed at the surface of the sea. They have long stalks when they are living. I have seen pictures of them.” He showed the sailor where the stalk had been. “So this ball was afloat for a long time before it came here. Long enough for all these to grow on it, and then to die. Years, perhaps.”
+
+“Afloat where?”
+
+“I don’t know. A long way off, I think. It must have drifted from very far.”
+
+Pencroff said nothing. He understood well enough what the boy meant, and what he did not say. A float lost yesterday from a fishing boat would have meant a fishing boat within a few miles. A float that had drifted for years meant only that, somewhere in the world, there were fishermen. It did not bring a ship one league nearer to Lincoln Island.
+
+“Well,” said he at length, “it’s a float, anyhow.”
+
+Herbert had picked up a stone from the bar, a flat piece of granite which fitted his hand, and he began to chip away the crust of barnacles from the glass. They came off in flakes, with the sand that had settled among them. Under them the glass was smooth and dark and clean, as if it had been made that morning. Pencroff watched him.
+
+The sailor was thinking, though he did not say it, what such a thing would be worth to them. A ball of glass! Smith had promised them glass, but in some future time, when the furnaces were ready and the sand was washed. And here was glass already, thick and sound, with the shutters of Granite House closed upon five dark windows above them. It would not make a window, no doubt; but set in a hole in a shutter, it would let in a green light, and a green light is better than none. And if it would not serve for that, it would serve him for a float on his lines, the best float a man ever had, which no fish could pull under. He turned it over in his mind as a man counts money in his pocket. But he said nothing of it to Herbert. It was not yet theirs.
+
+“Pencroff,” said the lad suddenly, “look here.”
+
+Where he had cleared the barnacles from the side of the ball, there was a seal moulded in the glass, a round raised boss, like the seal upon a bottle. Part of it was broken away, and part was still crusted over; but upon the part that showed there was a run of capital letters, standing up from the glass in relief. Herbert wet his finger and passed it over them. There was a B, then an L, then an I. Before and after these, the letters were broken, or hidden.
+
+Pencroff bent over them, but he could make nothing of them.
+
+“Latin, I think,” said Herbert, and no more.
+
+He went on chipping, slowly and carefully, hoping to bare the rest of the seal; but the crust lay thickest there, and the stone was clumsy, and he dared not strike hard, for fear of breaking the glass. The letters that came out were only pieces of letters, a stroke here and a curve there, which might have been anything.
+
+So the hour of low water went by. They did not notice it going. They knelt in the rain on either side of the ball, the sailor with his knife, the boy with his stone, now scraping at the barnacles, now feeling under the sand for the end of the lashing, now trying once more to stir the thing from its bed. They read it a good deal more than they worked at it, which was perhaps natural, since they could not free it. Five men with picks could have had it out in a quarter of an hour, net and all. Two men, with a knife and a stone, could do nothing but look at it.
+
+It was Pencroff who first raised his head. The wind had shifted a point or two, and it came now with a weight in it that he knew. Out beyond the islet, the mist had grown darker, and there was a white line under it.
+
+“The flood,” said he, “and something with it. Come, Herbert. Quick, now.”
+
+They rose and ran back across the sand. The water was already coming in over the low places, and before they reached the shore it was about their ankles. The squall overtook them as they came up under the cliff. It came with a roar, and the rain, which had been falling slantwise, began to drive straight against the face of the granite, so thick that they could hardly see one another.
+
+They took shelter at the foot of the wall, a little to the south of the ladder, where an overhanging ledge of rock broke the force of the wind. They were wet already, and could be no wetter. From there they could still see the bar, or rather the place where it had been, for the flood was now running over it, and the sea broke upon it in long gray lines of surf.
+
+For a long time they could make out nothing but foam. Then, in a lull, Herbert caught the sailor’s arm. Between two waves, at the end of the bar, the dark ball showed for an instant, rocking. It was free of the sand, or nearly so. The next wave covered it. The one after that lifted it, and they saw the net trail up behind it, black, like a handful of weed.
+
+Neither of them spoke. The surge came on in heavier seas, and with each sea the ball rose and fell and dragged at its mooring; and they knew well enough that what was left of the rotten cord could not hold long. At last a great wave broke over the bar, higher than the rest, and when it had passed, the ball was not there.
+
+A moment later the clouds opened a little in the east, and a gleam of pale light fell across the channel. And in that gleam, on the black rocks at the point of Safety Islet, in the midst of the spray, there was a flash, green and bright, as of something that caught the sun.
+
+Then the clouds closed, the rain came down again, and it was gone.
+
+They waited under the wall until the worst of the squall had passed, and then they went up the ladder. It was early afternoon when they came into Granite House, wet through, and so cold that their fingers could hardly hold the rungs. Neb cried out at the sight of them and threw more wood upon the fire.
+
+“Well, Pencroff,” said the reporter, “where is the fish?”
+
+“The lines took nothing,” answered the sailor, wringing out his jacket, “and the sea took the pair of us.”
+
+Everybody laughed, and Pencroff laughed with them. He said no more. It was not only that he did not care to confess an hour wasted on the bar; it was that he had not yet given up. The ball was on the rocks of the islet, or under them, or somewhere on the sand of the channel; the sea gives back what it takes, now and then, to a man who knows how to look. He meant still to find it, and to bring it home himself, and to lay it upon the new table before them all without a word, and watch their faces. That would be worth something. Herbert, looking at him across the fire, understood, and held his tongue.
+
+That night the wind fell. On the next morning, June 3, the two went down again at low water, the sailor saying merely that he had a fancy to try the lines once more.
+
+The channel was bare, as before. But the bar was not where it had been. The squall and the flood had moved it bodily, as the sea moves such bars, and it now lay farther to the north, lower and longer, with a new channel cut across its southern end where the ball had lain. They walked over the whole of it. They walked over the sand between it and the islet, and along the foot of the rocks, and among the rocks themselves, as far as the tide allowed. There was nothing: no glass, no float, no fragment of glass, not even the net. The sand was smooth and ribbed and new, as if nothing had ever lain in it.
+
+Pencroff stood a long while at the end of the new bar, with his hands in his pockets, looking at the water.
+
+“Five of us and the picks,” said he at last, “and we’d have had it.”
+
+“We had it, Pencroff,” said Herbert. “For an hour.”
+
+The sailor looked at him, and then nodded, and they went back to the lines, which were empty again.
+
+Nothing more was said of the matter, either then or afterwards. The next day was Whit Sunday, which the colonists kept as a day of rest, and after it came the seals, and the candles, and all the labors of the winter; and if Pencroff, during the months that followed, looked oftener than was needful at the rocks of Safety Islet, nobody asked him why. Neither he nor Herbert ever spoke of the green ball to Smith, or to the reporter, or to Neb, or even to each other.

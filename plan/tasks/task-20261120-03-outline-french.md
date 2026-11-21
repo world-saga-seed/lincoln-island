@@ -52,4 +52,4 @@ Chapter `NNNNN` is the French chapter in book order, in steps of 100: 00100 is I
 
 Closed 2026-11-20. All five acceptance items are met: 62 outlines and notes pass `check_outlines.py`; the seams are checked by the outliners and the script; the timeline cites every date, with the discords side by side; the check is logged, and every finding's quote resolves; the token rows are in `plan/records/tokens.md`. Phase 2 cost 2,317,690 tokens for outlining, 666 k for the French sweep and 390 k for the check: about 3.37 M in all.
 
-The check's rates: the Haiku finders flagged 3 of 62 beats, and the critic found 1 more in the 12 they called clean. One miss in twelve suggests about five more lie in the 59 unflagged beats; they are left for the reads (the author's ruling on the sweep, applied here as well). *(My reading, to confirm.)*
+The check's rates: the Haiku finders flagged 3 of 62 beats, and the critic found 1 more in the 12 they called clean. One miss in twelve suggests about five more lie in the 59 unflagged beats; they are left for phase 3, which reads every chapter against the French. *(Settled R1120-41.)*

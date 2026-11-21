@@ -77,7 +77,7 @@
 
 ### 5. The first boat; Ayrton and Pencroff's first shots (III.3 ¶23–¶29)
 
-- At eight o'clock a boat is lowered from the Speedy with seven armed men: one at the helm, four rowing, two crouched in the bow ready to fire. Smith judges it a reconnaissance, not a landing, since a landing would bring more men. *(Drafted.)*
+- At eight o'clock a boat is lowered from the Speedy with seven armed men: one at the helm, four rowing, two crouched in the bow ready to fire. Its aim, the narrator says, is no doubt a reconnaissance, not a landing, since a landing would bring more men. *(Drafted.)*
   - quote: À huit heures, cependant
   - quote: Sept hommes y descendirent.
   - quote: mais non de débarquer
@@ -181,7 +181,7 @@
 
 ### 10. The brig weighs and enters the channel (III.3 ¶67–¶78)
 
-- Ayrton says the brig is getting under way; Pencroff cries that her anchor is at short stay, and Ayrton that it is already breaking out. *(Drafted.)*
+- Ayrton says the brig is getting under way; Pencroff cries that her anchor is at short stay, and a voice the French does not name answers that it is already breaking out. *(Drafted.)*
   - quote: Le brick appareille !
   - quote: elle dérape déjà
 - The windlass pawl clicks as the crew heaves; the Speedy comes to her anchor, then drifts toward land with the wind from the sea, with jib and topsail set. *(Drafted.)*

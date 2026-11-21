@@ -53,7 +53,7 @@
 - January 1867 begins; summer work goes on. Ayrton has taken over the house prepared for him and tends the herd; the colonists visit him fairly often so that he is not left alone too long. *(Drafted.)*
   - quote: C’était l’année 1867 qui commençait
   - quote: Ayrton avait pris possession de la demeure qui lui avait été préparée
-- The narrator gives the reasons for keeping watch on that part of the island: the suspicions Smith and Spilett share, and Ayrton's promise to report any incident. *(Drafted.)*
+- The narrator gives the reasons for keeping watch on that part of the island: the suspicions Smith and Spilett share, and the narrator's judgement that Ayrton would not fail to report any incident. *(Drafted.)*
   - quote: que cette partie de l’île fût soumise à une certaine surveillance
 - An incident might need word at once: a ship off the west coast, a wreck, the possible arrival of pirates. *(Drafted.)*
   - quote: l’arrivée possible de pirates

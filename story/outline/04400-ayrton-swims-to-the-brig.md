@@ -52,7 +52,7 @@
   - quote: les colons vinrent lui serrer la main
 - Ayrton and Pencroff leave at half past ten at night; the others go back to wait at the Chimneys. *(Drafted.)*
   - quote: Il était dix heures et demie du soir
-- The canal is crossed easily; the islet is found deserted; Ayrton runs across it, startling nesting birds, and swims toward the brig, whose lights had lately been lit. *(Drafted.)*
+- The canal is crossed easily; it seems certain the islet is deserted; Ayrton runs across it, startling nesting birds, and swims toward the brig, whose lights had lately been lit. *(Drafted.)*
   - quote: il parut certain que l’îlot était désert
   - quote: quelques lumières, allumées depuis peu
 - Pencroff hides in a hollow of the shore to await his return. *(Drafted.)*

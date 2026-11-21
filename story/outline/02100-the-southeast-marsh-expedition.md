@@ -84,7 +84,7 @@
 
 - This part of the island is barren, in contrast to the west; the reporter remarks that, had chance thrown them here first, they would have thought poorly of their domain. *(Drafted.)*
   - quote: Cette partie de l’île Lincoln était réellement stérile
-- Cyrus adds that they could not even have reached it alive: the sea is deep and offers no rock, whereas before Granite-house there were sandbanks and an islet. *(Drafted.)*
+- Cyrus adds that they could not even have reached it: the sea is deep and offers no rock, whereas before Granite-house there were sandbanks and an islet. *(Drafted.)*
   - quote: Devant Granite-house, au moins, il y avait des bancs, un îlot
 - Spilett finds the island's variety of soil strange for so small an island. *(Drafted.)*
   - quote: cette île, relativement petite, présente un sol aussi varié

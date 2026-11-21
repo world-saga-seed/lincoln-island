@@ -48,7 +48,7 @@
 - Asked what he is himself, he answers quickly that he is English, then walks off from the cascade to the Mercy's mouth in agitation. *(Drafted.)*
   - quote: répondit-il précipitamment
   - quote: depuis la cascade jusqu’à l’embouchure de la Mercy
-- Passing Harbert he asks the month and Harbert says December. *(Drafted.)*
+- Passing Harbert he asks the month and Harbert says December. *(Drafted.)* The scene falls on 3 November, so the month is Verne's slip; it is kept as the text has it (White silently corrects it). *(Drafted.)*
   - quote: Décembre, répondit Harbert
 - Asked the year, Harbert says 1866. *(Drafted.)*
   - quote: Quelle année
@@ -113,7 +113,7 @@
   - quote: depuis dix-huit mois que le premier grain de blé avait été semé
 - The second crop of six hundred thousand grains yields four thousand bushels, over five hundred million grains. *(Drafted.)*
   - quote: quatre mille boisseaux, soit plus de cinq cents millions de grains
-- A dozen bushels sown yearly are enough to feed men and beasts. *(Drafted.)*
+- About ten bushels sown yearly are enough to feed men and beasts. *(Drafted.)*
   - quote: il suffisait de semer une dizaine de boisseaux
 - The last fortnight of November is given to making flour and bread. *(Drafted.)*
   - quote: la dernière quinzaine du mois de novembre

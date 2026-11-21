@@ -81,7 +81,7 @@
 
 ### 5. The cannon trial, 8 November (III.5 ¶24–¶43)
 
-- Pencroff, on 8 November, says the armament being finished they must try the range; Smith asks if it is useful, Pencroff says it is necessary to know how far a ball can be sent. *(Drafted.)*
+- Pencroff, on 8 November (after III.4's 30 November for the cylinder; set out in `story/calendar/timeline.md`), says the armament being finished they must try the range; Smith asks if it is useful, Pencroff says it is necessary to know how far a ball can be sent. *(Drafted.)*
   - quote: c’était le 8 novembre
   - quote: la distance à laquelle nous pouvons envoyer un de ces jolis boulets
 - Smith proposes to use not ordinary powder, which he wants left untouched, but pyroxyle, which will never fail them; Spilett asks whether the guns will stand it; Smith thinks so, and says they will act prudently. *(Drafted.)*
@@ -149,7 +149,7 @@
 
 ### 8. Pencroff gives way (III.5 ¶64–¶71)
 
-- Pencroff, convinced by no argument, says to let those fine people go about their little business. Nab says he would not shoot one at point-blank range; Pencroff says coldly he would shoot him like a mad dog. *(Drafted.)*
+- Pencroff, convinced by no argument, says to let those fine people go about their little business. Nab says he would not shoot one even within good range of Pencroff's gun; Pencroff says coldly he would shoot him like a mad dog. *(Drafted.)*
   - quote: Laissons ces braves gens vaquer à leurs petites occupations
   - quote: comme sur un chien enragé
 - Smith asks whether Pencroff, who has often deferred to his advice, will do so again; Pencroff says he will do as Smith pleases, though not convinced. *(Drafted.)*

@@ -147,7 +147,7 @@
   - quote: Environs 200 hectares.
   - at: I.12 n2
   - quote: apparaissait un étincelant horizon de mer
-- Many water birds; a little Ontario with a single rock for its "thousand islands", some hundreds of feet from the southern shore, where kingfishers perch; also wild ducks, pelicans, moorhens, spoonbills (becs-rouges), philedons and a lyre-bird or two. *(Drafted.)*
+- Many water birds; a little Ontario with a single rock for its "thousand islands", some hundreds of feet from the southern shore, where kingfishers perch; also wild ducks, pelicans, moorhens, "becs-rouges" (red-bills, not further named), philedons and a lyre-bird or two. *(Drafted.)*
   - quote: un rocher qui émergeait de sa surface, à quelques centaines de pieds de la rive méridionale
   - quote: plusieurs couples de martins-pêcheurs
 - The lake's water is sweet, clear, a little dark, and from the bubbling and concentric rings it is full of fish. *(Drafted.)*

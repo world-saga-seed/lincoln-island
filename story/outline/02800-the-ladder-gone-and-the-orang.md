@@ -58,7 +58,7 @@
   - quote: tout était muet et calme
 - Harbert's idea: tie a cord to an arrow and shoot it between the rungs of the ladder hanging at the threshold, so as to unroll the ladder to the ground. *(Drafted.)*
   - quote: attacher une corde à une flèche
-- Bows and arrows are in a passage of the Chimneys, with some twenty fathoms of light hibiscus cord; Pencroff fixes the cord to a feathered arrow and Harbert aims with great care. *(Drafted.)*
+- Bows and arrows are in a passage of the Chimneys, with several score fathoms of light hibiscus cord; Pencroff fixes the cord to a feathered arrow and Harbert aims with great care. *(Drafted.)*
   - quote: une légère corde d’hibiscus
 - The others stand back to watch the windows; the reporter aims his carbine at the door. *(Drafted.)*
   - quote: la carabine à l’épaule

@@ -134,7 +134,7 @@
 
 ### 10. The falls and the night camp (II.3 ¶68–¶72)
 
-- The canoe scrapes the stony bed; the river is no more than twenty feet wide under an arbour of green; a waterfall is heard some hundred paces ahead, a natural dam. *(Drafted.)*
+- The canoe scrapes the stony bed; the river is no more than twenty feet wide under an arbour of green; a waterfall is heard a few hundred paces ahead, a natural dam. *(Drafted.)*
   - quote: dont la largeur alors ne dépassait pas vingt pieds
   - quote: la présence d’un barrage naturel
 - At a last turn a cascade appears; the canoe grounds and is moored to a trunk near the right bank, about five o'clock. *(Drafted.)*

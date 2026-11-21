@@ -14,7 +14,7 @@
   - quote: à la pensée d’avoir perdu tout ce qu’il aimait au monde
 - Less than two minutes passed between Smith's disappearance and the others' landing, so they may be in time. *(Drafted.)*
   - quote: Il ne s’était pas écoulé deux minutes
-- Spilett promises Nab they will find him alive; Pencroff asks if he can swim; Nab says yes, and Top is there. The sailor shakes his head at the roaring sea. *(Drafted.)*
+- Spilett promises Nab they will find him; to Nab's "Alive?" the answer "Alive!" comes from a speaker the French does not name; Pencroff asks if he can swim; Nab says yes, and Top is there. The sailor shakes his head at the roaring sea. *(Drafted.)*
   - quote: Le marin, entendant la mer mugir, secoua la tête !
 
 ### 2. North along the east coast (I.3 ¶13–¶15)
@@ -77,7 +77,7 @@
   - quote: Cela prouverait qu’il existe dans l’ouest une côte assez rapprochée.
 - This echo is the only answer; the east side of the islet stays silent. *(Drafted.)*
   - quote: cet écho lointain fut la seule réponse
-- The sky clears; about midnight the stars show that they are in the southern hemisphere: no Pole Star, and the Southern Cross at the austral pole. *(Drafted.)*
+- The sky clears; about midnight the stars would have shown the engineer, had he been there, that they were in the southern hemisphere: no Pole Star, and the Southern Cross at the austral pole. *(Drafted.)*
   - quote: Vers minuit, quelques étoiles brillèrent
   - quote: la Croix du Sud resplendissait alors au pôle austral du monde
 

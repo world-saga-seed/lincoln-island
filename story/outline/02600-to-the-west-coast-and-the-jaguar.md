@@ -87,7 +87,7 @@
   - quote: rien qui témoignât d’un naufrage récent
 - The lead-shot incident proves a gun was fired on the island within the last three months. *(Drafted.)*
   - quote: depuis trois mois au plus, un coup de fusil avait été tiré dans l’île
-- At five o'clock the tip of the peninsula is still two miles away; they will have to spend the night at the promontory; game is gone from this fringe but birds swarm: jacamars, trogons, tragopans, grouse, lories, parrots, cockatoos, pheasants, pigeons. *(Drafted.)*
+- At five o'clock the tip of the peninsula is still two miles away; they will have to spend the night at the promontory; furred game is gone from this fringe but birds swarm: jacamars, trogons, tragopans, grouse, lories, parrots, cockatoos, pheasants, pigeons. *(Drafted.)*
   - quote: Il était déjà cinq heures
   - quote: Pas un arbre qui n’eût un nid
 - About seven in the evening, worn out, they reach the Reptile promontory, a strangely cut scroll above the sea; the forest ends here and the shore south of it regains rocks, reefs and beaches; a ship in distress might have grounded there, but night falls and the search waits for the morrow. *(Drafted.)*

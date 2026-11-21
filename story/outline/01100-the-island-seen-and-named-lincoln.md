@@ -154,7 +154,7 @@
 - Nab names the point at the south-east end of the island, the end of the baie de l’Union, cap de la Griffe (Claw-cape), wanting to be a godfather too; the narrator says the name suits. *(Drafted.)*
   - quote: Cap de la Griffe (Claw-cape)
   - quote: qui voulait aussi, lui, être parrain d’un morceau quelconque de son domaine
-- Pencroff, delighted, then gives: the river that supplies drinking water and by which the balloon threw them, the Mercy; the islet where the castaways first landed, îlot du Salut (Safety-island); the plateau crowning the granite wall above the Chimneys, plateau de Grande-Vue; the dense woods of the peninsula, forêts du Far-West. *(Drafted.)*
+- Pencroff is delighted, and the party's excited imaginations then give: the river that supplies drinking water and by which the balloon threw them, the Mercy; the islet where the castaways first landed, îlot du Salut (Safety-island); the plateau crowning the granite wall above the Chimneys, plateau de Grande-Vue; the dense woods of the peninsula, forêts du Far-West. *(Drafted.)*
   - quote: le nom de la Mercy, — un véritable remerciement à la Providence
   - quote: le nom de l’îlot du Salut (Safety-island)
   - quote: le nom de plateau de Grande-Vue

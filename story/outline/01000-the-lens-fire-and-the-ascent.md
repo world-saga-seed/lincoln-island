@@ -155,7 +155,7 @@
 - It is fully dark and the eye cannot reach even two miles; they cannot tell whether the sea surrounds the land or it joins a continent to the west; a cloud band in the west darkens the horizon. *(Drafted.)*
   - quote: ne permettait pas au regard de s’étendre sur un rayon de deux milles
   - quote: une bande nuageuse, nettement dessinée à l’horizon
-- A faint glow appears in the west, descending as the cloud rises: the thin crescent moon about to set. Its light draws the horizon line and the engineer sees its trembling image reflected for an instant on a liquid surface. *(Drafted.)*
+- A faint glow appears at a point of the horizon, on the side of the western cloud band, descending as the cloud rises: the thin crescent moon about to set. Its light draws the horizon line and the engineer sees its trembling image reflected for an instant on a liquid surface. *(Drafted.)*
   - quote: C’était le croissant délié de la lune, déjà près de disparaître.
   - quote: son image tremblotante se refléter un instant sur une surface liquide
 - Cyrus takes the boy's hand and says gravely, as the crescent goes out in the waves: an island. *(Drafted.)*

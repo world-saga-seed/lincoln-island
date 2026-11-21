@@ -109,7 +109,7 @@
 
 ### 6. The search begins: valleys and spurs (III.13 ¶65–¶71)
 
-- The search starts that very day, 19 February, and lasts a week; the mountain's base is a labyrinth of valleys that Cyrus Smith must explore methodically. *(Drafted.)*
+- The search starts "that very day, 19 February" (set against ¶4's "Le lendemain" in `story/calendar/timeline.md`), and lasts a week; the mountain's base is a labyrinth of valleys that Cyrus Smith must explore methodically. *(Drafted.)*
   - quote: Des recherches furent commencées le jour même, 19 février, et durèrent une semaine entière
   - quote: Cyrus Smith dut procéder à leur exploration avec une sévère méthode
 - First the valley south of the volcano, which gathers the first waters of the Falls River; Ayrton shows them the cave where the convicts took refuge and where he was held; it is just as he left it, with some munitions and food the convicts had taken as a reserve. *(Drafted.)*

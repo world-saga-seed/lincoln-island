@@ -6,7 +6,7 @@
 
 ### 1. Reviving the engineer (I.8 ¶1–¶13)
 
-- Nab does not move. Pencroff's one word to him is a question: is Cyrus alive. *(Drafted.)*
+- Nab does not move. Pencroff cries one word to him: "Alive!" *(Drafted.)*
   - quote: Nab ne bougea pas.
 - Nab, lost in grief, has neither seen his companions nor heard the sailor. *(Drafted.)*
   - quote: n’avait ni vu ses compagnons ni entendu les paroles du marin

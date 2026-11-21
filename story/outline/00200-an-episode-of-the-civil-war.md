@@ -8,7 +8,7 @@
 
 - The castaways are not aeronauts but prisoners of war who escaped in extraordinary circumstances. *(Drafted.)*
   - quote: C’étaient des prisonniers de guerre
-- They fled Richmond, besieged by Grant, and on 24 March are seven thousand miles from it; the flight lasted five days. *(Drafted.)*
+- They fled Richmond, besieged by Grant, and on 24 March are seven thousand miles from it; the flight lasted five days. *(Drafted.)* The French counts five days for 20 to 24 March; the discord is set out in `story/calendar/timeline.md` (1865-03-25). *(Drafted.)*
   - quote: ils se trouvaient à sept mille milles de cette capitale de la Virginie
   - quote: Leur navigation aérienne avait duré cinq jours.
 - Richmond is the chief stronghold of the separatists in the Civil War. *(Drafted.)*
@@ -145,7 +145,7 @@
 - Spilett approves without reserve when told, and only wonders that the idea had not come to him; Nab follows his master. *(Drafted.)*
   - quote: il l’approuva sans réserve
   - quote: Quant à Nab, il suivait son maître partout où son maître voulait aller.
-- They agree to meet that evening at ten, each strolling to the square; Cyrus hopes the storm will not abate before they leave. *(Drafted.)*
+- They agree to meet that evening at ten, all five strolling over that way; Cyrus hopes the storm will not abate before they leave. *(Drafted.)*
   - quote: À ce soir, dix heures
   - quote: fasse le ciel que cette tempête ne s’apaise pas avant notre départ
 - Pencroff goes back to Harbert, who knows the plan and waits anxiously; five determined men are about to go into the hurricane. *(Drafted.)*

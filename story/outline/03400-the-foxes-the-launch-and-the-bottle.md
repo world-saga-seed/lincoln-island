@@ -19,7 +19,7 @@
 
 - In that week Pencroff, helped by Harbert with the sailmaker's needle, finishes the boat's sails. Hemp rope is plentiful from the rigging found with the balloon's envelope; the cables and the net cords are all excellent line. *(Drafted.)*
   - quote: grâce au gréement qui avait été retrouvé avec l’enveloppe du ballon
-- Smith makes the pulleys, with a lathe that Pencroff installed, on Pencroff's advice. The rigging is ready long before the boat is finished. *(Drafted.)*
+- Smith makes the pulleys, with the lathe he had installed (II.10), on Pencroff's advice. The rigging is ready long before the boat is finished. *(Drafted.)*
   - quote: le gréement était entièrement paré bien avant que le bateau fût fini
 - Pencroff makes a blue, red and white flag, coloured with dye plants common on the island. To the thirty-seven stars for the thirty-seven states he adds a thirty-eighth, for "l’état de Lincoln". *(Drafted.)*
   - quote: en avait ajouté une trente-huitième, l’étoile de « l’état de Lincoln »

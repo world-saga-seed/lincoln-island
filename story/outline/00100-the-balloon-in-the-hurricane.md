@@ -6,7 +6,7 @@
 
 ### 1. The cry in the basket (I.1 ¶1–¶13)
 
-- Voices in the dark of the basket say the balloon is falling; one man is addressed as Cyrus. *(Drafted.)*
+- Voices in the basket, about four in the afternoon, say the balloon is falling; one man is addressed as Cyrus. *(Drafted.)*
   - quote: Pis que cela, monsieur Cyrus ! Nous tombons !
 - The last bag of ballast is emptied and the balloon does not rise. *(Drafted.)*
   - quote: Voilà le dernier sac vidé !
@@ -41,7 +41,7 @@
 
 - Under the balloon swings a basket with five passengers, barely visible in the spray. *(Drafted.)*
   - quote: une nacelle, qui contenait cinq passagers
-- The narrator asks where the balloon came from; it cannot have left during the hurricane, so it has come a very long way. *(Drafted.)*
+- The narrator asks where the balloon came from; it could not have left during the hurricane, so one might well believe it had come a very long way (the narrator's inference). *(Drafted.)*
   - quote: Il n’avait évidemment pas pu partir pendant l’ouragan.
   - quote: il n’avait pas dû franchir moins de deux mille milles par vingt-quatre heures
 - The passengers have no landmark and feel nothing of the storm's motion; in the fog they cannot tell day from night. *(Drafted.)*
@@ -147,7 +147,7 @@
 
 - The basket held five passengers and a dog; the balloon landed only four. *(Drafted.)*
   - quote: le ballon n’en jetait que quatre sur le rivage
-- The missing passenger was carried off by the sea blow, which let the balloon rise one last time. *(Drafted.)*
+- The missing passenger had evidently been carried off by the sea blow (the narrator's inference), which let the balloon rise one last time. *(Drafted.)*
   - quote: Le passager manquant avait évidemment été enlevé par le coup de mer
 - The four castaways, thinking of the absent one, cry out to save him, who may be swimming to shore. *(Drafted.)*
   - quote: Il essaye peut-être d’aborder à la nage ! Sauvons-le ! sauvons-le !

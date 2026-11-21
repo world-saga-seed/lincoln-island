@@ -61,7 +61,7 @@
   - quote: nécessité de fabriquer une substance explosive
 - Pencroff especially welcomes the project; he will be as good a chemist as mason or bootmaker, even "dancing and deportment master" if needed. *(Drafted.)*
   - quote: même professeur de danse et de maintien
-- Nab and Pencroff are to take the dugong's fat and keep the flesh for food, asking no explanation. Cyrus, Harbert and the reporter, hauling the sledge up the river, go to the coal bed where the shaly pyrites are abundant, of which Cyrus had already brought a sample. *(Drafted.)*
+- Nab and Pencroff are to take the dugong's fat and keep the flesh for food, asking no explanation. Cyrus, Harbert and the reporter, dragging the hurdle up the river, go to the coal bed where the shaly pyrites are abundant, of which Cyrus had already brought a sample. *(Drafted.)*
   - quote: Nab et Pencroff furent tout d’abord chargés d’extraire la graisse du dugong
   - quote: ces pyrites schisteuses
 - All day is spent hauling pyrites to the Chimneys; by evening there are several tons. *(Drafted.)*

@@ -132,7 +132,7 @@
   - quote: une récolte de graines potagères, quelques pièces de gibier et deux couples de porcs
 - The Bonadventure is ready to weigh anchor with the next morning's tide. *(Drafted.)*
   - quote: dès que la marée du lendemain matin se ferait sentir
-- The prisoner is put in the forward room, calm, silent, deaf and mute; he refuses cooked meat but falls on a raw duck. *(Drafted.)*
+- The prisoner is put in the forward room, calm, silent, deaf and mute; he refuses cooked meat but falls on one of the ducks Harbert had killed. *(Drafted.)*
   - quote: il se jeta dessus avec une avidité bestiale
 - Spilett thinks he is at least fifty; Harbert notes his deep-set eyes, which Spilett finds more human than his look. *(Drafted.)*
   - quote: je suppose qu’il doit avoir au moins cinquante ans

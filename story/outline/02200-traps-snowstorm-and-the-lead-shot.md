@@ -139,7 +139,7 @@
 - Cyrus tells them they will become refiners; Pencroff: a hot trade; Cyrus: very hot; Pencroff: then it is in season. *(Drafted.)*
   - quote: qu’ils allaient se transformer en raffineurs
   - quote: Alors, il sera de saison !
-- The sap is heated in large earthen vessels and skimmed, and Nab stirs it with a wooden spatula. *(Drafted.)*
+- The sap is heated in large earthen vessels; a scum rises to the surface, and Nab stirs it with a wooden spatula. *(Drafted.)*
   - quote: Nab eut soin de la remuer avec une spatule de bois
 - After some hours of boiling it becomes a thick syrup, poured into clay moulds made in the kitchen stove; next day it forms loaves and tablets, a slightly red, nearly transparent sugar of perfect taste. *(Drafted.)*
   - quote: des moules d’argile
@@ -180,7 +180,7 @@
 - Cyrus puts it off, since without special tools it is nearly impossible to make a serviceable gun, and Harbert and Spilett have become skilled archers. *(Drafted.)*
   - quote: sans un outillage spécial, il lui serait presque impossible de fabriquer un fusil qui pût rendre quelque service
   - quote: Harbert et Gédéon Spilett étaient devenus des archers habiles
-- Spilett backs Pencroff: if the island holds ferocious animals, they must be fought and exterminated. *(Drafted.)*
+- Spilett backs Pencroff. The words that follow, "disait-il", may be either man's: if the island holds ferocious animals, which may be doubted, they must be fought and exterminated. *(My reading, to confirm.)*
   - quote: il faut penser à les combattre et à les exterminer
 - What now occupies Cyrus is clothing: the colonists' clothes will not last to next winter, so he plans a flock of mouflons for wool, a pen and a poultry yard, in short a farm. *(Drafted.)*
   - quote: ils ne pourraient pas durer jusqu’à l’hiver prochain

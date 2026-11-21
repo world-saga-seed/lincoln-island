@@ -46,7 +46,7 @@
   - quote: découvert la veille sur la côte méridionale
 - Cyrus tells his plan, long meditated: to isolate the Grande-Vue plateau completely, against four-footed animals and apes. Granite-house, the Chimneys, the poultry-yard and the upper plateau for sowing would be protected. *(Drafted.)*
   - quote: isoler complètement le plateau de Grande-Vue
-- The plateau is already defended on three sides by water: on the north-west by the shore of Lake Grant, from the angle at the old overflow to the cut made on the lake's east shore. *(Drafted.)*
+- The plateau is already defended, the French says, "on three sides" by water, though it goes on to name four: on the north-west by the shore of Lake Grant, from the angle at the old overflow to the cut made on the lake's east shore. *(Drafted.)*
   - quote: depuis l’angle appuyé à l’orifice de l’ancien déversoir
 - On the north, from that cut to the sea, by the new watercourse (the creek made on the plateau and the beach, above and below the fall), which needs only deepening. *(Drafted.)*
   - quote: il suffisait, en effet, de creuser le lit de ce creek
@@ -72,7 +72,7 @@
   - quote: la Mercy était large de quatre-vingts pieds environ
 - The narrator says tools, ironwork, the engineer's skill and the colonists' seven months' practice were all there; Spilett holds his own with the sailor. *(Drafted.)*
   - quote: depuis sept mois, avaient nécessairement acquis une grande habileté de main
-- The bridge takes three weeks; they lunch on the site and return to Granite-house only for supper, the weather being magnificent. *(Drafted.)*
+- The bridge takes "three weeks" (seventeen days by the dates; flagged in the notes); they lunch on the site and return to Granite-house only for supper, the weather being magnificent. *(Drafted.)*
   - quote: dura trois semaines
 - Jup acclimatises and watches his new masters with great curiosity; Pencroff does not yet give him full liberty, waiting until the plateau is closed; Top and Jup play together, Jup doing everything gravely. *(Drafted.)*
   - quote: Top et Jup étaient au mieux

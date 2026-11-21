@@ -121,5 +121,5 @@
   - quote: tressa rapidement une corde longue de plusieurs brasses
 - He holds the line walking along the bank while Harbert keeps the raft in the current with a long pole. *(Drafted.)*
   - quote: Harbert, repoussant le train avec une longue perche
-- It works: the bank is steep so there is no risk of grounding, and within two hours the raft is at the river mouth, a few steps from the Chimneys. *(Drafted.)*
+- It works: the bank is steep so there is no risk of grounding, and before two o'clock the raft is at the river mouth, a few steps from the Chimneys. *(Drafted.)*
   - quote: avant deux heures, il arrivait à l’embouchure, à quelques pas des Cheminées

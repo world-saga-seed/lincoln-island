@@ -124,7 +124,7 @@
 
 ### 10. Drinks, and the end-of-summer poultry (II.8 ¶44–¶45)
 
-- Drinks: Oswego tea from bergamot, a fermented liquor from dragon-tree roots, and a beer Cyrus makes from young shoots of "abies nigra", which the Anglo-Americans call "spring-berr", spruce beer. *(Drafted.)*
+- Drinks: Oswego tea from the monarda ("monardes didymes"), a fermented liquor from dragon-tree roots, and a beer Cyrus makes from young shoots of "abies nigra", which the Anglo-Americans call "spring-berr", spruce beer. *(Drafted.)*
   - quote: bière de sapin
 - Toward the end of summer the poultry-yard holds a pair of "houbara" bustards, a dozen shovellers, and fine black-crested cocks like those of Mozambique. *(Drafted.)*
   - quote: Vers la fin de l’été

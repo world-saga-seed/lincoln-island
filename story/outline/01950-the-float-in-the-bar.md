@@ -37,6 +37,7 @@
 ### 2. He takes only Harbert (1 June)
 
 - *(Settled R1121-34.)* He takes only Harbert, so as not to raise hopes.
+- *(Settled R1121-136.)* Smith's watch for strangers (I.19 ¶5) does not catch it: on 1 June the thing may be a stone, and Pencroff will not trouble the engineer with a stone; by the 2nd Harbert's barnacles say it came from far off, so it is no sign of men near, and then it is gone.
 - They speak of it only out of doors (world rule 4).
 - *(Settled R1121-75.)* Top stays in Granite-house with Smith.
 - *(Resolved by judgment, overturnable.)* The pretext is the lines themselves. Pencroff asks the boy to help him lift and reset them at the next low water. It is his daily errand, so no one asks, and it is no lie.
@@ -82,8 +83,8 @@
 - *(Settled R1121-23.)* The squall comes in. The waves are too high to stay, but they can see the float in the surf. They go back to safety and wait it out. *(Proposal.)* The flood and the squall come together, and the surge covers the bar (R1121-53). The weather is the text's own: "des averses et des rafales qui se succédèrent sans relâche" (I.20 ¶1).
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The squall comes out of the east across the bay, a grey wall of rain and wind. A wave breaks over Pencroff's knees. *(Settled R1121-129.)* In the run back the bottom goes from under Harbert in a hollow scoured toward the gut; the current turns him over and draws him seaward, and Pencroff catches him, loses him, catches him again and hauls him out, and half carries him to the wall. There the lad coughs up the sea water and laughs; Pencroff does not.
 - *(Settled R1121-70.)* They wait it out under the granite wall near the foot of the ladder, where they can still see the float.
-- *(Settled R1121-65, R1121-66, R1121-68.)* In the squall, what is left of the rotten mooring breaks. The surge throws the float on the islet's rocks: from under the wall, a flash in the spray, and it is gone. They know it shattered. The bar closes over the net. *(Settled R1121-119.)* They see it break, as R1121-68 has it: the flash flies apart, seen across the channel, not up close.
-- *(Settled R1121-110.)* The path, in one clause: the backwash draws the freed float off the bar into the gut, and the channel's current, "un courant extrêmement rapide" (I.3 ¶42), takes it onto the islet's point. The wind is onshore, so the sea alone would drive it to the coast.
+- *(Settled R1121-65, R1121-66, R1121-68.)* In the squall, what is left of the rotten mooring breaks. The surge throws the float on the rocks at the river's mouth (R1121-136): from under the wall, a flash in the spray, and it is gone. They know it shattered. The bar closes over the net. *(Settled R1121-119.)* They see it break, as R1121-68 has it: the flash flies apart, seen across the channel, not up close.
+- *(Settled R1121-110, R1121-136.)* The path, in one clause: the backwash draws the freed float off the bar into the gut, and the flood in the channel carries it in toward the mouth of the river ("entraînés vers la rivière", III.3 ¶36; the rapid current of I.3 ¶42 is the ebb, "un courant de jusant", ¶47). It breaks on the rocks there, seen from under the wall, and nothing is found.
 - *(Settled R1121-129.)* Before the cord gives, the sand they dug from about the ball no longer holds it, it rocks under each sea, and the cord the knife worked on, if not cut through, has been weakened.
 
 ### 6. Home, wet (2 June, early afternoon)
@@ -94,7 +95,7 @@
 - *(Settled R1121-59.)* The joke: "The lines took nothing, and the sea took the pair of us."
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The joke answers Spilett, who asks what the sea has given them. Nab laughs and makes up the fire, the engineer smiles, and the two dry their clothes on their backs at the hearth, as sailors do.
 - *(Proposal.)* The joke is all they tell. It is true, and it is less than the whole.
-- *(Settled R1121-134, R1121-135.)* Before they climb, at the foot of the ladder, Harbert stops: "It was nothing, Pencroff. And no one need know that I took a ducking." He spares the sailor; that is his own reason. Pencroff looks at him and says nothing, and they go up. Pencroff's guilt is shown and never told: he does not laugh under the wall, and on 3 June he keeps the lad on his landward side. The fire paragraph of the final (R1121-130, -131) and the pride of R1121-76 are gone.
+- *(Settled R1121-134, R1121-135.)* Before they climb, at the foot of the ladder, Harbert stops: "It was nothing, Pencroff. And no one need know that I took a ducking." He spares the sailor; that is his own reason. By "ducking" he means being carried off his feet, which the joke does not tell (R1121-136). Pencroff looks at him and says nothing, and they go up. Pencroff's guilt is shown and never told: he does not laugh under the wall, and on 3 June he keeps the lad on his landward side. The fire paragraph of the final (R1121-130, -131) and the pride of R1121-76 are gone.
 
 ### 7. The smooth sand (3 June, mid-morning low water)
 
@@ -112,4 +113,4 @@
 
 ## After
 
-- *(Settled R1121-79, R1121-134, R1121-135.)* Afterward the two never bring it up, with no pact between them: Harbert to spare the sailor, Pencroff from what the day cost the boy. It is never spoken of indoors, through III.16, and the other three never learn of it. The page names no reason; at the chest and after it says nothing (R1121-24).
+- *(Settled R1121-79, R1121-134 to R1121-136.)* Afterward the two never bring it up, with no pact between them. Pencroff keeps his own rule of 1 June: he will not have the others hoping on a thing that came to nothing, and there is nothing left to show. Harbert spares the sailor the ducking, and on the float he keeps the bargain of the 1st, "If it is worth the telling, we tell it", which is Pencroff's to call. It is never spoken of indoors, through III.16, and the other three never learn of it. Both reasons are shown, never said; at the chest and after the page says nothing (R1121-24).

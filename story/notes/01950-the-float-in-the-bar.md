@@ -18,15 +18,15 @@
 2. **The device.** Pick: a round seal moulded on the glass, a palm across, with a ring of capital letters about a letter in the centre. It is the form of the Nautilus's marked things, "une lettre entourée d’une devise en exergue" (VML I.8). The two bare part of the ring's lower arc: B, a gap, L, I. *(Settled R1121-80.)*
 3. **How much shows.** Pick: the upper third of the ball, above the sand. *(Settled R1121-80.)*
 4. **The barnacles.** A grey-white crust of dead acorn barnacles, cemented flat to the glass, which stay after death, over the part that shows. They grew where the float rode under water, never on a dry top; the ball has turned in the bar since (R1121-134). Among them are a few dead goose barnacles: their shells, and the dried stumps of their stalks. Only these tell Herbert the float rode at the surface. *(Settled R1121-80, amended R1121-120, R1121-134.)*
-5. **The net.** Pick: what shows is a dark, rotten cord, the mesh choked with sand, running down into the bar. Pencroff calls it "a net", and no more. *(Settled R1121-80.)*
+5. **The net.** Pick: what shows is a dark, rotten cord, the mesh choked with sand, running down into the bar. Pencroff calls it "a net", and no more. What holds the ball is the buried net and the sand; the lashing is only what the knife finds (R1121-136). *(Settled R1121-80.)*
 6. **The lashing.** Pick: a cord of the same, running under the ball into the sand on the hidden side (R1121-72). *(Settled R1121-80.)*
 
 ### Time, tide, light, weather
 
-7. **Hours.** Pick: low water about 8 in the morning on 1 June, about 9 on the 2nd and about 9:45 on the 3rd, about fifty minutes later each day. Sunrise about 7:15, sunset about 5. The hours are from general knowledge for 35° south in June, not from the French. *(Settled R1121-80.)*
+7. **Hours.** Pick: low water about 8 in the morning on 1 June, about 9 on the 2nd and about 9:45 on the 3rd, about fifty minutes later each day. Sunrise about 7:15, sunset about 5. The hours are from general knowledge for 35° south in June, not from the French. They are the insert's own and depart from the text's datums (low water "vers dix heures" on 25 March, I.3 ¶60; full sea at six on 27 March, I.7 ¶81), which carried forward give low water about 5:30, 6:20 and 7:10; logged in [the timeline](../calendar/timeline.md#across-the-chapters). On 2 June they leave toward eight and are at the bar at the lowest water. *(Settled R1121-80, R1121-136.)*
 8. **1 June.** Pick: grey after the night's squalls, the wind dropping, the sea still running. Pencroff is out at first light. *(Settled R1121-80.)*
 9. **2 June.** Pick: dawn in rain (R1121-69). The wind comes onshore, from the east-north-east into the bay: I.20 ¶1 fears "les grandes marées, poussées par les vents du large". The squall arrives about an hour after low water, with the flood. It eases by early afternoon (R1121-71). *(Settled R1121-80.)*
-10. **The flash.** Pick: in a rift of light under the squall, the wet glass on the islet's rocks catches it for an instant (R1121-68). *(Settled R1121-80.)*
+10. **The flash.** Pick: in a rift of light under the squall, the wet glass on the rocks at the river's mouth catches it for an instant (R1121-68, R1121-136). *(Settled R1121-80.)*
 11. **3 June.** Pick: grey and still, the wind gone round to the south-west, the sea down. *(Settled R1121-80.)*
 12. **Cold.** Pick: raw, not yet freezing. The great cold comes at the end of June, "about 20 °F" on 29 June (I.21 ¶2; the timeline). The water is cold enough to numb the hands. *(Settled R1121-80.)*
 

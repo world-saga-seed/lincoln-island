@@ -126,13 +126,13 @@ They could not stay. Already the sea was running over the sands they had crossed
 
 They reached the beach. They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. Under the wall Herbert coughed up the sea water he had swallowed, and laughed. Pencroff did not laugh. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
 
-The squall held. The sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it, and it rocked under each sea; and the cord upon which the sailor's knife had worked, if it was not cut through, had been weakened. At last it gave way; the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet.
+The squall held. The sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it, and it rocked under each sea; and the cord upon which the sailor's knife had worked, if it was not cut through, had been weakened. At last it gave way; the backwash drew the freed ball off the bar into the gut, and the flood in the channel carried it in toward the mouth of the river.
 
-Then, for a moment, the clouds broke under the squall. A pale light fell across the channel. Out on the rocks of the islet, in the spray, something flashed, once, and flew apart.
+Then, for a moment, the clouds broke under the squall. A pale light fell across the channel. Out on the rocks at the river's mouth, in the spray, something flashed, once, and flew apart.
 
 Then nothing.
 
-Pencroff looked at the bar. The float was gone from it. He looked again at the islet, and searched its rocks from one end to the other, and he saw only the spray. Neither of them spoke. They both knew that glass thrown upon those rocks by such a sea was in pieces. Where the bar had been there was only broken water, and the flood ran over it.
+Pencroff looked at the bar. The float was gone from it. He looked again at the river's mouth, and searched the rocks there from one end to the other, and he saw only the spray. Neither of them spoke. They both knew that glass thrown upon those rocks by such a sea was in pieces. Where the bar had been there was only broken water, and the flood ran over it.
 
 Toward one o'clock the squall eased; the flood had long since covered the bar. The two companions went back for their shoes.
 

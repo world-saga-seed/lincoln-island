@@ -49,7 +49,7 @@
 ### K4. Why is the float lost?
 
 - **Kind:** plain.
-- **Text returns:** the squall broke what was left of its rotten mooring, perhaps weakened by Pencroff's knife and the sand they had dug (R1121-129), and the surge threw it on the islet's rocks, where the two saw it shatter. It is nature. The bar then closes over the net, and nothing is left to find.
+- **Text returns:** the squall broke what was left of its rotten mooring, perhaps weakened by Pencroff's knife and the sand they had dug (R1121-129), and the flood carried it to the rocks at the river's mouth, where the two saw it shatter (R1121-136). It is nature. The bar then closes over the net, and nothing is left to find.
 - **True:** "the squall breaks what is left of the rotten mooring … and the bar closes over the net" (R1121-65); "from under the wall, a flash on the islet's rocks in the spray, and it is gone. They know it shattered" (R1121-68). `plan/settled/ledger/2026-11-21.md`.
 - **Planted in:** 01950, beats 5 and 7.
 

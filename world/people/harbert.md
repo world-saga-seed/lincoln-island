@@ -417,7 +417,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
   - He knows barnacles and goose barnacles by name: goose barnacles hang by a stalk, fasten on anything afloat and live near the surface; from them he reads that the float floated long and came from far off (XIX bis ¶41–45). *(Drafted.)*
     - quote: these are goose barnacles
     - quote: They fasten upon anything that floats
-  - He reads the letters as "Latin, I think", too few to choose a word among, and says Mr. Smith would know better (XIX bis ¶55). *(Drafted.)*
+  - He reads the letters as "Latin, I think", too few to choose a word among (XIX bis ¶55). *(Drafted.)*
     - quote: here there are not letters enough to choose among them
   - On 2 June the current turns him over in a hollow of the channel sands and draws him seaward; Pencroff hauls him out; under the wall he coughs up the sea water and laughs, saying it was nothing (XIX bis ¶60, 61). *(Drafted.)*
     - quote: The current took him, turned him over, and drew him seaward.

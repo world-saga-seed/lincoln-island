@@ -1341,6 +1341,8 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
 - **The years.** By the text's own markers: 1865 (I.1), "the year 1866" begun (II.8 ¶6), the winter of 1866 to 1867 (II.11 ¶9), March 1867 (II.18 ¶82), "two and a half years" by the brig in October 1867 (III.1 ¶1), February 1868 (III.11), and 1868 and 1869 in III.18. With these years, III.8 ¶22's "more than two and a half years" since Richmond, in November 1867, fits (report n's flag). *(My reading, to confirm.)*
   - quote: Depuis deux ans et demi, les naufragés du ballon avaient été jetés sur l’île Lincoln
   - quote: Depuis plus de deux ans et demi qu’ils s’étaient échappés de Richmond
+- **The insert's tides (01950, 1 to 3 June 1865).** The insert puts low water about 8, 9 and 9:45 in the morning (its notes, item 7). The text's own datums, low water about ten on 25 March (I.3 ¶60) and full sea at six at the new moon of 27 March (I.7 ¶81), carried forward two lunations and a week, give about 5:30, 6:20 and 7:10. The page names no hour. *(Settled R1121-136.)*
+  - quote: vers dix heures, Gédéon Spilett et ses deux compagnons se dépouillèrent de leurs vêtements
 - **"Quinze mois"** (II.13 ¶22), said in October 1866, is about nineteen months after March 1865. *(Drafted.)*
   - quote: Voilà notre première séparation depuis quinze mois !…
 - **The torpedo's finding before the cannon's trial.** III.4 ¶81 dates the finding of the cylinder to 30 November, and III.5 then dates the cannon trial to 8 November. The scan (page 460, R1120-40) shows the print itself reads "le 30 novembre": the discord is Verne's. *(Drafted.)*

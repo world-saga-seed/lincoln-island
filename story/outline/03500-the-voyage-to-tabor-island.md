@@ -1,0 +1,161 @@
+# The voyage to Tabor Island (outline)
+
+*Chapter 03500: the French II.13 (`texts/fr-1875/35.md`). Before: 03400. After: 03600. Third person, past tense; Verne's narrator. Every beat is marked (Drafted.): it is what the French holds.*
+
+## Outline
+
+### 1. The decision to go (II.13 ¶1–¶4)
+
+- Pencroff cries that a castaway is abandoned some hundreds of miles away on Tabor island, and Smith will no longer oppose the voyage. *(Drafted.)*
+  - quote: Ah ! monsieur Cyrus, vous ne vous opposerez plus maintenant à mon projet de voyage !
+- Smith says Pencroff will leave as soon as possible: "Dès demain." *(Drafted.)*
+  - quote: Dès demain. »
+
+### 2. Smith reads the document (II.13 ¶5–¶14)
+
+- Smith holds the paper from the bottle and thinks it over. *(Drafted.)*
+  - quote: L’ingénieur tenait à la main le papier qu’il avait retiré de la bouteille.
+- He concludes first that the castaway has fairly advanced knowledge of seamanship, since he gives the island's latitude and longitude to a minute, matching theirs; and second that he is English or American, since the document is in English. *(Drafted.)*
+  - quote: puisque le document est écrit en langue anglaise
+- Spilett adds that the castaway explains the arrival of the box on the island's shores, and that it is lucky for him that Pencroff built the boat and tried it that day, since a day's delay and the bottle might have broken on the reefs. *(Drafted.)*
+  - quote: la présence de ce naufragé explique l’arrivée de la caisse sur les rivages de l’île
+- Harbert calls it good luck that the Bonadventure passed just when the bottle was still afloat. *(Drafted.)*
+  - quote: c’est une chance heureuse que le Bonadventure ait passé là
+- Smith asks Pencroff whether it does not seem strange. Pencroff finds it merely lucky: the bottle had to go somewhere, why not here. Smith says "et cependant…" and leaves it. *(Drafted.)*
+  - quote: Et cela ne vous semble pas bizarre ?
+- Harbert says nothing proves the bottle has long drifted. Spilett says the document seems recently written and asks Smith; Smith says it is hard to check, "nous le saurons". *(Drafted.)*
+  - quote: le document paraît avoir été récemment écrit
+
+### 3. Back to the river mouth; the plan for the trip (II.13 ¶15–¶19)
+
+- Pencroff has put about and the Bonadventure, broad reach and all sail set, runs fast for Cape Claw. Everyone thinks of the castaway: the colonists were castaways themselves, and their duty is to run towards misfortune. *(Drafted.)*
+  - quote: leur devoir était de courir au-devant de l’infortune
+- The cape is rounded and the Bonadventure anchors about four at the mouth of the Mercy. *(Drafted.)*
+  - quote: vint mouiller vers quatre heures à l’embouchure de la Mercy
+- That evening the details are settled. Pencroff and Harbert, who know boat handling, alone are to go. Leaving the next day, 11 October, they could arrive on the 13th, the crossing of a hundred and fifty miles needing no more than forty-eight hours with the wind that held; a day on the island, three or four to return, back on Lincoln Island by the 17th. *(Drafted.)*
+  - quote: En partant le lendemain, 11 octobre, ils pourraient arriver le 13 dans la journée
+- The weather is fine, the barometer rising steadily, the wind well set. *(Drafted.)*
+  - quote: le baromètre remontait sans secousses
+- Smith, Nab and Spilett were to stay at Granite House, but Spilett, mindful of his trade as the Herald's reporter, declares he will go swimming rather than miss such an occasion, and is admitted. *(Drafted.)*
+  - quote: il irait à la nage plutôt que de manquer une pareille occasion
+- That evening they load bedding, utensils, arms, ammunition, a compass and provisions for about eight days, then go up to Granite House. *(Drafted.)*
+  - quote: des vivres pour une huitaine de jours
+
+### 4. Departure and the first day, 11 October (II.13 ¶20–¶31)
+
+- Next day at five in the morning farewells are made, with some emotion. Pencroff stands for Cape Claw, to be rounded before taking the south-west course. *(Drafted.)*
+  - quote: Le lendemain, à cinq heures du matin, les adieux furent faits
+- A quarter mile from the coast the passengers see two men on the heights of Granite House waving goodbye: Smith and Nab (a plate carries the words). Spilett says it is their first separation in fifteen months. *(Drafted.)*
+  - quote: Voilà notre première séparation depuis quinze mois !…
+- For the first hours the south coast stays in sight, shrinking to a green basket from which Mount Franklin emerges. *(Drafted.)*
+  - quote: sous la forme d’une corbeille verte
+- About one o'clock Reptile End is passed, ten miles out; three hours later all of Lincoln Island has sunk below the horizon. *(Drafted.)*
+  - quote: tout ce qui était l’île Lincoln avait disparu au-dessous de l’horizon
+- The boat behaves perfectly; Pencroff sets the topsail and holds a straight course by compass. Harbert relieves him at the helm and holds true. *(Drafted.)*
+  - quote: Pencroff avait gréé sa voile de flèche
+- Spilett talks with each and lends a hand. Pencroff, satisfied with his crew, speaks of giving them "un quart de vin par bordée". *(Drafted.)*
+  - quote: d’un quart de vin par bordée
+- At evening the crescent moon, which will not reach first quarter until the 16th, shows in the twilight and goes out. The night is dark but starry. *(Drafted.)*
+  - quote: qui ne devait être dans son premier quartier que le 16
+- Pencroff lowers the topsail out of prudence. Spilett sleeps part of the night; Pencroff and Harbert take the helm in turns of two hours. *(Drafted.)*
+  - quote: se relayèrent de deux heures en deux heures au gouvernail
+
+### 5. The second day and night, 12 October (II.13 ¶32–¶40)
+
+- The night passes well, and the 12th passes in the same way; the south-west direction is strictly held, and if no unknown current acts, the boat must make Tabor exactly. *(Drafted.)*
+  - quote: la journée du 12 octobre s’écoula dans les mêmes conditions
+- The sea is wholly deserted; now and then an albatross or frigate passes within gunshot, and Spilett wonders whether he entrusted his last chronicle to one of them. *(Drafted.)*
+  - quote: qu’il avait confié sa dernière chronique adressée au New-York Herald
+- Harbert says it is the season when whalers head for the southern Pacific, and he thinks no sea more abandoned. Pencroff answers it is not so deserted, since they are in it. *(Drafted.)*
+  - quote: nous sommes à l’époque où les baleiniers se dirigent ordinairement vers la partie méridionale du Pacifique
+- By evening, by dead reckoning, the boat has covered about a hundred and twenty miles in thirty-six hours, a speed of three and a third miles an hour. The breeze is weak and tends to fall. They hope for sight of Tabor at daybreak. *(Drafted.)*
+  - quote: cent vingt milles depuis son départ de l’île Lincoln, c’est-à-dire depuis trente-six heures
+- None of the three sleeps that night, the 12th to the 13th. They wonder whether the castaway is still alive, who he is, whether his presence would trouble the colony, and whether he would trade his prison for another. *(Drafted.)*
+  - quote: Sa présence n’apporterait-elle pas quelque trouble dans la petite colonie
+- At the first light they scan the western horizon. *(Drafted.)*
+  - quote: ils fixèrent successivement leurs regards sur tous les points de l’horizon de l’ouest
+
+### 6. Land sighted; the landing, 13 October (II.13 ¶41–¶51)
+
+- About six in the morning Pencroff cries "Terre !" (the plate carries the cry). *(Drafted.)*
+  - quote: « Terre ! » cria Pencroff vers six heures du matin.
+- Tabor island is a low coast hardly out of the waves, within fifteen miles. The bow is set on it, a little south of the island. *(Drafted.)*
+  - quote: n’était pas éloignée de plus de quinze milles
+- Harbert remarks that it is a much smaller islet than Lincoln, probably also due to a submarine upheaval. *(Drafted.)*
+  - quote: probablement dû comme elle à quelque soulèvement sous-marin
+- At eleven in the morning they are two miles off and Pencroff goes in with great care, looking for a pass. *(Drafted.)*
+  - quote: À onze heures du matin, le Bonadventure n’en était plus qu’à deux milles
+- Gum trees and other tall trees like Lincoln's stand out, but no smoke rises and no signal shows on the shore. The text remarks that the castaway ought to have been on the watch. *(Drafted.)*
+  - quote: pas une fumée ne s’élevait qui indiquât que l’îlot fût habité
+- Pencroff stands in the bow with the halyard in hand, Harbert at the helm; Spilett scans the shore with the glass and sees nothing. *(Drafted.)*
+  - quote: Gédéon Spilett, la lunette aux yeux, parcourait tout le rivage sans rien apercevoir
+- About noon the stem strikes a sandy beach; the anchor is dropped, the sails lowered, and the crew goes ashore. *(Drafted.)*
+  - quote: à midi à peu près
+- It can only be Tabor, since the latest charts show no other island in that part of the Pacific between New Zealand and the American coast. *(Drafted.)*
+  - quote: il n’existait aucune autre île sur cette portion du Pacifique
+
+### 7. The view from the cone (II.13 ¶52–¶64)
+
+- The boat is moored fast against the ebb, and the three, well armed, climb the shore to a cone of two hundred and fifty to three hundred feet, half a mile off. *(Drafted.)*
+  - quote: haut de deux cent cinquante à trois cents pieds
+- Spilett says from the top they can survey the islet; Harbert compares it to what Smith did on Mount Franklin; Spilett says "Identiquement". *(Drafted.)*
+  - quote: c’est la meilleure manière de procéder
+- Along a meadow's edge they see rock pigeons and sea swallows like Lincoln's, and hear rustlings and see grass move that show very shy animals, but nothing shows the islet to be inhabited. *(Drafted.)*
+  - quote: des frémissements de broussailles
+- From the top they see the islet is no more than six miles round, an elongated oval with few capes and creeks. On every side the sea is absolutely deserted, with no land or sail. *(Drafted.)*
+  - quote: ne mesurait pas plus de six milles de tour
+- It is wooded over its whole surface, a uniform mass of green dominated by two or three low hills. A stream crosses a large meadow on the diagonal to reach the west coast by a narrow mouth. *(Drafted.)*
+  - quote: un ruisseau coulait à travers une large prairie
+- Harbert calls the domain small; Pencroff, "un peu petit pour nous"; Spilett says it seems uninhabited. They go down to search. *(Drafted.)*
+  - quote: il semble inhabité
+
+### 8. The circuit of the shore (II.13 ¶65–¶71)
+
+- They decide to walk round the islet before going inland, so that no point escapes them. *(Drafted.)*
+  - quote: de telle façon que pas un point n’échappât à leurs investigations
+- They go south along the shore, putting to flight many aquatic birds and herds of seals that throw themselves into the sea from far off. *(Drafted.)*
+  - quote: des troupeaux de phoques qui se jetaient à la mer
+- Spilett says the seals, having feared men, must have met them. *(Drafted.)*
+  - quote: Ils les craignent, donc ils les connaissent.
+- In an hour they reach the south point, ending in a sharp cape, and come up the west coast of sand and rocks with dense woods behind. *(Drafted.)*
+  - quote: Une heure après leur départ
+- There is no trace of habitation nor footprint anywhere around the islet, covered after four hours of walking. *(Drafted.)*
+  - quote: après quatre heures de marche
+- The text says the island either is not or is no longer inhabited; perhaps the document is months or years old, and the castaway repatriated or dead of misery. *(Drafted.)*
+  - quote: ou qu’il fût mort de misère
+- They dine quickly aboard the Bonadventure to resume the search until night. *(Drafted.)*
+  - quote: dînèrent rapidement à bord du Bonadventure
+
+### 9. Under the trees: goats, pigs, old clearings and gardens (II.13 ¶72–¶89)
+
+- At five in the evening they go in under the trees. *(Drafted.)*
+  - quote: à cinq heures du soir, heure à laquelle ils s’aventurèrent sous bois
+- Many animals flee, chiefly goats and pigs of European species; the text suggests some whaler landed them. Harbert resolves to take a pair or two back live to Lincoln Island. *(Drafted.)*
+  - quote: des chèvres et des porcs, qui, il était facile de le voir, appartenaient aux espèces européennes
+- Paths are traced and tree trunks cut with the axe, all the work of man; but the trunks are rotting, the axe cuts furred with moss, the grass long on the paths, so they were felled many years ago. *(Drafted.)*
+  - quote: les entailles de hache étaient veloutées de mousse
+- Spilett says men landed and lived there for a time, and asks who and how many; Harbert says the document speaks of only one castaway. *(Drafted.)*
+  - quote: ne parle que d’un seul naufragé
+- Pencroff says that if he is on the island they cannot fail to find him. They go on along the road that crosses the islet on the diagonal, beside the stream. *(Drafted.)*
+  - quote: il est impossible que nous ne le trouvions pas
+- In clearings the ground was planted with vegetables long ago. Harbert recognises potatoes, chicory, sorrel, carrots, cabbages and turnips, whose seed he can gather for Lincoln Island. *(Drafted.)*
+  - quote: des pommes de terre, des chicorées, de l’oseille, des carottes, des choux, des navets
+- Pencroff says it will suit Nab and themselves, and the voyage will not have been useless. *(Drafted.)*
+  - quote: notre voyage n’aura pas été inutile
+- Spilett and Harbert judge from the plantations' state that the islet has not been inhabited for a long time; Pencroff says the castaway has gone. *(Drafted.)*
+  - quote: ce naufragé est parti !
+- They conclude the document is old and that the bottle floated a long time before reaching Lincoln Island. Pencroff says "Pourquoi pas ?" and that night is coming. *(Drafted.)*
+  - quote: après avoir longtemps flotté sur la mer
+- Spilett proposes returning on board and starting again tomorrow. *(Drafted.)*
+  - quote: Revenons à bord, et demain nous recommencerons
+
+### 10. The dwelling (II.13 ¶90–¶94)
+
+- As they turn back, Harbert points to a confused mass between the trees and cries "Une habitation !" (the plate carries the scene). *(Drafted.)*
+  - quote: « Une habitation ! »
+- By the twilight they see it is built of planks covered with thick tarred cloth. *(Drafted.)*
+  - quote: construite en planches recouvertes d’une épaisse toile goudronnée
+- Pencroff pushes the half-closed door and goes in with a quick step. *(Drafted.)*
+  - quote: La porte, à demi fermée, fut repoussée par Pencroff
+- The dwelling is empty. *(Drafted.)*
+  - quote: L’habitation était vide !

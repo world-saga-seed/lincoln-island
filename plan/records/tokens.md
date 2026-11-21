@@ -16,3 +16,5 @@
 | 2026-11-20 | agent, Sonnet: outliner f | phase 2 (scene-outlines D) | 01600 to 01900 | 12,421 | whole files: the four chapters, the workflow, the forms, texts/README, CLAUDE.md | 129,204 | 22 | 5.7 |
 | 2026-11-20 | agent, Sonnet: outliner g | phase 2 (scene-outlines D) | 02000 to 02300 | 12,812 | whole files: the four chapters, the workflow, the forms, texts/README, CLAUDE.md | 146,523 | 27 | 7.3 |
 | 2026-11-20 | agent, Sonnet: outliner h | phase 2 (scene-outlines D) | 02400 to 02700 | 13,522 | whole files: the four chapters, the workflow, the forms, texts/README, CLAUDE.md | 151,157 | 23 | 6.2 |
+| 2026-11-20 | agent, Sonnet: outliner i | phase 2 (scene-outlines D) | 02800 to 03100 | 13,686 | whole files: the four chapters, the workflow, the forms, texts/README, CLAUDE.md | 134,984 | 24 | 5.8 |
+| 2026-11-20 | agent, Sonnet: outliner j | phase 2 (scene-outlines D) | 03200 to 03500 | 14,524 | whole files: the four chapters, the workflow, the forms, texts/README, CLAUDE.md | 142,412 | 21 | 6.6 |

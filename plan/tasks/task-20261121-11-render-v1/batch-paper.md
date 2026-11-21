@@ -121,3 +121,14 @@ Calibrated 5 of 5 (`cal/plants-01900-lost.md`). The clean run is running.
 **Result:** none of ours runs over White's rate. The one in 02000 is Verne's. 01950's 0.44 is at White's XIX rate, and its one series is the settled detail of the shells (gap item 4). **No flags.**
 - **Facts re-check on 01950 draft 2** (fresh Sonnet), 2026-11-21: 1 weak finding, and its quote resolves. "upon the rooms that were still unfinished" (l.47) strains 01900, "the partitions were finished. Nothing remained but to furnish the rooms, which would be the work of the long days of winter." **The wording was the main session's own** (sent as the corrected pick for I3 and ruled in R1121-115), so the error is ours, not the reviser's. Put to the author. Everything else checks, including the new path clause and no held fact.
 - **Two edits by the main session (R1121-118):** "upon the furnishing of the rooms", and "He did not." restored as its own sentence. Re-check: banned 0, spelling 0, tells.py `and/s=0.66 med=16`.
+
+## The seams (BRIEF phase 8)
+
+A fresh Sonnet critic, `prompt-critic-seams.md`, 2026-11-21: **0 breaks, 2 weak, 1 taste.** Both seams join cleanly, and nothing in 01950 is presented as new by I.20.
+1. Weak: "on the coast side of the gut, where the current still ran deep and fast" (01950 l.55), against Verne's knee-deep ford at the lowest ebb (I.15 ¶15) and the ford of 5 June (I.20 ¶20). Put to the author.
+2. Weak: 3 June "grey and still" (01950 l.139) against I.20 ¶1, June's "averses et des rafales qui se succédèrent sans relâche". Put to the author.
+3. Taste: "took off their shoes, which were nearly worn through" (01950 l.51) against I.20 ¶3, the clothes "chauds et solides", to be replaced "bientôt". Put to the author.
+
+## The blind probe
+
+See `probe/score.md`: no leaks; 11 of 15 key questions as meant; K3 (the point) and K2 half-missed; K4 thin.

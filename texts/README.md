@@ -55,3 +55,7 @@ A card resting on any of these cites the paragraph and gives both readings.
 ## White and the French
 
 White's chapters are numbered I to LXII straight through. The French restarts its numbering in each part, so the French II.1 is White XXIII and the French III.1 is White XLIII. Phase 3 aligns them paragraph by paragraph.
+
+## The alignment (phase 3)
+
+`texts/align/NN.tsv` pairs White's paragraphs with the French: one row a bead (a run of French paragraphs and the White ones that render them), made by `texts/align_white.py`. Its kinds "cut?", "add?", "short?" and "long?" are hints. `texts/align/NN-side.md` sets each bead's two texts side by side (`texts/side_white.py`). `texts/align/NN-discords.md` lists every place White departs from the French, with its kind (cut, condensed, addition, changed, softened) and both texts quoted (R1120-43); `plan/tasks/task-20261120-04-white-align/check_white.py` checks them. White's III.20 ends with a glossary of 92 entries after "THE END.", the edition's own; it is not aligned. White's II.17 ¶80 breaks mid-sentence, as the Gutenberg HTML does.

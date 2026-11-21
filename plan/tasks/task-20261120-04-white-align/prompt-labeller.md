@@ -15,7 +15,7 @@ READ ONLY, for each chapter NN:
 - the chapter's outline under story/outline/ (named above): the scene outline of the French, beat by beat.
 - if you need a paragraph in its own file: texts/fr-1875/NN.md and texts/white-1876/NN.md.
 
-WRITE, for each chapter NN, one file: plan/tasks/task-20261120-04-white-align/discords-NN.md. Write nothing else in the repository.
+WRITE, for each chapter NN, one file: texts/align/NN-discords.md. Write nothing else in the repository.
 
 WHAT IS A DISCORD. Any place where a reader of White learns less than, more than, or something other than a reader of the French. Label each with one kind:
 - **cut**: French matter White leaves out: a sentence, a fact, an explanation, a line of dialogue, a clue.
@@ -28,7 +28,7 @@ NOT discords: paragraphing (White often merges paragraphs); ordinary choices of 
 
 Be thorough. White's departures are usually inside paragraphs, not whole paragraphs. A dropped clause with a date, a number or a reason is a discord. Read every bead.
 
-THE FORM of discords-NN.md:
+THE FORM of NN-discords.md:
 
     # <cite>: White against the French (discords)
 

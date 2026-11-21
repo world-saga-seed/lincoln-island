@@ -2,11 +2,11 @@
 
 - **Objective:** White's 1876 translation aligned to the French by paragraph, and every place White departs (a cut, a condensation, an addition, a changed fact, a softened line) listed as a discord beat citing the French paragraph.
 - **Context:** `BRIEF.md` phase 3; R1120-29, R1120-33, R1120-41 (the labellers also note slips in the phase 2 outlines).
-- **Region:** writes `texts/align/` (the aligner's beads and the side-by-side files), the discord lists (place to be settled; the pilot writes to this task's folder), and this task's folder. Reads `texts/fr-1875/`, `texts/white-1876/`, `story/outline/`.
+- **Region:** writes `texts/align/` (the aligner's beads and the side-by-side files), the discord lists, `texts/align/NN-discords.md` (R1120-43), and this task's folder. Reads `texts/fr-1875/`, `texts/white-1876/`, `story/outline/`.
 - **Wave:** none.
 - **Start hash:** fdb14c1, 2026-11-20.
 - **End hash:** (on close)
-- **Status:** Pilot done; waiting on the author for the budget and the lists' place.
+- **Status:** Running: four chapters a labeller, two at a time, cap 4.5 M (R1120-42).
 
 ## Steps
 

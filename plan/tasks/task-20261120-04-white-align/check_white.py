@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check the phase 3 discord lists (plan/tasks/task-20261120-04-white-align/discords-NN.md, or a folder given).
+"""Check the phase 3 discord lists (texts/align/NN-discords.md, R1120-43).
 
 For each discord heading "### N. kind: label (CITE ¶a[–¶b]; White ¶c[–¶d] | White —)":
   - kind is one of cut, condensed, addition, changed, softened;
@@ -47,7 +47,7 @@ def cite(nn):
 
 
 def check(nn):
-    p = os.path.join(TASK, f'discords-{nn}.md')
+    p = os.path.join(ROOT, 'texts/align', f'{nn}-discords.md')
     fr = paras(os.path.join(ROOT, 'texts/fr-1875', f'{nn}.md'))
     wh = paras(os.path.join(ROOT, 'texts/white-1876', f'{nn}.md'))
     frall, whall = ' '.join(fr.values()), ' '.join(wh.values())
@@ -97,7 +97,7 @@ def check(nn):
 
 
 def main():
-    args = sys.argv[1:] or sorted(re.findall(r'discords-(\d\d)\.md', ' '.join(os.listdir(TASK))))
+    args = sys.argv[1:] or sorted(re.findall(r'(\d\d)-discords\.md', ' '.join(os.listdir(os.path.join(ROOT, 'texts/align')))))
     bad = 0
     for nn in args:
         n, probs, warns = check(nn)

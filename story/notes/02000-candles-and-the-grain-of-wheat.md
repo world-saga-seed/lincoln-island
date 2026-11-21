@@ -22,8 +22,4 @@
 
 ## Next pass
 
-*(Proposal, from the fold-back: where the prose changes at the next drafting pass. The writer's reading comments join this list.)*
-
-1. **drift.** `Herbert found one day in the lining of his vest` (line 71), and again at line 77. "Veste" (¶33, ¶36) is a jacket, as the outline has it; "vest" in White's American can read as a waistcoat. Check White's own word in XX and give the jacket. Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(My reading, to confirm.)*
-
-Voice: no item. The draft's register follows the French, and the one texture finding on the chapter ("and" per sentence 0.43) was left as it stands (R1121-116, N5). Length: no item; the notes give the French's size, not a range (R1121-103). *(Proposal, from the fold-back.)*
+*(Settled R1121-132.)* Every item is in the final text (`plan/tasks/task-20261121-13-refine/patches.tsv`). Nothing is open. The writer's reading comments and the next pass's items join here.

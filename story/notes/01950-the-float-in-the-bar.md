@@ -59,8 +59,4 @@
 
 ## Next pass
 
-*(Proposal, from the fold-back: where the prose changes at the next drafting pass. The writer's reading comments join this list.)*
-
-
-No drift, held, beat or length item. Every note, card and ruling moved since the draft began (R1121-109, -110, -115, -118, -119, -120) is on the page; the seams' still 3 June and the stated reason for the tools stand by R1121-119; every beat is on the page in order; the length is near its "about 2,500" (item 21). *(Proposal.)*
-3. **reading.** The author's read-aloud of the chapter (R1121-129, R1121-130) and the reader's notes (R1121-122, R1121-127): all in draft 3, `plan/tasks/task-20261121-13-refine/patches.tsv`, P7 to P21. At the next pass in `story/prose/`, draft 3 replaces v1. *(Settled R1121-130.)*
+*(Settled R1121-132.)* Every item is in the final text (`plan/tasks/task-20261121-13-refine/patches.tsv`). Nothing is open. The writer's reading comments and the next pass's items join here.

@@ -45,9 +45,4 @@
 
 ## Next pass
 
-*(Proposal, from the fold-back: where the prose changes at the next drafting pass. The writer's reading comments join this list.)*
-
-1. **drift.** `at what precise point the facade of Granite House lay` (line 9). "se développait" (¶2) is softened to "lay", as the drafter itself reported; give its sense, the facade's extent. Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(Proposal, from the fold-back.)*
-2. **drift.** `he might fear that they would never be relieved` (line 49). The French fear is his own, "il pouvait craindre de n’être jamais secouru" (¶22); the render shifts it to "they". Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(Proposal, from the fold-back.)*
-
-Length: no item. The notes give the French's size, not a range, and the neighbours render the French whole (R1121-103). *(Proposal, from the fold-back.)*
+*(Settled R1121-132.)* Every item is in the final text (`plan/tasks/task-20261121-13-refine/patches.tsv`). Nothing is open. The writer's reading comments and the next pass's items join here.

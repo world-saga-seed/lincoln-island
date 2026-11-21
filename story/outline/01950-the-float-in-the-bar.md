@@ -30,7 +30,7 @@
 - *(Settled R1121-60.)* His lines are set in the Mercy near its mouth, with iron hooks from the forging (I.15 ¶51, "etc."; named at II.8 ¶15). His way to them runs along the beach past the channel to the islet. The French has fishing that month, "ni la chasse, ni la pêche" (I.20 ¶2), and later Pencroff's "lignes de fond, armées d’hameçons de fer" in the Mercy (II.8 ¶15, in the pluperfect).
 - *(Settled R1121-62.)* This June's squalls have uncovered it. Storms reshape this shore: after the March storm "l’effroyable tempête de la veille avait modifié l’aspect des lieux" (I.8 ¶90).
 - *(Proposal.)* At the neap low water, the sands of the channel bed show for a short while (R1121-53; "la plus grande partie des sables, formant le lit du canal, avait découvert", I.3 ¶59). On the bar a round thing, half buried, catches his eye, the wrong shape for a stone. *(Settled R1121-74.)* It is about a foot across, and the bar lies a cable or two off the beach.
-- *(Proposal.)* The flood is already making, and he does not go out alone.
+- *(Proposal.)* The tide is on the turn (low water about 8, notes item 7), and he does not go out alone.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The lines are his own errand, visited every morning; the narrator likens it to a captain's round of his ship.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* He holds back because he crossed the channel on the first day and knows its current; he resets his lines watching the bar, and the sea has covered it before he is back at the ladder.
 

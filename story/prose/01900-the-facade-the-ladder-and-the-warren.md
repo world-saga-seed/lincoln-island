@@ -1,4 +1,4 @@
-# The Facade, the Ladder and the Warren (draft 2)
+# The Facade, the Ladder and the Warren (final)
 
 CHAPTER XIX.
 
@@ -6,7 +6,7 @@ THE PLAN OF CYRUS SMITH—THE FACADE OF GRANITE HOUSE—THE ROPE LADDER—PENCRO
 
 The next day, the 22nd of May, the works intended for the fitting up of the new dwelling were begun. The colonists were, in fact, impatient to exchange the insufficient shelter of the Chimneys for this vast and healthy retreat, hollowed out of the solid rock, sheltered from the waters of the sea and of the sky. The Chimneys, however, were not to be entirely abandoned, and the engineer's project was to make of them a workshop for the heavy work.
 
-The first care of Cyrus Smith was to find out at what precise point the facade of Granite House lay. He went to the beach, at the foot of the enormous wall. As the pick, which had slipped from the reporter's hands, must have fallen perpendicularly, it was enough to find this pick again to know the place where the hole had been pierced in the granite.
+The first care of Cyrus Smith was to find out at what precise point the facade of Granite House extended. He went to the beach, at the foot of the enormous wall. As the pick, which had slipped from the reporter's hands, must have fallen perpendicularly, it was enough to find this pick again to know the place where the hole had been pierced in the granite.
 
 The pick was easily found. In fact, a hole opened in a perpendicular line above the point where it had stuck in the sand, about eighty feet above the beach. Some rock pigeons were already flying in and out of this narrow opening. It really seemed as if Granite House had been discovered for them!
 
@@ -46,7 +46,7 @@ Other ropes were also made of vegetable fibres, and a sort of rough tackle was f
 
 These various works went on rapidly, under the direction of the engineer, who himself handled the hammer and the trowel. No labor was foreign to Cyrus Smith, who thus set the example to intelligent and zealous companions. They worked with confidence, gayly even, Pencroff always having his joke ready, now carpenter, now ropemaker, now mason, and communicating his good humor to all the little band. His faith in the engineer was absolute. Nothing could have troubled it. He believed him capable of undertaking anything and of succeeding in everything. The question of clothes and of shoes—a serious question, assuredly—that of lighting during the winter nights, the cultivation of the fertile portions of the island, the transformation of this wild flora into a civilized flora, everything appeared easy to him, with Cyrus Smith's help. All would be done in its time. He dreamed of canalized rivers, facilitating the transport of the riches of the soil; of quarries and mines to be worked; of machines fit for every industrial use; of railways—yes, of railways!—whose network would certainly one day cover Lincoln Island.
 
-The engineer let Pencroff talk. He did not abate the exaggerations of this brave heart. He knew how catching confidence is. He even smiled to hear him talk, and said nothing of the uneasiness which the future sometimes caused him. In fact, in this part of the Pacific, out of the course of vessels, he might fear that they would never be relieved. It was, then, upon themselves, upon themselves alone, that the colonists must reckon, for the distance from Lincoln Island to any other land was such that to venture out in a boat, of a construction necessarily indifferent, would be a serious and perilous thing.
+The engineer let Pencroff talk. He did not abate the exaggerations of this brave heart. He knew how catching confidence is. He even smiled to hear him talk, and said nothing of the uneasiness which the future sometimes caused him. In fact, in this part of the Pacific, out of the course of vessels, he might fear never to be relieved. It was, then, upon themselves, upon themselves alone, that the colonists must reckon, for the distance from Lincoln Island to any other land was such that to venture out in a boat, of a construction necessarily indifferent, would be a serious and perilous thing.
 
 "But, as the sailor said, they surpassed by a hundred cubits the Robinsons of former times, for whom everything was a miracle to be performed."
 

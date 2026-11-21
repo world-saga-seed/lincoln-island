@@ -16,7 +16,7 @@ Something lay on the bar, half buried, and it was round.
 
 The sailor stood still. He knew stones, as every man knows them who has walked a beach at low water: the sea rounds them, it is true, but it does not make them so regular as that, nor leave them sitting up in the sand like the top of a buoy on a mud-bank. The thing might measure a foot across, and what it was, at that distance, was more than he could say; but it was the wrong shape for a stone, and that was enough to hold him there a full minute.
 
-He would have gone out to it then and there; but the flood was already making. He could hear the current quicken in the gut, and he had crossed that channel on the first day, and knew what it was worth. A man alone on the bar, with the sea coming in on either hand, would have no one to give him a rope. Pencroff was bold, but he was a seaman, and he did not go out alone.
+He would have gone out to it then and there; but the tide was on the turn. He could hear the current quicken in the gut, and he had crossed that channel on the first day, and knew what it was worth. A man alone on the bar, with the sea coming in on either hand, would have no one to give him a rope. Pencroff was bold, but he was a seaman, and he did not go out alone.
 
 He went on to his lines, lifted them and set them again, and all the while he looked over his shoulder at the bar. Before he had come back to the foot of the ladder, the sea had covered it.
 
@@ -62,7 +62,7 @@ Pencroff knelt down beside it in the sand. About a third of it stood above the b
 
 "A net," said Pencroff.
 
-They tried to turn the ball, but it was heavy with the sand that held it, and stuck as fast as a rock. The sailor felt round it with his fingers as far as he could reach. A cord of the same kind as the other passed under it, on the hidden side, and went down into the sand. Pencroff worked the blade of his knife down beside the glass, until he felt the cord with its point, and sawed at it blindly a long while; but the sand closed upon the blade at every stroke, and when at last he drew it out, he could not tell whether he had cut the cord half through or not cut it at all. To free the ball they must dig; and they had nothing to dig with but their hands, and the sand, as fast as they scooped it out, filled again with water.
+They tried to turn the ball, but it was heavy with the sand that held it, and stuck as fast as a rock. The sailor felt round it with his fingers as far as he could reach. A cord of the same kind as the other passed under it, on the hidden side, and went down into the sand. Pencroff worked the blade of his knife down beside the glass, until he felt the cord with its point, and sawed at it blindly a long while; but the sand closed upon the blade at every stroke, and when at last he drew it out, he could not tell whether he had cut the cord half through or not cut it at all. To free the ball they must dig; and they had only their hands to dig with, and the sand, as fast as they scooped it out, filled again with water.
 
 Pencroff sat back on his heels and looked at the thing.
 
@@ -126,7 +126,7 @@ They could not stay. Already the sea was running over the sands they had crossed
 
 They reached the beach. They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. Under the wall Herbert coughed up the sea water he had swallowed, and laughed, and said that it was nothing. Pencroff did not laugh. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
 
-The squall did not slacken. The sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it, and it rocked under each sea; and the cord upon which the sailor's knife had worked, if it was not cut through, had been weakened. At last it gave way; the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet.
+The squall held. The sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it, and it rocked under each sea; and the cord upon which the sailor's knife had worked, if it was not cut through, had been weakened. At last it gave way; the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet.
 
 Then, for a moment, the clouds broke under the squall. A pale light fell across the channel. Out on the rocks of the islet, in the spray, something flashed, once, and flew apart.
 
@@ -142,7 +142,7 @@ Toward one o'clock the squall eased; the flood had long since covered the bar. T
 
 Neb laughed loudly, and set about making up the fire, and the engineer smiled. The two wet men stood before the hearth and dried their clothes upon their backs, as sailors do. That was all they told, and it was true, as far as it went.
 
-Pencroff might have told the rest then, by the fire. He did not. He meant to tell it, he had promised it; but the rest could not be told by halves. To speak of the float was to speak of the bar, of the hour of low water let slip, of the flood which he, a seaman, had not watched, and of the lad turned over in the current like a piece of weed. He had let the boy stay out on the bar with the flood making, against a rule he had kept all his life, for the pleasure of laying the thing on the table with his own hands.
+Pencroff might have told the rest then, by the fire. He did not. He meant to tell it, he had promised it; but the rest could not be told by halves. To speak of the float was to speak of the bar, of the hour of low water let slip, of the flood which he, a seaman, had left unwatched, and of the lad turned over in the current like a piece of weed. He had let the boy stay out on the bar with the flood making, against a rule he had kept all his life, for the pleasure of laying the thing on the table with his own hands.
 
 The 3rd of June was grey and still, for in the night the wind had gone round to the south-west, and the sea was down. Toward the middle of the morning, at low water, the two went down once more to the lines, and from the lines out over the sands. This time Pencroff kept the lad on his landward side, and did not take his eyes off the gut.
 

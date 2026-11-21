@@ -1,4 +1,4 @@
-# Candles and the Grain of Wheat (draft 2)
+# Candles and the Grain of Wheat (final)
 
 CHAPTER XX.
 
@@ -68,13 +68,13 @@ One privation alone still cost the colonists of Lincoln Island dear. They lacked
 
 Perhaps, in time, the colonists might replace this food by some equivalent, sago flour or the starch of the breadfruit tree. It was possible, indeed, that the forests of the south might count these precious trees among their kinds; but up to that time they had not been met with.
 
-However, Providence was, on this occasion, to come directly to the help of the colonists, in an infinitesimal proportion, it is true. But, after all, Cyrus Smith, with all his intelligence, all his ingenuity, could never have produced that which, by the greatest chance, Herbert found one day in the lining of his vest, which he was busy mending.
+However, Providence was, on this occasion, to come directly to the help of the colonists, in an infinitesimal proportion, it is true. But, after all, Cyrus Smith, with all his intelligence, all his ingenuity, could never have produced that which, by the greatest chance, Herbert found one day in the lining of his waistcoat, which he was busy mending.
 
 On that day—it was raining in torrents—the colonists were assembled in the great hall of Granite House, when the lad suddenly cried out:—
 
 "Look, Mr. Smith. A grain of wheat!"
 
-And he showed his companions a grain, one single grain, which, from his pocket, that had a hole in it, had worked its way into the lining of his vest.
+And he showed his companions a grain, one single grain, which, from his pocket, that had a hole in it, had worked its way into the lining of his waistcoat.
 
 The presence of this grain was explained by the habit which Herbert had, when at Richmond, of feeding some wood pigeons which Pencroff had given him.
 

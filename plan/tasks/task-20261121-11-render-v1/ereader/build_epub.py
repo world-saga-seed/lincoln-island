@@ -9,6 +9,8 @@ import re, sys, pathlib, subprocess, glob
 
 STAGE = pathlib.Path(sys.argv[1]); STAGE.mkdir(parents=True, exist_ok=True)
 OUT = sys.argv[2]
+LABEL = sys.argv[3] if len(sys.argv) > 3 else 'Version 1'  # 'final' for the build after the read (R1121-132)
+RENDER = 'Rendered from the French' if LABEL == 'final' else f'{LABEL}, rendered from the French'
 HERE = pathlib.Path(__file__).parent
 
 def white(n, roman, label):
@@ -30,13 +32,13 @@ def v1(path, title, note=None):
 
 files = [
   white(19, 'XIX', '1-white-19'),
-  v1(glob.glob('story/prose/01900-*.md')[0], 'XIX. Version 1, rendered from the French'),
+  v1(glob.glob('story/prose/01900-*.md')[0], f'XIX. {RENDER}'),
   v1(glob.glob('story/prose/01950-*.md')[0], 'XIX bis. The missing chapter',
      '*This chapter has no French original and no translation by White. It is the chapter inserted into the book, written by a model by the World Saga Seed method, in Verne\'s manner and White\'s English.*'),
-  v1(glob.glob('story/prose/02000-*.md')[0], 'XX. Version 1, rendered from the French'),
+  v1(glob.glob('story/prose/02000-*.md')[0], f'XX. {RENDER}'),
   white(20, 'XX', '5-white-20'),
 ]
 cmd = ['python3', 'tools/epub.py', '--title', 'Lincoln Island: chapters XIX to XX',
        '--author', 'Jules Verne; the missing chapter by a model, by the World Saga Seed method',
-       '--front', str(HERE / 'front.md'), '--kepub', '--out', OUT] + [str(f) for f in files]  # --kepub: R1121-126
+       '--front', str(HERE / ('front-final.md' if LABEL == 'final' else 'front.md')), '--kepub', '--out', OUT] + [str(f) for f in files]  # --kepub: R1121-126
 print(' '.join(cmd)); sys.exit(subprocess.call(cmd))

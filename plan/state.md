@@ -30,9 +30,9 @@
 | 01600 | The Search for a Dwelling and the Dugong | outlined | Verne's | none needed | the French I.16; carded |
 | 01700 | The Nitro-Glycerine and the New Fall | outlined | Verne's | none needed | the French I.17; carded |
 | 01800 | The Descent into the Old Outlet and Granite-House | outlined | Verne's | none needed | the French I.18; carded |
-| 01900 | The Facade, the Ladder and the Warren | v1 (draft 2), folded back | Verne's | none needed | the French I.19; carded |
-| 01950 | The Float in the Bar | v1 (draft 2), folded back | about 2,500 | from the author, all set | 1 to 3 June 1865 (R1121-38); premise R1121-23 to -37, -52, -53; checked against `world/rules.md` |
-| 02000 | Candles and the Grain of Wheat | v1 (draft 2), folded back | Verne's | none needed | the French I.20; carded |
+| 01900 | The Facade, the Ladder and the Warren | final (draft 3, R1121-132); invention check to run | Verne's | none needed | the French I.19; carded |
+| 01950 | The Float in the Bar | final (draft 3, R1121-132); invention check to run | about 3,200 (R1121-131) | from the author, all set | 1 to 3 June 1865 (R1121-38); premise R1121-23 to -37, -52, -53; checked against `world/rules.md` |
+| 02000 | Candles and the Grain of Wheat | final (draft 3, R1121-132); invention check to run | Verne's | none needed | the French I.20; carded |
 | 02100 | The Southeast Marsh Expedition | outlined | Verne's | none needed | the French I.21; carded |
 | 02200 | Traps, Snowstorm and the Lead Shot | outlined | Verne's | none needed | the French I.22; carded |
 | 02300 | The Pirogue and the Vanished Turtle | outlined | Verne's | none needed | the French II.1; carded |
@@ -78,7 +78,6 @@
 
 ## Drift
 
-- 01950: `"We had it, Pencroff," said Herbert. "For an hour."` (line 149) is now R1121-123's line; the prose takes it at the refine (phase 11). The Next pass list has it as item 3.
 
 *Where a draft says something the notes no longer say. Delete a row when the page matches.*
 

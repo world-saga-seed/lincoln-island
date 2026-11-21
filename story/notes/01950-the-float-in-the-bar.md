@@ -61,7 +61,7 @@
 
 *(Proposal, from the fold-back: where the prose changes at the next drafting pass. The writer's reading comments join this list.)*
 
-1. **voice.** `"The lines took nothing, and the sea took the pair of us."` (line 133). The joke stands word for word (R1121-59); what changes is around it: one touch of how Pencroff says it, and where Herbert is while he hears it, since the page drops the lad at home. Never a word on why. Source: [the fold-back's voice kind](../../plan/workflows/drafting/fold-back.md#the-next-pass-list); [the POV file](../voice/pov.md). *(Proposal.)*
+1. **voice.** `"The lines took nothing, and the sea took the pair of us."` (line 133). The joke stands word for word (R1121-59). What could change is one touch of how Pencroff says it. Herbert is not shown at home (R1121-121). *(Proposal.)*
 2. **voice.** `Herbert promised; and no one would wonder to see the lad go down with the sailor to the lines` (line 43). Being chosen, and the secret, go by in one verb; a brief thought of the lad's, as Verne gives one, could show what holds him, without staying in his head. Source: [the drafting rules, the page](../../plan/workflows/drafting/rulings.md#the-page) (R1121-90). *(Proposal.)*
 
 No drift, held, beat or length item. Every note, card and ruling moved since the draft began (R1121-109, -110, -115, -118, -119, -120) is on the page; the seams' still 3 June and the stated reason for the tools stand by R1121-119; every beat is on the page in order; the length is near its "about 2,500" (item 21). *(Proposal.)*

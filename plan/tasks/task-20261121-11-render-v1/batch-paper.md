@@ -49,3 +49,12 @@
 ## Spelling, both ways (R1121-113)
 
 `tools/spelling.py check story/voice/spelling.md story/prose/0*.md`, 2026-11-21: 7 wrong forms. 01900 has "fibers" twice, "leveled" and "marvelous" (White 3 to 1). 02000 has "fiber" once and "fibers" twice. 01950 has none. All go to the revision.
+
+## 01950, facts critic, clean run
+
+A fresh Sonnet agent, `prompt-critic-facts-01950.md`, 2026-11-21, 106,401 tokens. **0 breaks, 2 weak, 2 taste.** All four quotes resolve (checked by grep).
+1. Weak: the path and the mooring's parting are not on the page ("Where the bar had been there was only broken water, and the flood ran over it.", l.127). **Disposition:** fix, by R1121-110, with the cord giving way (R1121-65).
+2. Weak: "Then men have been here!" (l.39) against K5, K6 and R1121-100. **Disposition:** fix, by R1121-109.
+3. Taste: "upon the rooms which the long days of winter were to finish" (l.47), a forward glance against R1121-91. **Disposition:** put to the author. Pick: fix it, since the ruling allows no glance forward in 01950.
+4. Taste: "the sands they had crossed dry-shod an hour before" (l.117), when they are barefoot (gap item 13). **Disposition:** put to the author. Pick: fix it ("dry").
+Its other checks were all clear: dates, tides, wind, names, the float's look and letters, the tools, the shoes, the pretext, the joke, the cast at home, the two settled lines, and the unspoken sum.

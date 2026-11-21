@@ -49,9 +49,11 @@
 ### 3. Out at the next low water, without tools (2 June)
 
 - *(Settled R1121-69.)* The day dawns in rain ahead of the squall. The shutters of Granite-house are shut from first light, the house lit by the fire, and the other three are at indoor work, so no one sees the bar.
+- *(Settled R1121-127, R1121-128.)* The wind is east-north-east, beating on the facade, and the kitchen chimney smokes, as I.19 ¶46 says it would in such winds. Stated as fact, with no nod back.
 - *(Settled R1121-52, R1121-72.)* The first cause, in a line: the tools stay behind, because picks carried out of Granite-house would be asked about. Pencroff carries his knife, one of the two halves of Top's collar.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* Indoors that morning Top lies at Smith's feet.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* Pencroff thinks of the picks and shovels in the storeroom; no one carries a pick down the ladder to lift lines, and the engineer would have asked what it was for.
+- *(Settled R1121-130.)* Toward eight, as the ebb nears its lowest, Pencroff turns up the collar of his jacket, says aloud that the fish do not mind the rain if he does, and goes out by the door, Harbert after him. Nab calls them two madmen and goes back to his pots.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* At the foot of the wall they leave their much-worn shoes under the rock (the words as R1121-119) and roll their trousers to the knee.
 - *(Settled R1121-78.)* On the way out they lift the lines, and the lines are empty.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The hooks come up with the bait untouched (the words as R1121-120), and Pencroff jokes that the fish have the sense to keep indoors.
@@ -60,18 +62,20 @@
 ### 4. At the float
 
 - *(Settled R1121-52.)* The second cause, in a line: the float is still on its net, buried in the bar and heavy with sand.
-- *(Settled R1121-30.)* It is glass, stuck fast, and they cannot turn it. *(Settled R1121-72.)* Its lashing runs under it into the sand, out of the knife's reach.
-- *(Settled R1121-32.)* It is thick with barnacles. They chip some away with a stone. *(Proposal.)* They go carefully, for fear of the glass.
+- *(Settled R1121-130.)* A tangle of wrack, torn loose by the squalls, lies over it; Pencroff drags it away.
+- *(Settled R1121-30.)* It is glass, stuck fast, and they cannot turn it. *(Settled R1121-72, R1121-129.)* Its lashing runs under it into the sand on the hidden side. Pencroff works his blade down beside the glass and saws blind at it a long while; the sand closes on the blade, and he cannot tell whether he has cut it half through or not at all.
+- *(Settled R1121-32, R1121-134.)* It is thick with barnacles, over the part that shows: they grew where the float rode under water, and the ball has turned in the bar since, so never "thickest on the top". They chip some away with a stone. *(Proposal.)* They go carefully, for fear of the glass.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The upper third shows above the bar as a turtle's back shows above the sea; the rotten cord comes out of the sand on the side toward the gut.
 - *(Proposal.)* Pencroff: a net float, but not cork and not American. He has never seen the like.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* He raps the bared glass with a knuckle, and says he has put into many ports and never seen one.
+- *(Settled R1121-130, R1121-131.)* "I have never seen the like", and "The sailor might well say so." Then two paragraphs in the narrator's voice: glass net floats had only in late years come into the Norway cod fisheries, a novelty of the northern seas; and the sea opens strange roads to floating bodies, the South Pacific's waters turning in a great round. They speak of the sea, never of this float's origin (R1121-92).
 - *(Settled R1121-82.)* While Harbert chips, Pencroff counts in his head what the glass is worth: light for the shuttered house, a float for his lines. Never aloud. The reader does the sum when it breaks.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* In the sum, Pencroff is sure Smith could make a window of the ball, having seen the lens Smith made of two watch glasses (the words as R1121-120).
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* Pencroff knows barnacles from scraping ships' bottoms; Harbert tells him these few are another kind, that hang by a stalk.
 - *(Proposal; the kinds Settled R1121-120.)* Harbert: among the common barnacles, goose barnacles, long dead, the kind on a thing kept at the surface. So it has been in the sea a long time, and it came from far off. "Long ago" is true. "Far off" is wrong, since the net was set close in. *(Settled R1121-77.)* The reading dims their hope of a ship nearby; it does not kill it.
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* Pencroff keeps the hope alive after a pause: far off is a long word, and ships go a long way.
-- *(Settled R1121-55.)* The frame: a broken run, a B, an L, an I. Harbert says "Latin, I think," and no more. *(Proposal.)* What it rests on is the -bili- of the Latin ending -bilis, which a schooled boy knows. It is part of MOBILIS, but not the word. The N lies toward the sand (R1121-31).
-- *(Settled R1121-37.)* The time they have goes in the reading. The scene is short.
+- *(Settled R1121-55, R1121-129, R1121-134.)* The frame: a broken run, a B, an L, an I. Harbert says "Latin, I think," and adds only that a word in Latin may be read a dozen ways and there are not letters enough to choose among them. *(Proposal.)* What it rests on is the -bili- of the Latin ending -bilis, which a schooled boy knows. It is part of MOBILIS, but not the word. The N lies toward the sand (R1121-31).
+- *(Settled R1121-37, R1121-118.)* The time they have goes in the reading. The scene is short. Even Pencroff forgets to watch the water, and "The hour of low water went by in this way" is on the page before the squall (K3). The lapse is Verne's kind, and the rescue is its cost (R1121-134).
 
 ### 5. The squall (2 June)
 
@@ -80,6 +84,7 @@
 - *(Settled R1121-70.)* They wait it out under the granite wall near the foot of the ladder, where they can still see the float.
 - *(Settled R1121-65, R1121-66, R1121-68.)* In the squall, what is left of the rotten mooring breaks. The surge throws the float on the islet's rocks: from under the wall, a flash in the spray, and it is gone. They know it shattered. The bar closes over the net. *(Settled R1121-119.)* They see it break, as R1121-68 has it: the flash flies apart, seen across the channel, not up close.
 - *(Settled R1121-110.)* The path, in one clause: the backwash draws the freed float off the bar into the gut, and the channel's current, "un courant extrêmement rapide" (I.3 ¶42), takes it onto the islet's point. The wind is onshore, so the sea alone would drive it to the coast.
+- *(Settled R1121-129.)* Before the cord gives, the sand they dug from about the ball no longer holds it, it rocks under each sea, and the cord the knife worked on, if not cut through, has been weakened.
 
 ### 6. Home, wet (2 June, early afternoon)
 
@@ -94,6 +99,7 @@
 ### 7. The smooth sand (3 June, mid-morning low water)
 
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The pretext is the lines once more; they go out by the lines, and the chapter ends as they go back across the sand to them.
+- *(Settled R1121-129, R1121-134.)* This time Pencroff keeps the lad on his landward side and does not take his eyes off the gut: the guilt shown, never told.
 - *(Settled R1121-23, R1121-65.)* The bar has shifted. There is nothing to find, not even the net. *(Settled R1121-68.)* No one ever finds a piece of the glass.
 - *(Settled R1121-57.)* Pencroff, at the smooth sand: "Five of us and the picks, and we'd have had it."
 - *(Settled R1121-123, R1121-134.)* Harbert: "Yes," answered Herbert; "and it lay under our hands the whole time the sea was out." Then the sailor shakes himself, as Top does coming out of the water, and says to the lad: "Bah! The sea has taken, and the sea will give us something else." His hand on the lad's shoulder, they go back to the lines. The narrator does not look ahead (R1121-91).

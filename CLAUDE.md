@@ -1,8 +1,6 @@
-# [Working title]
+# Lincoln Island
 
-*Template. In a fresh clone of the kit, fill in the title line now, before the intake. Fill in the rest (the pen name, the horizon in rule 8, "About the writer") from the interview's answers, at stage 03 (`kit/pipeline/03-set-up-plan.md`). Delete this paragraph then.*
-
-A novel in progress by [your pen name]. The setting's facts are in `world/`. The story is in `story/`, one folder per type of information: `outline/`, `notes/`, `prose/`, `voice/`, `calendar/`. A chapter has one number in every folder: `00100` is chapter 1, in steps of 100, so a chapter added between 00300 and 00400 is `00350`. The index is [README.md](README.md). The procedures are in `plan/workflows/`, the forms in `plan/templates/`, the scripts in `tools/`; the method's stages and reasons are in `kit/`.
+A novel in progress: Jules Verne's *L'Île mystérieuse* with one chapter inserted. Byline: "Jules Verne; the missing chapter by a model, by the World Saga Seed method". The setting's facts are in `world/`. The story is in `story/`, one folder per type of information: `outline/`, `notes/`, `prose/`, `voice/`, `calendar/`. A chapter has one number in every folder: `00100` is chapter 1, in steps of 100, so a chapter added between 00300 and 00400 is `00350`. The index is [README.md](README.md). The procedures are in `plan/workflows/`, the forms in `plan/templates/`, the scripts in `tools/`; the method's stages and reasons are in `kit/`.
 
 **Read `plan/README.md` at the start of every session**, then `plan/roadmap.md` and `plan/state.md`. Check them against `git log`: they are written by Claude and can be wrong. When the writer asks "what now?" or "what next?", or a session starts with no task named, run [next](plan/workflows/next.md).
 
@@ -19,7 +17,7 @@ A novel in progress by [your pen name]. The setting's facts are in `world/`. The
 5. **Check every recommendation against the notes** before you make it. Grep the facts it depends on and quote them.
 6. **Gaps are asked, not invented.** The writer likely has an answer. Where a chapter has no key frame from the writer, write a brief and ask for a dictation; do not fill it.
 7. **Lore stays in the notes.** Background detail goes in `world/` and the notes, not into drafted scenes, unless the scene needs it or the writer asks.
-8. **Outlines before prose.** Stay in outlines until the writer says to draft. Work inside the current horizon: `[name the horizon, e.g. volume 1, chapters 00100 to 02000]`.
+8. **Outlines before prose.** Stay in outlines until the writer says to draft. Work inside the current horizon: outlines for the whole book (all 62 chapters); prose only for the inserted chapter and its two neighbours, once phase 6 of `BRIEF.md` places them.
 9. **Delete stale text.** When a later ruling replaces an older line, delete the older line. Git keeps the history. Do not put superseded text to the writer as a question.
 10. **Every critic finding quotes the text.** Drop any finding whose quote does not resolve (`python3 tools/quotes.py`).
 11. **Never trim a clue.** No cut, trim or revision removes a line listed in `plan/reread-hooks.md` or a chapter's clue notes. A line that looks like a clue and is listed nowhere is kept and reported.
@@ -33,8 +31,7 @@ A novel in progress by [your pen name]. The setting's facts are in `world/`. The
 
 *Fill in what helps Claude work with you. Leave out anything you would rather not say.*
 
-- Genre and what the book promises its reader: [ ]
-- What you dislike in books like this: [ ]
-- How you read drafts (screen, ereader, audio), and anything that makes reading hard for you (for example, unmarked jumps in time): [ ]
-- How you like questions put to you (a few at a time; by structure, not by asking you to recall exact words): [ ]
-- Where your expertise is (a trade, a place, a period), so Claude takes your calls there as fact: [ ]
+- **The author is a model** (Claude, in another session), and it messages this one. It answers phase 0, settles what is asked, sets the insert's key frames and placement, and decides what to do with the reader's comments. The run demonstrates the kit; it makes no claim of human authorship. See `BRIEF.md`.
+- **The human reads the ereader builds as a reader.** Their comments reach this session through the author.
+- **Questions:** a few at a time, each with its context and a recommendation, sent to the author.
+- **Authority on fact:** Verne's French (Hetzel, 1875), cited by part, chapter and paragraph. White's 1876 translation is the one English voice.

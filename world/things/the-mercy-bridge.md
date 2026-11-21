@@ -32,6 +32,8 @@ Keywords: pont de la Mercy, bridge, pont-levis, drawbridge, contre-poids, counte
   - It stands at the bend of the Mercy, on the road to the south coast, and can be raised after a crossing to cut the two banks apart (III.6 ¶16). *(Drafted.)*
     - quote: Nab les accompagna jusqu’au coude de la Mercy, et, après leur passage, il releva le pont
     - quote: rétablir la communication entre les deux berges de la rivière
+  - The Port-Ballon road starts at its far end; the expedition of February 1868 crosses it and leaves that road on the left (III.11 ¶40). *(My reading, to confirm.)*
+    - quote: il traversa le pont au bout duquel s’amorçait la route de Port-Ballon
 - **Made from.**
   - Trees are chosen, felled, trimmed and sawn into joists, beams and planks (II.7 ¶26). *(Drafted.)*
     - quote: débités en poutrelles, en madriers et en planches
@@ -59,4 +61,4 @@ Keywords: pont de la Mercy, bridge, pont-levis, drawbridge, contre-poids, counte
     - quote: pour que les animaux ne pussent le franchir
   - The loaded cart comes back over it at eight in the evening of the first trip to port Ballon (II.7 ¶64). *(Drafted.)*
     - quote: après avoir repassé le pont de la Mercy
-- **Appears in:** II.5, II.7, II.10, II.11, II.20, III.2, III.3, III.4, III.6
+- **Appears in:** II.5, II.7, II.10, II.11, II.20, III.2, III.3, III.4, III.6, III.11

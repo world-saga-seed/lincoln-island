@@ -87,6 +87,16 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
     - quote: lorsqu’il était gelé, leur offrait un passage facile
   - The windmill stands on it and is easily recognised from the sea (see [the windmill](../things/the-windmill.md)) (III.1 ¶79). *(Drafted.)*
     - quote: Le moulin, établi sur le plateau de Grande-Vue, est trop facilement reconnaissable
+  - It lay open to the convicts and was not swept by the fire of Granite-house (III.10 ¶18). *(Drafted.)*
+    - quote: le plateau de Grande-Vue leur était ouvert et n’était point enfilé par les feux de Granite-house
+  - The convicts, who had given way to their instinct of plunder there, left it half an hour before the colonists arrived (III.9 ¶96; III.10 ¶18). *(Drafted.)*
+    - quote: Les convicts avaient abandonné le plateau depuis une demi-heure environ, après l’avoir dévasté
+    - quote: saccageant, brûlant, faisant le mal pour le mal
+  - It is left in ruins: fields trampled, garden overturned, mill and poultry-yard burnt (III.10 ¶28, ¶29). *(Drafted.)*
+    - quote: Les champs avaient été piétinés
+    - quote: le feu avait tout détruit
+  - Granite-house holds a reserve of seeds with which to repair the damage (see [the seed reserve](../things/the-seed-reserve.md)) (III.10 ¶28). *(Drafted.)*
+    - quote: Granite-house possédait une réserve de graines qui permettait de réparer ces dommages
 - **On the page.**
   - Pigeons fly by hundreds at the crest of the plateau (I.6 ¶7). *(Drafted.)*
     - quote: ces pigeons qui volaient par centaines à la crête du plateau
@@ -99,4 +109,4 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
   - On the plateau old enormous trunks, felled by age, show dark bark against the green carpet, and noisy cockatoos hop from branch to branch (I.16 ¶27). *(Drafted.)*
     - quote: Quelques vieux troncs énormes, abattus par l’âge
     - quote: tout un monde de kakatoès bruyants
-- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18, I.19, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6
+- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18, I.19, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.9, III.10, III.11

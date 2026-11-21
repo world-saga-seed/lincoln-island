@@ -25,7 +25,7 @@ Keywords: jacamar, martin-pêcheur, kingfisher, oiseau, bird, marsh
     - quote: aussi bien sous le nom de bois du Jacamar que sous celui de forêts du Far-West
   - Jacamars swarm among the birds of the forest strip of the west coast (II.4 ¶42). *(Drafted.)*
     - quote: les oiseaux y fourmillaient, jacamars, couroucous
-- **Appears in:** I.6, I.13, II.3, II.4
+- **Appears in:** I.6, I.13, II.3, II.4, III.11
 - **Open:**
   - Who killed the jacamar of the Mercy: of Pencroff's shot the text says "son coup partit malgré lui" (II.3 ¶24), and then that the honour of the fine shot went to Harbert (II.3 ¶28). It does not say whether both fired. *(Drafted.)*
     - quote: son coup partit malgré lui

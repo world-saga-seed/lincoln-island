@@ -48,7 +48,11 @@ Keywords: marais, marécage, marsh, fen, tadornes, sheldrake, south-east, wildfo
     - quote: par la route du port Ballon, après avoir passé le pont de la Mercy
   - The road to Port-Ballon runs along its edge, with the thick forest on the other side (III.6 ¶17). *(Drafted.)*
     - quote: du côté du marais des tadornes
-- **Appears in:** I.21, I.22, II.2, II.11, II.20, III.6
+  - The vast marshes of the Tadornes are well known to the colonists (III.11 ¶24). *(Drafted.)*
+    - quote: les vastes marais des Tadornes
+  - Smith holds that the convicts crossed it after landing, and made at once for the forests of the Far-West (III.12 ¶4). *(Drafted.)*
+    - quote: après avoir traversé le marais des Tadornes
+- **Appears in:** I.21, I.22, II.2, II.11, II.20, III.6, III.11, III.12
 - **Open:**
   - Where the marshy part lies: I.11 ¶32 speaks of stagnant water "dans la portion marécageuse du nord-est", and I.21 ¶7 puts the marsh in the south-east between the Mercy and cape Griffe. Card neither as one marsh. *(Drafted.)*
     - quote: dans la portion marécageuse du nord-est

@@ -35,6 +35,8 @@ Keywords: échelle, échelle de corde, ladder, rungs, échelons, landing, palier
     - quote: qui remplaça l’échelle primitive, que personne ne songea à regretter
   - The rope ladder, no longer used since the lift was installed and long enough, is the one Smith lets down the well (II.11 ¶83). *(My reading, to confirm.)*
     - quote: l’échelle de corde qui ne servait plus depuis l’installation de l’ascenseur, et dont la longueur était suffisante
+  - The ladders that formerly served for the ascent are carried to the Chimneys and buried deep in the sand, to serve on the return (III.11 ¶33). *(My reading, to confirm.)*
+    - quote: Les échelles qui servaient autrefois à l’ascension furent apportées aux Cheminées et profondément enterrées dans le sable
 - **Made from.**
   - The uprights are fibres of the "curry-jonc" plaited with a windlass, as strong as a thick cable (see [the curry-jonc](curry-jonc.md)) (I.19 ¶19). *(Drafted.)*
     - quote: formés des fibres du « curry-jonc » tressées au moyen d’un moulinet
@@ -43,4 +45,4 @@ Keywords: échelle, échelle de corde, ladder, rungs, échelons, landing, palier
     - quote: une sorte de cèdre rouge, aux branches légères et résistantes
   - Pencroff worked it with a master’s hand (I.19 ¶19). *(Drafted.)*
     - quote: travaillé de main de maître par Pencroff
-- **Appears in:** I.19, I.22, II.6, II.7, II.9, II.11
+- **Appears in:** I.19, I.22, II.6, II.7, II.9, II.11, III.11

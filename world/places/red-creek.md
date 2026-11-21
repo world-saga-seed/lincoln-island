@@ -55,8 +55,10 @@ Keywords: Creek-Rouge, brook, stream mouth, coal seam, creek, ruisseau, terre ro
   - The corral is founded at its sources at the foot of Mont Franklin, five miles from Granite-house by the route du Corral, and a small rio from the corral meadow loses itself in it (see [the corral](corral.md)) (II.8 ¶30, ¶31, ¶32). *(Drafted.)*
     - quote: vers les sources du Creek-Rouge, au pied du mont Franklin
     - quote: allait se perdre dans le Creek-Rouge
+  - Its course is well known to the colonists (III.11 ¶24). *(Drafted.)*
+    - quote: les cours de la Mercy et du creek Rouge
 - **On the page.**
-- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4, II.7, II.8, III.6
+- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4, II.7, II.8, III.6, III.11
 - **Open:**
   - The text does not say where the creek runs or how far its mouth is from the clearing.
     - quote: vers l’embouchure du Creek-Rouge

@@ -21,6 +21,8 @@ Keywords: dragonniers, dragon trees, dracaena, liliaceae, roots, liqueur, poirea
     - quote: généralement de taille médiocre, car leur nombre avait nui à leur développement
   - Their roots give a fermented liquor, one of the island's drinks (II.8 ¶44). *(Drafted.)*
     - quote: la liqueur fermentée extraite des racines du dragonnier
+  - It is one of the known kinds that follow one another beyond sight in the forest of the Far-West (III.11 ¶42). *(My reading, to confirm.)*
+    - quote: Déodars, douglas, casuarinas, banksias, gommiers, dragonniers et autres essences déjà reconnues, se succédaient au delà des limites du regard
 - **Leads to.**
   - The roots, fermented, give a very agreeable liquor (I.15 ¶33). *(Drafted.)*
     - quote: soumises à une certaine fermentation, donnent une très-agréable liqueur
@@ -28,4 +30,4 @@ Keywords: dragonniers, dragon trees, dracaena, liliaceae, roots, liqueur, poirea
     - quote: une boisson acidulée, sorte de bière bien préférable à l’eau pure
   - Dragon-tree drink is among the dishes of the 24 October dinner (I.22 ¶74). *(Drafted.)*
     - quote: de la boisson de dragonnier
-- **Appears in:** I.15, I.20, I.22, II.4, II.8, III.6
+- **Appears in:** I.15, I.20, I.22, II.4, II.8, III.6, III.11

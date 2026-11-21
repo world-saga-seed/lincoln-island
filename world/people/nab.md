@@ -150,6 +150,22 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - His handwriting is large; his note to the corral says no pirates are near Granite-house and that he will not stir, and mourns "Pauvre M. Harbert !" (III.7 ¶95, ¶96). *(Drafted.)*
     - quote: tracés de la grosse écriture de Nab
     - quote: Point de pirates aux environs de Granite-house. Je ne bougerai pas
+  - He is called a courageous black man, well entrenched in Granite-house, whom the others do not fear to see surprised (III.9 ¶2). *(Drafted.)*
+    - quote: Le courageux nègre, bien retranché dans les profondeurs de Granite-house
+  - He writes: the note carried by Jup is "tracé de la main de Nab", and signed "Nab." (III.9 ¶62, ln2). *(Drafted.)*
+    - quote: un billet tracé de la main de Nab
+    - quote: « Nab. »
+  - He knows Jup's extreme intelligence, which has often been put to the test, and that Jup understands the word "corral" (III.10 ¶12). *(Drafted.)*
+    - quote: Il connaissait l’extrême intelligence de l’orang
+    - quote: Jup comprenait ce mot de corral
+  - With the colonists away he keeps watch near the poultry-yard, fires on a pirate about to cross the Glycérine creek, and on the day goes up to the plateau at the risk of a bullet to fight the fire (III.10 ¶8, ¶19). *(Drafted.)*
+    - quote: Nab, qui veillait près de la basse-cour, n’avait pas hésité à faire feu
+    - quote: au risque d’y recevoir quelque balle
+  - He cooks light and savoury little dishes for the convalescent Harbert (III.11 ¶16). *(Drafted.)*
+    - quote: Dieu sait quels bons petits plats, légers et savoureux, lui préparait Nab
+  - He leads the onaggas at the head of the cart, and holds their heads at the corral palisade (III.11 ¶39; III.12 ¶59). *(Drafted.)*
+    - quote: Nab se mit en tête des onaggas
+    - quote: Nab resta à la tête des onaggas pour les contenir
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -183,7 +199,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He and Pencroff carry the provisions on the march and lay out the midday meal (II.4 ¶3, ¶37). *(Drafted.)*
     - quote: Pencroff et Nab emportaient des provisions
     - quote: Nab et Pencroff disposèrent le déjeuner
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

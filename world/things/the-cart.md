@@ -32,7 +32,20 @@ Keywords: chariot, cart, wagon, hauling, hurdle, claie, transport
     - quote: un des onaggas, blessé à la jambe, ne pouvait être attelé
   - It can be drawn by a single onagga (III.6 ¶7). *(Drafted.)*
     - quote: emmenant le chariot, attelé d’un seul onagga
-- **Appears in:** I.20, I.22, II.1, II.3, II.5, II.7, II.8, II.9, II.18, III.6
+  - Ayrton had brought it to the corral; for Harbert’s return the mattresses are laid on its floor between the two side-rails, and Pencroff harnesses the onagga to it (III.9 ¶71, ¶73). *(Drafted.)*
+    - quote: le chariot qui avait été amené par Ayrton au corral
+    - quote: Pencroff y attela l’onagga
+  - At the bend of the river Nab takes it back to the Grande-Vue plateau (III.10 ¶2). *(Drafted.)*
+    - quote: laissant à Nab le soin de reconduire le chariot sur le plateau de Grande-Vue
+  - In February 1868 it is in perfect order, and is loaded with provisions, camp effects, a portable kitchen, utensils, and arms and ammunition from the Granite-house arsenal (III.11 ¶30). *(Drafted.)*
+    - quote: Le chariot était en parfait état
+    - quote: Vivres, effets de campement, cuisine portative, ustensiles divers furent chargés sur le chariot
+  - The onaggas draw it, with Nab at their head; Harbert rides in it for the first hours, and Jup is given a place beside him (III.11 ¶38, ¶39). *(Drafted.)*
+    - quote: Nab se mit en tête des onaggas
+    - quote: Harbert avait offert une place à Jup dans son véhicule
+  - Smith calls it the expedition’s wagon of ammunition and provisions, which at need can serve as a retrenchment (III.12 ¶55). *(Drafted.)*
+    - quote: c’est notre fourgon de munitions et de vivres, et, au besoin, il nous servira de retranchement
+- **Appears in:** I.20, I.22, II.1, II.3, II.5, II.7, II.8, II.9, II.18, III.6, III.9, III.10, III.11, III.12
 - **Open:**
   - Who made the cart, of what, and when is not said (I.20 ¶29). *(Drafted.)*
     - quote: une sorte de grossier chariot

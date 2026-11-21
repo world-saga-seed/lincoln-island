@@ -35,4 +35,9 @@ Keywords: ascenseur, lift, elevator, hydraulic, water power, ladder, plan
   - With the lift raised, Granite-house defies any surprise or sudden attack, and a man inside it is safe (III.6 ¶11, ¶69). *(Drafted.)*
     - quote: L’ascenseur une fois relevé, cette sûre et confortable retraite défiait toute surprise ou coup de main
     - quote: l’ascenseur une fois relevé, il serait en sûreté
-- **Appears in:** I.19, II.9, II.12, II.15, II.18, III.3, III.4, III.6
+  - It is set in motion to raise Harbert to Granite-house on 29 November (III.10 ¶3). *(Drafted.)*
+    - quote: L’ascenseur fut mis en mouvement
+  - Before the expedition of 15 February its drum is taken down, so that nothing of the apparatus is left (III.11 ¶33). *(Drafted.)*
+    - quote: le tambour de l’ascenseur fut démonté
+    - quote: il ne resta plus rien de l’appareil
+- **Appears in:** I.19, II.9, II.12, II.15, II.18, III.3, III.4, III.6, III.10, III.11

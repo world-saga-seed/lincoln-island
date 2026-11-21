@@ -128,6 +128,23 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
     - quote: Un billet était attaché à son cou
   - He has a good big head ("la bonne grosse tête du chien") (III.7 ¶94). *(Drafted.)*
     - quote: la bonne grosse tête du chien
+  - He is "le fidèle chien", the colonists' most useful auxiliary, whom the engineer will not send back to Nab for fear of a shot (III.9 ¶2). *(Drafted.)*
+    - quote: le fidèle chien
+    - quote: leur plus utile auxiliaire
+  - On a round he is a sentinel: if he does not bark there is nothing to fear, and a man's presence would be announced by half-stifled barks and a dull growl (III.9 ¶30, ¶32). *(Drafted.)*
+    - quote: Son chien l’eût averti de tout danger
+    - quote: il l’aurait annoncée par des aboiements à demi contenus et une sorte de colère sourde
+  - His nose finds a scrap of cloth in a thick bush (III.9 ¶31, ¶33). *(Drafted.)*
+    - quote: le chien se précipita vers un épais buisson et en tira un lambeau d’étoffe
+  - He greets Jup, arriving over the palisade, as a friend, and barks for joy and not for anger (III.9 ¶50, ¶57). *(Drafted.)*
+    - quote: c’était contentement, non colère
+    - quote: Top fit un véritable accueil d’ami
+  - With Jup he is sent into the thickets before the cart passes, and when the two come back with nothing signalled there is nothing to fear from convicts or beasts (III.11 ¶46). *(Drafted.)*
+    - quote: Top et Jup, qui accomplissaient consciencieusement leur mandat
+    - quote: quand le chien et l’orang revenaient sans avoir rien signalé
+  - He chases a pair of emus at full speed and is easily outdistanced (III.11 ¶54). *(Drafted.)*
+    - quote: Top s’élança après eux de toute la vitesse de ses quatre pattes
+    - quote: les casoars le distancèrent aisément
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -193,4 +210,9 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He licks Jup's hand, which hangs out of the bed, ruefully, and walks 'on tiptoe' to visit his friend (II.12 ¶57). *(Drafted.)*
     - quote: Top, marchant, on peut dire « sur la pointe des pieds », venait visiter son ami
     - quote: Top la léchait d’un air contrit
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4, III.5, III.6, III.7
+  - Just before the box of quinine is seen he barks "d’une façon étrange" (III.10 ¶62). *(Drafted.)*
+    - quote: Top, en ce moment, aboya d’une façon étrange
+  - At the corral, lying quiet with his head on his paws, he gives no sign of alarm; later, held on a leash by Nab, he breaks it, barks furiously and runs towards the back of the corral, to the bank where the five bodies lie (III.12 ¶25, ¶58, ¶102, ¶107). *(Drafted.)*
+    - quote: Top, couché à terre, sa tête allongée sur ses pattes, ne donnait aucun signe d’inquiétude
+    - quote: Top, rompant violemment sa laisse, se mit à aboyer avec fureur
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4, III.5, III.6, III.7, III.9, III.10, III.11, III.12

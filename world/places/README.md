@@ -19,6 +19,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The boatyard](the-boatyard.md) | the yard where Pencroff builds the pirogue |
 | [Bundelkund](bundelkund.md) | the Indian territory of Nemo's birth |
 | [The camp at the fall](camp-at-the-fall.md) | the night camp of 30 October at the head of the Mercy |
+| [The camp before the corral](the-camp-before-the-corral.md) | the halt six hundred paces from the palisade |
 | [Cap de la Griffe](cap-griffe.md) | the sharp south-east cape of the Union Bay |
 | [Cap Mandibule-Nord](cap-mandibule-nord.md) | the northern of the two capes of the Shark-gulf |
 | [Cap Mandibule-Sud](cap-mandibule-sud.md) | the southern of the two capes of the Shark-gulf |
@@ -27,11 +28,15 @@ A card for every place named on or off the island, each fact cited to the French
 | [The channel](the-channel.md) | the half-mile strait between the islet and the coast |
 | [Chile](chile.md) | the coast of South America east of the island's latitude |
 | [The Chimneys](the-chimneys.md) | the colonists' first shelter, with sand corridors |
+| [The Chute mouth camp](the-chute-mouth-camp.md) | the camp at the mouth of the Falls-river |
 | [The clearing](clearing-brickworks.md) | the brickworks and pottery works site |
 | [Clermont-Tonnerre](clermont-tonnerre.md) | a coral island built by polyps |
 | [The coral cemetery](coral-cemetery.md) | the burial place of the Nautilus crew, in the Pacific |
 | [The corral](corral.md) | the palisaded pasture at the Red Creek's sources, for the island's wool-bearing animals |
+| [The corral clearing](the-corral-clearing.md) | the bare meadow before the corral palisade |
+| [The corral gate](the-corral-gate.md) | the two-leaf door of the corral palisade |
 | [The corral house](the-corral-house.md) | the wooden house built at the corral for Ayrton |
+| [The corral stream](the-corral-stream.md) | the small stream that waters the corral, where five bodies lie |
 | [The crater of Mont Franklin](crater.md) | the extinct crater, with its breach and lava stair on the north |
 | [Creek-Glycérine](creek-glycerine.md) | the small stream in the ditch cut to close the plateau on the west |
 | [The dark closet](the-dark-closet.md) | the room of Granite-house where the plates are fixed |
@@ -50,6 +55,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [Granite-house](granite-house.md) | the colonists' dwelling, with an inner well |
 | [Greenwich](greenwich.md) | the meridian from which longitudes are counted |
 | [The grotto](the-grotto.md) | the excavation behind a high dune where Smith lay |
+| [Harbert’s room](harberts-room.md) | his room in Granite-house, with a window on the sea |
 | [The Irish Sea](irish-sea.md) | where the Duncan picks up the Grant bottle |
 | [The Irishman’s farm](the-irishmans-farm.md) | the farm near Cape Bernouilli where Glenarvan meets Ayrton |
 | [The jaguar’s cave](the-jaguars-cave.md) | a cavern in the rocks at the promontoire du Reptile |
@@ -124,6 +130,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [Tristan da Cunha](tristan-d-acunha.md) | the island visited by the Duncan on her way to Australia |
 | [The turtle shore](the-turtle-shore.md) | the beach two miles from Granite-house where the turtle is left |
 | [Twofold Bay](twofold-bay.md) | the bay on the east coast of Australia named in the letter to the Duncan |
+| [The unknown tributary](the-unknown-tributary.md) | the small affluent of the Mercy of the first camp |
 | [The unknown’s room](the-unknowns-room.md) | the room at Granite-house given to the Tabor castaway |
 | [The upper cave](the-upper-cave.md) | a small cave about a hundred feet down the old outlet |
 | [The veranda](the-veranda.md) | the creeper-covered shelter Nab built on the plateau's edge |

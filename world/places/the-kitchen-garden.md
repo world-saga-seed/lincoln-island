@@ -18,4 +18,6 @@ Keywords: potager, garden, vegetables, légumes, carrés, laitues, vitelottes, o
   - It is better to turn the Grande-Vue plateau into a kitchen garden, defended by its deep belt of creeks, and to carry the meadows, which need no protection from quadrumana and quadrupeds, outside it (II.16 ¶79). *(Drafted.)*
     - quote: Mieux valait, d’ailleurs, transformer en potager le plateau de Grande-Vue, défendu par sa profonde ceinture de creeks
     - quote: reporter en dehors les prairies qui n’avaient pas besoin d’être protégées contre les déprédations des quadrumanes et des quadrupèdes
-- **Appears in:** II.8, II.16
+  - The convicts overturn it (III.10 ¶28). *(Drafted.)*
+    - quote: Le potager était bouleversé
+- **Appears in:** II.8, II.16, III.10

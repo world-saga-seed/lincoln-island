@@ -82,7 +82,24 @@ Keywords: corral, enclos, palissade, mouflons, sheepfold, pen, hangars, wool, la
     - quote: la partie de l’enceinte adossée au contrefort, par laquelle une agression pouvait se produire
   - Its supplies can last a long time (III.8 ¶2). *(Drafted.)*
     - quote: dont les approvisionnements, d’ailleurs, pouvaient suffire pendant un assez long temps
-- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.7, III.8
+  - The convicts know it to be well stocked, and it holds precious resources for them (III.9 ¶12; III.10 ¶25). *(Drafted.)*
+    - quote: le corral, qu’ils savent être bien approvisionné
+    - quote: qui renfermait des ressources précieuses pour eux
+  - It lies among the buttresses of Mont Franklin (III.11 ¶24). *(Drafted.)*
+    - quote: les contreforts du mont Franklin, entre lesquels avait été établi le corral
+  - Smith judges that for the convicts it is only a place of supply, not a permanent camp (III.12 ¶6). *(Drafted.)*
+    - quote: Le corral n’est pour eux qu’un lieu d’approvisionnement, et non un campement définitif
+  - Its palisade lies at the back of a clearing, and is hidden from the Falls-river valley by a semicircular screen of tall trees six hundred paces off (see [the corral clearing](the-corral-clearing.md)) (III.12 ¶17, ¶32). *(Drafted.)*
+    - quote: Un rideau semi-circulaire de grands arbres la cachait encore
+    - quote: la clairière au fond de laquelle s’élevait l’enceinte palissadée
+  - The mouflons and goats sleep in their stables (III.12 ¶45). *(Drafted.)*
+    - quote: Les mouflons et les chèvres, endormis sans doute dans leurs étables
+  - The ridge of the buttress overlooks it (III.12 ¶99). *(Drafted.)*
+    - quote: la crête du contrefort qui dominait le corral
+  - By moonlight it shows its clumps of trees, its small stream and its broad carpet of grass; on the mountain side the house and part of the palisade stand out white, and the gate end is dark (see [the corral stream](the-corral-stream.md), [the corral gate](the-corral-gate.md)) (III.12 ¶100). *(Drafted.)*
+    - quote: Le corral s’éclaira tout entier avec ses bouquets d’arbres, le petit cours d’eau qui l’arrosait et son large tapis d’herbes
+    - quote: Du côté de la montagne, la maison et une partie de la palissade se détachaient en blanc
+- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.7, III.8, III.9, III.10, III.11, III.12
 - **Open:**
   - The stream that waters the corral meadows is "un petit rio, né sur ses pentes" that loses itself in the Red Creek in one chapter, and "ce petit ruisseau dérivé du creek Rouge" in another; card neither (II.8 ¶32; III.6 ¶88). *(Drafted.)*
     - quote: Un petit rio, né sur ses pentes, après l’avoir arrosée diagonalement, allait se perdre dans le Creek-Rouge

@@ -286,6 +286,51 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
   - By 22 November, ten days after, he is much better: he takes a little food, his colour returns, and his good eyes smile on his nurses (III.8 ¶11). *(Drafted.)*
     - quote: le 22 novembre, Harbert allait sensiblement mieux
     - quote: Les couleurs revenaient à ses joues, et ses bons yeux souriaient à ses gardes-malades
+  - He understands that his wound keeps the party divided at the corral, and it is his chief trouble (III.9 ¶3). *(Drafted.)*
+    - quote: qui comprenait bien les embarras dont il était la cause
+  - He is more impatient than any to be back at Granite-house, knowing how much the colonists' presence is needed there; he believes his strength will return sooner in his room, with the air and the sight of the sea (III.9 ¶45). *(Drafted.)*
+    - quote: Harbert était plus que tous impatient de retourner à Granite-house
+    - quote: il savait combien la présence des colons y était nécessaire
+    - quote: Il assurait que les forces lui reviendraient plus vite dans sa chambre
+  - In the cart he calls on all his energy, holding back by an act of will his strength ready to fail (III.9 ¶79). *(Drafted.)*
+    - quote: le pauvre enfant faisait appel à toute son énergie
+  - The carrying leaves him prostrate, though his half-healed wounds have not reopened (III.10 ¶5). *(Drafted.)*
+    - quote: Il craignait qu’elles ne se fussent rouvertes
+    - quote: il n’en était rien
+  - He falls into an intermittent fever, whose first fit Spilett recognises on 6 December: pallor of fingers, nose and ears, chills, then heat, then sweat; the fit lasts about five hours (III.10 ¶34, ¶35). *(Drafted.)*
+    - quote: Gédéon Spilett le reconnut le 6 décembre
+    - quote: L’accès avait duré cinq heures environ
+    - quote: d’une fièvre intermittente
+  - His liver begins to congest and his brain to be taken, and Spilett calls the fever "pernicieuse", which Harbert will, he thinks, have taken from the marshes of the island (III.10 ¶44, ¶46, ¶48). *(Drafted.)*
+    - quote: le foie d’Harbert commençait à se congestionner
+    - quote: C’est une fièvre pernicieuse !
+    - quote: Harbert aura sans doute contracté ce germe dans les marais de l’île
+  - The second fit comes about the middle of the day and lasts five hours; in his delirium he fights the convicts, calls Ayrton, and begs "cet être mystérieux, ce protecteur, disparu maintenant, et dont l’image l’obsédait" (III.10 ¶53, ¶54, ¶55). *(Drafted.)*
+    - quote: Vers le milieu de la journée, le second accès se produisit
+    - quote: L’accès dura cinq heures
+    - quote: Il suppliait cet être mystérieux, ce protecteur, disparu maintenant, et dont l’image l’obsédait
+  - The narrator calls him a courageous, good and intelligent child, far above his age, whom all love as their son (III.10 ¶58). *(Drafted.)*
+    - quote: cet enfant courageux, bon, intelligent, si supérieur à son âge, et que tous aimaient comme leur fils
+  - Given the quinine, he rests more quietly after a few hours, and the third fit does not come; the next day he is better, though liable to relapse (III.10 ¶63; III.11 ¶5, ¶8, ¶10). *(Drafted.)*
+    - quote: le troisième accès de la fièvre pernicieuse ne s’était pas manifesté
+    - quote: Au bout de quelques heures, Harbert reposait plus paisiblement
+    - quote: les fièvres intermittentes sont sujettes à de fréquentes et dangereuses récidives
+  - He enters convalescence on 20 December, weak, on a strict diet, which the docile boy obeys readily because he longs to be well (III.11 ¶11). *(Drafted.)*
+    - quote: Harbert entrait en convalescence
+    - quote: le docile enfant se soumettait si volontiers à toutes les prescriptions qu’on lui imposait
+  - The liver congestion is gone and the wounds are to be held healed for good by January; he begins to rise in the second half of the month, an hour a day, then two, then three, his constitution being vigorous (III.11 ¶19, ¶21). *(Drafted.)*
+    - quote: La congestion du foie avait disparu
+    - quote: les blessures pouvaient être considérées comme cicatrisées définitivement
+    - quote: tant sa constitution était vigoureuse
+  - He is eighteen then, tall, and promises to become a man of noble and fine bearing (III.11 ¶21). *(Drafted.)*
+    - quote: Il avait dix-huit ans alors
+    - quote: promettait de devenir un homme de noble et belle prestance
+  - He offers Jup a place in his cart on the 15 February departure, and Jup accepts without ceremony (III.11 ¶39). *(Drafted.)*
+    - quote: Harbert avait offert une place à Jup dans son véhicule
+    - quote: Jup avait accepté sans façon
+  - By 18 February he is again a vigorous, healthy boy, no longer needing the cart, and takes his place at the head of the party (III.12 ¶12). *(Drafted.)*
+    - quote: redevenu le garçon vigoureux et bien portant qu’il était avant sa maladie
+    - quote: en tête de la caravane
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -342,7 +387,16 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: de très-adroits tireurs d’arc
   - He takes his turn at the helm of the boat, relieving Pencroff every two hours through the night (II.13 ¶31). *(Drafted.)*
     - quote: Pencroff et Harbert se relayèrent de deux heures en deux heures au gouvernail
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
+  - He finds in the forest species not yet signalled on the island, tree ferns and carob trees (III.11 ¶53). *(Drafted.)*
+    - quote: Harbert découvrit des essences nouvelles, dont la présence n’avait pas encore été signalée dans l’île
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant
+  - The day of the second fit: the first fit is dated 6 December (III.10 ¶34) and the fever does not return "le jour suivant" (¶42); the day and night of anxiety are then "cette journée du 7 décembre" (¶52, where "décembre" is Wikisource's correction of the print's "novembre"), and "La journée du lendemain, 8 décembre" follows the night with the second fit (¶56). *(Drafted.)*
+    - quote: elle ne revint pas davantage le jour suivant
+    - quote: cette journée du 7 décembre
+    - quote: La journée du lendemain, 8 décembre
+  - He enters convalescence "Dix jours après, le 20 décembre", the quinine having been given on the morning of 9 December (III.11 ¶11; III.10 ¶59, ¶64). *(My reading, to confirm.)*
+    - quote: Dix jours après, le 20 décembre
+    - quote: Pendant cette nuit du 8 au 9 décembre

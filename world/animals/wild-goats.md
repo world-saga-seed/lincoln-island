@@ -18,4 +18,4 @@ Keywords: chèvre, chèvres sauvages, corral, mouflons, battue
     - quote: le troupeau de mouflons et de chèvres comptait un certain nombre de petits
   - The corral has goats that Ayrton can bring back: Nab wants a couple of them to acclimatise on the plateau's prairies (III.6 ¶54). *(Drafted.)*
     - quote: une couple de chèvres que Nab voulait acclimater sur les prairies du plateau
-- **Appears in:** II.8, II.9, II.12, III.6
+- **Appears in:** II.8, II.9, II.12, III.6, III.12

@@ -144,6 +144,32 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
   - He is called "Maître Jup"; with Top he guards the foot of Granite-house by night and would soon signal the convicts (III.4 ¶74). *(Drafted.)*
     - quote: Maître Jup et Top, de garde au pied de Granite-house
     - quote: eussent vite fait de les signaler
+  - He is "maître Jup en personne", an orang who leaps over the corral palisade, "habitué à venir fréquemment au corral" (III.9 ¶56, ¶57, ¶84). *(Drafted.)*
+    - quote: un corps bondissait par-dessus la palissade
+    - quote: C’était Jup, maître Jup en personne
+    - quote: habitué à venir fréquemment au corral
+  - He is the surest and quickest messenger, able to pass where neither the colonists nor Top could (III.9 ¶61). *(Drafted.)*
+    - quote: un plus sûr et plus rapide messager
+    - quote: qui pouvait passer là où ni les colons ni Top lui-même n’auraient peut-être pu le faire
+  - A small bag hangs from his neck with a note in it (III.9 ¶62). *(Drafted.)*
+    - quote: Au cou de Jup était pendu un petit sac
+  - He covers the five miles from Granite-house to the corral in barely three quarters of an hour (III.9 ¶84). *(Drafted.)*
+    - quote: avait mis à peine trois quarts d’heure à franchir les cinq milles
+  - He and Top "savaient se taire à propos", and on the road Jup goes armed with his stick, now ahead, now beating the wood at the sides (III.9 ¶82, ¶85). *(Drafted.)*
+    - quote: qui savaient se taire à propos
+    - quote: celui-ci armé de son bâton
+  - Nab knows his extreme intelligence, often tried; he understands the word "corral", and has often driven the cart there with Pencroff; the convicts, thinks Nab, will take him for a native of the woods (III.10 ¶12). *(Drafted.)*
+    - quote: Il connaissait l’extrême intelligence de l’orang
+    - quote: il y avait conduit le chariot en compagnie de Pencroff
+    - quote: dont les convicts, d’ailleurs, devraient le croire un des habitants naturels
+  - At Nab's "Jup ! Jup ! corral ! corral !" he seizes a long rope let down from Granite-house's door, slides to the beach and vanishes into the dark unseen (III.10 ¶13, ¶14, ¶15). *(Drafted.)*
+    - quote: L’animal comprit, saisit la corde, se laissa glisser rapidement jusqu’à la grève
+  - He accepts without ceremony a place in Harbert's cart, scouts the thickets with Top, and is particularly irritated by the monkeys' sneers in the night (III.11 ¶39, ¶46, ¶50). *(Drafted.)*
+    - quote: Jup avait accepté sans façon
+    - quote: des ricanements de singes, qui semblaient agacer particulièrement maître Jup
+  - At the corral he stays behind at Pencroff's order and is tied to the cart with Top, then, at the stream, runs to the dog and whistles shrilly (III.12 ¶58, ¶74, ¶104). *(Drafted.)*
+    - quote: Jup, sur l’ordre de Pencroff, se tenait en arrière
+    - quote: Jup, courant vers le chien, fit entendre des sifflements aigus
 - **On the page.**
   - He is the ape that took refuge in the passage and is run down by Nab; he defends himself valiantly before being thrown down and bound (II.6 ¶89, ¶96). *(Drafted.)*
     - quote: un grand singe, qui s’était réfugié dans le couloir
@@ -183,7 +209,7 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
     - quote: je t’en fais cadeau
     - quote: l’ex-pipe du marin
     - quote: il l’allumait à un charbon ardent
-- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20, III.3, III.4, III.5
+- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20, III.3, III.4, III.5, III.9, III.10, III.11, III.12
 - **Open:**
   - Whether Jup lowered the ladder is not said: Cyrus Smith says he did (II.6 ¶94), and Pencroff, the next day, speaks of "cette échelle qu'il nous a si galamment renvoyée hier" (II.7 ¶11); the chapter does not say who in fact lowered it. *(My reading, to confirm.)*
     - quote: C’est lui qui nous a jeté l’échelle

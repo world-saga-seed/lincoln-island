@@ -29,4 +29,14 @@ Keywords: route du Corral, road, chemin, corral, Red Creek, sources, cart, onagg
     - quote: Il leur restait donc encore deux milles et demi à franchir
   - Near the corral the road runs beside a small stream that irrigates the corral’s meadows (III.6 ¶88). *(Drafted.)*
     - quote: la route longeait ce petit ruisseau
-- **Appears in:** II.7, II.8, II.18, III.6
+  - It is the road that goes directly from the corral to Granite-house, and the convicts must know it (III.9 ¶83). *(Drafted.)*
+    - quote: celle qui allait directement du corral à Granite-house
+    - quote: bien qu’elle dût être connue des convicts
+  - The cart would have trouble moving under the trees, so there is no better way for it (III.9 ¶83). *(Drafted.)*
+    - quote: le chariot eût éprouvé de grandes difficultés à se mouvoir sous bois
+  - It is five miles long; on 29 November the cart covers four of them in an hour (III.9 ¶84, ¶86). *(Drafted.)*
+    - quote: les cinq milles qui le séparaient de Granite-house
+    - quote: quatre milles sur cinq avaient été franchis
+  - It runs through the part of the Jacamar wood between the Mercy and the lake (III.9 ¶87). *(Drafted.)*
+    - quote: cette partie du bois de Jacamar qui s’étendait entre la Mercy et le lac
+- **Appears in:** II.7, II.8, II.18, III.6, III.9, III.10, III.11

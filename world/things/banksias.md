@@ -9,4 +9,6 @@ Keywords: banksia, Australian tree, Red Creek, gum trees
     - quote: sous la voûte des casuarinas, des banksias et des gommiers gigantesques
   - In October, at the edge of the wood, the new foliage of the nettle trees, banksias and deodars appears among the persistent foliage of the conifers (II.20 ¶80). *(Drafted.)*
     - quote: au milieu du feuillage persistant des conifères qui formaient la lisière du bois, apparaissait déjà le feuillage nouveau des micocouliers, des banksias et des deodars
-- **Appears in:** I.12, II.20
+  - It is one of the known kinds that follow one another beyond sight in the forest of the Far-West (III.11 ¶42). *(Drafted.)*
+    - quote: Déodars, douglas, casuarinas, banksias, gommiers, dragonniers et autres essences déjà reconnues, se succédaient au delà des limites du regard
+- **Appears in:** I.12, II.20, III.11

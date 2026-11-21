@@ -14,4 +14,4 @@ Keywords: perroquet, perruche, parrot, parakeet, loris, lory, roi, blues-mountai
   - Parrots ("perroquets") are among the birds that swarm on the forest strip of the west coast, where there is no tree without a nest (II.4 ¶42). *(Drafted.)*
     - quote: tétras, loris, perroquets, kakatoès
     - quote: Pas un arbre qui n’eût un nid
-- **Appears in:** I.12, II.4
+- **Appears in:** I.12, II.4, III.11

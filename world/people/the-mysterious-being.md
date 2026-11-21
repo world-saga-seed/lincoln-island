@@ -58,7 +58,34 @@ Keywords: être mystérieux, bienfaiteur, bienfaisant inconnu, protecteur, incon
     - quote: une influence inexplicable leur était venue en aide
     - quote: avait-il donc abandonné l’île ? Avait-il succombé à son tour ?
     - quote: aucune réponse n’était possible
-- **Appears in:** III.5, III.6, III.8
+  - In his delirium Harbert begs "cet être mystérieux, ce protecteur, disparu maintenant, et dont l’image l’obsédait" (III.10 ¶55). *(Drafted.)*
+    - quote: Il suppliait cet être mystérieux, ce protecteur, disparu maintenant, et dont l’image l’obsédait
+  - The colonists hold that the one remedy against the pernicious fever is not on Lincoln Island, and at five in the morning of 9 December a small oblong box, its lid marked "Sulfate de quinine", is seen on the table by the bed, with about two hundred grains of a white powder in it (III.10 ¶58, ¶64, ¶65, ¶67, ln3; III.11 ¶1). *(Drafted.)*
+    - quote: ne se trouvait pas dans l’île Lincoln
+    - quote: C’était une petite boîte oblongue
+    - quote: Sulfate de quinine
+    - quote: environ deux cents grains d’une poudre blanche
+  - Top barks "d’une façon étrange" just before the box is seen (III.10 ¶62). *(Drafted.)*
+    - quote: Top, en ce moment, aboya d’une façon étrange
+  - The colonists ascribe the box to him: "L’influence mystérieuse s’était de nouveau exercée", his intervention "plus évidente que jamais"; how he got into Granite-house by night is "absolument inexplicable", and his way of working is as strange as the "génie de l’île" himself (III.11 ¶7, ¶8). *(Drafted.)*
+    - quote: L’influence mystérieuse s’était de nouveau exercée
+    - quote: L’intervention de l’inconnu était plus évidente que jamais
+    - quote: C’était absolument inexplicable
+    - quote: le « génie de l’île »
+  - The narrator supposes the bringer of the remedy to be not far off, and Pencroff, calling him "le vrai docteur", says he will be found and expects to give him a rough embrace (III.11 ¶10, ¶13, ¶14, ¶15). *(Drafted.)*
+    - quote: non loin, sans doute, celui qu’il l’avait apporté
+    - quote: Restait à découvrir le vrai docteur
+    - quote: On le découvrira
+    - quote: quelque rude embrassade du digne Pencroff
+  - The colonists swear not to return to Granite-house before both aims are met: to destroy the convicts and find Ayrton, and to discover "celui qui présidait si efficacement aux destinées de la colonie" (III.11 ¶23). *(Drafted.)*
+    - quote: découvrir celui qui présidait si efficacement aux destinées de la colonie
+  - The search of the Serpentine peninsula yields no sign of his retreat, "non moins secrète" than the convicts' (III.11 ¶65). *(Drafted.)*
+    - quote: ni celle, non moins secrète, qui donnait asile au mystérieux inconnu
+  - Smith says the exploration has a second aim, "un acte de reconnaissance à accomplir"; Pencroff, that they will find "ce gentleman" only if he wishes; the narrator that his retreat can be no less mysterious than he is (III.12 ¶9, ¶10, ¶11). *(Drafted.)*
+    - quote: nous avons un acte de reconnaissance à accomplir
+    - quote: nous ne trouverons ce gentleman que s’il le veut bien
+    - quote: la retraite de l’inconnu ne devait pas être moins mystérieuse qu’il ne l’était lui-même
+- **Appears in:** III.5, III.6, III.8, III.10, III.11, III.12
 - **Open:**
   - The text does not say what he is: "un naufragé comme nous peut-être" and "naufragé ou exilé" (Smith), whether he came of his own will and can leave, and whether he is still on the island (III.5 ¶3; III.6 ¶24). *(Drafted.)*
     - quote: un naufragé comme nous peut-être

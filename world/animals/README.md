@@ -26,6 +26,7 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Dugong](dugong.md) | the sea-mammal killed in Lake Grant |
 | [Echidnas](echidnas.md) | the spiny anteaters of the Jacamar Wood |
 | [Edible shellfish](edible-shellfish.md) | the coquillages of the south shore |
+| [Emus](emus.md) | the pair of tall brown Australian runners |
 | [Frigate birds](frigate-birds.md) | the frégates of the open sea |
 | [Goats of Tabor](goats-of-tabor.md) | the European goats of Tabor Island |
 | [Grebes](grebes.md) | the grèbes of the winter marsh |

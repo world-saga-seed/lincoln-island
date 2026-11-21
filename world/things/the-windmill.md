@@ -37,4 +37,9 @@ Keywords: moulin à vent, windmill, ailes, sails, meules, millstones, poivrière
   - It is too easily recognised from the sea, and its sails can be taken off to hide it (III.1 ¶79). *(Drafted.)*
     - quote: est trop facilement reconnaissable
     - quote: Qu’Ayrton et Nab aillent en démonter les ailes
-- **Appears in:** II.16, II.20, III.1
+  - Fire destroys it on the night of 28 to 29 November, with the poultry-yard buildings and the onaggas’ stable (III.9 ¶92; III.10 ¶29). *(Drafted.)*
+    - quote: une épaisse fumée qui tourbillonnait au-dessus du moulin
+    - quote: Quant au moulin et aux bâtiments de la basse-cour, à l’étable des onaggas, le feu avait tout détruit
+  - Smith will not raise it again until the island is cleared of the convicts (III.11 ¶20). *(Drafted.)*
+    - quote: Quant à relever les bâtiments de la basse-cour, le moulin, les écuries, Cyrus Smith préféra attendre
+- **Appears in:** II.16, II.20, III.1, III.9, III.10, III.11

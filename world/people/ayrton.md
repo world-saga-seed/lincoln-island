@@ -241,6 +241,19 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: Il n’y avait aucune trace d’Ayrton
     - quote: les munitions, dont Ayrton était approvisionné, avaient disparu avec lui
     - quote: Ayrton avait été, sans aucun doute, massacré par ces misérables
+  - Cyrus Smith vouches for his fidelity when Pencroff voices a suspicion of him, and Spilett with him (III.9 ¶21, ¶22). *(Drafted.)*
+    - quote: Je garantis la fidélité d’Ayrton !
+    - quote: Moi aussi, ajouta vivement le reporter
+  - A scrap of his jacket, of the felt made only in the Granite-house workshop, is dragged from a thicket by Top; Smith reads from it that he resisted and was taken away against his will, and Pencroff that he was carried off alive, not killed at the corral (III.9 ¶35, ¶36, ¶39). *(Drafted.)*
+    - quote: un morceau de la veste d’Ayrton, morceau de ce feutre uniquement fabriqué à l’atelier de Granite-house
+    - quote: il y a eu résistance de la part du malheureux Ayrton
+    - quote: C’est qu’on l’a entraîné vivant, puisqu’il a résisté
+  - While he is missing, Smith and Harbert keep some hope of finding him, but the others no longer doubt that he has fallen (III.11 ¶18). *(Drafted.)*
+    - quote: si l’ingénieur et Harbert conservaient encore quelque espoir de le retrouver
+    - quote: ne mettaient plus en doute que le malheureux n’eût succombé
+  - Among the five men whose footprints are found at a recent fire he leaves no track: a sixth footprint would have been his, and the colonists find none, whence they conclude there is no hope of seeing him again (III.11 ¶55, ¶63). *(Drafted.)*
+    - quote: on ne put découvrir une sixième empreinte, qui, dans ce cas, eût été celle du pied d’Ayrton
+    - quote: il n’y avait plus à conserver aucun espoir de jamais le revoir
 - **On the page.**
   - He stands respectfully aside in a corner of the magnificent salon (III.16 ¶8). *(Drafted.)*
     - quote: dans un angle de ce magnifique salon
@@ -301,6 +314,18 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
   - He reappears on 3 December, unforeseen where Harbert is fishing, and is wounded at the shoulder under his torn jacket (II.16 ¶98, ¶103, ¶108). *(Drafted.)*
     - quote: dont personne n’eût pu soupçonner la présence en cet endroit
     - quote: sous sa veste déchirée
+  - He is found on 19 February in the corral house, lying asleep on his old bed beside a lit lantern, with no one by (III.12 ¶79, ¶80, ¶84). *(Drafted.)*
+    - quote: Près de la table était le lit qui servait autrefois à Ayrton
+    - quote: Sur le lit reposait le corps d’un homme
+    - quote: Ayrton paraissait dormir
+  - His face shows that he has long and cruelly suffered, and there are wide bruises at his wrists and ankles (III.12 ¶84). *(Drafted.)*
+    - quote: Son visage attestait qu’il avait longuement et cruellement souffert
+    - quote: À ses poignets et à ses chevilles se voyaient de larges meurtrissures
+  - Woken, he opens his eyes and looks at Smith and the others ("Vous, vous ?"), asks where he is and whether he is alone, and on being told yes cries that "they" are coming and the colonists must defend themselves, then falls back exhausted (III.12 ¶87, ¶90, ¶92, ¶94, ¶95). *(Drafted.)*
+    - quote: Vous, s’écria-t-il, vous ?
+    - quote: Seul ?
+    - quote: Mais ils vont venir ! s’écria Ayrton !
+    - quote: Et Ayrton retomba épuisé
 - **Habits.**
   - He refuses to go up to Granite-house at mealtimes, eats a few raw vegetables, and sleeps out under a clump of trees, or in a hollow of the rocks in bad weather (II.16 ¶65). *(Drafted.)*
     - quote: il ne remontait point à Granite-house
@@ -310,7 +335,7 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: il vivait encore comme au temps où il n’avait d’autre abri que les forêts de l’île Tabor
   - After the jaguar he goes back to his old life: he does not come to the meals, sleeps under the trees of the plateau and never mixes with his companions (II.17 ¶4). *(Drafted.)*
     - quote: n’assistant point aux repas, couchant sous les arbres du plateau, ne se mêlant jamais à ses compagnons
-- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
+- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
 - **Open:**
   - The editor warns, in a note that recalls the one on Ayrton's adventures, of a "discordance de quelques dates" with the earlier books (III.16 n1); the card cannot say which dates. *(Drafted.)*
     - quote: sur la discordance de quelques dates
@@ -344,3 +369,7 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: les mauvais jours étaient venus avec le mois de mai
     - quote: Ayrton les attendait sur la grève
     - quote: il fut décidé qu’il viendrait à Granite-house pendant l’absence de ses compagnons
+  - The chief of the escaped convicts: the colonists suppose one of the convicts has found in Ayrton "un ancien compagnon d’Australie, le Ben Joyce, le chef des convicts évadés", as if Ben Joyce were another man (III.9 ¶41); his own tale says that under the name of Ben Joyce he became chief of escaped convicts, and "Ayrton ou Ben Joyce et moi, nous ne faisons qu’un" (II.17 ¶60, ¶84). *(Drafted.)*
+    - quote: un ancien compagnon d’Australie, le Ben Joyce, le chef des convicts évadés
+    - quote: il était devenu, sous le nom de Ben Joyce, le chef de convicts évadés
+    - quote: Ayrton ou Ben Joyce et moi, nous ne faisons qu’un

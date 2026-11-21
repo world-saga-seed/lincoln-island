@@ -39,4 +39,6 @@ Keywords: eucalyptus, gum tree, manna, Australian tree, arbre, manne sucrée
     - quote: au milieu d’une contrée couverte d’eucalyptus, qui dominaient tous les bois de cette portion de l’île
   - They are among the trees of the forest cut through on 31 October, generally of medium size (II.4 ¶5). *(Drafted.)*
     - quote: des gommiers, des eucalyptus
-- **Appears in:** I.12, II.3, II.4
+  - With the kauris, eucalyptus are the dominant trees of the Serpentine peninsula’s forest, of gigantic size (III.12 ¶1). *(Drafted.)*
+    - quote: Les essences dominantes étaient précisément ces kauris et ces eucalyptus qui prenaient des dimensions gigantesques
+- **Appears in:** I.12, II.3, II.4, III.12

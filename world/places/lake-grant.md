@@ -90,7 +90,13 @@ Keywords: lac Grant, pond, shore, water, west bank, lac Grant, creek, déversoir
     - quote: surélever de deux à trois pieds le niveau des eaux du lac
   - Medicinal plants grow on its banks, where Harbert has gathered them (III.7 ¶45). *(Drafted.)*
     - quote: celles-là mêmes que le jeune garçon avait cueillies sur les berges du lac Grant
-- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, II.7, II.8, III.16, III.6, III.7
+  - The poultry fly to its waters during the fire of 28 to 29 November and return to its banks (III.10 ¶30). *(Drafted.)*
+    - quote: Les volatiles, qui s’étaient réfugiés pendant l’incendie sur les eaux du lac
+  - There are willows on its edge (see [the willow bark](../things/willow-bark.md)) (III.10 ¶38). *(Drafted.)*
+    - quote: il y a des saules sur le bord du lac
+  - Its surroundings are well known to the colonists (III.11 ¶24). *(Drafted.)*
+    - quote: les environs du lac Grant
+- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, II.7, II.8, III.16, III.6, III.7, III.10, III.11
 - **Open:**
   - The text gives the lake no size.
     - quote: du lac Grant

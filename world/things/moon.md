@@ -20,7 +20,9 @@ Keywords: lune, croissant, crescent, moon, reflection, sea, western horizon
     - quote: La lune nouvelle, emportée dans l’irradiation solaire, avait disparu
   - On 18 October it has been new for two days (III.4 ¶17). *(Drafted.)*
     - quote: la lune était nouvelle depuis deux jours
-- **Appears in:** I.10, I.21, II.3, II.13, III.1, III.4
+  - On the night of 19 February it appears in the east above the black screen of the forest (III.12 ¶100). *(Drafted.)*
+    - quote: la lune apparut dans l’est au-dessus du noir rideau de la forêt
+- **Appears in:** I.10, I.21, II.3, II.13, III.1, III.4, III.12
 - **Open:**
   - The phase: III.1 ¶97 and III.4 ¶17 give a new moon about 16 to 17 October; II.19 ¶73 says "aujourd’hui pleine lune" in April, which six lunations later would put the full moon in mid-October. Card neither (III.1 ¶97; III.4 ¶17; II.19 ¶73). *(My reading, to confirm.)*
     - quote: c’est aujourd’hui pleine lune

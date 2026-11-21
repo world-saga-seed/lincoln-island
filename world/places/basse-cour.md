@@ -42,4 +42,12 @@ Keywords: basse-cour, poultry yard, volaille, palissade, cahutes, tinamous, cana
     - quote: ramener sa population à un chiffre plus modéré
   - The winter gales damage it, with the windmill, more than other places, and urgent repairs are needed to save the fowl (II.20 ¶75). *(Drafted.)*
     - quote: Le moulin et la basse-cour eurent particulièrement à souffrir
-- **Appears in:** II.7, II.8, II.9, II.11, II.17, II.18, II.20, III.2
+  - Smoke whirls over its buildings on the morning of 29 November (III.9 ¶92). *(Drafted.)*
+    - quote: une épaisse fumée qui tourbillonnait au-dessus du moulin, des étables et des bâtiments de la basse-cour
+  - Its buildings burn, and Nab, who tried to put out the fire, fought it in vain until the cart appeared (III.10 ¶19). *(Drafted.)*
+    - quote: l’incendie qui consumait les bâtiments de la basse-cour
+  - The fowl that had taken refuge on the lake during the fire return to their usual place and paddle on the banks (III.10 ¶30). *(Drafted.)*
+    - quote: Les volatiles, qui s’étaient réfugiés pendant l’incendie sur les eaux du lac, revenaient déjà à leur emplacement habituel
+  - Smith leaves its buildings unrebuilt, preferring to wait (III.11 ¶20). *(Drafted.)*
+    - quote: Quant à relever les bâtiments de la basse-cour
+- **Appears in:** II.7, II.8, II.9, II.11, II.17, II.18, II.20, III.2, III.9, III.10, III.11

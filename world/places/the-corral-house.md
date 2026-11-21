@@ -17,12 +17,8 @@ Keywords: maison du corral, Ayrton, wooden house, demeure, habitation, cabin, st
     - quote: des armes, des munitions, des outils furent transportés au corral
   - The installations at the corral are finished on 20 December (II.17 ¶30). *(Drafted.)*
     - quote: C’était le 20 décembre que les installations avaient été achevées au corral
-  - Ayrton asks to be left alone in it for some time ("cette habitation du corral") (II.17 ¶91). *(Drafted.)*
-    - quote: laissez-moi seul dans cette habitation du corral
   - Ayrton takes possession of the dwelling prepared for him, in the first days of January 1867 (II.18 ¶25). *(Drafted.)*
     - quote: Ayrton avait pris possession de la demeure qui lui avait été préparée
-  - Ayrton answers there the telegram that Smith sends on 12 February (see [the telegraph](../things/the-telegraph.md)) (II.18 ¶49). *(Drafted.)*
-    - quote: reçut, quelques instants après, une réponse satisfaisante d’Ayrton
   - Ayrton leaves it for Granite-house about mid-April, once the last work at the corral is finished, and goes back to it for some days in the second half of October to repair the damage of the winter (II.20 ¶73, ¶78). *(Drafted.)*
     - quote: dès que les derniers travaux du corral seraient terminés
     - quote: dans la seconde quinzaine d’octobre, il retourna passer quelques jours au corral
@@ -32,7 +28,18 @@ Keywords: maison du corral, Ayrton, wooden house, demeure, habitation, cabin, st
   - It has a fireplace, and is stocked with what life needs, which the convicts, frightened by the colonists’ coming, had no time to pillage (III.7 ¶45; III.8 ¶2). *(Drafted.)*
     - quote: dans la Cheminée de l’habitation, qui ne manquait pas des choses nécessaires à la vie
     - quote: n’avaient pas eu le temps de la mettre au pillage
-- **Appears in:** II.17, II.18, II.20, III.6, III.7, III.8
+  - It is well fitted out and stocked, but lacks the comfort and the safety of the granite dwelling; its guests are always under the threat of a gunshot (III.9 ¶1). *(Drafted.)*
+    - quote: Quelque bien aménagée et approvisionnée que fût l’habitation du corral
+    - quote: y étaient toujours sous la menace de quelque coup de feu des convicts
+  - It has a room that is Harbert’s (III.9 ¶48). *(Drafted.)*
+    - quote: dans la chambre d’Harbert
+  - The ground floor is a single room, lit by a window with panes, and has a door (III.12 ¶71, ¶76, ¶78). *(Drafted.)*
+    - quote: à travers les vitres de la fenêtre qui leur faisait face
+    - quote: Son regard plongea dans l’unique pièce, formant le rez-de-chaussée de la maison
+  - On the night of 19 February a lit lantern stands on its table and Ayrton’s old bed beside it (see [the corral lantern](../things/the-corral-lantern.md)) (III.12 ¶79). *(Drafted.)*
+    - quote: Sur la table brillait un fanal allumé
+    - quote: Près de la table était le lit qui servait autrefois à Ayrton
+- **Appears in:** II.17, II.18, II.20, III.6, III.7, III.8, III.9, III.12
 - **Open:**
   - The date: the house is ready before the week is out (II.17 ¶28) and the installations are finished on 20 December (II.17 ¶30), though the request was made on 10 December (II.17 ¶10); whether the house and "les installations" are one work is not said (II.17 ¶10, ¶28, ¶30). *(My reading, to confirm.)*
     - quote: Le 10 décembre, une semaine après son retour à Granite-house

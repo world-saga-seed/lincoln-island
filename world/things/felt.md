@@ -29,4 +29,6 @@ Keywords: feutre, felt, foulage, fulling, laine, wool, vêtements, couvertures, 
   - With it the colonists have good clothes and thick blankets, and can face the winter of 1866-67 without fear (see [the felt clothes](felt-clothes.md)) (II.11 ¶9). *(Drafted.)*
     - quote: de bons vêtements, d’épaisses couvertures
     - quote: l’hiver de 1866-67
-- **Appears in:** II.11, II.20
+  - It is made only in the Granite-house workshop (III.9 ¶35). *(Drafted.)*
+    - quote: de ce feutre uniquement fabriqué à l’atelier de Granite-house
+- **Appears in:** II.11, II.20, III.9

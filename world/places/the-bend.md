@@ -9,10 +9,6 @@ Keywords: coude, elbow, turn, river bend, forest edge, landmark
     - quote: À partir du coude qui reportait son cours dans le sud-ouest
   - It is the bend of the river that the hunters reach going up the bank, where Pencroff stops to ask whether to begin as hunters or woodcutters (I.9 ¶82). *(Drafted.)*
     - quote: arrivés au coude que formait la rivière
-  - Pencroff plans to come back there for the wood supply after the hunt (I.9 ¶85). *(Drafted.)*
-    - quote: nous reviendrons ici faire notre provision de bois
-  - It is half an hour's walk back from the pond (I.9 ¶117). *(Drafted.)*
-    - quote: Une demi-heure après, ils arrivaient au coude de la rivière
   - From there, as the first time, Pencroff quickly set up a raft of logs, the card's own link to the bend (I.9 ¶118). *(My reading, to confirm.)*
     - quote: Ainsi qu’il l’avait fait la première fois, Pencroff établit rapidement un train de bois
   - It is the bend of the Mercy at the very angle where, seven months before, Pencroff had made his first raft; the text thus confirms the card’s reading that the bend of I.4 and the bend of I.9 are the one (II.3 ¶10). *(Drafted.)*
@@ -27,4 +23,7 @@ Keywords: coude, elbow, turn, river bend, forest edge, landmark
     - quote: L’endroit parut convenable
   - It is the point from which the road to port Ballon is cut through the Far-West (see [the road to port Ballon](port-ballon-road.md)) (II.7 ¶61). *(Drafted.)*
     - quote: depuis le coude de la Mercy jusqu’au port Ballon
-- **Appears in:** I.6, I.9, II.3, II.5, II.7
+  - The cart is brought to the bend of the river on 29 November, ten minutes from the foot of the wall of Granite-house (III.10 ¶2). *(My reading, to confirm.)*
+    - quote: Le chariot fut amené au coude de la rivière
+    - quote: Dix minutes après
+- **Appears in:** I.6, I.9, II.3, II.5, II.7, III.10

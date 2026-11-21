@@ -42,4 +42,8 @@ Keywords: côte occidentale, west shore, littoral, forest coast, lisière, Pacif
     - quote: quelques troncs d’arbres qui flottaient çà et là
   - The southern portion is wooded and green and the northern harsh and wild (see [the basalt coast](the-basalt-coast.md)) (II.19 ¶47). *(Drafted.)*
     - quote: Quel contraste entre la portion sud et la portion nord de cette côte
-- **Appears in:** II.3, II.4, II.5, II.19
+  - Its wooded and marshy fringe has been explored only imperfectly (III.11 ¶25). *(Drafted.)*
+    - quote: la lisière forestière et marécageuse de la côte ouest
+  - No traces of the convicts are found along it (see [the convicts’ traces](../things/the-convicts-traces.md)) (III.12 ¶3). *(Drafted.)*
+    - quote: Sur la côte occidentale, on ne retrouva plus aucunes traces
+- **Appears in:** II.3, II.4, II.5, II.19, III.11, III.12

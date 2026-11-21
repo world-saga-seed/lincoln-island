@@ -34,4 +34,10 @@ Keywords: promontoire du Reptile, Reptile-end, queue, reptile, extremity, south-
     - quote: la côte s’arrondissait sur une distance de cinq milles
   - Of the ninety miles of the island’s perimeter, the south coast counts about twenty from port Ballon to it (II.19 ¶40). *(Drafted.)*
     - quote: la côte sud en comptait une vingtaine depuis le port jusqu’au promontoire
-- **Appears in:** I.11, I.20, II.1, II.4, II.5, II.19
+  - The coast of Washington Bay from the cap de la Griffe to the promontoire du Reptile has been explored only imperfectly (III.11 ¶25). *(Drafted.)*
+    - quote: depuis le cap Griffe jusqu’au promontoire du Reptile
+  - On 16 February the camp is thought to lie not more than five miles from it (III.11 ¶64). *(Drafted.)*
+    - quote: il ne devait pas être à plus de cinq milles du promontoire du Reptile
+  - The forest shore stretches from it to the Falls-river (III.12 ¶1). *(Drafted.)*
+    - quote: le littoral depuis le promontoire du Reptile jusqu’à la rivière de la Chute
+- **Appears in:** I.11, I.20, II.1, II.4, II.5, II.19, III.11, III.12

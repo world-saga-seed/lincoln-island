@@ -78,3 +78,5 @@
 | 2026-11-21 | agent, Sonnet: carder w11b (places, things) | phase 4 | 04300 to 04600 | 15923 | the four chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 226,870 | 39 | 11.2 |
 | 2026-11-21 | agent, Sonnet: carder w12a (people, animals) | phase 4 | 04700 to 05000 | 11406 | the four chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 145,671 | 21 | 5.0 |
 | 2026-11-21 | agent, Sonnet: carder w12b (places, things) | phase 4 | 04700 to 05000 | 11406 | the four chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 200,877 | 31 | 8.7 |
+| 2026-11-21 | agent, Sonnet: carder w13a (people, animals) | phase 4 | 05100 to 05400 | 12526 | the four chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended; ran git status once | 154,121 | 25 | 5.7 |
+| 2026-11-21 | agent, Sonnet: carder w13b (places, things) | phase 4 | 05100 to 05400 | 12526 | the four chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 204,248 | 34 | 10.6 |

@@ -43,4 +43,4 @@ Keywords: tétras, grouse, gallinacé, gélinotte, game, ligne, hameçon, fishin
     - quote: toute la chair de tétras avait été consommée
   - Their ground is the marshy part of the forest, where Pencroff made "sa pêche aux tétras" (I.9 ¶88). *(Drafted.)*
     - quote: cette partie marécageuse de la forêt, dans laquelle il avait si heureusement opéré sa pêche aux tétras
-- **Appears in:** I.6, I.7, I.8, I.9, II.4
+- **Appears in:** I.6, I.7, I.8, I.9, II.4, III.11

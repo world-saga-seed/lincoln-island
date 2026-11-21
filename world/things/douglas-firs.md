@@ -16,4 +16,6 @@ Keywords: douglas, sapin, conifer, tree, North-West coast, bark, écorce, pirogu
   - They are among the trees of the forest cut through on 31 October, most already known round the lake and the Grande-Vue plateau, and generally of medium size (II.4 ¶5). *(Drafted.)*
     - quote: des déodars, des douglas, des casuarinas
     - quote: la plupart avaient été déjà reconnus aux environs du lac et du plateau de Grande-Vue
-- **Appears in:** I.6, II.1, II.4
+  - It is one of the known kinds that follow one another beyond sight in the forest of the Far-West (III.11 ¶42). *(Drafted.)*
+    - quote: Déodars, douglas, casuarinas, banksias, gommiers, dragonniers et autres essences déjà reconnues, se succédaient au delà des limites du regard
+- **Appears in:** I.6, II.1, II.4, III.11

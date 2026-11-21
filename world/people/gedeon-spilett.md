@@ -272,6 +272,25 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He counts Ayrton's reserve to his honour, and holds that his feeling for his sad past is to be respected (III.5 ¶50). *(Drafted.)*
     - quote: sa réserve lui fait honneur
     - quote: il convient de respecter ce sentiment qu’il a de son triste passé
+  - He reads Top's behaviour on his rounds: a dog that gives no half-stifled bark and no dull growl means danger is neither near nor close (III.9 ¶30, ¶32). *(Drafted.)*
+    - quote: Son chien l’eût averti de tout danger
+    - quote: c’est que le danger n’était ni prochain, ni proche
+  - Fearing, rightly, that Harbert's badly healed wounds would reopen on the road, he does not give the order to leave the corral (III.9 ¶46). *(Drafted.)*
+    - quote: craignant, avec raison, que les plaies d’Harbert, mal cicatrisées, ne se rouvrissent en route
+  - He knows an intermittent fever by its stages and that it must be cut with a febrifuge, and that willow bark can sometimes replace quinine (III.10 ¶35, ¶36, ¶38). *(Drafted.)*
+    - quote: il fallait à tout prix la couper
+    - quote: il faut un fébrifuge
+    - quote: l’écorce de saule peut quelquefois remplacer la quinine
+  - He knows that a pernicious fever left uncut by quinine is always mortal at its third fit, and that the willow bark is insufficient (III.10 ¶48, ¶50). *(Drafted.)*
+    - quote: un troisième accès de fièvre pernicieuse qu’on ne coupe pas au moyen de la quinine est toujours mortel
+    - quote: Elle est insuffisante
+  - He knows the white powder at once by its extreme bitterness as the alkaloid of cinchona, and gives Harbert about eighteen grains of it in a cup of coffee (III.11 ¶1, ¶4). *(Drafted.)*
+    - quote: L’extrême amertume de cette substance ne pouvait le tromper
+    - quote: C’était bien le précieux alcaloïde du quinquina
+    - quote: y jeta environ dix-huit grains
+  - Pencroff calls him "le docteur Spilett" from then on, and he shows himself very strict with the convalescent, who must submit to his physician's prescriptions (III.11 ¶12, ¶21, ¶38). *(Drafted.)*
+    - quote: le docteur Spilett se montrait fort sévère
+    - quote: le jeune garçon dut se soumettre aux prescriptions de son médecin
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -324,7 +343,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
   - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

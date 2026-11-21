@@ -21,4 +21,6 @@ Keywords: cap Mandibule-Sud, Mandible-cape, south jaw, north-east, point
     - quote: Du cap Mandibule à l’embouchure de la Mercy, on ne comptait guère qu’une huitaine de milles
   - The rocks of "cap Mandibule" lie nearly five miles from Granite-house; the text does not say which of the two capes is meant (III.5 ¶41). *(My reading, to confirm.)*
     - quote: les roches du cap Mandibule, à près de cinq milles de Granite-house
-- **Appears in:** I.11, I.14, I.15, I.19, II.20, III.1, III.3, III.5
+  - The east coast from the cap de la Griffe to the Mandibule capes is thoroughly known (III.11 ¶24). *(My reading, to confirm.)*
+    - quote: toute la côte orientale depuis le cap Griffe jusqu’aux caps Mandibules
+- **Appears in:** I.11, I.14, I.15, I.19, II.20, III.1, III.3, III.5, III.11

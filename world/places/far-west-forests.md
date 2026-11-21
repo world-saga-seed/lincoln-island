@@ -59,7 +59,27 @@ Keywords: Far-West, forêts, bois, woods, forest, Serpentine, impenetrable, for�
     - quote: les rayons solaires perçaient à peine l’épaisse ramure
   - They are thick, and extend to the end of the Serpentine peninsula (III.6 ¶2). *(Drafted.)*
     - quote: ces épaisses forêts du Far-West, qui s’étendaient jusqu’à l’extrémité de la presqu’île Serpentine
-- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12, II.18, III.6, III.8
+  - The expedition of February 1868 sets out through the Far-West so as to take in the whole part on the right of the Mercy (III.11 ¶27). *(Drafted.)*
+    - quote: l’expédition se porterait à travers le Far-West, de manière à englober toute la partie située sur la droite de la Mercy
+  - The first two miles beyond the bridge have widely spaced trees and the cart passes freely, with only lianas and brush to cut (III.11 ¶41). *(Drafted.)*
+    - quote: les arbres, largement espacés, permirent au chariot de circuler librement
+  - Its thick boughs keep a cool shade on the ground (III.11 ¶42). *(Drafted.)*
+    - quote: L’épaisse ramure des arbres entretenait une ombre fraîche sur le sol
+  - Its trees are those already known (deodars, douglas firs, casuarinas, banksias, gum trees, dragon trees), and the island’s usual birds and beasts are all there (III.11 ¶42). *(Drafted.)*
+    - quote: Déodars, douglas, casuarinas, banksias, gommiers, dragonniers et autres essences déjà reconnues, se succédaient au delà des limites du regard
+    - quote: Le monde des oiseaux habituels à l’île s’y retrouvait au complet
+  - The animals there are more timid than before (see [the convicts’ traces](../things/the-convicts-traces.md)) (III.11 ¶43). *(Drafted.)*
+    - quote: ces animaux, quadrupèdes et volatiles, sont plus craintifs qu’autrefois
+  - There Harbert finds new kinds of trees (see [the carob trees](../things/carob-trees.md), [the tree ferns](../things/tree-ferns.md), [the kauri](../things/kauri.md)) (III.11 ¶53). *(Drafted.)*
+    - quote: Harbert découvrit des essences nouvelles, dont la présence n’avait pas encore été signalée dans l’île
+  - The fauna shows no species beyond those the hunters already know (III.11 ¶54). *(Drafted.)*
+    - quote: elle ne présenta pas d’autres échantillons que ceux dont les chasseurs avaient eu connaissance jusqu’alors
+  - Where it covers the Serpentine peninsula its trees, by their height and thick boughs, attest the vegetative power of the soil, more astonishing there than anywhere else on the island; it is like a corner of the virgin forests of America or Central Africa (III.12 ¶1). *(Drafted.)*
+    - quote: attestaient la puissance végétative du sol, plus étonnante ici qu’en aucune autre portion de l’île
+    - quote: On eût dit un coin de ces forêts vierges de l’Amérique ou de l’Afrique Centrale
+  - The soil is damp at its upper layer but heated within by volcanic fires, which gives the trees a warmth that a temperate climate could not (III.12 ¶1). *(My reading, to confirm.)*
+    - quote: humide à sa couche supérieure, mais chauffé à l’intérieur par des feux volcaniques
+- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12, II.18, III.6, III.8, III.11, III.12
 - **Open:**
   - How much of the great forest the name covers: I.11 ¶32 says the trees make "two thirds" of the island a forest; I.11 ¶27 has the forest cover the whole south from the mountain to the shore; ¶81 gives the name to the woods of the Serpentine peninsula. The three do not say how they overlap, nor whether it takes in [the evergreen forest](the-evergreen-forest.md) or [the wood of the Jacamar](jacamar-wood.md). Card neither.
     - quote: très-boisée dans toute sa portion méridionale depuis la montagne jusqu’au littoral

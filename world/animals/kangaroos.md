@@ -32,4 +32,4 @@ Keywords: kangourou, kangaroo, bond, leap, gibier, game, venaison, venison, broc
   - Kangaroos pass within good range of Harbert's gun in the Far-West forest, on the left of the Mercy, and escape it (II.9 ¶44). *(Drafted.)*
     - quote: bien des kangourous, des cabiais ou des agoutis passèrent à bonne portée
     - quote: échappèrent pourtant au fusil du jeune garçon
-- **Appears in:** I.12, I.19, I.22, II.1, II.4, II.8, II.9
+- **Appears in:** I.12, I.19, I.22, II.1, II.4, II.8, II.9, III.11

@@ -52,6 +52,14 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
     - quote: quelques jours de repos lui étaient nécessaires
   - The cart can be drawn by a single onagga (III.6 ¶7). *(Drafted.)*
     - quote: emmenant le chariot, attelé d’un seul onagga
+  - One of them is harnessed to the cart by Pencroff and draws Harbert at a slow step, the journey being made with the mattresses laid in the cart (III.9 ¶73, ¶82). *(Drafted.)*
+    - quote: Pencroff y attela l’onagga
+    - quote: l’onagga, dirigé par Pencroff, s’avança d’un pas lent
+  - Their stable on the plateau is destroyed by fire in the convicts' raid (III.10 ¶29). *(Drafted.)*
+    - quote: à l’étable des onaggas, le feu avait tout détruit
+  - Well rested, they can give a long haul; they browse the carob pods with greed on the expedition (III.11 ¶30, ¶53). *(Drafted.)*
+    - quote: Les onaggas, bien reposés, pourraient fournir une longue traite
+    - quote: dont les onaggas broutèrent avec avidité les longues gousses
 - **On the page.**
   - They enter the plateau on 23 December because the small bridges had not been closed (II.7 ¶52, ¶53). *(Drafted.)*
     - quote: Un jour, le 23 décembre
@@ -61,4 +69,4 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
   - They are first put to the cart at the end of December, for the trip to Port Balloon, with Pencroff walking at their head (II.7 ¶61, ¶63). *(Drafted.)*
     - quote: ce fut vers la fin de décembre qu’on essaya pour la première fois les onaggas
     - quote: Pencroff, qui marchait à la tête de ses bêtes
-- **Appears in:** II.7, II.8, II.9, II.16, II.18, III.6
+- **Appears in:** II.7, II.8, II.9, II.16, II.18, III.6, III.9, III.10, III.11, III.12

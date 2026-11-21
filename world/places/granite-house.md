@@ -194,6 +194,20 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
   - A small diversion from the lake feeds the reservoir of Granite-house and works the lift; with the lift raised, the retreat defies any surprise or sudden attack (III.6 ¶11). *(Drafted.)*
     - quote: la petite dérivation qui servait à l’alimentation du réservoir de Granite-house et à la manœuvre de l’ascenseur
     - quote: cette sûre et confortable retraite défiait toute surprise ou coup de main
+  - It is the sound dwelling of granite; in the midst of that impregnable, inaccessible massif the colonists would have nothing to fear, and any attempt against them would have to fail (III.9 ¶1). *(Drafted.)*
+    - quote: la saine demeure de granit
+    - quote: cet inexpugnable et inaccessible massif
+  - The convicts cannot reach Nab in it (III.10 ¶11). *(Drafted.)*
+    - quote: les convicts ne pouvaient l’atteindre dans Granite-house
+  - Its fire does not sweep the Grande-Vue plateau (III.10 ¶18). *(Drafted.)*
+    - quote: n’était point enfilé par les feux de Granite-house
+  - Harbert’s bed stands by one of its windows (see [Harbert’s room](harberts-room.md)) (III.11 ¶16). *(Drafted.)*
+    - quote: son lit, placé près d’une des fenêtres de Granite-house
+  - Its arsenal is now very complete (III.11 ¶30). *(Drafted.)*
+    - quote: l’arsenal maintenant si complet de Granite-house
+  - On 15 February Smith closes it against any invasion: the lift’s drum is taken down, and Pencroff goes out by a rope (see [the hydraulic lift](../things/the-hydraulic-lift.md) and [the descent rope](../things/the-descent-rope.md)) (III.11 ¶31, ¶33). *(Drafted.)*
+    - quote: L’inaccessible demeure pouvait se garder toute seule
+    - quote: pour mettre Granite-house à l’abri de toute invasion
 - **On the page.**
   - The well is at the cavern’s end (see [the well](the-well.md)); Top’s barking finds nothing in the cavern, and Smith murmurs that Top knows more than they do about many things (I.18 ¶56). *(Drafted.)*
     - quote: Top en sait plus long que nous sur bien des choses
@@ -203,7 +217,7 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: la corde du haut de Granite-house
   - Nemo summoned the colonists of Granite-house by a wire linking the corral to the Nautilus (III.16 ¶66). *(Drafted.)*
     - quote: il manda, comme on sait, les colons de Granite-house
-- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, II.18, II.20, III.16, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
+- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, II.18, II.20, III.16, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11
 - **Open:**
   - Chapter I.13 knows no Granite-house: there the engineer still hopes to find or build a better dwelling than the Chimneys (I.13 ¶40). Nothing in these chapters says where Granite-house stands, how big it is, or how the well opens inside it.
     - quote: une demeure plus convenable

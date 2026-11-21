@@ -24,4 +24,6 @@ Keywords: singe, singes, monkey, quadrumane, quadrumanes, bandes, herbivores, gi
   - In the great bad weather of winter, bands of quadrumanes venture to the edge of the plateau, and the most supple and bold, driven by hunger, might get across the stream (II.20 ¶76). *(Drafted.)*
     - quote: des bandes de quadrumanes s’aventuraient jusqu’à la lisière du plateau
     - quote: poussés par la faim
-- **Appears in:** II.3, II.4, II.20
+  - Monkeys sneer ("ricanements") in the night at the first camp in the Far-West forest (III.11 ¶50). *(Drafted.)*
+    - quote: des ricanements de singes
+- **Appears in:** II.3, II.4, II.20, III.11

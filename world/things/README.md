@@ -18,6 +18,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The augers](augers.md) | two augers of the chest |
 | [The Australian cedars](australian-cedars.md) | clumps of cedars in the clearings by the Red Creek |
 | [Ayrton’s ammunition](ayrtons-ammunition.md) | the munitions carried to the corral for him |
+| [Ayrton’s jacket scrap](ayrtons-jacket-scrap.md) | the torn bit of felt Top finds in a bush |
 | [The baleen](baleen.md) | the whale’s horny plates, whalebone |
 | [The baleen traps](baleen-traps.md) | curved whalebone frozen in ice and hidden in fat |
 | [The ballast sacks](ballast-sacks.md) | sacks of sand holding the balloon down |
@@ -57,6 +58,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The caladium macrorhizum](caladium.md) | a herb whose boiled rhizomes feed the colonists |
 | [The candles](candles.md) | stearic candles made from seal fat |
 | [The carbines](carbines.md) | the two central-fire carbines of the chest |
+| [The carob trees](carob-trees.md) | new trees of the Far-West, their pods eaten by the onaggas |
 | [The carpenter’s axes](carpenters-axes.md) | two axes of the chest |
 | [The carrots](carrots.md) | the carrots of the Tabor plots |
 | [The cart](the-cart.md) | the crude cart that replaced the hurdle |
@@ -73,6 +75,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The clubs](clubs.md) | stout branches and sticks the hunters use as weapons and tools |
 | [The coal](coal.md) | houille from an open seam by the Red Creek |
 | [The coconut palm](coconut-palm.md) | a palm the island seems to lack |
+| [The coffee](coffee.md) | the drink Nab brings in a cup |
 | [The cold chisels](cold-chisels.md) | six chisels of the chest |
 | [Cold water](cold-water.md) | the sedative used on Harbert’s wounds |
 | [The collodion](collodion.md) | the substance for preparing the glass plate |
@@ -80,9 +83,11 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The compass box](compass-box.md) | a box of compasses in the chest |
 | [The compresses](compresses.md) | linen pads soaked in cold water for Harbert’s wounds |
 | [The convicts’ guns](the-convicts-guns.md) | the firearms of the pirates landed on the island |
+| [The convicts’ traces](the-convicts-traces.md) | the signs they leave in the Far-West forest |
 | [The copper](copper.md) | the metal the island does not give |
 | [The copper saucepans](copper-saucepans.md) | six tinned saucepans of the chest |
 | [The corral house furniture](the-corral-house-furniture.md) | the bed, table, bench, wardrobe and chest made for Ayrton |
+| [The corral lantern](the-corral-lantern.md) | the lit lantern on the table of the corral house |
 | [The corral wire](corral-wire.md) | a wire between the corral and the Nautilus |
 | [The cotton bales](cotton-bales.md) | the bales of cotton in the Speedy’s cargo |
 | [The crejimba](crejimba.md) | a palm whose branches make bows |
@@ -92,6 +97,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The cycas](cycas.md) | the "bread tree" of the Far-West |
 | [The cycas press](the-cycas-press.md) | the press that drives the mucilage from the pith |
 | [The deodars](deodars.md) | Himalayan cedars among the riverside conifers |
+| [The descent rope](the-descent-rope.md) | the rope let down from the door of Granite-house |
 | [The diving suit](diving-suit.md) | Nemo's scaphander, worn to walk under water |
 | [The douglas firs](douglas-firs.md) | tall conifers like those of America’s north-west, whose bark covers the pirogue |
 | [The dragon trees](dragon-trees.md) | tall liliaceous trees whose roots can be eaten and fermented |
@@ -106,6 +112,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The elms](elms.md) | the francs-ormes of the Mercy’s right bank |
 | [The eucalyptus](eucalyptus.md) | a gum tree of the Red Creek banks, with a sweet manna in spring |
 | [The Fahrenheit thermometer](fahrenheit-thermometer.md) | the thermometer of the chest |
+| [The Far-West road](the-far-west-road.md) | the way cut with axes through the Far-West to the Reptile promontory |
 | [The felling axes](felling-axes.md) | the two woodcutter’s axes of the chest |
 | [The felt](felt.md) | the fulled wool cloth called "feutre lincolnien" |
 | [The felt clothes](felt-clothes.md) | the garments the colonists wear in winter |
@@ -143,6 +150,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The hammers](chest-hammers.md) | three hammers of the chest |
 | [The hand saw](hand-saw.md) | the égohine made at great pains |
 | [Harbert's handkerchief](harbert-handkerchief.md) | the cloth used to carry water to Smith |
+| [Harbert’s mattresses](harberts-mattresses.md) | the mattresses he lies on at the corral and on the way back |
 | [The harness](harness.md) | the traces and harness of plant fibre for the onaggas |
 | [The harpoon](the-harpoon.md) | the Maria-Stella’s harpoon found in the dead whale |
 | [The hearth](hearth.md) | flat stones at the foot of the left corridor, with a smoke duct |
@@ -162,6 +170,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The iron-shod spears](iron-shod-spears.md) | sticks tipped with a sharp iron |
 | [The jaguar skins](jaguar-skins.md) | some twenty skins that adorn the great hall of Granite-house |
 | [Jup's clothes](jups-clothes.md) | the white jacket, breeches and apron |
+| [Jup’s stick](jups-stick.md) | the stick the orang carries in the forest |
 | [The kauri](kauri.md) | the giant conifer of New Zealand named in the forest by the Mercy |
 | [The koula skins](koula-skins.md) | the hides of three koulas, tanned with sulphuric acid |
 | [The lake dams](the-lake-dams.md) | two dams of cemented rock that raised Lake Grant |
@@ -195,6 +204,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The multi-blade knives](multi-blade-knives.md) | three knives with several blades, from the chest |
 | [The mustard](mustard.md) | the downy plant Pencroff takes for tobacco |
 | [Nab’s note](nabs-note.md) | the reply carried back by Top |
+| [Nab’s warning](nabs-warning-note.md) | the note carried to the corral by Jup |
 | [The nails and screws](nails-and-screws.md) | ten sacks of the chest |
 | [The natural sciences dictionary](natural-sciences-dictionary.md) | the six-volume English dictionary of the chest |
 | [The natural soda](soda.md) | ash of burnt sea plants |
@@ -238,6 +248,8 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The pyrite heap](the-pyrite-heap.md) | the roasted stack of schistose pyrites behind the Chimneys |
 | [The pyroxyle](pyroxyle.md) | guncotton made from elder pith to replace the powder |
 | [The quicklime](lime.md) | lime burnt from limestone |
+| [The quinine box](the-quinine-box.md) | the small oblong box that appears on the table by Harbert’s bed |
+| [Quinine sulphate](quinine-sulphate.md) | the white alkaloid powder that cures Harbert |
 | [The raft of logs](raft-of-logs.md) | a raft of dead wood bound with dry lianas |
 | [The refractory pottery](refractory-pottery.md) | ware of refractory clay for the blast pipe, the crucible and the acid |
 | [The revolver from the rack](the-revolver-from-the-rack.md) | the pirates’ revolver Ayrton takes aboard the Speedy |
@@ -255,6 +267,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The seal-skin bellows](seal-bellows.md) | the blowing machine of two seal skins for the iron-making |
 | [The sealskins](sealskins.md) | skins of the islet’s seals, made into shoes |
 | [The seaweed](seaweed.md) | wrack and algae used as bedding and food |
+| [The seed reserve](the-seed-reserve.md) | the store of seeds in Granite-house |
 | [The sextant](sextant.md) | the sextant of the chest |
 | [The shadow rod](shadow-rod.md) | a six-foot rod whose shadow gave the island's noon |
 | [The shell cups](shell-cups.md) | bivalve shells used as vessels |
@@ -335,6 +348,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The tool chain](tool-chain.md) | the colonists' made things in order |
 | [The torches](torches.md) | resinous branches lit for the descent of the old outlet |
 | [The torpedo](torpedo.md) | a torpedo placed at the bottom of the channel |
+| [The tree ferns](tree-ferns.md) | new ferns of the Far-West, with drooping fronds |
 | [The turnips](turnips.md) | the turnips of the Tabor plots |
 | [The turtle eggs](turtle-eggs.md) | the round hard-shelled eggs of the sea turtles of the Mandibule beaches |
 | [The tussac](tussac.md) | the tall grass of the clearings |
@@ -351,6 +365,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The wicker baskets](wicker-baskets.md) | baskets and hampers of every size made in the winter |
 | [The wild radishes](wild-radishes.md) | the raves of the Mercy bank |
 | [The wild spinach](wild-spinach.md) | a goosefoot found on the Mercy bank |
+| [The willow bark](willow-bark.md) | the black willow’s bark, powdered to stand for quinine |
 | [The windmill](the-windmill.md) | the wind mill built on the Grande-Vue plateau |
 | [The window glass](window-glass.md) | panes Smith means to make for the facade |
 | [The wooden compass](wooden-compass.md) | Smith's two-armed angle gauge, a stand-in for the sextant |

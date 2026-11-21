@@ -9,7 +9,10 @@ Keywords: écurie, stable, onaggas, litière, basse-cour
     - quote: l’ingénieur fit construire près de la basse-cour une écurie, dans laquelle les onaggas devaient trouver, avec une bonne litière, un refuge pendant la nuit
   - The onaggas, unharnessed, are led back to it after the day’s work (II.7 ¶64). *(Drafted.)*
     - quote: Les onaggas étaient dételés, puis ramenés à leur écurie
-- **Appears in:** II.7, II.15, II.17
+  - The onaggas’ stable is burnt by the convicts on 28 to 29 November, and is not rebuilt while the convicts are at large (III.10 ¶29; III.11 ¶20). *(Drafted.)*
+    - quote: à l’étable des onaggas, le feu avait tout détruit
+    - quote: les écuries, Cyrus Smith préféra attendre
+- **Appears in:** II.7, II.15, II.17, III.10, III.11
 - **Open:**
   - The pigs brought from Tabor are taken to "les étables" to acclimatise easily; whether these are the same shelter as the "écurie" of II.7 ¶59 is not said (II.15 ¶45). *(Drafted.)*
     - quote: ces animaux furent conduits aux étables, où ils devaient s’acclimater facilement

@@ -15,7 +15,7 @@ Keywords: touracos-loris, loris, touraco, lori, grimpeurs, huppe, cramoisi, vert
     - quote: Les loris faisaient un gibier meilleur que le jacamar
   - "Loris" are among the birds that swarm in the forest strip of the west coast (II.4 ¶42). *(Drafted.)*
     - quote: les oiseaux y fourmillaient, jacamars, couroucous, tragopans, tétras, loris
-- **Appears in:** II.3, II.4
+- **Appears in:** II.3, II.4, III.11
 - **Open:**
   - The card cannot say whether the "loris" of II.4 ¶42 are these touracos-loris (II.3 ¶28) or the "loris bleus" among the parrots of I.12 ¶43; the text names them only as "loris". *(My reading, to confirm.)* *(My reading, to confirm.)*
     - quote: « touracos-loris »

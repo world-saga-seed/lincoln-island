@@ -593,6 +593,18 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He and Spilett are not men to despair: they look the situation in the face, weigh the chances, and stand "fermes et droits devant l’avenir" (III.8 ¶25). *(Drafted.)*
     - quote: fussent gens à désespérer
     - quote: ils se posaient fermes et droits devant l’avenir
+  - At the sight of the devastated plateau he is paler than usual and holds down, with difficulty, an inner anger, saying not a word (III.10 ¶31). *(Drafted.)*
+    - quote: plus pâle que d’ordinaire, dénotait une colère intérieure qu’il ne dominait pas sans peine
+    - quote: il ne prononça pas une parole
+  - He knows that a pernicious fever does not declare itself spontaneously, and that one must have had the germ (III.10 ¶47). *(Drafted.)*
+    - quote: Une fièvre pernicieuse ne se déclare pas spontanément
+    - quote: Il faut en avoir eu le germe
+  - He holds that fires round a camp would suffice against jaguars and beasts, but would draw the convicts rather than stop them, so that darkness is better (III.11 ¶48). *(Drafted.)*
+    - quote: il eût simplement allumé des feux autour de son campement
+    - quote: eussent été plutôt attirés qu’arrêtés par ces flammes
+  - He reads from the animals being "plus craintifs qu’autrefois" that the woods have lately been crossed by the convicts (III.11 ¶43). *(Drafted.)*
+    - quote: ces animaux, quadrupèdes et volatiles, sont plus craintifs qu’autrefois
+    - quote: Ces bois ont donc été récemment parcourus par les convicts
 - **On the page.**
   - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
@@ -773,7 +785,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He watches the unknown at every moment, and his eyes do not leave the man's (II.15 ¶68, ¶88). *(Drafted.)*
     - quote: comme l’ingénieur l’observait à tous moments
     - quote: dont les yeux ne quittaient pas ceux de son malade
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

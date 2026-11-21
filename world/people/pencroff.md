@@ -479,6 +479,29 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He and Smith and Spilett become very skilful at dressing the wounded boy, and all the linen of the corral house is used up (III.8 ¶10). *(Drafted.)*
     - quote: très-habiles à panser le jeune blessé
     - quote: Tout le linge de l’habitation avait été sacrifié
+  - Overwrought by the corral, he lets slip, with hesitation, the supposition that Ayrton may have rejoined his old accomplices, then owns it a bad thought, and later says he is long since over his moment of mistrust (III.9 ¶16, ¶20, ¶23, ¶37). *(Drafted.)*
+    - quote: qui ne hasardait pas sans hésiter cette fâcheuse supposition
+    - quote: C’est une mauvaise pensée, en effet, que j’ai eue là
+    - quote: voilà longtemps que je suis revenu de ma défiance d’un instant
+  - He says that the confinement at the corral weighs on him horribly, that he has never been so overwrought, and that he has not quite his head (III.9 ¶23). *(Drafted.)*
+    - quote: Cet emprisonnement au corral me pèse horriblement
+    - quote: je n’ai jamais été surexcité comme je le suis
+  - He harnesses the onagga to the cart and drives it at a slow step (III.9 ¶73, ¶82, ¶86). *(Drafted.)*
+    - quote: Pencroff y attela l’onagga
+    - quote: l’onagga, dirigé par Pencroff, s’avança d’un pas lent
+  - Spilett and Smith keep the diagnosis from him: had he heard it he would have gone mad; during the second fit he has to be taken away (III.10 ¶51, ¶53). *(Drafted.)*
+    - quote: Il fût devenu fou
+    - quote: Il fallut éloigner Pencroff
+  - When the third fit does not come he hugs the reporter to suffocation, and from then on calls him only "le docteur Spilett"; the narrator likens him to a man drawn from the bottom of an abyss (III.11 ¶12). *(Drafted.)*
+    - quote: il avait serré le reporter dans ses bras à l’étouffer
+    - quote: il ne l’appela plus que le docteur Spilett
+    - quote: comme un homme qu’on a retiré du fond d’un abîme
+  - He has loaded his gun with the ball that went through Harbert's chest (III.11 ¶62). *(Drafted.)*
+    - quote: C’est la balle qui a traversé la poitrine d’Harbert
+  - At the corral edge he is impatient to scout at once and unwilling to obey Smith, and he vents his anger on the convicts in the roughest oaths of the seaman's repertory (III.12 ¶19, ¶21, ¶23). *(Drafted.)*
+    - quote: Pencroff, à bout de patience, s’offrit à l’accompagner
+    - quote: peu disposé à obéir
+    - quote: des plus rudes qualifications du répertoire maritime
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -591,7 +614,9 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: j’ai l’habitude de faire deux demi-clefs
     - quote: la main ne se trompe pas
     - quote: Sorte de nœud familier au marin, et qui a l’avantage de se maintenir toujours serré
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
+  - He has become a true farmer, attached at heart to his harvests (III.9 ¶45). *(Drafted.)*
+    - quote: Pencroff était devenu un vrai fermier, attaché de cœur à ses récoltes
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

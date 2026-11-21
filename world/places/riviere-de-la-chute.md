@@ -44,4 +44,19 @@ Keywords: Falls-river, Chute, creek, ruisseau, west coast, côte occidentale, wa
   - Its right bank can be followed from the mouth up to the buttresses of Mont Franklin (III.8 ¶2). *(My reading, to confirm.)*
     - quote: l’embouchure de la rivière de la Chute
     - quote: en remontant la rive droite du cours d’eau, ils étaient arrivés aux contreforts du mont Franklin
-- **Appears in:** II.4, II.18, II.19, III.8
+  - Its left bank is among the parts of the island the colonists had not explored (III.11 ¶26). *(Drafted.)*
+    - quote: la rive gauche de la rivière de la Chute
+  - Beyond its mouth, basalts of all shapes are piled up picturesquely (III.12 ¶13). *(Drafted.)*
+    - quote: au delà de l’embouchure, s’entassaient si pittoresquement des basaltes de toutes formes
+  - The colonists go up it by the left bank, on 19 February, six miles from Mont Franklin (III.12 ¶13). *(Drafted.)*
+    - quote: remontèrent le cours de la rivière par sa rive gauche
+    - quote: à une distance de six milles du mont Franklin
+  - The road is partly cleared by the earlier excursions from the corral to the west coast (III.12 ¶13). *(Drafted.)*
+    - quote: La route était en partie dégagée par suite des excursions précédentes qui avaient été faites depuis le corral jusqu’à la côte ouest
+  - Its thalweg makes the bed of a valley, narrow, between two of the mightiest buttresses of Mont Franklin; the trees press on its banks and thin out toward the upper zones of the volcano (III.12 ¶14, ¶16). *(Drafted.)*
+    - quote: toute la vallée dont le thalweg formait le lit de la rivière
+    - quote: l’étroite vallée qui séparait deux des plus puissants contreforts du mont Franklin
+    - quote: se raréfiaient vers les zones supérieures du volcan
+  - The ground there is hilly and uneven, well suited to ambush (III.12 ¶16). *(Drafted.)*
+    - quote: très-propre aux embûches
+- **Appears in:** II.4, II.18, II.19, III.8, III.11, III.12

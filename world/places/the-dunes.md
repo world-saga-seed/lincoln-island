@@ -32,4 +32,6 @@ Keywords: dunes, sable, sand hills, monticules, collines, thistles, région sabl
     - quote: que les oiseaux de mer fréquentaient par centaines
   - The dunes form the upper coast of the Union Bay (III.5 ¶39). *(Drafted.)*
     - quote: les dunes qui formaient la côte supérieure de la baie de l’Union
-- **Appears in:** I.7, I.8, I.14, I.15, II.19, II.20, III.5
+  - The interminable dunes end at the half-open mouth of the Shark Gulf, and have been explored only imperfectly (III.11 ¶25). *(My reading, to confirm.)*
+    - quote: ces interminables dunes qui finissaient à la gueule entr’ouverte du golfe du Requin
+- **Appears in:** I.7, I.8, I.14, I.15, II.19, II.20, III.5, III.11

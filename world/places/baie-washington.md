@@ -38,4 +38,6 @@ Keywords: baie Washington, Washington Bay, south, échancrure, bay, south coast
     - quote: rien de ce qui avait rapport au naufrage présumé n’apparaissait sur ce littoral
   - Its heights, near Port Ballon, give a view of the sea to the south-west beyond cap Griffe (III.1 ¶57). *(Drafted.)*
     - quote: pour l’observer, il serait alors nécessaire de gagner les hauteurs de la baie Washington, près de Port-Ballon
-- **Appears in:** I.11, II.5, III.1
+  - Its vast shore, from the cap de la Griffe to the promontoire du Reptile, has been explored only imperfectly (III.11 ¶25). *(Drafted.)*
+    - quote: le vaste littoral de la baie Washington depuis le cap Griffe jusqu’au promontoire du Reptile
+- **Appears in:** I.11, II.5, III.1, III.11

@@ -39,6 +39,8 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
   - In great bad weather some pairs of jaguars venture to the edge of the plateau; the frozen stream gives them an easy passage, and shots must be fired to keep them at a respectful distance (II.20 ¶76). *(Drafted.)*
     - quote: quelques couples de jaguars
     - quote: lorsqu’il était gelé, leur offrait un passage facile
+  - Hoarse howls of jaguars trouble the silence of the night at the first camp in the Far-West forest (III.11 ¶50). *(Drafted.)*
+    - quote: de rauques hurlements de jaguars
 - **On the page.**
   - It comes forward, bristling, eye aflame, as if it had never before smelt man (II.4 ¶64). *(Drafted.)*
     - quote: le poil hérissé, l’œil en feu
@@ -50,4 +52,4 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
   - Its skin is thought to make the ornament of the great hall of Granite-house, and Nab skins it (II.4 ¶67, ¶77). *(Drafted.)*
     - quote: dont la magnifique dépouille ferait l’ornement de la grande salle de Granite-house
     - quote: Nab dépouillait le jaguar
-- **Appears in:** I.13, II.4, II.11, II.16, II.18, II.20
+- **Appears in:** I.13, II.4, II.11, II.16, II.18, II.20, III.11

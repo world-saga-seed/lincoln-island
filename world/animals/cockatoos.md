@@ -14,4 +14,4 @@ Keywords: kakatoès, cockatoo, perroquet, oiseaux, Creek-Rouge, eucalyptus, casu
   - Cockatoos ("kakatoès") are among the birds that swarm on the forest strip of the west coast, where there is no tree without a nest (II.4 ¶42). *(Drafted.)*
     - quote: loris, perroquets, kakatoès, faisans
     - quote: Pas un arbre qui n’eût un nid
-- **Appears in:** I.12, I.16, II.4
+- **Appears in:** I.12, I.16, II.4, III.11

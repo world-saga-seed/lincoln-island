@@ -55,4 +55,6 @@ Keywords: mouflon, mouton, sheep, bighorn, horns, wool, toison, gigot, côtelett
     - quote: les mouflons, nombreux alors, avaient abondamment fourni la laine nécessaire
   - At the corral they bleat habitually: their silence, and Ayrton's voice unheard, is what strikes the colonists on 11 November (III.6 ¶89). *(Drafted.)*
     - quote: Ni les bêlements accoutumés des mouflons
-- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.17, II.20, III.6
+  - The mouflons and the goats are supposed asleep in their stables in the corral at night (III.12 ¶45). *(Drafted.)*
+    - quote: Les mouflons et les chèvres, endormis sans doute dans leurs étables
+- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.17, II.20, III.6, III.12

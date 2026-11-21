@@ -42,4 +42,9 @@ Keywords: Bob Harvey, Harvey, convict, pirate, chief, Speedy, Norfolk, capitaine
 - **On the page.**
   - Ayrton hears his name in the cheers before he sees him (III.2 ¶43, ¶44). *(Drafted.)*
     - quote: dans ce Bob Harvey, il venait de reconnaître un de ses anciens compagnons d’Australie
-- **Appears in:** III.2, III.3, III.4, III.5, III.7
+- **Appears in:** III.2, III.3, III.4, III.5, III.7, III.9
+- **Open:**
+  - Who is "the chief of the escaped convicts": III.2 ¶71 calls Bob Harvey "le chef des convicts"; III.9 ¶41 supposes one of the convicts has found in Ayrton "un ancien compagnon d’Australie, le Ben Joyce, le chef des convicts évadés", and II.17 ¶60 has Ayrton himself become chief of escaped convicts under the name of Ben Joyce. Card neither. *(Drafted.)*
+    - quote: le chef des convicts
+    - quote: un ancien compagnon d’Australie, le Ben Joyce, le chef des convicts évadés
+    - quote: il était devenu, sous le nom de Ben Joyce, le chef de convicts évadés

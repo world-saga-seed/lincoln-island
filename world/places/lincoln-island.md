@@ -232,6 +232,10 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
   - In the convicts’ eyes it is a place of easy water, a small port, resources well turned to account by the colonists and the hidden depths of Granite-house, and, being unknown, it would long give them impunity and safety (III.2 ¶54). *(Drafted.)*
     - quote: son aiguade facile, son petit port, ses ressources de toutes sortes si bien mises en valeur par les colons
     - quote: elle leur assurerait, pour longtemps peut-être, l’impunité avec la sécurité
+  - Many thousands of acres of it had still escaped the colonists’ investigation in February 1868 (III.11 ¶26). *(Drafted.)*
+    - quote: plusieurs milliers d’acres de l’île avaient encore échappé à leurs investigations
+  - In its forests it would have deserved a rank among the Canary group, whose first name was the Fortunate Isles (III.12 ¶2). *(Drafted.)*
+    - quote: ce groupe des Canaries, dont le premier nom fut celui d’îles Fortunées
 - **On the page.**
   - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
     - quote: peu effrayés de la présence de l’homme
@@ -241,7 +245,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.16, III.1, III.2
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.16, III.1, III.2, III.10, III.11, III.12
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent

@@ -36,4 +36,10 @@ Keywords: champ de blé, grain, sowing, plot, palisade, garden, seed bed, wheat
     - quote: Voilà un champ qui s’était accru en surface, depuis dix-huit mois que le premier grain de blé avait été semé
   - The haymaking and the harvest (la moisson) fill the days before 8 November; the harvest is read as the wheat field’s (III.5 ¶22). *(My reading, to confirm.)*
     - quote: aux travaux de la fenaison et de la moisson
-- **Appears in:** I.20, I.21, II.7, II.9, II.10, II.16, III.5
+  - The fields are trampled and the ears of the harvest that was about to be made lie on the ground (III.10 ¶28). *(My reading, to confirm.)*
+    - quote: Les champs avaient été piétinés
+    - quote: Les épis de la moisson, qui allait être faite, gisaient sur le sol
+  - In January 1868 the colonists save what they can of the ruined crops, wheat or vegetables, and gather seed and plants for a new harvest of the next half-season (III.11 ¶20). *(Drafted.)*
+    - quote: sauver ce qui pouvait l’être des récoltes dévastées, soit en blé, soit en légumes
+    - quote: Les graines et les plants furent recueillis
+- **Appears in:** I.20, I.21, II.7, II.9, II.10, II.16, III.5, III.10, III.11

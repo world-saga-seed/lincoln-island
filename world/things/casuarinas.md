@@ -14,4 +14,6 @@ Keywords: casuarina, filao, Australian tree, Red Creek, shade
   - It is among the trees of the forest cut through on 31 October, most of which were already known round the lake and the Grande-Vue plateau, generally of medium size because their number has hindered their growth (II.4 ¶5). *(Drafted.)*
     - quote: des casuarinas
     - quote: généralement de taille médiocre, car leur nombre avait nui à leur développement
-- **Appears in:** I.12, II.4
+  - It is one of the known kinds that follow one another beyond sight in the forest of the Far-West (III.11 ¶42). *(Drafted.)*
+    - quote: Déodars, douglas, casuarinas, banksias, gommiers, dragonniers et autres essences déjà reconnues, se succédaient au delà des limites du regard
+- **Appears in:** I.12, II.4, III.11

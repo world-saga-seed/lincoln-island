@@ -27,4 +27,4 @@ Keywords: cabiai, capybara, rongeur, rodent, amphibie, pond, mare, ham, game, po
   - Capybaras pass within good range of Harbert's gun in the Far-West forest, on the left of the Mercy, and escape it (II.9 ¶44). *(Drafted.)*
     - quote: bien des kangourous, des cabiais ou des agoutis passèrent à bonne portée
     - quote: échappèrent pourtant au fusil du jeune garçon
-- **Appears in:** I.9, I.22, II.1, II.8, II.9
+- **Appears in:** I.9, I.22, II.1, II.8, II.9, III.11

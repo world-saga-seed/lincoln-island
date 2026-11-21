@@ -38,7 +38,13 @@ Keywords: Creek-Glycérine, fossé, ditch, moat, ruisseau, saignée, nitro-glyce
     - quote: deux saignées faites au lac et par lesquelles s’alimentaient le creek Glycérine et le creek de la Grande-Chute
   - A bridge that can be raised crosses it on the corral road (III.6 ¶68). *(My reading, to confirm.)*
     - quote: il relèverait le pont
+  - The little bridge over it, on the road, would be seen a mile before the plateau, and Smith has no doubt it stands in place, whether the convicts crossed there or lowered it behind them as a retreat (III.9 ¶88). *(Drafted.)*
+    - quote: on apercevrait le ponceau du creek Glycérine
+    - quote: Cyrus Smith ne doutait pas que ce ponceau ne fût en place
+  - On the night of 28 to 29 November the convicts show themselves at the edge of the forest near it, and one of them is about to cross the stream when Nab fires (III.10 ¶8). *(Drafted.)*
+    - quote: aux approches du creek Glycérine
+    - quote: qui se disposait à traverser le cours d’eau
 - **On the page.**
   - Its left bank has a slight rise crowned with a few tall dragon-trees, which hides a man waiting there (III.6 ¶71). *(Drafted.)*
     - quote: un léger épaulement que couronnaient quelques grands dragonniers, sur la rive gauche du ruisseau
-- **Appears in:** II.7, II.8, II.15, II.16, III.6
+- **Appears in:** II.7, II.8, II.15, II.16, III.6, III.9, III.10

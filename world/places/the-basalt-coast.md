@@ -35,4 +35,6 @@ Keywords: côte de fer, basalte, iron coast, lava, blocs, prismes, cathedral, To
     - quote: myriades d’oiseaux aquatiques
   - The enormous lava rocks give way, nearer the Mercy, to the capricious dunes (II.20 ¶29). *(Drafted.)*
     - quote: Aux énormes roches laviques succédèrent bientôt ces dunes capricieuses
-- **Appears in:** II.19, II.20
+  - At the mouth of the Falls-river, basalts of all shapes are piled up picturesquely beyond it (see [the Falls-river](riviere-de-la-chute.md)) (III.12 ¶13). *(My reading, to confirm.)*
+    - quote: s’entassaient si pittoresquement des basaltes de toutes formes
+- **Appears in:** II.19, II.20, III.12

@@ -55,4 +55,32 @@ Keywords: six convicts, survivors, Speedy, pointe de l’Épave, Mercy, right ba
     - quote: réduits à cinq, il est vrai, mais bien armés
     - quote: décidés à tuer les colons l’un après l’autre
     - quote: voyant et n’étant pas vus
-- **Appears in:** III.3, III.4, III.5, III.6, III.7, III.8
+  - The colonists count them as five, "plus que quatre contre cinq" with Ayrton gone and Harbert unable to count (III.9 ¶3). *(Drafted.)*
+    - quote: ils n’étaient plus que quatre contre cinq
+  - The road from the corral to Granite-house is one the convicts must know (III.9 ¶83). *(Drafted.)*
+    - quote: bien qu’elle dût être connue des convicts
+  - On the night of 28 to 29 November they show on the forest edge near the Glycérine creek, and Nab fires at one about to cross it; at six in the morning Nab's note says the plateau is invaded, and by the time the cart arrives they left it half an hour before, after devastating it (III.9 ¶65, ¶96; III.10 ¶8). *(Drafted.)*
+    - quote: Plateau envahi par les convicts
+    - quote: s’étaient montrés sur la lisière de la forêt, aux approches du creek Glycérine
+    - quote: Les convicts avaient abandonné le plateau depuis une demi-heure environ, après l’avoir dévasté
+  - They do not appear on the shore below Granite-house, not knowing the number of the island's inhabitants and remembering the shots that met them during the brig's attack; the plateau, open and not swept by Granite-house's fire, they sack and burn, doing "le mal pour le mal" (III.10 ¶18). *(Drafted.)*
+    - quote: Ne connaissant pas le nombre des habitants de l’île
+    - quote: Ils s’y livrèrent donc à leur instinct de déprédation
+    - quote: faisant le mal pour le mal
+  - During Harbert's illness they do not show themselves once near Granite-house (III.11 ¶18). *(Drafted.)*
+    - quote: les convicts ne s’étaient pas montrés une seule fois aux environs de Granite-house
+  - In the Far-West woods the colonists find signs of a troop's passage: boughs broken, perhaps to mark the way, ashes of a dead fire, and footprints kept by clay, but nothing like a settled camp (III.11 ¶44). *(Drafted.)*
+    - quote: des brisées faites aux arbres, peut-être dans le but de jalonner le chemin
+    - quote: rien qui parût appartenir à un campement définitif
+  - Beside a fire lately put out the footprints of five men are found, the five convicts having camped there, and no sixth (III.11 ¶55). *(Drafted.)*
+    - quote: on retrouva aisément la trace des pieds de cinq hommes
+    - quote: Les cinq convicts avaient évidemment campé en cet endroit
+  - Spilett holds that they wander at random, and that it is their interest to wander until they are masters of the island (III.11 ¶58). *(Drafted.)*
+    - quote: Il est plus probable qu’ils vont à l’aventure
+    - quote: c’est leur intérêt d’errer ainsi jusqu’au moment où ils seront les maîtres de l’île
+  - No trace of them is found on the west coast (III.12 ¶3). *(Drafted.)*
+    - quote: on ne retrouva plus aucunes traces
+  - On 19 February five bodies lie on the bank of the corral's stream, those of the convicts who landed on the island four months earlier (III.12 ¶107, ¶108). *(Drafted.)*
+    - quote: Cinq corps, étendus sur la berge
+    - quote: C’étaient ceux des convicts qui, quatre mois auparavant, avaient débarqué sur l’île Lincoln
+- **Appears in:** III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12

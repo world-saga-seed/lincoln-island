@@ -9,4 +9,6 @@ Keywords: couchette, lit, table, banc, armoire, coffre, meubles, corral, maison
     - quote: Quelques meubles, couchette, table, banc, armoire, coffre, furent fabriqués
   - The bed is called Ayrton’s bed; the wounded Harbert is laid on it (III.7 ¶9). *(Drafted.)*
     - quote: sur le lit d’Ayrton
-- **Appears in:** II.17, III.7
+  - Beside the table stands the bed that formerly served Ayrton (III.12 ¶79). *(Drafted.)*
+    - quote: Près de la table était le lit qui servait autrefois à Ayrton
+- **Appears in:** II.17, III.7, III.12

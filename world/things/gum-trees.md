@@ -14,4 +14,6 @@ Keywords: gommiers, gum tree, Red Creek, gigantic, trees
     - quote: des bouquets de gommiers verdoyants
   - Five or six magnificent gum trees shelter the Tabor hut (see [the Tabor dwelling](../places/the-tabor-dwelling.md)) (II.14 ¶21). *(Drafted.)*
     - quote: cinq ou six magnifiques gommiers
-- **Appears in:** I.12, II.4, II.13, II.14
+  - It is one of the known kinds that follow one another beyond sight in the forest of the Far-West (III.11 ¶42). *(My reading, to confirm.)*
+    - quote: Déodars, douglas, casuarinas, banksias, gommiers, dragonniers et autres essences déjà reconnues, se succédaient au delà des limites du regard
+- **Appears in:** I.12, II.4, II.13, II.14, III.11

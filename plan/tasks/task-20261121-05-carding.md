@@ -9,9 +9,9 @@
 - **End hash:** (on close)
 - **Status:** Running, four chapters a wave.
 
-## What a card holds *(Proposal.)*
+## What a card holds *(Settled R1121-05.)*
 
-The outlines hold the events; a card holds what is true of its subject. A card records: what it is (nature, trade, origin, age, look, traits, skills, possessions, relations); how it changes, each change dated and cited (a thing made or found, a place named or built on, a person wounded, freed or dead); for a made thing, what it is made of, by whom, when and how; and the chapters it appears in. A card does not log scenes: an act goes on a card only when it shows what the subject is or changes it. Lines already on the sample's cards are kept as they stand. Where the text disagrees with itself, both readings go on the **Open** line, carded neither way (R1120-33).
+The outlines hold the events; a card holds what is true of its subject. A card records: what it is (nature, trade, origin, age, look, traits, skills, possessions, relations); how it changes, each change dated and cited (a thing made or found, a place named or built on, a person wounded, freed or dead); for a made thing, what it is made of, by whom, when and how; and the chapters it appears in. A card does not log scenes: an act goes on a card only when it shows what the subject is or changes it. The cards made before this ruling are brought to the form when a later wave touches them (R1121-06). Where the text disagrees with itself, both readings go on the **Open** line, carded neither way (R1120-33).
 
 ## Steps
 

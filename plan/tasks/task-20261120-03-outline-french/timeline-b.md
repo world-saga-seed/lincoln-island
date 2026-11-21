@@ -1,0 +1,20 @@
+- 1865-03-24, evening, "Cinq heures du soir": the summary places the search at five in the evening (I.3 ¶0). *(Drafted.)* The date works out from ¶37 below. *(My reading, to confirm.)*
+  - quote: Cinq heures du soir.
+- 1865-03-24, near 6 p.m.: the four walk north along the east coast in the dark (I.3 ¶14). *(Drafted.)* Flagged: ¶0 says five.
+  - quote: Il était près de six heures alors.
+- 1865-03-24, about 6:20 p.m.: twenty minutes' walk ends at the promontory's point (I.3 ¶16). *(My reading, to confirm.)*
+  - quote: Après une course de vingt minutes
+- 1865-03-25, about midnight (night of 24 to 25 March): stars appear; the Southern Cross is seen (I.3 ¶36). *(My reading, to confirm.)*
+  - quote: Vers minuit, quelques étoiles brillèrent
+- 1865-03-25, about 5 a.m.: the sky begins to lighten; fog (I.3 ¶37). *(Drafted.)*
+  - quote: Vers cinq heures du matin, le 25 mars
+- 1865-03-25, about 5:45 a.m.: sunrise (I.3 ¶41). *(My reading, to confirm.)*
+  - quote: vers six heures et demie, trois quarts d’heure après le lever du soleil
+- 1865-03-25, about 6:30 a.m.: the fog thins; the coast is seen (I.3 ¶41). *(Drafted.)*
+  - quote: vers six heures et demie
+- 1865-03-25, after 6:30 a.m.: Nab swims the canal, over half an hour (I.3 ¶49). *(Drafted.)*
+  - quote: il employa plus d’une demi-heure à le franchir
+- 1865-03-25, about 7 a.m.: Pencroff says the crossing will be tried in three hours (I.3 ¶58). *(My reading, to confirm.)*
+  - quote: Dans trois heures, nous tenterons le passage
+- 1865-03-25, about 10 a.m.: Spilett, Harbert and Pencroff wade the channel at low water (I.3 ¶60). *(Drafted.)*
+  - quote: vers dix heures

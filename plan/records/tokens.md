@@ -8,3 +8,5 @@
 | 2026-11-20 | the author's session, 2026-11-21 04:17Z on | phase 0 answers (upper bound; out 40,043) | | | | 20,044,050 | 65 | 34 |
 | 2026-11-20 | agent, Sonnet: carder, people | budget sample (card-existing) | I.1, I.13, III.16 | 10,234 | whole files: the three chapters, the card form, texts/README, CLAUDE.md | 112,859 | 17 | 5.2 |
 | 2026-11-20 | agent, Sonnet: carder, places and things | budget sample (card-existing) | I.1, I.13, III.16 | 10,234 | whole files: the three chapters, the card form, texts/README, CLAUDE.md | 138,953 | 16 | 8.3 |
+| 2026-11-20 | agent, Sonnet: outliner a | phase 2 pilot (scene-outlines D) | 00100, 00200 | 5,586 | whole files: the two chapters, the workflow, the forms, texts/README, CLAUDE.md | 98,247 | 12 | 4.5 |
+| 2026-11-20 | agent, Sonnet: outliner b | phase 2 pilot (scene-outlines D) | 00300 | 2,630 | whole files: the chapter, the workflow, the forms, texts/README, CLAUDE.md | 58,889 | 8 | 1.3 |

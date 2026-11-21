@@ -11,4 +11,6 @@ Keywords: déodars, cedar, Himalayan, conifer, aroma, evergreen
     - quote: essences très-nombreuses dans la zone himalayenne
   - They give off an agreeable aroma (I.4 ¶29). *(Drafted.)*
     - quote: qui répandaient un agréable arôme
-- **Appears in:** I.4
+  - The forest's conifers include deodars, already recognised by Harbert (I.6 ¶27). *(Drafted.)*
+    - quote: tels que les déodars, déjà reconnus par Harbert
+- **Appears in:** I.4, I.6

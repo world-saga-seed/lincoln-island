@@ -23,6 +23,20 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: elle semblerait être assez vaste
   - Island or continent, it looks fertile, pleasant in its aspects and varied in its products (I.4 ¶51). *(Drafted.)*
     - quote: elle paraissait fertile, agréable dans ses aspects, variée dans ses productions
+  - On the first morning it is still unknown whether the coast belongs to a continent, is inhabited, or is only the shore of a desert island (I.6 ¶5). *(Drafted.)*
+    - quote: ce littoral n’était que le rivage d’une île déserte
+  - The narrator places it in the full Pacific (I.6 ¶20). *(Drafted.)*
+    - quote: sur cette terre, en plein Pacifique
+  - The presence of man there would perhaps be more to fear than to wish (I.6 ¶20). *(Drafted.)*
+    - quote: la présence de l’homme eût été peut-être plus à craindre qu’à désirer
+  - Its coast seems never to have been visited by a human being (I.8 ¶19). *(Drafted.)*
+    - quote: Il ne semblait pas que cette côte déserte eût jamais été fréquentée par un être humain
+  - Smith reckons that the balloon covered not less than six to seven thousand miles (I.9 ¶70). *(Drafted.)*
+    - quote: Je n’estime pas à moins de six à sept mille milles la distance parcourue par le ballon
+  - Smith's presumption is for a land of the Pacific (I.9 ¶70). *(Drafted.)*
+    - quote: les présomptions sont pour une terre du Pacifique
+  - The size of the pines suggests that the land lies higher in latitude than Smith supposed (I.9 ¶87). *(Drafted.)*
+    - quote: cette contrée se trouvait plus élevée en latitude que ne le supposait l’ingénieur
   - The place is called Lincoln Island by I.13 (I.13 ¶32). *(Drafted.)*
     - quote: les cinq briquetiers de l’île Lincoln
   - Smith has established that this land is an island (I.13 ¶65). *(Drafted.)*
@@ -48,13 +62,15 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: peu effrayés de la présence de l’homme
   - No inhabitant visits the part of the coast that Nab and Spilett walked (I.5 ¶42). *(Drafted.)*
     - quote: aucun habitant ne fréquentait cette portion de la côte
+  - The narrator supposes that the capybara, which does not flee, was seeing men for the first time (I.9 ¶105). *(Drafted.)*
+    - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
   - Smith wants to know its distance from America, Australia and the main Pacific archipelagos (I.13 ¶65). *(Drafted.)*
     - quote: reconnaître à quelle distance elle est située, soit du continent américain, soit du continent australien, soit des principaux archipels du Pacifique
   - Smith's latitude and longitude workings were put off to the next day and are not given (I.13 ¶78). *(Drafted.)*
     - quote: Ces calculs furent remis au lendemain
-- **Appears in:** I.1, I.3, I.4, I.5, I.13, III.16
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent

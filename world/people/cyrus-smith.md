@@ -43,6 +43,21 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: Nab et M. Smith ne fument pas
   - He is the most ingenious and the most learned of the five, their undisputed chief (I.5 ¶86). *(Drafted.)*
     - quote: celui qui était leur chef incontesté
+  - His practical science and inventive mind are what the castaways would count on in their bareness (I.6 ¶4). *(Drafted.)*
+    - quote: sa science pratique, son esprit inventif
+  - His pockets are empty, except the waistcoat pocket, which holds his watch (I.8 ¶38). *(Drafted.)*
+    - quote: absolument vides, sauf celle de son gilet, qui contenait sa montre
+  - He wears shoes, which fit exactly the footprints found on the sand (I.8 ¶79). *(Drafted.)*
+    - quote: Les souliers de l’ingénieur s’appliquaient exactement aux empreintes conservées
+  - His will is of the most energetic (I.8 ¶83). *(Drafted.)*
+    - quote: un effort qui attestait la volonté la plus énergique
+  - He observes the country closely from the litter; its outline is engraved in his mind (I.8 ¶87). *(Drafted.)*
+    - quote: le dessin de cette contrée avec ses accidents de terrain, ses forêts, ses productions diverses, se grava dans son esprit
+  - To his companions he is a microcosm, a compound of all human science and intelligence; with him they cannot despair (I.9 ¶14). *(Drafted.)*
+    - quote: L’ingénieur était pour eux un microcosme, un composé de toute la science et de toute l’intelligence humaine
+    - quote: Avec lui, on ne pouvait désespérer.
+  - "Île ou continent ?" is his fixed idea (I.9 ¶32). *(Drafted.)*
+    - quote: c’était son idée fixe
   - An engineer, called "l’ingénieur Smith" in the narration (I.13 ¶4). *(Drafted.)*
     - quote: L’ingénieur Smith
   - He is addressed as "monsieur Cyrus" in the balloon's basket; the text there does not name the person addressed (I.1 ¶3). *(My reading, to confirm.)*
@@ -94,6 +109,25 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: C’est un homme à revenir de tout
   - Nab says that if he were there he would know how to make a fire (I.5 ¶63). *(Drafted.)*
     - quote: il saurait bien vous en faire
+  - He is found without bruise or scratch on head, trunk, limbs or hands (I.8 ¶12). *(Drafted.)*
+    - quote: Ni la tête, ni le torse, ni les membres n’avaient de contusions, pas même d’écorchures
+  - He is dying of exhaustion when found (I.8 ¶13). *(Drafted.)*
+    - quote: Il mourait d’épuisement
+  - His first intelligible words, half conscious, are "Île ou continent ?" (I.8 ¶44). *(Drafted.)*
+    - quote: Île ou continent ? murmura-t-il.
+  - The sea tore him from the balloon's net; Top held him up by his clothes, but a current pushed him north and after half an hour's struggle he sank with Top (I.8 ¶67). *(Drafted.)*
+    - quote: Le coup de mer l’avait arraché du filet de l’aérostat
+    - quote: Top le soutenait par ses vêtements
+    - quote: il coula, entraînant Top avec lui dans l’abîme
+  - He has no memory from the moment he sank until he found himself in his friends' arms (I.8 ¶67). *(Drafted.)*
+    - quote: il n’avait plus souvenir de rien
+  - He concludes that he must have walked like a sleepwalker, Top leading him after pulling him from the waves (I.8 ¶80). *(Drafted.)*
+    - quote: J’aurai marché comme un somnambule, sans avoir conscience de mes pas
+  - He says he saw, while being carried, a mountain in the west that dominates the country (I.9 ¶60). *(Drafted.)*
+    - quote: n’ai-je pas aperçu, dans l’ouest, une montagne qui domine cette contrée ?
+  - He thinks it likely that they lie on a land of the Pacific, the balloon having covered six to seven thousand miles (I.9 ¶70). *(Drafted.)*
+    - quote: les présomptions sont pour une terre du Pacifique
+    - quote: Je n’estime pas à moins de six à sept mille milles la distance parcourue par le ballon
   - Asked by Pencroff where to begin, he answers that they begin at the beginning (I.13 ¶2). *(Drafted.)*
     - quote: Par le commencement,
   - He says the first need is a kiln, to make pottery (I.13 ¶12). *(Drafted.)*
@@ -171,13 +205,16 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He tells Nemo the honest men he helped will mourn him for ever (III.16 ¶83). *(Drafted.)*
     - quote: vous pleureront à jamais
 - **Habits.**
+  - He prefers to expect the worst at once and keep only the surprise of the better (I.9 ¶72). *(Drafted.)*
+    - quote: Mieux vaut mettre les choses au pis tout de suite
+    - quote: ne se réserver que la surprise du mieux
   - He notes exactly the hour the sun vanishes and the hour it rises, allowing for refraction (I.13 ¶34). *(Drafted.)*
     - quote: il avait noté exactement l’heure à laquelle le soleil avait disparu sous l’horizon
   - He prepares each observation and makes his own instrument when one is lacking (I.13 ¶68). *(Drafted.)*
     - quote: l’appareil manquant, il fallait le suppléer
   - He plans the next day's calculation (the plateau's height) while making tonight's sighting (I.13 ¶71). *(Drafted.)*
     - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.13, III.16
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer
@@ -185,3 +222,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: il a paru, sous le titre de Vingt mille Lieues sous les mers, un ouvrage qui contient votre histoire
   - The editor warns that some dates disagree with the earlier books (III.16 n1). *(Drafted.)*
     - quote: sur la discordance de quelques dates
+  - How far from the shore Cyrus Smith was when the sea took him is given three ways: "à quelques centaines de pas d’un rivage" (Nab's thought, I.6 ¶8); "à douze cents pieds au plus du rivage", on Pencroff's two cables (I.7 ¶10); and, by his own reckoning on surfacing, "pas être inférieure à un demi-mille" (I.8 ¶67). Card neither. *(Drafted.)*
+    - quote: à quelques centaines de pas d’un rivage
+    - quote: à douze cents pieds au plus du rivage
+    - quote: ne devait pas être inférieure à un demi-mille

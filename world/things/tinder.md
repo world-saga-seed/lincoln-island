@@ -5,6 +5,10 @@
 Keywords: amadou, kindling, fire lighting, polypore, fungus, spark
 
 - **What it is.**
+  - Tinder (amadou) was lacking after the loss of the matchbox, and Harbert thought it prudent to replace it with another substance (I.6 ¶13). *(Drafted.)*
+    - quote: puisque l’amadou manquait, il serait peut-être prudent de le remplacer par une autre substance
+  - Smith says that if no substance analogous to tinder is found, they will make matches (I.9 ¶42). *(Drafted.)*
+    - quote: si nous ne trouvons pas une substance analogue à l’amadou
   - It is a very inflammable substance (I.13 ¶56). *(Drafted.)*
     - quote: fournit une substance très-inflammable
   - Smith said that for the colonists it would be amadou (I.13 ¶55). *(Drafted.)*
@@ -20,7 +24,7 @@ Keywords: amadou, kindling, fire lighting, polypore, fungus, spark
 - **On the page.**
   - The find of a substance to replace tinder was a happy incident of the return on 15 April (I.13 ¶51). *(Drafted.)*
     - quote: la découverte que fit l’ingénieur d’une substance propre à remplacer l’amadou
-- **Appears in:** I.13
+- **Appears in:** I.6, I.9, I.13
 - **Open:**
   - Whether the tinder was used to light a fire within these chapters is not stated.
     - quote: fournit une substance très-inflammable

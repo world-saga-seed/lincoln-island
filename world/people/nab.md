@@ -17,6 +17,19 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: mon serviteur Nab
   - He does not smoke (I.5 ¶33). *(Drafted.)*
     - quote: Nab et M. Smith ne fument pas
+  - He is stubborn in his ideas as in his presentiments, with an obstinate heart (I.6 ¶8). *(Drafted.)*
+    - quote: Entêté dans ses idées comme dans ses pressentiments
+    - quote: son cœur obstiné
+  - He will not believe in his master's death until he has seen and touched the body (I.6 ¶8). *(Drafted.)*
+    - quote: il ne croirait pas à sa mort
+  - He is like the dog that cannot leave the place where its master fell; his grief is such that he would probably not survive him (I.6 ¶8). *(Drafted.)*
+    - quote: C’était comme le chien qui ne peut quitter la place où est tombé son maître
+  - He says that, had Top not found the others, he would have buried his master and died beside him (I.8 ¶15). *(Drafted.)*
+    - quote: j’aurais enterré mon maître et je serais mort près de lui
+  - He can be a little sarcastic with Pencroff (I.9 ¶89). *(Drafted.)*
+    - quote: d’un ton un peu sarcastique
+  - He holds that the fire will blaze because his master has said so (I.9 ¶95). *(Drafted.)*
+    - quote: Il flambera, puisque mon maître l’a dit !
   - He is devotion personified (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.
   - He is skilful, intelligent, tireless and robust, with an iron constitution (I.13 ¶7). *(Drafted.)*
@@ -48,6 +61,14 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: Nab ne pouvait ou ne voulait plus vivre
   - He is the one castaway who does not rest in the Chimneys; he wanders the shore all night calling his master (I.5 ¶90). *(Drafted.)*
     - quote: erra sur la grève en appelant son maître
+  - On the morning of 26 March he goes back north along the coast, to where the sea had closed over Smith (I.6 ¶9). *(Drafted.)*
+    - quote: Nab avait repris sur la côte la direction du nord
+  - In searching he finds no sign of any landing along two to three hundred yards of shore, the shells above the tide line unbroken (I.8 ¶19). *(Drafted.)*
+    - quote: il n’existait pas trace d’un atterrissage, ni ancien, ni récent
+  - He finds footprints in the sand toward five in the evening, on the day he left the Chimneys at dawn (26 March, by I.6 ¶9) (I.8 ¶21). *(My reading, to confirm.)*
+    - quote: je remarquai sur le sable des empreintes de pas
+  - He follows the footprints a quarter of a mile toward the dunes, careful not to efface them, and Top leads him to his master (I.8 ¶27). *(Drafted.)*
+    - quote: Top me conduisit ici même, près de mon maître
   - Cyrus Smith says Nab will bring provisions to the brickyard (I.13 ¶16). *(Drafted.)*
     - quote: Nab apportera des provisions
   - He and Pencroff, guided by Cyrus Smith, haul loads of limestone on a hurdle of woven branches (I.13 ¶44). *(Drafted.)*
@@ -63,7 +84,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: toujours souriant, serviable et bon
   - He cooks for the colony (I.13 ¶57). *(My reading, to confirm.)*
     - quote: Nab avait préparé un pot-au-feu d’agouti
-- **Appears in:** I.2, I.3, I.5, I.13, III.16
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.13, III.16
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

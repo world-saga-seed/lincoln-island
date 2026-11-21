@@ -18,4 +18,14 @@ Keywords: feu, kindling, mousses, paper cornet, 25 March, blaze, first meal
     - quote: il fallait prendre garde de ne plus le laisser éteindre
   - On the evening of 25 March, Pencroff cooked eggs for supper in its hot ashes (I.5 ¶84). *(Drafted.)*
     - quote: les introduire dans les cendres chaudes
-- **Appears in:** I.5
+  - On 26 March the fire was alight and it would be easy to keep embers (I.6 ¶7). *(Drafted.)*
+    - quote: Le feu était allumé, et il serait facile de conserver des braises
+  - Its smoke twisted at a point of rock outside the Chimneys (I.6 ¶17). *(Drafted.)*
+    - quote: la fumée qui se tordait à une pointe de roc
+  - The sea put it out: the fire was dead (I.8 ¶94). *(Drafted.)*
+    - quote: Le feu était éteint.
+  - Pencroff tells Spilett they have no fire left (I.9 ¶6). *(Drafted.)*
+    - quote: nous n’avons plus de feu
+  - They have no means of relighting it (I.9 ¶8). *(Drafted.)*
+    - quote: Ni aucun moyen de le rallumer.
+- **Appears in:** I.5, I.6, I.8, I.9

@@ -29,6 +29,10 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: n’ait plutôt conservé son carnet que sa boîte d’allumettes
   - He is a smoker, and so is expected always to have matches on him (I.5 ¶65). *(Drafted.)*
     - quote: vous êtes fumeur, vous avez toujours des allumettes sur vous
+  - He has kept a notebook and a watch, probably by oversight (I.6 ¶2). *(Drafted.)*
+    - quote: un carnet et une montre que Gédéon Spilett avait conservée par mégarde sans doute
+  - He is sure that Cyrus Smith will find a way to make fire, "with nothing" (I.9 ¶11). *(Drafted.)*
+    - quote: Il trouvera bien le moyen de nous faire du feu, lui !
   - A reporter of great talent (I.13 ¶5). *(Drafted.)*
     - quote: reporter de grand talent
   - He has learned everything so as to be able to speak of everything (I.13 ¶5). *(Drafted.)*
@@ -70,6 +74,11 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: déchira une feuille de son carnet
   - He notes the day's incidents in summary before sleeping (I.5 ¶88). *(Drafted.)*
     - quote: après avoir sommairement noté les incidents de ce jour
+  - He finds the double disappearance of Cyrus and Top, living or dead, inexplicable and improbable (I.7 ¶18). *(Drafted.)*
+    - quote: a quelque chose d’inexplicable et d’invraisemblable
+  - He alone is kept awake by anxiety through the storm, reproaching himself for not having gone with Nab (I.7 ¶34). *(Drafted.)*
+    - quote: Seul, Gédéon Spilett était tenu éveillé par l’inquiétude
+    - quote: Il se reprochait de ne pas avoir accompagné Nab
   - He is expected to contribute largely with head and hand to colonising the island (I.13 ¶5). *(Drafted.)*
     - quote: devait contribuer largement de la tête et de la main à la colonisation de l’île
   - He will turn hunting into a trade (I.13 ¶5). *(Drafted.)*
@@ -103,7 +112,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: Le reporter et Harbert devinrent promptement de très-adroits tireurs d’arc
   - He is a hunter by passion (I.13 ¶5). *(Drafted.)*
     - quote: chasseur passionné
-- **Appears in:** I.2, I.3, I.4, I.5, I.13, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
 - **Open:**
   - His origin, age and newspaper are not stated in these chapters; the text calls him only a reporter of great talent (I.13 ¶5). *(Drafted.)*
     - quote: reporter de grand talent

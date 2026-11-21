@@ -24,6 +24,10 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon
 - **On the page.**
   - Pencroff searched all over it in vain for his matchbox, in the tall grass on the forest edge (I.5 ¶36). *(Drafted.)*
     - quote: il le parcourut en tous sens
+  - Pigeons fly by hundreds at the crest of the plateau (I.6 ¶7). *(Drafted.)*
+    - quote: ces pigeons qui volaient par centaines à la crête du plateau
+  - Smith and Spilett were to spend a day at the Chimneys to examine the shore and the upper plateau (I.9 ¶79). *(Drafted.)*
+    - quote: afin d’examiner le littoral et le plateau supérieur
   - Nothing blocks the view: it takes in a half-circle of horizon from the cape to the promontory of the Reptile (I.13 ¶73). *(Drafted.)*
     - quote: qui embrassait l’horizon sur une demi-circonférence, depuis le cap jusqu’au promontoire du Reptile
   - To the south the horizon, lit from below by the first light of the moon, stood out sharply against the sky (I.13 ¶73). *(Drafted.)*
@@ -32,7 +36,7 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon
     - quote: en se réservant de tenir compte de sa hauteur au-dessus du niveau de la mer
   - He meant to measure that height next day by simple elementary geometry (I.13 ¶71). *(Drafted.)*
     - quote: par un simple procédé de géométrie élémentaire
-- **Appears in:** I.3, I.4, I.5, I.13
+- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.13
 - **Open:**
   - The plateau's height above the sea is to be measured but no figure is given in these chapters.
     - quote: ce qui nécessitait de mesurer la hauteur du plateau

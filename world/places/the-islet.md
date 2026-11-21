@@ -23,6 +23,10 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: Son extrême largeur ne dépassait pas un quart de mille
   - It lies half a mile from the shore and looks like an enormous cetacean, of which it is the much enlarged carcass (I.3 ¶51). *(Drafted.)*
     - quote: ressemblait à un énorme cétacé
+  - At spring tide with a gale the breakers were expected to pass over it, so that it was quite invisible (I.7 ¶77). *(Drafted.)*
+    - quote: elles devaient passer par-dessus l’îlot, absolument invisible alors
+  - The sea, passing over it, reached the foot of the granite wall in the storm (I.8 ¶90). *(Drafted.)*
+    - quote: la mer, passant par-dessus l’îlot, s’était portée jusqu’au pied de l’énorme courtine de granit
 - **On the page.**
   - Large heavy-flying birds rose from its holes, and others in flocks; Pencroff took them for gulls and sea-mews (I.3 ¶14). *(Drafted.)*
     - quote: des goëlands et des mouettes
@@ -32,7 +36,7 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **Appears in:** I.3
+- **Appears in:** I.3, I.7, I.8
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?

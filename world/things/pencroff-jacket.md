@@ -1,0 +1,8 @@
+# Pencroff's jacket: the sailor's jacket used to rub Smith
+
+*The sailor's jacket, used for rubbing Smith back to warmth.*
+
+Keywords: vareuse, jacket, sailor's coat, friction, rubbing
+
+- **What it is.** A sailor's jacket. Build if needed. *(Drafted.)*
+- **Appears in:** I.8 ¶13

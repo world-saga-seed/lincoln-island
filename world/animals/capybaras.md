@@ -1,0 +1,33 @@
+# Capybaras: the big water rodents of the forest pool
+
+*Pig-sized, web-footed rodents of the forest ponds, so little afraid of men that the first one the colonists meet barely flees.*
+
+Keywords: cabiai, capybara, rongeur, rodent, amphibie, pond, mare, ham, game, porc
+
+- **What it is.**
+  - Harbert names the animal a cabiai, one of the largest of the rodents (I.9 ¶104). *(Drafted.)*
+    - quote: Harbert crut reconnaître en cet animal un cabiai, c’est-à-dire un des plus grands échantillons de l’ordre des rongeurs
+  - It is a kind of pig about two and a half feet long, blackish brown and lighter on the belly, with hard, thin hair, and toes that seem joined by membranes (I.9 ¶103). *(Drafted.)*
+    - quote: une espèce de porc long de deux pieds et demi environ
+    - quote: d’un brun noirâtre mais moins foncé au ventre, ayant un poil dur et peu épais
+    - quote: semblaient réunis par des membranes
+  - Its big eyes are sunk deep in a thick layer of fat (I.9 ¶105). *(Drafted.)*
+    - quote: ses gros yeux profondément engagés dans une épaisse couche de graisse
+  - Harbert says it has webbed feet and is almost an amphibian, and that it must come up to breathe (I.9 ¶110, ¶112). *(Drafted.)*
+    - quote: puisqu’il a les pieds palmés, et c’est presque un amphibie
+    - quote: il viendra bientôt respirer à la surface
+  - It surfaces after a few minutes (I.9 ¶114). *(Drafted.)*
+    - quote: Après quelques minutes, l’animal remonta au-dessus des eaux
+- **On the page.**
+  - Held by Top, it does not struggle, and the narrator guesses it may be seeing men for the first time (I.9 ¶105). *(Drafted.)*
+    - quote: Peut-être voyait-il des hommes pour la première fois.
+  - It tears free of Top's teeth, grunts, knocks Harbert half over and vanishes into the wood (I.9 ¶106). *(Drafted.)*
+    - quote: poussa un vigoureux grognement, se précipita sur Harbert, le renversa à demi
+  - It dives into a wide pool shaded by great old pines and hides at the bottom (I.9 ¶108, ¶109). *(Drafted.)*
+    - quote: l’animal disparaissait sous les eaux d’une vaste mare, ombragée par de grands pins séculaires
+    - quote: caché au fond de la mare
+  - Dragged to the bank, it is killed by a blow of Nab's stick (I.9 ¶114). *(Drafted.)*
+    - quote: était assommé d’un coup du bâton de Nab
+  - Pencroff carries it on his shoulder; he means to roast it as soon as there is a coal (I.9 ¶115, ¶116). *(Drafted.)*
+    - quote: ce rongeur sera rongé jusqu’aux os
+- **Appears in:** I.9

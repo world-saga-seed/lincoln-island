@@ -18,4 +18,8 @@ Keywords: radeau, train de bois, float, timber, river transport, tide, pole
     - quote: Harbert, repoussant le train avec une longue perche
   - Neither boarded it; it followed the stream and reached the mouth, a few steps from the Chimneys, in under two hours (I.4 ¶64). *(Drafted.)*
     - quote: à quelques pas des Cheminées
-- **Appears in:** I.4
+  - As the first time, Pencroff quickly set up a raft of logs, though for want of fire it seemed to him a useless task (I.9 ¶118). *(Drafted.)*
+    - quote: Ainsi qu’il l’avait fait la première fois, Pencroff établit rapidement un train de bois, bien que, faute de feu, cela lui semblât une besogne inutile
+  - It followed the current of the river back toward the Chimneys (I.9 ¶118). *(Drafted.)*
+    - quote: le train suivant le fil de l’eau, on revint vers les Cheminées
+- **Appears in:** I.4, I.9

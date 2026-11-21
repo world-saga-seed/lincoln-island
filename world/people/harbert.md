@@ -19,6 +19,12 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: ses instincts de naturaliste devaient-ils être plus d’une fois utilisés
   - He has a pious heart, full of gratitude to the Author of all things (I.4 ¶53). *(Drafted.)*
     - quote: dont le cœur pieux était plein de reconnaissance
+  - He slips between broken stumps with the nimbleness of a young cat (I.6 ¶18). *(Drafted.)*
+    - quote: avec la prestesse d’un jeune chat
+  - The narrator calls him "le généreux enfant" (I.7 ¶26). *(Drafted.)*
+    - quote: le généreux enfant
+  - The narrator calls him "l’adolescent" (I.9 ¶26). *(Drafted.)*
+    - quote: les efforts de l’adolescent
   - A brave child, remarkably well taught already in the natural sciences (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant, remarquablement instruit déjà dans les sciences naturelles
   - Cyrus Smith addresses him as a "jeune garçon" (I.13 ¶61). *(Drafted.)*
@@ -58,6 +64,32 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: fort adroitement, sans le casser
   - At Pencroff's trembling refusal he strikes the match on a pebble and lights the fire; never had he been so moved (I.5 ¶78). *(Drafted.)*
     - quote: frotta rapidement le galet
+  - He finds salt left in the hollows of the rocks by evaporation (I.6 ¶10). *(Drafted.)*
+    - quote: Harbert avait trouvé du sel déposé dans le creux des roches par évaporation
+  - He suggests burnt linen as a substitute for tinder (I.6 ¶15). *(Drafted.)*
+    - quote: Cela peut, au besoin, servir d’amadou
+  - He names a bird of the marshy forest as a "jacamar" (I.6 ¶22). *(Drafted.)*
+    - quote: Ce doit être un « jacamar »
+  - He throws a stone skilfully and hard at the jacamar and strikes it at the wing root, but not hard enough to stop it (I.6 ¶24). *(Drafted.)*
+    - quote: adroitement et vigoureusement lancée par le jeune garçon
+  - He names the little long-tailed birds as couroucous from their shed feathers (I.6 ¶29). *(Drafted.)*
+    - quote: Ce sont des « couroucous »
+  - He knows that couroucous are good to eat, their flesh very delicate, and easy to club (I.6 ¶31). *(Drafted.)*
+    - quote: Ils sont bons à manger, et même leur chair est très délicate
+  - He recognises the male tétras by the two pointed wing-tufts (I.6 ¶37). *(Drafted.)*
+    - quote: Harbert reconnut les mâles aux deux ailerons pointus
+  - It is the first time he has seen birds taken on a line (I.6 ¶49). *(Drafted.)*
+    - quote: C’était la première fois qu’il voyait prendre des oiseaux à la ligne
+  - He reasons that whatever is new in Nab's long absence can only be to Cyrus Smith's advantage (I.7 ¶22). *(Drafted.)*
+    - quote: tout ce qui était nouveau ne pouvait l’être qu’à l’avantage de Cyrus Smith
+  - He gathers edible seaweed (a sargasso of the fucaceae) from high rocks that the sea wets only at spring tides (I.9 ¶18). *(Drafted.)*
+    - quote: une certaine quantité d’algues comestibles, qu’il ramassa sur de hautes roches
+  - He finds a tree with edible fruit, the pine nut tree, whose almonds are ripe (I.9 ¶97). *(Drafted.)*
+    - quote: la découverte qu’Harbert fit d’un arbre dont les fruits étaient comestibles
+  - He takes the animal Top holds for a capybara, one of the largest of the rodents (I.9 ¶104). *(Drafted.)*
+    - quote: Harbert crut reconnaître en cet animal un cabiai
+  - He knows the capybara has webbed feet and is almost an amphibian (I.9 ¶112). *(Drafted.)*
+    - quote: puisqu’il a les pieds palmés, et c’est presque un amphibie
   - He is to supply a serious addition to the common cause (I.13 ¶6). *(Drafted.)*
     - quote: allait fournir un appoint sérieux à la cause commune
   - He discovers on the way the tree whose branches the South American Indians use for bows, the "crejimba", a palm that bears no edible fruit (I.13 ¶30). *(Drafted.)*
@@ -81,11 +113,15 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
 - **Habits.**
   - He is a naturalist who names what the party finds (I.4 ¶16). *(Drafted.)*
     - quote: Le jeune garçon était très-fort en histoire naturelle
+  - He sets out to hunt confident (I.9 ¶80). *(Drafted.)*
+    - quote: Harbert confiant
+  - He does not complain of the meagre meal (I.9 ¶99). *(Drafted.)*
+    - quote: Il ne faut pas se plaindre
   - He is learned in natural science, and (I.13 ¶6). *(My reading, to confirm.)*
     - quote: remarquablement instruit déjà dans les sciences naturelles
   - He shoots with a bow (I.13 ¶36). *(Drafted.)*
     - quote: de très-adroits tireurs d’arc
-- **Appears in:** I.2, I.3, I.4, I.5, I.13, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

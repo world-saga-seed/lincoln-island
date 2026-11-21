@@ -27,6 +27,19 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: Un sable fin en couvrait le sol
   - Its first hearth is at the end of the first left corridor (see [the hearth](../things/hearth.md)) (I.5 ¶11). *(Drafted.)*
     - quote: au fond du premier couloir de gauche
+  - It serves as a sufficient provisional retreat (I.6 ¶7). *(Drafted.)*
+    - quote: Les Cheminées offraient une retraite suffisante provisoirement
+  - Its central chamber has a small cavity at the back, in the rock, sheltered from all wind and damp (I.6 ¶16). *(Drafted.)*
+    - quote: au fond d’une petite cavité du roc, à l’abri de tout vent et de toute humidité
+  - In a south-east gale the smoke of the hearth, driven back by the narrow gut, often beat down and filled the corridors, making them uninhabitable (I.7 ¶27). *(Drafted.)*
+    - quote: emplissant les couloirs et les rendant inhabitables
+  - The heap of rock is solid, made of enormous granite blocks, some of which, insufficiently balanced, seemed to tremble on their base (I.7 ¶33). *(Drafted.)*
+    - quote: l’entassement de roches qui formait les Cheminées était solide
+    - quote: insuffisamment équilibrés, semblaient trembler sur leur base
+  - It has a central passage (I.9 ¶16). *(Drafted.)*
+    - quote: Cyrus Smith fut transporté dans le couloir central
+  - Pencroff had set partitions at points of the passages; the sea destroyed them, and the draughts made the Chimneys hardly habitable (I.9 ¶17). *(Drafted.)*
+    - quote: la mer avait détruit les cloisons établies par Pencroff en certains points des couloirs
   - Its corridors have a sand floor (I.13 ¶40). *(Drafted.)*
     - quote: étendre sur le sable des couloirs une fraîche litière de mousses et de feuilles sèches
   - It has a central chamber in which the colonists eat together (I.13 ¶57). *(Drafted.)*
@@ -42,6 +55,19 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: à quelques pas des Cheminées
   - Spilett slept at the back of a dark corridor, Harbert slept, Pencroff watched by the fire, and Nab slept outside on the shore on the first night (I.5 ¶90). *(Drafted.)*
     - quote: Un seul des naufragés ne reposa pas dans les Cheminées
+  - In the storm stones torn from the top of the plateau fell on the strand, and some rolled onto the upper part of the Chimneys or burst there (I.7 ¶33). *(Drafted.)*
+    - quote: Quelques-unes roulaient même à la partie supérieure des Cheminées
+  - Pencroff calls it "a house with rooms, beds and hearth" (I.8 ¶56). *(Drafted.)*
+    - quote: une maison avec chambres, lits et foyer
+  - After the storm of the day before, considerable landslips had occurred and big blocks of rock lay on the strand (I.8 ¶90). *(Drafted.)*
+    - quote: Des éboulements assez importants s’étaient produits
+    - quote: De gros quartiers de roche gisaient sur la grève
+  - In front of the opening the ground was deeply gullied, having suffered a violent assault of the waves (I.8 ¶91). *(Drafted.)*
+    - quote: Devant l’orifice des Cheminées, le sol, profondément raviné, avait subi un violent assaut des lames
+  - The sea had entered to the bottom of the corridors and upset and destroyed everything inside (I.8 ¶94). *(Drafted.)*
+    - quote: La mer avait pénétré jusqu’au fond des couloirs, et tout bouleversé, tout détruit à l’intérieur des Cheminées
+  - Smoke is seen escaping and whirling above the rocks as Pencroff points to the angle of the cliff on the way back to the Chimneys (I.9 ¶121). *(Drafted.)*
+    - quote: Une fumée s’échappait et tourbillonnait au-dessus des roches !
   - The Chimneys were not made more comfortable in these days; the colonists slept on moss and dry leaves laid on the sand (I.13 ¶40). *(Drafted.)*
     - quote: ne furent pas aménagées plus confortablement
   - The engineer counted on finding or building a more suitable dwelling (I.13 ¶40). *(Drafted.)*
@@ -54,7 +80,7 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: Le soir du 15 avril, on revint donc définitivement aux Cheminées
   - Nemo brought the dog back to the Chimneys (III.16 ¶65). *(Drafted.)*
     - quote: ramena le chien aux Cheminées
-- **Appears in:** I.4, I.5, I.13, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
 - **Open:**
   - The text does not say where the Chimneys stand in relation to the Mercy or the lake, nor how many corridors or chambers there are.
     - quote: sur le sable des couloirs

@@ -17,12 +17,32 @@ Keywords: forêt, conifers, woodland, deodar, pine, dead wood, riverbank, tall g
     - quote: d’énormes quantités de bois mort gisaient à leurs pieds
   - It reaches from the mountain's first slopes to two miles from the coast (I.4 ¶47). *(Drafted.)*
     - quote: jusqu’à deux milles de la côte
+  - It and the coast already traversed are virgin of any human trace; there are only tracks of quadrupeds, some left by formidable wild beasts (I.6 ¶20). *(Drafted.)*
+    - quote: vierge de toute empreinte humaine
+    - quote: quelques-unes avaient été laissées par des fauves formidables
+  - Nowhere is there the mark of an axe on a trunk, nor the remains of a dead fire, nor a footprint (I.6 ¶20). *(Drafted.)*
+    - quote: nulle part la marque d’une hache sur un tronc d’arbre, ni les restes d’un feu éteint, ni l’empreinte d’un pas
+  - Farther in the trees are more spaced and magnificent, but none bears edible fruit (I.6 ¶27). *(Drafted.)*
+    - quote: devenaient magnifiques, mais aucun ne produisait de fruits comestibles
+  - It is made up only of conifers: deodars, "douglas" like those of the north-west coast of America, and admirable firs a hundred and fifty feet high (I.6 ¶27). *(Drafted.)*
+    - quote: Mais cette forêt ne se composait que de conifères
+    - quote: des sapins admirables, mesurant cent cinquante pieds de hauteur
+  - Junipers grow in it, with aromatic berries that birds peck (I.6 ¶37). *(Drafted.)*
+    - quote: dont ils becquetaient les baies aromatiques, entre autres des genévriers
+  - Its trees are mostly of the pine family, and in places, in clumps, the pines are of considerable size (I.9 ¶87). *(Drafted.)*
+    - quote: appartenant pour la plupart à la famille des pins
+    - quote: ces pins présentaient des dimensions considérables
+  - Clearings bristling with weathered stumps are covered with dead wood, inexhaustible reserves of fuel; beyond them the thicket tightens and becomes almost impenetrable (I.9 ¶87). *(Drafted.)*
+    - quote: formaient ainsi d’inépuisables réserves de combustible
+    - quote: le taillis se resserrait et devenait presque impénétrable
+  - With no beaten path, finding one's way among the masses of trees is rather hard (I.9 ¶88). *(Drafted.)*
+    - quote: Se guider au milieu de ces massifs d’arbres, sans aucun chemin frayé, était chose assez difficile
 - **On the page.**
   - A mass of tall trees was visible from the islet to the right of the cut face (I.3 ¶53). *(Drafted.)*
     - quote: la masse confuse de grands arbres
   - The grass on the bank had probably never been trodden by a man (I.4 ¶38). *(Drafted.)*
     - quote: le pied d’un homme ne s’était, probablement, jamais hasardé
-- **Appears in:** I.3, I.4
+- **Appears in:** I.3, I.4, I.6, I.9
 - **Open:**
   - I.4 does not name this forest. I.13 ¶36 names the wood of the Jacamar as the part of the forest on the left bank of the Mercy, and I.4 ¶28 puts this forest on the left bank of the river at the Chimneys; the card does not join them.
     - quote: ils commencèrent à remonter la rive gauche de la rivière

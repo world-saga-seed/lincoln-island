@@ -16,4 +16,12 @@ Keywords: foyer, fireplace, flue, smoke, boyau, flat stones, embers
     - quote: La fumée s’en allait facilement par l’étroit conduit, la cheminée tirait
   - Embers must always be kept under the ash so that the fire is never put out (I.5 ¶82). *(Drafted.)*
     - quote: conserver toujours quelque braise sous la cendre
-- **Appears in:** I.4, I.5
+  - A good fire crackled on it, its flame throwing great light into the dark parts of the passage (I.7 ¶20). *(Drafted.)*
+    - quote: Un bon feu pétillait sur le foyer
+  - Once the tétras were cooked Pencroff let the fire fall and kept only embers buried under the ashes (I.7 ¶28). *(Drafted.)*
+    - quote: ne conserva plus que des braises enfouies sous les cendres
+  - Before leaving he put pieces of wood under the ashes to find fire again on his return (I.7 ¶70). *(Drafted.)*
+    - quote: Il plaça quelques morceaux de bois sous les cendres, de manière à retrouver du feu au retour
+  - After the storm the drowned ashes were nothing but mud (I.8 ¶94). *(Drafted.)*
+    - quote: Les cendres noyées n’étaient plus que vase
+- **Appears in:** I.4, I.5, I.7, I.8

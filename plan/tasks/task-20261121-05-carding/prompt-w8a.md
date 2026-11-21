@@ -1,4 +1,4 @@
-You are carding Jules Verne's *L'Île mystérieuse* (Hetzel, 1875) from the French, in English, one wave of chapters at a time. The repository is the current folder; every path below is relative to it. Run no git commands of any kind, not even read-only ones. Do not launch agents. Work alone. Any scratch file goes in <scratchpad>/agent-w8a/ and nowhere else.
+You are carding Jules Verne's *L'Île mystérieuse* (Hetzel, 1875) from the French, in English, one wave of chapters at a time. The repository is the current folder; every path below is relative to it. Run no git commands of any kind, not even read-only ones. To see what you have written, read your files; never run git status, git diff or git log. Do not launch agents. Work alone. Any scratch file goes in <scratchpad>/agent-w8a/ and nowhere else.
 
 YOUR CHAPTERS (read every paragraph, footnote, plate caption and loose line):
 

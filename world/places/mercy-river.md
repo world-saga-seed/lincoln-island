@@ -23,6 +23,24 @@ Keywords: Mercy, stream, ford, bank, current, crossing
     - quote: son cours assez sinueux
   - Its banks are very steep, so the raft could not strand (I.4 ¶64). *(Drafted.)*
     - quote: La berge était très-accore
+  - From the bend that turns its course to the south-west it narrows by degrees, its banks forming a deeply cut bed covered by a double arch of trees (I.6 ¶18). *(Drafted.)*
+    - quote: À partir du coude qui reportait son cours dans le sud-ouest, la rivière se rétrécissait peu à peu, et ses rives formaient un lit très-encaissé recouvert par le double arceau des arbres
+  - Its left bank is flat and rises insensibly inland (I.6 ¶19). *(Drafted.)*
+    - quote: Sur cette rive gauche, le sol était plat et remontait insensiblement vers l’intérieur
+  - The left bank is sometimes damp and marshy, with a network of liquid threads underneath that must drain to the river, and sometimes a brook crosses the thicket (I.6 ¶19). *(Drafted.)*
+    - quote: On y sentait tout un réseau sous-jacent de filets liquides
+    - quote: un ruisseau coulait à travers le taillis
+  - The opposite bank is more broken, and the valley whose floor the river occupies is drawn more clearly there (I.6 ¶19). *(Drafted.)*
+    - quote: La rive opposée paraissait être plus accidentée, et la vallée, dont la rivière occupait le thalweg, s’y dessinait plus nettement
+  - On the right bank a hill covered with trees set in tiers forms a curtain that masks the view (I.6 ¶19). *(Drafted.)*
+    - quote: La colline, couverte d’arbres disposés par étages, formait un rideau qui masquait le regard
+  - On the right bank the slopes fall abruptly and the trees, bent over the water, hold only by the power of their roots, so that walking would be hard (I.6 ¶19). *(Drafted.)*
+    - quote: les déclivités s’y abaissaient brusquement, et les arbres, courbés sur l’eau, ne se maintenaient que par la puissance de leurs racines
+  - It curves slightly to form a hook to the south, and the narrator judges that it must rise in the mountain and be fed by the melting of the snows on the flanks of the central cone (I.6 ¶35). *(Drafted.)*
+    - quote: de manière à former un crochet vers le sud
+    - quote: la rivière devait prendre sa source dans la montagne et s’alimenter de la fonte des neiges
+  - It flows at the bottom of a narrow valley, into which the gale's air currents plunged with irresistible violence (I.7 ¶27). *(Drafted.)*
+    - quote: l’étroite vallée au fond de laquelle se soulevait le cours d’eau
   - It is a river with a bank (berge) that can be followed on foot (I.13 ¶29). *(Drafted.)*
     - quote: On prit donc par la berge de la Mercy
   - At the time of the text it is deep, and crossing it is a difficulty (I.13 ¶70). *(Drafted.)*
@@ -34,13 +52,17 @@ Keywords: Mercy, stream, ford, bank, current, crossing
     - quote: il était important de s’établir dans le voisinage d’un cours d’eau potable
   - Pencroff saw in the flow and ebb a way to carry heavy objects (I.4 ¶28). *(Drafted.)*
     - quote: pour le transport des objets pesants
+  - Smith drank a little of its fresh water, drawn in a large shell (I.9 ¶52). *(Drafted.)*
+    - quote: un peu d’eau fraîche, puisée à la rivière dans une vaste coquille
+  - A raft of logs followed its current back toward the Chimneys (I.9 ¶118). *(Drafted.)*
+    - quote: le train suivant le fil de l’eau, on revint vers les Cheminées
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
   - The colonists went up its left bank from the shore to the plateau (I.13 ¶72). *(Drafted.)*
     - quote: en remontant la rive gauche de la Mercy
   - Nemo sent the boat back into the current of the Mercy (III.16 ¶65). *(Drafted.)*
     - quote: renvoya le canot dans le courant de la Mercy
-- **Appears in:** I.4, I.5, I.13, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.13, III.16
 - **Open:**
   - The text gives the Mercy no width, depth in figures, source or mouth.
     - quote: alors profonde

@@ -27,6 +27,27 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: il était un fumeur acharné
   - He knows fifty-two ways of dressing eggs (I.5 ¶84). *(Drafted.)*
     - quote: connaissait cinquante-deux manières d’accommoder les œufs
+  - He owns a large-checked handkerchief, part of which is soon reduced to a half-burnt rag, to serve as tinder (I.6 ¶16). *(Drafted.)*
+    - quote: le mouchoir à grands carreaux de Pencroff fut bientôt réduit, pour une partie, à l’état de chiffon à demi brûlé
+  - The narrator calls him "inventif" (inventive) (I.6 ¶42). *(Drafted.)*
+    - quote: l’inventif Pencroff
+  - He is modest: he says taking birds on a line is not his first try, and that he has not the merit of inventing it (I.6 ¶49). *(Drafted.)*
+    - quote: le marin, très-modeste, lui affirma qu’il n’en était pas à son coup d’essai
+    - quote: il n’avait pas le mérite de l’invention
+  - He gives a cable's length (une encâblure) as about a hundred and twenty fathoms, or six hundred feet (I.7 ¶9). *(Drafted.)*
+    - quote: Cent vingt brasses environ ou six cents pieds.
+  - His life as a sailor has accustomed him to storm violence (I.7 ¶34). *(Drafted.)*
+    - quote: que sa vie de marin avait habitué à toutes ces violences
+  - He wakes and collects his wits with the promptness peculiar to seafarers (I.7 ¶36). *(Drafted.)*
+    - quote: en reprenant ses idées avec cette promptitude particulière aux gens de mer
+  - He shares his companions' confidence in Cyrus Smith (I.9 ¶14). *(Drafted.)*
+    - quote: il partageait la confiance que ses compagnons avaient en Cyrus Smith
+  - The narrator thinks it probable that he lacks "le coup" for lighting wood by friction (I.9 ¶25). *(Drafted.)*
+    - quote: il est probable que Pencroff n’avait pas « le coup »
+  - Fire is his fixed idea (I.9 ¶59). *(Drafted.)*
+    - quote: qui, lui aussi, avait son idée fixe
+  - The narrator calls him "l’entêté marin" (the stubborn sailor), in his demand for fire (I.9 ¶63). *(Drafted.)*
+    - quote: l’entêté marin
   - He had been a sailor on every ocean (I.13 ¶8). *(Drafted.)*
     - quote: il avait été marin sur tous les océans
   - He had been a carpenter in the shipyards of Brooklyn (I.13 ¶8). *(Drafted.)*
@@ -104,6 +125,30 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: je n’ai jamais été si ému de ma vie
   - He watches near the hearth the whole first night and feeds it generously (I.5 ¶89). *(Drafted.)*
     - quote: il passa la nuit près du foyer
+  - He makes two cudgels from two stout branches broken from the first tree of the forest; Harbert wears the points on a rock (I.6 ¶18). *(Drafted.)*
+    - quote: Pencroff cassa au premier arbre deux solides branches qu’il transforma en gourdins
+  - He searches in vain for palms, which serve so many uses of household life (I.6 ¶27). *(Drafted.)*
+    - quote: Pencroff cherchait vainement quelques-uns de ces précieux palmiers
+  - He makes bird lines of thin lianas knotted together, fifteen to twenty feet long, with strong acacia thorns for hooks and fat red worms for bait, and spares the nests (I.6 ¶41). *(Drafted.)*
+    - quote: Les lignes furent faites de minces lianes, rattachées l’une à l’autre et longues de quinze à vingt pieds
+    - quote: De grosses épines très-fortes, à pointes recourbées, que fournit un buisson d’acacias nains
+    - quote: de gros vers rouges qui rampaient sur le sol en tinrent lieu
+    - quote: Il eut grand soin de ne pas toucher à ces nids
+  - He strikes ("ferre") the line with a sharp jerk when three tétras have swallowed bait and hook, and takes them (I.6 ¶47). *(Drafted.)*
+    - quote: d’un coup sec, Pencroff « ferra » son engin
+  - He is convinced that Cyrus Smith has drowned (I.7 ¶19). *(Drafted.)*
+    - quote: Malheureusement, ma conviction est faite !
+  - He feels that Top's coming may give the lie to his conjectures (I.7 ¶68). *(Drafted.)*
+    - quote: l’arrivée de Top pouvait donner un démenti à ses conjectures
+  - He had forgotten to bring the burnt linen, which he could have lit by striking two stones (I.8 ¶38). *(Drafted.)*
+    - quote: il avait malheureusement oublié d’emporter le linge brûlé
+  - With Nab and Harbert, and no tools but their arms, he strips a stunted maritime pine of its branches and makes a litter of them, covered with leaves and grass (I.8 ¶49). *(Drafted.)*
+    - quote: sans autres outils que leurs bras
+    - quote: de ces branches, on fit une litière
+  - He rubs two pieces of dry wood together with Nab for an hour, without result (I.9 ¶23). *(Drafted.)*
+    - quote: Après une heure de travail, Pencroff était en nage
+  - He makes a log raft at the river's bend, as the first time, and sends the wood down by the current (I.9 ¶118). *(Drafted.)*
+    - quote: Pencroff établit rapidement un train de bois
   - He asks Cyrus where they are to begin (I.13 ¶1). *(Drafted.)*
     - quote: par où allons-nous commencer
   - He asks what the kiln will be for (I.13 ¶11). *(Drafted.)*
@@ -141,13 +186,23 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: la boîte qui ne le quittait jamais, car il était un fumeur acharné
   - He sets out by order: shelter, fire, food (I.4 ¶5). *(Drafted.)*
     - quote: Il s’agit donc de trouver abri, feu et nourriture.
+  - He lies in wait for game downwind and under cover (I.6 ¶43). *(Drafted.)*
+    - quote: avaient eu soin de se placer sous le vent des gallinacés
+  - He banks the embers and slips wood under the ashes so as to find fire on his return (I.7 ¶70). *(Drafted.)*
+    - quote: de manière à retrouver du feu au retour
+  - He blazes his way through the forest with broken branches (I.9 ¶88). *(Drafted.)*
+    - quote: jalonnait-il sa route en faisant quelques brisées
+  - He will believe in fire when the wood blazes in the hearth (I.9 ¶94). *(My reading, to confirm.)*
+    - quote: Je le croirai quand le bois flambera dans le foyer.
+  - He willingly uses the cry "Hurrah!" as his shout of triumph (I.9 ¶115). *(Drafted.)*
+    - quote: qui employait volontiers ce cri de triomphe
   - He smokes a pipe, or would if he had tobacco (I.13 ¶48). *(Drafted.)*
     - quote: auxquelles le tabac manquait, hélas !
   - He is confident of every outcome (I.13 ¶49). *(Drafted.)*
     - quote: ses élans de confiance absolue
   - He can turn his hand to any trade, as seamen do (I.13 ¶8). *(Drafted.)*
     - quote: propre à tout
-- **Appears in:** I.2, I.3, I.4, I.5, I.13, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

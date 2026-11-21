@@ -18,4 +18,8 @@ Keywords: pigeon, pigeon de roche, wild pigeon, eggs, œufs, Harbert
     - quote: Deux douzaines d’œufs furent apportées par Harbert
   - The hardened eggs are excellent (I.5 ¶85). *(My reading, to confirm.)*
     - quote: Ces œufs durcis étaient excellents
-- **Appears in:** I.4, I.5
+  - Pigeons fly by hundreds at the crest of the plateau; the castaways think of killing some with sticks or stones (I.6 ¶7). *(Drafted.)*
+    - quote: ces pigeons qui volaient par centaines à la crête du plateau
+  - Pigeon eggs make up, with lithodomes, the breakfast of 26 March (I.6 ¶10). *(Drafted.)*
+    - quote: uniquement composé d’œufs de pigeon et de lithodomes
+- **Appears in:** I.4, I.5, I.6

@@ -19,4 +19,11 @@ Keywords: champ de blé, grain, sowing, plot, palisade, garden, seed bed, wheat
     - quote: ce qu’il appelait sérieusement son « champ de blé »
   - The plateau climbed to is the one above Granite-house, read as the Grande-Vue plateau (see [the Grande-Vue plateau](grande-vue-plateau.md)) (I.20 ¶67). *(My reading, to confirm.)*
     - quote: les colons gravirent les hauteurs de Granite-house
-- **Appears in:** I.20, I.21
+  - The first field, sown with only one grain, prospered under Pencroff's care (II.7 ¶36). *(Drafted.)*
+    - quote: le premier champ de blé, ensemencé uniquement d’un seul grain, avait admirablement prospéré, grâce aux soins de Pencroff
+  - A second field is prepared and surrounded by a strong high pointed palisade that quadrupeds would hardly clear, with noisy clappers and frightening dummies against the birds (see [the scarecrows](../things/scarecrows.md)) (II.7 ¶38). *(Drafted.)*
+    - quote: entouré d’une forte palissade, haute et aiguë, que les quadrupèdes eussent très-difficilement franchie
+    - quote: des tourniquets criards et des mannequins effrayants
+  - Seven hundred and fifty grains are laid in small regular furrows (II.7 ¶38). *(Drafted.)*
+    - quote: Les sept cent cinquante grains furent alors déposés dans de petits sillons bien réguliers
+- **Appears in:** I.20, I.21, II.7

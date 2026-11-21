@@ -16,4 +16,6 @@ Keywords: thé d’Oswego, monarde, monarda, tea, infusion, herb, boisson, bever
   - Nab adds a few cups of it to the cold-meat breakfast on the marsh trip, and it is among the dishes of the 24 October dinner (I.21 ¶20; I.22 ¶74). *(Drafted.)*
     - quote: quelques tasses de thé d’Oswego
     - quote: du thé d’Oswego
-- **Appears in:** I.19, I.20, I.21, I.22
+  - It is among the island's drinks: tea of Oswego, supplied by the didymous monardas (II.8 ¶44). *(Drafted.)*
+    - quote: Au thé d’Oswego fourni par les monardes didymes
+- **Appears in:** I.19, I.20, I.21, I.22, II.8

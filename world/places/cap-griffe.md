@@ -38,12 +38,24 @@ Keywords: cap Griffe, headland, promontory, point, south shore, cap de la Griffe
     - quote: depuis le cap Griffe, au sud-est
   - A glimpse of the coast as far as it is meant to be taken from the point where the chest lay (II.2 ¶13). *(Drafted.)*
     - quote: un aperçu rapide de la côte jusqu’au cap Griffe
+  - It cannot be seen from the end of the Serpentine peninsula, being hidden by high rocks, and a notch of the land hides the rest of the coast beyond three miles (II.5 ¶3). *(Drafted.)*
+    - quote: on ne pouvait apercevoir le cap Griffe, caché par de hautes roches
+  - Smith reckons it thirty miles from the end of the peninsula, taking the curves of the coast into account, and Harbert adds ten more miles from the cape to Granite-house, forty in all (II.5 ¶7, ¶9, ¶10). *(Drafted.)*
+    - quote: À trente milles environ, répondit l’ingénieur, si nous tenons compte des courbures de la côte
+    - quote: du cap Griffe à Granite-house, il faudra encore compter dix milles, au moins
+  - Nab points out that, once past it, the walkers will be barred by the Mercy (II.5 ¶19, ¶20). *(Drafted.)*
+    - quote: après avoir doublé ce cap, nous serons barrés
+  - From the angle where the south coast begins its curve it is seen twenty-five miles off, scarcely showing in the morning mist, lifted by a mirage as if hung between land and water (II.5 ¶27). *(Drafted.)*
+    - quote: À vingt-cinq milles, la côte se terminait par le cap Griffe
+    - quote: qu’un phénomène de mirage rehaussait, comme s’il eût été suspendu entre la terre et l’eau
+  - From the cove of port Ballon, less than ten miles from it, the view passes over the last rocks of the cape to the Union Bay (see [port Ballon](port-ballon.md)) (II.5 ¶44, ¶47). *(Drafted.)*
+    - quote: passant par-dessus les dernières roches du cap
 - **On the page.**
   - From the plateau a sharp point in the south shuts the horizon, and one could not tell whether the land goes on or turns south-east and south-west, making a very long peninsula (I.4 ¶46). *(Drafted.)*
     - quote: une sorte de presqu’île très-allongée
   - The half-circle of horizon visible from the plateau runs from the cape to the promontory of the Reptile (I.13 ¶73). *(My reading, to confirm.)*
     - quote: depuis le cap jusqu’au promontoire du Reptile
-- **Appears in:** I.3, I.4, I.11, I.13, I.19, I.21, II.1, II.2
+- **Appears in:** I.3, I.4, I.11, I.13, I.19, I.21, II.1, II.2, II.5
 - **Open:**
   - The text does not say how far the cape is from the Chimneys or the plateau.
     - quote: le cap Griffe lui cachait l’horizon du sud

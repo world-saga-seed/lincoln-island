@@ -28,7 +28,10 @@ Keywords: lapin, rabbit, garenne, warren, terrier, burrow, lapins d’Amérique,
   - The warren still gives its customary share, enough to feed the whole colony, though the traps yield little now that the cold has ended (II.1 ¶36). *(Drafted.)*
     - quote: la garenne donnait-elle son contingent accoutumé, qui eût pu nourrir toute la colonie
     - quote: le rendement des trappes était peu important depuis que le froid avait cessé
-- **Appears in:** I.19, I.20, I.22, II.1
+  - The warren stands a little outside the point where the Creek-Glycérine begins, so that its inhabitants cannot enter the reserved plateau or ravage the new plantings; it still supplies its quota of rabbits to the kitchens of Granite-house (II.8 ¶15). *(Drafted.)*
+    - quote: La garenne fournissait toujours son contingent de lapins
+    - quote: ses hôtes ne pouvaient pénétrer sur le plateau réservé
+- **Appears in:** I.19, I.20, I.22, II.1, II.8
 - **Open:**
   - The text gives the name "lapins d’Amérique" both to the maras of I.12 and to the warren's rabbits; it does not say whether they are one kind (I.12 ¶64; I.19 ¶41). *(Drafted.)*
     - quote: véritables lapins d’Amérique

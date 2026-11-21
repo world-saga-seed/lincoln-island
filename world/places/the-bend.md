@@ -20,4 +20,11 @@ Keywords: coude, elbow, turn, river bend, forest edge, landmark
     - quote: précisément à l’angle où, sept mois auparavant, Pencroff avait formé son premier train de bois
   - It is a rather sharp angle, after which the river rounds and turns south-west (II.3 ¶11). *(Drafted.)*
     - quote: Après cet angle assez aigu
-- **Appears in:** I.6, I.9, II.3
+  - It is the first bend formed by the river above the mouth, where the bed is eighty feet wide, hard to cross; the colonists reach it after midnight on 2 November (II.5 ¶98, ¶99). *(Drafted.)*
+    - quote: au premier coude formé par la rivière
+  - On 3 November, going up the left bank, the colonists reach the bend and judge it a good place for the bridge; a carriage road could be cut from it to port Ballon (II.7 ¶12, ¶13, ¶14). *(Drafted.)*
+    - quote: arrivèrent bientôt au coude formé par la rivière
+    - quote: L’endroit parut convenable
+  - It is the point from which the road to port Ballon is cut through the Far-West (see [the road to port Ballon](port-ballon-road.md)) (II.7 ¶61). *(Drafted.)*
+    - quote: depuis le coude de la Mercy jusqu’au port Ballon
+- **Appears in:** I.6, I.9, II.3, II.5, II.7

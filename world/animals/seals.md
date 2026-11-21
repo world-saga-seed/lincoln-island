@@ -39,4 +39,7 @@ Keywords: phoque, seal, amphibie, amphibian, îlot du Salut, islet, huile, oil, 
     - quote: environ trois cents livres de graisse
   - Pencroff finds their fur poor for clothing (I.22 ¶1). *(Drafted.)*
     - quote: ces renards ou à ces phoques, dont la fourrure laissait à désirer
-- **Appears in:** I.14, I.15, I.20, I.22
+  - Seal leather is made into shoes, large and long, to replace the shoes and boots brought from America (II.8 ¶5). *(Drafted.)*
+    - quote: des chaussures en cuir de phoque
+    - quote: remplacer à propos les souliers et les bottes apportés d’Amérique
+- **Appears in:** I.14, I.15, I.20, I.22, II.8

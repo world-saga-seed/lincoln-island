@@ -15,4 +15,7 @@ Keywords: acide azotique, nitric acid, acid, distillation, saltpetre, nitro-glyc
     - quote: puisqu’il avait de l’acide azotique à sa disposition
   - Smith counts it, with saltpetre, sulphur and charcoal, among what the colonists have for making guncotton or powder (I.18 ¶9). *(Drafted.)*
     - quote: puisque nous avons l’acide azotique, le salpêtre, le soufre et le charbon
-- **Appears in:** I.14, I.17, I.18
+  - For the pyroxyle Smith has nitric acid made easily from the natural saltpetre attacked by sulphuric acid; he has only ordinary nitric acid, not fuming, and mixes it with concentrated sulphuric acid to get the same result (see [the pyroxyle](pyroxyle.md)) (II.8 ¶10, ¶13). *(Drafted.)*
+    - quote: avait déjà pu facilement produire de l’acide azotique, en attaquant le salpêtre que lui fournissait la nature
+    - quote: n’avait à sa disposition que de l’acide azotique ordinaire
+- **Appears in:** I.14, I.17, I.18, II.8

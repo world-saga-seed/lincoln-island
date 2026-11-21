@@ -85,9 +85,6 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: installons-nous comme pour l’éternité
   - He is the only companion Cyrus Smith tells of Top's behaviour at the well (I.22 ¶55). *(Drafted.)*
     - quote: l’ingénieur ne communiqua ses impressions qu’à Gédéon Spilett
-  - He backs Pencroff in asking for firearms, and says that if the island holds fierce animals they must be fought and exterminated (I.22 ¶57, ¶58). *(Drafted.)*
-    - quote: Gédéon Spilett appuyait, du reste, Pencroff
-    - quote: il faut penser à les combattre et à les exterminer
   - He counsels prudence on learning that a gun has been fired on the island (II.1 ¶16). *(Drafted.)*
     - quote: Je pense que nous devrons agir prudemment
   - He and Cyrus Smith talk at length of the lead shot and of any link with the engineer's rescue (II.1 ¶30). *(Drafted.)*
@@ -109,6 +106,29 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: Il n’en était pas à son premier tigre
     - quote: la carabine à l’épaule
     - quote: sans qu’un de ses muscles tressaillît
+  - He holds that "c'est la mer" that turned the turtle over (II.5 ¶14). *(Drafted.)*
+    - quote: Ne savez-vous pas que c’est la mer qui l’a retournée
+  - He takes the failure to find a wreck as a consolation: no one will come to dispute Lincoln Island with them (II.5 ¶50). *(Drafted.)*
+    - quote: il faut en prendre son parti et se consoler en pensant que nul ne viendra nous disputer la possession de l’île Lincoln
+  - At the sight of the drifting canoe he says low to the engineer, "voilà ce que l'on peut appeler une circonstance…" (II.5 ¶114). *(Drafted.)*
+    - quote: voilà ce que l’on peut appeler une circonstance
+  - He is the one who reasons that "rien n'est plus naturel": someone came in their absence and took the dwelling, "le chasseur au grain de plomb" (II.6 ¶6, ¶8). *(Drafted.)*
+    - quote: rien n’est plus naturel
+    - quote: le chasseur au grain de plomb
+  - He shares absolutely the engineer's opinion about the influence acting around them (II.6 ¶18). *(Drafted.)*
+    - quote: Gédéon Spilett partageait absolument son opinion à cet égard
+  - He and Harbert are "les deux plus adroits tireurs de la colonie" (II.6 ¶57; II.8 ¶6). *(Drafted.)*
+    - quote: les deux plus adroits tireurs de la colonie
+    - quote: Gédéon Spilett et Harbert étaient trop bons tireurs pour perdre désormais un seul coup de fusil
+  - He says of Jup that his conversation is a little monotonous (II.6 ¶114). *(Drafted.)*
+    - quote: Sa conversation est un peu monotone
+  - At carpentry he is not the clumsiest and rivals the sailor himself in skill, "qui n'aurait jamais tant attendu d'un simple journaliste" (II.7 ¶28). *(Drafted.)*
+    - quote: n’était pas le plus maladroit et luttait d’adresse avec le marin lui-même
+    - quote: qui n’aurait jamais tant attendu d’un simple journaliste
+  - He and Harbert unpick the balloon's long seams with admirable patience (II.8 ¶2). *(Drafted.)*
+    - quote: décousues avec une patience admirable par Gédéon Spilett et Harbert
+  - He means to purge his domain of the wild beasts that take refuge in the woods of the Serpentine peninsula (II.8 ¶42). *(Drafted.)*
+    - quote: dont Gédéon Spilett comptait bien purger son domaine
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -163,7 +183,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
   - He notes down what the engineer tells of the eucalyptus (II.3 ¶53). *(Drafted.)*
     - quote: Je vais noter cela
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

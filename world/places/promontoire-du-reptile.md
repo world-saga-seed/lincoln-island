@@ -24,4 +24,12 @@ Keywords: promontoire du Reptile, Reptile-end, queue, reptile, extremity, south-
   - Its shore rocks are much divided, as they must be violently beaten by the sea in south-west winds, and hold cavities that give shelter (see [the jaguar’s cave](the-jaguars-cave.md)) (II.4 ¶60). *(Drafted.)*
     - quote: très-divisés, car ils devaient être violemment battus par la mer sous l’influence des vents du sud-ouest
     - quote: présentaient des cavités
-- **Appears in:** I.11, I.20, II.1, II.4
+  - From the very end of the promontory the horizon is seen over two thirds of its circumference (II.5 ¶2). *(Drafted.)*
+    - quote: cet horizon, qui était visible sur les deux tiers de sa circonférence
+  - Its south coast is straight for three miles; beyond, a notch of the land hides the rest of the coast (II.5 ¶3). *(Drafted.)*
+    - quote: la partie rectiligne qui formait la côte sud du promontoire sur une longueur de trois milles
+    - quote: une échancrure des terres dissimulait le reste de la côte
+  - From the end of the promontory, which forms the tail of the peninsula, the coast rounds over five miles (II.5 ¶26). *(Drafted.)*
+    - quote: l’extrémité du promontoire qui formait la queue de la presqu’île
+    - quote: la côte s’arrondissait sur une distance de cinq milles
+- **Appears in:** I.11, I.20, II.1, II.4, II.5

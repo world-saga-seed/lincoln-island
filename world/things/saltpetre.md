@@ -16,10 +16,13 @@ Keywords: nitrate de potasse, salpêtre, potassium nitrate, niter, mineral, gunp
     - quote: il n’y eut plus qu’à purifier ce sel
   - Attacked by sulphuric acid and distilled, it gives nitric acid (see [the nitric acid](nitric-acid.md)) (I.17 ¶55). *(Drafted.)*
     - quote: le salpêtre, attaqué par l’acide sulfurique
+  - Smith has it, with sulphur and charcoal, for making powder, and the natural saltpetre supplies the nitric acid (II.8 ¶8, ¶10). *(Drafted.)*
+    - quote: il avait à sa disposition du salpêtre, du soufre et du charbon
+    - quote: le salpêtre que lui fournissait la nature
 - **On the page.**
   - The engineer used it to impregnate the dried armoise (see [the tinder](tinder.md)) (I.13 ¶56). *(Drafted.)*
     - quote: l’ingénieur l’eut imprégnée de ce nitrate de potasse
-- **Appears in:** I.13, I.17
+- **Appears in:** I.13, I.17, II.8
 - **Open:**
   - The place of these layers is not stated.
     - quote: plusieurs couches

@@ -11,6 +11,12 @@ Keywords: arcs, archery, hunting weapon, cord, shooting
     - quote: Pencroff obtint ainsi des arcs d’une assez grande puissance
   - Harbert and Spilett are become skilful archers (I.22 ¶57). *(Drafted.)*
     - quote: Harbert et Gédéon Spilett étaient devenus des archers habiles
+  - Bows and arrows are stored in a passage of the Chimneys (II.6 ¶33). *(Drafted.)*
+    - quote: arcs et flèches avaient été déposés dans un couloir des Cheminées
+  - Spilett and Harbert are the two most skilful marksmen of the colony (II.6 ¶57). *(Drafted.)*
+    - quote: le reporter et le jeune garçon, les deux plus adroits tireurs de la colonie
+  - Spilett says Harbert is a good shot and his bow is at hand (II.6 ¶49). *(Drafted.)*
+    - quote: Harbert est bon tireur, dit le reporter, et son arc est là
 - **Made from.**
   - The branches came from [the crejimba](crejimba.md) (I.13 ¶30). *(Drafted.)*
     - quote: dont les Indiens de l’Amérique méridionale emploient les branches à fabriquer leurs arcs
@@ -25,4 +31,4 @@ Keywords: arcs, archery, hunting weapon, cord, shooting
     - quote: devinrent promptement de très-adroits tireurs d’arc
   - Game was plentiful at the Chimneys (I.13 ¶36). *(Drafted.)*
     - quote: le gibier de poil et de plume abonda-t-il aux Cheminées
-- **Appears in:** I.12, I.13, I.22
+- **Appears in:** I.12, I.13, I.22, II.6

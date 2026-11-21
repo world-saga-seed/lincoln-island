@@ -45,8 +45,18 @@ Keywords: Creek-Rouge, brook, stream mouth, coal seam, creek, ruisseau, terre ro
     - quote: devrait être reliée plus tard à celle du Creek-Rouge
   - Smith recalls no watercourse on his trip to the crater other than the Red Creek and the Mercy (II.4 ¶6). *(Drafted.)*
     - quote: d’avoir reconnu d’autre cours d’eau que ceux du Creek-Rouge et de la Mercy
+  - Smith means to place the corral at its very sources, where ruminants would find fresh, abundant pasture, and the road between the Grande-Vue plateau and the sources is already partly cleared (II.7 ¶7). *(Drafted.)*
+    - quote: aux sources mêmes du Creek-Rouge
+    - quote: Déjà la route entre le plateau de Grande-Vue et les sources était en partie frayée
+  - Its flow is considerable enough to feed a ditch without harm (II.7 ¶22). *(Drafted.)*
+    - quote: le débit du Creek-Rouge était assez considérable
+  - Elders grow plentifully on the island toward its mouth (see [the elder](../things/elder.md)) (II.8 ¶9). *(Drafted.)*
+    - quote: les sureaux abondaient dans l’île, vers l’embouchure du Creek-Rouge
+  - The corral is founded at its sources at the foot of Mont Franklin, five miles from Granite-house by the route du Corral, and a small rio from the corral meadow loses itself in it (see [the corral](corral.md)) (II.8 ¶30, ¶31, ¶32). *(Drafted.)*
+    - quote: vers les sources du Creek-Rouge, au pied du mont Franklin
+    - quote: allait se perdre dans le Creek-Rouge
 - **On the page.**
-- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4
+- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4, II.7, II.8
 - **Open:**
   - The text does not say where the creek runs or how far its mouth is from the clearing.
     - quote: vers l’embouchure du Creek-Rouge

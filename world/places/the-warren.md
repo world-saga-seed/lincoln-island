@@ -33,7 +33,10 @@ Keywords: garenne, rabbits, lapins, burrows, terriers, meadow, prairie, herbs, t
     - quote: C’était toujours du lapin
   - It gives its usual share of game, enough to feed the whole colony (II.1 ¶36). *(Drafted.)*
     - quote: la garenne donnait-elle son contingent accoutumé, qui eût pu nourrir toute la colonie
-- **Appears in:** I.19, I.20, I.22, II.1
+  - It still supplies its rabbits to the Granite-house kitchen; lying a little outside the point where the Creek-Glycérine begins, its inhabitants cannot enter the reserved plateau or ravage the new plantings (II.8 ¶15). *(Drafted.)*
+    - quote: La garenne fournissait toujours son contingent de lapins aux offices de Granite-house
+    - quote: ses hôtes ne pouvaient pénétrer sur le plateau réservé
+- **Appears in:** I.19, I.20, I.22, II.1, II.8
 - **Open:**
   - Which water the "lagon" is: I.19 ¶30 puts the warren toward "l’angle sud-ouest du lagon", and Lake Grant is called "lac" elsewhere. Which water is meant is not said. *(My reading, to confirm.)*
     - quote: vers l’angle sud-ouest du lagon

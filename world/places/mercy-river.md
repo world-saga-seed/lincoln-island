@@ -116,7 +116,21 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: Un épais berceau de verdure
   - Below the fall the rios that join make it a true river, above it only a limpid brook with no depth (see [the Mercy fall](the-mercy-fall.md)) (II.3 ¶70). *(Drafted.)*
     - quote: en faisaient plus bas une véritable rivière
+  - At its first bend, near the mouth, the bed is eighty feet wide, and hard to cross (II.5 ¶99). *(Drafted.)*
+    - quote: Là, le lit mesurait une largeur de quatre-vingts pieds, qu’il était malaisé de franchir
+  - Its current is rapid, and would carry a boat past its mouth and out to sea (II.5 ¶112). *(Drafted.)*
+    - quote: entraîné par le rapide courant de la rivière, au delà de son embouchure
+  - A canoe left at its sources with a broken rope drifts down its current to the first bend (see [the pirogue](../things/the-pirogue.md)) (II.5 ¶112). *(Drafted.)*
+    - quote: qui revenait tout seul des sources de la Mercy
+  - The bridge is built at its bend, and the south side of the plateau is closed along it from the mouth to the bend (see [the Mercy bridge](../things/the-mercy-bridge.md)) (II.7 ¶21, ¶31). *(Drafted.)*
+    - quote: depuis cette embouchure jusqu’au coude de la Mercy où devait être établi le pont
+  - The Creek-Glycérine becomes a tributary of it (see [Creek-Glycérine](creek-glycerine.md)) (II.7 ¶39). *(Drafted.)*
+    - quote: qui devint un affluent de la Mercy
+  - Pencroff sets bottom lines in its current, and fine trout are taken (II.8 ¶15). *(Drafted.)*
+    - quote: la pêche, soit dans les eaux du lac, soit dans le courant de la Mercy, ne tarda pas à être fructueuse
+  - Salmon run up it in bands for several miles to spawn (II.8 ¶19). *(Drafted.)*
+    - quote: Des saumons vinrent par bandes s’aventurer dans la Mercy et en remontèrent le cours pendant plusieurs milles
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, III.16

@@ -17,4 +17,7 @@ Keywords: huîtrière, oysters, ostracées, banc, bank, shore, low tide, shellfi
     - quote: quelques milliers d’huîtres
     - quote: de qualité excellente
     - quote: une consommation presque quotidienne
-- **Appears in:** I.14, I.20
+  - It lies among the rocks of the beach, its product renewed often, and gives excellent molluscs daily (II.8 ¶15). *(Drafted.)*
+    - quote: l’huîtrière, disposée au milieu des rocs de la plage et dont les produits étaient fréquemment renouvelés
+    - quote: elle donnait quotidiennement d’excellents mollusques
+- **Appears in:** I.14, I.20, II.8

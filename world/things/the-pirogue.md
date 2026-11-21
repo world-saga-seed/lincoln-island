@@ -54,8 +54,27 @@ Keywords: pirogue, canoe, canot, bark, écorce, Indian fashion, godille, oars, a
     - quote: Pencroff dut pousser avec une perche
   - It is left carefully moored at the camp at the fall, 31 October (II.4 ¶3). *(Drafted.)*
     - quote: assuré l’amarrage de la pirogue
-- **Appears in:** II.1, II.2, II.3, II.4
+  - It was left at the sources of the Mercy when the party went on to the west coast, to be taken up again on the way back by the Mercy road (II.5 ¶5). *(Drafted.)*
+    - quote: lorsque la pirogue fut abandonnée aux sources de la Mercy
+  - Its mooring rope has broken, and it comes back alone from the sources of the Mercy to the colonists on the river (II.5 ¶112). *(Drafted.)*
+    - quote: dont l’amarre s’était brisée, sans doute, et qui revenait tout seul des sources de la Mercy
+  - Smith finds by touch that the rope was really worn by its rubbing on rocks (II.5 ¶113). *(Drafted.)*
+    - quote: s’assura au toucher que cette amarre avait été réellement usée par son frottement sur des roches
+  - The canoe could not carry the balloon's envelope and gear (II.5 ¶96). *(Drafted.)*
+    - quote: car le canot n’eût pu suffire à le transporter
+  - It is hauled up on the strand next to the Chimneys (II.5 ¶118). *(Drafted.)*
+    - quote: Le canot fut halé sur la grève jusqu’auprès des Cheminées
+- **On the page.**
+  - The narrator says the most astonishing thing is that it arrived just when the colonists were there to catch it, for a quarter of an hour later it would have been lost at sea (II.5 ¶116). *(Drafted.)*
+    - quote: le plus étonnant de l’affaire, c’était véritablement que la pirogue fût arrivée juste au moment où les colons se trouvaient là pour la saisir au passage
+    - quote: un quart d’heure plus tard, elle eût été se perdre en mer
+  - The narrator adds that in the age of genies one would think the island haunted by a supernatural being who put his power at the shipwrecked men's service (II.5 ¶117). *(Drafted.)*
+    - quote: l’île était hantée par un être surnaturel qui mettait sa puissance au service des naufragés
+- **Appears in:** II.1, II.2, II.3, II.4, II.5
 - **Open:**
   - Pencroff proposes a canoe in II.1 as a new idea, and Smith answers "Votre idée est bonne"; I.20 has already agreed that a canoe would be built. Card neither (II.1 ¶18; I.20 ¶20). *(Drafted.)*
     - quote: ne serait-il pas convenable, avant d’aller à la découverte, de construire un canot
     - quote: il fut convenu que l’on construirait, tant bien que mal, un canot
+  - How long it was left: Spilett says it has been alone "pendant un jour" at the sources; it was moored at the camp on 31 October (II.4 ¶3), and the day on which they stand at the promontory is named 2 November. Card neither (II.5 ¶4, ¶12). *(Drafted.)*
+    - quote: La pirogue est restée seule pendant un jour aux sources de la Mercy
+    - quote: cette journée du 2 novembre

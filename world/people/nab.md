@@ -69,23 +69,36 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: Nab employait presque tout son temps à saler ou à fumer des viandes
   - He works in the new kitchen with gravity, "comme s’il eût été dans un laboratoire de chimiste" (I.20 ¶28). *(Drafted.)*
     - quote: Nab y fonctionnait gravement, comme s’il eût été dans un laboratoire de chimiste
-  - He laughs and jokes with Pencroff about the bears and their coats (I.22 ¶3). *(Drafted.)*
-    - quote: répondait Nab en riant
   - He knows how to vary his sauces, so that rabbit again and again draws no complaint (I.22 ¶13). *(Drafted.)*
     - quote: Nab savait varier ses sauces
   - He stores in special baskets his harvest of rhizomes, pine almonds and dragon-tree roots (I.22 ¶28). *(Drafted.)*
     - quote: Nab enferma dans des corbeilles spéciales ses récoltes de rhizomes, d’amandes de pin-pignon et de racines de dragonnier
-  - He wants to hide his mishap over the turtle (II.1 ¶80). *(Drafted.)*
-    - quote: qui voulait cacher sa mésaventure
-  - He skins the jaguar (II.4 ¶77). *(Drafted.)*
-    - quote: Nab dépouillait le jaguar
+  - He is "très-désappointé de ne pouvoir rentrer dans sa cuisine" (II.6 ¶13). *(Drafted.)*
+    - quote: très-désappointé de ne pouvoir rentrer dans sa cuisine
+  - He tells himself that all this does not concern him but his master, and but for fear of displeasing his companions the brave Black would have slept that night as soundly as in his bunk at Granite-house (II.6 ¶18). *(Drafted.)*
+    - quote: il avait fini par se dire que tout cela ne le regardait pas, que cela regardait son maître
+    - quote: le brave nègre aurait dormi cette nuit-là tout aussi consciencieusement
+  - Asked whether the ape will serve as a servant, he says it is "sérieux, mon maître ?", and Cyrus Smith smiles and tells him not to be jealous (II.6 ¶103, ¶104). *(Drafted.)*
+    - quote: c’est sérieux, mon maître ?
+    - quote: ne sois pas jaloux
+  - He draws the colonists' attention to the need of a poultry-yard, the fowl having to be within the chief cook's reach (II.7 ¶8). *(Drafted.)*
+    - quote: sur laquelle Nab appela l’attention des colons
+    - quote: à la portée du chef de cuisine
+  - He would clear the plateau and transplant the wild plants there (II.7 ¶34). *(Drafted.)*
+    - quote: nous pourrons défricher le plateau, y transplanter les plantes sauvages
+  - As "maître Nab, chargé des soins culinaires", he can vary every meal's menu pleasantly; his turtle broth, set off with aromatic herbs and a few crucifers, earns him deserved praise (II.8 ¶15, ¶18). *(Drafted.)*
+    - quote: maître Nab, chargé des soins culinaires, pouvait-il varier agréablement le menu
+    - quote: attira souvent des éloges mérités à maître Nab
+  - He trains Jup in the work of the house, with extreme patience and zeal; Jup spends his time in his kitchen and imitates him, and Nab and the ape seem to understand each other (II.8 ¶20). *(Drafted.)*
+    - quote: Le maître montrait, d’ailleurs, une patience et même un zèle extrême à instruire son élève
+    - quote: on eût dit que le nègre et le singe se comprenaient
+  - With his own hands he raised a veranda covered with climbing plants on the edge of the plateau of Grande-Vue (II.8 ¶47). *(Drafted.)*
+    - quote: une sorte de vérandah couverte de plantes grimpantes, que Nab avait élevée de ses propres mains
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
   - He follows his master wherever his master wishes to go (I.2 ¶42). *(Drafted.)*
     - quote: il suivait son maître partout où son maître voulait aller
-  - He weeps with rage and despair at having lost all he loved in the world (I.3 ¶4). *(Drafted.)*
-    - quote: tout ce qu’il aimait au monde
   - He swims the half-mile channel obliquely in more than half an hour, drifting fast, and lands several thousand feet from where he started (I.3 ¶49). *(Drafted.)*
     - quote: Ce demi-mille qui séparait l’îlot de la terre, il employa plus d’une demi-heure à le franchir
   - In searching he finds no sign of any landing along two to three hundred yards of shore, the shells above the tide line unbroken (I.8 ¶19). *(Drafted.)*
@@ -114,7 +127,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He and Pencroff carry the provisions on the march and lay out the midday meal (II.4 ¶3, ¶37). *(Drafted.)*
     - quote: Pencroff et Nab emportaient des provisions
     - quote: Nab et Pencroff disposèrent le déjeuner
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

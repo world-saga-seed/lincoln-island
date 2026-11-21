@@ -23,6 +23,20 @@ Keywords: tortue, turtle, chélonée, mydase, tortue franche, carapace, zostère
   - Harbert holds that a turtle laid on its back cannot get on its feet again, above all a large one; Cyrus Smith confirms it (II.1 ¶90, ¶91). *(Drafted.)*
     - quote: les tortues, une fois placées sur le dos, ne pouvaient se remettre sur leurs pattes
     - quote: Cela est vrai, mon enfant
+  - Pencroff remembers "l'histoire de la tortue" and trusts no more than he must; Spilett says it was the sea that turned it over; the engineer murmurs "Qui sait ?" (II.5 ¶13, ¶14, ¶15). *(Drafted.)*
+    - quote: quand je me rappelle l’histoire de la tortue
+    - quote: c’est la mer qui l’a retournée
+    - quote: Qui sait ?
+  - Sea turtles frequent the beaches of Cape Mandibule, where the strand is bristling with small mounds that hold perfectly spherical eggs with a hard white shell (II.8 ¶16). *(Drafted.)*
+    - quote: tortues marines, qui fréquentaient les plages du cap Mandibule
+    - quote: des œufs parfaitement sphériques, à coque blanche et dure
+  - The albumen of the eggs does not coagulate like that of birds' eggs; the sun hatches them, and each turtle may lay up to two hundred and fifty a year (II.8 ¶16). *(Drafted.)*
+    - quote: ne point se coaguler comme celle des œufs d’oiseaux
+    - quote: jusqu’à deux cent cinquante
+  - A dozen of the chelonians are brought back to Granite-house, "très-estimables au point de vue alimentaire"; turtle broth with aromatic herbs and a few crucifers wins praise for Nab (II.8 ¶18). *(Drafted.)*
+    - quote: une douzaine de ces chéloniens
+    - quote: très-estimables au point de vue alimentaire
+    - quote: Le bouillon de tortue
 - **On the page.**
   - On 28 October Harbert and Nab take one on the shore two miles from Granite-house, as it slips between the rocks toward the sea (II.1 ¶60, ¶61, ¶62). *(Drafted.)*
     - quote: 28 octobre
@@ -39,9 +53,12 @@ Keywords: tortue, turtle, chélonée, mydase, tortue franche, carapace, zostère
     - quote: les galets épars sur le sable
   - Pencroff reckons the loss as "cinquante potages au moins" (II.1 ¶84). *(Drafted.)*
     - quote: cinquante potages au moins
-- **Appears in:** II.1
+- **Appears in:** II.1, II.5, II.8
 - **Open:**
   - Cyrus Smith says that what the turtle could not do on the sand it may have done in the water: it would have turned when the flood took it and calmly regained the open sea (II.1 ¶97). The narrator then asks whether he was truly convinced and says one would not dare affirm it (II.1 ¶100). *(Drafted.)*
     - quote: ce que la tortue ne pouvait faire sur le sable, il se peut qu’elle l’ait fait dans l’eau
     - quote: Mais était-il bien convaincu de la justesse de cette explication ?
     - quote: On n’oserait l’affirmer
+  - The text speaks of "tortues marines" and "chéloniens" at Cape Mandibule (II.8 ¶16, ¶18) without calling them mydas, so whether they are the kind of the turtle of II.1 is not stated. *(My reading, to confirm.)*
+    - quote: tortues marines
+    - quote: ces chéloniens

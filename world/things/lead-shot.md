@@ -40,7 +40,14 @@ Keywords: grain de plomb, plomb, lead, shot, bullet, firearm, peccary, tooth, p�
     - quote: si minutieusement que nous explorions l’île, nous ne trouverons rien
   - It proves beyond refutation that a gun was fired on the island at most three months before (II.4 ¶41). *(Drafted.)*
     - quote: prouvait d’une façon irrécusable que, depuis trois mois au plus, un coup de fusil avait été tiré dans l’île
-- **Appears in:** I.22, II.1, II.4
+  - Smith concludes from it that three months at most ago a ship, willingly or not, came to land (II.5 ¶54). *(Drafted.)*
+    - quote: il y a trois mois au plus, un navire, volontairement ou non, a atterri
+  - He adds that if a human being set foot on the island, it seems no less certain that he has left it (II.5 ¶56). *(Drafted.)*
+    - quote: s’il est certain qu’un être humain a mis le pied sur cette île, il ne paraît pas moins certain qu’il l’a quittée maintenant
+  - Smith has met no trace of lead on the island, so he makes iron shot in its place and keeps the chest's lead in reserve (II.8 ¶7, ¶8). *(Drafted.)*
+    - quote: dont Cyrus Smith n’avait rencontré aucune trace dans l’île
+    - quote: il employa sans trop de désavantage de la grenaille de fer
+- **Appears in:** I.22, II.1, II.4, II.5, II.8
 - **Open:**
   - Which of the two young peccaries held the shot is not said, nor how it came there (I.22 ¶77, ¶82). *(Drafted.)*
     - quote: Ces cochons de lait étaient vraiment délicieux

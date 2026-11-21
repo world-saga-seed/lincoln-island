@@ -22,4 +22,7 @@ Keywords: huître, oyster, huîtrière, banc, bed, ostracées, mollusque, low ti
   - The oysters are excellent, and the colonists eat them almost every day (I.20 ¶29). *(Drafted.)*
     - quote: Ces mollusques étaient de qualité excellente
     - quote: les colons en firent une consommation presque quotidienne
-- **Appears in:** I.14, I.20
+  - The oyster-bed laid out among the rocks of the beach, whose stock is often renewed, gives excellent molluscs daily (II.8 ¶15). *(Drafted.)*
+    - quote: l’huîtrière, disposée au milieu des rocs de la plage
+    - quote: elle donnait quotidiennement d’excellents mollusques
+- **Appears in:** I.14, I.20, II.8

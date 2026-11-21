@@ -1,0 +1,90 @@
+# Jup: the orang the colonists take as servant
+
+*A young orang-outang of six feet, taken alive in Granite-house and named by Pencroff, who becomes the colony's servant.*
+
+Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, domestique, valet de chambre, Nab, Top, Granite-house
+
+- **What it is.**
+  - He is an orang, of the family of anthropomorphs, which has neither the ferocity of the baboon, nor the thoughtlessness of the macaque, nor the uncleanness of the sagouin (II.6 ¶100). *(Drafted.)*
+    - quote: C’était un orang, et qui, comme tel
+    - quote: n’avait ni la férocité du babouin, ni l’irréflexion du macaque, ni la malpropreté du sagouin
+  - The narrator says the anthropomorphs show a quasi-human intelligence, can serve at table and tend the house, and that Buffon had one who served him long as a faithful servant (II.6 ¶100). *(Drafted.)*
+    - quote: une intelligence quasi-humaine
+    - quote: Employés dans les maisons, ils peuvent servir à table
+    - quote: Buffon posséda un de ces singes
+  - He is a big fellow six feet tall, admirably proportioned, with a broad chest, a head of middle size, a facial angle of sixty-five degrees, a rounded skull, a prominent nose, and skin covered with a smooth, soft, glossy hair (II.6 ¶101). *(Drafted.)*
+    - quote: un grand diable, haut de six pieds
+    - quote: corps admirablement proportionné, poitrine large
+    - quote: angle facial atteignant soixante-cinq degrés
+    - quote: peau recouverte d’un poil poli, doux et luisant
+  - His eyes, a little smaller than human eyes, shine with an intelligent liveliness; his teeth are white under a moustache, and he wears a small curly beard of hazel colour (II.6 ¶101). *(Drafted.)*
+    - quote: brillaient d’une intelligente vivacité
+    - quote: une petite barbe frisée de couleur noisette
+  - Harbert says he seems young, so that his education will be easy (II.6 ¶105). *(Drafted.)*
+    - quote: Il paraît jeune, son éducation sera facile
+  - Pencroff has him called Jupiter, "Jup" for short, in memory of another ape he had known (II.6 ¶116). *(Drafted.)*
+    - quote: en souvenir d’un autre singe qu’il avait connu, il fût appelé Jupiter, et Jup par abréviation
+  - The colony counts him as a new member and the narrator calls him "maître Jup" (II.6 ¶116, ¶117). *(Drafted.)*
+    - quote: la colonie s’accrut d’un nouveau membre
+    - quote: maître Jup fut installé à Granite-house
+  - He answers Pencroff's questions with small grunts that betray no ill humour; Pencroff offers him no wages to begin with, to be doubled later if he gives satisfaction (II.6 ¶109, ¶115). *(Drafted.)*
+    - quote: L’orang répondit par un petit grognement qui ne dénotait pas trop de mauvaise humeur
+    - quote: nous ne vous donnerons pas de gages
+  - He eats pine almonds and rhizome roots (II.7 ¶3). *(Drafted.)*
+    - quote: il mangea avec appétit des amandes de pignon et des racines de rrhyomes
+  - He grows used to the place easily, and looks at his new masters with an extremely curious eye (II.7 ¶30). *(Drafted.)*
+    - quote: s’acclimatait aisément
+    - quote: qu’il regardait toujours d’un œil extrêmement curieux
+  - He is a gentle animal, very vigorous, of surprising agility; when it comes to climbing the ladder of Granite-house, no one could rival him (II.7 ¶42). *(Drafted.)*
+    - quote: C’était un animal doux, très-vigoureux pourtant, et d’une agilité surprenante
+    - quote: nul n’eût pu rivaliser avec lui
+  - He drags loads of wood and carries the stones taken from the bed of the Creek-Glycérine (II.7 ¶42). *(Drafted.)*
+    - quote: il traînait des charges de bois et charriait les pierres
+  - Top and he play together willingly, but Jup does everything gravely (II.7 ¶30). *(Drafted.)*
+    - quote: Top et Jup étaient au mieux et jouaient volontiers ensemble
+    - quote: Jup faisait tout gravement
+  - He is raised to the post of valet de chambre, dressed in a jacket, short white linen breeches and an apron whose pockets delight him and which he lets no one search (II.8 ¶20). *(Drafted.)*
+    - quote: Jup fut élevé aux fonctions de valet de chambre
+    - quote: d’une jaquette, d’une culotte courte en toile blanche et d’un tablier
+    - quote: ne souffrait pas qu’on vînt y fouiller
+  - Nab has trained him wonderfully, and the two seem to understand each other when they talk; Jup feels a real sympathy for Nab and Nab returns it (II.8 ¶20). *(Drafted.)*
+    - quote: merveilleusement stylé par Nab
+    - quote: Jup avait, d’ailleurs, pour Nab une sympathie réelle, et Nab la lui rendait
+  - Except when his services are wanted for hauling wood or climbing a tree, he spends most of his time in the kitchen and tries to imitate Nab in all he sees him do (II.8 ¶20). *(Drafted.)*
+    - quote: Jup passait la plus grande partie de son temps à la cuisine
+    - quote: cherchait à imiter Nab en tout ce qu’il lui voyait faire
+  - The narrator calls him "le très-intelligent Jup", and he shows remarkable intelligence in profiting by Nab's lessons (II.8 ¶20). *(Drafted.)*
+    - quote: le très-intelligent Jup
+    - quote: déployait une intelligence remarquable à profiter des leçons
+  - He waits at table, napkin on his arm, changing plates, bringing dishes and pouring drink with perfect skill and great gravity (II.8 ¶21). *(Drafted.)*
+    - quote: la serviette sur le bras
+    - quote: il s’acquitta de son service avec une adresse parfaite
+  - He is wholly at home in Granite-house, goes with his masters into the forest and shows no wish to flee (II.8 ¶28). *(Drafted.)*
+    - quote: absolument acclimaté à Granite-house
+    - quote: sans jamais manifester aucune envie de s’enfuir
+  - He carries on his shoulder, like a gun, a cane Pencroff made him; he is quick to the top of any tree to pick fruit; with one shove of the shoulder he gets a bogged cart wheel back on the road (II.8 ¶28). *(Drafted.)*
+    - quote: une canne que Pencroff lui avait faite et qu’il portait sur son épaule comme un fusil
+    - quote: qu’il était vite en haut
+    - quote: d’un seul coup d’épaule, la remettait en bon chemin
+  - Pencroff says that were he as wicked as he is good, there would be no managing him (II.8 ¶29). *(Drafted.)*
+    - quote: S’il était aussi méchant qu’il est bon
+- **On the page.**
+  - He is the ape that took refuge in the passage and is run down by Nab; he defends himself valiantly before being thrown down and bound (II.6 ¶89, ¶96). *(Drafted.)*
+    - quote: un grand singe, qui s’était réfugié dans le couloir
+    - quote: après s’être défendu vaillamment, fut terrassé et garrotté
+  - Cyrus Smith spares him, saying "C'est lui qui nous a jeté l'échelle !", in so singular a voice that it is hard to tell whether he speaks seriously (II.6 ¶92, ¶94, ¶95). *(Drafted.)*
+    - quote: Épargnez-le, Pencroff
+    - quote: C’est lui qui nous a jeté l’échelle
+    - quote: d’une voix si singulière
+  - Harbert proposes him as a servant and is not wholly joking, for he knows what can be made of this intelligent race of quadrumanes (II.6 ¶98, ¶99). *(Drafted.)*
+    - quote: Un domestique
+    - quote: il savait le parti que l’on peut tirer de cette race intelligente des quadrumanes
+  - After the capture Pencroff unbinds his arms but leaves the shackles on his legs until he can count on his resignation; he is freed once the plateau is closed (II.7 ¶3, ¶42). *(Drafted.)*
+    - quote: Pencroff avait délié ses bras
+    - quote: les entraves aux jambes
+    - quote: maître Jup avait été mis en liberté
+- **Appears in:** II.6, II.7, II.8
+- **Open:**
+  - Whether Jup lowered the ladder is not said: Cyrus Smith says he did (II.6 ¶94), and Pencroff, the next day, speaks of "cette échelle qu'il nous a si galamment renvoyée hier" (II.7 ¶11); the chapter does not say who in fact lowered it. *(My reading, to confirm.)*
+    - quote: C’est lui qui nous a jeté l’échelle
+    - quote: cette échelle qu’il nous a si galamment renvoyée hier

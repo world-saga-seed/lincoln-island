@@ -37,7 +37,9 @@ Keywords: pécari, peccary, tajassou, sanglier, cochon, pig, trappe, trap, cocho
     - quote: d’agoutis, de cabiais, de kangourous, de pécaris, etc
   - The peccary that took the lead shot, at the cost of Pencroff's molar, was not wounded in this part of the Far-West (II.4 ¶28). *(Drafted.)*
     - quote: ce n’était pas encore dans cette partie du Far-West que le pécari avait reçu le grain de plomb qui coûtait une mâchelière à Pencroff
-- **Appears in:** I.22, II.1, II.4
+  - Peccaries swarm in the woods at the start of 1866, with other game of fur and feather (II.8 ¶6). *(Drafted.)*
+    - quote: Agoutis, pécaris, cabiais, kangourous, gibiers de poil et de plume fourmillaient véritablement
+- **Appears in:** I.22, II.1, II.4, II.8
 - **Open:**
   - The animals of the traps are first called "sangliers" and judged like pigs (I.22 ¶14), then "des pécaris" of the tajassou kind (I.22 ¶21); Pencroff calls the young "du cochon de lait" (I.22 ¶66). The text does not say they are two kinds. *(Drafted.)*
     - quote: ces sangliers qui avaient été déjà signalés

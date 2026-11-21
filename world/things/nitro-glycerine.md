@@ -32,4 +32,6 @@ Keywords: nitro-glycérine, nitroglycerine, explosive, explosif, blast, dynamite
   - Smith still has some of it on 22 May and uses it to blast out the facade openings of Granite-house; its effect is suitably localised (I.19 ¶14). *(Drafted.)*
     - quote: Il avait encore une certaine quantité de nitro-glycérine à sa disposition
     - quote: L’effet de la substance explosive fut convenablement localisé
-- **Appears in:** I.17, I.18, I.19
+  - Smith makes it anew to blast the ditch across the plateau; it does its usual effect (II.7 ¶39). *(Drafted.)*
+    - quote: Il fallut donc fabriquer à nouveau de la nitro-glycérine, et la nitro-glycérine fit son effet accoutumé
+- **Appears in:** I.17, I.18, I.19, II.7

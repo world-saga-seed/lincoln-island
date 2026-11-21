@@ -42,6 +42,26 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
     - quote: l’un sur le plateau de Grande-Vue
   - Pit traps are set on it and at the forest’s edge (see [the pit traps](../things/pit-traps.md)) (I.22 ¶6). *(Drafted.)*
     - quote: des trappes sur le plateau de Grande-Vue et aux abords de la forêt
+  - Smith plans to isolate it completely, to shelter it from any attack by quadrupeds or quadrumanes, so that Granite-house, the Chimneys, the poultry-yard and all the upper part of the plateau meant for sowing would be protected (II.7 ¶15). *(Drafted.)*
+    - quote: C’était d’isoler complètement le plateau de Grande-Vue, afin de le mettre à l’abri de toute attaque de quadrupèdes ou de quadrumanes
+  - It is already defended on three sides by water: on the north-west by the shore of Lake Grant from the corner at the old outlet to the cut made for the water's escape; on the north by the new stream to the sea; on the east by the sea itself from that stream's mouth to the Mercy's mouth; and on the south from there to the bend of the Mercy where the bridge is to stand (II.7 ¶17, ¶18, ¶19, ¶20, ¶21). *(Drafted.)*
+    - quote: Le plateau se trouvait déjà défendu sur trois côtés par des cours d’eau
+    - quote: par la mer elle-même, depuis l’embouchure du susdit creek jusqu’à l’embouchure de la Mercy
+    - quote: depuis cette embouchure jusqu’au coude de la Mercy où devait être établi le pont
+  - The open part is the west, between the bend of the river and the south angle of the lake, a distance under a mile (II.7 ¶22). *(Drafted.)*
+    - quote: Restait donc la partie ouest du plateau, comprise entre le coude de la rivière et l’angle sud du lac
+  - Smith says the plateau will be a true island, surrounded by water on every side, joined to the rest of the domain only by the bridge and small bridges, which can be raised at will (II.7 ¶23). *(Drafted.)*
+    - quote: le plateau de Grande-Vue sera une île véritable, étant entouré d’eau de toutes parts
+  - By the first fortnight of December it is a sort of irregular pentagon of about four miles' perimeter, ringed by water and absolutely safe from any aggression (II.7 ¶40). *(Drafted.)*
+    - quote: une sorte de pentagone irrégulier ayant un périmètre de quatre milles environ, entouré d’une ceinture liquide
+  - Three acres of it are cleared (about 1.2 hectares) and the rest is kept as meadow for the onaggas (II.8 ¶14, n1). *(Drafted.)*
+    - quote: les colons défrichèrent trois acres
+    - quote: le reste fut conservé à l’état de prairies pour l’entretien des onaggas
+    - quote: L’acre vaut 0, 4046 hectares
+  - Wild plants are transplanted onto it, and its earth is prodigiously fertile (II.8 ¶43). *(Drafted.)*
+    - quote: La terre, sur ce plateau, était prodigieusement féconde
+  - On its edge stands Nab's veranda (see [the veranda](the-veranda.md)) (II.8 ¶47). *(Drafted.)*
+    - quote: sur la lisière du plateau de Grande-Vue, sous une sorte de vérandah couverte de plantes grimpantes
 - **On the page.**
   - Pigeons fly by hundreds at the crest of the plateau (I.6 ¶7). *(Drafted.)*
     - quote: ces pigeons qui volaient par centaines à la crête du plateau
@@ -54,4 +74,4 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
   - On the plateau old enormous trunks, felled by age, show dark bark against the green carpet, and noisy cockatoos hop from branch to branch (I.16 ¶27). *(Drafted.)*
     - quote: Quelques vieux troncs énormes, abattus par l’âge
     - quote: tout un monde de kakatoès bruyants
-- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18, I.19, I.20, I.22
+- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18, I.19, I.20, I.22, II.7, II.8

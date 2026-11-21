@@ -31,6 +31,11 @@ Keywords: aérostat, airship, gas bag, envelope, net, hoop, aeronaut, ballast, s
     - quote: On ne voyait même pas l’énorme aérostat
   - The meshes of the net had given way, and a sea swept Smith off through them (I.3 ¶1). *(Drafted.)*
     - quote: à travers les mailles du filet qui avaient cédé
+  - Its anchor, found on the ground with the envelope and net, confirms that it carried one (II.5 ¶89). *(Drafted.)*
+    - quote: l’ancre du ballon
+  - After its last leap in the air it fell back on the island and lodged in the top of a pine, where the colonists find its envelope (see [the balloon's envelope](balloon-envelope.md), [the balloon's gear](balloon-gear.md), [the balloon pine](../places/balloon-pine.md)) (II.5 ¶84, ¶87). *(Drafted.)*
+    - quote: après avoir fait son dernier bond dans les airs, fût retombé sur l’île
+    - quote: échoué là-haut, au sommet de cet arbre
 - **On the page.**
   - It was carried at the top of a waterspout at ninety miles an hour (I.1 ¶16). *(Drafted.)*
     - quote: avec une vitesse de quatre-vingt-dix milles
@@ -64,7 +69,7 @@ Keywords: aérostat, airship, gas bag, envelope, net, hoop, aeronaut, ballast, s
     - quote: cinq jours après seulement, qu’une éclaircie laissa voir l’immense mer
   - It was carried off at a frightful speed by the wind (I.2 ¶56). *(Drafted.)*
     - quote: avec une vitesse effroyable
-- **Appears in:** I.1, I.2, I.3
+- **Appears in:** I.1, I.2, I.3, II.5
 - **Open:**
   - The text does not say where the balloon came from or how long it flew; it asks the question and leaves it.
     - quote: De quel point du monde s’était-il élancé ?

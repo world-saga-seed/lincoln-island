@@ -11,6 +11,8 @@ Keywords: flèches, quiver, missile, quills, feathers, fletching, hunting
     - quote: la flèche silencieuse eut l’avantage de ne point effrayer ces volatiles
   - All kinds of game, fur and feather, fall under the arrows of Harbert and Spilett (I.22 ¶57). *(Drafted.)*
     - quote: tombaient sous leurs flèches
+  - Arrows are stored with the bows in a passage of the Chimneys; a well-feathered one is fitted with a line of hibiscus cord (II.6 ¶33). *(Drafted.)*
+    - quote: une flèche bien empennée
 - **Made from.**
   - The shafts are straight, rigid branches without knots (I.13 ¶30). *(Drafted.)*
     - quote: des branches droites et rigides, sans nodosités
@@ -30,4 +32,4 @@ Keywords: flèches, quiver, missile, quills, feathers, fletching, hunting
     - quote: le hasard ferait le reste
   - Pencroff tried to bring down the wild ducks with arrows on the north coast, without result, as the ducks hardly settled and had to be hit in flight (I.14 ¶38). *(Drafted.)*
     - quote: Il essaya bien de les abattre à coups de flèche, mais sans résultat
-- **Appears in:** I.13, I.14, I.21, I.22
+- **Appears in:** I.13, I.14, I.21, I.22, II.6

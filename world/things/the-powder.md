@@ -12,4 +12,9 @@ Keywords: poudre, powder, barils, barrels, pounds, livres, explosive, gunpowder,
     - quote: il fallut bien en emporter une certaine provision
   - Smith counts on making an explosive substance that will allow the powder to be spared (II.3 ¶6). *(Drafted.)*
     - quote: l’ingénieur comptait fabriquer une substance explosive qui permettrait de la ménager
-- **Appears in:** II.2, II.3
+  - Smith means to keep the chest's powder and lead in reserve for the future, in case the colonists leave their domain (II.8 ¶7). *(Drafted.)*
+    - quote: qu’il voulait réserver pour l’avenir
+  - He could make powder, having saltpetre, sulphur and charcoal, but the preparation needs extreme care and special tools; he makes pyroxyle instead (see [the pyroxyle](pyroxyle.md)) (II.8 ¶8, ¶9). *(Drafted.)*
+    - quote: cette préparation demande des soins extrêmes
+    - quote: Cyrus Smith préféra donc fabriquer du pyroxyle
+- **Appears in:** II.2, II.3, II.8

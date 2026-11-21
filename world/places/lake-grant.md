@@ -73,7 +73,18 @@ Keywords: lac Grant, pond, shore, water, west bank, lac Grant, creek, déversoir
     - quote: vers cette pointe que le lac projetait au nord
   - In the great cold numerous birds, ducks, snipe, pintails and guillemots, flutter over its solid surface, by thousands (I.22 ¶30). *(Drafted.)*
     - quote: De nombreux oiseaux voletaient à la surface solide du lac
-- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, III.16
+  - Its north-west shore, from the corner by the old outlet to the cut at its east shore, forms one side of the plateau's defence (II.7 ¶18). *(Drafted.)*
+    - quote: par la rive du lac Grant, depuis l’angle appuyé à l’orifice de l’ancien déversoir jusqu’à la coupée faite à la rive est du lac pour l’échappement des eaux
+  - Smith finds the Red Creek's flow large enough to feed a second cut and a ditch (II.7 ¶22). *(Drafted.)*
+    - quote: le débit du Creek-Rouge était assez considérable pour permettre l’exécution de son projet
+  - A second cut in its rocky rim, made with nitro-glycerine, feeds the Creek-Glycérine; the lake's level falls, but almost insensibly (II.7 ¶39). *(Drafted.)*
+    - quote: Une nouvelle saignée fut, par le même moyen, pratiquée à la lisière rocheuse du lac
+    - quote: le niveau du lac baissa, mais d’une façon presque insensible
+  - The poultry-yard lies on its south-east shore (II.7 ¶44). *(Drafted.)*
+    - quote: sur la rive sud-est du lac
+  - Fishing in it is fruitful (II.8 ¶15). *(Drafted.)*
+    - quote: la pêche, soit dans les eaux du lac
+- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, II.7, II.8, III.16
 - **Open:**
   - The text gives the lake no size.
     - quote: du lac Grant

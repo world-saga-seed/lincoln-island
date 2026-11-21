@@ -11,4 +11,13 @@ Keywords: longue-vue, lunette, telescope, glass, spyglass, instrument, chest
     - quote: ne portaient la marque du fabricant
   - Among the instruments the colonists take on the exploration is "la lunette" (the chest has a binocular and a long-glass; the text does not say which) (II.3 ¶5). *(My reading, to confirm.)*
     - quote: la lunette et la boussole de poche
-- **Appears in:** II.2, II.3
+  - At dawn on 2 November the "longue-vue" finds no suspect point on the sea (II.5 ¶2). *(Drafted.)*
+    - quote: la longue-vue n’y put découvrir aucun point suspect
+  - At the cove the engineer's "lunette" goes over the whole line of the horizon point by point, and then the shore from the beach to the reefs, finding no ship or wreck (II.5 ¶48, ¶49). *(Drafted.)*
+    - quote: la lunette de l’ingénieur eût parcouru point à point toute cette ligne circulaire
+    - quote: la lunette fut promenée avec le même soin depuis la grève jusqu’aux récifs
+- **Appears in:** II.2, II.3, II.5
+- **Open:**
+  - Whether "la longue-vue" (II.5 ¶2) and "la lunette de l’ingénieur" (II.5 ¶48) are one instrument is not said. *(My reading, to confirm.)*
+    - quote: la longue-vue
+    - quote: la lunette de l’ingénieur

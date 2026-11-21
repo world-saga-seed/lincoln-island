@@ -9,4 +9,6 @@ Keywords: martin-pêcheur, kingfisher, lac Grant, lake, rocher, rock, pêche, fi
     - quote: Là, vivaient en commun plusieurs couples de martins-pêcheurs
   - They perch on a stone, grave and motionless, watching for fish, then dart, dive with a shrill cry, and reappear with the prey in the beak (I.12 ¶68). *(Drafted.)*
     - quote: guettant les poissons au passage, puis, s’élançant, plongeant en faisant entendre un cri aigu, et reparaissant, la proie au bec
-- **Appears in:** I.12
+  - Kingfishers come of themselves to the shore of the poultry-yard (II.7 ¶45). *(Drafted.)*
+    - quote: aux martins-pêcheurs, aux poules d’eau, ils vinrent d’eux-mêmes au rivage de la basse-cour
+- **Appears in:** I.12, II.7

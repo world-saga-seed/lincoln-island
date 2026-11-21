@@ -37,7 +37,14 @@ Keywords: Far-West, forêts, bois, woods, forest, Serpentine, impenetrable, for�
     - quote: La forêt formait le littoral
   - The last trees of the forest of the Far-West die at the promontoire du Reptile (II.4 ¶44). *(Drafted.)*
     - quote: Les derniers arbres de la forêt du Far-West venaient mourir à cette pointe
-- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4
+  - A road has to be broken through its thick masses to bring the cart to port Ballon, and by the end of December a straight cut runs through it from the Mercy bend to the port (see [the road to port Ballon](port-ballon-road.md)) (II.7 ¶32, ¶61). *(Drafted.)*
+    - quote: nécessité de frayer une route à travers les épais massifs du Far-West
+    - quote: une coupée avait été faite à travers la forêt du Far-West
+  - Excursions into the forests of the Jacamar and the Far-West bring back a real harvest of wild plants, spinach, cress, horseradish and radishes (II.8 ¶14). *(Drafted.)*
+    - quote: Plusieurs excursions furent faites dans les forêts du Jacamar et du Far-West
+  - The great woods that cover the Serpentine peninsula are still the unknown part of the island, where the wild beasts take refuge (II.8 ¶42). *(Drafted.)*
+    - quote: ces grands bois qui couvraient la presqu’île Serpentine, où se réfugiaient les fauves
+- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8
 - **Open:**
   - How much of the great forest the name covers: I.11 ¶32 says the trees make "two thirds" of the island a forest; I.11 ¶27 has the forest cover the whole south from the mountain to the shore; ¶81 gives the name to the woods of the Serpentine peninsula. The three do not say how they overlap, nor whether it takes in [the evergreen forest](the-evergreen-forest.md) or [the wood of the Jacamar](jacamar-wood.md). Card neither.
     - quote: très-boisée dans toute sa portion méridionale depuis la montagne jusqu’au littoral

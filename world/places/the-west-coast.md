@@ -33,4 +33,7 @@ Keywords: côte occidentale, west shore, littoral, forest coast, lisière, Pacif
   - Game with fur no longer shows on the strip, but birds swarm there, and there is hardly a tree without a nest (II.4 ¶42). *(Drafted.)*
     - quote: le gibier de poil ne se montrait plus sur cette lisière
     - quote: Pas un arbre qui n’eût un nid
-- **Appears in:** II.3, II.4
+  - Smith had believed the west shore might offer refuge to a ship in distress or on a regular course; since it offers no landfall, the south shore must be searched (II.5 ¶5). *(Drafted.)*
+    - quote: le rivage occidental pouvait offrir refuge, soit à un bâtiment en détresse
+    - quote: ce littoral ne présentait aucun atterrage
+- **Appears in:** II.3, II.4, II.5

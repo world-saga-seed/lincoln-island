@@ -97,7 +97,13 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
     - quote: toutes les eaux des pentes méridionales de la montagne
   - It is a volcano, rising to the north of the camp at the Mercy fall at less than three miles (II.4 ¶2). *(Drafted.)*
     - quote: le volcan se relevait dans le nord à une distance de moins de trois milles
-- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4
+  - The corral is founded at the Red Creek's sources at its foot, on the reverse of the mountain's southern croup (II.8 ¶30, ¶32). *(Drafted.)*
+    - quote: au pied du mont Franklin, serait fondé un corral
+    - quote: au revers même de la croupe méridionale de la montagne
+  - The pastures at its foot are frequented by ruminants, and mouflons are numerous in that part of the island (II.8 ¶36, ¶38). *(Drafted.)*
+    - quote: au pied du mont Franklin, au milieu des pâturages fréquentés par les ruminants
+    - quote: Les mouflons étaient nombreux dans cette portion de l’île
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8
 - **Open:**
   - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
     - quote: à une distance de six ou sept milles

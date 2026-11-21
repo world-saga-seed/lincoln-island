@@ -243,6 +243,66 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: ne se souvenait pas, lors de son excursion au cratère, d’avoir reconnu d’autre cours d’eau que ceux du Creek-Rouge et de la Mercy
   - From the swift current that does not feel the tide he infers that the party is much farther from the west coast than it thought (II.4 ¶29). *(Drafted.)*
     - quote: Cyrus Smith fut amené à supposer que ses compagnons et lui étaient beaucoup plus loin de la côte occidentale qu’ils ne le croyaient
+  - He concludes that three months ago at most a ship, willingly or not, made land; that a human being set foot on the island, but seems no less certain to have left it now (II.5 ¶54, ¶56). *(Drafted.)*
+    - quote: il y a trois mois au plus, un navire, volontairement ou non, a atterri
+    - quote: il ne paraît pas moins certain qu’il l’a quittée maintenant
+  - Told that the sea turned the turtle over, he murmurs "Qui sait ?" (II.5 ¶15). *(Drafted.)*
+    - quote: Qui sait ?
+  - He is the first into the canoe, and by touch makes sure that the rope had really been worn by rubbing on rocks; to the reporter's "circonstance…" he answers "Étrange !" (II.5 ¶113, ¶114, ¶115). *(Drafted.)*
+    - quote: s’assura au toucher que cette amarre avait été réellement usée par son frottement sur des roches
+    - quote: Étrange !
+  - He waits with his habitual patience, though his tenacious reason exasperates at an absolutely inexplicable fact; he is indignant that around him, perhaps above him, an influence acts to which he cannot give a name (II.6 ¶18). *(Drafted.)*
+    - quote: Seul, Cyrus Smith attendait avec sa patience habituelle
+    - quote: s’exerçait une influence à laquelle il ne pouvait donner un nom
+  - He and Gédéon Spilett speak low, several times, of the inexplicable circumstances that baffle their penetration and experience; there is a mystery on the island, and how to pierce it? (II.6 ¶18). *(Drafted.)*
+    - quote: Il y avait, à coup sûr, un mystère dans cette île
+    - quote: mettaient en défaut leur perspicacité et leur expérience
+  - His plan to hide the old outlet's mouth under the lake is not yet carried out; the mouth is closed by a wall of cemented stones (II.6 ¶67). *(Drafted.)*
+    - quote: Cyrus Smith n’avait pas encore effectué son projet de dissimuler cet orifice
+    - quote: fermé par un mur de pierres cimentées
+  - At the sight of the ladder sliding down he says "Trop fort !" and is the first up it; he tells Pencroff to spare the ape, "C'est lui qui nous a jeté l'échelle !", in so singular a voice that it is hard to tell if he speaks seriously (II.6 ¶81, ¶83, ¶94, ¶95). *(Drafted.)*
+    - quote: Trop fort !
+    - quote: qui s’élança le premier sur l’échelle
+    - quote: d’une voix si singulière
+  - He has long thought of isolating the plateau of Grande-Vue from every attack by quadrupeds or quadrumana, and he drew a map of the plateau to make his companions understand (II.7 ¶15, ¶24). *(Drafted.)*
+    - quote: qu’il méditait depuis quelque temps
+    - quote: avait dessiné une carte du plateau
+  - He has found Red Creek's flow considerable enough to feed a second ditch from the lake, whose overflow would fall by a second fall into the Mercy (II.7 ¶22). *(Drafted.)*
+    - quote: le débit du Creek-Rouge était assez considérable
+  - The ingenuity of "un homme qui s'entendait merveilleusement à ces travaux" carries the bridge over the Mercy, which took three weeks (II.7 ¶28, ¶29). *(My reading, to confirm.)*
+    - quote: l’ingéniosité d’un homme qui s’entendait merveilleusement à ces travaux
+  - For the ditch he has nitro-glycerine made anew, since two to three feet of soil lie over granite, and it does its accustomed work (II.7 ¶39). *(Drafted.)*
+    - quote: Il fallut donc fabriquer à nouveau de la nitro-glycérine
+    - quote: la nitro-glycérine fit son effet accoutumé
+  - He is a practical mind, who cannot think of leaving the island in a hot-air balloon over a sea without limits (II.7 ¶47). *(Drafted.)*
+    - quote: Cyrus Smith, esprit pratique, n’y pouvait songer
+  - He has the idea of reusing the thread that sewed the strips of the balloon (II.8 ¶2). *(Drafted.)*
+    - quote: l’idée qu’eut Cyrus Smith de réemployer celui qui avait déjà servi
+  - He sets aside the powder and lead found in the chest for the future, because he does not know where chance may one day cast him and his companions if they leave their domain (II.8 ¶7). *(Drafted.)*
+    - quote: qu’il voulait réserver pour l’avenir
+    - quote: où le hasard pourrait jeter un jour, lui et les siens
+  - He has found no trace of lead on the island and substitutes iron shot, larger and lighter in effect, which is easy to make; he could make powder from saltpetre, sulphur and charcoal but judges it difficult to make good without special tools (II.8 ¶8). *(Drafted.)*
+    - quote: dont Cyrus Smith n’avait rencontré aucune trace dans l’île
+    - quote: de la grenaille de fer
+    - quote: il est difficile de la produire en bonne qualité
+  - He chooses to make pyroxyle (gun-cotton), knowing that cellulose, which is nearly pure in cotton, hemp and flax fibre, paper, old linen and elder pith, is its basis; elders abound near the mouth of Red Creek (II.8 ¶9). *(Drafted.)*
+    - quote: Cyrus Smith préféra donc fabriquer du pyroxyle
+    - quote: la cellulose n’est autre chose que le tissu élémentaire des végétaux
+    - quote: les sureaux abondaient dans l’île
+  - He knows its faults, great unevenness of effect, excessive inflammability (it ignites at a hundred and seventy degrees against two hundred and forty) and too instantaneous a deflagration that may wear out guns; and its merits: it is not spoiled by damp, does not foul the barrel, and has four times the propellant force of ordinary powder (II.8 ¶11). *(Drafted.)*
+    - quote: une grande inégalité d’effet, une excessive inflammabilité
+    - quote: il s’enflamme à cent soixante-dix degrés au lieu de deux cent quarante
+    - quote: sa force propulsive était quadruple de celle de la poudre ordinaire
+  - Having sulphuric acid, he has already made nitric acid from the saltpetre nature supplies; with only ordinary nitric acid, mixed three volumes to five of concentrated sulphuric, he obtains the same result as with fuming acid (II.8 ¶10, ¶13). *(Drafted.)*
+    - quote: avait déjà pu facilement produire de l’acide azotique, en attaquant le salpêtre
+    - quote: dans la proportion de trois volumes à cinq volumes d’acide sulfurique concentré
+    - quote: il l’obtint
+  - To the Oswego tea and the fermented liquor of the dragon-tree roots he adds a true beer, brewed from boiled and fermented young shoots of "abies nigra", the "spring-berr" or spruce beer (II.8 ¶44). *(Drafted.)*
+    - quote: Cyrus Smith avait ajouté une véritable bière
+    - quote: les jeunes pousses de « l’abies nigra »
+  - He is mostly silent, listens to his companions more than he speaks, and always and everywhere thinks of these inexplicable facts, this strange enigma whose secret still escapes him (II.8 ¶50). *(Drafted.)*
+    - quote: la plupart du temps silencieux, il écoutait ses compagnons plus souvent qu’il ne parlait
+    - quote: toujours et partout, il songeait à ces faits inexplicables, à cette étrange énigme
   - He was thrown into the sea when the balloon fell (III.16 ¶62). *(Drafted.)*
     - quote: lorsque l’ingénieur fut précipité dans la mer
   - The balloon carried prisoners of the Southerners (III.16 ¶62). *(Drafted.)*
@@ -316,9 +376,6 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He holds that they should settle near running water, and on this east-facing coast, which is not exposed like the other to the north-west trade winds; from the mountain he saw no stream to the west (I.16 ¶12). *(Drafted.)*
     - quote: il convient de nous établir dans le voisinage d’un cours d’eau
     - quote: n’est pas exposée comme l’autre aux vents alizés
-  - He will not decide before looking: a dwelling made by nature would spare work and be safer against enemies within and without (I.16 ¶14). *(Drafted.)*
-    - quote: avant de prendre une décision, il faut chercher
-    - quote: aussi bien défendue contre les ennemis du dedans que contre ceux du dehors
   - He finds the flow of the creek into the lake "assez considérable", so the lake must have an outlet, a fall whose power could be used (I.16 ¶30). *(Drafted.)*
     - quote: le débit d’eau du creek était assez considérable
     - quote: il formait une chute dont il serait possible d’utiliser la puissance mécanique
@@ -425,7 +482,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
   - When his plan succeeds he shows no satisfaction, "suivant son habitude": lips pressed, gaze fixed, motionless (I.18 ¶1). *(Drafted.)*
     - quote: suivant son habitude, sans témoigner aucune satisfaction, les lèvres serrées, le regard fixe
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

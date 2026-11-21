@@ -1,8 +1,16 @@
 # The wild radishes: the raves of the Mercy bank
 
-*Wild radishes or turnips (raves) among the crucifers of the cabbage genus.*
+*Wild radishes or turnips (raves) among the crucifers of the cabbage genus, taken up on the Mercy and grown in the plateau garden.*
 
 Keywords: raves, radishes, turnips, crucifers, cabbage, Harbert
 
-- **What it is.** A plant, a wild radish. Build if needed. *(Drafted.)*
-- **Appears in:** II.3 ¶13, ¶20
+- **What it is.**
+  - It is among the crucifers of the cabbage genus that Harbert finds on the Mercy bank (II.3 ¶13). *(Drafted.)*
+    - quote: c’étaient du cresson, du raifort, des raves
+  - It is uprooted with care and carried off in the pirogue (II.3 ¶20). *(Drafted.)*
+    - quote: avaient été déracinées avec soin
+  - It is among the wild plants brought back from the forests in January 1866 (II.8 ¶14). *(Drafted.)*
+    - quote: épinards, cresson, raifort, raves
+  - It grows in the garden's small squares (see [the kitchen garden](../places/the-kitchen-garden.md)) (II.8 ¶43). *(Drafted.)*
+    - quote: laitues, vitelottes, oseille, raves, raifort et autres crucifères
+- **Appears in:** II.3, II.8

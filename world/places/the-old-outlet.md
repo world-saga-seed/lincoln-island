@@ -65,10 +65,19 @@ Keywords: déversoir, ancien déversoir, outlet, overflow, conduit, boyau, coulo
     - quote: Une petite saignée, faite au-dessous de leur niveau
   - In the frost the water taken beneath the frozen surface and led by it keeps its liquidity (I.21 ¶6). *(Drafted.)*
     - quote: conduites par l’ancien déversoir, elles conservaient leur liquidité
+  - It is the only way into Granite-house when the ladder is gone; its mouth at the lake is closed by a wall of cemented stones that would have to be sacrificed and rebuilt (II.6 ¶65, ¶67). *(Drafted.)*
+    - quote: C’était, en effet, le seul moyen de pénétrer dans Granite-house
+    - quote: L’orifice du déversoir était, il est vrai, fermé par un mur de pierres cimentées, qu’il serait nécessaire de sacrifier
+  - Smith has not yet carried out his plan to hide the mouth under the lake's water, which would have taken more time to undo (II.6 ¶67). *(Drafted.)*
+    - quote: Cyrus Smith n’avait pas encore effectué son projet de dissimuler cet orifice en le noyant sous les eaux du lac
+  - The corner of the lake's shore rests on its mouth, and the plateau's defence line runs from it (II.7 ¶18). *(Drafted.)*
+    - quote: depuis l’angle appuyé à l’orifice de l’ancien déversoir
+  - The poultry-yard lies on the lake shore next to it (II.7 ¶8). *(Drafted.)*
+    - quote: cette portion des rives du lac qui confinait à l’ancien déversoir
 - **On the page.**
   - The drops of water still hanging on the rocks sparkle in the torchlight, so that the walls seem lined with countless stalactites (I.18 ¶19). *(Drafted.)*
     - quote: s’irisaient çà et là sous le feu des torches
-- **Appears in:** I.16, I.17, I.18, I.19, I.21
+- **Appears in:** I.16, I.17, I.18, I.19, I.21, II.6, II.7
 - **Open:**
   - How far the passage runs in all is not totalled: Smith and Harbert say that after about a hundred feet they are still at about a third of the height (I.18 ¶28, ¶29). *(Drafted.)*
     - quote: Nous ne sommes encore qu’au tiers de la hauteur

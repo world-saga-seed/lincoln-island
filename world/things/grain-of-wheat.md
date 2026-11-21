@@ -26,4 +26,13 @@ Keywords: grain de blé, blé, wheat, grain, seed, bread, pain, harvest, moisson
     - quote: de le confier à la terre
   - It is the only one: no human power could make another if it perished (I.20 ¶68). *(Drafted.)*
     - quote: nulle puissance humaine ne leur referait ce grain de blé
-- **Appears in:** I.20, I.21
+  - Its descendant crop gives the ten ears Smith announced, each ear of eighty grains, so that the colony holds eight hundred grains after six months, promising a double harvest each year (II.7 ¶36). *(Drafted.)*
+    - quote: Il avait produit les dix épis annoncés par l’ingénieur
+    - quote: la colonie se trouvait à la tête de huit cents grains, — en six mois
+    - quote: une double récolte chaque année
+  - About fifty of the eight hundred are kept back for prudence, and seven hundred and fifty sown in a new field (see [the wheat field](../places/the-wheat-field.md)) (II.7 ¶37, ¶38). *(Drafted.)*
+    - quote: Ces huit cents grains, moins une cinquantaine, qui furent réservés par prudence
+    - quote: Les sept cent cinquante grains
+  - Bread is still the one thing missing from the colonists' table, and a privation they feel (II.8 ¶15). *(Drafted.)*
+    - quote: Seul, le pain manquait encore à la table des colons
+- **Appears in:** I.20, I.21, II.7, II.8

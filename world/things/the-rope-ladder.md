@@ -23,6 +23,14 @@ Keywords: échelle, échelle de corde, ladder, rungs, échelons, landing, palier
     - quote: un ascenseur hydraulique
   - In the great cold the rungs burn the fingers, and the colonists’ hands cling to them only with pain (I.22 ¶41). *(Drafted.)*
     - quote: les échelons leur brûlaient les doigts
+  - It is in two lengths: the upper ladder, usually stretched from the landing to the door, and the lower ladder, which can be drawn up to the threshold (II.6 ¶24). *(Drafted.)*
+    - quote: L’échelle supérieure, ordinairement tendue du palier à la porte
+    - quote: l’échelle inférieure avait été retirée et relevée jusqu’au seuil
+  - When drawn up from inside it unrolls down to the ground (II.6 ¶81). *(Drafted.)*
+    - quote: on vit l’échelle glisser sur le seuil de la porte, puis se dérouler et retomber jusqu’au sol
+  - Its foot is made fast on 3 November by two stakes driven firmly into the sand (II.7 ¶11, ¶12). *(Drafted.)*
+    - quote: Assujettissons-la par son extrémité inférieure
+    - quote: deux pieux, solidement enfoncés dans le sable
 - **Made from.**
   - The uprights are fibres of the "curry-jonc" plaited with a windlass, as strong as a thick cable (see [the curry-jonc](curry-jonc.md)) (I.19 ¶19). *(Drafted.)*
     - quote: formés des fibres du « curry-jonc » tressées au moyen d’un moulinet
@@ -31,4 +39,4 @@ Keywords: échelle, échelle de corde, ladder, rungs, échelons, landing, palier
     - quote: une sorte de cèdre rouge, aux branches légères et résistantes
   - Pencroff worked it with a master’s hand (I.19 ¶19). *(Drafted.)*
     - quote: travaillé de main de maître par Pencroff
-- **Appears in:** I.19, I.22
+- **Appears in:** I.19, I.22, II.6, II.7

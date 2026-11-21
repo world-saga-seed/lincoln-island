@@ -15,6 +15,8 @@ Keywords: acide sulfurique, sulphuric acid, vitriol, Nordhausen, Bohemia, distil
     - quote: l’acide connu sous le nom d’acide de Nordhausen
   - Smith had the lime and the sulphuric acid he needed for the candles (I.20 ¶18). *(Drafted.)*
     - quote: il avait de la chaux et de l’acide sulfurique
+  - Concentrated sulphuric acid, mixed with ordinary nitric acid, does the work of fuming nitric acid in making pyroxyle (II.8 ¶13). *(Drafted.)*
+    - quote: d’acide sulfurique concentré
 - **Made from.**
   - He had only to calcine the crystals of iron sulphate in a closed vessel, so that the acid distilled in vapours and condensed (see [the iron sulphate](iron-sulphate.md)) (I.17 ¶53). *(Drafted.)*
     - quote: calciner en vase clos les cristaux de sulfate de fer
@@ -29,4 +31,4 @@ Keywords: acide sulfurique, sulphuric acid, vitriol, Nordhausen, Bohemia, distil
     - quote: facile à décomposer par l’acide sulfurique
   - With sulphuric acid alone Smith could have heated the neutral fats and isolated the glycerine (see [the glycerine](glycerine.md)) (I.20 ¶23). *(Drafted.)*
     - quote: qu’en chauffant cet acide avec les corps gras neutres
-- **Appears in:** I.17, I.20
+- **Appears in:** I.17, I.20, II.8

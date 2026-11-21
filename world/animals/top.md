@@ -68,6 +68,18 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - On the creek's bank he does not bark, and the narrator says that the intelligent animal would not have failed to signal any stranger near the water (II.4 ¶30). *(Drafted.)*
     - quote: car Top n’aboyait pas
     - quote: l’intelligent animal n’eût pas manqué de signaler la présence de tout étranger
+  - On the march he goes about not "comme un chien qui cherche au hasard, mais comme un être doué de volonté qui suit une idée" (II.5 ¶70). *(Drafted.)*
+    - quote: non comme un chien qui cherche au hasard, mais comme un être doué de volonté qui suit une idée
+  - He barks with anger when Nab, feeling for the first rung, finds no ladder (II.5 ¶119). *(Drafted.)*
+    - quote: Top aboya avec colère
+  - When Top receives an order, Top carries it out without remark; he is left at the foot of the wall as guard under the windows of Granite-house (II.6 ¶16). *(Drafted.)*
+    - quote: quand Top recevait un ordre, Top l’exécutait sans faire d’observation
+    - quote: Le brave chien resta donc au pied de la muraille
+  - His furious barking is "comme un appel désespéré" (II.6 ¶69). *(Drafted.)*
+    - quote: les aboiements furieux du chien
+    - quote: C’était comme un appel désespéré
+  - He and Jup get on well and play together willingly (II.7 ¶30). *(Drafted.)*
+    - quote: Top et Jup étaient au mieux et jouaient volontiers ensemble
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -79,8 +91,6 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
     - quote: Top le soutenait par ses vêtements
   - The narrator says that to Top goes all the honour of the engineer's rescue (I.8 ¶82). *(Drafted.)*
     - quote: à Top revenait tout l’honneur de l’affaire
-  - He sleeps at his master's feet (I.9 ¶29). *(Drafted.)*
-    - quote: Top dormait aux pieds de son maître
   - His instinct, and the intelligent animal himself, let the hunters find the path they had followed (I.9 ¶117). *(Drafted.)*
     - quote: grâce à l’intelligent animal, purent retrouver le chemin déjà parcouru
   - Beside the lake, after being very calm, he grows agitated: he paces the bank, stops short and watches the water with a paw raised, as if pointing at invisible game, barks furiously, then falls silent (I.16 ¶35). *(Drafted.)*
@@ -121,4 +131,4 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - His master, who watches this several times, takes him for a sensible dog "qui n’ont jamais perdu leur temps à aboyer à la lune", and wonders what in the well so affects him (I.22 ¶54). *(Drafted.)*
     - quote: un de ces chiens sensés qui n’ont jamais perdu leur temps à aboyer à la lune
     - quote: Qu’y avait-il donc dans cet abîme qui pût impressionner à ce point l’intelligent animal
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8

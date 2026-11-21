@@ -22,6 +22,8 @@ Keywords: cabiai, capybara, rongeur, rodent, amphibie, pond, mare, ham, game, po
     - quote: agoutis, kangourous, cabiais, pigeons, outardes, canards sauvages, bécassines
   - Capybaras ("cabiais") are among the game of the first forest slopes near Granite-house (II.1 ¶36). *(Drafted.)*
     - quote: d’agoutis, de cabiais, de kangourous
+  - Cabiais swarm in the woods at the start of 1866, with other game of fur and feather (II.8 ¶6). *(Drafted.)*
+    - quote: Agoutis, pécaris, cabiais, kangourous, gibiers de poil et de plume fourmillaient véritablement
 - **On the page.**
   - Held by Top, it does not struggle, and the narrator guesses it may be seeing men for the first time (I.9 ¶105). *(Drafted.)*
     - quote: Peut-être voyait-il des hommes pour la première fois.
@@ -34,4 +36,4 @@ Keywords: cabiai, capybara, rongeur, rodent, amphibie, pond, mare, ham, game, po
     - quote: était assommé d’un coup du bâton de Nab
   - Pencroff carries it on his shoulder; he means to roast it as soon as there is a coal (I.9 ¶115, ¶116). *(Drafted.)*
     - quote: ce rongeur sera rongé jusqu’aux os
-- **Appears in:** I.9, I.22, II.1
+- **Appears in:** I.9, I.22, II.1, II.8

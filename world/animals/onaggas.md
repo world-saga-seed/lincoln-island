@@ -1,0 +1,47 @@
+# Onaggas: the pair of striped draught animals taken on the plateau
+
+*A male and a female with fine forms, isabelle coat and zebra stripes on head, neck and trunk, that wandered onto the plateau, were trapped there and are broken to the cart.*
+
+Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chariot, isabelle, rayures
+
+- **What it is.**
+  - They are two fine animals of large size, male and female, that one would have taken for horses or at least asses: fine forms, a coat of isabelle colour, white legs and tail, striped black on head, neck and trunk (II.7 ¶53). *(Drafted.)*
+    - quote: Deux beaux animaux de grande taille
+    - quote: mâle et femelle, formes fines, pelage isabelle, jambes et queue blanches, zébrés de raies noires sur la tête, le cou et le tronc
+  - They look at the men with a lively eye, advance without uneasiness, and cannot yet recognise masters in them (II.7 ¶53). *(Drafted.)*
+    - quote: ils regardaient d’un œil vif ces hommes, dans lesquels ils ne pouvaient encore reconnaître des maîtres
+  - Harbert names them onaggas, quadrupeds that are between the zebra and the quagga; they are not asses, since they have not long ears and their forms are more graceful (II.7 ¶54, ¶56). *(Drafted.)*
+    - quote: des onaggas
+    - quote: des quadrupèdes qui tiennent le milieu entre le zèbre et le couagga
+    - quote: Parce qu’ils n’ont point les oreilles longues et que leurs formes sont plus gracieuses
+  - Pencroff reckons them "moteurs", good to capture (II.7 ¶57). *(Drafted.)*
+    - quote: ce sont des « moteurs »
+  - They are not forced: they are left free on the plateau, where the grass is plentiful, and a stable with good litter is built for them beside the poultry-yard as a night shelter (II.7 ¶59). *(Drafted.)*
+    - quote: on les laisserait aller et venir librement sur le plateau
+    - quote: une écurie, dans laquelle les onaggas devaient trouver, avec une bonne litière, un refuge pendant la nuit
+  - Accustomed to wide spaces and deep forests, they several times seem to need to leave the too small plateau: they follow the belt of water, bray sharply, gallop through the grass, then stand for hours gazing at the woods closed to them (II.7 ¶60). *(Drafted.)*
+    - quote: habitués aux larges espaces et aux forêts profondes
+    - quote: jeter quelques braîments aigus
+  - Pencroff has tamed them enough that they eat from his hand and let themselves be approached; once harnessed they rear and are hard to hold (II.7 ¶62). *(Drafted.)*
+    - quote: pour qu’ils vinssent lui manger dans la main
+    - quote: ils se cabrèrent, et on eut grand’peine à les contenir
+  - The narrator says the onagga is less rebellious than the zebra, is often harnessed in the mountain parts of southern Africa, and has been acclimatised in Europe in relatively cold zones (II.7 ¶62). *(Drafted.)*
+    - quote: l’onagga, moins rebelle que le zèbre, s’attelle fréquemment dans les parties montagneuses de l’Afrique australe
+    - quote: on a même pu l’acclimater en Europe
+  - Harness and traces of vegetable fibre are made for them (II.7 ¶61). *(Drafted.)*
+    - quote: des harnais et des traits en fibres végétales
+  - Part of the plateau is kept in meadow for their keep (II.8 ¶14). *(Drafted.)*
+    - quote: conservé à l’état de prairies pour l’entretien des onaggas
+  - They are well enough trained by 7 February to be ridden by Gédéon Spilett and Harbert, and "les onaggas aidant" the road to the corral is a five-mile walk (II.8 ¶31, ¶36). *(Drafted.)*
+    - quote: assez bien dressés déjà et montés par Gédéon Spilett et Harbert
+    - quote: les onaggas aidant
+- **On the page.**
+  - They enter the plateau on 23 December because the small bridges had not been closed (II.7 ¶52, ¶53). *(Drafted.)*
+    - quote: Un jour, le 23 décembre
+    - quote: dont les ponceaux n’avaient pas été fermés
+  - Pencroff tips the footbridge over the Creek-Glycérine and so shuts them in (II.7 ¶58). *(Drafted.)*
+    - quote: le fit basculer, et les onaggas furent prisonniers
+  - They are first put to the cart at the end of December, for the trip to Port Balloon, with Pencroff walking at their head (II.7 ¶61, ¶63). *(Drafted.)*
+    - quote: ce fut vers la fin de décembre qu’on essaya pour la première fois les onaggas
+    - quote: Pencroff, qui marchait à la tête de ses bêtes
+- **Appears in:** II.7, II.8

@@ -21,4 +21,19 @@ Keywords: mouflon, mouton, sheep, bighorn, horns, wool, toison, gigot, côtelett
   - Since mouflons are not lacking, Cyrus Smith means to raise a flock for the colony's needs, for wool or skins (I.22 ¶59). *(Drafted.)*
     - quote: puisque les mouflons ne manquaient pas
     - quote: un troupeau qui serait élevé pour les besoins de la colonie
-- **Appears in:** I.10, I.20, I.22
+  - Cyrus Smith means to keep them in a corral to give wool for winter clothes, and the colonists look to them or other woolly animals for it (II.7 ¶5, ¶6). *(Drafted.)*
+    - quote: des mouflons ou autres animaux à laine qu’il convenait de capturer
+    - quote: le corral devait fournir la récolte de laine
+  - They are fine animals as big as deer, with horns stronger than a ram's, a greyish fleece mixed with long hairs, and look like argalis (II.8 ¶38). *(Drafted.)*
+    - quote: grands comme des daims, les cornes plus fortes que celles du bélier
+    - quote: la toison grisâtre et mêlée de longs poils, ressemblaient à des argalis
+  - They are robust animals, whose first violence is to be feared (II.8 ¶35). *(Drafted.)*
+    - quote: les mouflons sont de robustes animaux, et leurs premières violences étaient à craindre
+  - They graze in numbers in the pastures at the foot of Mount Franklin; of about a hundred driven, more than two thirds escape, and about thirty mouflons and ten wild goats are shut in the corral on 7 February (II.8 ¶36, ¶38, ¶39). *(Drafted.)*
+    - quote: au pied du mont Franklin, au milieu des pâturages fréquentés par les ruminants
+    - quote: Sur une centaine de mouflons qui furent rabattus
+    - quote: une trentaine de ces ruminants et une dizaine de chèvres sauvages
+  - Most of those taken are females, some about to give birth, so the flock should prosper and wool and skins abound (II.8 ¶40). *(Drafted.)*
+    - quote: La plupart de ces mouflons étaient des femelles
+    - quote: le troupeau prospérerait
+- **Appears in:** I.10, I.20, I.22, II.7, II.8

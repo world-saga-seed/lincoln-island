@@ -27,8 +27,6 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: les efforts de l’adolescent
   - He pledges obedience to Cyrus Smith in everything (I.11 ¶45). *(Drafted.)*
     - quote: Je vous obéirai en tout, monsieur Cyrus
-  - He is about to propose the engineer's name for the island, and would have been applauded by all (I.11 ¶88). *(Drafted.)*
-    - quote: Harbert allait proposer de lui donner le nom de l’ingénieur
   - Heedless of the plainest prudence, he and Nab rush at the noise in the thicket (I.12 ¶44). *(Drafted.)*
     - quote: oubliant les principes de la prudence la plus élémentaire
   - He is "tout à sa science favorite, l’histoire naturelle" (I.12 ¶56). *(Drafted.)*
@@ -126,9 +124,6 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Des eucalyptus !
     - quote: quarante-six genres et treize cents espèces
     - quote: qui débitait avec beaucoup d’entrain sa petite leçon de botanique
-  - Cyrus Smith tells him to name the new creek; he would rather wait until it has been followed to its mouth (II.4 ¶16, ¶17). *(Drafted.)*
-    - quote: Nomme-le, mon enfant
-    - quote: Ne vaut-il pas mieux attendre que nous l’ayons reconnu jusqu’à son embouchure ?
   - He knows the uses of bamboo: baskets, Chinese paper, canes, pipes, building material, vessels, and in India the young shoots are eaten like asparagus (II.4 ¶47, ¶49). *(Drafted.)*
     - quote: sert à la fabrication du papier de Chine
     - quote: dans l’Inde, on mange ces bambous en guise d’asperges
@@ -139,6 +134,29 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
   - He admires and envies the reporter's coolness before the jaguar, and does not think he could match it (II.4 ¶68, ¶70). *(Drafted.)*
     - quote: Que je vous admire et que je vous envie !
     - quote: Moi ! un pareil sang-froid !…
+  - He climbs a tall pine with Nab and the sailor to free the balloon, and they have to show prodigies of skill (II.5 ¶88). *(Drafted.)*
+    - quote: Nab, Harbert et le marin, étant montés à la cime de l’arbre, durent faire des prodiges d’adresse
+  - He notes that there has been no wind, so that the ladder cannot have been lifted by it (II.6 ¶4). *(Drafted.)*
+    - quote: Il n’a pas pourtant fait de vent
+  - He has the idea of tying a cord to an arrow, and aims "avec un soin extrême" at the ladder's dangling end (II.6 ¶32, ¶33). *(Drafted.)*
+    - quote: Harbert eut alors l’idée d’attacher une corde à une flèche
+    - quote: visa avec un soin extrême
+  - "On sait que le jeune garçon se connaissait en zoologie": he declares the ape an orang-outang (II.6 ¶46). *(Drafted.)*
+    - quote: l’on sait que le jeune garçon se connaissait en zoologie
+  - He proposes the ape as a servant and knows the part that can be drawn from the intelligent race of quadrumanes; he hopes his education will be easy, without force or pulling out the canines, since the ape can only attach himself to masters kind to him (II.6 ¶98, ¶99, ¶105). *(Drafted.)*
+    - quote: Un domestique
+    - quote: il savait le parti que l’on peut tirer de cette race intelligente des quadrumanes
+    - quote: Il ne peut que s’attacher à des maîtres qui seront bons pour lui
+  - He jokes that Jup is "pas encore un maçon, mais déjà un singe", alluding to the masons' name for their apprentices (II.7 ¶43). *(Drafted.)*
+    - quote: disait plaisamment Harbert
+    - quote: ce surnom de « singe » que les maçons donnent à leurs apprentis
+  - He takes a pair of round-tailed gallinaceans, magnificent "alectors", that soon tame (II.7 ¶45). *(Drafted.)*
+    - quote: Harbert s’empara d’un couple de gallinacés à queue arrondie
+  - He names the pair of animals onaggas, between the zebra and the quagga, and tells Nab why they are not asses: no long ears and more graceful forms (II.7 ¶54, ¶56). *(Drafted.)*
+    - quote: des quadrupèdes qui tiennent le milieu entre le zèbre et le couagga
+    - quote: Parce qu’ils n’ont point les oreilles longues et que leurs formes sont plus gracieuses
+  - He seldom returns from an excursion without bringing back some useful plants (II.8 ¶43). *(Drafted.)*
+    - quote: Harbert ne revenait guère d’une excursion sans rapporter quelques végétaux utiles
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -160,8 +178,6 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Ils sont bons à manger, et même leur chair est très délicate
   - He recognises the male tétras by the two pointed wing-tufts (I.6 ¶37). *(Drafted.)*
     - quote: Harbert reconnut les mâles aux deux ailerons pointus
-  - It is the first time he has seen birds taken on a line (I.6 ¶49). *(Drafted.)*
-    - quote: C’était la première fois qu’il voyait prendre des oiseaux à la ligne
   - He takes the animal Top holds for a capybara, one of the largest of the rodents (I.9 ¶104). *(Drafted.)*
     - quote: Harbert crut reconnaître en cet animal un cabiai
   - He knows the capybara has webbed feet and is almost an amphibian (I.9 ¶112). *(Drafted.)*
@@ -187,7 +203,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: remarquablement instruit déjà dans les sciences naturelles
   - He shoots with a bow (I.13 ¶36). *(Drafted.)*
     - quote: de très-adroits tireurs d’arc
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

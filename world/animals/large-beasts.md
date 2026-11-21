@@ -46,4 +46,7 @@ Keywords: fauve, bête, beast, prey, empreintes, tracks, griffes, claws, dangere
   - At the Reptile promontory formidable roars stop Pencroff and Harbert at the mouth of a cavity in the rocks; the beast is a jaguar (II.4 ¶60, ¶62, ¶63). *(Drafted.)*
     - quote: de formidables rugissements les arrêtèrent
     - quote: C’était un jaguar
-- **Appears in:** I.10, I.12, I.15, I.16, I.19, I.22, II.3, II.4
+  - The still unknown part of the island is that of the great woods that cover the Serpentine peninsula, where the fauves take refuge and from which Gédéon Spilett means to purge his domain (II.8 ¶42). *(Drafted.)*
+    - quote: ces grands bois qui couvraient la presqu’île Serpentine, où se réfugiaient les fauves
+    - quote: dont Gédéon Spilett comptait bien purger son domaine
+- **Appears in:** I.10, I.12, I.15, I.16, I.19, I.22, II.3, II.4, II.8

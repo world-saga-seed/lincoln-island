@@ -30,4 +30,6 @@ Keywords: culpeux, renard, fox, Chili, Malouines, aboiement, bark, bait, appât,
     - quote: les trappes furent dès lors amorcées avec ces cadavres de renards
   - Pencroff reckons their fur no use against the cold (I.22 ¶1). *(Drafted.)*
     - quote: à ces renards ou à ces phoques, dont la fourrure laissait à désirer
-- **Appears in:** I.21, I.22
+  - Pencroff counts on the closed plateau to spare the poultry-yard "la visite des renards" and the attacks of other noxious beasts (II.7 ¶33). *(My reading, to confirm.)*
+    - quote: ni la visite des renards, ni l’agression d’autres bêtes nuisibles
+- **Appears in:** I.21, I.22, II.7

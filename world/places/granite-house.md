@@ -116,6 +116,21 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: arriver au fond du puits intérieur de Granite-house
   - The well has an upper opening, reached by climbing projections of the rock (III.16 ¶64). *(Drafted.)*
     - quote: s’élevant par les saillies du roc jusqu’à son orifice supérieur
+  - It is the colonists' storehouse as well as their dwelling: all the colony's materiel is there, arms, instruments, tools, munitions and food reserves (II.6 ¶18). *(Drafted.)*
+    - quote: Granite-house, c’était plus que leur demeure, c’était leur entrepôt
+    - quote: armes, instruments, outils, munitions, réserves de vivres
+  - Its windows have shutters and are screened with curtains of foliage; at dawn, struck by the rising sun, they show through the leaves before five o'clock (II.6 ¶21). *(Drafted.)*
+    - quote: frappée directement par le soleil levant
+    - quote: les fenêtres, dont les volets étaient clos, apparurent à travers leurs rideaux de feuillage
+  - Its door can be shut (II.6 ¶22). *(Drafted.)*
+    - quote: la porte, qu’ils avaient fermée cependant avant leur départ
+  - It has a store (magasin), rooms (chambres), a passage and a hall (II.6 ¶87, ¶89). *(Drafted.)*
+    - quote: ni dans le magasin qui avait été respecté par la bande des quadrumanes
+    - quote: un grand singe, qui s’était réfugié dans le couloir, se précipita dans la salle
+  - The apes upset the furniture of the rooms but broke nothing (II.7 ¶2). *(Drafted.)*
+    - quote: s’ils avaient bouleversé le mobilier des chambres, du moins n’avaient-ils rien brisé
+  - It has a kitchen with stoves and a pantry (office) holding reserves (II.7 ¶2). *(Drafted.)*
+    - quote: Nab ralluma ses fourneaux, et les réserves de l’office
 - **On the page.**
   - The well is at the cavern’s end (see [the well](the-well.md)); Top’s barking finds nothing in the cavern, and Smith murmurs that Top knows more than they do about many things (I.18 ¶56). *(Drafted.)*
     - quote: Top en sait plus long que nous sur bien des choses
@@ -125,7 +140,7 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: la corde du haut de Granite-house
   - Nemo summoned the colonists of Granite-house by a wire linking the corral to the Nautilus (III.16 ¶66). *(Drafted.)*
     - quote: il manda, comme on sait, les colons de Granite-house
-- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, III.16
+- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, III.16
 - **Open:**
   - Chapter I.13 knows no Granite-house: there the engineer still hopes to find or build a better dwelling than the Chimneys (I.13 ¶40). Nothing in these chapters says where Granite-house stands, how big it is, or how the well opens inside it.
     - quote: une demeure plus convenable

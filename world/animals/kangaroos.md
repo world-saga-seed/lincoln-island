@@ -27,4 +27,6 @@ Keywords: kangourou, kangaroo, bond, leap, gibier, game, venaison, venison, broc
   - Kangaroos are among the game of the first forest slopes near Granite-house (II.1 ¶36), and some are seen on the march to the west coast (II.4 ¶8). *(Drafted.)*
     - quote: d’agoutis, de cabiais, de kangourous
     - quote: des agoutis, des kangourous et autres rongeurs
-- **Appears in:** I.12, I.19, I.22, II.1, II.4
+  - Kangaroos swarm in the woods at the start of 1866, with other game of fur and feather (II.8 ¶6). *(Drafted.)*
+    - quote: Agoutis, pécaris, cabiais, kangourous, gibiers de poil et de plume fourmillaient véritablement
+- **Appears in:** I.12, I.19, I.22, II.1, II.4, II.8

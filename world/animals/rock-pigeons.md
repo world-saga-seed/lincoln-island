@@ -16,6 +16,12 @@ Keywords: pigeon, pigeon de roche, wild pigeon, eggs, œufs, Harbert
     - quote: n’étaient, en réalité, que des trous forés à la crête même et sur la lisière irrégulièrement découpée du granit
   - Some rock pigeons already go in and out of the narrow opening in the granite where Granite-house has been found (I.19 ¶3). *(Drafted.)*
     - quote: Quelques pigeons de roche entraient et sortaient déjà par cette étroite ouverture
+  - A dozen pigeons that frequent the high rocks of the plateau are lodged in a dovecot in a corner of the poultry-yard; they are more inclined to domestication than the wood pigeons ("ramiers"), their kin, which breed only wild (II.7 ¶46). *(My reading, to confirm.)*
+    - quote: On y logea une douzaine de ces pigeons qui fréquentaient les hauts rocs du plateau
+    - quote: montrèrent plus de propension à se domestiquer que les ramiers leurs congénères
+    - quote: ne se reproduisent qu’à l’état sauvage
+  - Rock pigeons are shot in the wood and roasted (II.6 ¶58). *(Drafted.)*
+    - quote: quelques pigeons de roche, que l’on fit rôtir
 - **On the page.**
   - Some dozens of eggs are found in cavities and collected in Pencroff's handkerchief (I.4 ¶62). *(My reading, to confirm.)*
     - quote: Quelques douzaines furent recueillies, puis placées dans le mouchoir du marin
@@ -27,4 +33,4 @@ Keywords: pigeon, pigeon de roche, wild pigeon, eggs, œufs, Harbert
     - quote: ces pigeons qui volaient par centaines à la crête du plateau
   - Pigeon eggs make up, with lithodomes, the breakfast of 26 March (I.6 ¶10). *(Drafted.)*
     - quote: uniquement composé d’œufs de pigeon et de lithodomes
-- **Appears in:** I.4, I.5, I.6, I.16, I.19
+- **Appears in:** I.4, I.5, I.6, I.16, I.19, II.6, II.7

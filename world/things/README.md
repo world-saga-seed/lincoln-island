@@ -16,6 +16,8 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The ballast sacks](ballast-sacks.md) | sacks of sand holding the balloon down |
 | [The balloon](balloon.md) | the airship that carries five passengers to the island |
 | [The balloon's cable](balloon-cable.md) | the strong cable that moored the basket |
+| [The balloon's envelope](balloon-envelope.md) | the cotton cloth saved from the pine |
+| [The balloon's gear](balloon-gear.md) | the net, the retaining ring and the anchor saved with the envelope |
 | [Bamboo](bamboo.md) | the clumps at the promontoire du Reptile, good for much and for noise |
 | [The banksias](banksias.md) | trees of the Red Creek |
 | [Basalt](basalt.md) | the volcanic rock strewn over the mountain and the plain at its foot |
@@ -28,6 +30,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The boarding sabres](boarding-sabres.md) | four sabres of the chest |
 | [The boat](boat-plan.md) | the vessel Smith would build if land lay within reach |
 | [The boilers](boilers.md) | two bouilloires of the chest |
+| [The bottom lines](bottom-lines.md) | Pencroff's lines with iron hooks, set in the lake and the Mercy |
 | [The bows](bow.md) | bows of crejimba wood with hibiscus strings |
 | [The branch hut](the-branch-hut.md) | the shelter of branches at the ore, built 20 April |
 | [The brick kiln](brick-kiln.md) | the open stack that fired the first bricks |
@@ -44,6 +47,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The chest](the-chest.md) | the oak chest of tools, arms, instruments, clothes and books washed up on 29 October |
 | [The chest barrels](the-chest-barrels.md) | the two empty casks that buoyed the chest |
 | [The chest clothing](the-chest-clothing.md) | the shirts and stockings of vegetable cloth |
+| [The chicory](chicory.md) | the chicoraceous plants whose seed gives an excellent oil |
 | [The claw prints](claw-prints.md) | the clear prints of a feline round the traps |
 | [The clay](clay.md) | figuline clay on the west shore of the lake |
 | [The clay pipes](clay-pipes.md) | Pencroff's rough pipes, with no tobacco |
@@ -66,6 +70,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The dugong fat](dugong-fat.md) | the fat taken from the dugong and kept in earthen jars |
 | [The dwarf acacia](dwarf-acacia.md) | a bush whose thorns served as hooks |
 | [The ebony family](ebony-family.md) | two or three black-veined trunks by the Mercy |
+| [The elder](elder.md) | the shrub whose pith gives cellulose and whose berries stand for coffee |
 | [The electric bullets](electric-bullets.md) | Nemo's secret weapon |
 | [The elms](elms.md) | the francs-ormes of the Mercy’s right bank |
 | [The eucalyptus](eucalyptus.md) | a gum tree of the Red Creek banks, with a sweet manna in spring |
@@ -91,6 +96,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The hammers](chest-hammers.md) | three hammers of the chest |
 | [The hand saw](hand-saw.md) | the égohine made at great pains |
 | [Harbert's handkerchief](harbert-handkerchief.md) | the cloth used to carry water to Smith |
+| [The harness](harness.md) | the traces and harness of plant fibre for the onaggas |
 | [The hearth](hearth.md) | flat stones at the foot of the left corridor, with a smoke duct |
 | [The hibiscus heterophyllus](hibiscus.md) | a mallow whose fibres make the bowstring |
 | [The horseradish](horseradish.md) | the wild horseradish of the Mercy bank |
@@ -100,9 +106,11 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The iron dishes](iron-dishes.md) | three dishes of the chest |
 | [The iron kettle](iron-kettle.md) | the coquemar of the chest |
 | [Iron ore](iron-ore.md) | the sample of iron ore Smith shows |
+| [The iron shot](iron-shot.md) | small iron grains made to replace lead |
 | [The iron sulphate](iron-sulphate.md) | crystals from the roasted pyrites |
 | [The iron tools](iron-tools.md) | the pincers, picks, axes and other tools forged in the metallurgical period |
 | [The iron-shod spears](iron-shod-spears.md) | sticks tipped with a sharp iron |
+| [Jup's clothes](jups-clothes.md) | the white jacket, breeches and apron |
 | [The kauri](kauri.md) | the giant conifer of New Zealand named in the forest by the Mercy |
 | [The lardizabalaceae](lardizabalaceae.md) | the flexible-branched shrubs that give cordage |
 | [The last match](the-last-match.md) | the single match found in Spilett's waistcoat |
@@ -110,13 +118,16 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The lead shot](lead-shot.md) | the grain of lead found in a young peccary |
 | [The lens](lens.md) | a lens made of two watch glasses filled with water |
 | [The lentisks](lentisks.md) | the mastic bushes at the head of the Mercy |
+| [The lettuces](lettuces.md) | lettuces grown in the plateau garden |
 | [The liana rope](liana-rope.md) | dry lianas used as binding and as a plaited rope |
+| [The linen](the-linen.md) | shirts, socks and sheets sewn from the balloon cloth |
 | [The litter](litter.md) | a stretcher of pine branches |
 | [The map of the island](island-map.md) | the chart Spilett drew from the summit |
 | [The maple sugar](maple-sugar.md) | sugar refined from the maple’s sap |
 | [The maritime pine](maritime-pine.md) | a puny pine on the high dune |
 | [The measuring pole](measuring-pole.md) | a ten-foot pole used to measure the granite wall |
 | [The medicinal herbs](medicinal-herbs.md) | basil, rosemary, balm and betony gathered at the warren |
+| [The Mercy bridge](the-mercy-bridge.md) | the pile bridge with a tipping span, built over the river's bend |
 | [The meridian line](meridian-line.md) | a north-south line fixed with two trees |
 | [The mine hole](mine-hole.md) | the blast hole bored in the lake’s granite rim |
 | [The mineral samples](mineral-samples.md) | the specimens Smith picked up on the walk and showed that night |
@@ -140,15 +151,19 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The percussion caps](percussion-caps.md) | twelve boxes of fulminate primers |
 | [The percussion guns](percussion-guns.md) | the two cap guns of the chest |
 | [The photographic apparatus](photographic-apparatus.md) | the boxed camera of the chest |
+| [The pile driver](pile-driver.md) | the sonnette set up to drive piles for the Mercy bridge |
 | [The pine nuts](pine-nuts.md) | the edible almonds of a pine found in the forest |
 | [The pines](pines.md) | pines among the riverside conifers |
 | [The pirogue](the-pirogue.md) | the bark canoe Pencroff builds in five days |
 | [The pit traps](pit-traps.md) | the covered pits set round the plateau and the forest edge |
 | [The planes](planes.md) | three planes of the chest |
+| [The plateau map](plateau-map.md) | the chart Smith drew to explain his plan |
 | [The plumb line](plumb-line.md) | a stone on a flexible fibre |
 | [The pocket compass](pocket-compass.md) | the small compass of the chest |
 | [The Polynesian dictionary](polynesian-dictionary.md) | the English dictionary of the Polynesian languages in the chest |
 | [The portable stove](portable-stove.md) | the small stove of the chest that Nab takes on the trip |
+| [The potash](potash.md) | the alkali burnt from plants |
+| [The potatoes](potatoes.md) | the tubers of South America, including vitelottes, grown in the garden |
 | [The pottery](pottery.md) | common pipe-clay ware: pots, cups, plates, jars and vats |
 | [The pottery kiln](pottery-kiln.md) | a brick kiln with a twenty-foot chimney |
 | [The powder](the-powder.md) | two barrels of fifty pounds in all |
@@ -157,19 +172,22 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The purple osiers](purple-osiers.md) | osiers of the lake’s north point, cut for wickerwork |
 | [Pyrite](pyrite.md) | the pyrite among Smith's samples |
 | [The pyrite heap](the-pyrite-heap.md) | the roasted stack of schistose pyrites behind the Chimneys |
+| [The pyroxyle](pyroxyle.md) | guncotton made from elder pith to replace the powder |
 | [The quicklime](lime.md) | lime burnt from limestone |
 | [The raft of logs](raft-of-logs.md) | a raft of dead wood bound with dry lianas |
 | [The refractory pottery](refractory-pottery.md) | ware of refractory clay for the blast pipe, the crucible and the acid |
 | [The rope ladder](the-rope-ladder.md) | the hundred-rung ladder that is Granite-house’s only way in |
 | [The sack of gold](gold-sack.md) | ten thousand francs in gold, thrown into the sea |
 | [The salt](salt.md) | salt left in the rock hollows by evaporation |
+| [The salted salmon](salted-salmon.md) | the salmon caught in the Mercy and salted for winter |
 | [The saltpetre](saltpetre.md) | potassium nitrate, in layers on the island |
 | [The sandstone](sandstone.md) | a gritty rock found in quantity on the shore |
 | [The saws of the chest](chest-saws.md) | three saws of various sizes |
+| [The scarecrows](scarecrows.md) | the clappers and dummies that guard the new wheat field |
 | [The scissors](scissors.md) | scissors forged to cut the colonists’ hair |
 | [The seal fat](seal-fat.md) | the fat of the islet’s seals, melted for candles |
 | [The seal-skin bellows](seal-bellows.md) | the blowing machine of two seal skins for the iron-making |
-| [The sealskins](sealskins.md) | skins of the islet’s seals, kept for shoes |
+| [The sealskins](sealskins.md) | skins of the islet’s seals, made into shoes |
 | [The seaweed](seaweed.md) | wrack and algae used as bedding and food |
 | [The sextant](sextant.md) | the sextant of the chest |
 | [The shadow rod](shadow-rod.md) | a six-foot rod whose shadow gave the island's noon |
@@ -183,12 +201,14 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The snares](snares.md) | loops of plant fibre set at the warren |
 | [The snuffers](snuffers.md) | a fine pair of snuffers made by Smith |
 | [The soap](soap.md) | the soluble soap that came with the glycerine |
+| [The sorrel](sorrel.md) | the common sorrel Harbert brought, good against scurvy |
 | [The Southern Cross](southern-cross.md) | the constellation Smith used to find the latitude |
 | [The southern sky seen from the crater](southern-sky.md) | the stars Smith and Harbert saw on 29 March |
 | [The spark pebbles](spark-pebbles.md) | two pebbles struck for sparks |
 | [Spilett's notebook](spilett-notebook.md) | the reporter's notebook |
 | [Spilett's watch](spilett-watch.md) | the reporter's watch, kept by oversight |
 | [The spit](spit.md) | the spit on which the capybara was roasted |
+| [The spruce beer](spruce-beer.md) | spring-berr, brewed from young shoots of the black spruce |
 | [The steel](steel.md) | cementation steel made from the colonists’ own iron |
 | [The sugar maple](sugar-maple.md) | the maple whose sap gives sugar |
 | [The sulphate furnace](sulphate-furnace.md) | a brick furnace of special design for distilling the iron sulphate |
@@ -201,6 +221,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The tool chain](tool-chain.md) | the colonists' made things in order |
 | [The torches](torches.md) | resinous branches lit for the descent of the old outlet |
 | [The torpedo](torpedo.md) | a torpedo placed at the bottom of the channel |
+| [The turtle eggs](turtle-eggs.md) | the round hard-shelled eggs of the sea turtles of the Mandibule beaches |
 | [The tussac](tussac.md) | the tall grass of the clearings |
 | [The two bridges](the-two-bridges.md) | the two small plank bridges over the new outlet |
 | [The two knife blades](knife-blades.md) | the first tool, made from the dog's collar |

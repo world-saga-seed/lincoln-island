@@ -20,7 +20,9 @@ Keywords: agouti, rongeur, rodent, mara, grillade, pot-au-feu, gibier, game, fl�
   - Agoutis are among the game of the first forest slopes near Granite-house (II.1 ¶36), and some are seen on the march to the west coast (II.4 ¶8). *(Drafted.)*
     - quote: d’agoutis, de cabiais, de kangourous
     - quote: des agoutis, des kangourous et autres rongeurs
-- **Appears in:** I.12, I.13, I.22, II.1, II.4
+  - Agoutis swarm in the woods at the start of 1866, with other game of fur and feather (II.8 ¶6). *(Drafted.)*
+    - quote: Agoutis, pécaris, cabiais, kangourous, gibiers de poil et de plume fourmillaient véritablement
+- **Appears in:** I.12, I.13, I.22, II.1, II.4, II.8
 - **Open:**
   - The text calls the maras "sorte d’agoutis" yet says the five molars "distingue précisément" them from agoutis, and calls the meal of maras "grillades d’agoutis" (I.12 ¶64, ¶75). Card neither as one name; see maras.md. *(Drafted.)*
     - quote: sorte d’agoutis

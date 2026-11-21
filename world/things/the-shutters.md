@@ -13,4 +13,7 @@ Keywords: volets, shutters, windows, facade, wind, rain, closure, winter
   - In the cold of August every opening of the facade is stopped hermetically, leaving only the strict passage to renew the air (I.22 ¶41). *(Drafted.)*
     - quote: obstruer hermétiquement toutes les ouvertures de la façade
     - quote: le strict passage au renouvellement de l’air
-- **Appears in:** I.19, I.22
+  - On 3 November the windows' shutters are shut, seen through curtains of foliage; the apes later push them back (II.6 ¶21, ¶43). *(Drafted.)*
+    - quote: les fenêtres, dont les volets étaient clos
+    - quote: dont ils avaient repoussé les volets
+- **Appears in:** I.19, I.22, II.6

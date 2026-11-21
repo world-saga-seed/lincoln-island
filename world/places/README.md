@@ -10,6 +10,8 @@ A card for every place named on or off the island, each fact cited to the French
 | [Australia](australia.md) | the continent whose route and whose trees the island is measured against |
 | [Baie de l’Union](baie-de-l-union.md) | the vast bay of the east coast, facing the islet |
 | [Baie Washington](baie-washington.md) | the large indentation of the south coast |
+| [The balloon pine](balloon-pine.md) | the gigantic pine in whose crown the balloon hung |
+| [The balloon store](balloon-store.md) | the rock cavity at port Ballon where the balloon's cloth and gear are kept |
 | [The bend](the-bend.md) | the river's bend at the edge of the forest |
 | [The boatyard](the-boatyard.md) | the yard where Pencroff builds the pirogue |
 | [Bundelkund](bundelkund.md) | the Indian territory of Nemo's birth |
@@ -23,8 +25,11 @@ A card for every place named on or off the island, each fact cited to the French
 | [The clearing](clearing-brickworks.md) | the brickworks and pottery works site |
 | [Clermont-Tonnerre](clermont-tonnerre.md) | a coral island built by polyps |
 | [The coral cemetery](coral-cemetery.md) | the burial place of the Nautilus crew, in the Pacific |
+| [The corral](corral.md) | the palisaded pasture at the Red Creek's sources, for the island's wool-bearing animals |
 | [The crater of Mont Franklin](crater.md) | the extinct crater, with its breach and lava stair on the north |
+| [Creek-Glycérine](creek-glycerine.md) | the small stream in the ditch cut to close the plateau on the west |
 | [The dead-wood clearings](dead-wood-clearings.md) | forest clearings strewn with stumps and dead wood |
+| [The dovecote](the-dovecote.md) | the pigeon house in a corner of the poultry-yard |
 | [The dunes](the-dunes.md) | the sand belt north of the Chimneys |
 | [The east bank of Lake Grant](lake-east-bank.md) | the granite frame, five hundred paces from the coast |
 | [The evergreen forest](the-evergreen-forest.md) | the conifer forest upstream of the river mouth |
@@ -40,6 +45,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The jaguar’s cave](the-jaguars-cave.md) | a cavern in the rocks at the promontoire du Reptile |
 | [Juan Fernández](juan-fernandez.md) | an island of a castaway's story, named for comparison |
 | [The kauri stand](the-kauri-stand.md) | a part of the forest by the Mercy with giant kauris |
+| [The kitchen garden](the-kitchen-garden.md) | the plateau's vegetable beds, in small squares |
 | [La pointe de l’Épave](pointe-de-l-epave.md) | the granite point where the chest ran aground |
 | [La rivière de la Chute](riviere-de-la-chute.md) | the creek that falls forty feet into the sea on the west coast |
 | [Lake Grant](lake-grant.md) | the lake west of the brickworks clearing |
@@ -66,16 +72,22 @@ A card for every place named on or off the island, each fact cited to the French
 | [The Pacific Ocean](pacific-ocean.md) | the ocean the storm is thought to have carried the balloon across |
 | [The Pomotou](pomotou.md) | a Pacific group named as a possible landfall |
 | [The pond](the-pond.md) | a large pond shaded by old pines |
+| [Port Ballon](port-ballon.md) | the small hidden natural harbour of the south coast |
+| [The poultry-yard](basse-cour.md) | the palisaded yard on the lake's south-east shore |
 | [Presqu’île Serpentine](presqu-ile-serpentine.md) | the long tail peninsula at the island's south-west |
 | [Promontoire du Reptile](promontoire-du-reptile.md) | the curved tail that ends the Serpentine peninsula |
 | [The Red Creek](red-creek.md) | a stream near whose mouth coal lies open |
 | [The reef line](the-reef-line.md) | the line of rocks and breakers off the northern shore |
 | [Richmond](richmond.md) | the besieged Virginian capital the prisoners flee |
+| [The road to port Ballon](port-ballon-road.md) | the cut through the Far-West from the Mercy bend to the south coast |
+| [The road to the west coast](road-to-the-west-coast.md) | the third road, begun in February from the corral |
 | [The rock in the lake](lake-islet.md) | a rock rising from Lake Grant near its south shore |
+| [Route du Corral](route-du-corral.md) | the road from the Grande-Vue plateau to the corral |
 | [The saloon](nautilus-saloon.md) | the room where Nemo receives the colonists |
 | [The small beach at the lake’s south angle](lake-south-beach.md) | where the dugong came ashore |
 | [The south-east beach](the-southeast-beach.md) | the long barren beach beyond the point of the Épave |
 | [Spain](spain.md) | the European country whose latitude matches the island’s |
+| [The stable](the-stable.md) | the onaggas' shelter beside the poultry-yard |
 | [The stream by the grotto](grotto-stream.md) | a clear stream a hundred paces from the grotto |
 | [The sulphur spring](sulphur-spring.md) | a warm sulphurous spring at the foot of Mont Franklin |
 | [Tabor Island](tabor-island.md) | an island where Ayrton was left |
@@ -83,6 +95,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The talus](the-talus.md) | the long slope west of the granite wall’s north angle |
 | [The turtle shore](the-turtle-shore.md) | the beach two miles from Granite-house where the turtle is left |
 | [The upper cave](the-upper-cave.md) | a small cave about a hundred feet down the old outlet |
+| [The veranda](the-veranda.md) | the creeper-covered shelter Nab built on the plateau's edge |
 | [The warren](the-warren.md) | the natural rabbit warren at the lake’s south-west |
 | [Washington](washington.md) | the capital of the Union, whose meridian the colonists keep time by |
 | [The well](the-well.md) | the sheer shaft at the end of the great cavern, ninety feet to the sea |

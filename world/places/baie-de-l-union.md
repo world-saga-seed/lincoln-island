@@ -44,5 +44,7 @@ Keywords: baie, grève, beach, shore, reefs, brisants, sandbanks, ebb, coast, ba
     - quote: cette côte était accore
   - Going south along the coast by water, the two Mandibule capes seem to shift and to close the bay more tightly (II.2 ¶15). *(Drafted.)*
     - quote: les deux caps Mandibule paraissaient se déplacer et fermer plus étroitement la baie de l’Union
+  - From the cove of port Ballon the view passes over the last rocks of cap Griffe and loses itself in the Union Bay (II.5 ¶47). *(Drafted.)*
+    - quote: il allait se perdre jusque dans la baie de l’Union
 - **On the page.**
-- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2
+- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5

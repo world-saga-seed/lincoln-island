@@ -118,8 +118,6 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He maintains that the island has no natives, though he grants that nobody will be sure until it has been explored in all its parts (I.19 ¶8, ¶10). *(Drafted.)*
     - quote: Quant à être habitée par des indigènes, notre île ne l’est pas !
     - quote: Nous n’en serons sûrs, évidemment, que lorsque nous l’aurons explorée dans toutes ses parties
-  - He asks for a "chambre d’amis" in the plan of Granite-house (I.19 ¶15). *(Drafted.)*
-    - quote: réclamée par Pencroff
   - He works the rungs of the rope ladder "de main de maître" (I.19 ¶19). *(Drafted.)*
     - quote: l’appareil fut travaillé de main de maître par Pencroff
   - His faith in Cyrus Smith is absolute; nothing could shake it, and he thinks him able to undertake and succeed at anything (I.19 ¶21). *(Drafted.)*
@@ -196,6 +194,51 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He is quick to judge that small shot would not trouble a beast that roars loudly (II.4 ¶61). *(Drafted.)*
     - quote: Nous n’avons que du petit plomb dans nos fusils
     - quote: s’en soucieraient comme d’un grain de sel
+  - At the mention of the lead shot he swears "Mille diables, non !", thinking of his missing molar (II.5 ¶52). *(Drafted.)*
+    - quote: en pensant à sa mâchelière absente
+  - He "already has homesickness for Granite-house" (II.5 ¶61). *(Drafted.)*
+    - quote: avait déjà la nostalgie de Granite-house
+  - He jokes of an island where shirts grow on trees (II.5 ¶86). *(Drafted.)*
+    - quote: une île où les chemises poussent sur les arbres
+  - He holds that air ships "ne va pas où on veut", as they know from experience, and would rather build a good boat of some twenty tons, with a foresail and jib cut from the balloon cloth (II.5 ¶91). *(Drafted.)*
+    - quote: Ça ne va pas où on veut, les navires de l’air
+    - quote: un bon bateau d’une vingtaine de tonneaux
+  - He hails the drifting canoe "par un reste d'habitude professionnelle" (II.5 ¶108). *(Drafted.)*
+    - quote: par un reste d’habitude professionnelle
+  - He is a man who does not like jokes ("je n'aime pas les farces, moi") and is "de bonne foi, fort en colère" (II.6 ¶19, ¶20). *(Drafted.)*
+    - quote: je n’aime pas les farces, moi
+    - quote: fort en colère
+  - As an American, to call someone "fils de John Bull" is for him the utmost limit of insult (II.6 ¶29). *(Drafted.)*
+    - quote: en sa qualité d’Américain
+    - quote: il s’était élevé jusqu’aux dernières limites de l’insulte
+  - He says the best servants are those who speak least (II.6 ¶115). *(Drafted.)*
+    - quote: les meilleurs domestiques sont ceux qui parlent le moins
+  - He asks that the ape be named Jupiter, "Jup" for short, in memory of another ape he had known (II.6 ¶116). *(Drafted.)*
+    - quote: en souvenir d’un autre singe qu’il avait connu
+  - He keeps the ape's legs shackled until the plateau is closed, rightly wishing to wait (II.7 ¶30). *(Drafted.)*
+    - quote: Pencroff ne lui laissait pas encore liberté complète de ses mouvements
+    - quote: voulant attendre, avec raison
+  - The first wheat field, sown with one grain, prospered thanks to Pencroff's care; the scarecrows and spinners against the birds are "dus à l'imagination fantasque de Pencroff" (II.7 ¶36, ¶38). *(Drafted.)*
+    - quote: avait admirablement prospéré, grâce aux soins de Pencroff
+    - quote: dus à l’imagination fantasque de Pencroff
+  - He talks of a steam cart, even a locomotive, and a railway from Granite-house to Port Balloon with a branch to Mount Franklin; the narrator says "l'honnête marin ... croyait ce qu'il disait" (II.7 ¶49, ¶50). *(Drafted.)*
+    - quote: un chemin de fer de Granite-house au port Ballon, avec embranchement sur le mont Franklin
+    - quote: croyait ce qu’il disait
+  - The narrator says providence has a weakness for him (II.7 ¶51). *(Drafted.)*
+    - quote: la providence avait un faible pour lui
+  - He tames the onaggas enough that they eat from his hand, and walks at the head of his beasts (II.7 ¶62, ¶63). *(Drafted.)*
+    - quote: pour qu’ils vinssent lui manger dans la main
+    - quote: qui marchait à la tête de ses bêtes
+  - He cannot bear unpicking seams, which exasperates him, but at sewing "il n'eut pas son égal"; the narrator says sailors have a remarkable aptitude for the seamstress's trade (II.8 ¶2). *(Drafted.)*
+    - quote: Pencroff avait dû renoncer à ce travail, qui l’agaçait outre mesure
+    - quote: il n’eut pas son égal
+    - quote: les marins ont une aptitude remarquable pour le métier de couturière
+  - He has set ground lines armed with iron hooks, on which fine trout and other fish are often caught (II.8 ¶15). *(Drafted.)*
+    - quote: Pencroff avait installé des lignes de fond, armées d’hameçons de fer
+  - He has made Jup a cane (II.8 ¶28). *(Drafted.)*
+    - quote: une canne que Pencroff lui avait faite
+  - He says that were Jup as wicked as he is good, there would be no managing him (II.8 ¶29). *(Drafted.)*
+    - quote: S’il était aussi méchant qu’il est bon
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -234,12 +277,6 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He has a liking for the retreat he found, the Chimneys, yet understands they must seek another (I.16 ¶4). *(Drafted.)*
     - quote: Pencroff, naturellement, avait quelque prédilection pour cette retraite qu’il avait découverte
     - quote: il comprit bien qu’il fallait en chercher une autre
-  - He dreams of five or six rooms hollowed in the granite wall that faces the sea, out of reach, and thinks pick and gunpowder could make them (I.16 ¶16, ¶19). *(Drafted.)*
-    - quote: cinq ou six chambres
-    - quote: Est-ce que M. Cyrus ne saura pas fabriquer de la poudre pour faire sauter la mine ?
-  - He promises himself to make fishing tackle for the lake, whose waters seem extremely rich in fish (I.16 ¶31). *(Drafted.)*
-    - quote: Les eaux semblaient extrêmement poissonneuses
-    - quote: Pencroff se promit bien de fabriquer quelques engins de pêche
   - He keeps his promise: the bark canoe, twelve feet long and under two hundred pounds, is finished on 29 October, five days after he began; he launches it and works it with the stern oar, and finds it very fit for its use (II.2 ¶1). *(Drafted.)*
     - quote: Pencroff avait tenu sa promesse
     - quote: construite en cinq jours
@@ -288,8 +325,6 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: ne les considéra qu’au point de vue comestible
   - He tries to bring down wild ducks with arrows, without result: they hardly settle and must be hit in flight (I.14 ¶38). *(Drafted.)*
     - quote: Il essaya bien de les abattre à coups de flèche, mais sans résultat
-  - He asks what a new beast will be like in the stew-pot (I.15 ¶35). *(Drafted.)*
-    - quote: Et quand il sera dans le pot-au-feu, fit naturellement observer Pencroff, à quoi ressemblera-t-il ?
   - He looks on every animal as a question of the table: he asks if the culpeux can be eaten, and holds that any animal, whatever it be, is a good catch (I.21 ¶17; I.22 ¶6). *(Drafted.)*
     - quote: qui ne considérait jamais les représentants de la faune de l’île qu’à un point de vue spécial
     - quote: tout animal, quel qu’il fût, serait de bonne prise
@@ -310,7 +345,7 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He says there is everything on the island "excepté du tabac", and asks whether bamboo cannot be smoked (II.4 ¶26, ¶58). *(Drafted.)*
     - quote: qu’excepté du tabac, il y a de tout dans cette île
     - quote: Et ça ne se fume pas, par hasard ?
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

@@ -25,4 +25,10 @@ Keywords: chute, nouvelle chute, cascade, waterfall, saignée, stream, déversoi
   - In the winter ice the rocks over which the cascade falls at the plateau’s edge are bristling with ice, like a monstrous gargoyle (I.22 ¶30). *(Drafted.)*
     - quote: étaient hérissés de glaces
     - quote: une monstrueuse gargouille
-- **Appears in:** I.17, I.18, I.20, I.22
+  - The new stream that dug its bed on the plateau and on the beach, above and below the fall, forms the north side of the plateau's defence, and it is enough to deepen its bed to make it impassable to animals (II.7 ¶19). *(Drafted.)*
+    - quote: par le nouveau cours d’eau qui s’était creusé un lit sur le plateau et sur la grève, en amont et en aval de la chute
+    - quote: il suffisait, en effet, de creuser le lit de ce creek pour en rendre le passage impraticable aux animaux
+  - Its bed on the beach is widened considerably and the sands kept in place by a double palisade (II.7 ¶39). *(Drafted.)*
+    - quote: le lit du ruisseau de la grève fut considérablement élargi
+    - quote: on maintint les sables au moyen d’une double palissade
+- **Appears in:** I.17, I.18, I.20, I.22, II.7

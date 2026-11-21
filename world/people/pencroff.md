@@ -413,6 +413,30 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He makes the island his personal property and, after Smith's list of mysteries, feels he shares it with another master to whom he is subject; with Nab, very much inclined to the marvellous, he is not far from believing the island subject to a supernatural power (II.20 ¶70). *(Drafted.)*
     - quote: Cette île dont il faisait sa propriété personnelle
     - quote: très-portés au merveilleux par leur nature même
+  - He says he would stay alone to guard the island rather than let it be taken: "foi de Pencroff, on ne me la volerait pas" (III.1 ¶35). *(Drafted.)*
+    - quote: j’y resterai plutôt tout seul pour la garder
+    - quote: foi de Pencroff, on ne me la volerait pas
+  - He reads a ship from afar: the brig's rig, her sails (III.1 ¶56), her tonnage of three to four hundred tons, her fine lines (¶66), and the flags of the nations one by one (¶72). *(Drafted.)*
+    - quote: gréé en brick
+    - quote: sous ses basses voiles, ses huniers et ses perroquets
+    - quote: d’une jauge de trois à quatre cents tonneaux
+    - quote: ni les couleurs françaises ou allemandes
+  - He is calm only with an effort when he embraces Harbert, "son enfant" (III.3 ¶11). *(Drafted.)*
+    - quote: Pencroff parvint à se rendre assez maître de lui pour comprimer son émotion
+    - quote: Harbert, son enfant
+  - He holds, against all, that the Speedy was blown up and did not strike: there is no rock in the channel, a bed of fine sand he has often crossed at low tide, and the sea was high, so the brig had water enough; "Il tenait pour « une explosion »" (III.4 ¶44, ¶53, ¶63). *(Drafted.)*
+    - quote: Il tenait pour « une explosion », et il n’en voulut pas démordre
+    - quote: un lit de sable fin, comme la grève elle-même
+    - quote: il n’y a pas de roche dans le canal
+  - The narrator calls him "l’entêté marin" in this dispute (III.4 ¶63). *(Drafted.)*
+    - quote: l’entêté marin
+  - He and Ayrton dive to the channel bed and bring up the brig's anchors, chains and four cannon (III.4 ¶75). *(Drafted.)*
+    - quote: Ayrton et Pencroff, ayant plusieurs fois plongé jusqu’au lit du canal
+  - He is "toujours enthousiaste dans ses projets": he speaks of a battery commanding the channel and the Mercy, and will undertake with four cannon to stop any fleet (III.4 ¶76). *(Drafted.)*
+    - quote: Pencroff, toujours enthousiaste dans ses projets
+    - quote: construire une batterie qui commanderait le canal
+  - He takes the Bonadventure for a boat not to be compared with a ship of three or four hundred tons (III.4 ¶24). *(Drafted.)*
+    - quote: c’est un vrai navire auprès de notre Bonadventure
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -521,7 +545,7 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Et ça ne se fume pas, par hasard ?
   - He smokes with delight now that he has tobacco (II.10 ¶96). *(Drafted.)*
     - quote: Pencroff fumait, fumait, fumait
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

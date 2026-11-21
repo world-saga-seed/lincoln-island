@@ -10,4 +10,7 @@ Keywords: cuivre, copper, métal, absent, pile, clous, casseroles, chest
   - Copper is absolutely lacking: Smith, despite his searches, has found no trace of it on Lincoln Island, and must do without it in his battery (II.18 ¶40). *(Drafted.)*
     - quote: Le cuivre manquait absolument à l’ingénieur
     - quote: n’en avait pas trouvé trace dans l’île Lincoln
-- **Appears in:** II.2, II.18
+  - The Speedy’s hull was sheathed in copper, and a great part of the sheathing is torn off her in the salvage; her powder barrels are lined with copper (see [the Speedy’s wreck](the-speedys-wreck.md); [the Speedy’s powder](the-speedys-powder.md)) (III.4 ¶49, ¶62, ¶75). *(Drafted.)*
+    - quote: Une grande partie du doublage en cuivre put être arrachée de la coque
+    - quote: dont l’intérieur était garni de cuivre
+- **Appears in:** II.2, II.18, III.4

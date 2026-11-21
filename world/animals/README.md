@@ -63,6 +63,7 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Salmon](salmon.md) | the shoals that run up the Mercy |
 | [Sea swallows](sea-swallows.md) | the hirondelles de mer of Tabor |
 | [Seals](seals.md) | the oily amphibians of the islet |
+| [Sharks](sharks.md) | fish of the waters about the island |
 | [Shovellers](shovellers.md) | the souchets of the poultry-yard |
 | [Silver spotted fish](spotted-silver-fish.md) | the savoury fish with yellowish dots |
 | [Skuas](skuas.md) | gull-like birds of the granite wall |

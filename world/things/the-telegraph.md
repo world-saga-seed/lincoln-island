@@ -36,7 +36,14 @@ Keywords: télégraphe électrique, fil, poteaux, pile, cadran, électro-aimant,
   - Its two advantages are that it lets the colonists verify Ayrton’s presence at the corral and that it does not leave him in complete isolation (II.18 ¶51). *(Drafted.)*
     - quote: permettait de constater la présence d’Ayrton au corral
     - quote: ne le laissait pas dans un complet isolement
+  - It puts the corral and Granite-house in communication, and a call sent from the great hall is answered by Ayrton from the corral (III.1 ¶17, ¶20). *(Drafted.)*
+    - quote: l’appareil télégraphique qui mettait en communication le corral et Granite-house
+    - quote: Je viens
 - **On the page.**
   - Pencroff, delighted, sends a telegram to the corral every morning and every evening, and it never goes without an answer (II.18 ¶50). *(Drafted.)*
     - quote: chaque matin et chaque soir il lançait un télégramme au corral, qui ne restait jamais sans réponse
-- **Appears in:** II.18
+- **Appears in:** II.18, III.1
+- **Open:**
+  - How the call is received: II.18 ¶48 gives a needle on a dial lettered with the alphabet; III.1 ¶19 says "le timbre résonnait" after the call. Card neither (II.18 ¶48; III.1 ¶19). *(Drafted.)*
+    - quote: une aiguille disposée sur un cadran, qui portait en exergue les lettres de l’alphabet
+    - quote: le timbre résonnait

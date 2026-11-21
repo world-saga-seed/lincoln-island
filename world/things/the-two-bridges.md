@@ -24,4 +24,4 @@ Keywords: ponceaux, bridges, passerelles, plateau, grève, new outlet, carpentry
     - quote: il ne pourra pas s’échapper, fit observer Nab, puisque les ponts sont relevés
   - In the storms the small bridges of the beach disappear under the water when the sea beats the coast, and have to be strengthened (II.20 ¶74). *(My reading, to confirm.)*
     - quote: il fallut même consolider ceux de la grève, qui disparaissaient sous les couches d’eau
-- **Appears in:** I.20, II.7, II.12, II.15, II.20
+- **Appears in:** I.20, II.7, II.12, II.15, II.20, III.3, III.4

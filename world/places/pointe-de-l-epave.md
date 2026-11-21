@@ -34,7 +34,9 @@ Keywords: pointe, Épave, Flotson-point, point, headland, wreck, chest, cove, an
     - quote: Après avoir doublé la pointe de l’Épave et le cap Griffe, Pencroff dut tenir le plus près
   - Its rocks can be rounded to reach the marshes of the tadornes, an alternative to the route from port Ballon across the Mercy bridge (II.20 ¶77). *(Drafted.)*
     - quote: soit en tournant les roches de la pointe de l’Épave
-- **Appears in:** I.21, II.2, II.5, II.10, II.12, II.18, II.20
+  - It ends the re-entering part of the shore that the pirates’ boat rounds at five cables’ distance on 18 October (III.3 ¶32). *(Drafted.)*
+    - quote: la partie rentrante du littoral que terminait la pointe de l’Épave
+- **Appears in:** I.21, II.2, II.5, II.10, II.12, II.18, II.20, III.3, III.4
 - **Open:**
   - I.21 ¶20 already says "la pointe de l’Épave" in July, though II.2 ¶42 gives the point that name only on 29 October. Card neither (I.21 ¶20; II.2 ¶42). *(Drafted.)*
     - quote: Après avoir tourné la pointe de l’Épave
@@ -45,3 +47,7 @@ Keywords: pointe, Épave, Flotson-point, point, headland, wreck, chest, cove, an
   - The distance to Granite-house: II.10 ¶49 says "trois milles", where II.5 ¶98 says "quatre milles"; card neither (II.10 ¶49; II.5 ¶98). *(Drafted.)*
     - quote: à trois milles de Granite-house
     - quote: il restait encore quatre milles
+
+  - The six survivors of the pirates’ second boat are said to have landed "sur la rive droite de la rivière" and fled toward the point (III.3 ¶47), and later to have "pris pied à la pointe de l’Épave" (III.4 ¶13). Card neither (III.3 ¶47; III.4 ¶13). *(Drafted.)*
+    - quote: parvinrent à prendre pied sur la rive droite de la rivière
+    - quote: avaient pris pied à la pointe de l’Épave

@@ -42,4 +42,4 @@ Keywords: basse-cour, poultry yard, volaille, palissade, cahutes, tinamous, cana
     - quote: ramener sa population à un chiffre plus modéré
   - The winter gales damage it, with the windmill, more than other places, and urgent repairs are needed to save the fowl (II.20 ¶75). *(Drafted.)*
     - quote: Le moulin et la basse-cour eurent particulièrement à souffrir
-- **Appears in:** II.7, II.8, II.9, II.11, II.17, II.18, II.20
+- **Appears in:** II.7, II.8, II.9, II.11, II.17, II.18, II.20, III.2

@@ -54,12 +54,14 @@ Keywords: cap Griffe, headland, promontory, point, south shore, cap de la Griffe
     - quote: depuis le cap Griffe jusqu’au promontoire du Reptile
   - Its whole development is "si curieux" and is the subject of one of the colonists’ photographs, with the pointe de l’Épave (II.18 ¶61). *(Drafted.)*
     - quote: tout le développement si curieux du cap Griffe, de la pointe de l’Épave
+  - A ship making south-west would soon vanish behind its point, so that to watch her one must go up to the heights of the Washington Bay near Port Ballon (III.1 ¶57). *(Drafted.)*
+    - quote: il devait bientôt disparaître derrière la pointe du cap Griffe
 - **On the page.**
   - From the plateau a sharp point in the south shuts the horizon, and one could not tell whether the land goes on or turns south-east and south-west, making a very long peninsula (I.4 ¶46). *(Drafted.)*
     - quote: une sorte de presqu’île très-allongée
   - The half-circle of horizon visible from the plateau runs from the cape to the promontory of the Reptile (I.13 ¶73). *(My reading, to confirm.)*
     - quote: depuis le cap jusqu’au promontoire du Reptile
-- **Appears in:** I.3, I.4, I.11, I.13, I.19, I.21, II.1, II.2, II.5, II.12, II.18, II.20
+- **Appears in:** I.3, I.4, I.11, I.13, I.19, I.21, II.1, II.2, II.5, II.12, II.18, II.20, III.1, III.3
 - **Open:**
   - The text does not say how far the cape is from the Chimneys or the plateau.
     - quote: le cap Griffe lui cachait l’horizon du sud

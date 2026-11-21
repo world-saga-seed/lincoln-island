@@ -74,10 +74,12 @@ Keywords: déversoir, ancien déversoir, outlet, overflow, conduit, boyau, coulo
     - quote: depuis l’angle appuyé à l’orifice de l’ancien déversoir
   - The poultry-yard lies on the lake shore next to it (II.7 ¶8). *(Drafted.)*
     - quote: cette portion des rives du lac qui confinait à l’ancien déversoir
+  - Its orifice is hidden under reeds and grass, so that an enemy could not find it (III.2 ¶4). *(Drafted.)*
+    - quote: l’orifice du déversoir, maintenant qu’il est caché sous les roseaux et les herbes
 - **On the page.**
   - The drops of water still hanging on the rocks sparkle in the torchlight, so that the walls seem lined with countless stalactites (I.18 ¶19). *(Drafted.)*
     - quote: s’irisaient çà et là sous le feu des torches
-- **Appears in:** I.16, I.17, I.18, I.19, I.21, II.6, II.7
+- **Appears in:** I.16, I.17, I.18, I.19, I.21, II.6, II.7, III.2
 - **Open:**
   - How far the passage runs in all is not totalled: Smith and Harbert say that after about a hundred feet they are still at about a third of the height (I.18 ¶28, ¶29). *(Drafted.)*
     - quote: Nous ne sommes encore qu’au tiers de la hauteur

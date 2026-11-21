@@ -239,6 +239,15 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: pousser Cyrus Smith à mettre ses compagnons au courant de ces faits étranges
   - He and Harbert, helped by Jup and Top, hunt the vast marshes of the tadornes in the great cold and lose no shot among the ducks, snipe, teal, pintails and lapwings (II.20 ¶77). *(Drafted.)*
     - quote: Gédéon Spilett et Harbert, aidés de Jup et de Top, ne perdaient pas un coup
+  - He reasons that an island absent from the newest charts is a reason for a ship to visit it rather than flee it (III.1 ¶27). *(Drafted.)*
+    - quote: elle n’est même pas portée sur les cartes les plus récentes
+    - quote: cherche à la visiter plutôt qu’à la fuir
+  - He and Pencroff are "singulièrement nerveux", going and coming and unable to stand still, when the ship is sighted (III.1 ¶55). *(Drafted.)*
+    - quote: Gédéon Spilett et Pencroff étaient singulièrement nerveux
+  - He is a very good shot, armed with one of the two precision carbines (III.3 ¶5). *(Drafted.)*
+    - quote: Gédéon Spilett et Ayrton, tous deux très-bons tireurs
+  - Seeing the torn hull he says the openings look made by the shock of a reef rather than by the explosion of a powder-room (III.4 ¶52). *(Drafted.)*
+    - quote: Ces larges ouvertures paraissent avoir plutôt été faites par le choc d’un écueil que par l’explosion d’une soute
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -291,7 +300,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
   - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

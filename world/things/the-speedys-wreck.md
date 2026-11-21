@@ -1,0 +1,62 @@
+# The Speedy’s wreck: the overturned hull in the channel
+
+*The brig lifted on a waterspout and torn open in under ten seconds on 18 October, found keel up at low water with her bows ripped from below and no trace of frames or bolts; stripped for four days and broken up by the gale of 23 to 24 October.*
+
+Keywords: épave, wreck, coque, hull, carcasse, quille, keel, trombe, waterspout, voie d’eau, naufrage, sinking, explosion, Speedy
+
+- **What it is.**
+  - A dull noise is heard, then terrible cries; the brig, lifted on a sort of liquid waterspout, has just opened in two and is swallowed with her crew in less than ten seconds (III.3 ¶97, ¶99). *(Drafted.)*
+    - quote: un bruit sourd se fit entendre, qui fut suivi de cris épouvantables
+    - quote: irrésistiblement soulevé sur une sorte de trombe liquide
+    - quote: en moins de dix secondes, il était englouti avec son criminel équipage
+  - She had just come abreast of the Mercy and was making for the Chimneys when it happened (III.3 ¶76, ¶77). *(Drafted.)*
+    - quote: il voulait s’embosser devant les Cheminées
+    - quote: se trouva par le travers de la Mercy
+  - After the waterspout she lay down on her side and sank so, no mast or spar to be seen; the channel there is not more than twenty feet deep, so that her flanks must show at low water (III.4 ¶8). *(Drafted.)*
+    - quote: il s’était couché sur le côté et avait coulé dans cette position
+    - quote: ne mesurait pas plus de vingt pieds de profondeur
+  - Pencroff saw her rise on an enormous wave and fall over on her port side (III.4 ¶36). *(Drafted.)*
+    - quote: s’est élevé sur une énorme lame, et il est retombé en s’abattant sur bâbord
+  - The wreckage afloat is a whole stock of spare masts and yards (the "drome"), hen-coops with live fowls, chests and barrels; but there are no drifting deck planks or hull strakes, which makes her sudden loss quite inexplicable (III.4 ¶9). *(Drafted.)*
+    - quote: toute une drome, consistant en mâts et vergues de rechange
+    - quote: il n’y avait en dérive aucun débris, ni planches du pont, ni bordage de la coque
+    - quote: ce qui rendait assez inexplicable l’engloutissement subit du Speedy
+  - Her two masts snap a few feet above the partners, tearing out stays and shrouds, and rise on the water with their sails (III.4 ¶10). *(Drafted.)*
+    - quote: brisés à quelques pieds au-dessus de l’étambrai
+    - quote: après avoir rompu étais et haubans
+  - When she shows at low water she lies almost keel up, her masts broken under the weight of her ballast thrown over by the fall; she has been overturned by an inexplicable and terrible submarine action that also raised the waterspout (III.4 ¶47). *(Drafted.)*
+    - quote: il se tenait presque la quille en l’air
+    - quote: l’inexplicable mais effroyable action sous-marine
+  - Forward, on both sides of the keel, seven or eight feet before the start of the stem, the flanks are horribly torn over a length of at least twenty feet, in two large leaks that could not be stopped (III.4 ¶49). *(Drafted.)*
+    - quote: sept ou huit pieds avant la naissance de l’étrave
+    - quote: déchirés sur une longueur de vingt pieds au moins
+    - quote: deux larges voies d’eau qu’il eût été impossible d’aveugler
+  - The copper sheathing and the planking there have gone, reduced to dust no doubt, and of the frames, iron bolts and treenails that bound them no trace remains (III.4 ¶49). *(Drafted.)*
+    - quote: le doublage de cuivre et le bordage avaient disparu, réduits en poussière sans doute
+    - quote: il n’y avait plus trace
+  - Along the hull to the after run the strakes are shredded; the false keel has been torn away with inexplicable violence and the keel itself, wrenched from the keelson in several places, is broken along its whole length (III.4 ¶49). *(Drafted.)*
+    - quote: La fausse quille avait été séparée avec une violence inexplicable
+    - quote: était rompue sur toute sa longueur
+  - Inside, the partitions and stanchions are broken as if a huge shell had burst in her, worst forward (III.4 ¶60). *(Drafted.)*
+    - quote: Cloisons et épontilles étaient brisées comme si quelque formidable obus eût éclaté à l’intérieur du brick
+    - quote: l’aménagement était dévasté, surtout vers l’avant
+  - The deck, now above, has been broken in several places by the heavy cast-iron ballast (see [the ballast](the-speedys-ballast.md)) (III.4 ¶56). *(Drafted.)*
+    - quote: Le lest, composé de lourdes gueuses de fonte, l’avait défoncé en plusieurs endroits
+  - The part of the hull holding the powder-room has suffered least, so Pencroff is convinced that no explosion destroyed her (see [the powder-room](../places/the-speedys-powder-room.md)) (III.4 ¶62). *(Drafted.)*
+    - quote: celle qui avait le moins souffert
+  - By the first flood the hull is already bedded and as firm as if moored on her anchors, doomed to go under the quicksands of the channel (III.4 ¶66, ¶67). *(Drafted.)*
+    - quote: elle était déjà enlisée
+    - quote: elle ne tarderait pas à disparaître dans les sables mouvants du canal
+  - On the night of 23 to 24 October, after a north-east gale and heavy sea, the hull is wholly broken up and part of the wreckage runs ashore; Smith had meant to blow it up to gather the pieces (III.4 ¶77, ¶78). *(Drafted.)*
+    - quote: la coque du brick fut entièrement démantibulée
+    - quote: une partie des épaves s’échoua sur la grève
+  - Eight days after the disaster nothing of her can be seen, even at low water, and Granite-house is rich in nearly all she held (III.4 ¶80). *(Drafted.)*
+    - quote: on ne voyait plus rien du navire, même à mer basse
+    - quote: Granite-house était riche de presque tout ce qu’il avait contenu
+  - A piece of a thick iron cylinder found on 30 November is the key to her loss (see [the torpedo](torpedo.md)) (III.4 ¶81). *(Drafted.)*
+    - quote: un morceau d’un épais cylindre de fer
+- **Appears in:** III.3, III.4
+- **Open:**
+  - What destroyed her is not said in III.3; Pencroff holds to an explosion and denies any rock (III.4 ¶44, ¶53), Spilett thinks the openings look more like the shock of a reef than a powder-room explosion (III.4 ¶52), and Smith says only that he does not commit himself (III.4 ¶43); the cylinder points to a torpedo, which Smith says he did not lay (III.4 ¶92, ¶95). Card the cause neither way beyond the torpedo card.
+    - quote: Je ne me prononce pas, Pencroff
+    - quote: Ces larges ouvertures paraissent avoir plutôt été faites par le choc d’un écueil

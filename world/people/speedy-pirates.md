@@ -1,0 +1,62 @@
+# The Speedy's pirates: convicts escaped from Norfolk, under Bob Harvey
+
+*English prisoners who broke out of Norfolk Island, took the brig Speedy and cruise the Pacific as sea-robbers, about fifty strong.*
+
+Keywords: convicts, pirates, Speedy, Norfolk, forçats, évadés, Bob Harvey, pavillon noir, black flag, bande
+
+- **What it is.**
+  - The Speedy's crew is made up wholly of English prisoners escaped from Norfolk (III.2 ¶46). *(Drafted.)*
+    - quote: se composait uniquement de prisonniers anglais, échappés de Norfolk
+  - They were convicts and have become pirates, destroying ships and massacring crews, "plus féroces que les Malais eux-mêmes" (III.2 ¶44). *(Drafted.)*
+    - quote: pirates après avoir été convicts
+    - quote: détruisant les navires, massacrant les équipages
+    - quote: plus féroces que les Malais eux-mêmes
+  - Norfolk is a small island of six leagues' circuit east of Australia, where the most intractable convicts of the English penitentiaries are held, five hundred of them under iron discipline, guarded by a hundred and fifty soldiers and a hundred and fifty officials under a governor; now and then a few escape by seizing ships (III.2 ¶48). *(Drafted.)*
+    - quote: les plus intraitables condamnés des pénitenciers anglais
+    - quote: Ils sont là cinq cents
+    - quote: plusieurs parviennent à s’échapper, en s’emparant de navires
+  - They are about fifty aboard, as Ayrton understands from their talk; some ten lie on deck at night (III.2 ¶59). *(Drafted.)*
+    - quote: ils étaient une cinquantaine à bord
+    - quote: dix environ
+  - By day about thirty of them are seen going to and fro on deck (III.3 ¶19). *(Drafted.)*
+    - quote: une trentaine de pirates aller et venir sur le pont
+  - They drink heavily and sing, laugh, swear and boast of their exploits; the night after, many sleep the sleep of drunkenness (III.2 ¶38, ¶45, ¶57). *(Drafted.)*
+    - quote: On discutait, on chantait, on riait
+    - quote: en buvant outre mesure
+    - quote: plongés dans le sommeil de l’ivresse
+  - They are armed with muskets, with firearms racked at the foot of the main mast, and with four cannon that load at the breech and throw balls of eight to ten pounds (III.2 ¶58, ¶63; III.3 ¶63). *(Drafted.)*
+    - quote: un râtelier garni d’armes à feu de toutes sortes
+    - quote: ces canons se chargeaient par la culasse
+    - quote: Armés simplement de fusils
+  - Chance alone brought the Speedy in sight of Lincoln Island (III.2 ¶51). *(Drafted.)*
+    - quote: le hasard seul avait amené le Speedy en vue de l’île Lincoln
+  - The black flag and the cannon-shot on arrival are "pure forfanterie de pirates", given as warships fire when they strike their colours; no signal, and no communication then existed between the Norfolk escapees and Lincoln Island (III.2 ¶53). *(Drafted.)*
+    - quote: pure forfanterie de pirates
+    - quote: Ce n’était point un signal
+    - quote: aucune communication n’existait encore entre les évadés de Norfolk et l’île Lincoln
+  - Their losses: one killed and two wounded by Ayrton in the night; in the day's fight four hit in the first boat, two of the second boat's eight mortally struck, and two more fallen on the islet (III.3 ¶20, ¶39, ¶47, ¶64). *(Drafted.)*
+    - quote: avait tué un des leurs et blessé deux autres
+    - quote: Ceux-ci comptaient déjà quatre hommes blessés grièvement
+    - quote: Deux, sur huit, des hommes qui le montaient, furent mortellement frappés
+    - quote: tombèrent à la renverse
+  - The rest go down with the brig, "englouti avec son criminel équipage"; only five or six bodies are seen afloat, the others thought caught under the bulwarks, and the ebb carries them to sea (III.3 ¶99; III.4 ¶22). *(Drafted.)*
+    - quote: il était englouti avec son criminel équipage
+    - quote: On en comptait cinq ou six à peine
+    - quote: la plupart étaient restés engagés sous les bastingages
+  - Six survivors of the second boat are on the island, and are carded apart as [the six convicts](the-six-convicts.md) (III.3 ¶47). *(Drafted.)*
+    - quote: Mais les six survivants
+- **On the page.**
+  - The black flag is the sign that makes the brig a "navire suspect": the pirates' colours, "celui des écumeurs de mer" (III.1 ¶75, ¶77). *(Drafted.)*
+    - quote: c’était à bon droit qu’on pouvait maintenant le tenir pour un navire suspect
+    - quote: C’était bien celui des écumeurs de mer
+  - It is the flag that the Duncan would have worn, had Ayrton's convicts succeeded in their plans (III.1 ¶77). *(Drafted.)*
+    - quote: C’était celui que devait porter le Duncan, si les convicts avaient réussi dans leurs criminels projets
+  - The signal shot comes from the brig at night, six seconds between the flash and the report (III.1 ¶99, ¶101). *(Drafted.)*
+    - quote: une vive lueur fusa au large, et un coup de canon retentit
+    - quote: Six secondes s’étaient écoulées entre la lumière et le coup
+  - Their chief, Bob Harvey, is carded as [Bob Harvey](bob-harvey.md) (III.2 ¶49). *(Drafted.)*
+    - quote: Bob Harvey et ses compagnons
+- **Habits.**
+  - They are drunk the night they arrive and the next morning still "ivres de colère et peut-être encore des libations de la veille" (III.3 ¶42). *(Drafted.)*
+    - quote: ivres de colère et peut-être encore des libations de la veille
+- **Appears in:** III.1, III.2, III.3, III.4

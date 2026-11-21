@@ -73,10 +73,14 @@ Keywords: île Tabor, Ayrton, bottle, message, castaway
     - quote: Lord Glenarvan a promis à Ayrton de venir le reprendre à l’île Tabor
   - It is the island where the Scottish ship will call, not Lincoln Island, in the colonists’ view (II.19 ¶19). *(Drafted.)*
     - quote: Mais où relâchera-t-il ? À l’île Tabor, et non à l’île Lincoln
+  - It lies outside the routes usually followed by the long-haul ships of the Polynesian archipelagos, New Zealand and the American coast (III.1 ¶12). *(Drafted.)*
+    - quote: en dehors des routes ordinairement suivies par les longs courriers
+  - It is a hundred and fifty miles from Lincoln Island in longitude and seventy-five in latitude, so that a ship bound for one might pass in sight of the other (III.1 ¶15). *(Drafted.)*
+    - quote: Cent cinquante milles seulement les séparaient en longitude, et soixante-quinze milles en latitude
 - **On the page.**
   - The editor refers to Ayrton's adventures and a note on the disagreement of some dates (III.16 n1). *(Drafted.)*
     - quote: sur la discordance de quelques dates
-- **Appears in:** II.9, II.11, II.12, II.13, II.14, II.17, II.19, III.16
+- **Appears in:** II.9, II.11, II.12, II.13, II.14, II.17, II.19, III.16, III.1
 - **Open:**
   - These chapters say nothing else of Tabor Island. The editor's note refers to the earlier tale of Ayrton's adventures and warns of a disagreement of dates; no earlier book is drawn on here.
     - quote: à propos des aventures d’Ayrton

@@ -64,13 +64,18 @@ Keywords: pirogue, canoe, canot, bark, écorce, Indian fashion, godille, oars, a
     - quote: car le canot n’eût pu suffire à le transporter
   - It is hauled up on the strand next to the Chimneys (II.5 ¶118). *(Drafted.)*
     - quote: Le canot fut halé sur la grève jusqu’auprès des Cheminées
+  - It lies moored on the bank of the Mercy, some hundreds of paces above the mouth, on 17 October (III.2 ¶30). *(Drafted.)*
+    - quote: amarrée quelques centaines de pas plus haut, sur la berge de la Mercy
+  - It serves to cross the channel to the islet, and later to tow the spars of the wreck and carry the salvage ashore (III.2 ¶34; III.4 ¶10, ¶18, ¶58). *(Drafted.)*
+    - quote: Le canal fut aisément traversé
+    - quote: la pirogue ramassa tout ce qui flottait
 - **On the page.**
   - The narrator says the most astonishing thing is that it arrived just when the colonists were there to catch it, for a quarter of an hour later it would have been lost at sea (II.5 ¶116). *(Drafted.)*
     - quote: le plus étonnant de l’affaire, c’était véritablement que la pirogue fût arrivée juste au moment où les colons se trouvaient là pour la saisir au passage
     - quote: un quart d’heure plus tard, elle eût été se perdre en mer
   - The narrator adds that in the age of genies one would think the island haunted by a supernatural being who put his power at the shipwrecked men's service (II.5 ¶117). *(Drafted.)*
     - quote: l’île était hantée par un être surnaturel qui mettait sa puissance au service des naufragés
-- **Appears in:** II.1, II.2, II.3, II.4, II.5
+- **Appears in:** II.1, II.2, II.3, II.4, II.5, III.2, III.3, III.4
 - **Open:**
   - Pencroff proposes a canoe in II.1 as a new idea, and Smith answers "Votre idée est bonne"; I.20 has already agreed that a canoe would be built. Card neither (II.1 ¶18; I.20 ¶20). *(Drafted.)*
     - quote: ne serait-il pas convenable, avant d’aller à la découverte, de construire un canot

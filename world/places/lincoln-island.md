@@ -215,6 +215,23 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: il la partageait avec un autre maître
   - The colonists, Smith says, would leave it not because they are ill there but because they are far from all a man should cherish most: family, friends, native land (II.19 ¶33). *(Drafted.)*
     - quote: ce sera parce que nous y sommes loin de tout ce qu’un homme doit chérir le plus au monde
+  - Two and a half years after the balloon castaways were thrown on it, no communication has been had with their fellow men (III.1 ¶1). *(Drafted.)*
+    - quote: Depuis deux ans et demi, les naufragés du ballon avaient été jetés sur l’île Lincoln
+    - quote: aucune communication n’avait pu s’établir entre eux et leurs semblables
+  - In that part of the Pacific the charts mention no land but the islet of Tabor (III.1 ¶12). *(Drafted.)*
+    - quote: où les cartes ne mentionnaient aucune terre, sauf l’îlot Tabor
+  - It is not even marked on the most recent charts, nor are soundings of its approaches shown (III.1 ¶27, ¶36). *(Drafted.)*
+    - quote: n’est même pas portée sur les cartes les plus récentes
+    - quote: bien que les sondes n’en fussent pas relevées sur la carte
+  - Smith’s wish, if a ship calls, is to take passage, take possession of the island in the name of the United States, and come back with others to colonise it and give the republic a useful station in that part of the Pacific (III.1 ¶32). *(Drafted.)*
+    - quote: après en avoir pris possession au nom des États de l’Union
+    - quote: doter la république américaine d’une station utile dans cette partie de l’océan Pacifique
+  - Pencroff counts its settlement almost finished: names given to every part, a natural port, a watering place, roads, a telegraph line, a shipyard and a factory (III.1 ¶33). *(Drafted.)*
+    - quote: La colonisation est déjà presque achevée, les noms sont donnés à toutes les parties de l’île
+    - quote: il y a un port naturel, une aiguade, des routes, une ligne télégraphique, un chantier, une usine
+  - In the convicts’ eyes it is a place of easy water, a small port, resources well turned to account by the colonists and the hidden depths of Granite-house, and, being unknown, it would long give them impunity and safety (III.2 ¶54). *(Drafted.)*
+    - quote: son aiguade facile, son petit port, ses ressources de toutes sortes si bien mises en valeur par les colons
+    - quote: elle leur assurerait, pour longtemps peut-être, l’impunité avec la sécurité
 - **On the page.**
   - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
     - quote: peu effrayés de la présence de l’homme
@@ -224,7 +241,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.16
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.16, III.1, III.2
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent
@@ -267,3 +284,9 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
   - The nearest land: Pencroff says it lies at least twelve hundred miles off (II.19 ¶8), while Smith says Tabor lies about a hundred and fifty miles off, in the north-east (II.9 ¶99); card neither (II.19 ¶8; II.9 ¶99). *(Drafted.)*
     - quote: la terre la plus rapprochée est au moins à cette distance
     - quote: À cent cinquante milles environ dans le nord-est
+
+  - The port: I.11 ¶43 says it offers no port, and II.19 ¶3 says "à défaut d’un port"; III.1 ¶33 says "un port naturel", and III.2 ¶54 "son petit port". Card neither (I.11 ¶43; II.19 ¶3; III.1 ¶33; III.2 ¶54). *(Drafted.)*
+    - quote: elle n’offre même pas un port
+    - quote: à défaut d’un port
+    - quote: il y a un port naturel
+    - quote: son petit port

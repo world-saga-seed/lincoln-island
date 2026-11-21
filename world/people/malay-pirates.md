@@ -19,4 +19,12 @@ Keywords: pirates malais, pirate, Malais, Malay, Pacifique, Pacific, brigands, m
     - quote: ces étrangers ne pouvaient être des pirates malais, car l’épave avait évidemment une provenance soit américaine, soit européenne
     - quote: À moins, dit Pencroff, que ce propriétaire n’eût été fait prisonnier par des pirates
     - quote: Ce n’est pas admissible
-- **Appears in:** I.16, II.1, II.2
+  - Smith always fears for the island the visit of Malay pirates, "ces mers sont mal fréquentées" (III.1 ¶24). *(Drafted.)*
+    - quote: je crains toujours pour notre île la visite de quelques pirates malais
+    - quote: Ces mers sont mal fréquentées
+  - The pirates of the Pacific usually sail in praos, and infest the low seas (III.1 ¶56, ¶76). *(Drafted.)*
+    - quote: ces praos malais, dont se servent habituellement les pirates du Pacifique
+    - quote: praos malais qui les infestent encore
+  - The Speedy's convicts, pirates after being convicts, are "plus féroces que les Malais eux-mêmes" (III.2 ¶44). *(Drafted.)*
+    - quote: plus féroces que les Malais eux-mêmes
+- **Appears in:** I.16, II.1, II.2, III.1, III.2

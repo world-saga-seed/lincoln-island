@@ -162,6 +162,25 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: où il serait mieux logé qu’au corral
   - It suffers little from the weather of the third winter (II.20 ¶78). *(Drafted.)*
     - quote: Granite-house ne souffrit pas trop des inclémences du temps
+  - It has a great hall (grande salle) where the colonists meet (III.1 ¶3). *(Drafted.)*
+    - quote: dans la grande salle de Granite-house
+  - At sunset on 17 October the sun is gone "en arrière de Granite-house", the horizon to the east darkening (III.1 ¶92). *(Drafted.)*
+    - quote: Le soleil avait disparu depuis vingt minutes environ, en arrière de Granite-house
+  - Smith holds it unassailable, since the orifice of the old outlet is hidden under reeds and grass, and the enemy cannot find a way in (III.2 ¶4). *(Drafted.)*
+    - quote: nous sommes ici dans une situation inexpugnable
+    - quote: il lui est impossible de pénétrer dans Granite-house
+  - Smith reckons that guns and balls can do little against these rocks, and that if nothing is fired from its windows the pirates will not think to send shells at it (III.3 ¶3). *(Drafted.)*
+    - quote: Que pourraient-ils contre ces roches ?
+    - quote: les pirates n’auront pas l’idée d’envoyer là des obus
+  - The lift carries one up to its door (III.3 ¶92). *(Drafted.)*
+    - quote: se hisser jusqu’à la porte de Granite-house
+  - A ball grazing the door opening enters its corridor, and another splits the curtain of leaves and opens a gap in the granite (III.3 ¶94, ¶96). *(Drafted.)*
+    - quote: effleurant la baie de la porte, pénétra dans le couloir
+    - quote: une ouverture béante dans le granit
+  - It has an upper corridor to which the colonists would have fallen back (III.3 ¶97). *(Drafted.)*
+    - quote: se réfugier dans le couloir supérieur de Granite-house
+  - Its stores have room to spare (III.4 ¶72). *(Drafted.)*
+    - quote: La place ne manquait pas dans les magasins de Granite-house
 - **On the page.**
   - The well is at the cavern’s end (see [the well](the-well.md)); Top’s barking finds nothing in the cavern, and Smith murmurs that Top knows more than they do about many things (I.18 ¶56). *(Drafted.)*
     - quote: Top en sait plus long que nous sur bien des choses
@@ -171,7 +190,7 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: la corde du haut de Granite-house
   - Nemo summoned the colonists of Granite-house by a wire linking the corral to the Nautilus (III.16 ¶66). *(Drafted.)*
     - quote: il manda, comme on sait, les colons de Granite-house
-- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, II.18, II.20, III.16
+- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, II.18, II.20, III.16, III.1, III.2, III.3, III.4
 - **Open:**
   - Chapter I.13 knows no Granite-house: there the engineer still hopes to find or build a better dwelling than the Chimneys (I.13 ¶40). Nothing in these chapters says where Granite-house stands, how big it is, or how the well opens inside it.
     - quote: une demeure plus convenable

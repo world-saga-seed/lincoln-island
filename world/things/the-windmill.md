@@ -34,4 +34,7 @@ Keywords: moulin à vent, windmill, ailes, sails, meules, millstones, poivrière
     - quote: il imprimera seize tours aux ailes pendant une minute
   - In the winter gales of 1867 it, with the poultry-yard, suffers particularly, and urgent repairs are made (II.20 ¶75). *(Drafted.)*
     - quote: Le moulin et la basse-cour eurent particulièrement à souffrir
-- **Appears in:** II.16, II.20
+  - It is too easily recognised from the sea, and its sails can be taken off to hide it (III.1 ¶79). *(Drafted.)*
+    - quote: est trop facilement reconnaissable
+    - quote: Qu’Ayrton et Nab aillent en démonter les ailes
+- **Appears in:** II.16, II.20, III.1

@@ -107,6 +107,9 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - In winter he hunts the marshes with Jup, Spilett and Harbert, and in the quiet winter he and Jup no longer prowl round the well and show no sign of uneasiness (II.20 ¶77, ¶79). *(Drafted.)*
     - quote: aidés de Jup et de Top
     - quote: Top et Jup eux-mêmes ne rôdaient plus autour du puits et ne donnaient aucun signe d’inquiétude
+  - He and Jup stand guard at the foot of Granite-house at night and would soon signal the convicts (III.4 ¶74). *(Drafted.)*
+    - quote: Maître Jup et Top, de garde au pied de Granite-house
+    - quote: eussent vite fait de les signaler
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -172,4 +175,4 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He licks Jup's hand, which hangs out of the bed, ruefully, and walks 'on tiptoe' to visit his friend (II.12 ¶57). *(Drafted.)*
     - quote: Top, marchant, on peut dire « sur la pointe des pieds », venait visiter son ami
     - quote: Top la léchait d’un air contrit
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4

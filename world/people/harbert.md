@@ -251,6 +251,14 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: C’est un défaut qui se trouve dans le verre
     - quote: une forte lentille qu’il dévissa de l’une des lunettes
     - quote: il poussa un cri
+  - He is the first to think the sail might be the Duncan, and answers Smith's fear of pirates with "Nous la défendrions !" (III.1 ¶14, ¶25). *(Drafted.)*
+    - quote: Ne serait-ce pas le Duncan ?
+    - quote: Nous la défendrions !
+  - At the sight of the ship, while Spilett and Pencroff are nervous, he feels rather curiosity (III.1 ¶55). *(Drafted.)*
+    - quote: Harbert éprouvait plutôt de la curiosité
+  - He notices that the Speedy's explosion made little noise and few wreckage, so that "le navire a plutôt coulé que sauté" (III.4 ¶30). *(Drafted.)*
+    - quote: La détonation n’a pas été forte
+    - quote: Il semblerait que le navire a plutôt coulé que sauté
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -307,7 +315,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: de très-adroits tireurs d’arc
   - He takes his turn at the helm of the boat, relieving Pencroff every two hours through the night (II.13 ¶31). *(Drafted.)*
     - quote: Pencroff et Harbert se relayèrent de deux heures en deux heures au gouvernail
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

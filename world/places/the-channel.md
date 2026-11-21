@@ -28,4 +28,20 @@ Keywords: canal, chenal, strait, current, jusant, ford, swim, tide, low water
     - quote: un canot qui rendrait les communications plus faciles
   - The Bonadventure enters it on 19 April, leaving the islet’s point on her left, and anchors at the mouth of the Mercy (II.20 ¶30). *(Drafted.)*
     - quote: entrait dans le canal qui le séparait de la côte
-- **Appears in:** I.3, I.14, I.15, I.20, II.20
+  - At high tide it cannot be crossed (III.2 ¶82). *(Drafted.)*
+    - quote: La mer, haute en ce moment, rendait le canal infranchissable
+  - It is about half a mile wide, as seen from the brig’s masts (III.3 ¶24). *(Drafted.)*
+    - quote: un canal large d’un demi-mille environ
+  - The current of the Mercy has hollowed a channel (chenal) in it, which the pirates sound with a lead line (III.3 ¶26). *(Drafted.)*
+    - quote: le chenal creusé par le courant de la Mercy
+  - The flood rises in it with its usual violence, caused by the narrowness of the strait, and carries a boat toward the river (III.3 ¶36). *(Drafted.)*
+    - quote: le flot commençait à monter avec sa violence habituelle, que provoquait l’étroitesse du pertuis
+    - quote: les convicts se sentirent entraînés vers la rivière
+  - At the place where the brig sinks it is not more than twenty feet deep (III.4 ¶8). *(Drafted.)*
+    - quote: le canal en cet endroit ne mesurait pas plus de vingt pieds de profondeur
+  - Its bed is of fine sand like the beach itself, which Pencroff has often crossed at low tide, and he knows of no reef in it (III.4 ¶44). *(Drafted.)*
+    - quote: formé d’un lit de sable fin, comme la grève elle-même
+    - quote: il avait souvent traversé à mer basse
+  - Its sands are quicksands, in which the brig’s hull will disappear (III.4 ¶67). *(Drafted.)*
+    - quote: les sables mouvants du canal
+- **Appears in:** I.3, I.14, I.15, I.20, II.20, III.2, III.3, III.4

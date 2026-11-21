@@ -38,7 +38,10 @@ Keywords: Glenarvan, Duncan, laird, Écossais, yacht, Grant, Ayrton, Tabor, lord
     - quote: l’île Lincoln n’est pas même portée sur la carte
   - The colonists mean to leave in the cabin that was Captain Grant's and Ayrton's a notice of the position of their island, for him or his crew to find (II.19 ¶22). *(Drafted.)*
     - quote: déposer, dans cette cabane qui fut la demeure du capitaine Grant et d’Ayrton, une notice donnant la situation de notre île
-- **Appears in:** II.17, II.18, II.19
+  - The Duncan is his yacht; it left Ayrton on the islet and is to return one day to fetch him (III.1 ¶15). *(Drafted.)*
+    - quote: le yacht de lord Glenarvan, qui avait abandonné Ayrton sur l’îlot
+    - quote: qui devait revenir l’y chercher un jour
+- **Appears in:** II.17, II.18, II.19, III.1
 - **Open:**
   - What he promised Ayrton: his spoken words at the landing are that men will remember him and that he knows where to find him (II.17 ¶77); Smith's account is that he promised "de venir le reprendre à l’île Tabor, quand il jugerait ses crimes suffisamment expiés" (II.19 ¶17). The tale gives only the first as spoken (II.17 ¶77; II.19 ¶17). *(Drafted.)*
     - quote: Je sais où vous êtes, Ayrton, et je sais où vous trouver

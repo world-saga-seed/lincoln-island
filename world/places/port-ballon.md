@@ -51,4 +51,6 @@ Keywords: port Ballon, Balloon harbour, crique, passe, havre, coupée, natural p
   - The Bonadventure lies moored in it before the voyage round the island, and leaves it by tacking to gain the promontoire du Reptile (II.19 ¶38, ¶40). *(Drafted.)*
     - quote: le Bonadventure, mouillé au port Ballon
     - quote: le Bonadventure dut louvoyer en quittant le port Ballon
-- **Appears in:** II.5, II.7, II.11, II.12, II.15, II.19
+  - It shelters the colonists’ boat, which Pencroff defies the pirates to find there (III.1 ¶81). *(My reading, to confirm.)*
+    - quote: elle est abritée dans Port-Ballon
+- **Appears in:** II.5, II.7, II.11, II.12, II.15, II.19, III.1

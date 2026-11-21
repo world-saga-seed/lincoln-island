@@ -15,4 +15,4 @@ Keywords: cap Mandibule-Nord, Mandible-cape, north, jaw, north-east
     - quote: filait très-rapidement en s’élevant vers le cap Mandibule-nord
   - The cap du nord covers the south one, so as to make it very difficult for squalls to enter the gulf (II.20 ¶9). *(Drafted.)*
     - quote: le cap du nord couvre-t-il celui du sud, de manière à rendre très-difficile l’entrée des rafales
-- **Appears in:** I.11, I.19, II.19, II.20
+- **Appears in:** I.11, I.19, II.19, II.20, III.1, III.3

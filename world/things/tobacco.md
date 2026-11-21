@@ -50,7 +50,9 @@ Keywords: tabac, tobacco, pipe, Pencroff, demi-livre, plant, mustard, bamboo, sm
     - quote: près de sa provision de tabac
   - Smith cites several examples of tame apes made familiar with tobacco (II.12 ¶72). *(Drafted.)*
     - quote: il cita plusieurs exemples de singes apprivoisés, auxquels l’usage du tabac était devenu familier
-- **Appears in:** II.2, II.3, II.4, II.10, II.11, II.12, II.20
+  - The Speedy’s cargo holds hogsheads of tobacco, which Pencroff greets with hurrahs (see [the Speedy’s cargo](the-speedys-cargo.md)) (III.4 ¶71). *(Drafted.)*
+    - quote: des boucauts de tabac
+- **Appears in:** II.2, II.3, II.4, II.10, II.11, II.12, II.20, III.4
 - **Open:**
   - The time it takes: it is found on 30 April and Pencroff gets his pipe on 31 May, a month later, yet the preparation is said to take two months; card neither (II.10 ¶21, ¶33, ¶82). *(Drafted.)*
     - quote: C’était le 30 avril

@@ -21,7 +21,7 @@ Keywords: longue-vue, lunette, telescope, glass, spyglass, instrument, chest
   - Smith takes up his long-glass and sweeps the horizon slowly until he stops on the suspect point (II.20 ¶90, ¶91). *(Drafted.)*
     - quote: saisissant sa longue-vue
     - quote: après avoir parcouru lentement l’horizon, s’arrêta enfin sur le point suspect
-- **Appears in:** II.2, II.3, II.5, II.20
+- **Appears in:** II.2, II.3, II.5, II.20, III.1, III.3
 - **Open:**
   - Whether "la longue-vue" (II.5 ¶2) and "la lunette de l’ingénieur" (II.5 ¶48) are one instrument is not said. *(My reading, to confirm.)*
     - quote: la longue-vue

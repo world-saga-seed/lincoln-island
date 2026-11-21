@@ -66,6 +66,17 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: Ils s’étaient abattus par centaines de mille sur l’îlot et sur la côte
   - The channel between the islet and the coast is entered, on returning, by passing the islet’s point on the left (II.20 ¶30). *(Drafted.)*
     - quote: laissant sur sa gauche la pointe de l’îlot, entrait dans le canal qui le séparait de la côte
+  - It is deserted when Ayrton and Pencroff cross it on the night of 17 October, and the birds nesting in the holes of its rocks take fright (III.2 ¶34). *(Drafted.)*
+    - quote: il parut certain que l’îlot était désert
+    - quote: effarouchant les oiseaux nichés dans les trous de roche
+  - The pirates in the masts can see that it covers the coast, separated from it by a canal about half a mile wide (III.3 ¶24). *(Drafted.)*
+    - quote: qu’un îlot couvrait la côte et qu’il en était séparé par un canal large d’un demi-mille environ
+  - Its eastern shore has narrow clefts in the rock where a man can hide (III.3 ¶12, ¶25). *(Drafted.)*
+    - quote: se cachaient dans les anfractuosités de sa rive orientale
+    - quote: d’étroites anfractuosités de roches
+  - It has a south point and a north point, which a boat can round to enter or leave the channel (III.3 ¶31, ¶38, ¶77). *(Drafted.)*
+    - quote: de manière à le tourner par sa pointe sud
+    - quote: tournant la pointe nord de l’îlot
 - **On the page.**
   - Large heavy-flying birds rose from its holes, and others in flocks; Pencroff took them for gulls and sea-mews (I.3 ¶14). *(Drafted.)*
     - quote: des goëlands et des mouettes
@@ -73,7 +84,11 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10, II.18, II.20
+- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10, II.18, II.20, III.2, III.3, III.4
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?
+
+  - III.2 ¶0, the chapter’s summary, speaks of "l’îlot Grant"; I.11 ¶79 names it "l’îlot du Salut". Card neither (III.2 ¶0; I.11 ¶79). *(Drafted.)*
+    - quote: Ayrton et Pencroff sur l’îlot Grant
+    - quote: le nom de l’îlot du Salut

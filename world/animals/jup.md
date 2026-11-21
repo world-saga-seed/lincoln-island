@@ -141,6 +141,9 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
   - In winter he hunts the marshes with Spilett and Harbert, and he and Top no longer prowl round the well nor show uneasiness (II.20 ¶77, ¶79). *(Drafted.)*
     - quote: aidés de Jup et de Top
     - quote: Top et Jup eux-mêmes ne rôdaient plus autour du puits et ne donnaient aucun signe d’inquiétude
+  - He is called "Maître Jup"; with Top he guards the foot of Granite-house by night and would soon signal the convicts (III.4 ¶74). *(Drafted.)*
+    - quote: Maître Jup et Top, de garde au pied de Granite-house
+    - quote: eussent vite fait de les signaler
 - **On the page.**
   - He is the ape that took refuge in the passage and is run down by Nab; he defends himself valiantly before being thrown down and bound (II.6 ¶89, ¶96). *(Drafted.)*
     - quote: un grand singe, qui s’était réfugié dans le couloir
@@ -180,7 +183,7 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
     - quote: je t’en fais cadeau
     - quote: l’ex-pipe du marin
     - quote: il l’allumait à un charbon ardent
-- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20
+- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20, III.3, III.4
 - **Open:**
   - Whether Jup lowered the ladder is not said: Cyrus Smith says he did (II.6 ¶94), and Pencroff, the next day, speaks of "cette échelle qu'il nous a si galamment renvoyée hier" (II.7 ¶11); the chapter does not say who in fact lowered it. *(My reading, to confirm.)*
     - quote: C’est lui qui nous a jeté l’échelle

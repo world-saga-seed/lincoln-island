@@ -23,4 +23,4 @@ Keywords: cliché, plaque, négatif, défaut, point, tache, horizon, navire, len
   - Smith examines the spot, then looks for it with his long-glass from the window; the spot is a ship (see [the ship in sight](the-ship-in-sight.md)) (II.20 ¶89, ¶90, ¶91). *(Drafted.)*
     - quote: Cyrus Smith examina ce point
     - quote: saisissant sa longue-vue
-- **Appears in:** II.20
+- **Appears in:** II.20, III.1

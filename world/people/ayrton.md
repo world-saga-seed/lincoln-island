@@ -170,6 +170,57 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
   - He shares the common life and makes himself useful on every occasion, but, always humble and sad, takes no part in his companions' pleasures (II.20 ¶73). *(Drafted.)*
     - quote: se rendit utile en toute occasion
     - quote: toujours humble et triste, il ne prenait jamais part aux plaisirs de ses compagnons
+  - He has spent twelve years of abandonment on a desert islet, which the narrator asks whether it was not expiation enough (III.1 ¶45). *(Drafted.)*
+    - quote: Douze ans d’abandon sur un îlot désert ne lui paraissaient donc pas une expiation suffisante
+  - Smith holds him now worthy to go back aboard the Duncan (III.1 ¶24). *(Drafted.)*
+    - quote: Ayrton est digne de remonter à bord du Duncan
+  - He has sailed aboard the Duncan for a time, and knows her for a steam yacht; she is rigged as a brig, with a funnel between the two masts (III.1 ¶22, ¶51, ¶63). *(Drafted.)*
+    - quote: il a navigué à son bord pendant un certain temps
+    - quote: le Duncan est un yacht à vapeur
+    - quote: Le yacht écossais était, lui aussi, gréé en brick
+  - At the word that a ship is in sight he pales slightly and his eyes are troubled for a moment; at the name Duncan he murmurs "Déjà !" and lets his head fall in his hands (III.1 ¶41, ¶43, ¶44). *(Drafted.)*
+    - quote: pâlit légèrement, et ses yeux se troublèrent un instant
+    - quote: Le Duncan ! murmura Ayrton. Déjà !
+    - quote: laissa tomber sa tête dans ses mains
+  - After looking through the glass he sits silent in a corner of the great hall and takes no part in the talk (III.1 ¶54). *(Drafted.)*
+    - quote: y demeura silencieux
+    - quote: sans qu’Ayrton prît part à la discussion
+  - When the colonists clasp hands to defend the island he stays in his corner; the narrator supposes that the former convict still felt himself unworthy; asked what he will do, he answers "Mon devoir" (III.1 ¶87, ¶89, ¶90). *(Drafted.)*
+    - quote: Seul, Ayrton, demeuré dans son coin, ne s’était pas joint aux colons
+    - quote: l’ancien convict, se sentait-il indigne encore
+    - quote: Mon devoir
+  - He is a very good shot, and is given one of the two precision carbines, which carry nearly a mile (III.3 ¶5). *(Drafted.)*
+    - quote: Gédéon Spilett et Ayrton, tous deux très-bons tireurs
+    - quote: qui portaient à près d’un mille de distance
+  - He asks leave to go to the brig, saying he has more than his duty to do and that it may be a way to raise himself in his own eyes (III.2 ¶14, ¶20). *(Drafted.)*
+    - quote: J’ai plus que mon devoir à faire
+    - quote: C’est peut-être là un moyen de me relever à mes propres yeux
+  - He swims well and strongly, and is the "vigoureux Ayrton" (III.2 ¶18, ¶36, ¶73). *(Drafted.)*
+    - quote: Je suis bon nageur, monsieur Harbert
+    - quote: Ayrton nageait d’un bras vigoureux
+    - quote: Le vigoureux Ayrton se débarrassa de leurs étreintes
+  - He is stung when Pencroff offers to go with him, "Vous vous défiez de moi !", and answers Smith more humbly with a sigh (III.2 ¶23, ¶24, ¶25). *(Drafted.)*
+    - quote: Vous vous défiez de moi !
+    - quote: Puis, plus humblement
+    - quote: Hélas !
+  - Bob Harvey is an old companion of his in Australia, a bold sailor who took up his criminal plans; Ayrton had once wished to do as Harvey did, seize a ship in sight of Norfolk Island (III.2 ¶44, ¶49). *(Drafted.)*
+    - quote: un de ses anciens compagnons d’Australie, un marin audacieux, qui avait repris la suite de ses criminels projets
+    - quote: Ainsi avait voulu faire autrefois Ayrton
+  - Harvey, who takes him for dead long since, does not know him by the lantern light (III.2 ¶69). *(Drafted.)*
+    - quote: il ne pouvait l’être de celui-ci, qui devait croire Ayrton mort depuis longtemps
+  - He thinks himself the first cause of the disaster threatening the colony, since Harvey only carries out his own old plans, and resolves to blow up the brig and die in the explosion (III.2 ¶61). *(Drafted.)*
+    - quote: la cause première de tant de désastres
+    - quote: il fut pris de cette irrésistible envie de faire sauter le brick
+  - In the fight with the pirates a knife cuts the flesh of his shoulder; he returns to the colonists "légèrement blessé à l’épaule", about half past midnight (III.2 ¶73, ¶83). *(Drafted.)*
+    - quote: un coup de couteau qu’il ne put parer lui entailla les chairs de l’épaule
+    - quote: légèrement blessé à l’épaule
+  - Looking at the corpse of Bob Harvey he says "Ce que j’ai été, Pencroff !" and Pencroff answers "Mais ce que vous n’êtes plus, brave Ayrton !" (III.4 ¶19, ¶20, ¶21). *(Drafted.)*
+    - quote: Ayrton reconnut celui de Bob Harvey
+    - quote: Ce que j’ai été, Pencroff !
+    - quote: Mais ce que vous n’êtes plus, brave Ayrton !
+  - He and Pencroff dive several times to the bed of the channel and recover the brig's chains and anchors, ballast pigs and four cannon (III.4 ¶75). *(Drafted.)*
+    - quote: ayant plusieurs fois plongé jusqu’au lit du canal
+    - quote: jusqu’aux quatre canons
 - **On the page.**
   - He stands respectfully aside in a corner of the magnificent salon (III.16 ¶8). *(Drafted.)*
     - quote: dans un angle de ce magnifique salon
@@ -239,7 +290,7 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: il vivait encore comme au temps où il n’avait d’autre abri que les forêts de l’île Tabor
   - After the jaguar he goes back to his old life: he does not come to the meals, sleeps under the trees of the plateau and never mixes with his companions (II.17 ¶4). *(Drafted.)*
     - quote: n’assistant point aux repas, couchant sous les arbres du plateau, ne se mêlant jamais à ses compagnons
-- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
+- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
 - **Open:**
   - The editor warns, in a note that recalls the one on Ayrton's adventures, of a "discordance de quelques dates" with the earlier books (III.16 n1); the card cannot say which dates. *(Drafted.)*
     - quote: sur la discordance de quelques dates

@@ -535,6 +535,37 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He recalls the odd attitude of Top and Jup at the mouth of the well that joins Granite-house to the sea, and says he explored that well and found nothing suspect (II.20 ¶69). *(Drafted.)*
     - quote: la singulière attitude de Top et de Jup
     - quote: il avait exploré ce puits sans y découvrir rien de suspect
+  - He speaks in the calm tone that is usual with him (III.1 ¶31); and gives his battle plan in "la voix la plus calme", as if it were work to direct and not a battle to settle (III.3 ¶4). *(Drafted.)*
+    - quote: de ce ton calme qui lui était ordinaire
+    - quote: comme s’il se fût agi de travaux à diriger et non d’une bataille à régler
+  - He gives Ayrton his hand, as he is used to doing (III.1 ¶39); he understands what is passing in Ayrton's soul, and feels that a refusal would have deeply saddened the former convict (III.1 ¶88; III.2 ¶21). *(Drafted.)*
+    - quote: ainsi qu’il avait coutume de le faire
+    - quote: Cyrus Smith comprit ce qui se passait dans l’âme d’Ayrton
+    - quote: un refus eût profondément attristé l’ancien convict
+  - He would leave in a passing ship, annex the island in the name of the United States, and return with colonists to make the island "une station utile" for the American republic (III.1 ¶32). *(Drafted.)*
+    - quote: après en avoir pris possession au nom des États de l’Union
+    - quote: doter la république américaine d’une station utile dans cette partie de l’océan Pacifique
+  - At the sight of the ship he fears rather than hopes for her coming (III.1 ¶55). *(Drafted.)*
+    - quote: il redoutait plutôt qu’il ne désirait l’arrivée de ce navire
+  - Seeing the black flag, he asks himself whether the pirates have been to the island before, which "aurait expliqué certaines particularités restées inexplicables jusqu’alors", and whether some accomplice lives in the unexplored parts (III.1 ¶94). *(Drafted.)*
+    - quote: avaient-ils donc déjà fréquenté cette île
+    - quote: aurait expliqué certaines particularités restées inexplicables jusqu’alors
+    - quote: quelque complice prêt à entrer en communication avec eux
+  - To Pencroff's "Six contre cinquante !" he answers "six !… sans compter…", and does not say whom, but points to the sky (III.2 ¶90, ¶91, ¶93). *(Drafted.)*
+    - quote: Oui ! six !… sans compter…
+    - quote: Cyrus ne répondit pas, mais il montra le ciel de la main
+  - After the brig's sinking he says "cette fois, nous saurons !", but not what, "Plus tard ! plus tard !" (III.4 ¶4, ¶6). *(Drafted.)*
+    - quote: Ah ! cette fois, nous saurons !
+    - quote: Plus tard ! plus tard !
+  - Asked whether he sees something supernatural in the sinking, he does not answer, and then says "Je ne me prononce pas, Pencroff" (III.4 ¶40, ¶43). *(Drafted.)*
+    - quote: Cyrus Smith ne répondit pas
+    - quote: Je ne me prononce pas, Pencroff
+  - He observes the wrecked hull "dans un étonnement silencieux" (III.4 ¶60). *(Drafted.)*
+    - quote: Cyrus Smith l’observait dans un étonnement silencieux
+  - On 30 November, from a piece of thick iron cylinder Nab found, he says the brig struck it, that it raised the waterspout, and that it is all that remains of a torpedo; asked who put it there, he says only "ce n’est pas moi !" and that its power was incomparable (III.4 ¶81, ¶92, ¶95). *(Drafted.)*
+    - quote: ce cylindre est tout ce qui reste d’une torpille
+    - quote: ce n’est pas moi
+    - quote: son incomparable puissance
 - **On the page.**
   - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
@@ -715,7 +746,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He watches the unknown at every moment, and his eyes do not leave the man's (II.15 ¶68, ¶88). *(Drafted.)*
     - quote: comme l’ingénieur l’observait à tous moments
     - quote: dont les yeux ne quittaient pas ceux de son malade
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

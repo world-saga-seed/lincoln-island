@@ -16,4 +16,12 @@ Keywords: lune, croissant, crescent, moon, reflection, sea, western horizon
     - quote: la lune devait être pleine trois jours après
   - On the evening of 11 October the crescent shows in the sun’s twilight and soon goes out, the first quarter not due before the 16th (II.13 ¶29). *(Drafted.)*
     - quote: le croissant de la lune, qui ne devait être dans son premier quartier que le 16
-- **Appears in:** I.10, I.21, II.3, II.13
+  - On the night of 17 October the new moon, lost in the sun’s glare, has disappeared (III.1 ¶97). *(Drafted.)*
+    - quote: La lune nouvelle, emportée dans l’irradiation solaire, avait disparu
+  - On 18 October it has been new for two days (III.4 ¶17). *(Drafted.)*
+    - quote: la lune était nouvelle depuis deux jours
+- **Appears in:** I.10, I.21, II.3, II.13, III.1, III.4
+- **Open:**
+  - The phase: III.1 ¶97 and III.4 ¶17 give a new moon about 16 to 17 October; II.19 ¶73 says "aujourd’hui pleine lune" in April, which six lunations later would put the full moon in mid-October. Card neither (III.1 ¶97; III.4 ¶17; II.19 ¶73). *(My reading, to confirm.)*
+    - quote: c’est aujourd’hui pleine lune
+    - quote: la lune était nouvelle depuis deux jours

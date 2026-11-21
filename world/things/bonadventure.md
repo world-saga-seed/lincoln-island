@@ -113,7 +113,12 @@ Keywords: Bonadventure, bateau, boat, sloop, embarcation, quille, keel, sapin, f
     - quote: il y tenait plus qu’à sa propre peau
   - She carries a sounding line, a long cord with an iron block (see [the sounding line](the-sounding-line.md)) (II.20 ¶18). *(Drafted.)*
     - quote: une longue corde qui lui servait de ligne de sonde
-- **Appears in:** II.10, II.11, II.12, II.13, II.14, II.15, II.19, II.20
+  - A boat that Pencroff defies the pirates to find is sheltered in Port Ballon, read as the Bonadventure (III.1 ¶81). *(My reading, to confirm.)*
+    - quote: notre embarcation
+    - quote: elle est abritée dans Port-Ballon
+  - Beside a ship of three to four hundred tons she is small, Pencroff says, "notre Bonadventure" (III.4 ¶24). *(Drafted.)*
+    - quote: un navire de trois à quatre cents tonneaux, c’est un vrai navire auprès de notre Bonadventure
+- **Appears in:** II.10, II.11, II.12, II.13, II.14, II.15, II.19, II.20, III.1, III.4
 - **Open:**
   - The crossing out: II.13 ¶17 says it needs no more than forty-eight hours for the hundred and fifty miles, leaving on 11 October; the landing is at about noon on the 13th (II.13 ¶50), more than fifty hours after the five o’clock departure of ¶20; card neither (II.13 ¶17, ¶20, ¶50). *(Drafted.)*
     - quote: il ne fallait pas plus de quarante-huit heures pour faire cette traversée de cent cinquante milles

@@ -72,4 +72,4 @@ Keywords: corral, enclos, palissade, mouflons, sheepfold, pen, hangars, wool, la
   - In the winter it is less exposed than the plateau and covered in great part by Mont Franklin, so that it receives only the remains of the gales already broken by the forests and the high rocks of the coast; the damage there is slight (II.20 ¶78). *(Drafted.)*
     - quote: moins exposé que le plateau et couvert en grande partie par le mont Franklin
     - quote: Les dégâts y furent donc peu importants
-- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20
+- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1

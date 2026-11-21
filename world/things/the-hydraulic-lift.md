@@ -27,4 +27,6 @@ Keywords: ascenseur, lift, elevator, hydraulic, water power, ladder, plan
     - quote: La banne descendit, et en quelques instants tous furent réunis sur la grève
   - A rope of the lift lets one slide down it from the door of Granite-house to the ground in the dark (II.18 ¶1). *(Drafted.)*
     - quote: glisser par la corde de l’ascenseur
-- **Appears in:** I.19, II.9, II.12, II.15, II.18
+  - It carries three at once, Pencroff, Nab and Harbert, from the strand up to Granite-house (III.4 ¶2). *(Drafted.)*
+    - quote: en se jetant dans l’ascenseur, en même temps que Nab et le jeune garçon
+- **Appears in:** I.19, II.9, II.12, II.15, II.18, III.3, III.4

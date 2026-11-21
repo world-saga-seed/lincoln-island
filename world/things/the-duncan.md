@@ -24,4 +24,8 @@ Keywords: Duncan, yacht, vapeur, Glenarvan, Mangles, Glasgow, Tabor, caronades, 
     - quote: Mais si le yacht écossais venait d’ici là
   - Hetzel’s note says the events of the tale are drawn from "Les Enfants du capitaine Grant" (II.17 n1). *(Drafted.)*
     - quote: Les Enfants du capitaine Grant
-- **Appears in:** II.17, II.19
+  - Ayrton knows her for a steam yacht, which would show smoke; she too is rigged as a brig, so that a funnel between her two masts is the sign that tells her from the ship in sight (III.1 ¶51, ¶63). *(Drafted.)*
+    - quote: le Duncan est un yacht à vapeur
+    - quote: si une cheminée s’élevait entre les deux mâts
+    - quote: Le yacht écossais était, lui aussi, gréé en brick
+- **Appears in:** II.17, II.19, III.1

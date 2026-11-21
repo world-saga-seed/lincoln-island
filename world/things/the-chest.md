@@ -63,4 +63,4 @@ Keywords: caisse, chest, épave, wreck, flotson, barrels, inventory, zinc, tools
   - Smith counts among the enigmas of the island that the chest stranded so happily, without any trace of wreck (II.18 ¶21; II.20 ¶49). *(Drafted.)*
     - quote: la caisse échouée sur le sable
     - quote: comment cette caisse s’est si heureusement échouée, sans qu’il y ait eu trace de naufrage
-- **Appears in:** II.2, II.3, II.18, II.20
+- **Appears in:** II.2, II.3, II.18, II.20, III.4

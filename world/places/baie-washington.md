@@ -36,4 +36,6 @@ Keywords: baie Washington, Washington Bay, south, échancrure, bay, south coast
   - The shore shows no trace of any landing, old or recent, no wreck, no camp remains, no ashes of a fire, no footprint, and nothing connected with the supposed wreck (II.5 ¶26, ¶42). *(Drafted.)*
     - quote: la moindre trace d’un débarquement ancien ou récent
     - quote: rien de ce qui avait rapport au naufrage présumé n’apparaissait sur ce littoral
-- **Appears in:** I.11, II.5
+  - Its heights, near Port Ballon, give a view of the sea to the south-west beyond cap Griffe (III.1 ¶57). *(Drafted.)*
+    - quote: pour l’observer, il serait alors nécessaire de gagner les hauteurs de la baie Washington, près de Port-Ballon
+- **Appears in:** I.11, II.5, III.1

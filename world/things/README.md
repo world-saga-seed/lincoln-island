@@ -33,6 +33,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The besaiguë](besaigue.md) | the double-edged carpenter’s tool of the chest |
 | [The Bible](the-bible.md) | the English Bible of the chest, with a pencil cross before Matthew VII, 8 |
 | [The binocular](binocular.md) | the field glass of the chest |
+| [The black flag](the-black-flag.md) | the pirate ensign of the Speedy |
 | [The blank registers](blank-registers.md) | two ledgers of the chest |
 | [The boarding sabres](boarding-sabres.md) | four sabres of the chest |
 | [The boat](boat-plan.md) | the vessel Smith would build if land lay within reach |
@@ -78,6 +79,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The copper saucepans](copper-saucepans.md) | six tinned saucepans of the chest |
 | [The corral house furniture](the-corral-house-furniture.md) | the bed, table, bench, wardrobe and chest made for Ayrton |
 | [The corral wire](corral-wire.md) | a wire between the corral and the Nautilus |
+| [The cotton bales](cotton-bales.md) | the bales of cotton in the Speedy’s cargo |
 | [The crejimba](crejimba.md) | a palm whose branches make bows |
 | [The cress](cress.md) | the wild cress of the Mercy bank |
 | [The curry-jonc](curry-jonc.md) | a plant whose fibres make cords |
@@ -113,6 +115,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The first fire](first-fire.md) | the fire lit with the last match on 25 March |
 | [The first loaf](the-first-loaf.md) | the first bread of Lincoln Island |
 | [The flintlock guns](flintlock-guns.md) | the two flint-fired guns of the chest |
+| [The foliage screen](the-foliage-screen.md) | the branches hung over the windows of Granite-house |
 | [The footprints](footprints.md) | the prints of Smith's shoes in the sand |
 | [The fulgurites](fulgurites.md) | sand fused to glass by the lightning |
 | [The fulling mill](the-fulling-mill.md) | the water-driven stamper for the wool |
@@ -225,6 +228,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The quicklime](lime.md) | lime burnt from limestone |
 | [The raft of logs](raft-of-logs.md) | a raft of dead wood bound with dry lianas |
 | [The refractory pottery](refractory-pottery.md) | ware of refractory clay for the blast pipe, the crucible and the acid |
+| [The revolver from the rack](the-revolver-from-the-rack.md) | the pirates’ revolver Ayrton takes aboard the Speedy |
 | [The revolvers](revolvers.md) | the colonists’ pistols, origin not given |
 | [The rope ladder](the-rope-ladder.md) | the hundred-rung ladder that is Granite-house’s only way in |
 | [The sack of gold](gold-sack.md) | ten thousand francs in gold, thrown into the sea |
@@ -258,6 +262,25 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The Southern Cross](southern-cross.md) | the constellation Smith used to find the latitude |
 | [The southern sky seen from the crater](southern-sky.md) | the stars Smith and Harbert saw on 29 March |
 | [The spark pebbles](spark-pebbles.md) | two pebbles struck for sparks |
+| [The Speedy](the-speedy.md) | the pirates’ brig |
+| [The Speedy’s anchors and chains](the-speedys-anchors.md) | the brig’s ground tackle |
+| [The Speedy’s arms](the-speedys-arms.md) | the firearms and blades in the brig’s cargo |
+| [The Speedy’s ballast](the-speedys-ballast.md) | the cast-iron pigs of the brig |
+| [The Speedy’s boats](the-speedys-boats.md) | the two boats of the pirate brig |
+| [The Speedy’s cannon](the-speedys-cannon.md) | the four breech-loading guns of the pirate brig |
+| [The Speedy’s cargo](the-speedys-cargo.md) | the goods of the pirate brig, salvaged by the colonists |
+| [The Speedy’s clothing](the-speedys-clothing.md) | the ready-made clothes in the brig’s cases |
+| [The Speedy’s farm tools](the-speedys-farm-tools.md) | the ploughing implements in the brig’s cargo |
+| [The Speedy’s gun-rack](the-speedys-gun-rack.md) | the rack of firearms round the brig’s mainmast |
+| [The Speedy’s hen-coops](the-speedys-hen-coops.md) | the poultry cages that float up from the wreck |
+| [The Speedy’s papers](the-speedys-papers.md) | the ship’s papers that are not found |
+| [The Speedy’s powder](the-speedys-powder.md) | twenty copper-lined barrels from the stern |
+| [The Speedy’s sails](the-speedys-sails.md) | the brig’s canvas |
+| [The Speedy’s seeds](the-speedys-seeds.md) | the chests of seeds in the brig’s cargo |
+| [The Speedy’s shot](the-speedys-shot.md) | the balls and shells of the pirate brig |
+| [The Speedy’s spars](the-speedys-spars.md) | the spare masts and yards of the brig |
+| [The Speedy’s trade tools](the-speedys-trade-tools.md) | the carpenters’, joiners’ and smiths’ tools in the brig’s cargo |
+| [The Speedy’s wreck](the-speedys-wreck.md) | the overturned hull in the channel |
 | [Spilett's notebook](spilett-notebook.md) | the reporter's notebook |
 | [Spilett's watch](spilett-watch.md) | the reporter's watch, kept by oversight |
 | [The spit](spit.md) | the spit on which the capybara was roasted |
@@ -286,6 +309,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The Tabor table](tabor-table.md) | the table of the Tabor hut |
 | [The Tabor tin cutlery](tabor-tin-cutlery.md) | the tin place-setting on the Tabor table |
 | [The Tabor tools](the-tabor-tools.md) | the shovel, pickaxe and pick of the Tabor hut |
+| [Tafia](tafia.md) | the casks of rum in the Speedy’s cargo |
 | [The telegraph](the-telegraph.md) | the electric line from Granite-house to the corral |
 | [The telegraph battery](the-telegraph-battery.md) | Smith’s zinc, nitric acid and potash battery |
 | [The telegraph instruments](telegraph-instruments.md) | the electromagnet and dial at each end of the line |

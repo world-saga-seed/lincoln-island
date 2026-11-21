@@ -147,7 +147,16 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: l’ancre du Bonadventure mordait le fond de sable à l’embouchure de la Mercy
   - In the winter storms it twice swells so much as to make the bridge and the culverts seem likely to be carried off (II.20 ¶74). *(Drafted.)*
     - quote: la Mercy grossit au point de donner lieu de craindre que le pont et les ponceaux ne fussent emportés
+  - It has a watering place (aiguade) at its mouth, where Smith thinks the pirates might fill their casks (III.2 ¶2). *(Drafted.)*
+    - quote: faire de l’eau à l’aiguade de la Mercy
+  - Rocks lie at its mouth, among which men can hide to bar any passage by boat or any landing on the opposite bank (III.3 ¶8). *(Drafted.)*
+    - quote: au milieu des roches, à l’embouchure de la Mercy
+    - quote: tout passage en canot et même tout débarquement sur la rive opposée
+  - With its bridges raised it cannot be crossed by men who have landed on its right bank (III.3 ¶48). *(Drafted.)*
+    - quote: ils ne pouvaient traverser la rivière, dont les ponts étaient relevés
+  - Reefs at its mouth wreck the pirates’ second boat (III.3 ¶47). *(Drafted.)*
+    - quote: irrésistiblement emportée sur les récifs
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.16, III.2, III.3, III.4

@@ -73,10 +73,12 @@ A card for every place named on or off the island, each fact cited to the French
 | [The Mercy fall](the-mercy-fall.md) | the small cascade that ends the navigation of the Mercy |
 | [The Micronesian archipelago](micronesian-archipelago.md) | the group Smith names as a possible home of the land |
 | [Mont Franklin](mont-franklin.md) | the extinct volcano of two cones at the island's north-west |
+| [Mount Pitt](mont-pitt.md) | the mountain of Norfolk Island |
 | [The natural stair](the-natural-stair.md) | the slope of rock-fall up to the plateau |
 | [The Nautilus's port](nautilus-port.md) | a submarine port hollowed under Lincoln Island, now closed |
 | [The new fall](the-new-fall.md) | the stream opened from the lake’s east bank, falling three hundred feet to the beach |
 | [New Zealand](new-zealand.md) | the land named as the farthest the wind might have carried them |
+| [Norfolk Island](norfolk-island.md) | the English penal settlement east of Australia |
 | [The northern anchorage](the-northern-anchorage.md) | the slight inlet of the north coast where the Bonadventure spends the night |
 | [The northern shore](the-northern-shore.md) | the flat strand and tide line north of the Chimneys |
 | [The old outlet](the-old-outlet.md) | the passage in the granite by which the lake’s overflow ran to the sea |
@@ -85,6 +87,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The Pacific Ocean](pacific-ocean.md) | the ocean the storm is thought to have carried the balloon across |
 | [Patagonia](patagonia.md) | the land Glenarvan crosses along the thirty-seventh parallel |
 | [The peccary sty](the-peccary-sty.md) | the shed built beside the poultry-yard |
+| [Polynesia](polynesia.md) | the archipelagos east of the Pacific the long-haul ships frequent |
 | [The Pomotou](pomotou.md) | a Pacific group named as a possible landfall |
 | [The pond](the-pond.md) | a large pond shaded by old pines |
 | [Port Ballon](port-ballon.md) | the small hidden natural harbour of the south coast |
@@ -99,9 +102,11 @@ A card for every place named on or off the island, each fact cited to the French
 | [The rock in the lake](lake-islet.md) | a rock rising from Lake Grant near its south shore |
 | [Route du Corral](route-du-corral.md) | the road from the Grande-Vue plateau to the corral |
 | [The saloon](nautilus-saloon.md) | the room where Nemo receives the colonists |
+| [The Sandwich Islands](sandwich-islands.md) | the archipelago the Speedy’s cargo was meant for |
 | [The small beach at the lake’s south angle](lake-south-beach.md) | where the dugong came ashore |
 | [The south-east beach](the-southeast-beach.md) | the long barren beach beyond the point of the Épave |
 | [Spain](spain.md) | the European country whose latitude matches the island’s |
+| [The Speedy’s powder-room](the-speedys-powder-room.md) | the magazine in the stern of the brig |
 | [The stable](the-stable.md) | the onaggas' shelter beside the poultry-yard |
 | [The Strait of Magellan](strait-of-magellan.md) | the strait the Duncan rounds on her way to the Pacific |
 | [The stream by the grotto](grotto-stream.md) | a clear stream a hundred paces from the grotto |

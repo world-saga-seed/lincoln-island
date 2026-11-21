@@ -30,4 +30,6 @@ Keywords: Australie, Nouvelle-Hollande, Australian, continent, route, trees, hun
     - quote: le chef de convicts évadés
   - Ayrton claims that the Britannia was lost on its east coast, not on its west coast (II.17 ¶56). *(Drafted.)*
     - quote: ce n’est pas sur la côte ouest, mais sur la côte est de l’Australie que le Britannia s’est perdu
-- **Appears in:** I.11, I.12, I.21, II.3, II.17
+  - Norfolk Island lies in the east of Australia (III.2 ¶48). *(Drafted.)*
+    - quote: dans l’est de l’Australie
+- **Appears in:** I.11, I.12, I.21, II.3, II.17, III.2

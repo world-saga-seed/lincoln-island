@@ -30,7 +30,9 @@ Keywords: bois du Jacamar, forest, hunting ground, trees
     - quote: jamais la hache du bûcheron n’avait entaillé ces arbres
   - Excursions into the forests of the Jacamar and the Far-West bring back wild vegetables (II.8 ¶14). *(Drafted.)*
     - quote: dans les forêts du Jacamar et du Far-West
+  - Its edge is within reach of Granite-house, and boughs and lianas for the foliage screen are fetched from it (see [the foliage screen](../things/the-foliage-screen.md)) (III.1 ¶82). *(Drafted.)*
+    - quote: à la lisière du bois de Jacamar
 - **On the page.**
   - Most of the game was killed there (I.13 ¶36). *(Drafted.)*
     - quote: La plupart de ces animaux furent tués dans la partie de la forêt
-- **Appears in:** I.13, I.15, I.19, II.3, II.8
+- **Appears in:** I.13, I.15, I.19, II.3, II.8, III.1

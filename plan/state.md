@@ -2,7 +2,7 @@
 
 ## Questions held for the next session
 
-- None.
+- Les Enfants du capitaine Grant: fetch and card it? (the author; see the roadmap).
 
 ## Stages
 

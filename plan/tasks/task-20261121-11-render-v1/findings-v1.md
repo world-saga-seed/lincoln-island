@@ -1,6 +1,6 @@
 # The verified findings on v1, and their dispositions
 
-*Every finding from the mechanical checks and the calibrated critics (facts, omission, voice), merged. Every quote was checked by grep against its draft and resolves. Fixes marked "ruled" are already on the ledger. The rest wait for the author.*
+*Dispositions settled by the author, 2026-11-21 (R1121-116): every "(pick)" below is as recommended, except I12. Every finding from the mechanical checks and the calibrated critics (facts, omission, voice), merged. Every quote was checked by grep against its draft and resolves. Fixes marked "ruled" are already on the ledger. The rest wait for the author.*
 
 ## 01900 and 02000 (the neighbours)
 
@@ -27,7 +27,7 @@
 | I9 | "telescopes" twice: "two veritable telescopes" (l.13), "his telescope eyes" (l.127) | voice critic, calibration run | make l.127 plain (pick) |
 | I10 | "ribbed by the ebb" twice (l.55, l.143) | voice critic, calibration run | cut it at l.143 (pick) |
 | I11 | Tag: "Pencroff was bold, but he was a seaman, and he did not go out alone." (l.19) | voice critic, taste | keep (pick): it is beat 1's own line, "he does not go out alone" |
-| I12 | The motive paragraph at l.137, ending "That would be a surprise worth the keeping." | voice critic, taste | keep (pick): it carries the settled surprise (R1121-76); only "He did not" stays plain |
+| I12 | The motive paragraph at l.137, ending "That would be a surprise worth the keeping." | voice critic, taste | keep the paragraph, but cut its last sentence, "That would be a surprise worth the keeping.", a tag line: the sentence before says it (R1121-116) |
 | I13 | The house on 2 June gets a full paragraph (l.47) | voice critic, taste | keep (pick): R1121-69 sets it, and the shutters echo I.19 ¶46 |
 
 ## Not findings

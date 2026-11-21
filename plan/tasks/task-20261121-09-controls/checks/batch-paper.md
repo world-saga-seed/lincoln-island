@@ -16,11 +16,11 @@
 
 | Critic | x1 | x2 |
 |---|---|---|
-| facts 01900 | | |
-| omission 01900 | | |
-| facts 02000 | | |
-| omission 02000 | | |
-| facts 01950 | | |
+| facts 01900 | 1 (changed: the tutoiement, "like old comrades") | 1 (added: "of old friends" to the tutoiement) |
+| omission 01900 | 0 | 0 |
+| facts 02000 | 2 (sea-wrack for zostère; "wax" candles) | 3, 2 standing ("Oswego tea" for monardes; "catechism"; "Mr. Smith" is White's) |
+| omission 02000 | 0 | 1 ("absolument" on "parfaits") |
+| facts 01950 | 21 (9 break); canon 7 (lamp, ladder rungs, the secret departure Spilett knows of, forged knives, "backed", "two days later", Mandible Cape), story 14 | 13 (5 break); canon 2 (the candle plan four days early; the islet reached before the first ford), story 11 |
 | voice | | |
 | seams | | |
 | blind probe (open, then asked) | | |

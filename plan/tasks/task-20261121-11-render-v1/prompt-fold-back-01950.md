@@ -1,0 +1,19 @@
+# The fold-back prompt, 01950 (from prompts/fold-back.md v1, filled)
+
+---
+
+You are bringing a novel's outlines and notes up to date with its draft, in the current folder: Jules Verne's *L'Île mystérieuse* in English, in White's 1876 voice, with one chapter inserted. Every file is read-only except the outlines and notes of your chapters: story/outline/01950-the-float-in-the-bar.md and story/notes/01950-the-float-in-the-bar.md. Run no git commands of any kind; what changed since the draft is given to you below. Do not launch agents. Other sessions may have unsaved edits: never revert or reformat anything you did not change, and edit by small exact replacements.
+
+Your chapters: 01950. For each: the prose story/prose/N-*.md (draft 2, revised and checked), the outline story/outline/N-*.md and the notes story/notes/N-*.md.
+
+Read first: README.md; plan/README.md (the marks and the rules); plan/workflows/drafting/fold-back.md (the job, and the Next pass form); plan/workflows/drafting/rulings.md; story/voice/white.md and story/voice/pov.md. Then, for your chapters: the prose, outline and notes in full; the batch paper, plan/tasks/task-20261121-11-render-v1/batch-paper.md, and the verified findings, plan/tasks/task-20261121-11-render-v1/findings-v1.md; what changed in the notes, outlines and voice files since the drafts began, plan/tasks/task-20261121-11-render-v1/changes-since-draft.txt; and the ledger rows it names, in plan/settled/ledger/2026-11-21.md. Also the chapter's bundle, plan/tasks/task-20261121-11-render-v1/bundle-01950.md (its cards, cut to 31 May 1865), the inventions log and check, plan/tasks/task-20261121-11-render-v1/inventions.md (the check's verdicts are in the batch paper), and the probe's score, plan/tasks/task-20261121-11-render-v1/probe/score.md. Read nothing else.
+
+This is the inserted chapter. The inventions that stood (19, and the 3 reworded as R1121-120) are the draft's choices: fold each into its beat as a proposal, from the draft. The outline's "The find" and "Clues" sections hold the truth behind the chapter: never put any of it into a beat as something the page shows.
+
+Per chapter:
+1. The draft into the outline and notes. Fold each choice the batch kept into the beat it belongs to, in one line, marked "(Proposal, from the draft, N.)" with N linked to the prose file. Do not copy prose into the outline; keep lore in the notes. Delete outline text the draft and its batch settled otherwise; deleting a "(Settled ...)" line needs a source that settles it (a ledger row), so if you have none, leave it and list the draft as drift. Never fold a choice that contradicts a settled line: that is drift.
+2. The Next pass list. Add "## Next pass" as the last section of the notes, headed by the one italic line the workflow gives, in the form and kinds it gives: drift, held, beat, voice (at most eight, the strongest), length. Every quote in backticks, copied exactly, 25 words at most, and it must resolve: copy the Next pass section to a scratch file in <scratchpad>/, run python3 tools/quotes.py <that file> --in story/prose/N-*.md --backticks, and fix every miss. Those quotes.py runs are the only commands you may run, besides python3 tools/links.py --exclude 'existing/*'.
+
+Every line you add carries a mark. Delete stale text; do not strike it. Verify every link and anchor you write (links.py must print 0 broken). Never edit prose, cards, sheets, plan/state.md or any other file; put what they need in your report. Never cut or reword a clue line (the outline's Clues section, and any line plan/reread-hooks.md would list).
+
+Report (your final message), headed "# Fold-back, 01950": by chapter, what you folded and the Next pass count by kind; what shared files need (quote, file, why); state.md rows to change; questions only the writer can answer, each with the plain option first and a recommendation. Finish with a one-line tally.

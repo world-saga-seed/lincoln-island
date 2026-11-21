@@ -5,6 +5,28 @@
 Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe, tobacco, colonist
 
 - **What it is.**
+  - He is a sailor of thirty-five to forty, powerfully built, very tanned, with quick, blinking eyes and a good face (I.2 ¶24). *(Drafted.)*
+    - quote: vigoureusement bâti, très-hâlé, les yeux vifs et clignotants
+  - He is a Northern American who has run all the seas of the globe, and to whom everything extraordinary that can befall a two-legged featherless creature has happened (I.2 ¶24). *(Drafted.)*
+    - quote: qui avait couru toutes les mers du globe
+  - He has an enterprising nature, ready to dare anything, which nothing can astonish (I.2 ¶24). *(Drafted.)*
+    - quote: une nature entreprenante, prête à tout oser
+  - Early in 1865 he came to Richmond on business with Harbert Brown, a boy of fifteen whom he loves as his own child, and was blocked there by the siege (I.2 ¶24). *(Drafted.)*
+    - quote: il s’y trouva donc bloqué, à son grand déplaisir
+  - His face is an open, loyal one that tells Cyrus Smith he is an honest man (I.2 ¶29). *(Drafted.)*
+    - quote: la loyale figure du marin
+  - He does not know how to manage a balloon (I.2 ¶35). *(Drafted.)*
+    - quote: S’il eût connu la manœuvre
+  - His sailor's eyes are used to piercing the dark (I.3 ¶26). *(Drafted.)*
+    - quote: ses yeux de marin habitués à percer l’ombre
+  - He does not know the names of the trees but can rank them as firewood (I.4 ¶30). *(Drafted.)*
+    - quote: si moi j’ignore le nom de ces arbres
+  - A sailor is never at a loss with cables or ropes (I.4 ¶63). *(Drafted.)*
+    - quote: un marin n’est jamais embarrassé, quand il s’agit de câbles ou de cordages
+  - He is a hard-bitten smoker, who always carries a box of matches (I.5 ¶18). *(Drafted.)*
+    - quote: il était un fumeur acharné
+  - He knows fifty-two ways of dressing eggs (I.5 ¶84). *(Drafted.)*
+    - quote: connaissait cinquante-deux manières d’accommoder les œufs
   - He had been a sailor on every ocean (I.13 ¶8). *(Drafted.)*
     - quote: il avait été marin sur tous les océans
   - He had been a carpenter in the shipyards of Brooklyn (I.13 ¶8). *(Drafted.)*
@@ -22,6 +44,66 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He is one of the Americans described as religious men (I.13 ¶50). *(Drafted.)*
     - quote: Ces Américains étaient des hommes religieux
 - **On the page.**
+  - He accosts Cyrus Smith in a Richmond street and asks whether he has had enough of Richmond (I.2 ¶25). *(Drafted.)*
+    - quote: Monsieur Smith, en avez-vous assez de Richmond ?
+  - He proposes escape by the idle balloon, which seems to be waiting for them (I.2 ¶33). *(Drafted.)*
+    - quote: Par ce fainéant de ballon
+  - In the storm he says it is a nasty tide but they will get through (I.2 ¶48). *(Drafted.)*
+    - quote: on en viendra à bout tout de même
+  - At the balloon he detaches the ballast bags on Smith's order (I.2 ¶51). *(Drafted.)*
+    - quote: Pencroff, sur l’ordre de l’ingénieur, détachait successivement les paquets de lest
+  - He welcomes Top aboard ("un de plus"), lightening the car by two bags of sand, and casts off the rope (I.2 ¶54). *(Drafted.)*
+    - quote: Bah ! un de plus !
+  - He asks whether the lost engineer can swim (I.3 ¶10). *(Drafted.)*
+    - quote: Sait-il nager ?
+  - In the dark he thinks he recognises gulls and mews among the birds (I.3 ¶14). *(Drafted.)*
+    - quote: Le marin croyait reconnaître des goëlands et des mouettes
+  - He sees that they are on an islet, not the mainland (I.3 ¶24). *(Drafted.)*
+    - quote: Nous sommes sur un îlot !
+  - He says he feels the coast though he cannot see it (I.3 ¶39). *(Drafted.)*
+    - quote: si je ne vois pas la côte, je la sens
+  - He holds Spilett back from the channel, judging the current an ebb and the passage fordable at low water (I.3 ¶47). *(Drafted.)*
+    - quote: c’est un courant de jusant
+  - He says three hours will bring the ebb and the crossing (I.3 ¶58). *(Drafted.)*
+    - quote: Dans trois heures, nous tenterons le passage
+  - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
+    - quote: Procédons avec méthode
+  - He had noticed a narrow cleft a few hundred paces down the coast, which he judged the outlet of a stream (I.4 ¶8). *(Drafted.)*
+    - quote: la côte offrait une étroite coupée
+  - He recognises several skuas among the birds on the cliff, and small voracious mews (I.4 ¶9). *(Drafted.)*
+    - quote: Pencroff reconnut plusieurs labbes
+  - He takes the lithodomes for mussels, and eats them on Harbert's word (I.4 ¶11). *(Drafted.)*
+    - quote: Eh ! ce sont des moules !
+  - He sees that the Chimneys could be made habitable (I.4 ¶24). *(Drafted.)*
+    - quote: on pourrait rendre les « Cheminées » habitables
+  - He keeps the name "Chimneys" for the provisional dwelling (I.4 ¶27). *(Drafted.)*
+    - quote: ce fut le nom que Pencroff conserva à cette demeure provisoire
+  - He proposes a log raft to carry the firewood down the river on the ebb (I.4 ¶35). *(Drafted.)*
+    - quote: les trains de bois n’ont pas été inventés pour rien
+  - He makes the raft, binding logs with dry creepers, in an hour (I.4 ¶38). *(Drafted.)*
+    - quote: Pencroff commença aussitôt à confectionner son train
+  - He braids a long rope of dry creepers and tows the raft down on the ebb by hand while Harbert poles it (I.4 ¶63). *(Drafted.)*
+    - quote: Pencroff tressa rapidement une corde longue de plusieurs brasses
+  - He thanks Providence for the fertile land (I.4 ¶52). *(Drafted.)*
+    - quote: il faut en remercier la Providence
+  - His first care is to make the Chimneys habitable by stopping the draughty corridors with sand, stones, branches and wet earth (I.5 ¶1). *(Drafted.)*
+    - quote: Le premier soin de Pencroff
+  - He has never been able to make fire by rubbing sticks (I.5 ¶17). *(Drafted.)*
+    - quote: je n’ai jamais pu y parvenir
+  - His brass box of matches, which never left him, is missing, and so is his pipe (I.5 ¶18). *(Drafted.)*
+    - quote: la boîte qui ne le quittait jamais
+  - He lost his pipe too in the shaking (I.5 ¶24). *(Drafted.)*
+    - quote: Ma pipe, elle-même, m’a bien quitté !
+  - He searches the shore, river bank and plateau in vain for the box (I.5 ¶36). *(Drafted.)*
+    - quote: le tout vainement
+  - He asks the reporter and Nab, in the most natural tone, for a match (I.5 ¶55). *(Drafted.)*
+    - quote: du ton le plus naturel
+  - Too moved to strike the one match, he hands it to Harbert (I.5 ¶77). *(Drafted.)*
+    - quote: ma main tremble
+  - At the fire he says he was never so moved in his life (I.5 ¶80). *(Drafted.)*
+    - quote: je n’ai jamais été si ému de ma vie
+  - He watches near the hearth the whole first night and feeds it generously (I.5 ¶89). *(Drafted.)*
+    - quote: il passa la nuit près du foyer
   - He asks Cyrus where they are to begin (I.13 ¶1). *(Drafted.)*
     - quote: par où allons-nous commencer
   - He asks what the kiln will be for (I.13 ¶11). *(Drafted.)*
@@ -55,13 +137,17 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He and Nab had expected to find almost a god in the "génie de l’île" (III.16 ¶10). *(Drafted.)*
     - quote: là où Pencroff et Nab croyaient trouver presque un dieu
 - **Habits.**
+  - He smokes; his pipe and box were never apart (I.5 ¶18). *(Drafted.)*
+    - quote: la boîte qui ne le quittait jamais, car il était un fumeur acharné
+  - He sets out by order: shelter, fire, food (I.4 ¶5). *(Drafted.)*
+    - quote: Il s’agit donc de trouver abri, feu et nourriture.
   - He smokes a pipe, or would if he had tobacco (I.13 ¶48). *(Drafted.)*
     - quote: auxquelles le tabac manquait, hélas !
   - He is confident of every outcome (I.13 ¶49). *(Drafted.)*
     - quote: ses élans de confiance absolue
   - He can turn his hand to any trade, as seamen do (I.13 ¶8). *(Drafted.)*
     - quote: propre à tout
-- **Appears in:** I.13, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.13, III.16
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

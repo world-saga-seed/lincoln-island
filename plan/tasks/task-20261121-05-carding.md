@@ -7,7 +7,7 @@
 - **Wave:** see Steps.
 - **Start hash:** a579947, 2026-11-21.
 - **End hash:** (on close)
-- **Status:** Pilot.
+- **Status:** Running, four chapters a wave.
 
 ## What a card holds *(Proposal.)*
 
@@ -33,6 +33,8 @@ The outlines hold the events; a card holds what is true of its subject. A card r
 ## Log
 
 - 2026-11-21 Opened. `world/animals/` made (R1121-03).
+- 2026-11-21 The pilot, wave 1 (I.2 to I.5). A: 7 cards made (Top, gulls, skuas, rock pigeons, lithodomes, Jonathan Forster, Ulysses Grant), 5 extended, 186 facts; 122,492 tokens. B: 24 made (11 places, 13 things), 7 extended, 194 facts, the tool chain begun; 143,216 tokens; it ran `git diff --stat` against its prompt (read-only). 265,708 tokens for four chapters; all 993 quotes on the cards resolve; `cards.py check` and `links.py` print 0. Projected to the book at this rate, about 4 to 5 M with growth, under the 12 M cap.
+- 2026-11-21 What the pilot showed, and the prompt's fixes: A logged scenes on the people's cards ("He asks whether the lost engineer can swim"), against "What a card holds"; the prompt now gives examples of what belongs and what does not. B carded unnamed features under descriptions (`the-snow-capped-mountain`, `the-islet`, `the-bay`), which I.11 names; carders now read I.11 ¶63 to ¶81 and card under the book's names, and the wave that reaches I.11 renames those cards. Stale gap lines on Open may now be deleted when answered (rule 9); the text's own disagreements never. The pilot's lines stay as written. The author's ruling R1121-04 came in: stubs for one-chapter subjects on no Clues list, full cards for the rest; the carders read their chapters' Clues sections.
 
 ## Resolution
 

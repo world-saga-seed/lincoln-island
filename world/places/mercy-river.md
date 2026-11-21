@@ -5,6 +5,24 @@
 Keywords: Mercy, stream, ford, bank, current, crossing
 
 - **What it is.**
+  - I.4 never names the small river at the Chimneys. It is read here as the Mercy because I.13 ¶29 has colonists following the Mercy from the shore; this is the card's own link. (I.4 ¶8). *(My reading, to confirm.)*
+    - quote: débouché à une rivière ou à un ruisseau
+  - At its mouth it cuts a gap in the granite wall, as if split by a plutonic effort, with a small cove at the foot ending in a fairly sharp angle (I.4 ¶20). *(Drafted.)*
+    - quote: À sa base s’échancrait une petite anse
+  - At the mouth it is a hundred feet wide, with banks only twenty feet high on each side (I.4 ¶20). *(Drafted.)*
+    - quote: Le cours d’eau mesurait là cent pieds de largeur
+  - It runs between two granite walls that lower upstream of the mouth, then turns sharply and vanishes under a copse half a mile in (I.4 ¶20). *(Drafted.)*
+    - quote: disparaissait sous un taillis à un demi-mille
+  - Its water is clear and at low tide, when the flood does not push in, it is fresh (I.4 ¶22). *(Drafted.)*
+    - quote: à basse mer, quand le flot montant n’y portait pas, elle était douce
+  - Its current is fairly rapid and carries some dead wood; the rising flood drives it back with force a considerable distance (I.4 ¶28). *(Drafted.)*
+    - quote: Le flot montant — et il se faisait déjà sentir en ce moment — devait le refouler avec force
+  - Its left bank walls are sharp and steep, while on the right the walls lower gradually to boulders and pebbles to the point (I.4 ¶47). *(Drafted.)*
+    - quote: les parois demeuraient nettes et abruptes
+  - Its course is rather winding, and seems to lead back to the mountain's buttresses, where it must rise (I.4 ¶47). *(Drafted.)*
+    - quote: son cours assez sinueux
+  - Its banks are very steep, so the raft could not strand (I.4 ¶64). *(Drafted.)*
+    - quote: La berge était très-accore
   - It is a river with a bank (berge) that can be followed on foot (I.13 ¶29). *(Drafted.)*
     - quote: On prit donc par la berge de la Mercy
   - At the time of the text it is deep, and crossing it is a difficulty (I.13 ¶70). *(Drafted.)*
@@ -12,13 +30,17 @@ Keywords: Mercy, stream, ford, bank, current, crossing
   - A line of rocks cut in odd shapes borders the river along the edge of the Grande-Vue plateau (I.13 ¶72). *(Drafted.)*
     - quote: cette ligne de roches capricieusement découpées qui bordait la rivière
 - **On the page.**
+  - Pencroff reckoned that a river was needed nearby for drinking water (I.4 ¶8). *(Drafted.)*
+    - quote: il était important de s’établir dans le voisinage d’un cours d’eau potable
+  - Pencroff saw in the flow and ebb a way to carry heavy objects (I.4 ¶28). *(Drafted.)*
+    - quote: pour le transport des objets pesants
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
   - The colonists went up its left bank from the shore to the plateau (I.13 ¶72). *(Drafted.)*
     - quote: en remontant la rive gauche de la Mercy
   - Nemo sent the boat back into the current of the Mercy (III.16 ¶65). *(Drafted.)*
     - quote: renvoya le canot dans le courant de la Mercy
-- **Appears in:** I.13, III.16
+- **Appears in:** I.4, I.5, I.13, III.16
 - **Open:**
   - The text gives the Mercy no width, depth in figures, source or mouth.
     - quote: alors profonde

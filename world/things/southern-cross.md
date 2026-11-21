@@ -12,6 +12,8 @@ Keywords: Croix du Sud, constellation, stars, pole, alpha, austral sky, astronom
   - Alpha is about twenty-seven degrees from the pole (I.13 ¶75). *(Drafted.)*
     - quote: L’étoile alpha en est à vingt-sept degrés environ
 - **On the page.**
+  - It shone at the austral pole on the clear night of 24 March, while the pole star was absent (I.3 ¶36). *(Drafted.)*
+    - quote: la Croix du Sud resplendissait alors au pôle austral du monde
   - It shone among the circumpolar constellations at the austral zenith at eight o'clock on 15 April (I.13 ¶58). *(Drafted.)*
     - quote: Au zénith austral, les constellations circompolaires resplendissaient
   - Smith had saluted it a few days before at the top of Mount Franklin (I.13 ¶58). *(Drafted.)*
@@ -22,7 +24,7 @@ Keywords: Croix du Sud, constellation, stars, pole, alpha, austral sky, astronom
     - quote: au moment où elle passait au méridien au-dessous du pôle
   - The height of the pole above the horizon is the latitude of a point (I.13 ¶77). *(Drafted.)*
     - quote: la latitude d’un point du globe est toujours égale à la hauteur du pôle au-dessus de l’horizon de ce point
-- **Appears in:** I.13
+- **Appears in:** I.3, I.13
 - **Open:**
   - The moon, full five days earlier, had not yet risen.
     - quote: La lune, qui avait été pleine cinq jours auparavant, n’était pas encore levée

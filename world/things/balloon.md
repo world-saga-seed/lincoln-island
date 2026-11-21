@@ -19,6 +19,18 @@ Keywords: aérostat, airship, gas bag, envelope, net, hoop, aeronaut, ballast, s
     - quote: Le gaz fuyait par la déchirure, qu’il était impossible de réparer
   - It carried an anchor (I.1 ¶28). *(My reading, to confirm.)*
     - quote: leur ancre
+  - It was made for Jonathan Forster, to cross the besiegers' lines to Lee's camp (I.2 ¶19). *(Drafted.)*
+    - quote: Un aérostat fut fabriqué et mis à la disposition de Jonathan Forster
+  - It was equipped with arms and food, for defence on landing and in case the flight dragged on (I.2 ¶19). *(Drafted.)*
+    - quote: munis d’armes, pour le cas où ils auraient à se défendre
+  - The balloon was inflated on the great square of Richmond (I.2 ¶21). *(Drafted.)*
+    - quote: gonflé sur la grande place de Richmond
+  - It was meant to carry six, Forster and five companions (I.2 ¶40). *(Drafted.)*
+    - quote: le ballon devait enlever six
+  - It is an enormous balloon held on its square by sacks of ballast on the net cords and a strong cable (see [the cable](balloon-cable.md)) (I.2 ¶49). *(Drafted.)*
+    - quote: On ne voyait même pas l’énorme aérostat
+  - The meshes of the net had given way, and a sea swept Smith off through them (I.3 ¶1). *(Drafted.)*
+    - quote: à travers les mailles du filet qui avaient cédé
 - **On the page.**
   - It was carried at the top of a waterspout at ninety miles an hour (I.1 ¶16). *(Drafted.)*
     - quote: avec une vitesse de quatre-vingt-dix milles
@@ -42,7 +54,19 @@ Keywords: aérostat, airship, gas bag, envelope, net, hoop, aeronaut, ballast, s
     - quote: il remonta à une hauteur de quinze cents pieds
   - It fell on the sand of the shore and, relieved of the passengers' weight, was taken by the wind and vanished (I.1 ¶62). *(Drafted.)*
     - quote: il disparut dans l’espace
-- **Appears in:** I.1
+  - Planned for 18 March, the departure was put off by the hurricane, and the balloon, tethered, was thrown flat to the ground by gusts (I.2 ¶22). *(Drafted.)*
+    - quote: que les rafales couchaient jusqu’à terre
+  - Smith feared it would tear in a thousand pieces, held to the ground and laid under the wind (I.2 ¶46). *(Drafted.)*
+    - quote: se déchirât en mille pièces
+  - It left Richmond on the night of 20 March, on an oblique course, knocking its basket against two chimneys and bringing them down (I.2 ¶55). *(Drafted.)*
+    - quote: après avoir heurté sa nacelle contre deux cheminées qu’il abattit
+  - During the night Smith could not think of descending, and by day the mist hid all land; only after five days did a clearing show the sea (I.2 ¶56). *(Drafted.)*
+    - quote: cinq jours après seulement, qu’une éclaircie laissa voir l’immense mer
+  - It was carried off at a frightful speed by the wind (I.2 ¶56). *(Drafted.)*
+    - quote: avec une vitesse effroyable
+- **Appears in:** I.1, I.2, I.3
 - **Open:**
   - The text does not say where the balloon came from or how long it flew; it asks the question and leaves it.
     - quote: De quel point du monde s’était-il élancé ?
+  - Duration of the flight: I.2 ¶1 says "Leur navigation aérienne avait duré cinq jours"; I.2 ¶57 says the five men left on 20 March and four were thrown ashore on 24 March. Carded neither way.
+    - quote: partis le 20 mars, quatre étaient jetés, le 24 mars

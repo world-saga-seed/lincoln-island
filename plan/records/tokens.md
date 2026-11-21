@@ -53,3 +53,5 @@
 | 2026-11-21 | agent, Haiku: finder f1 | phase 3 (the check) | 31 discords, 01 to 31 | — | the sampled discords and their French and White | 97,845 | 24 | 2.7 |
 | 2026-11-21 | agent, Haiku: finder f2 | phase 3 (the check) | 31 discords, 32 to 62 | — | the sampled discords and their French and White | 107,461 | 16 | 2.7 |
 | 2026-11-21 | agent, Sonnet: critic | phase 3 (the check) | 11 contested, 12 re-read | — | critic-sample, the finders' reports, the lists and texts | 79,929 | 14 | 1.3 |
+| 2026-11-21 | agent, Sonnet: carder w1a (people, animals) | phase 4 (pilot) | 00200 to 00500 | 12870 | the four chapters, the form, the cards it extended | 122,492 | 20 | 3.8 |
+| 2026-11-21 | agent, Sonnet: carder w1b (places, things) | phase 4 (pilot) | 00200 to 00500 | 12870 | the four chapters, the form, the cards it extended; also ran git diff --stat, against its prompt | 143,216 | 24 | 6.3 |

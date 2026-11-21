@@ -5,6 +5,18 @@
 Keywords: Nab, cook, forge, smith, colonist, devotion
 
 - **What it is.**
+  - He is a Black man, born on Cyrus Smith's estate of slave parents, freed long since by Smith, and devoted to him unto death (I.2 ¶14). *(Drafted.)*
+    - quote: Cet intrépide était un nègre, né sur le domaine de l’ingénieur
+  - Freed, he would not leave his master; he loved him to the point of dying for him (I.2 ¶14). *(Drafted.)*
+    - quote: n’avait pas voulu quitter son maître
+  - He is a young man of thirty, vigorous, agile, skilful, intelligent, gentle and calm, at times naive, always smiling, obliging and good (I.2 ¶14). *(Drafted.)*
+    - quote: C’était un garçon de trente ans
+  - His name is Nabuchodonosor, but he answers only to the abridged, familiar "Nab" (I.2 ¶14). *(Drafted.)*
+    - quote: Il se nommait Nabuchodonosor, mais il ne répondait qu’à l’appellation abréviative et familière de Nab.
+  - Cyrus Smith calls him his servant (I.2 ¶39). *(Drafted.)*
+    - quote: mon serviteur Nab
+  - He does not smoke (I.5 ¶33). *(Drafted.)*
+    - quote: Nab et M. Smith ne fument pas
   - He is devotion personified (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.
   - He is skilful, intelligent, tireless and robust, with an iron constitution (I.13 ¶7). *(Drafted.)*
@@ -16,6 +28,26 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He is one of the Americans described as religious men (I.13 ¶50). *(Drafted.)*
     - quote: Ces Américains étaient des hommes religieux
 - **On the page.**
+  - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
+    - quote: à force de ruse et d’adresse
+  - He follows his master wherever his master wishes to go (I.2 ¶42). *(Drafted.)*
+    - quote: il suivait son maître partout où son maître voulait aller
+  - He weeps with rage and despair at having lost all he loved in the world (I.3 ¶4). *(Drafted.)*
+    - quote: tout ce qu’il aimait au monde
+  - He says his master can swim (I.3 ¶11). *(Drafted.)*
+    - quote: Oui ! répondit Nab !
+  - On the morning of 25 March he plunges into the current without a word, in haste to reach the coast and go north (I.3 ¶43). *(Drafted.)*
+    - quote: C’était Nab.
+  - He swims the half-mile channel obliquely in more than half an hour, drifting fast, and lands several thousand feet from where he started (I.3 ¶49). *(Drafted.)*
+    - quote: Ce demi-mille qui séparait l’îlot de la terre, il employa plus d’une demi-heure à le franchir
+  - On returning at about six he has red eyes from weeping and has lost all hope (I.5 ¶41). *(Drafted.)*
+    - quote: ses yeux rougis prouvaient combien il avait pleuré
+  - He cries out that his master is not dead (I.5 ¶44). *(Drafted.)*
+    - quote: Il n’est pas mort !
+  - He refuses food: deprived of his master he can no longer, or will no longer, live (I.5 ¶50). *(Drafted.)*
+    - quote: Nab ne pouvait ou ne voulait plus vivre
+  - He is the one castaway who does not rest in the Chimneys; he wanders the shore all night calling his master (I.5 ¶90). *(Drafted.)*
+    - quote: erra sur la grève en appelant son maître
   - Cyrus Smith says Nab will bring provisions to the brickyard (I.13 ¶16). *(Drafted.)*
     - quote: Nab apportera des provisions
   - He and Pencroff, guided by Cyrus Smith, haul loads of limestone on a hurdle of woven branches (I.13 ¶44). *(Drafted.)*
@@ -27,9 +59,11 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He and Pencroff had expected to find almost a god in the "génie de l’île" (III.16 ¶10). *(Drafted.)*
     - quote: là où Pencroff et Nab croyaient trouver presque un dieu
 - **Habits.**
+  - He is always smiling, obliging and good (I.2 ¶14). *(Drafted.)*
+    - quote: toujours souriant, serviable et bon
   - He cooks for the colony (I.13 ¶57). *(My reading, to confirm.)*
     - quote: Nab avait préparé un pot-au-feu d’agouti
-- **Appears in:** I.13, III.16
+- **Appears in:** I.2, I.3, I.5, I.13, III.16
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

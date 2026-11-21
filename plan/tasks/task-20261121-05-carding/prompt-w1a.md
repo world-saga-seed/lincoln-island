@@ -32,7 +32,7 @@ EXTENDING A CARD. When your chapters add to an existing card, add the new facts 
 
 A NEW FOLDER CARD. If `world/animals/README.md` does not exist and you are A, make it: copy world/people/README.md's first three lines, retitled "# Animals" with the line "A card for every animal named or met in the French, one a kind, each fact cited by part, chapter and paragraph.", then a blank line and the two marker lines `<!-- cards: built by tools/cards.py; do not edit -->` and `<!-- /cards -->` with nothing between them.
 
-THE TOOL CHAIN (B only). `world/things/tool-chain.md` lists, in book order, every thing the colonists make or obtain by a process: one line each, "- **Name** (I.13 ¶42): made from what, by whom, with what; the card [name](file.md). *(Drafted.)*". If the file does not exist, start it with "# The tool chain" and the line "*The colonists' made things in book order, each with its inputs and its card.*". Add your chapters' lines at the end, in order.
+THE TOOL CHAIN (B only). `world/things/tool-chain.md` lists, in book order, every thing the colonists make or obtain by a process: one line each, "- **Name** (I.13 ¶42): made from what, by whom, with what; the card's link. *(Drafted.)*". If the file does not exist, start it with "# The tool chain" and the line "*The colonists' made things in book order, each with its inputs and its card.*". Add your chapters' lines at the end, in order.
 
 A CROWD FIGURE. A name met once with nothing to say about it gets no card: list it in your report.
 

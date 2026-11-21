@@ -5,6 +5,44 @@
 Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, Southern Cross, Nemo's guest, Top's master
 
 - **What it is.**
+  - He belonged to the Federal staff and was taken prisoner with other officers in February 1865 in one of Grant's failed raids on Richmond (I.2 ¶3). *(Drafted.)*
+    - quote: appartenait à l’état-major fédéral, et se nommait Cyrus Smith
+  - He is a native of Massachusetts, an engineer and a first-rate scholar to whom the Union government had given the direction of the railways during the war (I.2 ¶4). *(Drafted.)*
+    - quote: originaire du Massachussets, était un ingénieur, un savant de premier ordre
+  - He is a true Northern American: lean, bony, gaunt, about forty-five, already greying; cropped hair, and of his beard he kept only a thick moustache (I.2 ¶4). *(Drafted.)*
+    - quote: maigre, osseux, efflanqué, âgé de quarante-cinq ans environ
+  - He has one of those fine "numismatic" heads, with ardent eyes and a serious mouth, the face of a scholar of the militant school (I.2 ¶4). *(Drafted.)*
+    - quote: Il avait une de ces belles têtes « numismatiques »
+  - He wished to begin by handling hammer and pick, so he has supreme skill of hand as well as ingenuity of mind (I.2 ¶4). *(Drafted.)*
+    - quote: la suprême habileté de main
+  - He is a man of action as much as a man of thought, with a tenacity that defies bad luck (I.2 ¶4). *(Drafted.)*
+    - quote: Véritablement homme d’action en même temps qu’homme de pensée
+  - He is very learned, very practical and "très-débrouillard", and stays master of himself whatever the circumstances (I.2 ¶4). *(Drafted.)*
+    - quote: tout en restant maître de lui, quelles que fussent les circonstances
+  - His motto might have been William of Orange's: "Je n’ai pas besoin d’espérer pour entreprendre, ni de réussir pour persévérer." (I.2 ¶4). *(Drafted.)*
+    - quote: Je n’ai pas besoin d’espérer pour entreprendre, ni de réussir pour persévérer.
+  - He is courage personified; he fought in every battle of the war, beginning in Grant's Illinois volunteers (I.2 ¶5). *(Drafted.)*
+    - quote: Cyrus Smith était le courage personnifié
+  - His battles include Paducah, Belmont, Pittsburg-Landing, the siege of Corinth, Port-Gibson, Black River, Chattanooga, Wilderness and the Potomac (I.2 ¶5). *(Drafted.)*
+    - quote: à Paducah, à Belmont, à Pittsburg-Landing, au siège de Corinth
+  - Chance always favoured him until he was wounded and taken on the battlefield of Richmond (I.2 ¶5). *(Drafted.)*
+    - quote: blessé et pris sur le champ de bataille de Richmond
+  - He healed quickly of his wound, and during his convalescence made the reporter's acquaintance (I.2 ¶12). *(Drafted.)*
+    - quote: L’ingénieur guérit rapidement de sa blessure
+  - He and Gédéon Spilett took to each other and learned to value each other, and had one aim: to escape and rejoin Grant's army (I.2 ¶12). *(Drafted.)*
+    - quote: Ces deux hommes se plurent et apprirent à s’apprécier
+  - He is an abolitionist "de raison et de cœur" and had long since freed Nab, born on his estate of slave parents; Nab is his devoted servant (I.2 ¶14). *(Drafted.)*
+    - quote: Cyrus Smith, abolitioniste de raison et de cœur, avait affranchi
+  - He calls Spilett his friend and Nab his servant (I.2 ¶39). *(Drafted.)*
+    - quote: mon ami Spilett et mon serviteur Nab
+  - Top is his dog (I.2 ¶53). *(Drafted.)*
+    - quote: C’était Top, le chien de l’ingénieur
+  - He is the natural chief of the four survivors of the balloon (I.2 ¶58). *(Drafted.)*
+    - quote: leur chef naturel
+  - He does not smoke (I.5 ¶33). *(Drafted.)*
+    - quote: Nab et M. Smith ne fument pas
+  - He is the most ingenious and the most learned of the five, their undisputed chief (I.5 ¶86). *(Drafted.)*
+    - quote: celui qui était leur chef incontesté
   - An engineer, called "l’ingénieur Smith" in the narration (I.13 ¶4). *(Drafted.)*
     - quote: L’ingénieur Smith
   - He is addressed as "monsieur Cyrus" in the balloon's basket; the text there does not name the person addressed (I.1 ¶3). *(My reading, to confirm.)*
@@ -26,6 +64,36 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - Captain Nemo saved him from the sea (III.16 ¶62). *(Drafted.)*
     - quote: il sauva Cyrus Smith
 - **On the page.**
+  - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
+    - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
+  - On Pencroff's offer, he studies the sailor's open face and cannot doubt he is an honest man (I.2 ¶29). *(Drafted.)*
+    - quote: il ne put douter qu’il n’eût devant lui un honnête homme
+  - He is not a man to let an occasion slip; he judges Pencroff's plan very dangerous and therefore feasible (I.2 ¶36). *(Drafted.)*
+    - quote: Il n’était pas homme à la laisser échapper
+  - He decides they will go, with Spilett and Nab, and names the hour of ten that evening (I.2 ¶41). *(Drafted.)*
+    - quote: Cela suffit. Nous partirons !
+  - He slips onto the square at half past nine with his companions (I.2 ¶49). *(Drafted.)*
+    - quote: À neuf heures et demie, Cyrus Smith et ses compagnons se glissaient par divers côtés sur la place
+  - He gives the order of departure (I.2 ¶52). *(Drafted.)*
+    - quote: Cyrus Smith n’avait plus qu’à donner l’ordre du départ
+  - He wants to send Top away for fear of excess weight (I.2 ¶53). *(Drafted.)*
+    - quote: Cyrus Smith craignant un excès de poids, voulait renvoyer le pauvre animal
+  - He cannot think of descending during the night of the departure; five days later a clearing shows the sea beneath the balloon (I.2 ¶56). *(Drafted.)*
+    - quote: L’ingénieur, pendant la nuit, ne put songer à descendre
+  - He is carried off by a sea through the torn meshes of the netting when the balloon falls on the coast; Top has vanished too (I.3 ¶1). *(Drafted.)*
+    - quote: L’ingénieur, à travers les mailles du filet qui avaient cédé, avait été enlevé par un coup de mer.
+  - His companions are keenly attached to him (I.3 ¶30). *(Drafted.)*
+    - quote: s’étaient vivement attachés à cet intrépide Cyrus Smith
+  - Pencroff says that if they ever saw him again he would know how to turn the maze of the Chimneys to account (I.4 ¶25). *(Drafted.)*
+    - quote: il saurait tirer parti de ce labyrinthe
+  - Pencroff calls him a man, and a true one (I.5 ¶6). *(Drafted.)*
+    - quote: C’était un homme celui-là, et un vrai !
+  - On 25 March the reporter and Nab, having found no trace of him along eight miles of coast, take him for drowned (I.5 ¶42). *(Drafted.)*
+    - quote: l’ingénieur avait trouvé son tombeau
+  - Nab refuses to believe him dead, calling him a man to come back from anything (I.5 ¶44). *(Drafted.)*
+    - quote: C’est un homme à revenir de tout
+  - Nab says that if he were there he would know how to make a fire (I.5 ¶63). *(Drafted.)*
+    - quote: il saurait bien vous en faire
   - Asked by Pencroff where to begin, he answers that they begin at the beginning (I.13 ¶2). *(Drafted.)*
     - quote: Par le commencement,
   - He says the first need is a kiln, to make pottery (I.13 ¶12). *(Drafted.)*
@@ -109,7 +177,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: l’appareil manquant, il fallait le suppléer
   - He plans the next day's calculation (the plateau's height) while making tonight's sighting (I.13 ¶71). *(Drafted.)*
     - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
-- **Appears in:** I.1, I.13, III.16
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.13, III.16
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

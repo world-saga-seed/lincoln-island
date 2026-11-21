@@ -5,6 +5,30 @@
 Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
 
 - **What it is.**
+  - He is the honourable reporter of the New York Herald, charged with following the war among the Northern armies, and was taken the same day as Cyrus Smith (I.2 ¶6). *(Drafted.)*
+    - quote: reporter » du New York Herald
+  - He belongs to the race of astonishing English or American chroniclers, such as Stanley, and ranks among the first of his newspaper's delegates (I.2 ¶7). *(Drafted.)*
+    - quote: Gédéon Spilett marquait au premier rang de ces délégués
+  - He is a man of great merit, energetic, quick and ready for anything, full of ideas, who has been all over the world, soldier and artist (I.2 ¶8). *(Drafted.)*
+    - quote: ayant couru le monde entier, soldat et artiste
+  - He is one of the intrepid observers who write under bullets and "chronicle" under cannon-balls (I.2 ¶8). *(Drafted.)*
+    - quote: qui écrivent sous les balles
+  - He has humour: after the Black River affair he telegraphed the first chapters of the Bible for two hours to keep his place at the telegraph window, which cost the Herald two thousand dollars (I.2 ¶9). *(Drafted.)*
+    - quote: télégraphia pendant deux heures les premiers chapitres de la Bible
+  - He is tall and at most forty, with fair whiskers tending to red, a calm, keen, quickly moving eye, and a solid build tempered in every climate (I.2 ¶10). *(Drafted.)*
+    - quote: Gédéon Spilett était de haute taille. Il avait quarante ans au plus.
+  - He has been the Herald's regular reporter for ten years and enriches it with drawings as well as chronicles, handling pencil as well as pen (I.2 ¶11). *(Drafted.)*
+    - quote: il maniait aussi bien le crayon que la plume
+  - He came through his capture, as ever, without a scratch; his last words noted were "Un sudiste me couche en joue et…" (I.2 ¶11). *(Drafted.)*
+    - quote: sans une égratignure
+  - He and Cyrus Smith knew each other only by reputation before Richmond (I.2 ¶12). *(Drafted.)*
+    - quote: qui ne se connaissaient pas, si ce n’est de réputation
+  - Cyrus Smith calls him his friend (I.2 ¶39). *(Drafted.)*
+    - quote: mon ami Spilett
+  - Pencroff fears he has kept his notebook rather than his box of matches (I.5 ¶33). *(Drafted.)*
+    - quote: n’ait plutôt conservé son carnet que sa boîte d’allumettes
+  - He is a smoker, and so is expected always to have matches on him (I.5 ¶65). *(Drafted.)*
+    - quote: vous êtes fumeur, vous avez toujours des allumettes sur vous
   - A reporter of great talent (I.13 ¶5). *(Drafted.)*
     - quote: reporter de grand talent
   - He has learned everything so as to be able to speak of everything (I.13 ¶5). *(Drafted.)*
@@ -16,6 +40,36 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He is one of the Americans described as religious men (I.13 ¶50). *(Drafted.)*
     - quote: Ces Américains étaient des hommes religieux
 - **On the page.**
+  - A plate is captioned with his name (I.2 pl1). *(Drafted.)*
+    - quote: GÉDÉON SPILETT.
+  - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
+    - quote: Plusieurs fois, même, il tenta l’aventure
+  - Committed by Smith's "nous", he approves the plan without reserve and is only surprised he had not thought of it himself (I.2 ¶42). *(Drafted.)*
+    - quote: il l’approuva sans réserve
+  - After the fall he cries "En avant !" and leads the search for the engineer (I.3 ¶2). *(Drafted.)*
+    - quote: « En avant ! » s’écria le reporter
+  - He says Cyrus's silence proves nothing and that they must not despair (I.3 ¶28). *(Drafted.)*
+    - quote: ne désespérons pas
+  - He proposes lighting a signal fire for the engineer, but there is no wood on the islet (I.3 ¶29). *(Drafted.)*
+    - quote: Le reporter émit alors l’idée d’allumer sur un point de l’îlot quelque feu
+  - He agrees with Pencroff to wait for low water and keep together as much as they can (I.3 ¶48). *(Drafted.)*
+    - quote: Séparons-nous le moins que nous pourrons
+  - At about ten o'clock on 25 March he crosses the channel with Pencroff and Harbert, clothes bundled on his head (I.3 ¶60). *(Drafted.)*
+    - quote: Gédéon Spilett et ses deux compagnons se dépouillèrent de leurs vêtements
+  - He goes off up the coast alone on Nab's track, impatient for news of the engineer (I.4 ¶1). *(Drafted.)*
+    - quote: tant il lui tardait d’avoir des nouvelles de l’ingénieur
+  - He and Nab searched the coast for more than eight miles and found no trace of the engineer (I.5 ¶42). *(Drafted.)*
+    - quote: Nab et lui avaient parcouru la côte sur un espace de plus de huit milles
+  - He eats the shellfish, lies down by a rock, exhausted but calm (I.5 ¶51). *(Drafted.)*
+    - quote: Il était exténué, mais calme.
+  - He says he had matches but must have thrown them all away (I.5 ¶57). *(Drafted.)*
+    - quote: J’en avais, mais j’ai dû tout jeter
+  - A single match is found in the lining of his waistcoat (I.5 ¶66). *(Drafted.)*
+    - quote: un petit morceau de bois engagé dans la doublure de son gilet
+  - He tears a leaf from his notebook for the fire (I.5 ¶73). *(Drafted.)*
+    - quote: déchira une feuille de son carnet
+  - He notes the day's incidents in summary before sleeping (I.5 ¶88). *(Drafted.)*
+    - quote: après avoir sommairement noté les incidents de ce jour
   - He is expected to contribute largely with head and hand to colonising the island (I.13 ¶5). *(Drafted.)*
     - quote: devait contribuer largement de la tête et de la main à la colonisation de l’île
   - He will turn hunting into a trade (I.13 ¶5). *(Drafted.)*
@@ -39,11 +93,17 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He offers Nemo his care, and is told it is useless (III.16 ¶36). *(Drafted.)*
     - quote: quand le reporter lui offrit ses soins
 - **Habits.**
+  - His notes are short, clear and neat, each one throwing light on an important point; he does not clog the wires with idle cables (I.2 ¶9). *(Drafted.)*
+    - quote: chacune de ses notes, courtes, nettes, claires, portait la lumière sur un point important
+  - He draws and describes the scene as it happens; at his capture he was making a description and sketch of the battle (I.2 ¶11). *(Drafted.)*
+    - quote: il était en train de faire la description et le croquis de la bataille
+  - He keeps a notebook in which he notes the day's events (I.5 ¶88). *(Drafted.)*
+    - quote: noté les incidents de ce jour
   - He hunts with bow and arrow for the camp's game (I.13 ¶36). *(Drafted.)*
     - quote: Le reporter et Harbert devinrent promptement de très-adroits tireurs d’arc
   - He is a hunter by passion (I.13 ¶5). *(Drafted.)*
     - quote: chasseur passionné
-- **Appears in:** I.13, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.13, III.16
 - **Open:**
   - His origin, age and newspaper are not stated in these chapters; the text calls him only a reporter of great talent (I.13 ¶5). *(Drafted.)*
     - quote: reporter de grand talent

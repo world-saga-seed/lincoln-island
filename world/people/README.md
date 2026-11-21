@@ -10,7 +10,9 @@ A card for every person named in the French, and every person the insert adds, e
 | [Cyrus Smith](cyrus-smith.md) | engineer, leader of the castaways |
 | [Gédéon Spilett](gedeon-spilett.md) | reporter, colonist |
 | [Harbert](harbert.md) | the boy among the colonists |
+| [Jonathan Forster](jonathan-forster.md) | Southern diehard who built the balloon |
 | [Nab](nab.md) | devoted colonist and cook |
 | [Pencroff](pencroff.md) | sailor and jack-of-all-trades |
 | [Tippo-Saïb](tippo-saib.md) | hero of India, Dakkar's uncle |
+| [Ulysse Grant](ulysse-grant.md) | Federal general besieging Richmond |
 <!-- /cards -->

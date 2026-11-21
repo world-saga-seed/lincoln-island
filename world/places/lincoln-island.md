@@ -9,6 +9,20 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: une terre assez élevée venait, en effet, d’apparaître dans cette direction
   - The party did not know whether it was an island or a continent (I.1 ¶58). *(Drafted.)*
     - quote: île ou continent
+  - The land is unknown, and its geographic situation could not even be guessed (I.3 ¶14). *(Drafted.)*
+    - quote: dont ils ne pouvaient même soupçonner la situation géographique
+  - The stars seen at midnight on 24 March were no longer those of the northern hemisphere: the pole star did not appear and the Southern Cross shone at the austral pole (I.3 ¶36). *(Drafted.)*
+    - quote: la Croix du Sud resplendissait alors au pôle austral du monde
+  - The land lies south of the equator, since the pole star is not seen (I.3 ¶36). *(My reading, to confirm.)*
+    - quote: la polaire n’apparaissait pas sur ce nouvel horizon
+  - It could not be said whether this land is an island or part of a continent (I.3 ¶55). *(Drafted.)*
+    - quote: si cette terre formait une île ou si elle appartenait à un continent
+  - Its rocks on the left of the coast are incontestably the product of plutonic work, volcanic in origin (I.3 ¶55). *(Drafted.)*
+    - quote: elles étaient incontestablement le produit d’un travail plutonien
+  - Asked by Pencroff whether they are on an island, Harbert answers that it would seem fairly vast (I.4 ¶49). *(Drafted.)*
+    - quote: elle semblerait être assez vaste
+  - Island or continent, it looks fertile, pleasant in its aspects and varied in its products (I.4 ¶51). *(Drafted.)*
+    - quote: elle paraissait fertile, agréable dans ses aspects, variée dans ses productions
   - The place is called Lincoln Island by I.13 (I.13 ¶32). *(Drafted.)*
     - quote: les cinq briquetiers de l’île Lincoln
   - Smith has established that this land is an island (I.13 ¶65). *(Drafted.)*
@@ -30,13 +44,17 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Or, il n’en était qu’à deux encablures
   - The balloon fell on the sand of the shore, beyond the reach of the waves (I.1 ¶61). *(My reading, to confirm.)*
     - quote: il retombait définitivement sur le sable du rivage, hors de la portée des lames
+  - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
+    - quote: peu effrayés de la présence de l’homme
+  - No inhabitant visits the part of the coast that Nab and Spilett walked (I.5 ¶42). *(Drafted.)*
+    - quote: aucun habitant ne fréquentait cette portion de la côte
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
   - Smith wants to know its distance from America, Australia and the main Pacific archipelagos (I.13 ¶65). *(Drafted.)*
     - quote: reconnaître à quelle distance elle est située, soit du continent américain, soit du continent australien, soit des principaux archipels du Pacifique
   - Smith's latitude and longitude workings were put off to the next day and are not given (I.13 ¶78). *(Drafted.)*
     - quote: Ces calculs furent remis au lendemain
-- **Appears in:** I.1, I.13, III.16
+- **Appears in:** I.1, I.3, I.4, I.5, I.13, III.16
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent

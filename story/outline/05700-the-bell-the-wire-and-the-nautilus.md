@@ -89,7 +89,7 @@
   - quote: À neuf heures quarante-sept
 - Lightning grows quicker and brighter and thunder rumbles; they go on as if driven by an irresistible force. *(Drafted.)*
   - quote: poussés en avant par quelque irrésistible force
-- At "a quarter past nine" a flash shows the palisade, and thunder breaks as they reach the gate. *(Drafted.)*
+- At "a quarter past nine" a flash shows the palisade, and thunder breaks as they reach the gate. *(Drafted.)* The French's own times disagree: they left at 9:12 and were at three miles at 9:47 (¶49), so "neuf heures un quart" (¶52) comes before them. *(Drafted.)*
   - quote: À neuf heures un quart, un vif éclair leur montrait l’enceinte palissadée
 
 ### 7. The empty house and the notice (III.15 ¶53–¶72)
@@ -175,7 +175,7 @@
   - quote: Nul bruit du dehors n’y pénétrait
 - The narrator lists other great caverns: Fingal's Cave on Staffa, the Morgat caves, Bonifacio, the Lyse-Fjord, Mammoth Cave in Kentucky, "five hundred feet high and more than twenty miles long". *(Drafted.)*
   - quote: haute de cinq cents pieds et longue de plus de vingt milles
-- Smith wonders if the cavern reaches the island's centre; for a quarter of an hour the boat makes windings that he directs; he orders "More to the right!" to check that the wire still follows the right wall, and finds it hooked on the rock. *(Drafted.)*
+- The narrator asks whether the cavern reaches the island's centre; for a quarter of an hour the boat makes windings that he directs; he orders "More to the right!" to check that the wire still follows the right wall, and finds it hooked on the rock. *(Drafted.)*
   - quote: Depuis un quart d’heure, le canot s’avançait en faisant des détours
   - quote: Le fil était là, accroché aux saillies du roc.
 - After another quarter of an hour, about half a mile from the opening, Smith says "Stop!" and they see a bright light lighting the whole crypt. *(Drafted.)*

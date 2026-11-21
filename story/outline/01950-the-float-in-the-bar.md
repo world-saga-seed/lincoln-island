@@ -89,15 +89,14 @@
 - *(Settled R1121-59.)* The joke: "The lines took nothing, and the sea took the pair of us."
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The joke answers Spilett, who asks what the sea has given them. Nab laughs and makes up the fire, the engineer smiles, and the two dry their clothes on their backs at the hearth, as sailors do.
 - *(Proposal.)* The joke is all they tell. It is true, and it is less than the whole.
-- *(Settled R1121-76.)* Pencroff still keeps it, because he means to go back at the next low water and bring something home himself to lay on the table, a surprise. The pride that keeps the secret is what lost it.
-- *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* What he hopes the sea may give back is the net, or some piece of what was on the bar.
+- *(Settled R1121-134, R1121-135.)* Before they climb, at the foot of the ladder, Harbert stops: "It was nothing, Pencroff. And no one need know that I took a ducking." He spares the sailor; that is his own reason. Pencroff looks at him and says nothing, and they go up. Pencroff's guilt is shown and never told: he does not laugh under the wall, and on 3 June he keeps the lad on his landward side. The fire paragraph of the final (R1121-130, -131) and the pride of R1121-76 are gone.
 
 ### 7. The smooth sand (3 June, mid-morning low water)
 
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The pretext is the lines once more; they go out by the lines, and the chapter ends as they go back across the sand to them.
 - *(Settled R1121-23, R1121-65.)* The bar has shifted. There is nothing to find, not even the net. *(Settled R1121-68.)* No one ever finds a piece of the glass.
 - *(Settled R1121-57.)* Pencroff, at the smooth sand: "Five of us and the picks, and we'd have had it."
-- *(Settled R1121-130.)* No answer from Harbert. Pencroff shakes himself, as Top does coming out of the water: "Bah! The sea has taken, and the sea will give us something else. She owes us that much, my boy." His hand on the lad's shoulder, they go back to the lines. The narrator does not look ahead (R1121-91).
+- *(Settled R1121-123, R1121-134.)* Harbert: "Yes," answered Herbert; "and it lay under our hands the whole time the sea was out." Then the sailor shakes himself, as Top does coming out of the water, and says to the lad: "Bah! The sea has taken, and the sea will give us something else." His hand on the lad's shoulder, they go back to the lines. The narrator does not look ahead (R1121-91).
 - *(Settled R1121-34.)* The grain of wheat later that month (I.20 ¶34) is the pair. The chapter does not point to it.
 
 ## Clues
@@ -107,4 +106,4 @@
 
 ## After
 
-- *(Settled R1121-79, R1121-130.)* Afterward the two never bring it up, with no pact between them, from shame at the hour lost. It is never spoken of indoors, through III.16, and the other three never learn of it. On 2 June the page gives what telling would mean (the bar, the hour let slip, the flood unwatched, the lad in the current, the rule broken) and names no shame; at the chest and after it says nothing (R1121-24).
+- *(Settled R1121-79, R1121-134, R1121-135.)* Afterward the two never bring it up, with no pact between them: Harbert to spare the sailor, Pencroff from what the day cost the boy. It is never spoken of indoors, through III.16, and the other three never learn of it. The page names no reason; at the chest and after it says nothing (R1121-24).

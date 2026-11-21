@@ -134,7 +134,11 @@ Then nothing.
 
 Pencroff looked at the bar. The float was gone from it. He looked again at the islet, and searched its rocks from one end to the other, and he saw only the spray. Neither of them spoke. They both knew that glass thrown upon those rocks by such a sea was in pieces. Where the bar had been there was only broken water, and the flood ran over it.
 
-Toward one o'clock the squall eased; the flood had long since covered the bar. The two companions went back for their shoes, and climbed the ladder, which streamed with water, and came into Granite House wet to the skin.
+Toward one o'clock the squall eased; the flood had long since covered the bar. The two companions went back for their shoes.
+
+At the foot of the ladder Herbert stopped. "It was nothing, Pencroff," said he. "And no one need know that I took a ducking."
+
+The sailor looked at him a moment, and said nothing; and they went up. The ladder streamed with water, and they came into Granite House wet to the skin.
 
 "Well, Pencroff," said the reporter, "what has the sea given you this morning?"
 

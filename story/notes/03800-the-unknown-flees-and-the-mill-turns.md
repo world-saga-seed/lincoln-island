@@ -9,7 +9,7 @@
 - **Places.** *(Drafted.)*
   - The plateau of Grande-Vue (¶2); the plateau's seaward side and the shore (¶21, ¶26, ¶34); the cascade and the Mercy's mouth (¶34).
   - The veranda of Granite-house (¶66); the forest's edge (¶73); the corral (¶79); the Chimneys (¶99).
-  - The mill's site, "un peu à droite de la basse-cour, près de la berge du lac" (¶85); the north of the lake for sandstone (¶84).
+  - The mill's site, "a little to the right of the poultry-yard, near the lake's bank" (¶85); the north of the lake for sandstone (¶84).
   - The lake's south shore (¶98); the Creek-Glycérine (¶103); the Reptile Promontory (recalled, ¶104).
 - **Things.** *(Drafted.)*
   - The farm tools and the spade (¶7, ¶11).
@@ -17,18 +17,18 @@
   - The beer-yeast loaf (¶94); the soda and soap (¶99); the unknown's knife (¶104).
   - The document and its bottle, discussed (¶51–¶63).
 - **Time.** *(Drafted unless marked.)*
-  - 3 November (¶11); "Pendant les jours qui suivirent" (¶65); 10 November, about eight in the evening (¶66); "Au 15 novembre" (¶80); the last fortnight of November (¶81); 1 December (¶87); next day at breakfast (¶94); 3 December (¶98).
-  - "Deux jours après cette scène" (¶3), where the scene is II.15 ¶93 on 30 October: so about 1 November. *(My reading, to confirm.)*
-  - Harbert's answers "Décembre" and "1866" (¶37, ¶39).
+  - 3 November (¶11); "During the days that followed" (¶65); 10 November, about eight in the evening (¶66); "On 15 November" (¶80); the last fortnight of November (¶81); 1 December (¶87); next day at breakfast (¶94); 3 December (¶98).
+  - "Two days after that scene" (¶3), where the scene is II.15 ¶93 on 30 October: so about 1 November. *(My reading, to confirm.)*
+  - Harbert's answers "December" and "1866" (¶37, ¶39).
   - The wheat has grown for eighteen months (¶80).
   - The chapter covers about five weeks. *(My reading, to confirm.)*
 - **Clues.** *(Drafted.)*
-  - "Non ! ici ! moi ! jamais !" (¶4); "Il a des secrets" (¶24).
+  - "No! here! me! never!" (¶4); "He has secrets" (¶24).
   - He is "Anglais" (¶33) and prefers that they are not English (¶31).
-  - "Douze ans !" (¶40).
+  - "Twelve years!" (¶40).
   - The document puzzle: recent look, perfect state, precise latitude and longitude, hydrographic knowledge a simple sailor lacks (¶57–¶63).
-  - His outburst: "si je n’ai pas volé, assassiné" (¶68).
-  - The ¶0 phrase "Les mains honnêtes !" and his refusal of the hand (¶122).
+  - His outburst: "if I have not stolen, murdered" (¶68).
+  - The ¶0 phrase "Honest hands!" and his refusal of the hand (¶122).
   - The unknown's strength: he kills a jaguar with a knife (¶105).
 - **Length.** 122 paragraphs (¶1–¶122); 3,685 words in the ¶ lines (¶0 excluded). 3 plate captions (pl1 to pl3). *(Drafted.)*
 
@@ -44,13 +44,13 @@
 - **Document recent versus old.** ¶57 and ¶63:
   - quote: le document semblait récemment écrit
   against ¶56 that it would have been written years ago. II.17 ¶98 has Ayrton deny writing any document. Card neither. *(Drafted.)*
-- **English.** ¶33 "Anglais", II.17 ¶54 "Un Écossais comme vous". Card neither. *(Drafted.)*
+- **English.** ¶33 "Anglais", II.17 ¶54 "A Scot like you". Card neither. *(Drafted.)*
 - **Mill rule.** ¶92:
   - quote: le nombre de tours parcourus par les ailes en une minute est sextuple du nombre de pieds parcourus par le vent en une seconde
   followed by twenty-four feet per second giving sixteen turns:
   - quote: Avec une brise moyenne, qui donne vingt-quatre pieds à la seconde
   Six times twenty-four is not sixteen. Card neither. *(My reading, to confirm.)*
-- **The harvest figures.** ¶80: six hundred thousand grains give four thousand bushels, "plus de cinq cents millions de grains". The earlier crop is not in the chapters given to me, so the first harvest's size is not checked. *(My reading, to confirm.)*
-- **The mill's first grinding date.** ¶94 puts the grinding on "ce jour-là" (1 December) and the loaf "le lendemain". *(Drafted.)*
+- **The harvest figures.** ¶80: six hundred thousand grains give four thousand bushels, "more than five hundred million grains". The earlier crop is not in the chapters given to me, so the first harvest's size is not checked. *(My reading, to confirm.)*
+- **The mill's first grinding date.** ¶94 puts the grinding on "that day" (1 December) and the loaf "the next day". *(Drafted.)*
 - **The summary of II.15.** Its ¶0 lists the harvest, the mill and the bread, which are in this chapter; see the notes of 03700. *(My reading, to confirm.)*
 - **Wikisource corrections.** None touches this chapter. *(Drafted.)*

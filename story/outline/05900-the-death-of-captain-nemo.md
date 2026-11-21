@@ -12,7 +12,7 @@
   - quote: il avait manifesté sa volonté de rester au milieu de ces merveilles du Nautilus
 - During a long prostration Smith and Spilett watch; he is fading, all life gathered in the heart and head; he himself said no remedy exists and he awaits death without fear. *(Drafted.)*
   - quote: Toute la vie était concentrée au cœur et à la tête.
-- Spilett says "Nous ne pouvons rien"; Pencroff asks what he is dying of ("Il s'éteint") and if the open air and sun might revive him; Smith says nothing is to be tried: he has lived thirty years on the Nautilus and wishes to die on it. *(Drafted.)*
+- Spilett says "We can do nothing"; Pencroff asks what he is dying of ("He is dying") and if the open air and sun might revive him; Smith says nothing is to be tried: he has lived thirty years on the Nautilus and wishes to die on it. *(Drafted.)*
   - quote: Il y a trente ans qu’il vit sur le Nautilus
   - quote: c’est sur le Nautilus qu’il veut mourir
 
@@ -31,7 +31,7 @@
 
 ### 3. The promise; "demain, je serai mort" (III.17 ¶17–¶28)
 
-- After some minutes Nemo asks if they think they owe him gratitude; "nous donnerions notre vie pour prolonger la vôtre". He asks them to promise to carry out his last wishes and he will be paid for all; Smith promises for himself and his companions. *(Drafted.)*
+- After some minutes Nemo asks if they think they owe him gratitude; "we would give our lives to prolong yours". He asks them to promise to carry out his last wishes and he will be paid for all; Smith promises for himself and his companions. *(Drafted.)*
   - quote: Promettez-moi d’exécuter mes dernières volontés
   - quote: Et, par cette promesse, il engageait ses compagnons et lui.
 - He says he will be dead the next day, stops Harbert from protesting, and wants no tomb other than the Nautilus, his coffin; all his friends lie at the bottom of the sea and he will too. *(Drafted.)*
@@ -45,7 +45,7 @@
   - quote: une collection de perles recueillies par mes amis et moi au fond des mers
   - quote: « Ce coffret… là… renferme pour plusieurs millions… »
   - at: III.17 pl2
-- With the treasure they can do good things "à un jour donné"; in hands like theirs money is no danger; he will be "de là-haut" associated with their works and does not fear them. *(Drafted.)*
+- With the treasure they can do good things "at a fixed day"; in hands like theirs money is no danger; he will be "from up there" associated with their works and does not fear them. *(Drafted.)*
   - quote: à un jour donné, de bonnes choses
   - quote: l’argent ne saurait être un péril
 
@@ -56,10 +56,10 @@
 - They are then to embark in the boat that brought them; before leaving they are to go aft and open two large taps on the waterline; water will enter the tanks and the Nautilus sink slowly to rest at the bottom of the abyss. *(Drafted.)*
   - quote: ouvrez deux larges robinets qui se trouvent sur la ligne de flottaison
   - quote: L’eau pénétrera dans les réservoirs
-- He tells Smith, by a gesture, not to fear: "Vous n’ensevelirez qu’un mort !" None of them thinks to object; Nemo asks "J'ai votre promesse ?" and Smith answers he has it. *(Drafted.)*
+- He tells Smith, by a gesture, not to fear: "You will bury only one dead man!" None of them thinks to object; Nemo asks "I have your promise?" and Smith answers he has it. *(Drafted.)*
   - quote: « Ne craignez rien ! Vous n’ensevelirez qu’un mort ! »
   - quote: Vous l’avez, capitaine, » répondit l’ingénieur.
-- Nemo asks to be left alone for some hours; Spilett insists on staying in case of a crisis, but he refuses: "Je vivrai jusqu’à demain, monsieur !" *(Drafted.)*
+- Nemo asks to be left alone for some hours; Spilett insists on staying in case of a crisis, but he refuses: "I shall live until tomorrow, sir!" *(Drafted.)*
   - quote: pria les colons de le laisser seul pendant quelques heures
   - quote: « Je vivrai jusqu’à demain, monsieur !
 
@@ -75,7 +75,7 @@
   - quote: que ce protecteur qu’ils auraient connu quelques heures à peine
 - Pencroff marvels that such a man lived on the bottom of the sea and found perhaps no more peace than elsewhere. *(Drafted.)*
   - quote: Voilà un homme ! dit Pencroff.
-- Ayrton says the Nautilus could perhaps take them from the island; Pencroff would never steer such a boat ("Courir sur les mers, bien ! mais sous les mers, non !"); Spilett thinks it would be easy to handle, with no storms or collisions; Pencroff prefers "un bon coup de vent à bord d’un navire bien gréé". *(Drafted.)*
+- Ayrton says the Nautilus could perhaps take them from the island; Pencroff would never steer such a boat ("Run on the seas, fine! But under the seas, no!"); Spilett thinks it would be easy to handle, with no storms or collisions; Pencroff prefers "a good gale aboard a well-rigged ship". *(Drafted.)*
   - quote: aurait peut-être pu nous servir à quitter l’île Lincoln
   - quote: Un bateau est fait pour aller sur l’eau et non dessous.
 - Smith ends the talk: the Nautilus is not theirs to dispose of, it can no longer leave the cavern since the entrance is closed by a rise of the basalt, and Nemo wants it to sink with him. *(Drafted.)*
@@ -87,22 +87,22 @@
 - After a longer conversation they go down inside the Nautilus, eat something and return to the salon; Nemo is out of his prostration, eyes bright, and a smile on his lips. *(Drafted.)*
   - quote: Là, ils prirent quelque nourriture et rentrèrent dans le salon.
   - quote: ses yeux avaient repris leur éclat
-- He tells them they are brave, honest and good men, devoted to the common work, whom he has often watched: "Je vous ai aimés, je vous aime !" and takes Smith's hand. *(Drafted.)*
+- He tells them they are brave, honest and good men, devoted to the common work, whom he has often watched: "I have loved you, I love you!" and takes Smith's hand. *(Drafted.)*
   - quote: Je vous ai aimés, je vous aime !…
-- He asks whether they mean to leave the island; Pencroff: "Pour y revenir, capitaine !" Nemo says he knows how they love the island, changed by their care. *(Drafted.)*
+- He asks whether they mean to leave the island; Pencroff: "To come back to it, Captain!" Nemo says he knows how they love the island, changed by their care. *(Drafted.)*
   - quote: Pour y revenir, capitaine ! répondit vivement Pencroff.
-- Smith says their plan would be to endow the United States with it and to found a naval station well placed in that part of the Pacific; Nemo says they are right to think of their country: "La patrie !… c’est là qu’il faut retourner ! C’est là que l’on doit mourir !" *(Drafted.)*
+- Smith says their plan would be to endow the United States with it and to found a naval station well placed in that part of the Pacific; Nemo says they are right to think of their country: "Our country!… There we must return! There one must die!" *(Drafted.)*
   - quote: d’y fonder pour notre marine une relâche
   - quote: Et moi, je meurs loin de tout ce que j’ai aimé !
 - Smith asks if he has a last wish or a keepsake for friends in the mountains of India; Nemo answers he has no friends, is the last of his race, long dead to all he knew. *(Drafted.)*
   - quote: Je suis le dernier de ma race
-- He says solitude is beyond human strength, "Je meurs d’avoir cru que l’on pouvait vivre seul !…", and that they must try to leave Lincoln Island and see their native soil; he knows the convicts destroyed their boat. *(Drafted.)*
+- He says solitude is beyond human strength, "I am dying of having believed one could live alone!…", and that they must try to leave Lincoln Island and see their native soil; he knows the convicts destroyed their boat. *(Drafted.)*
   - quote: Je meurs d’avoir cru que l’on pouvait vivre seul !…
   - quote: ces misérables ont détruit l’embarcation que vous aviez faite
 - Spilett says they are building a ship big enough to reach the nearest lands, and will return; Smith says they will have known Nemo here; Harbert says only here will they find his memory whole. *(Drafted.)*
   - quote: Nous construisons un navire
   - quote: Ce n’est qu’ici que nous retrouverons votre souvenir tout entier
-- Nemo says "Et c’est ici que je reposerai dans l’éternel sommeil, si…" and breaks off; he asks to speak to Smith alone. *(Drafted.)*
+- Nemo says "And it is here that I shall rest in eternal sleep, if…" and breaks off; he asks to speak to Smith alone. *(Drafted.)*
   - quote: Il hésita, et, au lieu d’achever sa phrase
   - quote: « Monsieur Smith, je voudrais vous parler… à vous seul !
 - Smith stays a few minutes alone with him, recalls the others, and tells them nothing of the secret matters the dying man wished to confide. *(Drafted.)*
@@ -119,14 +119,14 @@
 - A little after midnight he makes a last movement and crosses his arms on his chest. *(Drafted.)*
   - quote: un peu après minuit
   - quote: croiser ses bras sur sa poitrine
-- About one in the morning all his life is gathered in his gaze; a last fire shines, and murmuring "Dieu et patrie !" he dies gently. *(Drafted.)*
+- About one in the morning all his life is gathered in his gaze; a last fire shines, and murmuring "God and country!" he dies gently. *(Drafted.)*
   - quote: Vers une heure du matin
   - quote: Dieu et patrie ! » il expira doucement
 - Smith closes the eyes of him who had been Prince Dakkar and was no longer even Captain Nemo. *(Drafted.)*
   - quote: ferma les yeux de celui qui avait été le prince Dakkar
-- Harbert and Pencroff weep, Ayrton wipes away a furtive tear, Nab kneels near the reporter "changé en statue". *(Drafted.)*
+- Harbert and Pencroff weep, Ayrton wipes away a furtive tear, Nab kneels near the reporter "turned to a statue". *(Drafted.)*
   - quote: Nab était à genoux près du reporter, changé en statue
-- Smith raises a hand over the dead man's head: "Que Dieu ait son âme !", then "Prions pour celui que nous avons perdu !" A row of dots follows. *(Drafted.)*
+- Smith raises a hand over the dead man's head: "May God have his soul!", then "Let us pray for him whom we have lost!" A row of dots follows. *(Drafted.)*
   - quote: « Que Dieu ait son âme ! » dit-il
   - quote: « Prions pour celui que nous avons perdu ! »
   - quote: . . . . . . . . . . . . . . . . . . . . . . . . .

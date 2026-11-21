@@ -26,10 +26,10 @@
   - quote: Il s’agissait donc de bâtir un four pour l’utiliser.
   - quote: À fabriquer la poterie dont nous avons besoin
   - quote: nous établirons notre atelier au lieu même de production
-- The reporter asks what if food runs short for want of hunting tools; Pencroff says that with just a knife he would soon make a bow and arrows. Cyrus, half to himself, repeats "un couteau, une lame tranchante". *(Drafted.)*
+- The reporter asks what if food runs short for want of hunting tools; Pencroff says that with just a knife he would soon make a bow and arrows. Cyrus, half to himself, repeats "a knife, a sharp blade". *(Drafted.)*
   - quote: Ah ! si nous avions seulement un couteau !
   - quote: comme s’il se fût parlé à lui-même
-- His gaze falls on Top on the shore, and brightens. He calls the dog, takes his head in his hands, unfastens the collar and breaks it in two: "Voilà deux couteaux, Pencroff !" *(Drafted.)*
+- His gaze falls on Top on the shore, and brightens. He calls the dog, takes his head in his hands, unfastens the collar and breaks it in two: "Here are two knives, Pencroff!" *(Drafted.)*
   - quote: il le rompit en deux parties
   - quote: Voilà deux couteaux, Pencroff !
 - The collar was a thin blade of tempered steel; ground on sandstone (found in abundance on the beach) and finished on a finer stone, it gave in two hours two blades, easily fitted to solid handles. The first tool is hailed as a triumph. *(Drafted.)*
@@ -84,7 +84,7 @@
 - Game abounds at the Chimneys: capybaras, pigeons, agoutis, grouse. Most is killed in the part of the forest on the Mercy's left bank, now named the Jacamar Wood, after the bird Pencroff and Harbert chased on their first exploration. *(Drafted.)*
   - quote: cabiais, pigeons, agoutis, coqs de bruyère
   - quote: à laquelle on donna le nom de bois du Jacamar
-- Game is eaten fresh; capybara hams are smoked over a green-wood fire with aromatic leaves. It is "rôtis sur rôtis" and they long for a pot-au-feu, which needs a pot, and so a kiln. *(Drafted.)*
+- Game is eaten fresh; capybara hams are smoked over a green-wood fire with aromatic leaves. It is "roast after roast" and they long for a pot-au-feu, which needs a pot, and so a kiln. *(Drafted.)*
   - quote: on conserva les jambons de cabiai
   - quote: c’était toujours rôtis sur rôtis
 - On these excursions, within a small radius of the brickworks, the hunters see recent traces of large animals with powerful claws, species unknown. Cyrus warns them to be most careful. One day the reporter and Harbert see an animal like a jaguar, which does not attack. The reporter vows war on wild beasts once he has a real gun. *(Drafted.)*
@@ -120,12 +120,12 @@
   - quote: vers l’embouchure du Creek-Rouge
   - quote: une cheminée haute d’une vingtaine de pieds
   - quote: La clairière était transformée en usine
-- The pottery is common but fit for cooking. Its clay has a little lime and quartz added, so it is true "terre de pipe"; pots, cups moulded on pebbles, plates, big jars and tubs for water. The shapes are clumsy, but the Chimneys' kitchen now has utensils. The plate: "Les colons fabriquèrent une poterie commune." *(Drafted.)*
+- The pottery is common but fit for cooking. Its clay has a little lime and quartz added, so it is true "pipe-clay"; pots, cups moulded on pebbles, plates, big jars and tubs for water. The shapes are clumsy, but the Chimneys' kitchen now has utensils. The plate: "The colonists made common pottery." *(Drafted.)*
   - quote: un peu de chaux et du quartz
   - quote: des pots, des tasses qui avaient été moulées sur des galets de formes convenables
   - quote: Les colons fabriquèrent une poterie commune.
   - at: I.13 pl2
-- Pencroff makes himself some rough clay pipes, which he finds charming but which lack tobacco. "Mais le tabac viendra, comme toutes choses !" *(Drafted.)*
+- Pencroff makes himself some rough clay pipes, which he finds charming but which lack tobacco. "But tobacco will come, like everything else!" *(Drafted.)*
   - quote: se fabriqua quelques pipes assez grossières
   - quote: Mais le tabac viendra, comme toutes choses !
 - The work lasts until 15 April; the colonists, now potters, do nothing else. The next day is Sunday, and Easter Sunday, and all agree to keep it by rest: these Americans are religious men, careful of the Bible's precepts. *(Drafted.)*
@@ -139,7 +139,7 @@
   - quote: Le soir du 15 avril, on revint donc définitivement aux Cheminées.
   - quote: la découverte que fit l’ingénieur d’une substance propre à remplacer l’amadou
   - quote: une certaine plante appartenant au genre armoise
-- He gives it to Pencroff: "voilà qui vous fera plaisir". Pencroff, seeing silky hair and downy leaves, asks if it is tobacco; Cyrus says no, it is the Chinese armoise and for them tinder. *(Drafted.)*
+- He gives it to Pencroff: "there, that will please you". Pencroff, seeing silky hair and downy leaves, asks if it is tobacco; Cyrus says no, it is the Chinese armoise and for them tinder. *(Drafted.)*
   - quote: voilà qui vous fera plaisir
   - quote: Bonté du ciel ! Est-ce du tabac ?
   - quote: ce sera de l’amadou

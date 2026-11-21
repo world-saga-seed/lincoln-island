@@ -17,7 +17,7 @@
   - Specimens: wild spinach, cress, horseradish, radishes, mustard, ¶13–¶16; two pairs of live tinamous, ¶22; a jacamar and a dozen touracos-loris, ¶28. *(Drafted.)*
   - Useful trees named: elms, hackberries, lardizabalas (cordage), ebony, ¶12; eucalyptus, ¶35–¶36. *(Drafted.)*
 - **Time.**
-  - 30 October (¶1); start at six in the morning (¶8); flood began half an hour before (¶9); moon full "trois jours après" (¶9), so on 2 November by my count. *(My reading, to confirm.)*
+  - 30 October (¶1); start at six in the morning (¶8); flood began half an hour before (¶9); moon full "three days after" (¶9), so on 2 November by my count. *(My reading, to confirm.)*
   - "Sept mois auparavant" for Pencroff's first raft (¶10). *(Drafted.)*
   - Halt at ten o'clock, about five miles from the mouth, for half an hour (¶29). *(Drafted.)*
   - Flood fails, later in the morning (¶32); about four o'clock the river becomes very hard to navigate (¶60); about five o'clock the falls (¶70). *(Drafted.)*
@@ -25,18 +25,18 @@
   - Cyrus Smith had assigned three days at most to the exploration (¶4); the plan is for the coast on the 31st (¶66). *(Drafted.)*
   - The chapter covers one day, about eleven hours, and the night. *(My reading, to confirm.)*
 - **Clues.**
-  - Cyrus Smith, "toujours absorbé dans ses réflexions", ¶20; see also II.2 ¶16. *(Drafted.)*
-  - No trace of man in the forest: "Les explorateurs ne purent trouver une trace suspecte", ¶30. *(Drafted.)*
-  - Roars at nightfall and shadows around the camp, ¶72 ("quelques rugissements de nature suspecte"). *(Drafted.)*
-  - Monkeys unafraid of men, "voyant des hommes pour la première fois", ¶58. *(Drafted.)*
+  - Cyrus Smith, "always absorbed in his thoughts", ¶20; see also II.2 ¶16. *(Drafted.)*
+  - No trace of man in the forest: "The explorers could find no suspicious trace", ¶30. *(Drafted.)*
+  - Roars at nightfall and shadows around the camp, ¶72 ("a few roars of suspicious nature"). *(Drafted.)*
+  - Monkeys unafraid of men, "seeing men for the first time", ¶58. *(Drafted.)*
   - Tobacco is talked of, and a promise that it will be found one day, ¶15–¶19. *(Drafted.)*
-  - The Mercy "remontait au nord-ouest" toward Mount Franklin's foothills, ¶21, ¶60; the estimates of distance, ¶31, ¶57, ¶64. *(Drafted.)*
+  - The Mercy "ran north-west" toward Mount Franklin's foothills, ¶21, ¶60; the estimates of distance, ¶31, ¶57, ¶64. *(Drafted.)*
 - **Length.** 72 paragraphs (¶1 to ¶72); 3,373 words, counting the ¶ lines without their markers. Three plate captions: pl1 after ¶13, pl2 after ¶29, pl3 after ¶58; they repeat lines of the text. *(Drafted.)*
 
 ## Open and flags
-- Date of the moon: ¶9 "la lune devait être pleine trois jours après", said on 30 October, works out to 2 November. Chapter 02700 ¶4 names "cette journée du 2 novembre" for the day after the night at the Reptile promontory. See the notes for 02600 and 02700 for that discord. *(My reading, to confirm.)*
-- Distances to the west coast: ¶31 "distante, suivant son estime, de cinq milles au moins" (at the second elbow); ¶57 "encore à cinq ou six milles de la côte" (some two miles on); ¶64 "À sept milles à peu près" from Granite-house. Chapter 02600 ¶1–¶2 gives two hours' march and Mount Franklin "à une distance de moins de trois milles". The text itself later notes they were farther than they thought (02600 ¶29). Card neither version. *(My reading, to confirm.)*
-- The two Cyrus Smith forecasts for the next stage: "nous franchirons en deux heures" (¶66); see 02600 ¶1, which gives 6 a.m. start, and ¶31, which gives 10:30 a.m. arrival at the sea. *(Drafted.)*
-- Which gun killed the jacamar: ¶24 "on peut dire que son coup partit malgré lui" (Pencroff's shot), ¶28 "Au jeune garçon revint l’honneur de ce beau coup de fusil" (Harbert's). The text does not say whether both fired. *(My reading, to confirm.)*
-- ¶26 "Le volatile qui nous a échappé à notre première excursion et dont nous avons donné le nom à cette partie de la forêt" refers to an earlier chapter that was not read here. *(My reading, to confirm.)*
+- Date of the moon: ¶9 "the moon was to be full three days later", said on 30 October, works out to 2 November. Chapter 02700 ¶4 names "that day, 2 November" for the day after the night at the Reptile promontory. See the notes for 02600 and 02700 for that discord. *(My reading, to confirm.)*
+- Distances to the west coast: ¶31 "distant, by his reckoning, at least five miles" (at the second elbow); ¶57 "still five or six miles from the coast" (some two miles on); ¶64 "About seven miles" from Granite-house. Chapter 02600 ¶1–¶2 gives two hours' march and Mount Franklin "at a distance of less than three miles". The text itself later notes they were farther than they thought (02600 ¶29). Card neither version. *(My reading, to confirm.)*
+- The two Cyrus Smith forecasts for the next stage: "we shall cover it in two hours" (¶66); see 02600 ¶1, which gives 6 a.m. start, and ¶31, which gives 10:30 a.m. arrival at the sea. *(Drafted.)*
+- Which gun killed the jacamar: ¶24 "it may be said that his shot went off against his will" (Pencroff's shot), ¶28 "The honour of that fine shot went to the young boy" (Harbert's). The text does not say whether both fired. *(My reading, to confirm.)*
+- ¶26 "The bird that escaped us on our first excursion and whose name we gave to that part of the forest" refers to an earlier chapter that was not read here. *(My reading, to confirm.)*
 - No Wikisource correction touches this chapter. *(Drafted.)*

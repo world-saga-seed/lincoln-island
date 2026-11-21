@@ -78,7 +78,7 @@
 - Pencroff mixes the juice of the tetras flesh he carried with the water; Harbert fetches two large bivalve shells; the sailor makes a mixture and puts it between the engineer's lips. *(Drafted.)*
   - quote: deux grandes coquilles de bivalves
 
-### 5. His eyes open: "Île ou continent ?" (I.8 ¶40–¶46)
+### 5. His eyes open: "Island or continent?" (I.8 ¶40–¶46)
 
 - His eyes open; he recognises Nab, Spilett, Harbert and the sailor and presses their hands. *(Drafted.)*
   - quote: Il reconnut Nab et Spilett
@@ -123,7 +123,7 @@
 - Cyrus recalls what he can: a wave tore him from the balloon's net; he went down some fathoms; Top, who had jumped after him, was beside him; the balloon, lightened, shot away. *(Drafted.)*
   - quote: Le coup de mer l’avait arraché du filet de l’aérostat
   - quote: Top, qui s’était précipité à son secours
-- He judged himself at least half a mile from the coast; a current "de foudre" pushed him north, and after half an hour of effort he sank with Top; he remembers nothing after that until he woke among his friends. *(Drafted.)*
+- He judged himself at least half a mile from the coast; a current "like lightning" pushed him north, and after half an hour of effort he sank with Top; he remembers nothing after that until he woke among his friends. *(Drafted.)*
   - quote: un courant de foudre le saisit, le poussa vers le nord
   - quote: il coula, entraînant Top avec lui dans l’abîme
   - quote: il n’avait plus souvenir de rien

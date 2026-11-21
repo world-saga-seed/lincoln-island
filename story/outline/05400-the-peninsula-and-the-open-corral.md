@@ -29,7 +29,7 @@
 - Pencroff wants to go straight to the corral; Cyrus Smith says the search had a double aim: to punish the crime and to find the one to whom thanks are due. *(Drafted.)*
   - quote: Notre exploration a un double but, Pencroff
   - quote: nous avons un acte de reconnaissance à accomplir
-- Pencroff says they will find "ce gentleman" only if he wishes, and narrator adds that all think so. *(Drafted.)*
+- Pencroff says they will find "this gentleman" only if he wishes, and narrator adds that all think so. *(Drafted.)*
   - quote: nous ne trouverons ce gentleman que s’il le veut bien
   - quote: la retraite de l’inconnu ne devait pas être moins mystérieuse qu’il ne l’était lui-même
 

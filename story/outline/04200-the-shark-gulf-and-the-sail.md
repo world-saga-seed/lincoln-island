@@ -61,7 +61,7 @@
 
 ### 4. Back to Granite-house (II.20 ¶27–¶31)
 
-- Nab sighs "Ouf !" on leaving; he did not feel easy in the huge jaw. *(Drafted.)*
+- Nab sighs "Phew!" on leaving; he did not feel easy in the huge jaw. *(Drafted.)*
   - quote: « Ouf ! » fit Nab
 - From Mandible Cape to the Mercy mouth is about eight miles. The boat runs along the coast a mile off, past the lava rocks and then the dunes where the engineer was so strangely found. *(Drafted.)*
   - quote: une huitaine de milles
@@ -175,7 +175,7 @@
 - He thinks it a flaw in the glass, then looks at it with a strong lens unscrewed from one of the telescopes. He cries out and nearly drops the plate. *(Drafted.)*
   - quote: C’est un défaut qui se trouve dans le verre
   - quote: une forte lentille qu’il dévissa de l’une des lunettes
-- He runs to Smith with plate and lens and points to the spot. Smith looks, takes his telescope to the window, sweeps the horizon, stops on the point and says only "Navire !". *(Drafted.)*
+- He runs to Smith with plate and lens and points to the spot. Smith looks, takes his telescope to the window, sweeps the horizon, stops on the point and says only "A ship!". *(Drafted.)*
   - quote: il tendit le cliché et la lentille à l’ingénieur
   - quote: « Navire ! »
 - A ship is in sight of Lincoln Island. The part ends. *(Drafted.)*

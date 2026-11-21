@@ -54,7 +54,7 @@
 - They are alone; Cyrus Smith has not been found. Spilett sits on a rock, exhausted and starving; Nab's eyes show he has wept. Plate I.5 pl1 (after ¶40): the reporter sat on a rock without a word. *(Drafted.)*
   - quote: L’ingénieur Cyrus Smith n’avait pu être retrouvé !
   - quote: Le reporter s’assit sur une roche, sans mot dire.
-- Spilett's account: he and Nab covered the coast over more than eight miles, well past the point of the "avant-dernière chute du ballon" where the engineer and Top vanished. No trace, no footprint, no one frequents that stretch of coast; the sea was as empty as the shore, and the engineer's tomb must be a few hundred feet out. *(Drafted.)*
+- Spilett's account: he and Nab covered the coast over more than eight miles, well past the point of the "penultimate fall of the balloon" where the engineer and Top vanished. No trace, no footprint, no one frequents that stretch of coast; the sea was as empty as the shore, and the engineer's tomb must be a few hundred feet out. *(Drafted.)*
   - quote: sur un espace de plus de huit milles
   - quote: chute qui avait été suivie de la disparition de l’ingénieur et du chien Top
   - quote: Il était évident qu’aucun habitant ne fréquentait cette portion de la côte.

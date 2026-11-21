@@ -102,7 +102,7 @@
   - quote: l’archipel des Pomotou
   - quote: plus de douze cents milles
   - quote: Par là, rien
-- The reporter asks, if the island is only two or three hundred miles from New Zealand or Chile; Cyrus: instead of a house they will make a boat, with Pencroff to handle it, and Pencroff is ready to be captain once the engineer finds a way to build one fit for the sea. Cyrus: "Nous le ferons, si cela est nécessaire !" *(Drafted.)*
+- The reporter asks, if the island is only two or three hundred miles from New Zealand or Chile; Cyrus: instead of a house they will make a boat, with Pencroff to handle it, and Pencroff is ready to be captain once the engineer finds a way to build one fit for the sea. Cyrus: "We will do it, if it is necessary!" *(Drafted.)*
   - quote: nous ferons un bateau, et maître Pencroff se chargera de le manœuvrer
   - quote: Nous le ferons, si cela est nécessaire !
 
@@ -110,7 +110,7 @@
 
 - The narrator says that while these men, who doubted nothing, talked, the hour approached; Harbert cannot guess how Cyrus will find the sun's passage over the meridian with no instrument. *(Drafted.)*
   - quote: Comment s’y prendrait Cyrus Smith pour constater le passage du soleil au méridien de l’île, sans aucun instrument ?
-- They are six miles from the Chimneys, not far from the part of the dunes where the engineer had been found after his "énigmatique sauvetage". They halt there and prepare lunch, for it is half past eleven; Harbert fetches fresh water from a brook nearby in a jug Nab had brought. *(Drafted.)*
+- They are six miles from the Chimneys, not far from the part of the dunes where the engineer had been found after his "enigmatic rescue". They halt there and prepare lunch, for it is half past eleven; Harbert fetches fresh water from a brook nearby in a jug Nab had brought. *(Drafted.)*
   - quote: à une distance de six milles des Cheminées
   - quote: après son énigmatique sauvetage
   - quote: car il était onze heures et demie
@@ -127,7 +127,7 @@
   - quote: jour auquel le temps vrai et le temps moyen se confondent
   - quote: Cependant, le soleil s’avançait lentement.
   - at: I.14 pl3
-- When the shadow seems to begin to grow, Cyrus asks the time: "Cinq heures et une minute". In round numbers, five hours between the Washington and the island meridians: it was noon at Lincoln Island when it was five in the evening at Washington. The sun travels fifteen degrees an hour: five times fifteen is seventy-five. *(Drafted.)*
+- When the shadow seems to begin to grow, Cyrus asks the time: "Five o'clock and one minute". In round numbers, five hours between the Washington and the island meridians: it was noon at Lincoln Island when it was five in the evening at Washington. The sun travels fifteen degrees an hour: five times fifteen is seventy-five. *(Drafted.)*
   - quote: Cinq heures et une minute
   - quote: il était midi à l’île Lincoln, quand il était déjà cinq heures du soir à Washington
   - quote: Quinze degrés multipliés par cinq heures donnaient soixante-quinze degrés.

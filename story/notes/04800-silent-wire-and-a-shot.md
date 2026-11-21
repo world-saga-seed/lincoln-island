@@ -10,17 +10,17 @@
 - **Length.** 93 paragraphs (¶1–¶93, plus the summary ¶0); 3,205 words in the ¶ lines. *(Drafted.)*
 
 ## Open and flags
-- The days of the wait do not add up. ¶2 puts the start "d’une semaine, c’est-à-dire au 20 novembre", which makes the decision about 13 November, and ¶3 has "neuf jours qui allaient précéder le départ", which counts from 11 November. Ayrton, though, leaves on the 9th (¶7). Both lines are in the text; neither is chosen. *(Drafted.)*
+- The days of the wait do not add up. ¶2 puts the start "a week, that is to say to 20 November", which makes the decision about 13 November, and ¶3 has "the nine days that were to precede the departure", which counts from 11 November. Ayrton, though, leaves on the 9th (¶7). Both lines are in the text; neither is chosen. *(Drafted.)*
   - quote: remettre le départ d’une semaine, c’est-à-dire au 20 novembre
   - quote: Pendant les neuf jours qui allaient précéder le départ
   - quote: Ayrton partit donc le 9 dès l’aube
-- "Deux jours" at the corral: ¶4 says Ayrton "y passerait deux jours"; ¶54 has "il avait été décidé que le 10 au soir, ou le 11 au plus tard, dès le matin, il serait de retour". ¶86 then says he "avait promis de revenir la veille au soir". Consistent only if "the evening before" means the 10th. *(My reading, to confirm.)*
+- "Deux jours" at the corral: ¶4 says Ayrton "would spend two days there"; ¶54 has "it had been decided that he would be back on the evening of the 10th, or on the 11th at the latest, first thing in the morning". ¶86 then says he "avait promis de revenir la veille au soir". Consistent only if "the evening before" means the 10th. *(My reading, to confirm.)*
   - quote: il avait été décidé que le 10 au soir, ou le 11 au plus tard, dès le matin, il serait de retour
   - quote: Ayrton, qui avait promis de revenir la veille au soir, n’avait pas reparu
-- The reason the line failed is not yet told here: the summary line ¶0 says "Pourquoi le fil ne fonctionne plus" and ¶78 gives it as a pole pulled down by a man's hand. *(Drafted.)*
+- The reason the line failed is not yet told here: the summary line ¶0 says "Why the wire no longer works" and ¶78 gives it as a pole pulled down by a man's hand. *(Drafted.)*
   - quote: il a été déraciné de main d’homme
 - ¶86 reads "mas" where the sense is "mais"; a printer's slip kept in the text. *(Drafted.)*
   - quote: ce n’était pas là la raison qui devait inquiéter ses compagnons, mas, circonstance plus inexplicable
-- The distances: the road to the corral is five miles by III.9 ¶84; here ¶75 "deux milles environ" to the break and ¶85 "mi-chemin ... deux milles et demi" are consistent with that. *(My reading, to confirm.)*
+- The distances: the road to the corral is five miles by III.9 ¶84; here ¶75 "about two miles" to the break and ¶85 "halfway ... two and a half miles" are consistent with that. *(My reading, to confirm.)*
   - quote: Il leur restait donc encore deux milles et demi à franchir
 - No Wikisource correction touches this chapter's facts (texts/README.md lists only I.12, II.20 and III.10). *(Drafted.)*

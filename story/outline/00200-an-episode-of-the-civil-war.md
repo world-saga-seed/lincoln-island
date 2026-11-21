@@ -42,7 +42,7 @@
 - The same day another important man is taken by the Southerners: Gédéon Spilett, reporter of the New York Herald, sent to follow the war with the armies of the North. *(Drafted.)*
   - quote: l’honorable Gédéon Spilett
   - quote: qui avait été chargé de suivre les péripéties de la guerre au milieu des armées du Nord
-- He is of the breed of English and American chroniclers, "des Stanley et autres", who stop at nothing for exact news. *(Drafted.)*
+- He is of the breed of English and American chroniclers, "of the Stanleys and others", who stop at nothing for exact news. *(Drafted.)*
   - quote: des Stanley et autres
 - He too was at every battle, revolver in one hand and notebook in the other; after the Black River he held his place at the telegraph window by sending the first chapters of the Bible for two hours, at a cost of two thousand dollars to the Herald. *(Drafted.)*
   - quote: télégraphia pendant deux heures les premiers chapitres de la Bible

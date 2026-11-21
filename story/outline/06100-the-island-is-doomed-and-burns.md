@@ -48,7 +48,7 @@
 
 - Work resumes with feverish ardour; about 23 January the ship is half planked. *(Drafted.)*
   - quote: Vers le 23 janvier, le navire était à demi bordé
-- Until then the summit had not changed. In the night of 23 to 24 the lavas rise to the level of the volcano's first stage and the volcano is "décoiffé" of its capping cone, with a frightful noise; the colonists rush out of Granite-house thinking the island is breaking up. *(Drafted.)*
+- Until then the summit had not changed. In the night of 23 to 24 the lavas rise to the level of the volcano's first stage and the volcano is "stripped of its capping cone", with a frightful noise; the colonists rush out of Granite-house thinking the island is breaking up. *(Drafted.)*
   - quote: pendant la nuit du 23 au 24
   - quote: celui-ci fut décoiffé du cône qui formait chapeau
 - It is about two in the morning. *(Drafted.)*
@@ -61,7 +61,7 @@
 
 ### 5. The corral is lost (III.19 ¶28–¶33)
 
-- Ayrton cries "Le corral !": the lavas, by the new crater's orientation, head toward the corral, the fertile parts, the sources of the Red Creek and the Jacamar woods. *(Drafted.)*
+- Ayrton cries "The corral!": the lavas, by the new crater's orientation, head toward the corral, the fertile parts, the sources of the Red Creek and the Jacamar woods. *(Drafted.)*
   - quote: c’étaient les parties fertiles de l’île, les sources du creek Rouge, les bois de Jacamar
 - The colonists harness the cart at the onaggas' stable and race to free the animals. *(Drafted.)*
   - quote: Courir au corral et mettre en liberté les animaux qu’il renfermait
@@ -96,13 +96,13 @@
 
 ### 7. The dike at the lake (III.19 ¶41–¶51)
 
-- They halt near the lake, half a mile from the mouth of the Red Creek; "Une question de vie ou de mort". *(Drafted.)*
+- They halt near the lake, half a mile from the mouth of the Red Creek; "A question of life or death". *(Drafted.)*
   - quote: à un demi-mille de l’embouchure du creek Rouge
 - Smith says the lake will stop the stream and part of the island be saved, or the stream will take the Far-West forests and leave only bare rock and a death the island's explosion will not make them wait for. *(Drafted.)*
   - quote: ou le courant envahira les forêts du Far-West
 - Pencroff asks if there is no use working at the boat; Smith answers that one must do one's duty to the end. *(Drafted.)*
   - quote: il faut faire son devoir jusqu’au bout !
-- The lava reaches the lake's edge, where a rise in the ground, if higher, might have held the torrent. Smith cries "À l’œuvre !" *(Drafted.)*
+- The lava reaches the lake's edge, where a rise in the ground, if higher, might have held the torrent. Smith cries "To work!" *(Drafted.)*
   - quote: un certain exhaussement du sol
 - The plan is understood: to dam the torrent and force it into the lake. *(Drafted.)*
   - quote: Ce torrent, il fallait l’endiguer, pour ainsi dire
@@ -124,7 +124,7 @@
 - Plate caption: the fight between water and fire. *(Drafted.)*
   - quote: Quel spectacle que ce combat entre l’eau et le feu !
   - at: III.19 pl2
-- "Cette fois, l’eau devait être vaincue par le feu." *(Drafted.)*
+- "This time the water was to be overcome by fire." *(Drafted.)*
   - quote: Cette fois, l’eau devait être vaincue par le feu.
 
 ### 9. A few days' respite; the Far-West forest burns (III.19 ¶56–¶60)
@@ -168,9 +168,9 @@
   - quote: à l’embouchure de la Mercy, entre l’îlot et la muraille de granit
 - By 3 March they count on launching in about ten days. *(Drafted.)*
   - quote: Ils arrivèrent ainsi au 3 mars
-- Hope returns in this "quatrième année" on the island; Pencroff thinks only of the ship. *(Drafted.)*
+- Hope returns in this "the fourth year" on the island; Pencroff thinks only of the ship. *(Drafted.)*
   - quote: cette quatrième année de leur séjour à l’île Lincoln
-- Pencroff says they will finish it, the equinox is near, and if need be they will put in at Tabor for the winter. Smith answers "Hâtons-nous !" *(Drafted.)*
+- Pencroff says they will finish it, the equinox is near, and if need be they will put in at Tabor for the winter. Smith answers "Let us hurry!" *(Drafted.)*
   - quote: on relâchera à l’île Tabor pour y passer l’hiver !
   - quote: Hâtons-nous !
 
@@ -188,7 +188,7 @@
 - The stream follows the south-west shore of Lake Grant, passes beyond Glycerine Creek and invades the Grande-Vue plateau: the mill, poultry-yard buildings and stables are gone, the fowl vanish. Top and Jup show great fear. *(Drafted.)*
   - quote: se porta au delà du creek Glycérine et envahit le plateau de Grande-Vue
   - quote: Top et Jup donnaient des signes du plus grand effroi
-- Many animals died in the first eruption; survivors take refuge in the Duck Marsh. The lava then overflows the granite wall's edge and sends its cataracts of fire onto the strand, a "Niagara de fonte liquide" by night. *(Drafted.)*
+- Many animals died in the first eruption; survivors take refuge in the Duck Marsh. The lava then overflows the granite wall's edge and sends its cataracts of fire onto the strand, "a Niagara of liquid cast iron" by night. *(Drafted.)*
   - quote: un Niagara de fonte liquide
 - Forced into their last entrenchment, the colonists resolve to launch although the upper seams are not caulked; Pencroff and Ayrton prepare it for the morning of 9 March. *(Drafted.)*
   - quote: ils résolurent de le lancer à la mer !

@@ -75,7 +75,7 @@
 - Robert Grant answers it was to seek Ayrton and also the colonists on Lincoln Island, which he knew from the notice left on Tabor. Smith objects that the island is not even on the charts. *(Drafted.)*
   - quote: Je l’ai connue par la notice que vous aviez laissée à l’île Tabor
   - quote: puisque cette île n’est même pas portée sur les cartes
-- Robert hands over the document giving the island's longitude and latitude and naming it "résidence actuelle d’Ayrton et de cinq colons américains". *(Drafted.)*
+- Robert hands over the document giving the island's longitude and latitude and naming it "the present residence of Ayrton and five American colonists". *(Drafted.)*
   - quote: « résidence actuelle d’Ayrton et de cinq colons américains. »
 - Smith recognises the hand as that of the document found at the corral. *(Drafted.)*
   - quote: elle était de la même main qui avait écrit le document trouvé au corral
@@ -110,14 +110,14 @@
 
 ### 9. The new colony and the tomb (III.20 ¶52–¶55)
 
-- On the domain they call to work all those they had meant to host on Lincoln Island and found a vast colony named for the lost island, with a river called the Mercy, a mountain Franklin, a small Lake Grant and forests of the Far-West: "une île en terre ferme". *(Drafted.)*
+- On the domain they call to work all those they had meant to host on Lincoln Island and found a vast colony named for the lost island, with a river called the Mercy, a mountain Franklin, a small Lake Grant and forests of the Far-West: "an island on terra firma". *(Drafted.)*
   - quote: C’était comme une île en terre ferme.
 - All prospers under Smith: Nab with his master, Ayrton ready to sacrifice himself, Pencroff more farmer than sailor, Harbert completing his studies under Smith, Spilett founding the New Lincoln Herald. *(Drafted.)*
   - quote: Pas un des anciens colons de l’île Lincoln ne manquait
   - quote: qui fonda le New Lincoln Herald
 - They are visited by Lord and Lady Glenarvan, Captain John Mangles and his wife (Robert Grant's sister), Robert Grant and Major Mac Nabbs. *(Drafted.)*
   - quote: du major Mac Nabbs
-- All are happy; they never forget the island where they arrived poor and naked, which for four years supplied their needs, and of which only a granite fragment remains, "tombe de celui qui fut le capitaine Nemo". *(Drafted.)*
+- All are happy; they never forget the island where they arrived poor and naked, which for four years supplied their needs, and of which only a granite fragment remains, "the tomb of him who was Captain Nemo". *(Drafted.)*
   - quote: tombe de celui qui fut le capitaine Nemo !
 - Closing line outside the paragraphs: end of the third and last part. *(Drafted.)*
   - quote: fin de la troisième et dernière partie

@@ -8,7 +8,7 @@
 
 - Pencroff cries that a castaway is abandoned some hundreds of miles away on Tabor island, and Smith will no longer oppose the voyage. *(Drafted.)*
   - quote: Ah ! monsieur Cyrus, vous ne vous opposerez plus maintenant à mon projet de voyage !
-- Smith says Pencroff will leave as soon as possible: "Dès demain." *(Drafted.)*
+- Smith says Pencroff will leave as soon as possible: "From tomorrow." *(Drafted.)*
   - quote: Dès demain. »
 
 ### 2. Smith reads the document (II.13 ¶5–¶14)
@@ -21,9 +21,9 @@
   - quote: la présence de ce naufragé explique l’arrivée de la caisse sur les rivages de l’île
 - Harbert calls it good luck that the Bonadventure passed just when the bottle was still afloat. *(Drafted.)*
   - quote: c’est une chance heureuse que le Bonadventure ait passé là
-- Smith asks Pencroff whether it does not seem strange. Pencroff finds it merely lucky: the bottle had to go somewhere, why not here. Smith says "et cependant…" and leaves it. *(Drafted.)*
+- Smith asks Pencroff whether it does not seem strange. Pencroff finds it merely lucky: the bottle had to go somewhere, why not here. Smith says "and yet…" and leaves it. *(Drafted.)*
   - quote: Et cela ne vous semble pas bizarre ?
-- Harbert says nothing proves the bottle has long drifted. Spilett says the document seems recently written and asks Smith; Smith says it is hard to check, "nous le saurons". *(Drafted.)*
+- Harbert says nothing proves the bottle has long drifted. Spilett says the document seems recently written and asks Smith; Smith says it is hard to check, "we shall know". *(Drafted.)*
   - quote: le document paraît avoir été récemment écrit
 
 ### 3. Back to the river mouth; the plan for the trip (II.13 ¶15–¶19)
@@ -53,7 +53,7 @@
   - quote: tout ce qui était l’île Lincoln avait disparu au-dessous de l’horizon
 - The boat behaves perfectly; Pencroff sets the topsail and holds a straight course by compass. Harbert relieves him at the helm and holds true. *(Drafted.)*
   - quote: Pencroff avait gréé sa voile de flèche
-- Spilett talks with each and lends a hand. Pencroff, satisfied with his crew, speaks of giving them "un quart de vin par bordée". *(Drafted.)*
+- Spilett talks with each and lends a hand. Pencroff, satisfied with his crew, speaks of giving them "a quart of wine per watch". *(Drafted.)*
   - quote: d’un quart de vin par bordée
 - At evening the crescent moon, which will not reach first quarter until the 16th, shows in the twilight and goes out. The night is dark but starry. *(Drafted.)*
   - quote: qui ne devait être dans son premier quartier que le 16
@@ -77,7 +77,7 @@
 
 ### 6. Land sighted; the landing, 13 October (II.13 ¶41–¶51)
 
-- About six in the morning Pencroff cries "Terre !" (the plate carries the cry). *(Drafted.)*
+- About six in the morning Pencroff cries "Land!" (the plate carries the cry). *(Drafted.)*
   - quote: « Terre ! » cria Pencroff vers six heures du matin.
 - Tabor island is a low coast hardly out of the waves, within fifteen miles. The bow is set on it, a little south of the island. *(Drafted.)*
   - quote: n’était pas éloignée de plus de quinze milles
@@ -106,7 +106,7 @@
   - quote: ne mesurait pas plus de six milles de tour
 - It is wooded over its whole surface, a uniform mass of green dominated by two or three low hills. A stream crosses a large meadow on the diagonal to reach the west coast by a narrow mouth. *(Drafted.)*
   - quote: un ruisseau coulait à travers une large prairie
-- Harbert calls the domain small; Pencroff, "un peu petit pour nous"; Spilett says it seems uninhabited. They go down to search. *(Drafted.)*
+- Harbert calls the domain small; Pencroff, "a little small for us"; Spilett says it seems uninhabited. They go down to search. *(Drafted.)*
   - quote: il semble inhabité
 
 ### 8. The circuit of the shore (II.13 ¶65–¶71)
@@ -144,14 +144,14 @@
   - quote: notre voyage n’aura pas été inutile
 - Spilett and Harbert judge from the plantations' state that the islet has not been inhabited for a long time; Pencroff says the castaway has gone. *(Drafted.)*
   - quote: ce naufragé est parti !
-- They conclude the document is old and that the bottle floated a long time before reaching Lincoln Island. Pencroff says "Pourquoi pas ?" and that night is coming. *(Drafted.)*
+- They conclude the document is old and that the bottle floated a long time before reaching Lincoln Island. Pencroff says "Why not?" and that night is coming. *(Drafted.)*
   - quote: après avoir longtemps flotté sur la mer
 - Spilett proposes returning on board and starting again tomorrow. *(Drafted.)*
   - quote: Revenons à bord, et demain nous recommencerons
 
 ### 10. The dwelling (II.13 ¶90–¶94)
 
-- As they turn back, Harbert points to a confused mass between the trees and cries "Une habitation !" (the plate carries the scene). *(Drafted.)*
+- As they turn back, Harbert points to a confused mass between the trees and cries "A dwelling!" (the plate carries the scene). *(Drafted.)*
   - quote: « Une habitation ! »
 - By the twilight they see it is built of planks covered with thick tarred cloth. *(Drafted.)*
   - quote: construite en planches recouvertes d’une épaisse toile goudronnée

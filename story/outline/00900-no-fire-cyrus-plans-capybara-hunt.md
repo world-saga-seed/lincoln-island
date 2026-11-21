@@ -46,7 +46,7 @@
 - After an hour he is drenched in sweat and throws the sticks down, saying he would sooner light his arms. *(Drafted.)*
   - quote: Après une heure de travail
   - quote: J’allumerais plutôt mes bras en les frottant l’un contre l’autre !
-- The narrator says the sailor is wrong to deny that savages light wood by friction, but not every wood serves, and there is "le coup". *(Drafted.)*
+- The narrator says the sailor is wrong to deny that savages light wood by friction, but not every wood serves, and there is "the knack". *(Drafted.)*
   - quote: il y a « le coup »
 - Harbert takes up the sticks and rubs them to keep warm instead of shivering; Pencroff laughs. *(Drafted.)*
   - quote: je n’ai pas d’autre prétention que de m’échauffer à mon tour
@@ -54,7 +54,7 @@
   - quote: répéta une vingtième fois
   - quote: Top dormait aux pieds de son maître
 
-### 4. Morning, 28 March: "Île ou continent ?" and the chemical matches (I.9 ¶30–¶48)
+### 4. Morning, 28 March: "Island or continent?" and the chemical matches (I.9 ¶30–¶48)
 
 - On 28 March, about eight in the morning, Cyrus wakes and finds his companions watching; his first words are again whether it is an island or a continent. *(Drafted.)*
   - quote: Le lendemain, 28 mars, quand l’ingénieur se réveilla, vers huit heures du matin
@@ -99,7 +99,7 @@
   - quote: soit sur l’archipel de Mendana, soit sur les Pomotou
   - quote: jusqu’aux terres de la Nouvelle-Zélande
   - quote: quelque île déserte d’un archipel micronésien
-- They would then settle "comme si nous ne devions jamais en sortir"; Spilett protests at "jamais"; Cyrus says better to assume the worst and keep only the surprise of better. *(Drafted.)*
+- They would then settle "as if we were never to get out of it"; Spilett protests at "jamais"; Cyrus says better to assume the worst and keep only the surprise of better. *(Drafted.)*
   - quote: Mieux vaut mettre les choses au pis tout de suite
 - Pencroff hopes the island, if it is one, is not off the ships' route. Cyrus says they will know only after the ascent. *(Drafted.)*
   - quote: en dehors de la route des navires

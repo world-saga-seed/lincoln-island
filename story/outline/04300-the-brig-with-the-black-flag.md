@@ -37,7 +37,7 @@
 
 ### 3. The telegram to Ayrton; fear of pirates (III.1 ¶16–¶29)
 
-- Spilett says to send for Ayrton, who alone can say if it is the Duncan. He sends by the telegraph to the corral: "Venez en toute hâte." *(Drafted.)*
+- Spilett says to send for Ayrton, who alone can say if it is the Duncan. He sends by the telegraph to the corral: "Come with all haste." *(Drafted.)*
   - quote: Il faut prévenir Ayrton
   - quote: l’appareil télégraphique qui mettait en communication le corral et Granite-house
   - quote: Venez en toute hâte.
@@ -73,7 +73,7 @@
   - quote: Un bâtiment est en vue de l’île
 - Ayrton pales slightly, his eyes cloud; he sees nothing at first. *(Drafted.)*
   - quote: pâlit légèrement
-- Spilett hands him the telescope and says it may be the Duncan come to take him home. Ayrton murmurs "Déjà !" and lets his head fall into his hands. *(Drafted.)*
+- Spilett hands him the telescope and says it may be the Duncan come to take him home. Ayrton murmurs "Already!" and lets his head fall into his hands. *(Drafted.)*
   - quote: Déjà
   - quote: laissa tomber sa tête dans ses mains
 - The narrator asks if twelve years of abandonment on a desert islet did not seem enough to him; if the repentant man did not yet feel pardoned in his own eyes or others'. *(Drafted.)*
@@ -148,7 +148,7 @@
 - Ayrton, in his corner, has not joined them; perhaps, the former convict, he still feels unworthy. Smith goes to him and asks what he will do. *(Drafted.)*
   - quote: Seul, Ayrton, demeuré dans son coin, ne s’était pas joint aux colons
   - quote: Et vous, Ayrton, lui demanda-t-il, que ferez-vous
-- Ayrton answers "Mon devoir" and goes to the window to watch through the foliage. *(Drafted.)*
+- Ayrton answers "My duty" and goes to the window to watch through the foliage. *(Drafted.)*
   - quote: Mon devoir
   - quote: plongea ses regards à travers le feuillage
 

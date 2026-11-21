@@ -25,15 +25,15 @@
   - quote: L’ingénieur installa un tour
 - Jup has a room of his own beside the general storeroom, a cabin with a frame full of litter. *(Drafted.)*
   - quote: il occupait une chambre à part, près du magasin général
-- Pencroff praises Jup's service: never a reply; Nab says "Mon élève, et bientôt mon égal !"; Pencroff retorts that Nab speaks and Jup does not. *(Drafted.)*
+- Pencroff praises Jup's service: never a reply; Nab says "My pupil, and soon my equal!"; Pencroff retorts that Nab speaks and Jup does not. *(Drafted.)*
   - quote: Mon élève, répondait Nab, et bientôt mon égal !
 - Jup beats clothes, turns the spit, sweeps, serves, stacks wood, and tucks Pencroff into bed every night. *(Drafted.)*
   - quote: il ne se couchait jamais sans être venu border le digne marin dans son lit
-- The health of all the colony, "bipèdes ou bimanes, quadrumanes ou quadrupèdes", is perfect. *(Drafted.)*
+- The health of all the colony, "bipeds or bimanous, quadrumanous or quadrupeds", is perfect. *(Drafted.)*
   - quote: bipèdes ou bimanes, quadrumanes ou quadrupèdes
 - Harbert has grown two inches in a year; he reads the few books from the chest; Cyrus teaches him science, Spilett languages. *(Drafted.)*
   - quote: Harbert avait déjà grandi de deux pouces depuis un an
-- Cyrus's fixed idea is to pass on all he knows; he thinks: "Si je meurs, … c’est lui qui me remplacera !". *(Drafted.)*
+- Cyrus's fixed idea is to pass on all he knows; he thinks: "If I die, … it is he who will replace me!". *(Drafted.)*
   - quote: c’est lui qui me remplacera
 - The storm ends about 9 March, but the sky stays clouded through the last month of summer, with rain and fog, save three or four fine days. *(Drafted.)*
   - quote: La tempête prit fin vers le 9 mars
@@ -49,7 +49,7 @@
 
 - One day in March Pencroff reminds Cyrus of a promise: an apparatus to spare the long ladders of Granite-house. Cyrus names it an ascenseur; Pencroff says luxury for persons, indispensable for things. *(Drafted.)*
   - quote: Vous voulez parler d’une sorte d’ascenseur
-- Cyrus says they will make a machine, not a steam one, "une machine à eau". *(Drafted.)*
+- Cyrus says they will make a machine, not a steam one, "a water engine". *(Drafted.)*
   - quote: Non, une machine à eau.
 - Method: enlarge the small branch from the lake that feeds water inside Granite-house; the opening at the top of the overflow is widened, giving a strong fall at the bottom of the passage whose overflow runs down the interior well. *(Drafted.)*
   - quote: L’orifice ménagé entre les pierres et les herbes, à l’extrémité supérieure du déversoir, fut donc accru
@@ -86,7 +86,7 @@
   - quote: un nouvel arbre fut découvert
 - Cyrus and Harbert, hunting in the Far-West forest left of the Mercy, miss every game animal because Harbert talks chemistry and physics. *(Drafted.)*
   - quote: Harbert parlait chimie et physique
-- Late in the day Harbert cries out at a shrub with a single scaly stem and leaves veined in parallel; he names it "cycas revoluta", from the natural-history dictionary; no fruit, but the trunk holds flour "toute moulue"; Cyrus: "C’est donc l’arbre à pain ?". *(Drafted.)*
+- Late in the day Harbert cries out at a shrub with a single scaly stem and leaves veined in parallel; he names it "cycas revoluta", from the natural-history dictionary; no fruit, but the trunk holds flour "toute moulue"; Cyrus: "So it is the breadfruit tree?". *(Drafted.)*
   - quote: C’est un « cycas revoluta »
   - quote: C’est donc l’arbre à pain
 - Harbert was right: the broken stem holds floury pith with a disagreeable mucilage that pressure will drive out; a superior flour, once under Japanese export ban. *(Drafted.)*
@@ -96,7 +96,7 @@
 
 ### 7. Pencroff's island for castaways; the flour (II.9 ¶56–¶64)
 
-- Next day the colonists go to the harvest; Pencroff asks if there are "îles à naufragés", islands made so that castaways can always get by; Cyrus says it is possible; Pencroff says it is certain and that Lincoln is one. *(Drafted.)*
+- Next day the colonists go to the harvest; Pencroff asks if there are "islands for castaways", islands made so that castaways can always get by; Cyrus says it is possible; Pencroff says it is certain and that Lincoln is one. *(Drafted.)*
   - quote: des îles créées spécialement pour qu’on y fasse convenablement naufrage
 - They return with many cycas stems; Cyrus builds a press to extract the mucilage, and Nab makes cakes and puddings; not yet wheat bread, but nearly. *(Drafted.)*
   - quote: Ce n’était pas encore le vrai pain de froment
@@ -124,11 +124,11 @@
 
 ### 9. The second observation, 2 April (II.9 ¶80–¶83)
 
-- Next day Cyrus takes the observations to check his coordinates. The first gave, as an inset line, "En longitude ouest : de 150° à 155° ; / En latitude sud : de 30° à 35°". *(Drafted.)*
+- Next day Cyrus takes the observations to check his coordinates. The first gave, as an inset line, "Longitude west: from 150° to 155°; / Latitude south: from 30° to 35°". *(Drafted.)*
   - quote: Sa première observation lui avait donné pour la situation de l’île Lincoln
   - quote: En longitude ouest : de 150° à 155° ; / En latitude sud : de 30° à 35°.
   - at: II.9 ln4
-- The second gave exactly "En longitude ouest : 150° 30′ ; / En latitude sud : 34° 57′." *(Drafted.)*
+- The second gave exactly "Longitude west: 150° 30′; / Latitude south: 34° 57′." *(Drafted.)*
   - quote: La seconde donna exactement
   - quote: En longitude ouest : 150° 30′ ; / En latitude sud : 34° 57′.
   - at: II.9 ln5
@@ -145,10 +145,10 @@
   - quote: 153° de longitude et 37° 11′ de latitude
   - quote: deux degrés et demi plus à l’ouest et deux degrés plus au sud
   - quote: un îlot perdu dans le Pacifique, et qui n’a jamais été visité peut-être
-- Pencroff proposes to visit it in a decked boat that he will steer; Cyrus gives the distance as about a hundred and fifty miles "dans le nord-est"; Pencroff says that is forty-eight hours with a good wind. *(Drafted.)*
+- Pencroff proposes to visit it in a decked boat that he will steer; Cyrus gives the distance as about a hundred and fifty miles "in the north-east"; Pencroff says that is forty-eight hours with a good wind. *(Drafted.)*
   - quote: À cent cinquante milles environ dans le nord-est
   - quote: En quarante-huit heures et avec un bon vent
-- Spilett asks what for; Pencroff: "On ne sait pas. Faut voir !" *(Drafted.)*
+- Spilett asks what for; Pencroff: "We do not know. We'll have to see!" *(Drafted.)*
   - quote: On ne sait pas. Faut voir !
 - It is decided to build a boat to put to sea about October, with the return of fine weather. *(Drafted.)*
   - quote: de manière à pouvoir prendre la mer vers le mois d’octobre prochain

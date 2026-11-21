@@ -4,7 +4,7 @@
 
 ## Outline
 
-### 1. "Ils ont sauté !" and the walk to the shore (III.4 ¶1–¶8)
+### 1. "They have blown up!" and the walk to the shore (III.4 ¶1–¶8)
 
 - Harbert cries that they have blown up; Pencroff agrees, as if Ayrton had fired the powder, and dives into the lift with Nab and Harbert. *(Drafted.)*
   - quote: Ils ont sauté ! s’écria Harbert.
@@ -45,7 +45,7 @@
 - They lash the masts and spars with ropes whose ends are carried to the beach below Granite-house, where the colonists haul them in; the pirogue gathers the hen coops, barrels and cases and takes them to the Chimneys. *(Drafted.)*
   - quote: dont le bout fut porté sur la grève de Granite-house
   - quote: immédiatement transportés aux Cheminées
-- Some corpses float; Ayrton knows Bob Harvey's and shows it to Pencroff: "Ce que j’ai été, Pencroff !" / "Mais ce que vous n’êtes plus, brave Ayrton !" A plate caption gives the first line. *(Drafted.)*
+- Some corpses float; Ayrton knows Bob Harvey's and shows it to Pencroff: "What I once was, Pencroff!" / "But what you are no longer, brave Ayrton!" A plate caption gives the first line. *(Drafted.)*
   - quote: Ayrton reconnut celui de Bob Harvey
   - quote: Mais ce que vous n’êtes plus, brave Ayrton !
   - quote: « Ce que j’ai été, Pencroff ! »
@@ -59,7 +59,7 @@
 - For two hours they haul spars onto the sand and unbend and dry the sails, which are perfectly intact. *(Drafted.)*
   - quote: Pendant deux heures
   - quote: parfaitement intactes
-- The brig and her contents are a fortune and will enlarge the colony's stock, "en grand" the equal of the case found at Wreck Point. *(Drafted.)*
+- The brig and her contents are a fortune and will enlarge the colony's stock, "on a large scale" the equal of the case found at Wreck Point. *(Drafted.)*
   - quote: un navire est comme un petit monde au complet
   - quote: la caisse trouvée à la pointe de l’Épave
 - Pencroff thinks the brig might be refloated: a leak can be stopped, and a ship of three to four hundred tons is a real ship beside the Bonadventure; he wants Smith, Ayrton and himself to examine her. *(Drafted.)*
@@ -211,7 +211,7 @@
   - quote: qui portait des traces d’explosion
 - Nab brings it to his master, then at work with the others in the workshop at the Chimneys. *(Drafted.)*
   - quote: à l’atelier des Cheminées
-- Smith examines it closely and asks Pencroff if he still insists the Speedy did not perish from a shock; Pencroff does, since there are no rocks in the canal; Smith asks whether she might have struck this piece of iron, and Pencroff scoffs at "ce bout de tuyau". *(Drafted.)*
+- Smith examines it closely and asks Pencroff if he still insists the Speedy did not perish from a shock; Pencroff does, since there are no rocks in the canal; Smith asks whether she might have struck this piece of iron, and Pencroff scoffs at "this bit of pipe". *(Drafted.)*
   - quote: Vous persistez, mon ami
   - quote: Quoi, ce bout de tuyau ?
 - Smith reminds them the brig rose on top of a true waterspout, and shows the broken tube as what raised it. *(Drafted.)*

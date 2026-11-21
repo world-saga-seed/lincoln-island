@@ -21,29 +21,29 @@
   - The Bible with a bookmark and a pencil cross before Matthew VII, 8, ¶81–¶84. *(Drafted.)*
 - **Time.**
   - 29 October (¶1, ¶77); the year is not given here. *(Drafted.)*
-  - Canoe built "en cinq jours" (¶1), so begun about 24 October. *(My reading, to confirm.)*
+  - Canoe built "in five days" (¶1), so begun about 24 October. *(My reading, to confirm.)*
   - Trial the same day (¶5); the tide is rising at launch (¶1) and at the point (¶14, ¶42) and ebbing on return (¶43). *(Drafted.)*
   - Three-quarters of an hour of rowing to the point (¶17); an hour and a half to tow it back, three miles (¶42). *(Drafted.)*
   - 29 October is a Sunday (¶77). *(Drafted.)*
-  - Start of the exploration set for "le lendemain, dès le point du jour" (¶75), i.e. 30 October. *(My reading, to confirm.)*
+  - Start of the exploration set for "the next day, at daybreak" (¶75), i.e. 30 October. *(My reading, to confirm.)*
   - The chapter covers part of one day, on the order of five to seven hours of trial and inventory, plus the evening. *(My reading, to confirm.)*
 - **Clues.**
-  - The lead-shot incident is linked to the wreck by the narrator, ¶37 ("Peut-être même cet incident se rattachait-il à l’incident du grain de plomb ?"). *(Drafted.)*
-  - The chest was prepared with care, new, unmarked, zinc-lined: ¶54 ("On dirait vraiment qu’il s’attendait à faire naufrage"), ¶55 ("Rien n’y manque, en effet"), ¶64 ("n’aurait pu être soudée dans un moment de hâte"). *(Drafted.)*
-  - No maker's marks on arms or instruments, "contrairement à ce qui se fait d’habitude", ¶64. *(Drafted.)*
+  - The lead-shot incident is linked to the wreck by the narrator, ¶37 ("Perhaps this incident was even connected with the lead-shot incident?"). *(Drafted.)*
+  - The chest was prepared with care, new, unmarked, zinc-lined: ¶54 ("One would really say he expected to be shipwrecked"), ¶55 ("Nothing is missing from it, indeed."), ¶64 ("could not have been soldered in a moment of haste"). *(Drafted.)*
+  - No maker's marks on arms or instruments, "contrary to what is usual", ¶64. *(Drafted.)*
   - English books, a French atlas; no publisher or date on any: ¶65–¶67. *(Drafted.)*
-  - The Bible "paraissait avoir été souvent feuilleté", ¶66; opens at a bookmark and a pencil cross before Matthew VII, 8, ¶81–¶82. *(Drafted.)*
+  - The Bible "appeared to have been often leafed through", ¶66; opens at a bookmark and a pencil cross before Matthew VII, 8, ¶81–¶82. *(Drafted.)*
   - The photographic apparatus has no evident use, ¶61–¶62. *(Drafted.)*
-  - The cloth of the shirts and stockings: "l’origine était évidemment végétale", ¶53. *(Drafted.)*
+  - The cloth of the shirts and stockings: "its origin was evidently vegetable", ¶53. *(Drafted.)*
   - The chest came with no other wreckage and no ship in sight, ¶36. *(Drafted.)*
   - Cyrus Smith's watchfulness during the trip, ¶16. *(Drafted.)*
   - The tobacco Pencroff wanted is not in the chest, ¶73; it returns in II.3 ¶15–¶19. *(Drafted.)*
 - **Length.** 84 paragraphs (¶1 to ¶84); 3,209 words, counting the ¶ lines without their markers. Three plate captions: pl1 after ¶29, pl2 after ¶51, pl3 after ¶80; they only repeat a line of the text. *(Drafted.)*
 
 ## Open and flags
-- The seam with 02300. The last paragraph of II.1 is Cyrus Smith's explanation, "Cyrus Smith avait donné cette explication, qui était admissible sans doute." This chapter opens with a new date and a new task ("Le 29 octobre, le canot d’écorce était entièrement achevé"), with no mention of that explanation. No discord, but no hand-off either. *(My reading, to confirm.)*
-- The list in ¶53 is printed with a repeated heading and a misplaced item: "1 sextant. | 1 jumelle. | Instruments : 1 longue-vue". The text reads as the print has it; the headings "Instruments" appear twice and "1 jumelle" falls under the first. Card neither reading. *(Drafted.)*
-- ¶52 names five kinds of object ("des outils, des armes, des instruments, des vêtements, des livres"), ¶0 and ¶54 add utensils ("ustensiles"), and ¶53 lists six headings. Not a conflict, but a count by kinds differs. *(My reading, to confirm.)*
-- ¶53's atlas is in French ("dont la nomenclature était en français", ¶67) while both dictionaries and the Bible are English (¶65–¶66). *(Drafted.)*
-- Distance to the point: "environ à trois milles de la Mercy" (¶13) and "cette distance de trois milles" (¶42). Chapter 02700 ¶98 gives four miles from the same point to Granite-house; see the notes for 02700. *(Drafted.)*
+- The seam with 02300. The last paragraph of II.1 is Cyrus Smith's explanation, "Cyrus Smith had given this explanation, which was no doubt admissible." This chapter opens with a new date and a new task ("On 29 October the bark canoe was entirely finished"), with no mention of that explanation. No discord, but no hand-off either. *(My reading, to confirm.)*
+- The list in ¶53 is printed with a repeated heading and a misplaced item: "1 sextant. | 1 pair of field glasses. | Instruments: 1 telescope". The text reads as the print has it; the headings "Instruments" appear twice and "1 jumelle" falls under the first. Card neither reading. *(Drafted.)*
+- ¶52 names five kinds of object ("tools, arms, instruments, clothing, books"), ¶0 and ¶54 add utensils ("ustensiles"), and ¶53 lists six headings. Not a conflict, but a count by kinds differs. *(My reading, to confirm.)*
+- ¶53's atlas is in French ("whose nomenclature was in French", ¶67) while both dictionaries and the Bible are English (¶65–¶66). *(Drafted.)*
+- Distance to the point: "about three miles from the Mercy" (¶13) and "that distance of three miles" (¶42). Chapter 02700 ¶98 gives four miles from the same point to Granite-house; see the notes for 02700. *(Drafted.)*
 - No Wikisource correction touches this chapter. *(Drafted.)*

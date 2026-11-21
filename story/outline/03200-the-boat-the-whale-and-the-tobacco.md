@@ -125,7 +125,7 @@
   - quote: il fallut les écarter à coups de fusil
 - It is a female; her milk is plentiful and, after Dieffenbach, passes for cow's milk in taste, colour and density. *(Drafted.)*
   - quote: du lait de vache
-- Pencroff, who once served on a whaler, directs the cutting up, which takes three days. Spilett, in Pencroff's words, would make "un très-bon naufragé". *(Drafted.)*
+- Pencroff, who once served on a whaler, directs the cutting up, which takes three days. Spilett, in Pencroff's words, would make "a very good castaway". *(Drafted.)*
   - quote: qui dura trois jours
 - The blubber is cut in slices two and a half feet thick, then in pieces of about a thousand pounds each, and rendered in big earthen vessels brought to the spot, so as not to foul Prospect Heights. It loses about a third of its weight. *(Drafted.)*
   - quote: perdit environ un tiers de son poids
@@ -157,7 +157,7 @@
   - quote: Une pipe, alors ?
 - Pencroff turns pale at the sight of the filled pipe in Spilett's hand and a live coal in Harbert's. He cannot speak; he takes the pipe, lights it and draws five or six puffs in a row. *(Drafted.)*
   - quote: il aspira coup sur coup cinq ou six gorgées
-- From the bluish cloud a delirious voice cries "Du tabac ! Du vrai tabac !" (the plate carries the same words); Smith says it is excellent tobacco. *(Drafted.)*
+- From the bluish cloud a delirious voice cries "Tobacco! Real tobacco!" (the plate carries the same words); Smith says it is excellent tobacco. *(Drafted.)*
   - quote: « Du tabac ! Du vrai tabac !
 - Pencroff thanks divine providence: nothing more is lacking to the island. *(Drafted.)*
   - quote: Il ne manque donc plus rien à notre île !
@@ -165,5 +165,5 @@
   - quote: c’est M. Spilett
 - Spilett asks him to share the thanks with Harbert, who knew the plant, with Cyrus, who prepared it, and with Nab, who found it hard to keep the secret. *(Drafted.)*
   - quote: Nab qui a eu bien de la peine à nous garder le secret
-- Pencroff says he will repay them one day; now it is "à la vie, à la mort". *(Drafted.)*
+- Pencroff says he will repay them one day; now it is "for life and death". *(Drafted.)*
   - quote: c’est à la vie, à la mort

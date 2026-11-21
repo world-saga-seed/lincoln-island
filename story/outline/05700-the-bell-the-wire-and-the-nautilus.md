@@ -59,7 +59,7 @@
 - All six are present in Granite-house, so none is at the corral; the bell sounds again after Smith shakes his head at Harbert's thought of storm electricity. *(Drafted.)*
   - quote: Il n’y avait donc aucun des colons au corral.
   - quote: secouait la tête négativement
-- Nab asks if the devil is ringing; Spilett says to wait, a signal will be repeated; Pencroff begins "celui qui…" and a second tremor of the bell cuts him off. *(Drafted.)*
+- Nab asks if the devil is ringing; Spilett says to wait, a signal will be repeated; Pencroff begins "he who…" and a second tremor of the bell cuts him off. *(Drafted.)*
   - quote: Est-ce le diable qui sonne ?
   - quote: La phrase du marin fut coupée par un nouveau frémissement du trembleur sur le timbre.
 
@@ -69,7 +69,7 @@
   - quote: « Que voulez-vous ? »
 - The needle on the lettered dial answers: come to the corral in haste. *(Drafted.)*
   - quote: « Venez au corral en toute hâte. »
-- Smith cries "Enfin !"; the mystery is to be unveiled; fatigue gone, they leave Granite-house in moments, without a word; Jup and Top alone stay behind. *(Drafted.)*
+- Smith cries "At last!"; the mystery is to be unveiled; fatigue gone, they leave Granite-house in moments, without a word; Jup and Top alone stay behind. *(Drafted.)*
   - quote: Seuls, Jup et Top étaient restés.
 
 ### 6. The night march through the forest (III.15 ¶40–¶52)
@@ -89,7 +89,7 @@
   - quote: À neuf heures quarante-sept
 - Lightning grows quicker and brighter and thunder rumbles; they go on as if driven by an irresistible force. *(Drafted.)*
   - quote: poussés en avant par quelque irrésistible force
-- At "neuf heures un quart" a flash shows the palisade, and thunder breaks as they reach the gate. *(Drafted.)*
+- At "a quarter past nine" a flash shows the palisade, and thunder breaks as they reach the gate. *(Drafted.)*
   - quote: À neuf heures un quart, un vif éclair leur montrait l’enceinte palissadée
 
 ### 7. The empty house and the notice (III.15 ¶53–¶72)
@@ -102,7 +102,7 @@
   - quote: « Avons-nous été dupes d’une illusion ? »
 - The table of the wire is in order, with battery, box, receiver and transmitter; Ayrton was last there four days ago. *(Drafted.)*
   - quote: Il y a quatre jours.
-- Harbert finds a paper on the table, with the words, in English, "Suivez le nouveau fil." *(Drafted.)*
+- Harbert finds a paper on the table, with the words, in English, "Follow the new wire." *(Drafted.)*
   - quote: Sur ce papier étaient écrits ces mots, en anglais
   - quote: « Suivez le nouveau fil. »
 - Smith understands that the message did not come from the corral but from the mysterious retreat, joined to Granite-house by an extra wire spliced to the old one. *(Drafted.)*
@@ -141,7 +141,7 @@
   - quote: Ils n’avaient pas fait cent pas
 - Smith grasps the wire and sees that it dives into the sea; his companions cry out in disappointment and would have plunged in. *(Drafted.)*
   - quote: il vit qu’il s’enfonçait dans la mer
-- Smith leads them under a hollow in the rocks: the sea is high, at low tide the way will open; "Il ne nous aurait pas appelés, si les moyens devaient manquer." *(Drafted.)*
+- Smith leads them under a hollow in the rocks: the sea is high, at low tide the way will open; "He would not have called us if the means were to fail." *(Drafted.)*
   - quote: La mer est haute. À mer basse, le chemin sera ouvert.
   - quote: Il ne nous aurait pas appelés
 - They wait silently in a deep portico in the rock; rain begins and soon falls in torrents; thunder echoes. *(Drafted.)*
@@ -173,12 +173,12 @@
 
 - The very low vault rises abruptly; the dark and the weak lantern hide the cavern's size; a deep silence reigns and no noise from outside enters. *(Drafted.)*
   - quote: Nul bruit du dehors n’y pénétrait
-- The narrator lists other great caverns: Fingal's Cave on Staffa, the Morgat caves, Bonifacio, the Lyse-Fjord, Mammoth Cave in Kentucky, "haute de cinq cents pieds et longue de plus de vingt milles". *(Drafted.)*
+- The narrator lists other great caverns: Fingal's Cave on Staffa, the Morgat caves, Bonifacio, the Lyse-Fjord, Mammoth Cave in Kentucky, "five hundred feet high and more than twenty miles long". *(Drafted.)*
   - quote: haute de cinq cents pieds et longue de plus de vingt milles
-- Smith wonders if the cavern reaches the island's centre; for a quarter of an hour the boat makes windings that he directs; he orders "Plus à droite !" to check that the wire still follows the right wall, and finds it hooked on the rock. *(Drafted.)*
+- Smith wonders if the cavern reaches the island's centre; for a quarter of an hour the boat makes windings that he directs; he orders "More to the right!" to check that the wire still follows the right wall, and finds it hooked on the rock. *(Drafted.)*
   - quote: Depuis un quart d’heure, le canot s’avançait en faisant des détours
   - quote: Le fil était là, accroché aux saillies du roc.
-- After another quarter of an hour, about half a mile from the opening, Smith says "Arrêtez !" and they see a bright light lighting the whole crypt. *(Drafted.)*
+- After another quarter of an hour, about half a mile from the opening, Smith says "Stop!" and they see a bright light lighting the whole crypt. *(Drafted.)*
   - quote: une distance d’un demi-mille
   - quote: une vive lumière qui illuminait l’énorme crypte
 - The vault is a hundred feet high, held on basalt shafts that look cast in one mould, of forty to fifty feet; the water reflects the lights so the boat floats between two sparkling zones. *(Drafted.)*
@@ -199,7 +199,7 @@
   - quote: de dix à douze pieds au-dessus du niveau de la mer
   - quote: Un long objet fusiforme flottait à la surface des eaux…
   - at: III.15 pl3
-- Smith rises in the bow, seizes the reporter's arm and cries "Mais c'est lui !"; he falls back murmuring a name that only Spilett hears; Spilett answers "un homme hors la loi". *(Drafted.)*
+- Smith rises in the bow, seizes the reporter's arm and cries "But it is he!"; he falls back murmuring a name that only Spilett hears; Spilett answers "a man outside the law". *(Drafted.)*
   - quote: « Mais c’est lui ! Ce ne peut être que lui ! s’écria-t-il, lui !… »
   - quote: un nom que Gédéon Spilett fut seul à entendre
   - quote: « Lui ! un homme hors la loi !
@@ -211,7 +211,7 @@
   - quote: sorte de musée où étaient entassées
 - On a rich divan a man lies who does not seem to notice them. *(Drafted.)*
   - quote: Étendu sur un riche divan, ils virent un homme
-- Smith raises his voice: "Capitaine Nemo, vous nous avez demandés ? Nous voici." *(Drafted.)*
+- Smith raises his voice: "Captain Nemo, you sent for us? Here we are." *(Drafted.)*
   - quote: « Capitaine Nemo, vous nous avez demandés ? Nous voici. »
   - quote: « Capitaine Nemo, vous nous avez demandés ?…
   - at: III.15 pl4

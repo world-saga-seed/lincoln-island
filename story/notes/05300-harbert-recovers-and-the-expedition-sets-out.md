@@ -5,7 +5,7 @@
 - **Cast.**
   - Gédéon Spilett (¶1), Nab (¶4), Harbert (¶4), Pencroff (¶12), Cyrus Smith, "the engineer" (¶18). *(Drafted.)*
   - Top and Jup (¶31). *(Drafted.)*
-  - The unknown benefactor, "le génie de l'île", unseen (¶7–¶8, ¶10, ¶13). *(Drafted.)*
+  - The unknown benefactor, "the island's genius", unseen (¶7–¶8, ¶10, ¶13). *(Drafted.)*
   - Ayrton, absent (¶18, ¶55). *(Drafted.)*
   - The five convicts, seen only in traces (¶44, ¶55). *(Drafted.)*
 - **Places.**
@@ -18,8 +18,8 @@
   - Footprints of five men and an extinguished fire (¶55); Pencroff's bullet, the one that wounded Harbert (¶62). *(Drafted.)*
   - New trees found by Harbert: tree ferns, carob trees, kauris (¶53); emus (¶54). *(Drafted.)*
 - **Time.**
-  - 9 December 1867: the quinine (¶1–¶9). "Dès le lendemain" an improvement (¶10). 20 December, "ten days after", convalescence (¶11). End of December and of 1867 (¶16). January 1868: plateau work (¶20); rising in the second half (¶21); end of January, walks and sea baths, departure fixed for 15 February (¶22). *(Drafted.)*
-  - 14 February 1868, a Sunday (¶32). 15 February, departure at dawn, "le lendemain" (¶33). 16 February (¶51). The evening of the second day, 16th, at fourteen miles (¶64). "Le lendemain", the tip of the peninsula, 17 February (¶65). *(My reading, to confirm: 17 February from "le lendemain".)*
+  - 9 December 1867: the quinine (¶1–¶9). "From the next day" an improvement (¶10). 20 December, "ten days after", convalescence (¶11). End of December and of 1867 (¶16). January 1868: plateau work (¶20); rising in the second half (¶21); end of January, walks and sea baths, departure fixed for 15 February (¶22). *(Drafted.)*
+  - 14 February 1868, a Sunday (¶32). 15 February, departure at dawn, "the next day" (¶33). 16 February (¶51). The evening of the second day, 16th, at fourteen miles (¶64). "The next day", the tip of the peninsula, 17 February (¶65). *(My reading, to confirm: 17 February from "the next day".)*
   - Harbert's age: eighteen "alors" (¶21). *(Drafted.)*
   - The chapter covers about ten weeks, two and a half of them in the march. *(Drafted.)*
 - **Clues.**
@@ -32,7 +32,7 @@
 - **Length.** 65 paragraphs (¶1–¶65); 2,998 words in the ¶1–¶65 lines (the ¶0 summary not counted). One footnote (n1, ¶4) and three plates. *(Drafted.)*
 
 ## Open and flags
-- **Ten days after 9 December.** ¶11 says "Dix jours après, le 20 décembre". The quinine was given on the morning of 9 December (III.10 ¶59–¶64, III.11 ¶1–¶9), and ten days after that is the 19th. Quote:
+- **Ten days after 9 December.** ¶11 says "Ten days later, on 20 December". The quinine was given on the morning of 9 December (III.10 ¶59–¶64, III.11 ¶1–¶9), and ten days after that is the 19th. Quote:
   - quote: Dix jours après, le 20 décembre, Harbert entrait en convalescence
   - *(My reading, to confirm.)* Card neither.
 - **The weekday.** ¶32 says 14 February was a Sunday. By the Gregorian calendar 14 February 1868 was a Friday. Quote:

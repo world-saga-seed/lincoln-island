@@ -48,7 +48,7 @@
 
 ### 3. The bodies by the stream (III.13 ¶17–¶36)
 
-- Ayrton asks how he comes to be in the corral; Cyrus Smith asks how the convicts come to lie dead in the enclosure; Ayrton, rising half up, cries "Morts !". *(Drafted.)*
+- Ayrton asks how he comes to be in the corral; Cyrus Smith asks how the convicts come to lie dead in the enclosure; Ayrton, rising half up, cries "Dead!". *(Drafted.)*
   - quote: comment se fait-il que je me retrouve au corral
   - quote: Comment se fait-il que les convicts soient étendus là, morts
 - They go to the little stream in full daylight and find the five corpses on the bank in the position of a death that must have been instant; Ayrton is stunned. *(Drafted.)*
@@ -60,7 +60,7 @@
 - Cyrus Smith says that is where they were struck; Spilett asks with what weapon; Cyrus Smith says a thunderbolt weapon whose secret they lack. *(Drafted.)*
   - quote: C’est là qu’ils ont été frappés
   - quote: Une arme foudroyante dont nous n’avons pas le secret
-- He names the striker: "le justicier de l'île", the one who carried Ayrton here, whose influence shows again, who does for them what they cannot and then hides. *(Drafted.)*
+- He names the striker: "the island's avenger", the one who carried Ayrton here, whose influence shows again, who does for them what they cannot and then hides. *(Drafted.)*
   - quote: Le justicier de l’île
   - quote: celui qui vous a transporté ici, Ayrton
 - Pencroff: let us find him; Cyrus Smith: only if he is pleased at last to call them. *(Drafted.)*
@@ -164,7 +164,7 @@
 
 - Cyrus Smith and Spilett rejoin the others and tell them. *(Drafted.)*
   - quote: firent connaître cet état de choses
-- Pencroff says the volcano will find its master: "notre génie" will gag its crater if it tries to open. *(Drafted.)*
+- Pencroff says the volcano will find its master: "our genius" will gag its crater if it tries to open. *(Drafted.)*
   - quote: Il trouvera son maître
   - quote: qui lui bâillonnera son cratère
 - The narrator: the sailor's trust in the island's special god is absolute; the hidden power seems limitless and yet escaped the colonists' search despite their zeal and tenacity. *(Drafted.)*

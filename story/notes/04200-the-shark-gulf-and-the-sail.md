@@ -27,14 +27,14 @@
   - The coast is surveyed whole; nothing suspect except under the Serpentine forests (¶32). *(Drafted.)*
   - The lava gulf with no landing place and a depth the line cannot measure (¶18–¶25). *(Drafted.)*
   - The speck on the plate that is a ship (¶85–¶92). *(Drafted.)*
-- **Length.** 92 paragraphs (¶1–¶92), about 3,600 words of paragraph text. One footnote (n1, on ¶1), one plate (pl1 after ¶92), and the loose line "fin de la deuxième partie" (ln2). *(Drafted.)*
+- **Length.** 92 paragraphs (¶1–¶92), about 3,600 words of paragraph text. One footnote (n1, on ¶1), one plate (pl1 after ¶92), and the loose line "end of the second part" (ln2). *(Drafted.)*
 
 ## Open and flags
 
-- Timing: II.19 ¶72, "entre midi et une heure" at the cape; II.20 ¶1, "il était environ six heures quand le Bonadventure fut par le travers du golfe". The text opens "Les choses se passèrent ainsi que l’avait prévu Pencroff". Card neither. *(Drafted.)*
-- Footnote n1 on ¶1 reads "Environ 83 kilomètres à l’heure."; this rests on a Wikisource correction. The print reads 106 (texts/README.md; checked at djvu p.407). A drafted fact resting on the footnote should give both readings. *(Drafted.)*
-- Ayrton's move to Granite-house: ¶73, "Ce qu’il fit vers la mi-avril"; ¶31, "Ayrton les attendait sur la grève" (19 April); ¶71, "mauvais jours étaient venus avec le mois de mai"; II.19 ¶39, "il viendrait à Granite-house pendant l’absence de ses compagnons". Card neither. *(Drafted.)*
-- ¶78 has Ayrton at the corral "dans la seconde quinzaine d’octobre"; III.1 ¶17–¶20 has him at the corral on 17 October when the telegram arrives. These are consistent only if the return was on 16 or 17 October. *(My reading, to confirm.)*
-- ¶49 names "le document qu’Ayrton prétend n’avoir jamais écrit"; in II.18 ¶5–¶14 the colonists in company took the document to be Ayrton's. Card neither. *(Drafted.)*
-- ¶73 tells of Ayrton's move "vers la mi-avril" after ¶71 has already reached May; the telling is out of order with the dates. *(My reading, to confirm.)*
+- Timing: II.19 ¶72, "between noon and one o'clock" at the cape; II.20 ¶1, "it was about six o'clock when the Bonadventure was abeam of the gulf". The text opens "Things turned out as Pencroff had foreseen". Card neither. *(Drafted.)*
+- Footnote n1 on ¶1 reads "About 83 kilometres an hour."; this rests on a Wikisource correction. The print reads 106 (texts/README.md; checked at djvu p.407). A drafted fact resting on the footnote should give both readings. *(Drafted.)*
+- Ayrton's move to Granite-house: ¶73, "What he did about mid-April"; ¶31, "Ayrton was waiting for them on the shore" (19 April); ¶71, "bad days had come with the month of May"; II.19 ¶39, "he would come to Granite-house during his companions' absence". Card neither. *(Drafted.)*
+- ¶78 has Ayrton at the corral "in the second half of October"; III.1 ¶17–¶20 has him at the corral on 17 October when the telegram arrives. These are consistent only if the return was on 16 or 17 October. *(My reading, to confirm.)*
+- ¶49 names "the document that Ayrton claims never to have written"; in II.18 ¶5–¶14 the colonists in company took the document to be Ayrton's. Card neither. *(Drafted.)*
+- ¶73 tells of Ayrton's move "towards mid-April" after ¶71 has already reached May; the telling is out of order with the dates. *(My reading, to confirm.)*
 - ¶32 says the colonists had not yet searched the Serpentine Peninsula; ¶69 resolves to search the whole island when the fine season returns. *(Drafted.)*

@@ -6,7 +6,7 @@
   - Cyrus Smith (¶4), Pencroff (¶5), Gédéon Spilett (¶7), Harbert (¶12), Nab (¶54). *(Drafted.)*
   - Top and Jup (¶16). *(Drafted.)*
   - Ayrton, found in the corral house (¶82). *(Drafted.)*
-  - The convicts: absent, then five dead (¶107–¶108). The "inconnu", "ce gentleman" (¶10–¶11). *(Drafted.)*
+  - The convicts: absent, then five dead (¶107–¶108). The "inconnu", "this gentleman" (¶10–¶11). *(Drafted.)*
 - **Places.**
   - The wooded coast from the Reptile-End to the Falls River, three to four miles wide (¶1); the west coast (¶3); the Wreck Point and the Tadorn marsh, named in Cyrus Smith's reading (¶4). *(Drafted.)*
   - The mouth of the Falls River with basalts beyond (¶12–¶13); the river's left bank and valley, six miles from Mount Franklin (¶13, ¶16). *(Drafted.)*
@@ -21,7 +21,7 @@
   - "Four months before": the convicts' landing (¶108). *(Drafted.)*
   - The chapter covers two days; the clearing scene falls about 8 to 9 p.m. on 19 February. *(My reading, to confirm: the night is 19 February from ¶13 and ¶17.)*
 - **Clues.**
-  - The corral gate: shut and unbarred outside at the scouting (¶42), open when the cart comes (¶60), with Pencroff's "cette porte était fermée tout à l'heure" (¶63). *(Drafted.)*
+  - The corral gate: shut and unbarred outside at the scouting (¶42), open when the cart comes (¶60), with Pencroff's "this gate was shut a moment ago" (¶63). *(Drafted.)*
   - The lit lantern on the table (¶79); Ayrton on his old bed with no one by (¶79–¶80). *(Drafted.)*
   - Ayrton's wounds, and his warning that "they" will come, though they are dead (¶84, ¶94). *(Drafted.)*
   - Top's and Jup's behaviour at the stream, before the bodies are seen (¶102–¶104). *(Drafted.)*

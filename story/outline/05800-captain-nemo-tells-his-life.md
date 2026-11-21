@@ -11,7 +11,7 @@
 - A slow illness has worn him down, but his voice is still strong; he says in English, with great surprise, that he has no name. *(Drafted.)*
   - quote: une maladie lente l’avait miné peu à peu
   - quote: « Je n’ai pas de nom, monsieur.
-- Smith answers "Je vous connais !"; Nemo fixes him as if to annihilate him, then sinks back saying he is going to die. *(Drafted.)*
+- Smith answers "I know you!"; Nemo fixes him as if to annihilate him, then sinks back saying he is going to die. *(Drafted.)*
   - quote: Je vous connais ! » répondit Cyrus Smith.
   - quote: je vais mourir !
 - Spilett takes his hand and finds it burning; Nemo withdraws it and signs to Smith and Spilett to sit; Ayrton, Pencroff, Harbert and Nab stand respectfully apart in a corner of the salon, whose air is saturated with electric effluvia. *(Drafted.)*
@@ -28,7 +28,7 @@
   - quote: Le Nautilus ? dit en souriant à demi le capitaine.
 - Nemo says it has been thirty years since he had any contact with the inhabited world, thirty years in the depths of the sea, the only place where he found independence; who betrayed his secret? *(Drafted.)*
   - quote: Il y a pourtant trente années que je n’ai plus aucune communication avec le monde habité
-- Smith answers: a man who had made no pledge to him, so cannot be accused of betrayal. Nemo names "ce Français que le hasard jeta à mon bord il y a seize ans". *(Drafted.)*
+- Smith answers: a man who had made no pledge to him, so cannot be accused of betrayal. Nemo names "this Frenchman whom chance threw on my ship sixteen years ago". *(Drafted.)*
   - quote: Ce Français que le hasard jeta à mon bord il y a seize ans
 - Nemo asks if the Frenchman and his two companions did not perish in the Maelstrom; Smith says they did not and a book appeared, Twenty Thousand Leagues under the Sea, containing his story. *(Drafted.)*
   - quote: sous le titre de Vingt mille Lieues sous les mers
@@ -40,13 +40,13 @@
 
 ### 3. "Quand vous m'aurez entendu" (III.16 ¶32–¶37)
 
-- Smith and Spilett rise and the others come closer; their gratitude is about to burst out, but Nemo stops them with a sign, saying "Quand vous m'aurez entendu". *(Drafted.)*
+- Smith and Spilett rise and the others come closer; their gratitude is about to burst out, but Nemo stops them with a sign, saying "When you have heard me." *(Drafted.)*
   - quote: Le capitaine Nemo les arrêta d’un signe
   - quote: « Quand vous m’aurez entendu, » dit-il[n1].
 - Footnote n1, from the Publisher: the story was published as Twenty Thousand Leagues; the same remark made on Ayrton's adventures about a discord in some dates applies here, and readers are referred to the earlier note. *(Drafted.)*
   - quote: sur la discordance de quelques dates
   - at: III.16 n1
-- In a few clear hurried phrases he tells his whole life; the story is brief but he must gather all his remaining energy; he fights extreme weakness, shakes his head at Smith's offer of rest, and refuses the reporter's care: "mes heures sont comptées". *(Drafted.)*
+- In a few clear hurried phrases he tells his whole life; the story is brief but he must gather all his remaining energy; he fights extreme weakness, shakes his head at Smith's offer of rest, and refuses the reporter's care: "my hours are numbered". *(Drafted.)*
   - quote: fit connaître sa vie tout entière
   - quote: mes heures sont comptées
 
@@ -88,7 +88,7 @@
   - quote: réunit une vingtaine de ses plus fidèles compagnons
 - He seeks independence beneath the waters. *(Drafted.)*
   - quote: Sous les eaux, dans la profondeur des mers
-- On a deserted island of the Pacific he sets up his yards and builds a submarine boat to his plans; electricity, which he has learned to use "par des moyens qui seront connus un jour", serves for motion, light and heat; the sea feeds the crew. *(Drafted.)*
+- On a deserted island of the Pacific he sets up his yards and builds a submarine boat to his plans; electricity, which he has learned to use "by means that will be known one day", serves for motion, light and heat; the sea feeds the crew. *(Drafted.)*
   - quote: Une île déserte du Pacifique lui servit à établir ses chantiers
   - quote: par des moyens qui seront connus un jour
 - He names the vessel the Nautilus, calls himself Captain Nemo and vanishes under the seas. *(Drafted.)*
@@ -164,12 +164,12 @@
   - quote: dont Dieu seul est juge et que la raison humaine doit absoudre
 - Smith adds that his name has nothing to fear from history, which loves heroic follies while condemning their results. *(Drafted.)*
   - quote: Elle aime les héroïques folies
-- Nemo's chest heaves and his hand reaches toward heaven: "Ai-je eu tort, ai-je eu raison ?" Smith answers that all great actions go back to God and the honest men present will mourn him for ever. A plate carries the caption of this line. *(Drafted.)*
+- Nemo's chest heaves and his hand reaches toward heaven: "Was I wrong, was I right?" Smith answers that all great actions go back to God and the honest men present will mourn him for ever. A plate carries the caption of this line. *(Drafted.)*
   - quote: « Ai-je eu tort, ai-je eu raison ? » murmura-t-il.
   - quote: vous pleureront à jamais
   - quote: « Ai-je eu tort, ai-je eu raison ?… »
   - at: III.16 pl1
-- Harbert kneels, takes his hand and kisses it; a tear falls from the dying man's eye; he says "Mon enfant, sois béni !" *(Drafted.)*
+- Harbert kneels, takes his hand and kisses it; a tear falls from the dying man's eye; he says "My child, be blessed!" *(Drafted.)*
   - quote: Il plia les genoux, il prit sa main et la lui baisa.
   - quote: Une larme glissa des yeux du mourant.
   - quote: « Mon enfant, dit-il, sois béni !… »

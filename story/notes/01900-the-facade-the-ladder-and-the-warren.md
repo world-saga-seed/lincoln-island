@@ -8,9 +8,9 @@
   - Granite-house: its facade (¶2, ¶13), its entrance, kitchen-room, dining room, dormitory, "chambre d’amis", corridor and long store (¶15–¶16), the great hall (¶13), the upper grotto as an attic (¶16).
   - The landing at about forty feet (¶28). The foot of the wall, where the pick fell (¶2–¶3).
   - The Chimneys, kept as a workshop (¶1). The old outlet and its mouth at the lake (¶5, ¶44).
-  - The Jacamar Wood, left of the river (¶30); the Far West forests, unexplored (¶30); the warren at the "angle sud-ouest du lagon" (¶30). The view: the two Mandible capes, Cape Claw, Union Bay (¶48).
+  - The Jacamar Wood, left of the river (¶30); the Far West forests, unexplored (¶30); the warren at the "the south-west corner of the lagoon" (¶30). The view: the two Mandible capes, Cape Claw, Union Bay (¶48).
 - **Things.** *(Drafted.)* The rope ladder of curry-rush fibre and red-cedar rungs, a hundred rungs (¶19, ¶28); a rough pulley (¶20); bricks, lime (¶20); a brick-earth flue (¶43); stones and cement in the outlet's mouth (¶44); a trickle of lake water, 25 to 30 gallons a day (¶45); thick shutters (¶46). Herbs: thyme, wild thyme, basil, savory, rosemary, lemon balm, betony, Oswego tea (¶30, ¶31, ¶34). Four rabbits (¶41). Footnote n1: a gallon is about 4.5 litres (¶45).
-- **Time.** *(Drafted.)* "Le lendemain, 22 mai" (¶1); "quelques jours après le commencement des travaux" the facade is open (¶14); the ladder "le 28 mai" (¶28); "ce jour-là" for the warren, a day not given (¶35); "le 31 mai" partitions finished (¶43). After that, the outlet is sealed and the water brought in (¶44–¶45), with no date. The hunt "tous les jours" (¶30); a hunt of an hour's digging (¶41). The chapter covers 22 to about 31 May, and a little after. The "mauvaise saison" is near (¶30, ¶46).
+- **Time.** *(Drafted.)* "The next day, 22 May" (¶1); "a few days after the works began" the facade is open (¶14); the ladder "28 May" (¶28); "that day" for the warren, a day not given (¶35); "31 May" partitions finished (¶43). After that, the outlet is sealed and the water brought in (¶44–¶45), with no date. The hunt "every day" (¶30); a hunt of an hour's digging (¶41). The chapter covers 22 to about 31 May, and a little after. The "mauvaise saison" is near (¶30, ¶46).
 - **Clues.** *(Drafted.)*
   - Pencroff and Cyrus on whether the island is inhabited (¶8–¶11).
     - quote: En êtes-vous bien sûr, Pencroff
@@ -26,16 +26,16 @@
 
 ## Open and flags
 
-- The winds. "Les mauvais vents, c’est-à-dire ceux du nord-est" (¶13) and "les grands vents d’est qui battaient directement la façade" (¶43) against I.16 ¶12, "les vents alizés, qui soufflent du nord-ouest". Card neither. *(Drafted.)*
+- The winds. "The bad winds, that is those from the north-east" (¶13) and "the strong east winds that struck the facade head-on" (¶43) against I.16 ¶12, "the trade winds, which blow from the north-west". Card neither. *(Drafted.)*
   - quote: ceux du nord-est, ne la frappaient que d’écharpe
   - quote: les grands vents d’est qui battaient directement la façade
-- "Cinq fenêtres et une porte" for the apartment (¶4, ¶13) with a "large baie et d’œils-de-bœuf" for the great hall (¶13); the plan counts five compartments (¶15). *(Drafted.)*
+- "Five windows and a door" for the apartment (¶4, ¶13) with a "large bay window and bull's-eye windows" for the great hall (¶13); the plan counts five compartments (¶15). *(Drafted.)*
 - "Le lagon" (¶30): the text uses it for the place at the warren's end; Lake Grant is "lac" elsewhere. Which water is meant is not said. *(My reading, to confirm.)*
   - quote: vers l’angle sud-ouest du lagon
-- The ladder: eighty feet of height with a landing at "une quarantaine de pieds" (¶28); the cavern is eighty feet up (¶3, ¶13). *(Drafted.)*
+- The ladder: eighty feet of height with a landing at "some forty feet" (¶28); the cavern is eighty feet up (¶3, ¶13). *(Drafted.)*
 - "Deux cents pieds" down the passage (¶18) against I.18's 100, 50 and 60 feet (¶22, ¶35, ¶40) and "quatre-vingt-dix" to the sea (I.18 ¶50). Card neither. *(Drafted.)*
   - quote: à descendre deux cents pieds par le couloir
-- The pick: "échappé des mains du reporter" (¶2) agrees with I.18 ¶63, where it falls from Spilett's last blow. *(Drafted.)*
-- The date of the warren day (¶35, "ce jour-là") and of the sealing of the outlet (¶44) is not given. The sealing comes after 31 May by the text's order. *(My reading, to confirm.)*
-- Pencroff is called "le marin" and "maître Nab" the cook (¶43), and the reporter's craft with plants (¶47) is a first sight of his taste for ornament. *(My reading, to confirm.)*
+- The pick: "slipped from the reporter's hands" (¶2) agrees with I.18 ¶63, where it falls from Spilett's last blow. *(Drafted.)*
+- The date of the warren day (¶35, "that day") and of the sealing of the outlet (¶44) is not given. The sealing comes after 31 May by the text's order. *(My reading, to confirm.)*
+- Pencroff is called "the sailor" and "maître Nab" the cook (¶43), and the reporter's craft with plants (¶47) is a first sight of his taste for ornament. *(My reading, to confirm.)*
 - No Wikisource correction touches this chapter. *(Drafted.)*

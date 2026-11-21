@@ -36,7 +36,7 @@
 - Pencroff calls it a promontory and proposes going back and keeping to the right; Nab points at the sea; they all call together, with no answer. *(Drafted.)*
   - quote: « C’est un promontoire, dit le marin.
   - quote: mais rien ne répondit
-- Plate caption pl1 (after ¶20, p.20) repeats the words "Et tous, unissant leurs voix…". *(Drafted.)*
+- Plate caption pl1 (after ¶20, p.20) repeats the words "And all, joining their voices…". *(Drafted.)*
   - quote: Et tous, unissant leurs voix…
 
 ### 4. Back along the other side, to the south (I.3 ¶21–¶23)

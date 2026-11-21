@@ -24,21 +24,21 @@
   - Cyrus Smith had said two hours to the sea (¶1); in fact four and a half. *(My reading, to confirm.)*
   - Twelve miles from the Falls-river to the promontory, "the double" of four hours (¶39). *(Drafted.)*
   - The chapter covers about thirteen hours of one day and the start of the night. *(My reading, to confirm.)*
-  - The date is not given here: by II.3 ¶72 it is 31 October; II.5 ¶4 calls the next day "le 2 novembre". See the flags. *(My reading, to confirm.)*
+  - The date is not given here: by II.3 ¶72 it is 31 October; II.5 ¶4 calls the next day "2 November". See the flags. *(My reading, to confirm.)*
 - **Clues.**
   - An unknown stream: Cyrus Smith did not recall any stream other than the Red Creek and the Mercy, ¶6. *(Drafted.)*
   - The tide not felt upstream, ¶29; the fall explains it, ¶35. *(Drafted.)*
   - No human trace; Top does not bark, ¶28, ¶30. *(Drafted.)*
-  - The lead shot proves a gun fired on the island "depuis trois mois au plus", ¶41. *(Drafted.)*
-  - The jaguar bore no fear of man, "comme s’il n’eût pas senti l’homme pour la première fois", ¶64. *(Drafted.)*
-  - Spilett's calm, "Il n’en était pas à son premier tigre", ¶65. *(Drafted.)*
-  - Tobacco again missing: "excepté du tabac", ¶26; bamboo is not to be smoked, ¶58–¶59. *(Drafted.)*
+  - The lead shot proves a gun fired on the island "for three months at most", ¶41. *(Drafted.)*
+  - The jaguar bore no fear of man, "as if he had never smelt man before", ¶64. *(Drafted.)*
+  - Spilett's calm, "It was not his first tiger", ¶65. *(Drafted.)*
+  - Tobacco again missing: "except tobacco", ¶26; bamboo is not to be smoked, ¶58–¶59. *(Drafted.)*
 - **Length.** 81 paragraphs (¶1 to ¶81); 3,211 words, counting the ¶ lines without their markers. Two plate captions: pl1 after ¶34 (printed "Page 248."), pl2 after ¶66 (printed "Page 246."). *(Drafted.)*
 
 ## Open and flags
-- Date discord to carry to 02700. This chapter is one day (6 a.m. start, night at the promontory) after the camp of 30 October, which ends "le lendemain, 31 octobre, à cinq heures du matin" (II.3 ¶72). The next chapter's morning is named "cette journée du 2 novembre" (II.5 ¶4). Nothing in this chapter or the next accounts for a day between them. Card neither version. *(Drafted.)*
-- Cyrus Smith's two hours (¶1, "Cyrus Smith avait dit en deux heures") versus the sea reached at 10:30 (¶31, "À dix heures et demie"). The text itself explains it (¶29, "beaucoup plus loin de la côte occidentale qu’ils ne le croyaient"). *(Drafted.)*
-- The creek lies on a course taken "directement dans le sud-ouest" (¶10), but the text says earlier in II.3 ¶64 that the river's turns "nous ont portés dans le nord-ouest". Not a conflict, but the geography of the falls, the new creek and the coast is unfixed. *(My reading, to confirm.)*
-- Guns: "Nous n’avons que du petit plomb dans nos fusils" (¶61) against II.3 ¶6, where the colonists took flintlocks and "une des carabines et quelques cartouches". Spilett fires a carbine at the jaguar (¶65). In II.5 ¶25 the guns are "chargés à balle". *(Drafted.)*
-- Mismatch of the first-day ration: ¶3 "provisions ... pendant deux jours au moins" against II.3 ¶4 "trois jours" as the longest of the exploration. *(Drafted.)*
+- Date discord to carry to 02700. This chapter is one day (6 a.m. start, night at the promontory) after the camp of 30 October, which ends "the next day, 31 October, at five in the morning" (II.3 ¶72). The next chapter's morning is named "that day, 2 November" (II.5 ¶4). Nothing in this chapter or the next accounts for a day between them. Card neither version. *(Drafted.)*
+- Cyrus Smith's two hours (¶1, "Cyrus Smith had said two hours") versus the sea reached at 10:30 (¶31, "At half past ten"). The text itself explains it (¶29, "much further from the western coast than they believed"). *(Drafted.)*
+- The creek lies on a course taken "directly to the south-west" (¶10), but the text says earlier in II.3 ¶64 that the river's turns "carried us to the north-west". Not a conflict, but the geography of the falls, the new creek and the coast is unfixed. *(My reading, to confirm.)*
+- Guns: "We have only small shot in our guns" (¶61) against II.3 ¶6, where the colonists took flintlocks and "one of the carbines and a few cartridges". Spilett fires a carbine at the jaguar (¶65). In II.5 ¶25 the guns are "loaded with ball". *(Drafted.)*
+- Mismatch of the first-day ration: ¶3 "provisions ... for two days at least" against II.3 ¶4 "trois jours" as the longest of the exploration. *(Drafted.)*
 - No Wikisource correction touches this chapter. *(Drafted.)*

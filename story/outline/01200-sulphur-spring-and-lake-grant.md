@@ -15,7 +15,7 @@
   - quote: elle s’était nécessairement arrêtée pendant le temps que Cyrus Smith avait passé dans les dunes
 - Cyrus winds his and, judging by the sun's height that it is about nine in the morning, sets it to nine. *(Drafted.)*
   - quote: il devait être environ neuf heures du matin
-- Cyrus stops the reporter from setting his: it still keeps Richmond time, on the meridian of that city, nearly Washington's. He is to keep winding it exactly but not touch the hands, "Cela pourra nous servir". Pencroff wonders what for. *(Drafted.)*
+- Cyrus stops the reporter from setting his: it still keeps Richmond time, on the meridian of that city, nearly Washington's. He is to keep winding it exactly but not touch the hands, "That may serve us". Pencroff wonders what for. *(Drafted.)*
   - quote: Vous avez conservé l’heure de Richmond
   - quote: méridien qui est à peu près celui de Washington
   - quote: ne touchez pas aux aiguilles
@@ -55,7 +55,7 @@
 - Cyrus says to avoid showing themselves; he fears natives more than he wishes for them. Top is ahead and does not bark, which Cyrus calls strange. *(Drafted.)*
   - quote: Je redoute plutôt les indigènes, s’il y en a sur cette île, que je ne les désire.
   - quote: C’est bizarre.
-- All hide behind the basalt and see the smoke, curling and of a distinctly yellowish colour (plate: "De là ils aperçurent une fumée…"). Top, recalled by a whistle, returns, and Cyrus slips between the rocks alone. *(Drafted.)*
+- All hide behind the basalt and see the smoke, curling and of a distinctly yellowish colour (plate: "From there they saw a smoke…"). Top, recalled by a whistle, returns, and Cyrus slips between the rocks alone. *(Drafted.)*
   - quote: fumée dont la couleur jaunâtre était très-caractérisée
   - quote: De là ils aperçurent une fumée…
   - at: I.12 pl2
@@ -114,7 +114,7 @@
   - quote: nous commencerons d’abord par fabriquer des arcs et des flèches
   - quote: C’est bon pour des enfants !
   - quote: la guerre est aussi vieille que la race humaine
-- Harbert says they met the hardest species to catch, long grey-furred giants, and that there are black and red kangaroos, rock kangaroos and rat-kangaroos, about a dozen species. Pencroff knows only one, "kangourou à la broche", the one they will lack that evening. They laugh at his classification. *(Drafted.)*
+- Harbert says they met the hardest species to catch, long grey-furred giants, and that there are black and red kangaroos, rock kangaroos and rat-kangaroos, about a dozen species. Pencroff knows only one, "kangaroo on the spit", the one they will lack that evening. They laugh at his classification. *(Drafted.)*
   - quote: On en compte une douzaine d’espèces…
   - quote: le « kangourou à la broche »
   - quote: On ne put s’empêcher de rire en entendant la nouvelle classification de maître Pencroff.
@@ -153,13 +153,13 @@
 - The lake's water is sweet, clear, a little dark, and from the bubbling and concentric rings it is full of fish. *(Drafted.)*
   - quote: douces, limpides, un peu noires
   - quote: très-poissonneuses
-- The reporter says one could live on its banks; Cyrus answers: "On y vivra !". *(Drafted.)*
+- The reporter says one could live on its banks; Cyrus answers: "We shall live there!". *(Drafted.)*
   - quote: On vivrait sur ses bords !
   - quote: On y vivra !
 
 ### 9. Home by the plateau; the lake's outlet sought (I.12 ¶72–¶74)
 
-- Wishing the shortest way to the Chimneys, they go down to the angle at the lake's south and force a way through thickets never parted by a human hand, toward the coast so as to reach the north of the Grande-Vue plateau. Two miles on, the plateau appears, "tapissé d’un épais gazon", and beyond it the sea. *(Drafted.)*
+- Wishing the shortest way to the Chimneys, they go down to the angle at the lake's south and force a way through thickets never parted by a human hand, toward the coast so as to reach the north of the Grande-Vue plateau. Two miles on, the plateau appears, "carpeted with thick turf", and beyond it the sea. *(Drafted.)*
   - quote: que la main de l’homme n’avait jamais encore écartés
   - quote: Deux milles furent franchis dans cette direction
 - To get home it would suffice to cross the plateau obliquely for a mile and go down to the Mercy's first bend. But Cyrus wants to find where the lake's overflow escapes; the search goes a mile and a half north under the trees. *(Drafted.)*
@@ -168,17 +168,17 @@
 - He reasons that the lake is a vast basin filled by the creek, whose overflow must reach the sea by some fall, probably through a cut in the granite; if so, the lost fall's force might be used. *(Drafted.)*
   - quote: Ce lac n’était, en somme, qu’une immense vasque
   - quote: il serait peut-être possible d’utiliser cette chute et de lui emprunter sa force
-- After a further mile Cyrus has not found the outlet, "qui devait exister cependant". At half past four dinner preparations call them home, and they return by the Mercy's left bank to the Chimneys. *(Drafted.)*
+- After a further mile Cyrus has not found the outlet, "which nevertheless had to exist". At half past four dinner preparations call them home, and they return by the Mercy's left bank to the Chimneys. *(Drafted.)*
   - quote: Cyrus Smith n’avait pu découvrir le déversoir, qui devait exister cependant
   - quote: Il était quatre heures et demie alors.
   - quote: par la rive gauche de la Mercy
 
 ### 10. The supper and the five samples (I.12 ¶75–¶77)
 
-- Fire is lit; Nab (as a negro) and Pencroff (as a sailor) cook grilled agouti, which is done full honour. The plate caption: "Nab et Pencroff préparèrent des grillades…". *(Drafted.)*
+- Fire is lit; Nab (as a negro) and Pencroff (as a sailor) cook grilled agouti, which is done full honour. The plate caption: "Nab and Pencroff prepared some grilled meat…". *(Drafted.)*
   - quote: préparèrent lestement des grillades d’agoutis
   - quote: Nab et Pencroff préparèrent des grillades…
   - at: I.12 pl3
-- After the meal, as all are about to sleep, Cyrus takes small mineral samples from his pocket and says only: iron ore, a pyrite, clay, lime, coal; "Voilà ce que nous donne la nature, et voilà sa part dans le travail commun ! — À demain la nôtre !" *(Drafted.)*
+- After the meal, as all are about to sleep, Cyrus takes small mineral samples from his pocket and says only: iron ore, a pyrite, clay, lime, coal; "This is what nature gives us, and this is its share in the common work! — Tomorrow ours!" *(Drafted.)*
   - quote: ceci est du minerai de fer, ceci une pyrite, ceci de l’argile, ceci de la chaux, ceci du charbon
   - quote: À demain la nôtre !

@@ -176,7 +176,7 @@
 - A general rout follows: the other ten do not stop to pick up the dead or wounded, but run to the boat that brought them and row back to the brig. *(Drafted.)*
   - quote: Ce fut une débandade générale.
   - quote: Les dix autres ne prirent même pas le temps de ramasser leurs compagnons
-- Pencroff cries "Huit de moins !", teasing that Spilett and Ayrton seem to agree their shots beforehand. *(Drafted.)*
+- Pencroff cries "Eight fewer!", teasing that Spilett and Ayrton seem to agree their shots beforehand. *(Drafted.)*
   - quote: Huit de moins !
 
 ### 10. The brig weighs and enters the channel (III.3 ¶67–¶78)

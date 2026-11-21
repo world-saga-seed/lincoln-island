@@ -204,7 +204,7 @@
 - The reporter says they will know how to die; Smith says to go in and keep watch. *(Drafted.)*
   - quote: nous saurons mourir
   - quote: Rentrons et veillons
-- Pencroff asks whether they have any chance; Smith says yes. Pencroff: six against fifty. Smith: "six", and then "sans compter…"; asked who, he does not answer and points to the sky. *(Drafted.)*
+- Pencroff asks whether they have any chance; Smith says yes. Pencroff: six against fifty. Smith: "six", and then "not counting…"; asked who, he does not answer and points to the sky. *(Drafted.)*
   - quote: Six contre cinquante !
   - quote: sans compter…
   - quote: il montra le ciel de la main

@@ -126,7 +126,7 @@
 
 ### 9. The night in the lair; the bamboo bursts (II.4 ¶73–¶81)
 
-- Spilett proposes to occupy the jaguar's lair for the night, with a fire at the entrance; Pencroff drags the body there ("À la maison des jaguars"). *(Drafted.)*
+- Spilett proposes to occupy the jaguar's lair for the night, with a fire at the entrance; Pencroff drags the body there ("to the jaguars' house"). *(Drafted.)*
   - quote: À la maison des jaguars, alors !
 - Nab skins the jaguar; the others pile dry wood at the threshold. *(Drafted.)*
   - quote: tandis que Nab dépouillait le jaguar

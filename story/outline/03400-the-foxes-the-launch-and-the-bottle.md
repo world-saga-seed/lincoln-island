@@ -55,7 +55,7 @@
   - quote: Jup, armé d’un gourdin noueux
 - It is a very dark night; the attackers, at least a hundred, are seen only by the light of shots, their eyes shining like embers. *(Drafted.)*
   - quote: qui devaient être au moins une centaine
-- "Ils ne passeront pas !" Smith answers Pencroff. The rear ranks push the front; the pack seems to renew itself through the beach footbridge. *(Drafted.)*
+- "They shall not pass!" Smith answers Pencroff. The rear ranks push the front; the pack seems to renew itself through the beach footbridge. *(Drafted.)*
   - quote: Ils ne passeront pas !
 - They fight hand to hand; the colonists get slight wounds. Harbert frees Nab from a culpeux on his back with a revolver shot. Top strangles foxes; Jup, club in hand, fights on, whistling shrilly in jubilation. *(Drafted.)*
   - quote: poussait de temps en temps un sifflement aigu
@@ -72,13 +72,13 @@
   - quote: pour la première fois, Jup ne répondit pas à l’appel de son ami
 - They clear the corpses, which stain the snow with blood, and find Jup in a heap of culpeux with smashed jaws and broken backs. He still holds the stump of his broken club; deep wounds furrow his chest. *(Drafted.)*
   - quote: Le pauvre Jup tenait encore à la main le tronçon de son bâton rompu
-- Nab sees he is alive; Pencroff says they will save him and nurse him "comme l’un de nous". Jup seems to understand and leans his head on Pencroff's shoulder. *(Drafted.)*
+- Nab sees he is alive; Pencroff says they will save him and nurse him "as one of us". Jup seems to understand and leans his head on Pencroff's shoulder. *(Drafted.)*
   - quote: il inclina sa tête sur l’épaule de Pencroff
 - Pencroff and the others are wounded too, but slightly, since their firearms mostly kept the attackers at a distance. Only the orang is in a grave state. *(Drafted.)*
   - quote: Il n’y avait donc que l’orang dont l’état fût grave.
 - Nab and Pencroff carry Jup to the lift and up to Granite House, where he is laid on a mattress and his wounds are washed. No essential organ seems reached, but he has lost much blood and has a fever. *(Drafted.)*
   - quote: la fièvre se déclara à un degré assez fort
-- He is put on a strict diet "tout comme à une personne naturelle", says Nab, and given cooling herbal tea from the Granite House vegetable pharmacy. *(Drafted.)*
+- He is put on a strict diet "just as to a natural person", says Nab, and given cooling herbal tea from the Granite House vegetable pharmacy. *(Drafted.)*
   - quote: tout comme à une personne naturelle
 - Top comes on tiptoe to visit his friend and licks the hand that hangs out of the bed; a plate shows it. *(Drafted.)*
   - quote: Top la léchait d’un air contrit
@@ -89,7 +89,7 @@
 
 ### 6. Jup's recovery and his pipe (II.12 ¶60–¶77)
 
-- After some days of serious fear Jup reacts vigorously; Spilett, "un peu médecin", soon thinks him out of danger. On 16 August Jup begins to eat; Nab makes him sweet dishes and says he has no other pleasure than that of the mouth. *(Drafted.)*
+- After some days of serious fear Jup reacts vigorously; Spilett, "something of a doctor", soon thinks him out of danger. On 16 August Jup begins to eat; Nab makes him sweet dishes and says he has no other pleasure than that of the mouth. *(Drafted.)*
   - quote: Le 16 août, Jup commença à manger.
 - Ten days after taking to bed, on 21 August, Jup gets up; his wounds are healed and a ravenous hunger takes him, which Spilett lets him satisfy, trusting his instinct. *(Drafted.)*
   - quote: Dix jours après avoir pris le lit, le 21 août, maître Jup se leva.
@@ -137,7 +137,7 @@
   - quote: pouvait marcher environ à cinq quarts du vent
 - Pencroff takes her three or four miles out, abreast of Port Balloon, and the island shows its whole length from Cape Claw to Reptile End, with Mount Franklin snow-capped. *(Drafted.)*
   - quote: depuis le cap Griffe jusqu’au promontoire du Reptile
-- Pencroff says he loves the island as he loved his poor mother; Nab answers "Rien ! rien, capitaine !" and the two give three cheers. *(Drafted.)*
+- Pencroff says he loves the island as he loved his poor mother; Nab answers "Nothing! nothing, captain!" and the two give three cheers. *(Drafted.)*
   - quote: Je l’aime comme j’aimais ma pauvre mère !
 - Spilett, leaning on the mast, sketches the panorama; Smith watches in silence. *(Drafted.)*
   - quote: dessinait le panorama qui se développait sous ses yeux
@@ -148,7 +148,7 @@
   - quote: Il paraît se bien comporter
 - Pencroff asks about a voyage of some length, Tabor for example. Smith answers that in a pressing case they should not hesitate to trust the Bonadventure even for a longer passage, but would see him leave with pain, since nothing obliges him to go. *(Drafted.)*
   - quote: dans un cas pressant, il ne faudrait pas hésiter à se confier au Bonadventure
-- Pencroff says Tabor is their neighbour and the only one, and politeness requires a visit. Spilett remarks that Pencroff is "à cheval sur les convenances". *(Drafted.)*
+- Pencroff says Tabor is their neighbour and the only one, and politeness requires a visit. Spilett remarks that Pencroff is "a stickler for the proprieties". *(Drafted.)*
   - quote: La politesse veut qu’on aille, au moins, lui faire une visite !
 - Smith says he cannot go alone; Pencroff says one companion will do. Smith answers that he risks depriving the colony of two of five. *(Drafted.)*
   - quote: C’est donc de deux colons sur cinq que vous risquez de priver la colonie de l’île Lincoln ?

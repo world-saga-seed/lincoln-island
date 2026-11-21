@@ -6,7 +6,7 @@
 
 ### 1. Pencroff asks what they are to be (I.15 ¶1–¶4)
 
-- On 17 April Pencroff's first words are to the reporter: what are they to be today? "Ce qu’il plaira à Cyrus." The narrator says that from brickmakers and potters the engineer's companions are to become metallurgists. *(Drafted.)*
+- On 17 April Pencroff's first words are to the reporter: what are they to be today? "Whatever Cyrus pleases." The narrator says that from brickmakers and potters the engineer's companions are to become metallurgists. *(Drafted.)*
   - quote: Le lendemain, 17 avril, la première parole du marin fut pour Gédéon Spilett.
   - quote: Ce qu’il plaira à Cyrus
   - quote: les compagnons de l’ingénieur allaient devenir métallurgistes
@@ -34,7 +34,7 @@
 
 ### 3. Seals needed for iron (I.15 ¶10–¶14)
 
-- Pencroff asks if they will work the iron ore; Cyrus says yes, and first they will hunt seals on the islet. Pencroff turns to the reporter: does one need seal to make iron? "Puisque Cyrus le dit !" *(Drafted.)*
+- Pencroff asks if they will work the iron ore; Cyrus says yes, and first they will hunt seals on the islet. Pencroff turns to the reporter: does one need seal to make iron? "Since Cyrus says so!" *(Drafted.)*
   - quote: nous commencerons par faire sur l’îlot la chasse aux phoques
   - quote: Il faut donc du phoque pour fabriquer du fer ?
   - quote: Puisque Cyrus le dit !
@@ -50,7 +50,7 @@
   - quote: Cyrus Smith mettait donc pour la première fois le pied sur l’îlot
   - quote: puisque c’était là que le ballon les avait jetés tout d’abord
   - quote: ce massacre deux fois inutile
-- They advance to the north point over ground full of small hollows that are nests of water birds. Toward the islet's end, big black spots swim at the surface like moving reef heads: the seals to be taken. The plate: "Les colons s’avancèrent prudemment." *(Drafted.)*
+- They advance to the north point over ground full of small hollows that are nests of water birds. Toward the islet's end, big black spots swim at the surface like moving reef heads: the seals to be taken. The plate: "The colonists advanced cautiously." *(Drafted.)*
   - quote: qui formaient autant de nids d’oiseaux aquatiques
   - quote: On eût dit des têtes d’écueils en mouvement.
   - quote: Les colons s’avancèrent prudemment.
@@ -61,11 +61,11 @@
 - The hunters hide behind the shore rocks. After an hour about half a dozen seals come to sport on the sand. Pencroff and Harbert go round the point to take them from behind; Cyrus, the reporter and Nab creep along the rocks. *(Drafted.)*
   - quote: Une heure se passa, avant que les phoques fussent venus s’ébattre sur le sable.
   - quote: On en comptait une demi-douzaine.
-- Suddenly Pencroff's tall form rises and he cries out; the others rush between the sea and the seals. Two are struck dead; the others reach the sea and escape. The plate: "Ces animaux, vigoureusement frappés…" *(Drafted.)*
+- Suddenly Pencroff's tall form rises and he cries out; the others rush between the sea and the seals. Two are struck dead; the others reach the sea and escape. The plate: "These animals, vigorously struck…" *(Drafted.)*
   - quote: Deux de ces animaux, vigoureusement frappés, restèrent morts sur le sable
   - quote: Ces animaux, vigoureusement frappés…
   - at: I.15 pl2
-- Pencroff: "Les phoques demandés, monsieur Cyrus !" Cyrus: they will make forge bellows of them; Pencroff says the seals are lucky. *(Drafted.)*
+- Pencroff: "The seals asked for, Mr Cyrus!" Cyrus: they will make forge bellows of them; Pencroff says the seals are lucky. *(Drafted.)*
   - quote: Nous en ferons des soufflets de forge !
   - quote: voilà des phoques qui ont de la chance !
 - A blowing machine is needed for the ore, which the engineer means to make of the amphibians' skin. They are of medium size, not over six feet, with dog-like heads. *(Drafted.)*
@@ -86,7 +86,7 @@
 
 ### 6. To the ore through the Jacamar Wood (I.15 ¶31–¶40)
 
-- On 20 April, at dawn, "la période métallurgique", as the reporter calls it in his notes, begins. Cyrus will work on the coal and ore deposits themselves, at the foot of Mount Franklin's north-east buttresses, six miles away; so the colony will camp under a branch hut so the operation can be followed day and night. *(Drafted.)*
+- On 20 April, at dawn, "the metallurgical period", as the reporter calls it in his notes, begins. Cyrus will work on the coal and ore deposits themselves, at the foot of Mount Franklin's north-east buttresses, six miles away; so the colony will camp under a branch hut so the operation can be followed day and night. *(Drafted.)*
   - quote: Ce fut le 20 avril, dès le matin, que commença « la période métallurgique »
   - quote: au bas des contreforts nord-est du mont Franklin, c’est-à-dire à une distance de six milles
   - quote: la petite colonie camperait sous une hutte de branchages
@@ -94,7 +94,7 @@
   - quote: Nab et Pencroff traînaient sur une claie la machine soufflante
   - quote: que l’on traversa obliquement du sud-est au nord-ouest
   - quote: l’artère la plus directe entre le plateau de Grande-Vue et le mont Franklin
-- Harbert points out dragon trees, which Pencroff calls "poireaux prétentieux", being liliaceous like the onion; their woody roots, cooked, are excellent, and fermented give a pleasant liqueur. They make a stock. *(Drafted.)*
+- Harbert points out dragon trees, which Pencroff calls "pretentious leeks", being liliaceous like the onion; their woody roots, cooked, are excellent, and fermented give a pleasant liqueur. They make a stock. *(Drafted.)*
   - quote: que Pencroff traita de « poireaux prétentieux »
   - quote: donnent une très-agréable liqueur
 - The wood journey takes the whole day. Top, in charge of the fauna, rouses game; Harbert and the reporter kill two kangaroos with arrows and an animal like a hedgehog and an anteater: it rolls into a ball and bristles with quills, has digging claws, a long slender snout ending in a bird's beak and an extensible tongue with small spines. Harbert says in the pot it will taste like excellent beef. *(Drafted.)*
@@ -126,7 +126,7 @@
   - quote: la houille fut récoltée, sans peine et non loin, à la surface du sol
   - quote: charbon et minerai furent disposés en tas et par couches successives
   - quote: oxyde de carbone, chargé de réduire l’oxyde de fer
-- The sealskin bellows, with a fireclay pipe made earlier at the pottery kiln, is set by the heap, worked by a mechanism of frames, fibre cords and counterweights. The plate: "L’opération fut difficile." *(Drafted.)*
+- The sealskin bellows, with a fireclay pipe made earlier at the pottery kiln, is set by the heap, worked by a mechanism of frames, fibre cords and counterweights. The plate: "The operation was difficult." *(Drafted.)*
   - quote: un tuyau en terre réfractaire, qui avait été préalablement fabriqué au four à poteries
   - quote: châssis, cordes de fibres et contre-poids
   - quote: L’opération fut difficile.

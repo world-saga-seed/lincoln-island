@@ -125,7 +125,7 @@
   - quote: C’est ce que ses compagnons ignoraient encore
 - A last operation: the nitric acid is put to the glycerine, first concentrated in a water bath, and, with no freezing mixture, gives several pints of an oily yellowish liquid. *(Drafted.)*
   - quote: plusieurs pintes d’un liquide huileux et jaunâtre
-- Cyrus does it alone, away from the Chimneys, because of the danger of explosion; he brings a flask to his friends and says only "Voilà de la nitro-glycérine !" A plate shows him with it. *(Drafted.)*
+- Cyrus does it alone, away from the Chimneys, because of the danger of explosion; he brings a flask to his friends and says only "Here is nitroglycerine!" A plate shows him with it. *(Drafted.)*
   - quote: loin des Cheminées, car elle présentait des dangers d’explosion
   - quote: « Voilà de la nitro-glycérine ! »
   - quote: « Voilà de la nitro-glycérine !

@@ -150,7 +150,7 @@
   - quote: collodion pour préparer la plaque de verre
 - They soon become skilled and take landscapes: the island from Prospect Heights with Mount Franklin behind, the Mercy mouth, the clearing and corral, Claw Cape, Wreck Point. *(Drafted.)*
   - quote: l’ensemble de l’île, pris du plateau de Grande-Vue
-- They also take portraits of everyone on the island. Pencroff says "Ça peuple," and is delighted to see his own portrait on the walls. *(Drafted.)*
+- They also take portraits of everyone on the island. Pencroff says "That peoples the place," and is delighted to see his own portrait on the walls. *(Drafted.)*
   - quote: le portrait de tous les habitants de l’île
   - quote: « Ça peuple, »
 - The best portrait is Master Jup's; he posed gravely and looks pleased with himself. *(Drafted.)*

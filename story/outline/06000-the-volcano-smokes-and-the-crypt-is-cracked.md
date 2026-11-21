@@ -100,7 +100,7 @@
   - quote: L’écorce terrestre n’est autre chose que la paroi d’une chaudière
 - A bouquet of sparks leaps from the crater with detonations like a battery of mitrailleuses. *(Drafted.)*
   - quote: comme le déchirement d’une batterie de mitrailleuses
-- They stay an hour, then go down to Granite-house. Smith is pensive; asked if he foresees danger, he answers "Oui et non". *(Drafted.)*
+- They stay an hour, then go down to Granite-house. Smith is pensive; asked if he foresees danger, he answers "Yes and no". *(Drafted.)*
   - quote: après avoir passé une heure au plateau de Grande-Vue
   - quote: « Oui et non, répondit Cyrus Smith.
 - He fears no earthquake in the usual sense but says other causes may bring great disasters; he will not say which, only that he must visit the mountain and will know within days. *(Drafted.)*
@@ -152,7 +152,7 @@
   - at: III.18 pl2
 - On the northern slope, smoke, flames and a hail of scoriae but no lava from the crater's lip: the volcanic matter has not yet reached the top of the central chimney. *(Drafted.)*
   - quote: le niveau des matières volcaniques n’avait pas encore atteint l’orifice supérieur de la cheminée centrale
-- Smith says to himself he would rather it had; then the lavas would have taken their old route. The danger is not there; "Le capitaine Nemo l’a bien pressenti". *(Drafted.)*
+- Smith says to himself he would rather it had; then the lavas would have taken their old route. The danger is not there; "Captain Nemo had well foreseen it". *(Drafted.)*
   - quote: Le capitaine Nemo l’a bien pressenti !
 - He goes as far as the great causeway framing the Shark Gulf and judges the last eruption very old; he is back at the corral at nine in the morning. *(Drafted.)*
   - quote: golfe du Requin
@@ -187,7 +187,7 @@
   - quote: aucun éclat ne sortait de l’abîme, où reposait le capitaine Nemo
 - Following the right-hand wall, Smith hears the volcano's rumblings; sulphurous vapours catch in their throats. *(Drafted.)*
   - quote: des vapeurs sulfureuses saisirent à la gorge
-- Smith, paling slightly, says "Voilà ce que craignait le capitaine Nemo !" and that they must go to the end. *(Drafted.)*
+- Smith, paling slightly, says "That is what Captain Nemo feared!" and that they must go to the end. *(Drafted.)*
   - quote: Voilà ce que craignait le capitaine Nemo !
 - Twenty-five minutes after passing the opening the boat reaches the end wall. *(Drafted.)*
   - quote: Vingt-cinq minutes après avoir franchi l’ouverture

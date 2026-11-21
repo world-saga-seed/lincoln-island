@@ -116,7 +116,7 @@
   - quote: provoqué par quelque cause inconnue
 - The apes do not try to put the ladder back, though it would be easy for them to descend by it; the colonists fire from where they stand; some fall back inside, some fall outside and are broken; it seems no ape is left alive in Granite-house. *(Drafted.)*
   - quote: Ils ne cherchaient même pas à replacer l’échelle
-- Pencroff cheers; Spilett says it still does not give them a way in; Pencroff proposes the overflow; Cyrus agrees but begins "il eût été préférable…". *(Drafted.)*
+- Pencroff cheers; Spilett says it still does not give them a way in; Pencroff proposes the overflow; Cyrus agrees but begins "it would have been preferable…". *(Drafted.)*
   - quote: Cependant, il eût été préférable…
 
 ### 9. The ladder comes down by itself (II.6 ¶81–¶88)

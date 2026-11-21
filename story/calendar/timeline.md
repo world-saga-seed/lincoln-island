@@ -1,6 +1,6 @@
 # Timeline
 
-*The dated and datable events of the French, in book order, merged by the main session from the phase 2 outliners' fragments (`plan/tasks/task-20261120-03-outline-french/timeline-*.md`), each line as its outliner wrote it. A date the text states is marked *(Drafted.)*; a date worked out from "le lendemain" and the like is marked *(My reading, to confirm.)* with the quote it rests on. Where the chapters give no year the outliners wrote the year as a reading, or left it open as "----"; it is not filled in here. Where the text disagrees with itself, both lines stand side by side, flagged; nothing is reconciled (R1120-33). The cross-chapter discords the outliners could not see from inside their spans are listed at the end.*
+*The dated and datable events of the French, in book order, merged by the main session from the phase 2 outliners' fragments (`plan/tasks/task-20261120-03-outline-french/timeline-*.md`), each line as its outliner wrote it. A date the text states is marked *(Drafted.)*; a date worked out from "the next day" and the like is marked *(My reading, to confirm.)* with the quote it rests on. Where the chapters give no year the outliners wrote the year as a reading, or left it open as "----"; it is not filled in here. Where the text disagrees with itself, both lines stand side by side, flagged; nothing is reconciled (R1120-33). The cross-chapter discords the outliners could not see from inside their spans are listed at the end.*
 
 ## 00100 to 00200 (I.1 to I.2)
 
@@ -60,7 +60,7 @@
   - quote: À neuf heures et demie, Cyrus Smith et ses compagnons se glissaient par divers côtés sur la place
 - 1865-03-20, night: the balloon is cast off (I.2 ¶55, ¶57). *(My reading, to confirm.)*
   - quote: partis le 20 mars
-- 1865-03-25: "cinq jours après", the sea first seen (I.2 ¶56). Flagged: against the 23rd (I.1 ¶13) and the 24th (I.2 ¶57). *(My reading, to confirm.)*
+- 1865-03-25: "five days later", the sea first seen (I.2 ¶56). Flagged: against the 23rd (I.1 ¶13) and the 24th (I.2 ¶57). *(My reading, to confirm.)*
   - quote: Ce fut cinq jours après seulement, qu’une éclaircie laissa voir l’immense mer
 - 1865-03-24: four are thrown on the coast (I.2 ¶57, ¶1). *(Drafted.)*
   - quote: quatre étaient jetés, le 24 mars, sur une côte déserte
@@ -69,7 +69,7 @@
 
 ## 00300 (I.3)
 
-- 1865-03-24, evening, "Cinq heures du soir": the summary places the search at five in the evening (I.3 ¶0). *(Drafted.)* The date works out from ¶37 below. *(My reading, to confirm.)*
+- 1865-03-24, evening, "Five in the evening": the summary places the search at five in the evening (I.3 ¶0). *(Drafted.)* The date works out from ¶37 below. *(My reading, to confirm.)*
   - quote: Cinq heures du soir.
 - 1865-03-24, near 6 p.m.: the four walk north along the east coast in the dark (I.3 ¶14). *(Drafted.)* Flagged: ¶0 says five.
   - quote: Il était près de six heures alors.
@@ -108,7 +108,7 @@
   - quote: il était une heure après midi
 - 1865-03-25, "avant deux heures" (before two o'clock, or within two hours, unclear): the raft arrives at the Chimneys (I.4 ¶64). *(Drafted.)*
   - quote: avant deux heures, il arrivait à l’embouchure
-- 1865-03-24, the landing, "la veille" (I.5 ¶26). *(My reading, to confirm.)* Flag: I.4 ¶8 also speaks of "l’endroit où ils étaient débarqués" without a date.
+- 1865-03-24, the landing, "la veille" (I.5 ¶26). *(My reading, to confirm.)* Flag: I.4 ¶8 also speaks of "the place where they had landed" without a date.
   - quote: le point où ils avaient atterri la veille
 - 1865-03-25, afternoon: the match search, and the second lithodome gathering (I.5 ¶12–¶36). *(My reading, to confirm.)*
   - quote: Harbert et Pencroff se dirigèrent rapidement vers le point où ils avaient atterri la veille
@@ -128,7 +128,7 @@
   - quote: après une heure de marche, ils avaient à peine franchi un mille
 - 1865-03-26, about 3 p.m.: the tétras are seen (I.6 ¶37). *(Drafted.)*
   - quote: Vers trois heures après midi
-- 1865-03-26, about 3:30 p.m. onward: "une grande demi-heure" of waiting, and the three tétras taken (I.6 ¶43, ¶47). *(My reading, to confirm.)*
+- 1865-03-26, about 3:30 p.m. onward: "a good half hour" of waiting, and the three tétras taken (I.6 ¶43, ¶47). *(My reading, to confirm.)*
   - quote: Une grande demi-heure s’écoula
 - 1865-03-26, about 6 p.m.: Pencroff and Harbert are back at the Chimneys (I.6 ¶52). *(Drafted.)*
   - quote: vers six heures, assez fatigués de leur excursion, Harbert et Pencroff rentraient aux Cheminées
@@ -153,7 +153,7 @@
   - quote: car on était au plein de la mer
 - 1865-03-27, about 6:05 a.m.: the cave; Cyrus Smith is found (I.7 ¶85–¶87). *(My reading, to confirm.)* Five minutes after leaving the beach, at about six.
   - quote: Cinq minutes après avoir quitté la grève
-- Discord to flag, not reconciled: the summary of I.7 (¶0) says "À huit mille du premier campement"; ¶81 gives "à six milles environ des Cheminées". *(Drafted.)*
+- Discord to flag, not reconciled: the summary of I.7 (¶0) says "Eight miles from the first camp"; ¶81 gives "about six miles from the Chimneys". *(Drafted.)*
   - quote: À huit mille du premier campement
   - quote: à six milles environ des Cheminées
 
@@ -224,7 +224,7 @@
   - quote: après une marche de vingt minutes
 - 1865-03-29, nearly 8 p.m.: Cyrus and Harbert reach the summit (I.10 ¶56). *(Drafted.)*
   - quote: Il était près de huit heures
-- 1865-03-29, a little after 8 p.m.: the crescent moon sets in the west and Cyrus says "Une île !" (I.10 ¶59, ¶61). *(My reading, to confirm.)*
+- 1865-03-29, a little after 8 p.m.: the crescent moon sets in the west and Cyrus says "An island!" (I.10 ¶59, ¶61). *(My reading, to confirm.)*
   - quote: C’était le croissant délié de la lune, déjà près de disparaître.
 
 ### I.11 (01100)
@@ -244,7 +244,7 @@
   - quote: Or, ceci se passait le 30 mars 1865
 - 1865-03-31, the next day: Cyrus plans to fix the true north by the sunrise and sunset times (I.11 ¶83). Planned, not yet done. *(My reading, to confirm.)*
   - quote: Mais le lendemain, en prenant l’heure exacte du lever et du coucher du soleil
-- 1865-04-15, "seize jours après": the narrator's date for the crime at Washington, with the text's "vendredi saint" (I.11 ¶92). *(My reading, to confirm.)* 30 March plus sixteen days is 15 April; Good Friday of 1865 was 14 April outside the text. Flagged, not reconciled; see the report.
+- 1865-04-15, "sixteen days later": the narrator's date for the crime at Washington, with the text's "vendredi saint" (I.11 ¶92). *(My reading, to confirm.)* 30 March plus sixteen days is 15 April; Good Friday of 1865 was 14 April outside the text. Flagged, not reconciled; see the report.
   - quote: seize jours après, un crime effroyable serait commis à Washington
   - quote: le vendredi saint, Abraham Lincoln tomberait sous la balle d’un fanatique
 
@@ -267,15 +267,15 @@
 
 - 1865-03-24: the castaways were thrown ashore, twelve days before 5 April (I.13 ¶41). *(My reading, to confirm.)*
   - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- 1865-03-31: "le lendemain matin", Pencroff asks where to begin; Top's collar is cut into knives; the party goes to the clay (I.13 ¶1, ¶27–¶29). *(My reading, to confirm.)*
+- 1865-03-31: "the next morning", Pencroff asks where to begin; Top's collar is cut into knives; the party goes to the clay (I.13 ¶1, ¶27–¶29). *(My reading, to confirm.)*
   - quote: le lendemain matin Pencroff à l’ingénieur
-- 1865-03-31 and 1865-04-01: two days of brickmaking, "toute la journée et la suivante" (I.13 ¶32). *(My reading, to confirm.)*
+- 1865-03-31 and 1865-04-01: two days of brickmaking, "the whole day and the next" (I.13 ¶32). *(My reading, to confirm.)*
   - quote: Toute la journée et la suivante furent employées à ce travail.
 - 1865-04-01, evening: Cyrus notes the sunset time, "La veille" of 2 April (I.13 ¶34). *(My reading, to confirm.)*
   - quote: La veille, il avait noté exactement l’heure à laquelle le soleil avait disparu sous l’horizon
 - 1865-04-02: the orientation of the island is fixed; sunrise to noon is 6 h 12 m (I.13 ¶33–¶35). *(Drafted.)*
   - quote: Ce fut dans la journée du 2 avril que Cyrus Smith s’occupa de fixer l’orientation de l’île.
-- Roughly 1865-04-04 to 1865-04-05: the "deux jours qui précédèrent la cuisson" are spent gathering fuel and hunting (I.13 ¶36). *(My reading, to confirm.)*
+- Roughly 1865-04-04 to 1865-04-05: the "the two days that preceded the firing" are spent gathering fuel and hunting (I.13 ¶36). *(My reading, to confirm.)*
   - quote: Pendant les deux jours qui précédèrent la cuisson des briques
 - 1865-04-05, Wednesday: the day count shows twelve days on the island (I.13 ¶41). *(Drafted.)*
   - quote: Le 5 avril, qui était un mercredi
@@ -287,7 +287,7 @@
   - quote: L’opération dura quarante-huit heures et réussit parfaitement.
 - 1865-04-09: lime and some thousand bricks are ready (I.13 ¶45). *(Drafted.)*
   - quote: le 9 avril, l’ingénieur avait à sa disposition une certaine quantité de chaux toute préparée
-- About 1865-04-14: "Cinq jours après" the pottery kiln is loaded with coal (I.13 ¶46). *(My reading, to confirm.)*
+- About 1865-04-14: "Five days later" the pottery kiln is loaded with coal (I.13 ¶46). *(My reading, to confirm.)*
   - quote: Cinq jours après, le four fut chargé de cette houille
 - 1865-04-10: the moon was full, five days before 15 April (I.13 ¶58). *(My reading, to confirm.)*
   - quote: La lune, qui avait été pleine cinq jours auparavant
@@ -332,9 +332,9 @@
 - 1865-04-17: an hour's wait, then the seals are taken; three hours of skinning (I.15 ¶21, ¶28). *(My reading, to confirm.)*
   - quote: Une heure se passa, avant que les phoques fussent venus s’ébattre sur le sable.
   - quote: trois heures après, Cyrus Smith avait à sa disposition deux peaux de phoque
-- About 1865-04-20: "trois jours après" the bellows is finished (I.15 ¶30). *(My reading, to confirm.)*
+- About 1865-04-20: "three days after" the bellows is finished (I.15 ¶30). *(My reading, to confirm.)*
   - quote: trois jours après, l’outillage de la petite colonie s’était augmenté d’une machine soufflante
-- 1865-04-20, morning: the "période métallurgique" begins; the party leaves for the ore (I.15 ¶31–¶32). *(Drafted.)*
+- 1865-04-20, morning: the "the metallurgical period" begins; the party leaves for the ore (I.15 ¶31–¶32). *(Drafted.)*
   - quote: Ce fut le 20 avril, dès le matin, que commença « la période métallurgique »
 - 1865-04-20, 5 p.m.: halt at the foot of the buttresses (I.15 ¶39). *(Drafted.)*
   - quote: À cinq heures du soir, Cyrus Smith donnait le signal de halte.
@@ -466,7 +466,7 @@
   - quote: À cinq heures, le dîner fut servi dans la salle de Granite-house.
 - 1865-10-24: seven months to the day since the landing (II.1 ¶1; I.22 ¶70). The date of the landing is not in these chapters; if it was 24 March, the two agree. *(My reading, to confirm.)*
   - quote: Il y avait sept mois, jour pour jour, que les passagers du ballon avaient été jetés sur l’île Lincoln.
-- 1865-10-25: Pencroff begins the pirogue, "dès le lendemain" (II.1 ¶34). *(My reading, to confirm.)*
+- 1865-10-25: Pencroff begins the pirogue, "from the next day" (II.1 ¶34). *(My reading, to confirm.)*
   - quote: Dès le lendemain, Pencroff se mit à l’ouvrage.
 - 1865-10-26: Harbert and Spilett talk while hunting, and Harbert climbs the kauri (II.1 ¶37, ¶48). *(My reading, to confirm.)*
   - quote: c’était le 26 octobre
@@ -491,7 +491,7 @@
   - quote: comme la mer se retirait déjà
 - 1865-10-29, a Sunday, evening: the Gospel is read, the red cross at Matthew VII, 8 (II.2 ¶77, ¶82). *(Drafted.)*
   - quote: Ce jour-là — 29 octobre — était précisément un dimanche
-- 1865-10-30: the exploration is set to begin "le lendemain, dès le point du jour" (II.2 ¶75). *(My reading, to confirm.)*
+- 1865-10-30: the exploration is set to begin "the next day, at daybreak" (II.2 ¶75). *(My reading, to confirm.)*
   - quote: le lendemain, dès le point du jour, on se mettrait en route
 
 ### II.3 (02500)
@@ -504,7 +504,7 @@
   - quote: La marée ne montait que depuis une demi-heure
 - 1865-10-30, 6 a.m.: Pencroff's first raft was built "sept mois auparavant", so about March 1865 (II.3 ¶10). *(My reading, to confirm.)*
   - quote: sept mois auparavant, Pencroff avait formé son premier train de bois
-- 1865-11-02: the moon is to be full "trois jours après" 30 October (II.3 ¶9). *(My reading, to confirm.)*
+- 1865-11-02: the moon is to be full "three days after" 30 October (II.3 ¶9). *(My reading, to confirm.)*
   - quote: la lune devait être pleine trois jours après
 - 1865-10-30, 10 a.m.: the second elbow, about five miles from the mouth; half an hour's halt (II.3 ¶29). *(Drafted.)*
   - quote: Il était dix heures du matin, quand la pirogue atteignit un second coude de la Mercy
@@ -531,12 +531,12 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Il était déjà cinq heures
 - 1865-10-31, about 7 p.m.: the Reptile promontory; the jaguar; the night in its lair (II.4 ¶43, ¶66, ¶79). *(My reading, to confirm.)*
   - quote: Vers sept heures du soir
-- 1865-08 or later, "depuis trois mois au plus": the lead-shot incident, a shot fired on the island within three months (II.4 ¶41). *(My reading, to confirm.)*
+- 1865-08 or later, "for three months at most": the lead-shot incident, a shot fired on the island within three months (II.4 ¶41). *(My reading, to confirm.)*
   - quote: depuis trois mois au plus, un coup de fusil avait été tiré dans l’île
 
 ### II.5 (02700)
 
-- 1865-11-02, sunrise: the promontory; "cette journée du 2 novembre" (II.5 ¶4). *(Drafted.)* Flag: this is two days after II.3 ¶72's 31 October morning, with one day (II.4) between; the text has the 2 where the count of days gives 1 November. Both dates stand; neither is reconciled.
+- 1865-11-02, sunrise: the promontory; "that day, 2 November" (II.5 ¶4). *(Drafted.)* Flag: this is two days after II.3 ¶72's 31 October morning, with one day (II.4) between; the text has the 2 where the count of days gives 1 November. Both dates stand; neither is reconciled.
   - quote: cette journée du 2 novembre
 - 1865-11-01 (the date by counting from II.3 ¶72 and II.4): the same morning at the promontory. *(My reading, to confirm.)* Flag: in discord with the line above.
   - quote: Au soleil levant, tous étaient sur le rivage
@@ -556,14 +556,14 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: il était plus de minuit
 - Three months before 2 November, at most: a ship landed on the island and has left (II.5 ¶54, ¶56). *(Drafted.)*
   - quote: il y a trois mois au plus, un navire, volontairement ou non, a atterri
-- The canoe is said to have been alone "pendant un jour" at the Mercy's sources (II.5 ¶12); left on 31 October, that is one day on 1 November and two on 2 November. Flag, with the date discord above. *(Drafted.)*
+- The canoe is said to have been alone "for one day" at the Mercy's sources (II.5 ¶12); left on 31 October, that is one day on 1 November and two on 2 November. Flag, with the date discord above. *(Drafted.)*
   - quote: La pirogue est restée seule pendant un jour aux sources de la Mercy
 
 ## 02800 to 03100 (II.6 to II.9)
 
 ### 02800 (II.6)
 
-- 1865-11-01 to 1865-11-02, night: the colonists, finding the ladder gone, sleep badly in the Chimneys (II.6 ¶17). *(My reading, to confirm.)* The date rests on II.7 ¶9 and ¶11 (the ladder "renvoyée hier" on the morning of 3 November).
+- 1865-11-01 to 1865-11-02, night: the colonists, finding the ladder gone, sleep badly in the Chimneys (II.6 ¶17). *(My reading, to confirm.)* The date rests on II.7 ¶9 and ¶11 (the ladder "sent back yesterday" on the morning of 3 November).
   - quote: les colons, malgré leur lassitude, dormirent bien sur le sable des Cheminées
 - Seven months on the island, at the time of the ladder's loss (II.6 ¶12). *(Drafted.)*
   - quote: depuis sept mois qu’ils habitaient l’île
@@ -591,7 +591,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Le 20 novembre, le pont fut terminé
 - 1865-11-21: Cyrus begins to mark the western ditch (II.7 ¶39). *(Drafted.)*
   - quote: Le 21 novembre, Cyrus Smith commença à dessiner le fossé
-- 1865-11-21 to about 1865-12-05: the ditch dug "en moins de quinze jours" (II.7 ¶39). *(My reading, to confirm.)*
+- 1865-11-21 to about 1865-12-05: the ditch dug "in less than fifteen days" (II.7 ¶39). *(My reading, to confirm.)*
   - quote: En moins de quinze jours, un fossé large de douze pieds
 - 1865-12-01 to 1865-12-15, the first fortnight of December: the plateau closed (II.7 ¶40). *(Drafted.)*
   - quote: Avec la première quinzaine de décembre
@@ -599,7 +599,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Pendant ce mois de décembre, la chaleur fut très-forte
 - 1865-12-23: two onaggas stray onto the plateau and are shut in (II.7 ¶52). *(Drafted.)*
   - quote: Un jour, le 23 décembre
-- 1865-12-26 to 1865-12-31, "quelques jours après la capture": the cart ready, the road cut to Port Ballon (II.7 ¶61). *(My reading, to confirm.)*
+- 1865-12-26 to 1865-12-31, "a few days after the capture": the cart ready, the road cut to Port Ballon (II.7 ¶61). *(My reading, to confirm.)*
   - quote: quelques jours après la capture des onaggas
 - Late December 1865: the onaggas first harnessed; the envelope and rigging brought home; back at 8 p.m. (II.7 ¶61–¶64). *(Drafted.)*
   - quote: ce fut vers la fin de décembre qu’on essaya pour la première fois les onaggas
@@ -625,7 +625,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Pendant ce mois de février, il ne se passa aucun événement de quelque importance
 - Late summer 1866 (February to March): bustards, shovellers and Mozambique cocks in the poultry-yard (II.8 ¶45). *(Drafted.)*
   - quote: Vers la fin de l’été
-- Eleven months since contact; the anniversary of the landing due "le 24 mars" (II.8 ¶48). *(Drafted.)*
+- Eleven months since contact; the anniversary of the landing due "24 March" (II.8 ¶48). *(Drafted.)*
   - quote: Voilà onze mois que toute communication entre eux et le reste des humains avait été interrompue
   - quote: le 24 mars, arrivait l’anniversaire de ce jour où le ballon les jeta sur cette côte inconnue
 - 1865-03-24 (the anniversary's date): the balloon throws them on the coast (II.8 ¶48). *(Drafted.)* Flagged for the writer against Part I's own date of the landing; this fragment does not decide it.
@@ -640,7 +640,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: le 2, le tonnerre gronda avec une extrême violence
 - 1866-03-02 to about 1866-03-10: eight days of bad weather (II.9 ¶5). *(Drafted.)*
   - quote: Ce mauvais temps dura huit jours
-- About 1866-03-09: the storm ends; the sky stays clouded to the end of summer (II.9 ¶16). *(Drafted.)* Flagged: eight days from the 2nd falls on the 10th; "vers le 9" is the text's own approximation.
+- About 1866-03-09: the storm ends; the sky stays clouded to the end of summer (II.9 ¶16). *(Drafted.)* Flagged: eight days from the 2nd falls on the 10th; "about the 9th" is the text's own approximation.
   - quote: La tempête prit fin vers le 9 mars
 - March 1866: the female onagga foals; mouflon lambs at the corral (II.9 ¶17). *(Drafted.)*
   - quote: Vers cette époque, l’onagga femelle mit bas un petit
@@ -648,7 +648,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Ce fut le 17 mars que l’ascenseur fonctionna pour la première fois
 - 1866-03-28: the glass kiln is fired and the first pane made (II.9 ¶36, ¶41). *(Drafted.)*
   - quote: Le 28 mars, le four fut chauffé vivement
-- Late March 1866, undated, "à cette époque": the cycas found; flour and milk; the light cart (II.9 ¶43, ¶63). *(Drafted.)*
+- Late March 1866, undated, "at that time": the cycas found; flour and milk; the light cart (II.9 ¶43, ¶63). *(Drafted.)*
   - quote: Pendant une des excursions qui furent faites à cette époque
   - quote: À cette époque aussi, l’onagga, les chèvres et les brebis du corral
 - 1866-04-01, Sunday, Easter: the evening on the veranda; Spilett proposes a new reading of the island's position (II.9 ¶68–¶76). *(Drafted.)*
@@ -722,7 +722,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: après qu’ils eurent résisté deux grandes heures
 - 1866-08-16: Jup begins to eat (II.12 ¶60). *(Drafted, year My reading, to confirm.)*
   - quote: Le 16 août, Jup commença à manger.
-- 1866-08-21: Jup gets up "dix jours après avoir pris le lit" (II.12 ¶62). *(Drafted, year My reading, to confirm.)*
+- 1866-08-21: Jup gets up "ten days after taking to bed" (II.12 ¶62). *(Drafted, year My reading, to confirm.)*
   - quote: Dix jours après avoir pris le lit, le 21 août, maître Jup se leva.
 - 1866-08-25: Jup is found smoking (II.12 ¶64). *(Drafted, year My reading, to confirm.)*
   - quote: Enfin, le 25 août, on entendit la voix de Nab
@@ -785,7 +785,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: reprendre leur exploration de la veille
 - 1866-10-14, dawn: day comes; they examine the house (II.14 ¶20). *(My reading, to confirm.)*
   - quote: Le jour parut
-- 1866-10-14, about 2 p.m.: they rest under pines and plan to leave "demain au point du jour" (II.14 ¶33). *(My reading, to confirm.)*
+- 1866-10-14, about 2 p.m.: they rest under pines and plan to leave "tomorrow at daybreak" (II.14 ¶33). *(My reading, to confirm.)*
   - quote: vers deux heures après midi
 - 1866-10-14, afternoon: the wild man is captured; the night is passed aboard (II.14 ¶43–¶92). *(My reading, to confirm.)*
   - quote: La nuit se passa
@@ -806,7 +806,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
 
 ### 03700 (II.15)
 
-- 1866-10-20, 7 a.m.: the Bonadventure grounds at the Mercy's mouth. Flagged: the fire was seen at about 2 a.m. on the 19th, twenty miles off; the text says "Le lendemain" (II.15 ¶1). *(Drafted.)*
+- 1866-10-20, 7 a.m.: the Bonadventure grounds at the Mercy's mouth. Flagged: the fire was seen at about 2 a.m. on the 19th, twenty miles off; the text says "The next day" (II.15 ¶1). *(Drafted.)*
   - quote: Le lendemain, — 20 octobre, — à sept heures du matin
 - Same line, the length of the voyage as counted by the text: four days (II.15 ¶1), against 15 to 20 October (five dates). Flagged. *(Drafted.)*
   - quote: après quatre jours de voyage
@@ -819,16 +819,16 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
 
 ### 03800 (II.16)
 
-- 1866-11-01: "two days after" the tear, the unknown joins the common life; Pencroff hears "Non ! ici ! moi ! jamais !" (II.16 ¶3). *(My reading, to confirm.)*
+- 1866-11-01: "two days after" the tear, the unknown joins the common life; Pencroff hears "No! here! me! never!" (II.16 ¶3). *(My reading, to confirm.)*
   - quote: Deux jours après cette scène
 - 1866-11-03: Cyrus speaks to him and he answers; he says he is English (II.16 ¶11–¶33). *(Drafted.)*
   - quote: Quelques jours plus tard, le 3 novembre
 - 1866-11-03, later, my reading, same day: Harbert is asked the month and says December, and the year 1866 (II.16 ¶36–¶39). Flagged: the month given is not November. *(My reading, to confirm.)*
   - quote: Décembre, répondit Harbert
   - quote: Quel mois ? lui demanda-t-il
-- 1866-11-04 to 1866-11-09: "Pendant les jours qui suivirent" he lives apart (II.16 ¶65). *(My reading, to confirm.)*
+- 1866-11-04 to 1866-11-09: "During the days that followed" he lives apart (II.16 ¶65). *(My reading, to confirm.)*
   - quote: Pendant les jours qui suivirent
-- 1866-11-10, about 8 p.m.: the outburst under the veranda; "Adieu donc !" (II.16 ¶66–¶72). *(Drafted.)*
+- 1866-11-10, about 8 p.m.: the outburst under the veranda; "Farewell, then!" (II.16 ¶66–¶72). *(Drafted.)*
   - quote: Le 10 novembre, vers huit heures du soir
 - 1866-11-15: the third harvest (II.16 ¶80). *(Drafted.)*
   - quote: Au 15 novembre, on fit la troisième moisson
@@ -848,9 +848,9 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
 
 ### 03900 (II.17)
 
-- 1866-12-10: "une semaine après son retour", the request to live at the corral (II.17 ¶10). *(Drafted.)*
+- 1866-12-10: "a week after his return", the request to live at the corral (II.17 ¶10). *(Drafted.)*
   - quote: Le 10 décembre, une semaine après son retour à Granite-house
-- About 1866-12-17: the corral house is ready "la semaine ne s’était pas écoulée" (II.17 ¶28). *(My reading, to confirm.)*
+- About 1866-12-17: the corral house is ready "the week had not yet passed" (II.17 ¶28). *(My reading, to confirm.)*
   - quote: la semaine ne s’était pas écoulée que la maison était prête à recevoir son hôte
 - 1866-12-20: the installations at the corral are finished (II.17 ¶30). Flagged against the line above. *(Drafted.)*
   - quote: C’était le 20 décembre que les installations avaient été achevées au corral
@@ -858,7 +858,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Il était alors huit heures
 - 1852-04-08: Captain Grant lands Ayrton on Australia's west coast (II.17 ¶59). *(Drafted.)*
   - quote: le capitaine Grant l’avait débarqué, le 8 avril 1852
-- About 1853 (end): the Britannia is lost, "une année auparavant" from 20 December 1854 (II.17 ¶42); also "depuis moins de deux ans" (¶50). *(My reading, to confirm.)*
+- About 1853 (end): the Britannia is lost, "a year earlier" from 20 December 1854 (II.17 ¶42); also "for less than two years" (¶50). *(My reading, to confirm.)*
   - quote: avait péri corps et biens, une année auparavant
   - quote: se fût perdu depuis moins de deux ans
 - About mid-1854: the bottle is picked up in the Irish Sea, "six mois auparavant" (II.17 ¶44). *(My reading, to confirm.)*
@@ -878,7 +878,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: On était au 3 mars 1855
 - 1855-03-18: the Duncan leaves Ayrton on Tabor; Hetzel's note warns of discord in the dates (II.17 ¶79, n1). *(Drafted.)*
   - quote: On était au 18 mars 1855[n1]
-- 1855-03 to the 1860s: Ayrton's "deux ans, trois ans", then savagery "après deux ou quatre ans" (II.17 ¶82–¶83); no dates given. *(Drafted.)*
+- 1855-03 to the 1860s: Ayrton's "deux ans, trois ans", then savagery "after two or four years" (II.17 ¶82–¶83); no dates given. *(Drafted.)*
   - quote: Pendant deux ans, trois ans, ce fut ainsi
 
 ## 04000 to 04300 (II.18 to III.1)
@@ -913,7 +913,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Le 16 avril, au matin, tous les colons, accompagnés de Top, étaient embarqués
 - 1867-04-17: the west coast; midday at the Falls River mouth; evening anchorage on the north shore (II.19 ¶44, ¶46, ¶53). *(Drafted.)*
   - quote: Le lendemain, 17 avril, Pencroff appareilla dès le point du jour
-- 1867-04-18, 8 a.m. under way; 10 a.m. the talk of the tide and the fire (II.19 ¶55, ¶69). *(My reading, to confirm: the day follows from ¶53's evening and ¶54's "ce matin-là".)*
+- 1867-04-18, 8 a.m. under way; 10 a.m. the talk of the tide and the fire (II.19 ¶55, ¶69). *(My reading, to confirm: the day follows from ¶53's evening and ¶54's "that morning".)*
   - quote: À huit heures du matin, le Bonadventure appareillait
 - 1867-04-18, full moon (II.19 ¶73). *(My reading, to confirm: the day follows the line above.)*
   - quote: c’est aujourd’hui pleine lune
@@ -954,16 +954,16 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Il était sept heures et demie alors
 - 1867-10-17, night, after nightfall: the cannon shot and the anchor (III.1 ¶99–¶104). *(Drafted.)*
   - quote: Six secondes s’étaient écoulées entre la lumière et le coup
-- Discord, flagged and not reconciled: Pencroff's forecast of the cape "entre midi et une heure" (II.19 ¶72) against "il était environ six heures" abreast of the gulf (II.20 ¶1).
+- Discord, flagged and not reconciled: Pencroff's forecast of the cape "between noon and one o'clock" (II.19 ¶72) against "it was about six o'clock" abreast of the gulf (II.20 ¶1).
   - quote: nous serons par le travers du cap entre midi et une heure
   - quote: il était environ six heures quand le Bonadventure fut par le travers du golfe
-- Discord, flagged and not reconciled: Ayrton's move to Granite-house "vers la mi-avril" (II.20 ¶73) against May's bad days (II.20 ¶71).
+- Discord, flagged and not reconciled: Ayrton's move to Granite-house "towards mid-April" (II.20 ¶73) against May's bad days (II.20 ¶71).
   - quote: Ce qu’il fit vers la mi-avril
   - quote: les mauvais jours étaient venus avec le mois de mai
 
 ## 04400 to 04700 (III.2 to III.5)
 
-- 10-17, evening: the pirates have anchored a short way off; the colonists expect a landing "le lendemain" (III.2 ¶1). *(My reading, to confirm: the day is 17 October, from III.1 ¶1.)*
+- 10-17, evening: the pirates have anchored a short way off; the colonists expect a landing "the next day" (III.2 ¶1). *(My reading, to confirm: the day is 17 October, from III.1 ¶1.)*
   - quote: le lendemain, au moyen de leurs canots
 - 10-17, 10:30 p.m.: Ayrton and Pencroff leave in the pirogue (III.2 ¶33). *(Drafted.)*
   - quote: Il était dix heures et demie du soir
@@ -981,11 +981,11 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Il était six heures et demie du matin.
 - 10-18, 8 a.m.: the first boat is lowered from the brig (III.3 ¶23). *(Drafted.)*
   - quote: À huit heures, cependant
-- 10-18, about 8 to 8:20 a.m.: the first shots, then the boat reaches the Mercy twenty minutes after them (III.3 ¶28, ¶36). *(My reading, to confirm: from 8 o'clock and "Vingt minutes après les premiers coups de feu".)*
+- 10-18, about 8 to 8:20 a.m.: the first shots, then the boat reaches the Mercy twenty minutes after them (III.3 ¶28, ¶36). *(My reading, to confirm: from 8 o'clock and "Twenty minutes after the first shots".)*
   - quote: Vingt minutes après les premiers coups de feu
 - 10-18, later in the morning: the first boat regains the brig half an hour after (III.3 ¶41); the second boat and the islet landing; the six landed (III.3 ¶43–¶47). *(Drafted.)*
   - quote: Une demi-heure s’écoula
-- 10-18, the hour is not stated: the brig weighs; the sea "devait encore monter pendant une heure et demie" (III.3 ¶62). *(Drafted.)*
+- 10-18, the hour is not stated: the brig weighs; the sea "was still to rise for an hour and a half" (III.3 ¶62). *(Drafted.)*
   - quote: La mer devait encore monter pendant une heure et demie
 - 10-18, the hour is not stated: the Speedy is blown up from below and sinks in under ten seconds (III.3 ¶99). *(Drafted.)*
   - quote: en moins de dix secondes
@@ -1033,7 +1033,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: mirent deux heures à la franchir
 - ----11-10, evening: the telegram about the goats, with no acknowledgement (III.6 ¶54). *(Drafted.)*
   - quote: Le soir même, on envoya un télégramme à Ayrton
-- ----11-10, evening: Ayrton was to be back "le 10 au soir, ou le 11 au plus tard" (III.6 ¶54). *(Drafted.)*
+- ----11-10, evening: Ayrton was to be back "the evening of the 10th, or the 11th at the latest" (III.6 ¶54). *(Drafted.)*
   - quote: il avait été décidé que le 10 au soir, ou le 11 au plus tard, dès le matin, il serait de retour
 - ----11-10, about 10 p.m.: second dispatch, no answer (III.6 ¶56). *(Drafted.)*
   - quote: vers dix heures du soir, il n’était aucunement question d’Ayrton
@@ -1116,7 +1116,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: le troisième accès de la fièvre pernicieuse ne s’était pas manifesté
 - 1867-12-09, through the day: quinine every three hours (III.11 ¶9). *(Drafted.)*
   - quote: de trois heures en trois heures environ
-- 1867-12-10: improvement "dès le lendemain" (III.11 ¶10). *(My reading, to confirm.)*
+- 1867-12-10: improvement "from the next day" (III.11 ¶10). *(My reading, to confirm.)*
   - quote: Harbert, dès le lendemain, éprouvait une certaine amélioration
 - 1867-12-20: convalescence, "ten days after" (III.11 ¶11). Ten days after 9 December is the 19th; flagged. *(Drafted.)*
   - quote: Dix jours après, le 20 décembre, Harbert entrait en convalescence
@@ -1176,7 +1176,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Ce fut ainsi jusqu’à la troisième semaine de février
 - About 1868-02-12: the convicts find and wreck the Bonadventure, "eight days" before the telling (III.13 ¶55). *(My reading, to confirm.)*
   - quote: il y a huit jours à peine
-- 1868-02-19: the search begins "le jour même"; a week (III.13 ¶65). Discord with ¶4's "Le lendemain" (the 20th); not reconciled. *(Drafted.)*
+- 1868-02-19: the search begins "the same day"; a week (III.13 ¶65). Discord with ¶4's "The next day" (the 20th); not reconciled. *(Drafted.)*
   - quote: Des recherches furent commencées le jour même, 19 février, et durèrent une semaine entière
   - quote: Le lendemain, Ayrton sortait de cette torpeur
 - 1868-02-19 to 25: the search over the northern region and the crater (III.13 ¶94). *(Drafted.)*
@@ -1252,7 +1252,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: La journée se termina sans qu’aucun changement se manifestât.
 - ----10-17, a little after midnight: Nemo crosses his arms (III.17 ¶77). *(My reading, to confirm.)*
   - quote: un peu après minuit
-- ----10-17, about 1 a.m.: Captain Nemo dies, saying "Dieu et patrie !" (III.17 ¶78). *(My reading, to confirm.)*
+- ----10-17, about 1 a.m.: Captain Nemo dies, saying "God and country!" (III.17 ¶78). *(My reading, to confirm.)*
   - quote: Vers une heure du matin
 - ----10-17, some hours later: the Nautilus is sunk (III.17 ¶85, ¶90). *(My reading, to confirm.)*
   - quote: Quelques heures après, les colons remplissaient la promesse faite au capitaine
@@ -1273,7 +1273,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Ce fut le 3 janvier que Harbert
 - 1869-01-03, all day: the précintes are set (III.18 ¶32). *(Drafted.)*
   - quote: pendant toute cette journée du 3 janvier
-- 1869-01-03, evening and night: the crater on fire; "deux mois et demi" since about 15 October (III.18 ¶33–¶38). *(Drafted.)*
+- 1869-01-03, evening and night: the crater on fire; "two and a half months" since about 15 October (III.18 ¶33–¶38). *(Drafted.)*
   - quote: voilà déjà deux mois et demi de cela !
 - 1869-01-03: "dix semaines" of smouldering, in tension with the two and a half months and the real interval of about eleven and a half weeks. Flagged; not reconciled (III.18 ¶39). *(Drafted.)*
   - quote: Les feux souterrains ont donc couvé pendant dix semaines
@@ -1302,7 +1302,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Le jour était venu, — 24 janvier. —
 - 1869-01-24, about 7 a.m.: they withdraw to the edge of the Jacamar wood (III.19 ¶38). *(Drafted.)*
   - quote: Vers sept heures du matin, la position n’était plus tenable pour les colons
-- 1869-01-24, later that morning: the dike is built "en quelques heures" and the lava falls into the lake (III.19 ¶50–¶51). *(My reading, to confirm.)*
+- 1869-01-24, later that morning: the dike is built "in a few hours" and the lava falls into the lake (III.19 ¶50–¶51). *(My reading, to confirm.)*
   - quote: ils parvinrent, en quelques heures, à élever une digue
 - 1869-01-25 to 1869-01-30: six days of work on the ship (III.19 ¶57). *(Drafted.)*
   - quote: du 25 au 30 janvier
@@ -1338,7 +1338,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: le 24 mars, arrivait l’anniversaire de ce jour où le ballon les jeta sur cette côte inconnue
   - quote: c’était le 26 mars, et il y avait deux ans que les naufragés de l’air avaient été jetés sur l’île Lincoln
   - quote: au vingt-cinquième jour de mars, le troisième anniversaire de leur arrivée
-- **The years.** By the text's own markers: 1865 (I.1), "l’année 1866" begun (II.8 ¶6), the winter of 1866 to 1867 (II.11 ¶9), March 1867 (II.18 ¶82), "deux ans et demi" by the brig in October 1867 (III.1 ¶1), February 1868 (III.11), and 1868 and 1869 in III.18. With these years, III.8 ¶22's "plus de deux ans et demi" since Richmond, in November 1867, fits (report n's flag). *(My reading, to confirm.)*
+- **The years.** By the text's own markers: 1865 (I.1), "the year 1866" begun (II.8 ¶6), the winter of 1866 to 1867 (II.11 ¶9), March 1867 (II.18 ¶82), "two and a half years" by the brig in October 1867 (III.1 ¶1), February 1868 (III.11), and 1868 and 1869 in III.18. With these years, III.8 ¶22's "more than two and a half years" since Richmond, in November 1867, fits (report n's flag). *(My reading, to confirm.)*
   - quote: Depuis deux ans et demi, les naufragés du ballon avaient été jetés sur l’île Lincoln
   - quote: Depuis plus de deux ans et demi qu’ils s’étaient échappés de Richmond
 - **"Quinze mois"** (II.13 ¶22), said in October 1866, is about nineteen months after March 1865. *(Drafted.)*
@@ -1351,16 +1351,16 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: il était depuis douze ans déjà sur l’îlot quand nous l’y avons trouvé
   - quote: après douze ans d’expiation
   - quote: une certaine discordance dans les dates
-- **Ben Joyce is Ayrton.** II.17 gives the name ("sous le nom de Ben Joyce"). III.9 ¶41 calls "le Ben Joyce" the convicts' chief, and III.2 and III.7 put the convicts in Bob Harvey's band. This answers report n's question 3. *(Drafted.)*
+- **Ben Joyce is Ayrton.** II.17 gives the name ("under the name of Ben Joyce"). III.9 ¶41 calls "Ben Joyce" the convicts' chief, and III.2 and III.7 put the convicts in Bob Harvey's band. This answers report n's question 3. *(Drafted.)*
   - quote: il était devenu, sous le nom de Ben Joyce, le chef de convicts évadés
   - quote: le Ben Joyce, le chef des convicts évadés
-- **Tabor's bearing and distance.** It is west and south by the coordinates and north-east in the text (II.9, report i), at 150 miles (II.9, II.11, II.13), and the Duncan comes "à cent milles de là dans le nord-est" (III.20 ¶28). *(Drafted.)*
+- **Tabor's bearing and distance.** It is west and south by the coordinates and north-east in the text (II.9, report i), at 150 miles (II.9, II.11, II.13), and the Duncan comes "a hundred miles from there to the north-east" (III.20 ¶28). *(Drafted.)*
   - quote: À cent cinquante milles environ dans le nord-est
   - quote: à cent milles de là dans le nord-est
 - **Port Ballon "la veille"** (II.7 ¶14) sits against two outliners' readings of the first days of November (reports h and i: the balloon on 2 November in II.5; the ladder night 1 to 2 November). It is read as one sequence in phase 4. *(My reading, to confirm.)*
   - quote: découvert la veille sur la côte méridionale
   - quote: cette journée du 2 novembre
-- **Nemo's years** (III.16): "seize ans" since the Frenchman, "trente années" without contact, and 6 November 1866, all against the colony's years and his six years under the island. Hetzel's note III.16 n1 concedes the discord. *(Drafted.)*
+- **Nemo's years** (III.16): "seize ans" since the Frenchman, "thirty years" without contact, and 6 November 1866, all against the colony's years and his six years under the island. Hetzel's note III.16 n1 concedes the discord. *(Drafted.)*
   - quote: Ce Français que le hasard jeta à mon bord il y a seize ans
   - quote: pendant la nuit du 6 novembre 1866
   - quote: sur la discordance de quelques dates

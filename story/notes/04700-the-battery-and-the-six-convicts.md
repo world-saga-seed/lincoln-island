@@ -13,15 +13,15 @@
   - The torpedo discussion follows the cylinder (30 November in III.4 ¶81) with no date. The chapter covers roughly the days up to 8 November, or beyond; see the flag. *(My reading, to confirm.)*
   - Ranges: about three, four and nearly five miles from Granite-house (¶37, ¶39, ¶41). *(Drafted.)*
 - **Clues.**
-  - The benefactor: he saved Smith after the balloon's fall, wrote the document, left the bottle, sent the case, lit the fire, fired the lead grain, set the torpedo (¶3); communicates "par le puits de Granite-house", held out the bottle, threw Top from the lake, killed the dugong (¶4). *(Drafted.)*
-  - Spilett: his means "tiendraient du surnaturel" (¶4). Pencroff's picture of him (¶14) and Spilett's "Dieu le père" (¶15). *(Drafted.)*
+  - The benefactor: he saved Smith after the balloon's fall, wrote the document, left the bottle, sent the case, lit the fire, fired the lead grain, set the torpedo (¶3); communicates "through the well of Granite-house", held out the bottle, threw Top from the lake, killed the dugong (¶4). *(Drafted.)*
+  - Spilett: his means "would be supernatural" (¶4). Pencroff's picture of him (¶14) and Spilett's "God the Father" (¶15). *(Drafted.)*
   - Ayrton's view that the benefactor went to Tabor Island (¶20). *(Drafted.)*
   - The six convicts' whereabouts unknown (¶44, ¶70). *(Drafted.)*
 - **Length.** 71 paragraphs (¶1–¶71); 2,994 words in the ¶1–¶71 lines. *(Drafted.)*
 
 ## Open and flags
-- Date. ¶24 gives "le 8 novembre" for the cannon trial, after "quelques jours" of work (¶22) that follow the discussion (¶3–¶21), which rests on the cylinder; III.4 ¶81 dates the cylinder's finding "le 30 novembre". Card neither. *(My reading, to confirm.)*
-- Steel. ¶23 calls the guns "de jolies pièces en acier fondu"; ¶30 says "Faits en acier forgé". Both quoted; card neither. *(My reading, to confirm.)*
-- The range. ¶36 gives no distance for the first shot ("à une distance qu’on ne put d’ailleurs apprécier avec exactitude"), then ¶37, ¶39, ¶41 give three, four and five miles. *(Drafted.)*
-- Torpedo charge. ¶1 says "nitroglycérine, picrate ou autre matière de même nature", not a definite fact. *(Drafted.)*
+- Date. ¶24 gives "8 November" for the cannon trial, after "quelques jours" of work (¶22) that follow the discussion (¶3–¶21), which rests on the cylinder; III.4 ¶81 dates the cylinder's finding "30 November". Card neither. *(My reading, to confirm.)*
+- Steel. ¶23 calls the guns "pretty pieces of cast steel"; ¶30 says "Made of forged steel". Both quoted; card neither. *(My reading, to confirm.)*
+- The range. ¶36 gives no distance for the first shot ("at a distance that could not be judged exactly"), then ¶37, ¶39, ¶41 give three, four and five miles. *(Drafted.)*
+- Torpedo charge. ¶1 says "nitro-glycerine, picrate, or some other substance of the same kind", not a definite fact. *(Drafted.)*
 - No Wikisource correction listed in `texts/README.md` falls in this chapter. *(Drafted.)*

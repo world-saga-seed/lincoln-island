@@ -64,7 +64,7 @@
 
 - Sea turtles frequent the beaches of Cape Mandible; the sand is humped with spherical eggs with hard white shells whose albumen does not coagulate; each turtle can lay up to two hundred and fifty a year. *(Drafted.)*
   - quote: chaque tortue peut en pondre annuellement jusqu’à deux cent cinquante
-- Spilett: "Un véritable champ d’œufs". They also hunt the turtles and bring back about a dozen; turtle broth wins Nab praise. *(Drafted.)*
+- Spilett: "A real field of eggs". They also hunt the turtles and bring back about a dozen; turtle broth wins Nab praise. *(Drafted.)*
   - quote: une douzaine de ces chéloniens
 - Salmon come in shoals up the Mercy for several miles to spawn, females first; about a thousand, up to two and a half feet long, enter the river; some hundreds are caught behind weirs and salted for winter. *(Drafted.)*
   - quote: Un millier de ces poissons
@@ -78,7 +78,7 @@
   - at: II.8 pl2
 - One day, unannounced, Jup serves at table, napkin on his arm, to the amusement of the diners. *(Drafted.)*
   - quote: la serviette sur le bras
-- Pencroff repeats his first-day joke: "il faudra vous doubler vos gages"; Jup nods his head. *(Drafted.)*
+- Pencroff repeats his first-day joke: "you will have to double your wages"; Jup nods his head. *(Drafted.)*
   - quote: il faudra vous doubler vos gages
 - Jup is by now acclimatised and goes with his masters into the forest without any wish to escape; carries a cane like a gun; climbs for fruit; with one shoulder frees a bogged wheel. *(Drafted.)*
   - quote: sans jamais manifester aucune envie de s’enfuir

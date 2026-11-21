@@ -6,7 +6,7 @@
 
 ### 1. Winter clothing: felting the wool (II.11 ¶1–¶9)
 
-- Winter comes with June, "le décembre des zones boréales"; the great work is making warm, solid clothes. The wool of the corral's mouflons is ready and only needs turning into cloth. *(Drafted.)*
+- Winter comes with June, "the December of the northern zones"; the great work is making warm, solid clothes. The wool of the corral's mouflons is ready and only needs turning into cloth. *(Drafted.)*
   - quote: l’hiver arrivait avec ce mois de juin
 - With no carding, combing, spinning or weaving gear, Smith will make felt by fulling: the fibres tangle of themselves, and the cloth loses suppleness but keeps heat better. The mouflon wool is of short strands, good for felting. *(Drafted.)*
   - quote: Ce feutre pouvait donc s’obtenir par un simple foulage
@@ -29,9 +29,9 @@
   - quote: un entêtement assez bizarre
 - Smith points out that Pencroff, who has said so much good of Lincoln Island, is the first to want to leave it. Pencroff answers that it is for a few days only, to see what Tabor is, and that he knows it cannot match Lincoln. *(Drafted.)*
   - quote: Pour savoir ce qui se passe à l’île Tabor !
-- Smith says nothing can be going on there; Pencroff answers, "Qui sait ?" *(Drafted.)*
+- Smith says nothing can be going on there; Pencroff answers, "Who knows?" *(Drafted.)*
   - quote: Qui sait ?
-- Pencroff asks leave to take only Harbert. Smith, a hand on his shoulder, says they would never be consoled if harm came to him and "cet enfant, dont le hasard a fait notre fils". *(Drafted.)*
+- Pencroff asks leave to take only Harbert. Smith, a hand on his shoulder, says they would never be consoled if harm came to him and "this child, whom chance has made our son". *(Drafted.)*
   - quote: dont le hasard a fait notre fils
 - Pencroff says they will speak of it again when the time comes; when Smith has seen the boat rigged and tried, and they have gone round the island together, he will no longer hesitate. Smith asks him to say "notre bateau". The talk ends with neither convinced. *(Drafted.)*
   - quote: sans convaincre ni le marin ni l’ingénieur
@@ -137,7 +137,7 @@
   - quote: La muraille, que Cyrus Smith frappa du manche de son coutelas, sonnait le plein.
 - Only an animal of the sea could come through the always-submerged channel linking the well to the sea; where it ends, at what point of the coast and what depth, cannot be settled. *(Drafted.)*
   - quote: cela n’était possible qu’à des animaux marins
-- He climbs back, pulls up the ladder, covers the well's mouth and returns to the great hall, thoughtful. A plate captions: "Il n’y vit rien de suspect." *(Drafted.)*
+- He climbs back, pulls up the ladder, covers the well's mouth and returns to the great hall, thoughtful. A plate captions: "He saw nothing suspicious in it." *(Drafted.)*
   - quote: recouvrit l’orifice du puits
 - He says to himself: "I have seen nothing, and yet there is something." *(Drafted.)*
   - quote: « Je n’ai rien vu, et pourtant il y a quelque chose !

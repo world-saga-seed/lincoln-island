@@ -58,7 +58,7 @@
   - quote: sur une distance inférieure à un mille
 - Cyrus says the plateau will then be a true island, linked to the rest of the domain only by the bridge on the Mercy, the two small bridges at the fall, and two more to be built (one over the ditch, one on the left bank of the Mercy); if these can be raised at will the plateau is safe from surprise. *(Drafted.)*
   - quote: le plateau de Grande-Vue sera une île véritable
-- Cyrus has drawn a map of the plateau; the plan is approved unanimously; Pencroff cries "Au pont, d’abord !". *(Drafted.)*
+- Cyrus has drawn a map of the plateau; the plan is approved unanimously; Pencroff cries "The bridge first!". *(Drafted.)*
   - quote: Au pont, d’abord !
 
 ### 5. Building the bridge, 3 to 20 November (II.7 ¶26–¶31)
@@ -84,7 +84,7 @@
 
 - The colonists want to bring the balloon envelope to safety; this needs a cart at Port Ballon and a road through the thick Far-West. Nab and Pencroff scout to the port and find the "stock of cloth" unharmed in the grotto where it was stored; work on the plateau goes on. *(Drafted.)*
   - quote: le « stock de toile » ne souffrait aucunement
-- Pencroff says finishing the plateau will let them set up the poultry-yard with no fear of foxes or other pests; Nab adds they can clear the plateau and transplant wild plants; Pencroff adds: "notre second champ de blé". *(Drafted.)*
+- Pencroff says finishing the plateau will let them set up the poultry-yard with no fear of foxes or other pests; Nab adds they can clear the plateau and transplant wild plants; Pencroff adds: "our second wheat field". *(Drafted.)*
   - quote: notre second champ de blé
 - The first wheat field, sown with a single grain, gave the ten ears the engineer had foretold, each with eighty grains: eight hundred grains in six months, promising two harvests a year. *(Drafted.)*
   - quote: la colonie se trouvait à la tête de huit cents grains, — en six mois
@@ -111,7 +111,7 @@
   - quote: Pendant ce mois de décembre, la chaleur fut très-forte
 - Since the plateau was closed Jup has been let loose; he stays with his masters, is gentle, very strong, agile, unrivalled at climbing the ladder; he hauls wood and carries stones from the Glycerine Creek bed. *(Drafted.)*
   - quote: maître Jup avait été mis en liberté
-- Harbert jokes that Jup is "déjà un singe", the name masons give their apprentices. *(Drafted.)*
+- Harbert jokes that Jup is "already a monkey", the name masons give their apprentices. *(Drafted.)*
   - quote: Ce n’est pas encore un maçon, mais c’est déjà un singe
 - The poultry-yard covers two hundred square yards on the south-east shore of the lake, palisaded, with brushwood huts in compartments. *(Drafted.)*
   - quote: deux cents yards carrés

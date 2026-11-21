@@ -12,7 +12,7 @@
   - quote: aucune voile, aucune carcasse de navire
 - Nothing on the straight south shore of the promontory for three miles; beyond, an indentation of the land hides the rest, and Cape Claw cannot be seen from the end of the peninsula. *(Drafted.)*
   - quote: on ne pouvait apercevoir le cap Griffe
-- The southern shore remains to be explored; the question is whether to do so at once, on "cette journée du 2 novembre". *(Drafted.)*
+- The southern shore remains to be explored; the question is whether to do so at once, on "that day, 2 November". *(Drafted.)*
   - quote: cette journée du 2 novembre
 
 ### 2. The proposal to come home by the south coast (II.5 ¶5–¶24)
@@ -24,7 +24,7 @@
 - Cyrus Smith: about thirty miles, allowing for the curves; Harbert adds at least ten more from the cape to Granite-house; Spilett says forty in all. *(Drafted.)*
   - quote: À trente milles environ
   - quote: Mettons quarante milles en tout
-- Pencroff asks about the canoe; Spilett says it stayed alone one day at the Mercy's sources and can stay two; Pencroff recalls the turtle; Spilett says the sea turned it over; Cyrus Smith murmurs "Qui sait ?" *(Drafted.)*
+- Pencroff asks about the canoe; Spilett says it stayed alone one day at the Mercy's sources and can stay two; Pencroff recalls the turtle; Spilett says the sea turned it over; Cyrus Smith murmurs "Who knows?" *(Drafted.)*
   - quote: La pirogue est restée seule pendant un jour aux sources de la Mercy
   - quote: Ne savez-vous pas que c’est la mer qui l’a retournée ?
   - quote: Qui sait ? murmura l’ingénieur
@@ -94,7 +94,7 @@
   - quote: Après sept à huit minutes de marche
 - Pencroff cries that they search for a wreck on sea or land, but it is in the air: a large whitish rag hangs at the top of the pine. *(Drafted.)*
   - quote: c’est en l’air qu’elle se trouve
-- It is all that remains of "notre bateau aérien", the balloon, which came down at the top of the tree. *(Drafted.)*
+- It is all that remains of "our air-boat", the balloon, which came down at the top of the tree. *(Drafted.)*
   - quote: notre ballon qui s’est échoué là-haut, au sommet de cet arbre
 - Pencroff cheers, prizing the good canvas for linen, handkerchiefs and shirts; an island where shirts grow on trees. *(Drafted.)*
   - quote: une île où les chemises poussent sur les arbres
@@ -109,7 +109,7 @@
 - On the ground are the envelope with its valve, springs and copper fittings, the net with a large lot of ropes and cords, the retaining ring and the anchor; the envelope is in good condition except for a tear at the lower appendage. *(Drafted.)*
   - quote: le cercle de retenue et l’ancre du ballon
   - quote: seul, son appendice inférieur avait été déchiré
-- "C’était une fortune qui était tombée du ciel." *(Drafted.)*
+- "It was a fortune that had fallen from heaven." *(Drafted.)*
   - quote: C’était une fortune qui était tombée du ciel
 - Pencroff: if they ever leave the island it will not be by balloon; he would have them build a good boat of twenty tons, with a foresail and a jib cut from this cloth, the rest for clothes; Cyrus Smith says "We shall see". *(Drafted.)*
   - quote: nous construirons un bon bateau d’une vingtaine de tonneaux
@@ -149,7 +149,7 @@
   - quote: au moyen d’une longue perche
 - Cyrus Smith, boarding first, finds by touch that the rope was worn through by rubbing on rocks. *(Drafted.)*
   - quote: cette amarre avait été réellement usée par son frottement sur des roches
-- Spilett calls it a circumstance; Cyrus Smith answers "Étrange !" *(Drafted.)*
+- Spilett calls it a circumstance; Cyrus Smith answers "Strange!" *(Drafted.)*
   - quote: Étrange ! » répondit Cyrus Smith
 - The odder part, the narrator says, is that the canoe came just as the colonists were there to seize it; a quarter of an hour later it would have been lost at sea. *(Drafted.)*
   - quote: un quart d’heure plus tard, elle eût été se perdre en mer
@@ -162,5 +162,5 @@
   - quote: Le canot fut halé sur la grève jusqu’auprès des Cheminées
 - Top barks angrily; Nab, feeling for the first rung, cries out. *(Drafted.)*
   - quote: Top aboya avec colère
-- "Il n’y avait plus d’échelle." *(Drafted.)*
+- "There was no more ladder." *(Drafted.)*
   - quote: Il n’y avait plus d’échelle.

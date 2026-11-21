@@ -18,26 +18,26 @@
   - Photographic apparatus from the box, with a "puissant objectif", collodion, silver nitrate, hyposulphite of soda, ammonium chloride, acetate of soda, gold chloride, chlorided papers (¶59–¶60). *(Drafted.)*
   - About twenty jaguar skins in the great hall (¶57). *(Drafted.)*
 - **Time.**
-  - Night of 20 December 1866, the conversation about the bottle (¶1–¶14); the text gives only "Le lendemain, — 21 décembre," in ¶15, and the year follows from ¶25. *(My reading, to confirm.)*
-  - 21 December (¶15); January 1867 (¶25); 10 January (¶29); the wire "quelques jours" (¶39); 6 February poles begun (¶46); "quelques jours après" the wire stretched (¶46); 12 February line in use (¶49). *(Drafted.)*
+  - Night of 20 December 1866, the conversation about the bottle (¶1–¶14); the text gives only "The next day, 21 December," in ¶15, and the year follows from ¶25. *(My reading, to confirm.)*
+  - 21 December (¶15); January 1867 (¶25); 10 January (¶29); the wire "quelques jours" (¶39); 6 February poles begun (¶46); "a few days after" the wire stretched (¶46); 12 February line in use (¶49). *(Drafted.)*
   - Fine season and fourth wheat harvest (¶52); end of March (¶68); the 21st (March), the "snow" (¶69); 26 March, second anniversary (¶82). *(Drafted.)*
   - The chapter covers about three months and six days, 20 December to 26 March. *(My reading, to confirm.)*
 - **Clues.**
-  - Smith says the bottle's thrower was not Ayrton: "Aussi n’est-ce pas lui qui l’a jetée, mon cher Spilett." (¶18). *(Drafted.)*
-  - The list of unexplained events: "Votre sauvetage, la caisse échouée sur le sable, les aventures de Top, cette bouteille enfin" (¶21). *(Drafted.)*
-  - Smith's wish to find "une cause" (¶24). *(Drafted.)*
+  - Smith says the bottle's thrower was not Ayrton: "So it was not he who threw it, my dear Spilett." (¶18). *(Drafted.)*
+  - The list of unexplained events: "Your rescue, the chest washed up on the sand, Top's adventures, this bottle at last" (¶21). *(Drafted.)*
+  - Smith's wish to find "a cause" (¶24). *(Drafted.)*
   - The dog barking at the mouth of the well after the search (¶58). *(Drafted.)*
-  - Reasons for watching the island, "certains soupçons que partageaient l’ingénieur et Gédéon Spilett" (¶26). *(Drafted.)*
+  - Reasons for watching the island, "certain suspicions shared by the engineer and Gédéon Spilett" (¶26). *(Drafted.)*
   - The "snow" of birds, which Smith could not explain at first sight (¶76), and which no one shot or identified (¶81). *(Drafted.)*
   - The zinc box lining is spent on the battery (¶40); no copper on the island (¶40). *(Drafted.)*
 - **Length.** 82 paragraphs (¶1–¶82), about 3,350 words of paragraph text. Three plates (pl1 after ¶43, pl2 after ¶65, pl3 after ¶80). *(Drafted.)*
 
 ## Open and flags
 
-- Pencroff in ¶8 guesses the paper was thrown "il y a sept ou huit ans"; in II.19 ¶18 Spilett says "voilà douze ans qu’Ayrton a été abandonné". The two are about different things (the date the bottle was thrown, and the date of the abandonment). Card neither. *(My reading, to confirm.)*
-- Smith's words in company differ from what he says to Spilett next day. To the others (¶7, ¶9): "Cela ne peut s’expliquer qu’ainsi" and Ayrton lost his mind later than he thinks. To Spilett (¶18): "Aussi n’est-ce pas lui qui l’a jetée". Card neither. *(Drafted.)*
-- ¶40 says no copper on the island, "malgré ses recherches, n’en avait pas trouvé trace". A check on the cards for copper elsewhere is not done here. *(My reading, to confirm.)*
-- ¶75 gives 58 degrees with "(14° centig. au-dessus de zéro)": Fahrenheit, so about 14.4 Celsius. *(My reading, to confirm.)*
-- ¶46 gives the speed of the current as "cent mille kilomètres par seconde". *(Drafted.)*
-- The text gives no year for ¶15 itself; the year 1866 is inferred from ¶25's "l’année 1867 qui commençait". *(My reading, to confirm.)*
+- Pencroff in ¶8 guesses the paper was thrown "seven or eight years ago"; in II.19 ¶18 Spilett says "it is twelve years since Ayrton was abandoned". The two are about different things (the date the bottle was thrown, and the date of the abandonment). Card neither. *(My reading, to confirm.)*
+- Smith's words in company differ from what he says to Spilett next day. To the others (¶7, ¶9): "It can only be explained that way." and Ayrton lost his mind later than he thinks. To Spilett (¶18): "So it was not he who threw it". Card neither. *(Drafted.)*
+- ¶40 says no copper on the island, "despite his searches, he had found no trace of it". A check on the cards for copper elsewhere is not done here. *(My reading, to confirm.)*
+- ¶75 gives 58 degrees with "(14° centigrade above zero)": Fahrenheit, so about 14.4 Celsius. *(My reading, to confirm.)*
+- ¶46 gives the speed of the current as "a hundred thousand kilometres per second". *(Drafted.)*
+- The text gives no year for ¶15 itself; the year 1866 is inferred from ¶25's "the year 1867 that was beginning". *(My reading, to confirm.)*
 - No Wikisource correction touches this chapter. *(Drafted.)*

@@ -162,12 +162,12 @@
 
 - Harbert says this time there will be no obliging engineer to light a fire to guide them to port. *(Drafted.)*
   - quote: nous n’aurons pas d’ingénieur complaisant qui nous allume un feu pour nous guider au port
-- Spilett says they never thanked him for the fire. Smith, very surprised, repeats "Un feu… ?". *(Drafted.)*
+- Spilett says they never thanked him for the fire. Smith, very surprised, repeats "A fire…?". *(Drafted.)*
   - quote: nous ne vous avons jamais remercié
   - quote: Un feu… ?
 - Pencroff explains: on their return they would have passed to leeward of the island but for the fire Smith lit on the Granite-house plateau on the night of 19 to 20 October. *(Drafted.)*
   - quote: un feu dans la nuit du 19 au 20 octobre, sur le plateau de Granite-house
-- Smith answers, "Oui, oui !… C’est une heureuse idée que j’ai eue là". *(Drafted.)*
+- Smith answers, "Yes, yes!… It was a happy idea I had there." *(Drafted.)*
   - quote: C’est une heureuse idée que j’ai eue là
 - Pencroff adds there will be no one to do it again, unless Ayrton thinks of it; Smith says no one. *(Drafted.)*
   - quote: à moins que la pensée n’en vienne à Ayrton

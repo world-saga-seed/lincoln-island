@@ -14,7 +14,7 @@
   - quote: établir une communication entre leur patrie et leur île
 - There are only two ways: a ship shows itself in the waters of the island, or the colonists build a vessel strong enough to reach the nearest lands. *(Drafted.)*
   - quote: ou les colons construiraient eux-mêmes un bâtiment assez fort
-- Pencroff says their "génie" may supply the means himself; he and Nab would not be surprised to be told a ship of three hundred tons waited in Shark Gulf or at Port-Balloon. *(Drafted.)*
+- Pencroff says their "genius" may supply the means himself; he and Nab would not be surprised to be told a ship of three hundred tons waited in Shark Gulf or at Port-Balloon. *(Drafted.)*
   - quote: qu’un navire de trois cents tonneaux les attendait dans le golfe du Requin ou à Port-Ballon
 
 ### 2. Smith proposes a larger ship (III.14 ¶6–¶14)

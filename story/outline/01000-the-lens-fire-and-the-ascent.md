@@ -148,7 +148,7 @@
   - quote: cette étincelante Croix du Sud
   - quote: À mesure que s’évasait le cratère…
   - at: I.10 pl2
-### 10. The summit at night: "Une île !" (I.10 ¶56–¶61)
+### 10. The summit at night: "An island!" (I.10 ¶56–¶61)
 
 - At nearly eight o'clock Cyrus and Harbert stand on the upper crest, at the cone's summit. *(Drafted.)*
   - quote: Il était près de huit heures

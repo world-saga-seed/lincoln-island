@@ -2,7 +2,7 @@
 
 ## Questions held for the next session
 
-- Phase 5's plan, put to the author on 2026-11-21: the voice chapter (I.5 proposed), A6 as I.15 ¶26, Opus renders with Sonnet critics, a 3 M cap.
+- For the author: the insert's names (the French Harbert, Gédéon, Nab, or White's Herbert, Gideon, Neb), and whether the drafting rules take White's American spelling (phase 5, T1).
 
 ## Stages
 
@@ -87,3 +87,4 @@
 | Critic | Prompt version | Planted | Found | False hits | Clean findings | Recall | Precision |
 |---|---|---|---|---|---|---|---|
 | phase 4 finders (f1, f2), Sonnet | `carding/check/prompt-finder.md` | none | 8 in 60 facts | 0 (the critic upheld all 8) | 8 | not measured (the critic found 2 more in 12 passed) | 8 of 8 |
+| phase 5 facts and politics critic, Sonnet | `calibration/prompt-critic-facts.md` | 5 (`calibration-plants.md`) | 5 | 0 | 0 beyond the plants | 5 of 5 | 6 of 6 (one plant reported as two findings) |

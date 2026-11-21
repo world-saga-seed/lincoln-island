@@ -40,7 +40,7 @@
 
 ## Resolution
 
-Phase 5 is done but for one question. The 20 renders, from the cards and the French in White's voice, depart from the French in no way a calibrated critic catches, and use no English or science later than 1876. They keep Verne's politics where White softens them and his figures where White changes them, and the from-the-French-alone render did not add White's addition. The candidate tells are one strong (British "-our" spelling, where White is American throughout) and five weak (small words added or dropped for idiom, each named by the renderer). The voice chapter is White's I.5 (R1121-16). Cost: about 0.58 M agent tokens, against the 3 M cap (R1121-19).
+Phase 5 is done but for one question. The 20 renders, from the cards and the French in White's voice, depart from the French in no way a calibrated critic catches, and use no English or science later than 1876. They keep Verne's politics where White softens them and his figures where White changes them, and the from-the-French-alone render did not add White's addition. The candidate tells are one strong (British "-our" spelling, where White is American throughout) and five weak (small words added or dropped for idiom, each named by the renderer). The voice chapter is White's I.5 (R1121-16). Cost: about 0.51 M agent tokens, against the 3 M cap (R1121-19).
 
 Against the acceptance: 1, every passage rendered and set beside the French and White; 2, every finding quotes the render and the French, and the quotes resolve; 3, the tells logged with quotes and kind; 4, the voice chapter approved (R1121-16); 5, the tokens logged.
 

@@ -75,3 +75,14 @@ Calibrated 5 of 5 (`cal/plants-01900-lost.md`). The clean run is running.
 
 - Calibrated on a copy of 01950 with six planted faults: 6 of 6 caught (`cal/plants-01950-voice.md`).
 - The batch run (fresh Sonnet, `prompt-critic-voice.md`, 87,124 tokens): 9 findings (5 weak, 4 taste), merged with the calibration run's real findings into `findings-v1.md`.
+
+## The revision
+
+### 01900, draft 2
+
+- **Reviser:** a fresh Opus agent, `prompt-reviser-01900.md`, 2026-11-21, 81,540 tokens. Fixes N1, N2, N4 made: four spellings, Prospect Plateau, about 30 splits checked against the French. Inventions: none.
+- **The main session's re-check:**
+  - It restored one connective the reviser reported dropping: Verne's "car" at ¶22, given back as ", for the distance from Lincoln Island", the draft 1 wording.
+  - tells.py: `and/s=0.49 med=18 sd=11.2 short%=8 long%=29` (draft 1: 0.70, 22, 13.2, 7, 42). The median and the long share now sit at White's.
+  - Banned 0; spelling.py 0; Prospect Heights 0; lengths.py 48 to 48; every line of dialogue identical to the snapshot.
+  - The prompt named a keep list "below" and gave none for the neighbours. The reviser reported it; no line was cut, so nothing was lost. The omission critic runs again on draft 2.

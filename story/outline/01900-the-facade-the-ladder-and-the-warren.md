@@ -1,6 +1,6 @@
 # The Facade, the Ladder and the Warren (outline)
 
-*Chapter 01900: the French I.19 (`texts/fr-1875/19.md`). Before: 01800. After: 02000. Third person, past tense; Verne's narrator. Every beat is marked (Drafted.): it is what the French holds.*
+*Chapter 01900: the French I.19 (`texts/fr-1875/19.md`). Before: 01800. After: 02000. Third person, past tense; Verne's narrator. Every beat under Outline is Verne's, marked (Drafted.): it is what the French holds. The section at the end, The seam with 01950, is ours, marked (Proposal.) or (Settled …).*
 
 ## Outline
 
@@ -159,3 +159,12 @@
   - quote: les deux caps Mandibule fermaient au nord et le cap Griffe au sud
   - quote: Toute la baie de l’Union se développait magnifiquement devant eux
   - quote: son appartement au cinquième au-dessus de l’entresol
+
+## The seam with 01950 (ours, not Verne's)
+
+*No Verne beat above changes. These are the lines the inserted chapter, [01950](01950-the-float-in-the-bar.md), leans on. Its beats begin on 1 June, the morning after this chapter's 31 May.*
+
+- The house ends with its windows shuttered for want of glass: "du verre à vitre" (¶46). The float the insert finds is glass. *(Proposal.)*
+- Cyrus keeps his fear of never being rescued to himself, "en dehors du passage des navires, il pouvait craindre de n’être jamais secouru" (¶22). The first secret kept in the house is his. Pencroff's in 01950 is the second. *(Proposal.)*
+- "l’homme qui « sait » réussit" (¶24). In 01950, knowing is what costs them the time they needed. *(Proposal.)*
+- The view from the windows takes in "Toute la baie de l’Union" (¶48). Pencroff's sighting in 01950 is made on the beach, not from these windows (R1121-54).

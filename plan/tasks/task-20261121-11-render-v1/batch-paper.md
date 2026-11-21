@@ -70,3 +70,8 @@ It checked every figure in the wheat arithmetic, the seals, the fat, the bridges
 Calibrated 5 of 5 (`cal/plants-01900-lost.md`). The clean run is running.
 - Clean run (fresh Sonnet, `prompt-critic-omission-01900.md`, 52,457 tokens): **No losses.** It went through ¶1 to ¶48 sentence by sentence, the dialogue and n1. One borderline case it did not count: "assez semblables à leurs congénères d'Europe" as "much like their European fellows" (¶41).
 - 02000, omission critic, clean run (fresh Sonnet, `prompt-critic-omission-02000.md`, 49,953 tokens): **No losses** in ¶0 to ¶68, with the qualifications and every figure checked.
+
+## The voice critic
+
+- Calibrated on a copy of 01950 with six planted faults: 6 of 6 caught (`cal/plants-01950-voice.md`).
+- The batch run (fresh Sonnet, `prompt-critic-voice.md`, 87,124 tokens): 9 findings (5 weak, 4 taste), merged with the calibration run's real findings into `findings-v1.md`.

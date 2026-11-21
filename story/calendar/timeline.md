@@ -1343,7 +1343,7 @@ The chapter states no date. Its day follows the morning of II.3 ¶72.
   - quote: Depuis plus de deux ans et demi qu’ils s’étaient échappés de Richmond
 - **"Quinze mois"** (II.13 ¶22), said in October 1866, is about nineteen months after March 1865. *(Drafted.)*
   - quote: Voilà notre première séparation depuis quinze mois !…
-- **The torpedo's finding before the cannon's trial.** III.4 ¶81 dates the finding of the cylinder to 30 November, and III.5 then dates the cannon trial to 8 November. This is not among Wikisource's listed corrections, and the scan has not been read for it. *(Drafted.)*
+- **The torpedo's finding before the cannon's trial.** III.4 ¶81 dates the finding of the cylinder to 30 November, and III.5 then dates the cannon trial to 8 November. The scan (page 460, R1120-40) shows the print itself reads "le 30 novembre": the discord is Verne's. *(Drafted.)*
   - quote: le 30 novembre, Nab, rôdant sur la grève
   - quote: c’était le 8 novembre
 - **Ayrton's years on Tabor.** He is left there on 18 March 1855 (II.17), "douze ans" by late 1866 (II.16), and "douze ans d’expiation" by 1869 (III.20 ¶26). Hetzel's note II.17 n1 warns of these dates. *(Drafted.)*

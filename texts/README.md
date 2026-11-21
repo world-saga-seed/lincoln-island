@@ -29,7 +29,7 @@ To rebuild: `python3 texts/derive_fr.py hetzel-1875 fr-1875 22,20,20`; `python3 
 
 ## The scan check
 
-Ten pages were read by eye, without OCR (R1120-31), from the Commons DjVu of the Gallica scan (`File:Jules Verne - L'Île mystérieuse.djvu`, credited to Gallica `bpt6k1033380`, 620 pages, sha1 `2360ed184643a54ca4b8a607cc6cc3eb3f87b6e1`). Gallica itself refused the automated fetch (HTTP 403). The DjVu page number is the printed page number on every page read, so `[p.N]` is also the page of the 1875 book. The images were kept in the session's scratch folder and not committed.
+Ten pages were read by eye, without OCR (R1120-31), and one more later (R1120-40), from the Commons DjVu of the Gallica scan (`File:Jules Verne - L'Île mystérieuse.djvu`, credited to Gallica `bpt6k1033380`, 620 pages, sha1 `2360ed184643a54ca4b8a607cc6cc3eb3f87b6e1`). Gallica itself refused the automated fetch (HTTP 403). The DjVu page number is the printed page number on every page read, so `[p.N]` is also the page of the 1875 book. The images were kept in the session's scratch folder and not committed.
 
 | Page | Read against | Result |
 |---|---|---|
@@ -43,6 +43,7 @@ Ten pages were read by eye, without OCR (R1120-31), from the Commons DjVu of the
 | 407 | II.20 ¶1 (end), note n1 | matches, except Wikisource's correction: the print's note reads "Environ 106 kilomètres à l'heure" |
 | 508 | III.10 ¶48 to ¶53 | matches, except Wikisource's correction: the print reads "7 novembre" |
 | 566 | III.16 ¶30 to ¶36, note n1 | matches |
+| 460 | III.4 ¶80 to ¶93 (read later, R1120-40) | matches: the print itself reads "le 30 novembre" for the torpedo's finding, so the date before III.5's "8 novembre" is Verne's, not Wikisource's |
 
 **What it shows.** The transcription is faithful: one slip of a hyphen in ten pages, and no word wrong. All three of Wikisource's corrections that change a fact are confirmed as changes to what Hetzel printed. Two of them are editors' judgments rather than misreads:
 

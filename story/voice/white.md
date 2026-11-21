@@ -4,7 +4,7 @@
 
 ## The rule
 
-- **Spelling:** White's American spelling, as he prints it: color, honor, labor, favor, harbor, neighbor (no "-our" form in all his text), "-ize" as he has it (civilized 6 against civilised 2). *(Settled R1121-21.)* The British "-our" forms are on the [banned list](banned.txt). Phase 5 found them in three of twenty renders.
+- **Spelling:** White's as he prints it, not American or British as a system. He has centre, fibre, grey, mould, sulphur and travelled, but color, honor, defense and realize. The forms, with his counts, are in [the house spelling](spelling.md), built by `tools/spelling.py` from `texts/white-1876/`. Every draft is checked both ways. *(Settled R1121-113.)*
 - **Names:** the page uses White's forms of the names, of people and places, while the cards keep the French (Herbert for Harbert, Neb for Nab, Gideon Spilett for Gédéon Spilett). *(Settled R1121-20.)* Where a card's French name and White's differ, the page takes White's as he prints it in `texts/white-1876/`.
 
 ## Samples

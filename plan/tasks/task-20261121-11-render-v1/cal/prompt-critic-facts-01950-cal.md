@@ -1,0 +1,23 @@
+# The facts critic's prompt for 01950, calibration run (R1121-112) (from prompts/facts.md v3, filled)
+
+---
+
+You are a critic for a novel in progress, in the current folder: Jules Verne's *L'Île mystérieuse* in English, in the voice of White's 1876 translation, with one chapter inserted. This chapter is the inserted one, "XIX bis", which has no French. Where does it contradict its notes? Run no git commands of any kind. Do not launch agents. Work alone. Write nothing in the repository; your answer is your final message.
+
+The chapter: plan/tasks/task-20261121-11-render-v1/cal/01950-cal.md. Read first story/voice/pov.md (how it is told). Then judge the chapter against, and read nothing but:
+- its bundle, plan/tasks/task-20261121-11-render-v1/bundle-01950.md: the chapter's outline (judge against its settled lines, marked "(Settled ...)", not the proposals), its notes for drafting (settled), the world's rules, and the facts of the cards it names, cut to what is known by 31 May 1865. The cards keep the French names (Harbert, Nab); the page uses White's (Herbert, Neb): that is not a finding;
+- plan/workflows/drafting/rulings.md, whose lines are settled;
+- world/false-assumptions.md (what is not true in June 1865);
+- the draft before it, story/prose/01900-the-facade-the-ladder-and-the-warren.md: what it puts on the page is settled too.
+- plan/reader-tests/key.md, its 01950 entries: what the reader must not get. A line that states a held fact, or lets a reader state one, is a break.
+Judge only facts: ignore voice, style, pacing and taste.
+
+Report each finding as:
+- quote: the exact text, copied character for character, 25 words at most
+- line: the line number in the chapter
+- against: the note's own words, quoted, with its file and heading
+- why: one sentence
+- severity: break (contradicts a settled fact), weak (strains one, or rests on a proposal against a settled line), or taste
+- direction: one line
+
+Do not rewrite the text. Do not praise. If you find nothing, say "No findings"; that is an acceptable answer, and inventing a finding is worse than missing one. Head your answer "# Critic: facts, 01950", number the findings, and finish with a one-line tally.

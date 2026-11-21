@@ -4,7 +4,7 @@
 # Run:  python3 tools/tells.py story/prose/*.md --banned story/voice/banned.txt
 
 # Words wrong for the narrator's time and place
-# British spelling; White is American throughout (R1121-21)
+# The "-our" forms, which White never prints (R1121-21). His other spellings, both ways, are checked by tools/spelling.py against story/voice/spelling.md (R1121-113)
 re:\b(colo|hono|labo|favo|harbo|neighbo|vigo|odo|rigo|humo|endeavo|behavio|armo|clamo|ardo|parlo|rumo|splendo|tumo|vapo)ur(s|ed|ing|able|ably|ful|less)?\b
 # Stock phrases a model reaches for
 I realized

@@ -29,3 +29,23 @@
   - Texture (R1121-94): median sentence 11 against about 18; short sentences 32% against about 14%. The squall's short sentences are ruled (R1121-95), but the gap runs through the whole chapter.
   - Key watch: "Then men have been here!" (Herbert) points at people near the island, where K6 must not return "set close by" and K8 leans no.
   - Physics, from the drafter's open list: the outline has the surge throw the float on the islet's rocks (R1121-66, -68), but the wind of 2 June is onshore (gap item 9) and the bar lies on the coast side of the gut, so the islet is to windward.
+- **Facts critic, calibration** (R1121-112): 4 of 5 plants caught in a copy of 01900; it missed the lost clause. See `cal/plants-01900.md`. A "lost: 0" from this critic is not trusted.
+
+## 01950, facts critic, calibration
+
+- All 5 plants caught in a copy of 01950, with 2 real weak findings (the mooring's parting not on the page; the path, already ruled R1121-110) and no false finding. See `cal/plants-01950.md`. The clean run on draft 1 is running.
+
+## 02000, draft 1
+
+- **Drafter:** a fresh Opus agent, 2026-11-21, 101,383 tokens, 21 tool uses, about 166 seconds. Prompt: `prompt-drafter-02000.md`. One try.
+- **The drafter's report** (summarized; the full text is in the session transcript):
+  - 2,750 words (tells.py counts 2,083 of narration). All 68 French paragraphs rendered. Six long sentences split under R1121-108; five knots left where the French runs as one sentence.
+  - tells.py: `and/s=0.43 asif/k=1.0 med=19 short%=17 long%=35 button%=13`. The two "as if" are Verne's ("comme s'il", ¶28; "Ne semblait-il pas que", ¶68).
+  - Unsure renderings, quoted with its choices: "chandelle"/"bougie" (tallow candles / stearine candles), "égohines" (fox-tail saws, to check), "acérinées" (acerineæ), "quatre cents milliards" (four hundred thousand millions), "olein, margarin and stearin", "boracic acid", "monsieur Cyrus" as "Mr. Smith".
+  - Departures it knew of: the plate caption left out; "mont Frankin" (a misprint) given as Mount Franklin; two sentences restructured; Verne's own slips kept (the "arithmetic" progression, the 800 grains, Pencroff's match).
+- **Mechanical checks (main session):** banned list 0; names all White's; `lengths.py` aligns 68 to 68, one paragraph low (¶42, ratio 0.79, French 29 words against English 23), for the critic to look at.
+- **"and" per sentence 0.43** is under White's lowest chapter (0.47), and the button rate (13%) is high. Both are flagged for the voice critic.
+
+## Spelling, both ways (R1121-113)
+
+`tools/spelling.py check story/voice/spelling.md story/prose/0*.md`, 2026-11-21: 7 wrong forms. 01900 has "fibers" twice, "leveled" and "marvelous" (White 3 to 1). 02000 has "fiber" once and "fibers" twice. 01950 has none. All go to the revision.

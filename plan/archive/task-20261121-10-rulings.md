@@ -7,7 +7,7 @@
 - **Wave:** none.
 - **Start hash:** 6327972 2026-11-21.
 - **End hash:** (on close)
-- **Status:** Executing: the interview is in two batches.
+- **Status:** Closed, 2026-11-21.
 
 ## Log
 
@@ -18,3 +18,8 @@
   - contractions in narration: none ("n't" 0 per 10k); in speech, 42 in all Part I.
   - forms of address: "Mr. Smith" 43, "Mr. Spilett" 10, "my boy" 20. Narrator's epithets: "the engineer" 165, "the sailor" 137, "the reporter" 90, "the lad" 18.
   - banned-list hits: 0.
+- 2026-11-21 Batch 1 ruled (R1121-90 to -94); batch 2 ruled (R1121-95 to -99, -100). The rules are filled throughout, with no template placeholder left, and `world/false-assumptions.md` is written.
+
+## Resolution
+
+The drafting rules are filled by interview, every line marked with its ruling. One correction came from the check: the author's line on suspicion was reworded from the French (I.16 ¶7, I.17 ¶8 and ¶9) and accepted. Nothing is left open.

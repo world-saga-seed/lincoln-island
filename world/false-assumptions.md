@@ -13,4 +13,5 @@
 - **The way into Granite-house is the rope ladder,** set up on 28 May (I.19 ¶28).
 - **The Mercy is unbridged.** The two small bridges come after 5 June (I.20 ¶29), and the bridge over the Mercy in November (II.7).
 - **Top stays with Smith** on 1 to 3 June (R1121-75).
-- **What they suspect:** (wording pending the author's word, R1121-98).
+- **What they suspect.** Smith guards against others coming, men or beasts: "s’il nous est facile d’arriver à notre demeure par le déversoir, cela sera également facile à d’autres que nous" (I.19 ¶5); "En êtes-vous bien sûr, Pencroff ?" (I.19 ¶9). It is he who names the Malay pirates (I.16 ¶7). He and Spilett privately sense something unexplained behind his rescue and Top's: "On croirait vraiment que c’est un bras puissant qui l’a lancé ainsi" (I.17 ¶8); "Gardons nos remarques pour nous et continuons notre besogne" (I.17 ¶9). They keep it from the others. No one thinks of a helper. Pencroff and Herbert know nothing of the mystery. *(Settled R1121-100.)*
+- **Three secrets in one house:** Smith's fear of never being rescued (I.19 ¶22), Smith and Spilett's mystery (I.17 ¶9), and, in 01950, Pencroff's float. *(Settled R1121-100.)*

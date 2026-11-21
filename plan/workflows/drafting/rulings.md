@@ -2,7 +2,7 @@
 
 *Basic.*
 
-*The house style of* Lincoln Island*: the one file every drafter, critic, reviser and trimmer reads, and the rules the critics enforce. Each line cites its ledger ID. A new ruling goes here once, not into every prompt. The numbers are White's own, measured on his Part I (`plan/tasks/task-20261121-10-rulings.md`).*
+*The house style of* Lincoln Island*: the one file every drafter, critic, reviser and trimmer reads, and the rules the critics enforce. Each line cites its ledger ID. A new ruling goes here once, not into every prompt. The numbers are White's own, measured on his Part I (`plan/archive/task-20261121-10-rulings.md`).*
 
 *The notes are the facts; this file only collects what drafters keep getting wrong. Keep it short enough to read whole. When it passes about two pages, move the detail to the voice sheet or a card and leave a one-line pointer.*
 

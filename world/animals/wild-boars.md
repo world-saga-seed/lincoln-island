@@ -28,3 +28,5 @@ Keywords: sanglier, sangliers, wild boar, pig, hog, gibier, game, forêt, Jacama
     - quote: jaguars, sangliers, cabiais, koulas, gibier de poil et de plume
     - quote: Les animaux avaient également péri dans la catastrophe
 - **Appears in:** I.15, I.19, I.22, II.4, II.11, II.18, III.14, III.19, III.20
+- **Open:**
+  - The beasts of the I.22 traps are first called "sangliers" (I.22 ¶14), then "des pécaris" (I.22 ¶21); the shift and its quotes are on the Open line of [the peccaries](peccaries.md). The two cards stay apart, each with the text's own word (R1121-08). *(Settled R1121-08.)*

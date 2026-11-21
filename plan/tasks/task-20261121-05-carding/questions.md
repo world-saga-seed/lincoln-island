@@ -1,6 +1,6 @@
 # Phase 4: the questions held for the author
 
-*Gathered from the carders' reports, waves 2 to 15 (the task log). Each is put with its recommendation, the plain option first.*
+*Gathered from the carders' reports, waves 2 to 15 (the task log). Answered by the author on 2026-11-21: A by R1121-07 (both readings kept; each ruled when a draft or patch leans on it), B1 by R1121-08, the rest of B, C and D by R1121-09, all as recommended.*
 
 ## A. The text's own disagreements: no ruling needed
 

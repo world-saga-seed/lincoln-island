@@ -19,4 +19,8 @@ Keywords: dunes, sable, sand hills, monticules, collines, thistles, région sabl
     - quote: pas une coquille dans ces dunes
   - A high dune is crowned with a few stunted trees (I.8 ¶47). *(Drafted.)*
     - quote: une haute dune couronnée de quelques arbres rachitiques
-- **Appears in:** I.7, I.8
+  - The party went north along the coast between the dunes and the sea (I.14 ¶36). *(Drafted.)*
+    - quote: remonter la côte entre les dunes et la mer
+  - The part of the dunes where the engineer was found lies six miles from the Chimneys; his rescue is called "enigmatic" (I.14 ¶65). *(Drafted.)*
+    - quote: non loin de cette partie des dunes dans laquelle l’ingénieur avait été retrouvé, après son énigmatique sauvetage
+- **Appears in:** I.7, I.8, I.14

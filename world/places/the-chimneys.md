@@ -1,6 +1,6 @@
 # The Chimneys: the colonists' first shelter, with sand corridors
 
-*The first lodging of the five colonists: corridors floored with sand, a central chamber, a hearth.*
+*The first lodging of the five colonists: corridors floored with sand, a central chamber, a hearth; named and kept as "the Chimneys" by Pencroff.*
 
 Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
 
@@ -40,6 +40,12 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: Cyrus Smith fut transporté dans le couloir central
   - Pencroff had set partitions at points of the passages; the sea destroyed them, and the draughts made the Chimneys hardly habitable (I.9 ¶17). *(Drafted.)*
     - quote: la mer avait détruit les cloisons établies par Pencroff en certains points des couloirs
+  - The stone-and-sand partitions had been set up again, which, with the hearth warming the corridors, made the Chimneys more habitable (I.10 ¶13). *(Drafted.)*
+    - quote: les cloisons de pierres et de sable avaient été rétablies
+  - Where the island is narrowest, from the Chimneys to the creek on the west coast, it measures only ten miles (I.11 ¶26). *(Drafted.)*
+    - quote: entre les Cheminées et la crique observée sur la côte occidentale
+  - Pencroff named it "the Chimneys", and Smith agreed to keep the name for the first camp since Pencroff had baptised it (I.11 ¶57). *(Drafted.)*
+    - quote: Oui, Pencroff, puisque vous l’avez baptisé ainsi
   - Its corridors have a sand floor (I.13 ¶40). *(Drafted.)*
     - quote: étendre sur le sable des couloirs une fraîche litière de mousses et de feuilles sèches
   - It has a central chamber in which the colonists eat together (I.13 ¶57). *(Drafted.)*
@@ -49,12 +55,8 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
   - Beside the dwelling is a woodpile, where dead wood was found (I.13 ¶69). *(My reading, to confirm.)*
     - quote: que fournit le bois mort du bûcher
 - **On the page.**
-  - Pencroff and Harbert chose it as a provisional lodging at once, hoping Smith could make use of "this labyrinth" (I.4 ¶25). *(Drafted.)*
-    - quote: il saurait tirer parti de ce labyrinthe
   - The river mouth lies a few steps from it (I.4 ¶64). *(Drafted.)*
     - quote: à quelques pas des Cheminées
-  - Spilett slept at the back of a dark corridor, Harbert slept, Pencroff watched by the fire, and Nab slept outside on the shore on the first night (I.5 ¶90). *(Drafted.)*
-    - quote: Un seul des naufragés ne reposa pas dans les Cheminées
   - In the storm stones torn from the top of the plateau fell on the strand, and some rolled onto the upper part of the Chimneys or burst there (I.7 ¶33). *(Drafted.)*
     - quote: Quelques-unes roulaient même à la partie supérieure des Cheminées
   - Pencroff calls it "a house with rooms, beds and hearth" (I.8 ¶56). *(Drafted.)*
@@ -78,9 +80,7 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: la cuisine des Cheminées se trouva pourvue d’un certain nombre d’ustensiles
   - The colonists went back to the Chimneys for good on the evening of 15 April (I.13 ¶51). *(Drafted.)*
     - quote: Le soir du 15 avril, on revint donc définitivement aux Cheminées
-  - Nemo brought the dog back to the Chimneys (III.16 ¶65). *(Drafted.)*
-    - quote: ramena le chien aux Cheminées
-- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, III.16
 - **Open:**
   - The text does not say where the Chimneys stand in relation to the Mercy or the lake, nor how many corridors or chambers there are.
     - quote: sur le sable des couloirs

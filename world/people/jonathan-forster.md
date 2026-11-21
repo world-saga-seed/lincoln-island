@@ -12,8 +12,6 @@ Keywords: Forster, sudiste, Confederate, Richmond, balloon, Lee, aeronaut
   - The governor authorised his attempt; a balloon was built and put at his disposal, with five companions to follow him in the air, armed and provisioned (I.2 ¶19). *(Drafted.)*
     - quote: Un aérostat fut fabriqué et mis à la disposition de Jonathan Forster
 - **On the page.**
-  - His departure, fixed for 18 March by night, is put off because the north-west wind turns to a hurricane (I.2 ¶20). *(Drafted.)*
-    - quote: le départ de Forster dut être différé
-  - Neither he nor his companions can think of braving the hurricane in the frail car (I.2 ¶46). *(My reading, to confirm.)*
-    - quote: ni Jonathan Forster, ni ses compagnons ne pouvaient songer à l’affronter
-- **Appears in:** I.2
+  - Pencroff pictures him and his companions finding next morning the place clear and the balloon flown (I.14 ¶47). *(Drafted.)*
+    - quote: Jonathan Forster et de ses compagnons, quand, le lendemain matin, ils auront trouvé la place nette et la machine envolée
+- **Appears in:** I.2, I.14

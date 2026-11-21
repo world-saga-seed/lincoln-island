@@ -58,6 +58,32 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: Avec lui, on ne pouvait désespérer.
   - "Île ou continent ?" is his fixed idea (I.9 ¶32). *(Drafted.)*
     - quote: c’était son idée fixe
+  - He makes a lens from the two watch glasses (his own and the reporter's), filled with water and sealed at the rims with a little clay, and with it lights dry moss (I.10 ¶8). *(Drafted.)*
+    - quote: il s’était ainsi fabriqué une véritable lentille
+  - His eye is trained to judge heights and distances (I.10 ¶14). *(Drafted.)*
+    - quote: son œil, accoutumé à évaluer les hauteurs et les distances
+  - He has almost wholly recovered his strength by the day before the ascent (I.10 ¶14). *(Drafted.)*
+    - quote: avait presque entièrement recouvré ses forces
+  - He is "évidemment un esprit méthodique" (I.10 ¶16). *(Drafted.)*
+    - quote: qui était évidemment un esprit méthodique
+  - He is not a man to be drawn from his fixed idea, the mountain he means to climb (I.10 ¶21). *(Drafted.)*
+    - quote: L’ingénieur n’était point homme à se laisser distraire de son idée fixe
+  - His confidence rests on his own power to wrest from wild nature all that is needed; his companions fear nothing because he is with them (I.11 ¶3). *(Drafted.)*
+    - quote: L’ingénieur avait confiance, parce qu’il se sentait capable d’arracher à cette nature sauvage tout ce qui serait nécessaire
+    - quote: ceux-ci ne redoutaient rien, précisément parce que Cyrus Smith était avec eux
+  - He speaks in a calm, grave voice (I.11 ¶42). *(Drafted.)*
+    - quote: de sa voix calme et grave
+  - He will hide nothing of their situation from his companions (I.11 ¶43). *(Drafted.)*
+    - quote: Je ne veux rien vous dissimuler de la situation
+  - He wants the principal features named for their country and its great citizens, and the rivers, gulfs and capes by their shape (I.11 ¶63). *(Drafted.)*
+    - quote: Ces noms nous rappelleront notre pays et ceux des grands citoyens qui l’ont honoré
+    - quote: choisissons des dénominations que rappellent plutôt leur configuration particulière
+  - His watch stopped while he lay in the dunes (I.12 ¶4). *(Drafted.)*
+    - quote: elle s’était nécessairement arrêtée pendant le temps que Cyrus Smith avait passé dans les dunes
+  - He knows sulphur by its smell, and so tells the smoke from the sulphur spring from a fire of men (I.12 ¶32). *(Drafted.)*
+    - quote: Cette odeur, aisément reconnaissable, avait suffi à l’ingénieur pour deviner ce qu’était cette fumée
+  - He judges the warmth of the spring at ninety-five degrees Fahrenheit by the feel of his hand, which finds it neither warm nor cold (I.12 ¶36). *(Drafted.)*
+    - quote: il l’estima à quatre-vingt-quinze degrés Fahrenheit
   - An engineer, called "l’ingénieur Smith" in the narration (I.13 ¶4). *(Drafted.)*
     - quote: L’ingénieur Smith
   - He is addressed as "monsieur Cyrus" in the balloon's basket; the text there does not name the person addressed (I.1 ¶3). *(My reading, to confirm.)*
@@ -72,6 +98,14 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: cinq hommes plus propres à lutter contre le sort
   - He is one of the Americans described as religious men who keep the Bible's precepts (I.13 ¶50). *(Drafted.)*
     - quote: Ces Américains étaient des hommes religieux
+  - He knows his own height to a line, and so measures a twelve-foot pole against it (I.14 ¶7). *(Drafted.)*
+    - quote: dont il connaissait la hauteur à une ligne près
+  - He measures the granite wall by similar triangles, to avoid measuring it directly (I.14 ¶17). *(Drafted.)*
+    - quote: nous évitera la peine de la mesurer directement
+  - He has no chart of the Pacific, but his memory keeps a very clear picture of its southern part (I.14 ¶54). *(Drafted.)*
+    - quote: Je n’ai pas de carte du Pacifique, mais ma mémoire a conservé un souvenir très-net de sa portion méridionale
+  - He finds noon without an instrument by the shortest shadow of a rod planted in the sand (I.14 ¶68). *(Drafted.)*
+    - quote: le moment où cette ombre atteindrait son minimum de longueur serait le midi précis
   - He was thrown into the sea when the balloon fell (III.16 ¶62). *(Drafted.)*
     - quote: lorsque l’ingénieur fut précipité dans la mer
   - The balloon carried prisoners of the Southerners (III.16 ¶62). *(Drafted.)*
@@ -81,75 +115,41 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
 - **On the page.**
   - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
-  - On Pencroff's offer, he studies the sailor's open face and cannot doubt he is an honest man (I.2 ¶29). *(Drafted.)*
-    - quote: il ne put douter qu’il n’eût devant lui un honnête homme
   - He is not a man to let an occasion slip; he judges Pencroff's plan very dangerous and therefore feasible (I.2 ¶36). *(Drafted.)*
     - quote: Il n’était pas homme à la laisser échapper
-  - He decides they will go, with Spilett and Nab, and names the hour of ten that evening (I.2 ¶41). *(Drafted.)*
-    - quote: Cela suffit. Nous partirons !
-  - He slips onto the square at half past nine with his companions (I.2 ¶49). *(Drafted.)*
-    - quote: À neuf heures et demie, Cyrus Smith et ses compagnons se glissaient par divers côtés sur la place
-  - He gives the order of departure (I.2 ¶52). *(Drafted.)*
-    - quote: Cyrus Smith n’avait plus qu’à donner l’ordre du départ
-  - He wants to send Top away for fear of excess weight (I.2 ¶53). *(Drafted.)*
-    - quote: Cyrus Smith craignant un excès de poids, voulait renvoyer le pauvre animal
-  - He cannot think of descending during the night of the departure; five days later a clearing shows the sea beneath the balloon (I.2 ¶56). *(Drafted.)*
-    - quote: L’ingénieur, pendant la nuit, ne put songer à descendre
   - He is carried off by a sea through the torn meshes of the netting when the balloon falls on the coast; Top has vanished too (I.3 ¶1). *(Drafted.)*
     - quote: L’ingénieur, à travers les mailles du filet qui avaient cédé, avait été enlevé par un coup de mer.
   - His companions are keenly attached to him (I.3 ¶30). *(Drafted.)*
     - quote: s’étaient vivement attachés à cet intrépide Cyrus Smith
-  - Pencroff says that if they ever saw him again he would know how to turn the maze of the Chimneys to account (I.4 ¶25). *(Drafted.)*
-    - quote: il saurait tirer parti de ce labyrinthe
   - Pencroff calls him a man, and a true one (I.5 ¶6). *(Drafted.)*
     - quote: C’était un homme celui-là, et un vrai !
-  - On 25 March the reporter and Nab, having found no trace of him along eight miles of coast, take him for drowned (I.5 ¶42). *(Drafted.)*
-    - quote: l’ingénieur avait trouvé son tombeau
-  - Nab refuses to believe him dead, calling him a man to come back from anything (I.5 ¶44). *(Drafted.)*
-    - quote: C’est un homme à revenir de tout
-  - Nab says that if he were there he would know how to make a fire (I.5 ¶63). *(Drafted.)*
-    - quote: il saurait bien vous en faire
   - He is found without bruise or scratch on head, trunk, limbs or hands (I.8 ¶12). *(Drafted.)*
     - quote: Ni la tête, ni le torse, ni les membres n’avaient de contusions, pas même d’écorchures
   - He is dying of exhaustion when found (I.8 ¶13). *(Drafted.)*
     - quote: Il mourait d’épuisement
-  - His first intelligible words, half conscious, are "Île ou continent ?" (I.8 ¶44). *(Drafted.)*
-    - quote: Île ou continent ? murmura-t-il.
   - The sea tore him from the balloon's net; Top held him up by his clothes, but a current pushed him north and after half an hour's struggle he sank with Top (I.8 ¶67). *(Drafted.)*
     - quote: Le coup de mer l’avait arraché du filet de l’aérostat
     - quote: Top le soutenait par ses vêtements
     - quote: il coula, entraînant Top avec lui dans l’abîme
   - He has no memory from the moment he sank until he found himself in his friends' arms (I.8 ¶67). *(Drafted.)*
     - quote: il n’avait plus souvenir de rien
-  - He concludes that he must have walked like a sleepwalker, Top leading him after pulling him from the waves (I.8 ¶80). *(Drafted.)*
-    - quote: J’aurai marché comme un somnambule, sans avoir conscience de mes pas
   - He says he saw, while being carried, a mountain in the west that dominates the country (I.9 ¶60). *(Drafted.)*
     - quote: n’ai-je pas aperçu, dans l’ouest, une montagne qui domine cette contrée ?
-  - He thinks it likely that they lie on a land of the Pacific, the balloon having covered six to seven thousand miles (I.9 ¶70). *(Drafted.)*
-    - quote: les présomptions sont pour une terre du Pacifique
-    - quote: Je n’estime pas à moins de six à sept mille milles la distance parcourue par le ballon
-  - Asked by Pencroff where to begin, he answers that they begin at the beginning (I.13 ¶2). *(Drafted.)*
-    - quote: Par le commencement,
-  - He says the first need is a kiln, to make pottery (I.13 ¶12). *(Drafted.)*
-    - quote: À fabriquer la poterie dont nous avons besoin
-  - He decides to set the workshop at the clay itself, to avoid carrying (I.13 ¶16). *(Drafted.)*
-    - quote: nous établirons notre atelier au lieu même de production
-  - Wishing for a knife, he speaks as if to himself (I.13 ¶21). *(Drafted.)*
-    - quote: comme s’il se fût parlé à lui-même
-  - His look brightens when it falls on Top (I.13 ¶23). *(Drafted.)*
-    - quote: le regard de Cyrus Smith s’anima
   - He breaks Top's collar in two and calls the halves two knives (I.13 ¶26). *(Drafted.)*
     - quote: Voilà deux couteaux, Pencroff !
-  - He leads the party back to the clay he had noticed on the lake's western shore (I.13 ¶29). *(Drafted.)*
-    - quote: L’intention de Cyrus Smith était de retourner à la rive occidentale du lac
   - He makes the bricks by hand, without moulds (I.13 ¶32). *(Drafted.)*
     - quote: l’ingénieur se contenta de les fabriquer à la main
-  - On 2 April he sets about fixing the island's orientation (I.13 ¶33). *(Drafted.)*
-    - quote: Cyrus Smith s’occupa de fixer l’orientation de l’île
   - He takes the sun's meridian passage from the noted times of sunset and sunrise, and sets two trees in line with it as a fixed meridian (I.13 ¶35). *(Drafted.)*
     - quote: une méridienne invariable pour ses opérations ultérieures
-  - He warns the hunters to be extremely prudent, since large clawed animals have passed (I.13 ¶38). *(Drafted.)*
-    - quote: Cyrus Smith leur recommanda donc une extrême prudence
+  - He tells the reporter to leave his watch on Richmond time and not to touch the hands: "Cela pourra nous servir." (I.12 ¶11). *(Drafted.)*
+    - quote: Cela pourra nous servir.
+  - Pencroff, watching him pocket things on the march, cannot see what is worth the stooping (I.12 ¶17). *(Drafted.)*
+    - quote: Que diable ramasse-t-il donc ainsi ?
+  - He thinks the lake must have an outlet to the sea, and that its fall might be used for power; he does not find it (I.12 ¶73). *(Drafted.)*
+    - quote: l’ingénieur pensait qu’il serait peut-être possible d’utiliser cette chute et de lui emprunter sa force
+    - quote: Cyrus Smith n’avait pu découvrir le déversoir, qui devait exister cependant
+  - He shows his companions samples of iron ore, pyrite, clay, lime and coal, which he had gathered on the way (I.12 ¶77). *(Drafted.)*
+    - quote: ceci est du minerai de fer, ceci une pyrite, ceci de l’argile, ceci de la chaux, ceci du charbon
   - He means to find or build a better dwelling than the Chimneys (I.13 ¶40). *(Drafted.)*
     - quote: l’ingénieur comptait découvrir ou bâtir, s’il le fallait, une demeure plus convenable
   - He guides Nab and Pencroff in carrying limestone, which gives quicklime and, with sand, mortar (I.13 ¶44). *(Drafted.)*
@@ -166,55 +166,42 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: ce sera de l’amadou
   - He later soaks it in potassium nitrate, of which the island has several beds (I.13 ¶56). *(Drafted.)*
     - quote: l’ingénieur l’eut imprégnée de ce nitrate de potasse
-  - He had saluted the Southern Cross from the summit of Mount Franklin some days earlier (I.13 ¶58). *(Drafted.)*
-    - quote: que l’ingénieur, quelques jours auparavant, saluait à la cime du mont Franklin
-  - He tells Harbert that next day true and mean time coincide, and that he may find the island's longitude (I.13 ¶63). *(Drafted.)*
-    - quote: obtenir la longitude de l’île
-  - He says he will try tonight for the latitude from the height of the Southern Cross, since they need to know the island's distance from the continents and archipelagos (I.13 ¶65). *(Drafted.)*
-    - quote: obtenir notre latitude en calculant la hauteur de la Croix du Sud
   - Without a sextant, he cuts two small flat rules and joins them into a compass, pinned with an acacia thorn (I.13 ¶69). *(Drafted.)*
     - quote: il tailla deux petites règles plates
-  - He chooses the Grande-Vue plateau for the sighting because Cape Claw hides the southern horizon (I.13 ¶70). *(Drafted.)*
-    - quote: le cap Griffe lui cachait l’horizon du sud
-  - He sights the horizon and the star alpha with the two arms and pins the arms to a third board to keep the angle (I.13 ¶76). *(Drafted.)*
-    - quote: il piqua, au moyen d’épines, les deux planchettes de son appareil sur une troisième
-  - On seeing Captain Nemo he says "Je vous connais !" (III.16 ¶4). *(Drafted.)*
-    - quote: Je vous connais !
-  - He approaches Nemo's couch (III.16 ¶8). *(Drafted.)*
-    - quote: Cyrus Smith s’approcha du capitaine Nemo
   - He says he knows the name of the submarine apparatus, the Nautilus (III.16 ¶14). *(Drafted.)*
     - quote: comme je sais le nom de cet admirable appareil sous-marin
-  - He tells Nemo that a man who had made no pledge to him, and so cannot be called a traitor, gave the secret away (III.16 ¶20). *(Drafted.)*
-    - quote: Un homme qui n’avait jamais pris d’engagement envers vous
+  - He keeps his idea about the seals to himself, saying only that the islet will soon be visited (I.14 ¶29). *(Drafted.)*
+    - quote: sans faire connaître son idée
+  - He says the substances for firearms can probably be found on the island, but that a gun needs tools of great precision (I.14 ¶42). *(Drafted.)*
+    - quote: toutes ces substances, nous pourrons sans doute les trouver dans l’île
+    - quote: une arme à feu est un instrument délicat et qui nécessite des outils d’une grande précision
+  - He says that if land is near they will make a boat instead of a house, and that Pencroff will handle it (I.14 ¶61). *(Drafted.)*
+    - quote: au lieu de faire une maison, nous ferons un bateau
+  - He says they will build the boat if it proves necessary (I.14 ¶63). *(Drafted.)*
+    - quote: Nous le ferons, si cela est nécessaire !
+  - He recalls no island in that part of the Pacific at the position found for Lincoln Island (I.14 ¶80). *(Drafted.)*
+    - quote: il ne se rappelait en aucune façon qu’une île quelconque occupât, dans cette partie du Pacifique, la situation assignée à l’île Lincoln
   - He says a book titled "Vingt mille Lieues sous les mers" contains Nemo's story (III.16 ¶24). *(Drafted.)*
     - quote: il a paru, sous le titre de Vingt mille Lieues sous les mers, un ouvrage qui contient votre histoire
   - He says he has no call to judge Nemo's past life and, like everyone, does not know its motives (III.16 ¶30). *(Drafted.)*
     - quote: Je n’ai point à juger le capitaine Nemo
-  - He names Nemo as the good, generous, powerful being to whom they owe their lives (III.16 ¶30). *(Drafted.)*
-    - quote: cet être puissant, généreux et bon, c’est vous, capitaine Nemo !
-  - He urges Nemo several times to rest (III.16 ¶36). *(Drafted.)*
-    - quote: Cyrus Smith l’engagea à prendre quelque repos
-  - After the life story he recalls all the incidents that helped the colony and thanks Nemo (III.16 ¶67). *(Drafted.)*
-    - quote: il rappela tous les incidents qui avaient exercé sur la colonie une si salutaire influence
-  - He understands Nemo's allusion to the sunk frigate and does not answer (III.16 ¶72). *(Drafted.)*
-    - quote: Cyrus Smith comprit l’allusion et demeura sans répondre
   - Asked his view, he says Nemo's error was to believe the past could be revived (III.16 ¶79). *(Drafted.)*
     - quote: votre tort est d’avoir cru qu’on pouvait ressusciter le passé
-  - He tells Nemo history will not condemn his name (III.16 ¶79). *(Drafted.)*
-    - quote: votre nom n’a rien à redouter des jugements de l’histoire
-  - He tells Nemo the honest men he helped will mourn him for ever (III.16 ¶83). *(Drafted.)*
-    - quote: vous pleureront à jamais
 - **Habits.**
   - He prefers to expect the worst at once and keep only the surprise of the better (I.9 ¶72). *(Drafted.)*
     - quote: Mieux vaut mettre les choses au pis tout de suite
     - quote: ne se réserver que la surprise du mieux
+  - He puts off plans until he has the facts: "Demain, nous saurons à quoi nous en tenir, et nous agirons en conséquence." (I.10 ¶17). *(Drafted.)*
+    - quote: Demain, répétait-il, nous saurons à quoi nous en tenir, et nous agirons en conséquence.
+  - He steps off his path only to pick up minerals and plants, which he pockets without remark (I.12 ¶16). *(Drafted.)*
+    - quote: ne s’écartant de sa route que pour ramasser, tantôt une chose, tantôt une autre, substance minérale ou végétale
   - He notes exactly the hour the sun vanishes and the hour it rises, allowing for refraction (I.13 ¶34). *(Drafted.)*
     - quote: il avait noté exactement l’heure à laquelle le soleil avait disparu sous l’horizon
   - He prepares each observation and makes his own instrument when one is lacking (I.13 ¶68). *(Drafted.)*
     - quote: l’appareil manquant, il fallait le suppléer
   - He plans the next day's calculation (the plateau's height) while making tonight's sighting (I.13 ¶71). *(Drafted.)*
     - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

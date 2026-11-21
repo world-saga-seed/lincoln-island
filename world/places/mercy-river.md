@@ -1,8 +1,8 @@
 # The Mercy: a deep river with a left bank and a rock-lined edge
 
-*A river the colonists follow inland; its left bank bears the Jacamar wood, and it was deep enough to be hard to cross.*
+*A river the colonists follow inland; named the Mercy on 30 March, "a veritable thanks to Providence"; its left bank bears the Jacamar wood, and it was deep enough to be hard to cross.*
 
-Keywords: Mercy, stream, ford, bank, current, crossing
+Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, named, bend, coude
 
 - **What it is.**
   - I.4 never names the small river at the Chimneys. It is read here as the Mercy because I.13 ¶29 has colonists following the Mercy from the shore; this is the card's own link. (I.4 ¶8). *(My reading, to confirm.)*
@@ -41,6 +41,14 @@ Keywords: Mercy, stream, ford, bank, current, crossing
     - quote: la rivière devait prendre sa source dans la montagne et s’alimenter de la fonte des neiges
   - It flows at the bottom of a narrow valley, into which the gale's air currents plunged with irresistible violence (I.7 ¶27). *(Drafted.)*
     - quote: l’étroite vallée au fond de laquelle se soulevait le cours d’eau
+  - The party followed its left bank on the way to the mountain and left it at the point where it bends towards the south-west (I.10 ¶20). *(Drafted.)*
+    - quote: on suivit la rive gauche de la rivière, qui fut abandonnée au point où elle se coudait vers le sud-ouest
+  - The river that supplied the colonists' drinking water, beside which the balloon threw them, was named the Mercy, a real thanks to Providence (I.11 ¶78). *(Drafted.)*
+    - quote: le nom de la Mercy, — un véritable remerciement à la Providence
+  - Its first bend lies at the foot of the Grande-Vue plateau, above the Chimneys (I.12 ¶73). *(Drafted.)*
+    - quote: jusqu’au coude formé par le premier détour de la Mercy
+  - Its left bank leads from the plateau down to the Chimneys (I.12 ¶74). *(Drafted.)*
+    - quote: par la rive gauche de la Mercy
   - It is a river with a bank (berge) that can be followed on foot (I.13 ¶29). *(Drafted.)*
     - quote: On prit donc par la berge de la Mercy
   - At the time of the text it is deep, and crossing it is a difficulty (I.13 ¶70). *(Drafted.)*
@@ -48,21 +56,11 @@ Keywords: Mercy, stream, ford, bank, current, crossing
   - A line of rocks cut in odd shapes borders the river along the edge of the Grande-Vue plateau (I.13 ¶72). *(Drafted.)*
     - quote: cette ligne de roches capricieusement découpées qui bordait la rivière
 - **On the page.**
-  - Pencroff reckoned that a river was needed nearby for drinking water (I.4 ¶8). *(Drafted.)*
-    - quote: il était important de s’établir dans le voisinage d’un cours d’eau potable
-  - Pencroff saw in the flow and ebb a way to carry heavy objects (I.4 ¶28). *(Drafted.)*
-    - quote: pour le transport des objets pesants
-  - Smith drank a little of its fresh water, drawn in a large shell (I.9 ¶52). *(Drafted.)*
-    - quote: un peu d’eau fraîche, puisée à la rivière dans une vaste coquille
-  - A raft of logs followed its current back toward the Chimneys (I.9 ¶118). *(Drafted.)*
-    - quote: le train suivant le fil de l’eau, on revint vers les Cheminées
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
   - The colonists went up its left bank from the shore to the plateau (I.13 ¶72). *(Drafted.)*
     - quote: en remontant la rive gauche de la Mercy
-  - Nemo sent the boat back into the current of the Mercy (III.16 ¶65). *(Drafted.)*
-    - quote: renvoya le canot dans le courant de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.13, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, III.16
 - **Open:**
   - The text gives the Mercy no width, depth in figures, source or mouth.
     - quote: alors profonde

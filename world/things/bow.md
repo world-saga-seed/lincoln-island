@@ -5,6 +5,8 @@
 Keywords: arcs, archery, hunting weapon, cord, shooting
 
 - **What it is.**
+  - Smith said they would begin by making bows and arrows before any gun (I.12 ¶52). *(Drafted.)*
+    - quote: nous commencerons d’abord par fabriquer des arcs et des flèches
   - They are bows of fairly great power (I.13 ¶30). *(Drafted.)*
     - quote: Pencroff obtint ainsi des arcs d’une assez grande puissance
 - **Made from.**
@@ -21,7 +23,4 @@ Keywords: arcs, archery, hunting weapon, cord, shooting
     - quote: devinrent promptement de très-adroits tireurs d’arc
   - Game was plentiful at the Chimneys (I.13 ¶36). *(Drafted.)*
     - quote: le gibier de poil et de plume abonda-t-il aux Cheminées
-- **On the page.**
-  - Pencroff had said that with a knife he would soon make a bow (I.13 ¶20). *(Drafted.)*
-    - quote: j’aurais vite fait de fabriquer un arc et des flèches
-- **Appears in:** I.13
+- **Appears in:** I.12, I.13

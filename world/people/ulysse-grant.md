@@ -14,8 +14,10 @@ Keywords: Grant, general, Union, Federal, Richmond, siege, Sécession
   - Cyrus Smith began under him in the Illinois volunteers (I.2 ¶5). *(Drafted.)*
     - quote: Après avoir commencé sous Ulysse Grant dans les volontaires de l’Illinois
 - **On the page.**
-  - He continues energetic operations; the victory at Petersburg was very dearly contested and his forces, joined with Butler's, still get no result before Richmond (I.2 ¶17). *(Drafted.)*
-    - quote: La victoire de Petersburg lui avait été très-chèrement disputée
   - On 5 April Richmond fell into his hands, the secessionist revolt was put down and the cause of American unity triumphed (I.2 n1). *(Drafted.)*
     - quote: Richmond tombait aux mains de Grant
-- **Appears in:** I.2
+  - The lake is named "lac Grant" among names that recall "ceux des grands citoyens"; the text does not say whom the lake is named for (I.11 ¶63). *(My reading, to confirm.)*
+    - quote: à ce lac qui s’étend sous nos regards, celui de lac Grant
+  - The colonists look for the North's triumph "grâce à Grant, grâce à Lincoln" (I.11 ¶91). *(Drafted.)*
+    - quote: grâce à Grant, grâce à Lincoln
+- **Appears in:** I.2, I.11

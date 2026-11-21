@@ -1,8 +1,8 @@
 # The Grande-Vue plateau: the plateau above the Mercy, with a rocky edge facing south
 
-*A plateau crossed on the way to the clearing; its edge, about fifty feet above the south-side heights, gave Smith a clear sea horizon.*
+*A plateau crossed on the way to the clearing; named Grande-Vue on 30 March, for the view it gives over the vast bay; its edge, about fifty feet above the south-side heights, gave Smith a clear sea horizon.*
 
-Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon
+Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-Vue, named, vaste baie, view
 
 - **What it is.**
   - I.3 to I.5 call it "le plateau supérieur" and never name it Grande-Vue. It is read here as the Grande-Vue plateau because I.13 ¶29 crosses it on the way from the Mercy; this is the card's own link. (I.3 ¶53). *(My reading, to confirm.)*
@@ -13,6 +13,14 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon
     - quote: un large plateau semé de bouquets d’arbres
   - Its southern crest is a long festoon of fantastic rocks, where a few hundred birds nest in holes of the stone (I.4 ¶55). *(Drafted.)*
     - quote: un long feston de roches capricieuses
+  - It was named plateau de Grande-Vue on 30 March: the plateau that crowns the high granite wall above the Chimneys and from which the eye can take in the whole vast bay (I.11 ¶80). *(Drafted.)*
+    - quote: le nom de plateau de Grande-Vue
+  - The plateau lies east: Smith set it, with the Union Bay, in the east by the sun (I.11 ¶83). *(Drafted.)*
+    - quote: ce qui mettait à l’est la baie de l’Union et tout le plateau de Grande-Vue
+  - After the last curtain of trees the plateau appears carpeted with thick grass, with the infinite sea beyond (I.12 ¶72). *(Drafted.)*
+    - quote: apparut le plateau, tapissé d’un épais gazon, et, au delà, la mer infinie
+  - It is a mile across obliquely to the first bend of the Mercy (I.12 ¶73). *(Drafted.)*
+    - quote: traverser obliquement le plateau sur un espace d’un mille
   - It lies on the way from the Mercy to the clearing, and the party crossed it (I.13 ¶29). *(Drafted.)*
     - quote: on traversa le plateau de Grande-Vue
   - Its edge runs north-west to south-east, along a line of cut rocks bordering the river (I.13 ¶72). *(Drafted.)*
@@ -21,22 +29,17 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon
     - quote: dominait d’une cinquantaine de pieds les hauteurs de la rive droite
   - Those heights fall by a double slope to the end of cape Griffe and to the south coast (I.13 ¶73). *(Drafted.)*
     - quote: qui descendaient, par une double pente, jusqu’à l’extrémité du cap Griffe et jusqu’à la côte méridionale de l’île
+  - The height measured on the granite wall, 333 feet, is read as the plateau's height above the sea: I.14 ¶3 sets out to measure the plateau's height and ¶24 gives the wall's (I.14 ¶3). *(My reading, to confirm.)*
+    - quote: en mesurant la hauteur du plateau de Grande-Vue au-dessus du niveau de la mer
+  - Smith made his star observation on it and reduced the plateau's height to sea level (I.14 ¶25). *(Drafted.)*
+    - quote: en réduisant au niveau de la mer la hauteur du plateau sur lequel l’observation avait été faite
 - **On the page.**
-  - Pencroff searched all over it in vain for his matchbox, in the tall grass on the forest edge (I.5 ¶36). *(Drafted.)*
-    - quote: il le parcourut en tous sens
   - Pigeons fly by hundreds at the crest of the plateau (I.6 ¶7). *(Drafted.)*
     - quote: ces pigeons qui volaient par centaines à la crête du plateau
-  - Smith and Spilett were to spend a day at the Chimneys to examine the shore and the upper plateau (I.9 ¶79). *(Drafted.)*
-    - quote: afin d’examiner le littoral et le plateau supérieur
   - Nothing blocks the view: it takes in a half-circle of horizon from the cape to the promontory of the Reptile (I.13 ¶73). *(Drafted.)*
     - quote: qui embrassait l’horizon sur une demi-circonférence, depuis le cap jusqu’au promontoire du Reptile
   - To the south the horizon, lit from below by the first light of the moon, stood out sharply against the sky (I.13 ¶73). *(Drafted.)*
     - quote: Au sud, cet horizon, éclairé par en dessous des premières clartés de la lune
-  - Smith chose it for his night observation, reserving the right to correct for its height above sea level (I.13 ¶71). *(Drafted.)*
-    - quote: en se réservant de tenir compte de sa hauteur au-dessus du niveau de la mer
-  - He meant to measure that height next day by simple elementary geometry (I.13 ¶71). *(Drafted.)*
-    - quote: par un simple procédé de géométrie élémentaire
-- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.13
-- **Open:**
   - The plateau's height above the sea is to be measured but no figure is given in these chapters.
     - quote: ce qui nécessitait de mesurer la hauteur du plateau
+- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14

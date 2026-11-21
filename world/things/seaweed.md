@@ -18,4 +18,6 @@ Keywords: varech, algues, sargasses, wrack, fucaceae, couch, bed, food, shore
     - quote: sur les rivages asiatiques, elles entrent pour une notable proportion dans l’alimentation des indigènes
   - The party found them quite bearable in taste (I.9 ¶18). *(Drafted.)*
     - quote: un goût très-supportable
-- **Appears in:** I.8, I.9
+  - The sargasses, with the pine nuts, completed the supper at the Chimneys (I.10 ¶15). *(Drafted.)*
+    - quote: Les sargasses et les amandes de pin pignon complétèrent ce repas
+- **Appears in:** I.8, I.9, I.10

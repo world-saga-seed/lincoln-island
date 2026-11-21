@@ -11,8 +11,16 @@ Keywords: pin pignon, pin pigeon, amandes, almonds, nuts, pine kernels, edible f
     - quote: Ces amandes étaient dans un parfait état de maturité
   - Pencroff takes them as dessert, with algae for bread and raw mussels for meat (I.9 ¶98). *(Drafted.)*
     - quote: des amandes pour dessert
-- **Appears in:** I.9
+  - The nuts, with the sargasses, completed the supper at the Chimneys (I.10 ¶15). *(Drafted.)*
+    - quote: Les sargasses et les amandes de pin pignon complétèrent ce repas
+  - A few dozen of them with the capybara's remains made the supper on the mountain (I.10 ¶46). *(Drafted.)*
+    - quote: quelques douzaines d’amandes de pin pignon formèrent les éléments du souper
+  - The stock of game and almonds was entirely used up at the plateau breakfast (I.12 ¶13). *(Drafted.)*
+    - quote: la réserve de gibier et d’amandes fut totalement épuisée
+- **Appears in:** I.9, I.10, I.12
 - **Open:**
   - The tree's name: I.9 ¶97 reads "pin pigeon"; the chapter's summary (¶0) reads "pin pignon". Carded neither way.
     - quote: C’était le pin pigeon, qui produit une amande excellente
     - quote: Le pin pignon
+  - The tree's name: I.10 ¶15 reads "pin pignon", as the summary of I.9 does; I.9 ¶97 reads "pin pigeon". Carded neither way.
+    - quote: les amandes de pin pignon complétèrent ce repas

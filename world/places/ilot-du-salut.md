@@ -1,8 +1,8 @@
-# The islet: the barren islet first reached by the castaways
+# L’îlot du Salut: the barren islet first reached by the castaways
 
-*A bare islet of sand and stones, two miles long and under a quarter mile wide, half a mile off the coast, where the four spend the night of 24 March.*
+*A bare islet of sand and stones, two miles long and under a quarter mile wide, half a mile off the coast, where the four spend the night of 24 March; named the islet of Safety on 30 March; birds and seals take refuge on it.*
 
-Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass, first night
+Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass, first night, îlot du Salut, Safety-island, manchots, phoques, seals, penguins
 
 - **What it is.**
   - Its soil is sandy and mixed with stones, very uneven and rough, pitted with small holes (I.3 ¶14). *(Drafted.)*
@@ -27,6 +27,16 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: elles devaient passer par-dessus l’îlot, absolument invisible alors
   - The sea, passing over it, reached the foot of the granite wall in the storm (I.8 ¶90). *(Drafted.)*
     - quote: la mer, passant par-dessus l’îlot, s’était portée jusqu’au pied de l’énorme courtine de granit
+  - It was named "l’îlot du Salut" (Safety-island) on 30 March, as the islet on which the castaways first took foot (I.11 ¶79). *(Drafted.)*
+    - quote: À l’îlot sur lequel les naufragés avaient pris pied tout d’abord, le nom de l’îlot du Salut
+  - Many divers of the penguin kind walk on it, known by a cry like the braying of an ass; their flesh, though blackish, is quite edible (I.14 ¶28). *(Drafted.)*
+    - quote: des plongeurs, de l’espèce des manchots
+    - quote: leur chair, quoique noirâtre, est fort mangeable
+  - Large amphibians, seals no doubt, crawl on its sand and seem to have chosen it as a refuge (I.14 ¶29). *(Drafted.)*
+    - quote: ramper sur le sable de gros amphibies, des phoques, sans doute
+    - quote: qui semblaient avoir choisi l’îlot pour refuge
+  - Smith watched the seals closely and, without telling his idea, said the islet would soon be visited (I.14 ¶29). *(Drafted.)*
+    - quote: sans faire connaître son idée
 - **On the page.**
   - Large heavy-flying birds rose from its holes, and others in flocks; Pencroff took them for gulls and sea-mews (I.3 ¶14). *(Drafted.)*
     - quote: des goëlands et des mouettes
@@ -36,7 +46,7 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **Appears in:** I.3, I.7, I.8
+- **Appears in:** I.3, I.7, I.8, I.11, I.14
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?

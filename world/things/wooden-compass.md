@@ -23,10 +23,15 @@ Keywords: compas, dividers, sextant substitute, angle gauge, rulers, planchettes
     - quote: l’ouverture des deux branches lui donna la distance angulaire qui séparait alpha de l’horizon
   - The angle was to be computed next day, corrected for the height of the plateau, to give the latitude (I.13 ¶77). *(Drafted.)*
     - quote: il ne restait plus qu’à calculer l’angle obtenu
+  - Smith took the instrument up again on 16 April; its two boards, by their opening, gave him the angular distance of alpha from the horizon (I.14 ¶25). *(Drafted.)*
+    - quote: dont les deux planchettes, par leur écartement, lui donnaient la distance angulaire de l’étoile alpha à l’horizon
+  - He measured the opening of the angle on a circle divided into three hundred and sixty equal parts (I.14 ¶25). *(Drafted.)*
+    - quote: Il mesura très exactement l’ouverture de cet angle sur une circonférence qu’il divisa en trois cent soixante parties égales
+  - With the twenty-seven degrees from alpha to the pole added, and the plateau's height reduced to sea level, the angle came to fifty-three degrees, which taken from ninety left thirty-seven, the latitude (I.14 ¶25). *(Drafted.)*
+    - quote: se trouva être de cinquante-trois degrés
 - **On the page.**
   - It was used on the Grande-Vue plateau, like the glasses of a repeating circle (I.13 ¶76). *(Drafted.)*
     - quote: comme il eût fait des lunettes d’un cercle répétiteur
-- **Appears in:** I.13
-- **Open:**
   - The reading of the angle and the resulting latitude are not given in these chapters; the calculations were put off.
     - quote: Ces calculs furent remis au lendemain
+- **Appears in:** I.13, I.14

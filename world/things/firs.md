@@ -9,4 +9,6 @@ Keywords: sapins, fir, conifer, trees, tall trees, sticks, wood
     - quote: des sapins admirables, mesurant cent cinquante pieds de hauteur
   - Three sticks were torn from the trunk of a young fir (see [the clubs](clubs.md)) (I.9 ¶86). *(Drafted.)*
     - quote: après avoir arraché trois bâtons au tronc d’un jeune sapin
-- **Appears in:** I.6, I.9
+  - A broad clump of firs stands halfway up the mountain beside a small brook that falls in cascade (I.10 ¶30). *(Drafted.)*
+    - quote: au pied d’un large bouquet de sapins, près d’un petit ruisseau qui s’en allait en cascade
+- **Appears in:** I.6, I.9, I.10

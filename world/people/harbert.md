@@ -25,6 +25,18 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: le généreux enfant
   - The narrator calls him "l’adolescent" (I.9 ¶26). *(Drafted.)*
     - quote: les efforts de l’adolescent
+  - He pledges obedience to Cyrus Smith in everything (I.11 ¶45). *(Drafted.)*
+    - quote: Je vous obéirai en tout, monsieur Cyrus
+  - He is about to propose the engineer's name for the island, and would have been applauded by all (I.11 ¶88). *(Drafted.)*
+    - quote: Harbert allait proposer de lui donner le nom de l’ingénieur
+  - Heedless of the plainest prudence, he and Nab rush at the noise in the thicket (I.12 ¶44). *(Drafted.)*
+    - quote: oubliant les principes de la prudence la plus élémentaire
+  - He is "tout à sa science favorite, l’histoire naturelle" (I.12 ¶56). *(Drafted.)*
+    - quote: tout à sa science favorite, l’histoire naturelle
+  - He knows the kinds of kangaroo: black and red, rock kangaroos, kangaroo-rats, about a dozen species (I.12 ¶57). *(Drafted.)*
+    - quote: il existe des kangourous noirs et rouges, des kangourous de rochers, des kangourous-rats
+  - The narrator calls him "le jeune naturaliste" (I.12 ¶66). *(Drafted.)*
+    - quote: inconnues au jeune naturaliste
   - A brave child, remarkably well taught already in the natural sciences (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant, remarquablement instruit déjà dans les sciences naturelles
   - Cyrus Smith addresses him as a "jeune garçon" (I.13 ¶61). *(Drafted.)*
@@ -35,13 +47,13 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: cinq hommes plus propres à lutter contre le sort
   - He is one of the Americans described as religious men (I.13 ¶50). *(Drafted.)*
     - quote: Ces Américains étaient des hommes religieux
+  - He is a boy who wants to learn about everything (I.14 ¶6). *(Drafted.)*
+    - quote: Harbert, aimant à s’instruire de toutes choses
+  - He knows the first principles of geometry, and the property of similar triangles: their homologous sides are proportional (I.14 ¶14). *(Drafted.)*
+    - quote: Leurs côtés homologues sont proportionnels.
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
-  - He takes his place in the car with the others while Pencroff casts off the ballast (I.2 ¶51). *(Drafted.)*
-    - quote: Cyrus Smith, Gédéon Spilett, Nab et Harbert prirent place dans la nacelle
-  - He notes that one of Nab's cries seemed to echo, which suggests a coast to the west (I.3 ¶33). *(Drafted.)*
-    - quote: Cela prouverait qu’il existe dans l’ouest une côte assez rapprochée
   - He swims like a fish across the channel, where the water would have been too deep for him to wade (I.3 ¶60). *(Drafted.)*
     - quote: nageait comme un poisson
   - He identifies the shellfish on the rocks as lithodomes, not mussels (I.4 ¶12). *(Drafted.)*
@@ -50,24 +62,8 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Le jeune naturaliste reconnut plus particulièrement des « déodars »
   - He identifies the birds as wild or rock pigeons by the double black band on the wing, the white rump and the ash-blue plumage (I.4 ¶58). *(Drafted.)*
     - quote: à la double bande noire de leur aile, à leur croupion blanc
-  - He sets out to look for a cave in the rocks to shelter in (I.4 ¶6). *(Drafted.)*
-    - quote: je chercherai une grotte dans ces roches
-  - He says that when Smith returns he must find a tolerable dwelling (I.4 ¶26). *(Drafted.)*
-    - quote: il faut qu’il trouve ici une demeure à peu près supportable
-  - He believes so energetic a man as Smith cannot have let himself drown (I.4 ¶43). *(Drafted.)*
-    - quote: n’a pas pu se laisser noyer comme le premier venu
-  - He suggests lighting a fire as savages do, by rubbing two dry sticks together (I.5 ¶14). *(Drafted.)*
-    - quote: en frottant deux morceaux de bois secs l’un contre l’autre
-  - He offers Nab shellfish and begs him to eat (I.5 ¶48). *(Drafted.)*
-    - quote: Mangez, mangez un peu, je vous en prie !
   - He deftly draws the single match from the waistcoat lining without breaking it (I.5 ¶68). *(Drafted.)*
     - quote: fort adroitement, sans le casser
-  - At Pencroff's trembling refusal he strikes the match on a pebble and lights the fire; never had he been so moved (I.5 ¶78). *(Drafted.)*
-    - quote: frotta rapidement le galet
-  - He finds salt left in the hollows of the rocks by evaporation (I.6 ¶10). *(Drafted.)*
-    - quote: Harbert avait trouvé du sel déposé dans le creux des roches par évaporation
-  - He suggests burnt linen as a substitute for tinder (I.6 ¶15). *(Drafted.)*
-    - quote: Cela peut, au besoin, servir d’amadou
   - He names a bird of the marshy forest as a "jacamar" (I.6 ¶22). *(Drafted.)*
     - quote: Ce doit être un « jacamar »
   - He throws a stone skilfully and hard at the jacamar and strikes it at the wing root, but not hard enough to stop it (I.6 ¶24). *(Drafted.)*
@@ -80,12 +76,6 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Harbert reconnut les mâles aux deux ailerons pointus
   - It is the first time he has seen birds taken on a line (I.6 ¶49). *(Drafted.)*
     - quote: C’était la première fois qu’il voyait prendre des oiseaux à la ligne
-  - He reasons that whatever is new in Nab's long absence can only be to Cyrus Smith's advantage (I.7 ¶22). *(Drafted.)*
-    - quote: tout ce qui était nouveau ne pouvait l’être qu’à l’avantage de Cyrus Smith
-  - He gathers edible seaweed (a sargasso of the fucaceae) from high rocks that the sea wets only at spring tides (I.9 ¶18). *(Drafted.)*
-    - quote: une certaine quantité d’algues comestibles, qu’il ramassa sur de hautes roches
-  - He finds a tree with edible fruit, the pine nut tree, whose almonds are ripe (I.9 ¶97). *(Drafted.)*
-    - quote: la découverte qu’Harbert fit d’un arbre dont les fruits étaient comestibles
   - He takes the animal Top holds for a capybara, one of the largest of the rodents (I.9 ¶104). *(Drafted.)*
     - quote: Harbert crut reconnaître en cet animal un cabiai
   - He knows the capybara has webbed feet and is almost an amphibian (I.9 ¶112). *(Drafted.)*
@@ -94,22 +84,12 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: allait fournir un appoint sérieux à la cause commune
   - He discovers on the way the tree whose branches the South American Indians use for bows, the "crejimba", a palm that bears no edible fruit (I.13 ¶30). *(Drafted.)*
     - quote: Harbert avait découvert un arbre dont les Indiens de l’Amérique méridionale emploient les branches à fabriquer leurs arcs
-  - He and Pencroff had chased a jacamar on their first expedition (I.13 ¶36). *(Drafted.)*
-    - quote: que Pencroff et Harbert avaient poursuivi lors de leur première exploration
   - He and the reporter become very skilful archers (I.13 ¶36). *(Drafted.)*
     - quote: Le reporter et Harbert devinrent promptement de très-adroits tireurs d’arc
-  - He and Gédéon Spilett see a jaguar-like animal that does not attack them (I.13 ¶39). *(Drafted.)*
-    - quote: Gédéon Spilett et Harbert aperçurent un jour un animal qui ressemblait à un jaguar
-  - He confirms to Cyrus Smith that it is 15 April (I.13 ¶62). *(Drafted.)*
-    - quote: Oui, monsieur Cyrus, répondit Harbert.
-  - He stands aside with the others in Nemo's salon (III.16 ¶8). *(Drafted.)*
-    - quote: Ayrton, Pencroff, Harbert et Nab se tenaient respectueusement à l’écart
   - Nemo saved him from certain death by bringing sulphate of quinine (III.16 ¶65). *(Drafted.)*
     - quote: qui sauva Harbert d’une mort certaine en apportant le sulfate de quinine
   - He draws near to Nemo, kneels, takes his hand and kisses it (III.16 ¶84). *(Drafted.)*
     - quote: Il plia les genoux, il prit sa main et la lui baisa.
-  - Nemo, with a tear, calls him "mon enfant" and blesses him (III.16 ¶86). *(Drafted.)*
-    - quote: Mon enfant, dit-il, sois béni !…
 - **Habits.**
   - He is a naturalist who names what the party finds (I.4 ¶16). *(Drafted.)*
     - quote: Le jeune garçon était très-fort en histoire naturelle
@@ -121,7 +101,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: remarquablement instruit déjà dans les sciences naturelles
   - He shoots with a bow (I.13 ¶36). *(Drafted.)*
     - quote: de très-adroits tireurs d’arc
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

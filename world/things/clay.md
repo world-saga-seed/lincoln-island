@@ -5,6 +5,10 @@
 Keywords: argile, figuline, earth, mud, loam, brick earth, potter's earth
 
 - **What it is.**
+  - A little clay made the edges of the two watch glasses stick together, for the lens (I.10 ¶8). *(Drafted.)*
+    - quote: rendu leurs bords adhérents au moyen d’un peu de glaise
+  - Smith carried a sample of clay in his pocket with other minerals (see [the mineral samples](mineral-samples.md)) (I.12 ¶77). *(Drafted.)*
+    - quote: ceci de l’argile
   - It is figuline clay, used to make bricks and tiles (I.13 ¶31). *(Drafted.)*
     - quote: Il se composait de cette argile figuline qui sert à confectionner les briques et les tuiles
   - The ground lay by the west shore of the lake (I.13 ¶29). *(Drafted.)*
@@ -16,4 +20,4 @@ Keywords: argile, figuline, earth, mud, loam, brick earth, potter's earth
     - quote: Avec de l’argile
   - The same clay was used for the pottery, with a little lime and quartz added (I.13 ¶47). *(Drafted.)*
     - quote: La matière première était cette argile même du sol, à laquelle Cyrus Smith fit ajouter un peu de chaux et du quartz
-- **Appears in:** I.13
+- **Appears in:** I.10, I.12, I.13

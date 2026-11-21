@@ -15,4 +15,6 @@ Keywords: goëland, mouette, gull, mew, seabird, oiseaux de mer, palmipède
     - quote: ces mouettes et ces labbes sont à peine mangeables, et leurs œufs même ont un détestable goût
   - Harbert says the birds on the plateau's southern crest are neither gulls nor mews (I.4 ¶56). *(Drafted.)*
     - quote: ceux-là ne sont ni des goëlands, ni des mouettes
-- **Appears in:** I.3, I.4
+  - Gulls (goëlands) are among the sea birds of the barren shore toward Cape Mandible-South, with great albatrosses and wild ducks (I.14 ¶38). *(Drafted.)*
+    - quote: des goëlands, de grands albatros
+- **Appears in:** I.3, I.4, I.14

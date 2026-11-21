@@ -1,0 +1,94 @@
+# Mont Franklin: the extinct volcano of two cones at the island's north-west
+
+*The mountain of the island: a truncated lower cone under a tilted upper cone, wooded on its south and bare of trees to the north; named Mont Franklin on 30 March; first seen as a white summit from the islet.*
+
+Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Franklin, volcan, cône, cratère, Franklin, named, two cones, buttresses, contreforts
+
+- **What it is.**
+  - A white summit, struck by the sun, shows north-west of the plateau, a cap of snow on some far mount (I.3 ¶54). *(Drafted.)*
+    - quote: C’était un chapeau de neiges, coiffant quelque mont éloigné
+  - It stands at least seven miles off (I.3 ¶54). *(Drafted.)*
+    - quote: à une distance de sept milles au moins
+  - It stands six or seven miles from the coast (I.4 ¶47). *(Drafted.)*
+    - quote: à une distance de six ou sept milles
+  - Vast masses of trees, with large patches of evergreens, cover it from its first slopes to within two miles of the coast (I.4 ¶47). *(Drafted.)*
+    - quote: vastes masses boisées
+  - The small river seems to wind back to its buttresses, between which it must rise (I.4 ¶47). *(Drafted.)*
+    - quote: entre lesquels elle devait prendre sa source
+  - The central cone of I.6 and the mountain "in the west" of I.9 are read here as this mountain; the card's own link, as I.3 and I.4 never name it (I.6 ¶35). *(My reading, to confirm.)*
+    - quote: les flancs du cône central
+  - Snows carpet the flanks of the central cone (I.6 ¶35). *(Drafted.)*
+    - quote: la fonte des neiges qui tapissaient les flancs du cône central
+  - Smith says he saw, while being carried, a mountain in the west that dominates the country (I.9 ¶60). *(Drafted.)*
+    - quote: n’ai-je pas aperçu, dans l’ouest, une montagne qui domine cette contrée ?
+  - Spilett agrees that it must be fairly high (I.9 ¶61). *(Drafted.)*
+    - quote: une montagne qui doit être assez élevée
+  - Smith calls it the cone that dominates the country, from whose top he hopes to recognise the land (I.9 ¶70). *(Drafted.)*
+    - quote: du haut de ce cône qui domine la contrée
+  - Smith judges it to measure three thousand five hundred feet above the sea (I.10 ¶14). *(Drafted.)*
+    - quote: lui parut mesurer trois mille cinq cents pieds au-dessus du niveau de la mer
+  - It is the cone Smith meant to climb the next day, the one he planned in I.9 and named in I.11; the card's own link (I.10 ¶14). *(My reading, to confirm.)*
+    - quote: ce cône dont il voulait le lendemain atteindre la cime
+  - It is made of two cones; the lower is truncated and held up by capricious buttresses like the claws of an immense talon laid on the ground (I.10 ¶22). *(Drafted.)*
+    - quote: Le mont se composait de deux cônes
+    - quote: comme les griffes d’une immense serre appliquée sur le sol
+  - Narrow valleys between the buttresses are bristling with trees, whose last clumps climb to the truncation of the lower cone (I.10 ¶22). *(Drafted.)*
+    - quote: autant de vallées étroites, hérissées d’arbres
+  - On the north-east side the vegetation is thinner and deep stripes show that must be lava flows (I.10 ¶22). *(Drafted.)*
+    - quote: la végétation paraissait être moins fournie dans la partie de la montagne exposée au nord-est
+    - quote: des zébrures assez profondes, qui devaient être des coulées laviques
+  - The upper cone rests on the lower, a little askew and rounded at its top, like a vast round hat tipped over one ear (I.10 ¶23). *(Drafted.)*
+    - quote: un second cône, légèrement arrondi à sa cime, et qui se tenait un peu de travers
+    - quote: On eût dit un vaste chapeau rond placé sur l’oreille
+  - The upper cone seems made of bare earth pierced in many places by reddish rocks (I.10 ¶23). *(Drafted.)*
+    - quote: Il semblait formé d’une terre dénudée, que perçaient en maint endroit des roches rougeâtres
+  - The ground is volcanic, swollen with bumps by plutonic forces, with erratic blocks, basalt debris, pumice and obsidian (I.10 ¶26). *(Drafted.)*
+    - quote: Les intumescences étaient nombreuses sur ce sol
+    - quote: pierres ponces, obsidiennes
+  - Conifers stand in isolated clumps on the slopes and, a few hundred feet lower, in the narrow gorges, make thick masses almost impenetrable to the sun (I.10 ¶26). *(Drafted.)*
+    - quote: formaient d’épais massifs, presque impénétrables aux rayons du soleil
+  - Its slopes show traces of lava, capriciously striped, and small solfataras cross the path (see [sulphur](../things/sulphur.md)) (I.10 ¶42). *(Drafted.)*
+    - quote: des traces de laves, très-capricieusement striées
+    - quote: De petites solfatares coupaient parfois la route
+  - The slopes are so steep that one slides on the lava flows when the air-worn stripes give no foothold (I.10 ¶44). *(Drafted.)*
+    - quote: l’on glissait sur les coulées de laves
+  - Seen from the summit rim the lava flows wind down the flanks to the lower valleys of the northern part of the island (I.11 ¶6). *(Drafted.)*
+    - quote: de larges et épaisses coulées de laves serpentaient sur les flancs du mont
+    - quote: jusqu’aux vallées inférieures qui sillonnaient la portion septentrionale de l’île
+  - It does not stand at the island's centre but in the north-west, and seems to mark the boundary of the two zones, forest and sand (I.11 ¶33). *(Drafted.)*
+    - quote: Le volcan n’occupait pas la partie centrale de l’île
+    - quote: semblait marquer la limite des deux zones
+  - To the south-west, south and south-east its first buttresses vanish under green masses; to the north they die out on the sand plains (I.11 ¶33). *(Drafted.)*
+    - quote: les premiers étages des contreforts disparaissaient sous des masses de verdure
+    - quote: qui allaient mourir sur les plaines de sable
+  - A wide causeway of lava runs from it to the narrow jaw that forms the north-east gulf, where the eruptions had found their way (I.11 ¶33). *(Drafted.)*
+    - quote: une large chaussée de laves se prolongeait jusqu’à cette étroite mâchoire qui formait golfe au nord-est
+  - Smith proposed to call it Mont Franklin, and with the two bays it was named so at once, on 30 March (I.11 ¶63). *(Drafted.)*
+    - quote: au mont qui nous porte en ce moment, celui de mont Franklin
+  - The name was adopted at once with the Union and Washington bays (I.11 ¶65). *(Drafted.)*
+    - quote: on nomma baie de l’Union, baie Washington et mont Franklin
+  - The creek that feeds the lake probably rises between its buttresses, whose crest the colonists followed down (I.12 ¶14). *(Drafted.)*
+    - quote: prenait probablement sa source
+  - At its foot lies a plain about a mile long of yellowish, calcined earth, scattered with great blocks of basalt, before the forest begins (I.12 ¶18). *(Drafted.)*
+    - quote: une terre jaunâtre et calcinée, formant une plaine longue d’un mille environ
+    - quote: De gros quartiers de ce basalte
+  - No lava lies on that side, the flows having poured chiefly down the northern slopes (I.12 ¶18). *(Drafted.)*
+    - quote: il n’y avait pas trace des laves, qui s’étaient plus particulièrement épanchées par les pentes septentrionales
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12
+- **Open:**
+  - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
+    - quote: à une distance de six ou sept milles
+  - Direction: I.3 ¶54 puts the white summit north-west of the plateau; I.9 ¶60 has Smith place the mountain he saw "dans l’ouest". Carded neither way.
+    - quote: dans la direction du nord-ouest
+    - quote: aperçu, dans l’ouest, une montagne
+  - Distance: I.10 ¶14 puts it "six milles environ" to the north-west of the plateau above the Chimneys, against the I.3 and I.4 readings above; carded neither way.
+    - quote: Le mont, situé à six milles environ dans le nord-ouest
+  - Direction: I.10 ¶14 and I.11 ¶33 put it in the north-west; I.9 ¶60 has Smith place it "dans l’ouest". Carded neither way.
+    - quote: Il se dressait, au contraire, dans la région du nord-ouest
+  - Height of the lower cone's truncation, where the party camped: I.10 ¶22 gives about 2,500 feet; I.11 ¶1 gives their camp at 2,500 feet; I.10 ¶43 speaks of "trois mille pieds" (as the height where a violent breeze would have hindered them); I.10 ¶44 puts "cinq cents pieds" still between them and the plateau at about four o'clock. Carded neither way.
+    - quote: tronqué à une hauteur de deux mille cinq cents pieds environ
+    - quote: à une hauteur de deux mille cinq cents pieds au-dessus du niveau de la mer
+    - quote: une violente brise, à une altitude de trois mille pieds, eût gêné leurs évolutions
+    - quote: Cinq cents pieds seulement séparaient alors les explorateurs du plateau
+  - The snow cap of I.3 ¶54 and the snows of I.6 ¶35 are not mentioned on the mountain in I.10 to I.12; whether the white summit and this volcano are one is the card's reading above.
+    - quote: C’était un chapeau de neiges, coiffant quelque mont éloigné

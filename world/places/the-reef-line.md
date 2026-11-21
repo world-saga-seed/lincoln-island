@@ -24,5 +24,7 @@ Keywords: écueils, récifs, brisants, breakers, rocks, digue, lisière, surf, t
     - quote: entre les relais et les récifs, les autres avaient dû être effacées
 - **Appears in:** I.7, I.8
 - **Open:**
-  - The card does not join this line of reefs to the lines of breakers and reefs on the right of the river mouth in [the bay](the-bay.md); the text does not say whether they are the same.
+  - The card does not join this line of reefs to the lines of breakers and reefs on the right of the river mouth in [the bay](baie-de-l-union.md); the text does not say whether they are the same.
+    - quote: Cette longue digue ne couvrait donc plus la côte
+  - The card does not join this line of reefs to the lines of breakers and reefs on the right of the river mouth in [the bay](baie-de-l-union.md); the text does not say whether they are the same.
     - quote: Cette longue digue ne couvrait donc plus la côte

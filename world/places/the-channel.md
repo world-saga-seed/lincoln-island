@@ -17,9 +17,6 @@ Keywords: canal, chenal, strait, current, jusant, ford, swim, tide, low water
     - quote: Il ne restait entre l’îlot et la côte qu’un chenal étroit
   - The remaining channel is no deeper than five feet (I.3 ¶60). *(Drafted.)*
     - quote: dont la profondeur ne dépassait pas cinq pieds
-- **On the page.**
-  - Nab swam it slantwise in more than half an hour and came ashore several thousand feet from the point opposite where he started (I.3 ¶49). *(Drafted.)*
-    - quote: à plusieurs milliers de pieds de l’endroit qui faisait face au point d’où il était parti
-  - Spilett, Harbert and Pencroff waded it at about ten o'clock on 25 March, clothes bundled on their heads; Harbert swam (I.3 ¶60). *(Drafted.)*
-    - quote: vers dix heures, Gédéon Spilett et ses deux compagnons se dépouillèrent de leurs vêtements
-- **Appears in:** I.3
+  - The canal that the party followed on 16 April is read as this channel: the islet of Safety lies on its other side (I.14 ¶28). *(My reading, to confirm.)*
+    - quote: De l’autre côté, sur l’îlot du Salut
+- **Appears in:** I.3, I.14

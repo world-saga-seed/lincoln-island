@@ -30,6 +30,12 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: d’un ton un peu sarcastique
   - He holds that the fire will blaze because his master has said so (I.9 ¶95). *(Drafted.)*
     - quote: Il flambera, puisque mon maître l’a dit !
+  - He is "Mon maître, toujours et partout !": devoted to the engineer in every place (I.11 ¶46). *(Drafted.)*
+    - quote: Mon maître, toujours et partout !
+  - He has dazzling white teeth (I.11 ¶60). *(Drafted.)*
+    - quote: ses dents étincelantes de blancheur
+  - He wants, like the others, to be godfather to some piece of "son domaine" (I.11 ¶75). *(Drafted.)*
+    - quote: qui voulait aussi, lui, être parrain d’un morceau quelconque de son domaine
   - He is devotion personified (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.
   - He is skilful, intelligent, tireless and robust, with an iron constitution (I.13 ¶7). *(Drafted.)*
@@ -40,6 +46,8 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: cinq hommes plus propres à lutter contre le sort
   - He is one of the Americans described as religious men (I.13 ¶50). *(Drafted.)*
     - quote: Ces Américains étaient des hommes religieux
+  - He has made a net of hibiscus fibre (I.14 ¶36). *(Drafted.)*
+    - quote: une sorte de filet en fibres d’hibiscus, que Nab avait confectionné
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -47,44 +55,22 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: il suivait son maître partout où son maître voulait aller
   - He weeps with rage and despair at having lost all he loved in the world (I.3 ¶4). *(Drafted.)*
     - quote: tout ce qu’il aimait au monde
-  - He says his master can swim (I.3 ¶11). *(Drafted.)*
-    - quote: Oui ! répondit Nab !
-  - On the morning of 25 March he plunges into the current without a word, in haste to reach the coast and go north (I.3 ¶43). *(Drafted.)*
-    - quote: C’était Nab.
   - He swims the half-mile channel obliquely in more than half an hour, drifting fast, and lands several thousand feet from where he started (I.3 ¶49). *(Drafted.)*
     - quote: Ce demi-mille qui séparait l’îlot de la terre, il employa plus d’une demi-heure à le franchir
-  - On returning at about six he has red eyes from weeping and has lost all hope (I.5 ¶41). *(Drafted.)*
-    - quote: ses yeux rougis prouvaient combien il avait pleuré
-  - He cries out that his master is not dead (I.5 ¶44). *(Drafted.)*
-    - quote: Il n’est pas mort !
-  - He refuses food: deprived of his master he can no longer, or will no longer, live (I.5 ¶50). *(Drafted.)*
-    - quote: Nab ne pouvait ou ne voulait plus vivre
-  - He is the one castaway who does not rest in the Chimneys; he wanders the shore all night calling his master (I.5 ¶90). *(Drafted.)*
-    - quote: erra sur la grève en appelant son maître
-  - On the morning of 26 March he goes back north along the coast, to where the sea had closed over Smith (I.6 ¶9). *(Drafted.)*
-    - quote: Nab avait repris sur la côte la direction du nord
   - In searching he finds no sign of any landing along two to three hundred yards of shore, the shells above the tide line unbroken (I.8 ¶19). *(Drafted.)*
     - quote: il n’existait pas trace d’un atterrissage, ni ancien, ni récent
-  - He finds footprints in the sand toward five in the evening, on the day he left the Chimneys at dawn (26 March, by I.6 ¶9) (I.8 ¶21). *(My reading, to confirm.)*
-    - quote: je remarquai sur le sable des empreintes de pas
-  - He follows the footprints a quarter of a mile toward the dunes, careful not to efface them, and Top leads him to his master (I.8 ¶27). *(Drafted.)*
-    - quote: Top me conduisit ici même, près de mon maître
-  - Cyrus Smith says Nab will bring provisions to the brickyard (I.13 ¶16). *(Drafted.)*
-    - quote: Nab apportera des provisions
-  - He and Pencroff, guided by Cyrus Smith, haul loads of limestone on a hurdle of woven branches (I.13 ¶44). *(Drafted.)*
-    - quote: Nab et Pencroff, guidés par Cyrus Smith, charrièrent, sur une claie faite de branchages entrelacés
   - He prepares a pot-au-feu of agouti and flavoured capybara ham for the evening meal at the Chimneys (I.13 ¶57). *(Drafted.)*
     - quote: Nab avait préparé un pot-au-feu d’agouti
-  - He stands aside with the others in Nemo's salon (III.16 ¶8). *(Drafted.)*
-    - quote: Ayrton, Pencroff, Harbert et Nab se tenaient respectueusement à l’écart
   - He and Pencroff had expected to find almost a god in the "génie de l’île" (III.16 ¶10). *(Drafted.)*
     - quote: là où Pencroff et Nab croyaient trouver presque un dieu
 - **Habits.**
   - He is always smiling, obliging and good (I.2 ¶14). *(Drafted.)*
     - quote: toujours souriant, serviable et bon
+  - He takes up the cook's duty "en sa qualité de nègre" (I.12 ¶75). *(Drafted.)*
+    - quote: l’un en sa qualité de nègre
   - He cooks for the colony (I.13 ¶57). *(My reading, to confirm.)*
     - quote: Nab avait préparé un pot-au-feu d’agouti
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.13, III.16
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

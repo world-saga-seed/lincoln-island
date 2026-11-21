@@ -57,3 +57,6 @@
 | 2026-11-21 | agent, Sonnet: carder w1b (places, things) | phase 4 (pilot) | 00200 to 00500 | 12870 | the four chapters, the form, the cards it extended; also ran git diff --stat, against its prompt | 143,216 | 24 | 6.3 |
 | 2026-11-21 | agent, Sonnet: carder w2a (people, animals) | phase 4 | 00600 to 00900 | 13621 | the four chapters, the form, the cards it extended; ran git diff --stat against its prompt | 154,124 | 21 | 5.5 |
 | 2026-11-21 | agent, Sonnet: carder w2b (places, things) | phase 4 | 00600 to 00900 | 13621 | the four chapters, the form, the cards it extended; ran git status against its prompt | 209,227 | 28 | 10.0 |
+| 2026-11-21 | agent, Sonnet: carder w3a (people, animals) | phase 4 | 01000 to 01200, 01400 | 14250 | the four chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 198,745 | 39 | 8.4 |
+| 2026-11-21 | agent, Sonnet: carder w3b (places, things) | phase 4 | 01000 to 01200, 01400 | 14250 | the four chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 274,328 | 45 | 14.9 |
+| 2026-11-21 | agent, Sonnet: prune reviewer | phase 4 | wave 3's 245 pruned lines | — | pruned-w3.tsv, the task's card form | 53,850 | 5 | 0.5 |

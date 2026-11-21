@@ -25,6 +25,10 @@ Keywords: Virginia, siege, capital, stronghold, great square, prison, escape, Gr
     - quote: un anneau scellé dans le pavé
   - Its gas lanterns were put out by the wind that night, leaving the square in deep darkness (I.2 ¶49). *(Drafted.)*
     - quote: les lanternes de gaz, éteintes par le vent
+  - They left it without the authorities' permission (I.11 ¶4). *(Drafted.)*
+    - quote: nous sommes sortis de Richmond, sans la permission des autorités
+  - Spilett's watch kept the Richmond time, and the meridian of Richmond is about that of Washington (I.12 ¶9). *(Drafted.)*
+    - quote: méridien qui est à peu près celui de Washington
 - **On the page.**
   - The castaways were seven thousand miles from it when they landed on 24 March (I.2 ¶1). *(Drafted.)*
     - quote: à sept mille milles de cette capitale
@@ -32,4 +36,4 @@ Keywords: Virginia, siege, capital, stronghold, great square, prison, escape, Gr
     - quote: Une pluie mêlée de neige tombait
   - The landing shore was more than six thousand miles from their country (I.2 ¶57). *(Drafted.)*
     - quote: à plus de six mille milles de leur pays
-- **Appears in:** I.2
+- **Appears in:** I.2, I.11, I.12

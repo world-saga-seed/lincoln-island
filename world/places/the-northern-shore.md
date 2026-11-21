@@ -25,7 +25,13 @@ Keywords: grève, littoral, strand, coast, relais de marée, tide mark, north co
     - quote: il n’existait pas trace d’un atterrissage, ni ancien, ni récent
   - A yard is an American measure of length worth 0.9144 m (I.8 n1). *(Drafted.)*
     - quote: Le yard est une mesure de longueur américaine
+  - The shore the party followed north is strewn with innumerable shells, among them phasianellae, terebratulae and trigoniae (I.14 ¶30). *(Drafted.)*
+    - quote: Le rivage, suivi par les colons, était semé d’innombrables coquillages
+  - All this part of the island is very arid as far as the point that closes the Union Bay, named cape Mandibule-Sud: only sand and shells mixed with lava debris (I.14 ¶38). *(Drafted.)*
+    - quote: Toute cette portion de l’île était fort aride jusqu’à cette pointe qui fermait la baie de l’Union
+  - Sea birds frequent this desolate coast: gulls, great albatrosses and wild ducks (I.14 ¶38). *(Drafted.)*
+    - quote: Quelques oiseaux de mer fréquentaient cette côte désolée
 - **On the page.**
   - Nab examined above all the part of the strand that high water does not cover, for the ebb and flow must have effaced any sign on its edge (I.8 ¶18). *(Drafted.)*
     - quote: la partie de la grève que la haute mer ne recouvrait pas
-- **Appears in:** I.6, I.7, I.8
+- **Appears in:** I.6, I.7, I.8, I.14

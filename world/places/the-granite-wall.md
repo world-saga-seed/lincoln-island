@@ -21,24 +21,21 @@ Keywords: courtine, muraille, cliff, falaise, pan coupé, scree, prismatic, shor
     - quote: séparée par quelque violent effort plutonien
   - It is smooth, flat and plumb along the river as well (I.4 ¶22). *(Drafted.)*
     - quote: lisse, plane et d’aplomb
+  - It crowns the plateau of Grande-Vue above the Chimneys (I.11 ¶80). *(Drafted.)*
+    - quote: qui couronnait la haute muraille de granit, au-dessus des Cheminées
+  - It rises plumb, at about five hundred feet from the strand at the point where Smith planted his pole (I.14 ¶8). *(Drafted.)*
+    - quote: à cinq cents pieds environ de la muraille de granit, qui se dressait perpendiculairement
+  - Smith measured it by similar triangles at three hundred and thirty-three feet high (I.14 ¶24). *(Drafted.)*
+    - quote: la muraille de granit mesurait trois cent trente-trois pieds de hauteur
+  - The feet are English feet of 30 centimetres, says the note (I.14 n1). *(Drafted.)*
+    - quote: Il s’agit du pied anglais, qui vaut 30 centimètres.
 - **On the page.**
   - Seen from the islet its top plateau shows no tree, but green trees stand to the right behind the cut face (I.3 ¶53). *(Drafted.)*
     - quote: la verdure ne manquait pas à droite, en arrière du pan coupé
   - Seabirds, chiefly web-footed kinds with long, flattened, pointed bills, flutter near its top and nest in crevices of the granite (I.4 ¶9). *(Drafted.)*
     - quote: nichaient dans les anfractuosités du granit
-  - In the gale great eddies whirled between the river mouth and the cut face of the wall (I.7 ¶27). *(Drafted.)*
-    - quote: Entre l’embouchure de la rivière et le pan de la muraille, de grands remous tourbillonnaient
-  - Stones torn from the top of the plateau by the wind's eddies fell on the strand (I.7 ¶33). *(Drafted.)*
-    - quote: détachées du sommet du plateau et arrachées par les remous du vent
-  - Going north the party kept prudently clear of the cut face of the high land, and the turn of the rock sheltered them from the wind (I.7 ¶73). *(Drafted.)*
-    - quote: le pan coupé de la haute terre dont ils s’étaient prudemment écartés
-    - quote: Le retour du rocher les abritait contre le vent
-  - Past the cut face the gale did not take them in the back eddy that came when it struck the granite wall (I.7 ¶78). *(Drafted.)*
-    - quote: sans les prendre en retour, effet qui se produisait quand il frappait la muraille de granit
-  - Coming back from the dunes the party reached the cut face at half past five and, a little after, the Chimneys (I.8 ¶88). *(Drafted.)*
-    - quote: arrivait au pan coupé, et, un peu après, devant les Cheminées
   - After the storm the sea had reached the foot of the enormous granite curtain (I.8 ¶90). *(Drafted.)*
     - quote: jusqu’au pied de l’énorme courtine de granit
   - In the morning sun it is flecked with gold on its prismatic roughness (I.9 ¶48). *(Drafted.)*
     - quote: piquait de paillettes d’or les rugosités prismatiques de l’énorme muraille
-- **Appears in:** I.3, I.4, I.7, I.8, I.9
+- **Appears in:** I.3, I.4, I.7, I.8, I.9, I.11, I.14

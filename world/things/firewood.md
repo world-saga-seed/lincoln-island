@@ -13,17 +13,13 @@ Keywords: bois mort, fagots, fuel, kindling, bûches, combustible
     - quote: Ce bois étant très-sec, devait rapidement brûler
   - It was gathered in bundles tied up, each carrying a load in proportion to his strength (I.4 ¶38). *(Drafted.)*
     - quote: une charge de bois, liée en fagots
+  - On the first plateau of the mountain fuel was scarce: mosses and dry brush bristled on parts of it, and Nab and Harbert fetched a load of brushwood (I.10 ¶45). *(Drafted.)*
+    - quote: des mousses et des broussailles sèches qui hérissaient certaines portions du plateau
 - **On the page.**
   - Its large store was put in one of the Chimneys' chambers (I.5 ¶11). *(Drafted.)*
     - quote: La provision de bois fut emmagasinée dans l’une des chambres
   - A few logs mixed with small wood went on the hearth stones (I.5 ¶11). *(Drafted.)*
     - quote: quelques bûches, entremêlées de menu bois
-  - Pencroff kept the fire up through the first night without sparing it (I.5 ¶89). *(Drafted.)*
-    - quote: auquel il n’épargna pas le combustible
-  - Harbert threw an armful of dry wood onto the hearth (I.7 ¶20). *(Drafted.)*
-    - quote: Harbert venait d’y jeter une brassée de bois sec
-  - Nab, Harbert and Pencroff were to go back to the forest to renew the stock of wood (I.9 ¶79). *(Drafted.)*
-    - quote: y renouvelleraient la provision de bois
   - The forest's clearings are covered with dead wood, inexhaustible reserves of fuel (I.9 ¶87). *(Drafted.)*
     - quote: étaient couvertes de bois mort, et formaient ainsi d’inépuisables réserves de combustible
-- **Appears in:** I.4, I.5, I.7, I.9
+- **Appears in:** I.4, I.5, I.7, I.9, I.10

@@ -48,6 +48,24 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: qui, lui aussi, avait son idée fixe
   - The narrator calls him "l’entêté marin" (the stubborn sailor), in his demand for fire (I.9 ¶63). *(Drafted.)*
     - quote: l’entêté marin
+  - He holds Cyrus Smith to be, if not a god, certainly more than a man (I.10 ¶9). *(Drafted.)*
+    - quote: c’était assurément plus qu’un homme
+  - Since the fire was lit again, he would not despair for a moment, even on a bare rock, if the engineer were with him (I.11 ¶3). *(Drafted.)*
+    - quote: n’aurait pas désespéré un instant, quand bien même il se fût trouvé sur un roc nu
+  - He has marvellous sight; his eyes are "deux véritables télescopes" (I.11 ¶12). *(Drafted.)*
+    - quote: une si merveilleuse puissance de vision
+  - He wants the party to count themselves colonists come to colonise, not castaways (I.11 ¶49). *(Drafted.)*
+    - quote: C’est de ne plus nous considérer comme des naufragés, mais bien comme des colons
+  - He named the Chimneys himself, and Cyrus Smith keeps the name for that reason (I.11 ¶57). *(Drafted.)*
+    - quote: puisque vous l’avez baptisé ainsi
+  - Harbert has read him the story of the Robinsons more than once; he would name the island's features as they did (I.11 ¶58). *(Drafted.)*
+    - quote: comme faisaient les Robinsons dont Harbert m’a lu plus d’une fois l’histoire
+  - He thinks it will be no trouble for Cyrus Smith to make powder and a gun or two (I.12 ¶13). *(Drafted.)*
+    - quote: il pensait que cela ne souffrirait aucune difficulté
+  - The narrator calls him, beside the young Harbert, "un peu enfant" (I.12 ¶14). *(Drafted.)*
+    - quote: l’un jeune et l’autre un peu enfant
+  - He takes up the cook's duty "en sa qualité de marin" (I.12 ¶75). *(Drafted.)*
+    - quote: l’autre en sa qualité de marin
   - He had been a sailor on every ocean (I.13 ¶8). *(Drafted.)*
     - quote: il avait été marin sur tous les océans
   - He had been a carpenter in the shipyards of Brooklyn (I.13 ¶8). *(Drafted.)*
@@ -64,109 +82,38 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: cinq hommes plus propres à lutter contre le sort
   - He is one of the Americans described as religious men (I.13 ¶50). *(Drafted.)*
     - quote: Ces Américains étaient des hommes religieux
+  - He is proud that the balloon was his idea (I.14 ¶49). *(Drafted.)*
+    - quote: C’est pourtant moi qui ai eu cette idée-là !
+  - He says that one day or another they will find the means of getting away (I.14 ¶53). *(Drafted.)*
+    - quote: nous trouverons le moyen de nous en aller
+  - He is quite ready to be captain once Cyrus Smith has built a boat fit for the sea (I.14 ¶62). *(Drafted.)*
+    - quote: je suis tout prêt à passer capitaine
 - **On the page.**
-  - He accosts Cyrus Smith in a Richmond street and asks whether he has had enough of Richmond (I.2 ¶25). *(Drafted.)*
-    - quote: Monsieur Smith, en avez-vous assez de Richmond ?
-  - He proposes escape by the idle balloon, which seems to be waiting for them (I.2 ¶33). *(Drafted.)*
-    - quote: Par ce fainéant de ballon
-  - In the storm he says it is a nasty tide but they will get through (I.2 ¶48). *(Drafted.)*
-    - quote: on en viendra à bout tout de même
-  - At the balloon he detaches the ballast bags on Smith's order (I.2 ¶51). *(Drafted.)*
-    - quote: Pencroff, sur l’ordre de l’ingénieur, détachait successivement les paquets de lest
-  - He welcomes Top aboard ("un de plus"), lightening the car by two bags of sand, and casts off the rope (I.2 ¶54). *(Drafted.)*
-    - quote: Bah ! un de plus !
-  - He asks whether the lost engineer can swim (I.3 ¶10). *(Drafted.)*
-    - quote: Sait-il nager ?
-  - In the dark he thinks he recognises gulls and mews among the birds (I.3 ¶14). *(Drafted.)*
-    - quote: Le marin croyait reconnaître des goëlands et des mouettes
-  - He sees that they are on an islet, not the mainland (I.3 ¶24). *(Drafted.)*
-    - quote: Nous sommes sur un îlot !
-  - He says he feels the coast though he cannot see it (I.3 ¶39). *(Drafted.)*
-    - quote: si je ne vois pas la côte, je la sens
-  - He holds Spilett back from the channel, judging the current an ebb and the passage fordable at low water (I.3 ¶47). *(Drafted.)*
-    - quote: c’est un courant de jusant
-  - He says three hours will bring the ebb and the crossing (I.3 ¶58). *(Drafted.)*
-    - quote: Dans trois heures, nous tenterons le passage
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
-  - He had noticed a narrow cleft a few hundred paces down the coast, which he judged the outlet of a stream (I.4 ¶8). *(Drafted.)*
-    - quote: la côte offrait une étroite coupée
-  - He recognises several skuas among the birds on the cliff, and small voracious mews (I.4 ¶9). *(Drafted.)*
-    - quote: Pencroff reconnut plusieurs labbes
-  - He takes the lithodomes for mussels, and eats them on Harbert's word (I.4 ¶11). *(Drafted.)*
-    - quote: Eh ! ce sont des moules !
-  - He sees that the Chimneys could be made habitable (I.4 ¶24). *(Drafted.)*
-    - quote: on pourrait rendre les « Cheminées » habitables
   - He keeps the name "Chimneys" for the provisional dwelling (I.4 ¶27). *(Drafted.)*
     - quote: ce fut le nom que Pencroff conserva à cette demeure provisoire
-  - He proposes a log raft to carry the firewood down the river on the ebb (I.4 ¶35). *(Drafted.)*
-    - quote: les trains de bois n’ont pas été inventés pour rien
   - He makes the raft, binding logs with dry creepers, in an hour (I.4 ¶38). *(Drafted.)*
     - quote: Pencroff commença aussitôt à confectionner son train
-  - He braids a long rope of dry creepers and tows the raft down on the ebb by hand while Harbert poles it (I.4 ¶63). *(Drafted.)*
-    - quote: Pencroff tressa rapidement une corde longue de plusieurs brasses
-  - He thanks Providence for the fertile land (I.4 ¶52). *(Drafted.)*
-    - quote: il faut en remercier la Providence
-  - His first care is to make the Chimneys habitable by stopping the draughty corridors with sand, stones, branches and wet earth (I.5 ¶1). *(Drafted.)*
-    - quote: Le premier soin de Pencroff
   - He has never been able to make fire by rubbing sticks (I.5 ¶17). *(Drafted.)*
     - quote: je n’ai jamais pu y parvenir
   - His brass box of matches, which never left him, is missing, and so is his pipe (I.5 ¶18). *(Drafted.)*
     - quote: la boîte qui ne le quittait jamais
   - He lost his pipe too in the shaking (I.5 ¶24). *(Drafted.)*
     - quote: Ma pipe, elle-même, m’a bien quitté !
-  - He searches the shore, river bank and plateau in vain for the box (I.5 ¶36). *(Drafted.)*
-    - quote: le tout vainement
-  - He asks the reporter and Nab, in the most natural tone, for a match (I.5 ¶55). *(Drafted.)*
-    - quote: du ton le plus naturel
-  - Too moved to strike the one match, he hands it to Harbert (I.5 ¶77). *(Drafted.)*
-    - quote: ma main tremble
-  - At the fire he says he was never so moved in his life (I.5 ¶80). *(Drafted.)*
-    - quote: je n’ai jamais été si ému de ma vie
-  - He watches near the hearth the whole first night and feeds it generously (I.5 ¶89). *(Drafted.)*
-    - quote: il passa la nuit près du foyer
   - He makes two cudgels from two stout branches broken from the first tree of the forest; Harbert wears the points on a rock (I.6 ¶18). *(Drafted.)*
     - quote: Pencroff cassa au premier arbre deux solides branches qu’il transforma en gourdins
-  - He searches in vain for palms, which serve so many uses of household life (I.6 ¶27). *(Drafted.)*
-    - quote: Pencroff cherchait vainement quelques-uns de ces précieux palmiers
   - He makes bird lines of thin lianas knotted together, fifteen to twenty feet long, with strong acacia thorns for hooks and fat red worms for bait, and spares the nests (I.6 ¶41). *(Drafted.)*
     - quote: Les lignes furent faites de minces lianes, rattachées l’une à l’autre et longues de quinze à vingt pieds
     - quote: De grosses épines très-fortes, à pointes recourbées, que fournit un buisson d’acacias nains
     - quote: de gros vers rouges qui rampaient sur le sol en tinrent lieu
     - quote: Il eut grand soin de ne pas toucher à ces nids
-  - He strikes ("ferre") the line with a sharp jerk when three tétras have swallowed bait and hook, and takes them (I.6 ¶47). *(Drafted.)*
-    - quote: d’un coup sec, Pencroff « ferra » son engin
-  - He is convinced that Cyrus Smith has drowned (I.7 ¶19). *(Drafted.)*
-    - quote: Malheureusement, ma conviction est faite !
-  - He feels that Top's coming may give the lie to his conjectures (I.7 ¶68). *(Drafted.)*
-    - quote: l’arrivée de Top pouvait donner un démenti à ses conjectures
-  - He had forgotten to bring the burnt linen, which he could have lit by striking two stones (I.8 ¶38). *(Drafted.)*
-    - quote: il avait malheureusement oublié d’emporter le linge brûlé
-  - With Nab and Harbert, and no tools but their arms, he strips a stunted maritime pine of its branches and makes a litter of them, covered with leaves and grass (I.8 ¶49). *(Drafted.)*
-    - quote: sans autres outils que leurs bras
-    - quote: de ces branches, on fit une litière
-  - He rubs two pieces of dry wood together with Nab for an hour, without result (I.9 ¶23). *(Drafted.)*
-    - quote: Après une heure de travail, Pencroff était en nage
-  - He makes a log raft at the river's bend, as the first time, and sends the wood down by the current (I.9 ¶118). *(Drafted.)*
-    - quote: Pencroff établit rapidement un train de bois
-  - He asks Cyrus where they are to begin (I.13 ¶1). *(Drafted.)*
-    - quote: par où allons-nous commencer
-  - He asks what the kiln will be for (I.13 ¶11). *(Drafted.)*
-    - quote: À quoi servira ce four ?
-  - He cries that with only a knife he would soon make a bow and arrows, and game would abound (I.13 ¶20). *(Drafted.)*
-    - quote: j’aurais vite fait de fabriquer un arc et des flèches
-  - He answers Cyrus's two knives with two hurrahs (I.13 ¶27). *(Drafted.)*
-    - quote: Deux hurrahs du marin lui répondirent.
   - He gets bows of good strength from crejimba branches strung with hibiscus fibre (I.13 ¶30). *(Drafted.)*
     - quote: Pencroff obtint ainsi des arcs d’une assez grande puissance
   - He tells himself that, having done his share, chance would supply arrow tips (I.13 ¶30). *(Drafted.)*
     - quote: le hasard ferait le reste
   - He has some dozens of arrows tipped with porcupine quills that Top retrieved (I.13 ¶36). *(Drafted.)*
     - quote: Pencroff possédait maintenant quelques douzaines de flèches armées de pointes très-acérées
-  - He clamours for guns (I.13 ¶39). *(Drafted.)*
-    - quote: un de ces fusils que réclamait Pencroff
-  - He helps Nab haul limestone for lime (I.13 ¶44). *(Drafted.)*
-    - quote: Nab et Pencroff, guidés par Cyrus Smith
   - He is almost ready to believe the kiln will turn out every product of modern industry (I.13 ¶46). *(Drafted.)*
     - quote: Pencroff n’était pas éloigné de croire que de ce four allaient sortir tous les produits de l’industrie moderne
   - He makes himself some rough pipes from the clay and finds them charming (I.13 ¶48). *(Drafted.)*
@@ -175,10 +122,6 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: c’était une grosse privation pour Pencroff
   - He keeps saying that tobacco will come like all things, in his surges of absolute confidence (I.13 ¶49). *(Drafted.)*
     - quote: Mais le tabac viendra, comme toutes choses !
-  - He asks, on seeing the mugwort, whether it is tobacco (I.13 ¶54). *(Drafted.)*
-    - quote: Est-ce du tabac ?
-  - He stands aside with the others in Nemo's salon (III.16 ¶8). *(Drafted.)*
-    - quote: Ayrton, Pencroff, Harbert et Nab se tenaient respectueusement à l’écart
   - He and Nab had expected to find almost a god in the "génie de l’île" (III.16 ¶10). *(Drafted.)*
     - quote: là où Pencroff et Nab croyaient trouver presque un dieu
 - **Habits.**
@@ -196,13 +139,19 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Je le croirai quand le bois flambera dans le foyer.
   - He willingly uses the cry "Hurrah!" as his shout of triumph (I.9 ¶115). *(Drafted.)*
     - quote: qui employait volontiers ce cri de triomphe
+  - He judges game by the table: "il n’y a pour moi qu’une seule espèce de kangourou, le « kangourou à la broche »" (I.12 ¶58). *(Drafted.)*
+    - quote: il n’y a pour moi qu’une seule espèce de kangourou, le « kangourou à la broche »
   - He smokes a pipe, or would if he had tobacco (I.13 ¶48). *(Drafted.)*
     - quote: auxquelles le tabac manquait, hélas !
   - He is confident of every outcome (I.13 ¶49). *(Drafted.)*
     - quote: ses élans de confiance absolue
   - He can turn his hand to any trade, as seamen do (I.13 ¶8). *(Drafted.)*
     - quote: propre à tout
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
+  - He considers the penguins only as food, and is glad to learn their flesh is quite edible though blackish (I.14 ¶28). *(Drafted.)*
+    - quote: ne les considéra qu’au point de vue comestible
+  - He tries to bring down wild ducks with arrows, without result: they hardly settle and must be hit in flight (I.14 ¶38). *(Drafted.)*
+    - quote: Il essaya bien de les abattre à coups de flèche, mais sans résultat
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

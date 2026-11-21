@@ -5,6 +5,7 @@ A card for every person named in the French, and every person the insert adds, e
 <!-- cards: built by tools/cards.py; do not edit -->
 | Card | What it is |
 |---|---|
+| [Abraham Lincoln](abraham-lincoln.md) | the statesman the island is named for |
 | [Ayrton](ayrton.md) | man found on Tabor Island, among the colonists |
 | [Captain Nemo](captain-nemo.md) | Prince Dakkar of Bundelkund, commander of the Nautilus |
 | [Cyrus Smith](cyrus-smith.md) | engineer, leader of the castaways |
@@ -12,6 +13,7 @@ A card for every person named in the French, and every person the insert adds, e
 | [Harbert](harbert.md) | the boy among the colonists |
 | [Jonathan Forster](jonathan-forster.md) | Southern diehard who built the balloon |
 | [Nab](nab.md) | devoted colonist and cook |
+| [Natives](natives.md) | the islanders of other islands, feared and never met |
 | [Pencroff](pencroff.md) | sailor and jack-of-all-trades |
 | [Tippo-Saïb](tippo-saib.md) | hero of India, Dakkar's uncle |
 | [Ulysse Grant](ulysse-grant.md) | Federal general besieging Richmond |

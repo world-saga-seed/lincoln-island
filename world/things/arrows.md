@@ -24,4 +24,6 @@ Keywords: flèches, quiver, missile, quills, feathers, fletching, hunting
 - **On the page.**
   - Pencroff trusted that chance would supply the tips (I.13 ¶30). *(Drafted.)*
     - quote: le hasard ferait le reste
-- **Appears in:** I.13
+  - Pencroff tried to bring down the wild ducks with arrows on the north coast, without result, as the ducks hardly settled and had to be hit in flight (I.14 ¶38). *(Drafted.)*
+    - quote: Il essaya bien de les abattre à coups de flèche, mais sans résultat
+- **Appears in:** I.13, I.14

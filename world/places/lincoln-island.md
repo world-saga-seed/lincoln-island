@@ -1,8 +1,8 @@
 # Lincoln Island: the island on which the castaways land
 
-*The island: first seen as a high land thirty miles off to leeward, then a shore of sand; named in I.13 and III.16, not in I.1.*
+*The island: first seen as a high land thirty miles off to leeward, then a shore of sand; seen whole from Mont Franklin on 30 March, an island of about a hundred miles of coast, named Lincoln Island that day.*
 
-Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castaway land
+Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castaway land, shape, ptéropode, latitude, longitude, naming, Malte, Zante, Lincoln
 
 - **What it is.**
   - The land first sighted from the balloon was fairly high and lay to the south-west (I.1 ¶56). *(My reading, to confirm.)*
@@ -37,12 +37,81 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: les présomptions sont pour une terre du Pacifique
   - The size of the pines suggests that the land lies higher in latitude than Smith supposed (I.9 ¶87). *(Drafted.)*
     - quote: cette contrée se trouvait plus élevée en latitude que ne le supposait l’ingénieur
+  - It is an island: from the summit the sea lies all round, with no land in sight to fifty miles and no sail, and the island at the centre of an apparently infinite circle (I.11 ¶11). *(Drafted.)*
+    - quote: Aucune terre en vue. Pas une voile.
+    - quote: l’île occupait le centre d’une circonférence qui semblait être infinie
+  - It does not look considerable in the midst of the ocean (I.11 ¶15). *(Drafted.)*
+    - quote: elle ne paraissait pas considérable au milieu de cet immense Océan
+  - Smith reckons a coast of more than a hundred miles (I.11 ¶17). *(Drafted.)*
+    - quote: un développement de plus de cent milles
+  - Its area is hard to estimate, the coast is so capriciously cut (I.11 ¶19). *(Drafted.)*
+    - quote: elle est trop capricieusement découpée
+  - If Smith's estimate holds, it has about the extent of Malta or Zante, but is more irregular and poorer in capes, promontories, points, bays, coves and creeks (I.11 ¶20). *(Drafted.)*
+    - quote: l’île avait, à peu de chose près, l’étendue de Malte ou Zante
+  - Its shape is strange: it looks like a fantastic animal, a monstrous pteropod asleep on the surface of the Pacific (I.11 ¶20). *(Drafted.)*
+    - quote: elle ressemblait à quelque fantastique animal, une sorte de ptéropode monstrueux
+  - Between the north-east and the north-west the coast rounds like the flattened skull of a wild beast, with a swelling that gives that part no very definite outline (I.11 ¶23). *(Drafted.)*
+    - quote: comme le crâne aplati d’un fauve
+  - From there the coast runs fairly regularly north and south, hollowed at two thirds of its perimeter by a narrow creek, and ends in a long tail like the caudal appendage of a gigantic alligator (see [Presqu’île Serpentine](presqu-ile-serpentine.md)) (I.11 ¶24). *(Drafted.)*
+    - quote: semblable à l’appendice caudal d’un gigantesque alligator
+  - At its narrowest, between the Chimneys and the creek seen on the west coast at the same latitude, the island is only ten miles wide (I.11 ¶26). *(Drafted.)*
+    - quote: l’île mesurait dix milles seulement
+  - The southern part is thickly wooded from the mountain to the shore; the northern part is arid and sandy (I.11 ¶27). *(Drafted.)*
+    - quote: très-boisée dans toute sa portion méridionale depuis la montagne jusqu’au littoral, elle était aride et sablonneuse dans sa partie septentrionale
+  - The two watercourses then known, the river and the brook that feeds the lake, make up the visible hydrography; the forest may hide other streams, but the north shows no sign of running water (I.11 ¶32). *(Drafted.)*
+    - quote: Quant à la partie septentrionale, nul indice d’eaux courantes
+  - The country is fertile and rich in the finest specimens of the flora of the temperate zones (I.11 ¶32). *(Drafted.)*
+    - quote: tant cette région se montrait fertile et riche des plus magnifiques échantillons de la flore des zones tempérées
+  - The north-east has a marshy portion that may hold stagnant water, and dunes, sand and strong aridity elsewhere in the north (I.11 ¶32). *(Drafted.)*
+    - quote: peut-être des eaux stagnantes dans la portion marécageuse du nord-est
+  - The soil hidden under the great forest, the floors of the shaded valleys and the interior of the narrow gorges at the volcano's foot escaped the survey (I.11 ¶34). *(Drafted.)*
+    - quote: échappaient seuls à leurs investigations
+  - Nowhere is the work of human hands visible: no cluster of huts, no isolated cabin, no fishery, no smoke (I.11 ¶38). *(Drafted.)*
+    - quote: Nulle part on n’apercevait l’œuvre de la main humaine
+  - The coast seems absolutely deserted, though the forest curtain could hide a village (I.11 ¶38). *(Drafted.)*
+    - quote: le littoral paraissait être absolument désert
+  - Whether natives of neighbouring islands visit it is hard to say: fifty miles are easily crossed by Malay praos or great Polynesian canoes, so Smith judged precautions against a possible descent advisable (I.11 ¶40). *(Drafted.)*
+    - quote: il était donc convenable de prendre certaines précautions contre une descente possible des indigènes voisins
+  - Smith wondered whether, without instruments, he could later fix its latitude and longitude (I.11 ¶40). *(Drafted.)*
+    - quote: Cyrus Smith parviendrait-il sans instruments à relever plus tard sa position en latitude et en longitude ?
+  - It is of little importance, with not even a port where ships could put in (I.11 ¶43). *(Drafted.)*
+    - quote: elle n’offre même pas un port qui puisse servir de relâche aux bâtiments
+  - Smith feared it lay off the usual routes, too far south for ships to the Pacific archipelagos and too far north for those bound for Australia round Cape Horn (I.11 ¶43). *(Drafted.)*
+    - quote: il est à craindre qu’elle ne soit située en dehors des routes ordinairement suivies
+  - The sun at its culmination passes to the north, since the island lies in the southern hemisphere (I.11 ¶83). *(Drafted.)*
+    - quote: le soleil, au moment précis de sa culmination, passait au nord
+  - Harbert would have proposed the engineer's name for it (I.11 ¶88). *(Drafted.)*
+    - quote: Harbert allait proposer de lui donner le nom de l’ingénieur
+  - It was named the island Lincoln on 30 March, after the great citizen who is fighting to defend the unity of the American republic (I.11 ¶89). *(Drafted.)*
+    - quote: Appelons-la l’île Lincoln !
+  - The narrator tells ahead that sixteen days later a frightful crime would be committed at Washington and Lincoln would fall to a fanatic's bullet on Good Friday (I.11 ¶92). *(Drafted.)*
+    - quote: le vendredi saint, Abraham Lincoln tomberait sous la balle d’un fanatique
+  - The note gives about forty-five leagues of four kilometres (I.11 n1). *(Drafted.)*
+    - quote: Environ 45 lieues de 4 kilomètres.
+  - The trees along the Red Creek belong to the species common in the temperate zone of Australia or Tasmania, not to the conifers of the part already explored (I.12 ¶41). *(Drafted.)*
+    - quote: ils appartenaient pour la plupart aux espèces qui abondent dans la zone modérée de l’Australie ou de la Tasmanie
+  - The coconut palm, so abundant in the Pacific archipelagos, seemed to be missing from the island (I.12 ¶41). *(Drafted.)*
+    - quote: le cocotier, si abondant sur les archipels du Pacifique, semblait manquer à l’île
+  - The thickets by the lake had never been parted by a human hand (I.12 ¶72). *(Drafted.)*
+    - quote: que la main de l’homme n’avait jamais encore écartés
   - The place is called Lincoln Island by I.13 (I.13 ¶32). *(Drafted.)*
     - quote: les cinq briquetiers de l’île Lincoln
   - Smith has established that this land is an island (I.13 ¶65). *(Drafted.)*
     - quote: il ne suffit pas d’avoir constaté que cette terre est une île
   - The island holds several layers of potassium nitrate (I.13 ¶56). *(Drafted.)*
     - quote: dont l’île possédait plusieurs couches
+  - Smith concluded from the star observation that it lies on the thirty-seventh degree of south latitude (I.14 ¶25). *(Drafted.)*
+    - quote: l’île Lincoln était située sur le trente-septième degré de latitude australe
+  - Its latitude puts it abreast of New Zealand to the west and of the Chilean coast to the east, with at least six thousand miles between those two lands (I.14 ¶54). *(Drafted.)*
+    - quote: par le travers de la Nouvelle-Zélande à l’ouest, et de la côte du Chili à l’est
+  - From the noon shadow Smith reckoned its longitude at the 152nd degree west of Greenwich (I.14 ¶75). *(Drafted.)*
+    - quote: le cent cinquante-deuxième degré de longitude ouest
+  - It lies at such a distance from any land that one could not venture across on a frail canoe (I.14 ¶78). *(Drafted.)*
+    - quote: on ne pourrait se hasarder à franchir cette distance sur un simple et fragile canot
+  - Its bearing puts it at least twelve hundred miles from Tahiti and the Pomotou archipelago, more than eighteen hundred from New Zealand and more than forty-five hundred from the American coast (I.14 ¶79). *(Drafted.)*
+    - quote: au moins à douze cents milles de Taïti et des îles de l’archipel des Pomotou, à plus de dix-huit cents milles de la Nouvelle-Zélande
+  - Smith recalls no island that occupies, in that part of the Pacific, the position assigned to Lincoln Island (I.14 ¶80). *(Drafted.)*
+    - quote: il ne se rappelait en aucune façon qu’une île quelconque occupât, dans cette partie du Pacifique, la situation assignée à l’île Lincoln
   - It is described as a desert island (III.16 ¶64). *(Drafted.)*
     - quote: sur une île déserte
   - A port is hollowed out beneath it (III.16 ¶61). *(Drafted.)*
@@ -50,14 +119,6 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
   - Volcanic actions have acted on it (III.16 ¶63). *(Drafted.)*
     - quote: sous l’influence des actions volcaniques
 - **On the page.**
-  - At about four o'clock the land was thirty miles to leeward (I.1 ¶57). *(My reading, to confirm.)*
-    - quote: trente milles sous le vent
-  - Half an hour later it was one mile away (I.1 ¶60). *(My reading, to confirm.)*
-    - quote: la terre n’était plus qu’à un mille
-  - The balloon was two cable-lengths off when it made its last leap (I.1 ¶61). *(My reading, to confirm.)*
-    - quote: Or, il n’en était qu’à deux encablures
-  - The balloon fell on the sand of the shore, beyond the reach of the waves (I.1 ¶61). *(My reading, to confirm.)*
-    - quote: il retombait définitivement sur le sable du rivage, hors de la portée des lames
   - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
     - quote: peu effrayés de la présence de l’homme
   - No inhabitant visits the part of the coast that Nab and Spilett walked (I.5 ¶42). *(Drafted.)*
@@ -66,11 +127,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-  - Smith wants to know its distance from America, Australia and the main Pacific archipelagos (I.13 ¶65). *(Drafted.)*
-    - quote: reconnaître à quelle distance elle est située, soit du continent américain, soit du continent australien, soit des principaux archipels du Pacifique
-  - Smith's latitude and longitude workings were put off to the next day and are not given (I.13 ¶78). *(Drafted.)*
-    - quote: Ces calculs furent remis au lendemain
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent
@@ -78,3 +135,21 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: la latitude de l’île
   - Whether Nemo's ‘île déserte du Pacifique’ where the Nautilus was built is this island is not stated.
     - quote: Une île déserte du Pacifique
+  - The latitude's bounds: I.14 ¶25 gives "between the thirty-fifth and the fortieth parallel"; I.14 ¶76 gives "between the thirty-fifth and the thirty-seventh". Carded neither way.
+    - quote: entre le trente-cinquième et le quarantième parallèle
+    - quote: entre le trente-cinquième et le trente-septième parallèle
+  - The margin: I.14 ¶77 says the possible error is "five degrees either way", which the bounds of ¶76 (35 to 37 north-south; 150 to 155 west) do not show about 37 and 152. Carded neither way.
+    - quote: de cinq degrés dans les deux sens
+    - quote: entre le cent cinquantième et le cent cinquante-cinquième méridien
+  - The forest's share of the island: I.11 ¶32 says the trees make "two thirds" of the island an immense forest; I.11 ¶38 says the curtain of green covers "three quarters" of it. Carded neither way.
+    - quote: qui faisaient des deux tiers de l’île une forêt immense
+    - quote: ce rideau de verdure qui couvrait les trois quarts de l’île
+  - The day of the naming: I.11 ¶92 says "this was happening on 30 March 1865"; I.12 ¶41, on the same day's walk, speaks of "the beginning of this month of April". Carded neither way.
+    - quote: Or, ceci se passait le 30 mars 1865
+    - quote: au commencement de ce mois d’avril
+  - The coconut palm and the latitude: Wikisource reads the island's latitude "sans doute trop haute" for the coconut palm; the print (Gallica p. 108) reads "trop basse" (texts/README.md). A reading resting on I.12 ¶41 cites both.
+    - quote: dont la latitude était sans doute trop haute
+  - The mile of I.11 ¶17 and the note's league of I.11 n1 are not tied by the text; the note's "45 lieues de 4 kilomètres" is about 180 km, which a hundred nautical miles (about 185 km) would fit. *(My reading, to confirm.)*
+    - quote: un développement de plus de cent milles
+    - quote: Environ 45 lieues de 4 kilomètres.
+  - The lengths of the island and of its tail: see the Open line of [Presqu’île Serpentine](presqu-ile-serpentine.md).

@@ -1,0 +1,43 @@
+# Baie de l’Union: the vast bay of the east coast, facing the islet
+
+*The vast bay on the island's east side where the castaways landed, named by Smith on 30 March; a bay eight miles across between a sharp south-east cape and the two capes of the north-east.*
+
+Keywords: baie, grève, beach, shore, reefs, brisants, sandbanks, ebb, coast, baie de l’Union, Union Bay, east coast, caps, Mandibule, Griffe
+
+- **What it is.**
+  - It is a vast bay closed on the south by a very sharp, barren point (I.3 ¶51). *(Drafted.)*
+    - quote: La côte opposée formait une vaste baie
+  - Its northern side opens out into a rounder coast running south-west to north-east and ends in a slender cape (I.3 ¶51). *(Drafted.)*
+    - quote: finissait par un cap effilé
+  - The two extremities are about eight miles apart (I.3 ¶51). *(Drafted.)*
+    - quote: la distance pouvait être de huit milles
+  - Before the islet the shore is a sand beach strewn with blackish rocks that reappear as the tide falls (I.3 ¶52). *(Drafted.)*
+    - quote: une grève de sable, semée de roches noirâtres
+  - Rocks covered with seaweed, which high tide covers, lie on the shore a little left of the landing point (I.4 ¶10). *(Drafted.)*
+    - quote: quelques rochers tapissés d’algues, que la haute mer devait recouvrir
+  - At the north end of the bay the shore is low and flat, without cliff, with wide sandbanks laid bare by the ebb (I.4 ¶46). *(Drafted.)*
+    - quote: bas, plat, sans falaise, avec de larges bancs de sable
+  - On the right of the river mouth lines of breakers and reefs lie like groups of amphibians in the surf (I.4 ¶46). *(Drafted.)*
+    - quote: ressemblaient à des groupes d’amphibies couchés dans le ressac
+  - The bay of I.3 and I.4 is read as the Union Bay: both are the vast bay of the island's east side, on which the castaways landed (I.11 ¶22). *(My reading, to confirm.)*
+    - quote: sur laquelle les naufragés avaient atterri
+  - The east coast of the island, where the castaways landed, is deeply indented along a vast bay that ends in the south-east at a sharp cape (I.11 ¶22). *(Drafted.)*
+    - quote: s’échancrait largement et bordait une vaste baie terminée au sud-est par un cap aigu
+  - In the north-east two other capes close the bay, with a narrow gulf between them (I.11 ¶22). *(Drafted.)*
+    - quote: Au nord-est, deux autres caps fermaient la baie
+  - Smith proposed to call this vast bay of the east the Union Bay, and it was so named on 30 March (I.11 ¶63). *(Drafted.)*
+    - quote: cette vaste baie de l’est le nom de baie de l’Union
+  - It was named at once with the Washington Bay and Mont Franklin (I.11 ¶65). *(Drafted.)*
+    - quote: on nomma baie de l’Union, baie Washington et mont Franklin
+  - Its south-east end is the point named cape Griffe (see [Cape Griffe](cap-griffe.md)) (I.11 ¶74). *(Drafted.)*
+    - quote: C’est-à-dire l’extrémité de la baie de l’Union ?
+  - The Grande-Vue plateau commands the whole of it (I.11 ¶80). *(Drafted.)*
+    - quote: d’où le regard pouvait embrasser toute la vaste baie
+  - Smith set the Union Bay and the whole Grande-Vue plateau in the east by the sun's height and position, to be corrected the next day (I.11 ¶83). *(Drafted.)*
+    - quote: ce qui mettait à l’est la baie de l’Union et tout le plateau de Grande-Vue
+  - The point that closes it on the north is named cape Mandibule-Sud (see [Cape Mandibule-Sud](cap-mandibule-sud.md)) (I.14 ¶38). *(Drafted.)*
+    - quote: cette pointe qui fermait la baie de l’Union
+- **On the page.**
+  - Nab and Spilett walked the coast for more than eight miles and found no trace, footprint or inhabitant (I.5 ¶42). *(Drafted.)*
+    - quote: Il était évident qu’aucun habitant ne fréquentait cette portion de la côte
+- **Appears in:** I.3, I.4, I.5, I.11, I.14

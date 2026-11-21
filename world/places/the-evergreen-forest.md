@@ -37,12 +37,16 @@ Keywords: forêt, conifers, woodland, deodar, pine, dead wood, riverbank, tall g
     - quote: le taillis se resserrait et devenait presque impénétrable
   - With no beaten path, finding one's way among the masses of trees is rather hard (I.9 ¶88). *(Drafted.)*
     - quote: Se guider au milieu de ces massifs d’arbres, sans aucun chemin frayé, était chose assez difficile
+  - On 29 March the party crossed it on the way to the mountain and reached its western edge at nine o'clock; the ground was marshy at first, then dry and sandy (I.10 ¶20). *(My reading, to confirm.)*
+    - quote: à neuf heures, Cyrus Smith et ses compagnons atteignaient la lisière occidentale de la forêt
+  - The ground rises slightly from the shore towards the interior (I.10 ¶21). *(Drafted.)*
+    - quote: accusait une légère pente, qui remontait du littoral vers l’intérieur de la contrée
 - **On the page.**
   - A mass of tall trees was visible from the islet to the right of the cut face (I.3 ¶53). *(Drafted.)*
     - quote: la masse confuse de grands arbres
   - The grass on the bank had probably never been trodden by a man (I.4 ¶38). *(Drafted.)*
     - quote: le pied d’un homme ne s’était, probablement, jamais hasardé
-- **Appears in:** I.3, I.4, I.6, I.9
+- **Appears in:** I.3, I.4, I.6, I.9, I.10
 - **Open:**
   - I.4 does not name this forest. I.13 ¶36 names the wood of the Jacamar as the part of the forest on the left bank of the Mercy, and I.4 ¶28 puts this forest on the left bank of the river at the Chimneys; the card does not join them.
     - quote: ils commencèrent à remonter la rive gauche de la rivière

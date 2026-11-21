@@ -5,6 +5,8 @@
 Keywords: chaux, limestone, calcium carbonate, burning, calcination, slaking
 
 - **What it is.**
+  - Smith carried a sample of lime in his pocket with other minerals (see [the mineral samples](mineral-samples.md)) (I.12 ¶77). *(Drafted.)*
+    - quote: ceci de la chaux
   - It is a very fat quicklime, swelling greatly on slaking (I.13 ¶44). *(Drafted.)*
     - quote: une chaux vive, très-grasse, foisonnant beaucoup par l’extinction
   - It is as pure as if made by calcining chalk or marble (I.13 ¶44). *(Drafted.)*
@@ -23,7 +25,7 @@ Keywords: chaux, limestone, calcium carbonate, burning, calcination, slaking
     - quote: une certaine quantité de chaux toute préparée
   - A little lime was added to the clay for the pottery (see [the pottery](pottery.md)) (I.13 ¶47). *(Drafted.)*
     - quote: un peu de chaux et du quartz
-- **Appears in:** I.13
+- **Appears in:** I.12, I.13
 - **Open:**
   - The text says the stones were decomposed by heat but not in what fire, nor how many days it took.
     - quote: décomposées par la chaleur

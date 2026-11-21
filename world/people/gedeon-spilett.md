@@ -25,14 +25,27 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: qui ne se connaissaient pas, si ce n’est de réputation
   - Cyrus Smith calls him his friend (I.2 ¶39). *(Drafted.)*
     - quote: mon ami Spilett
-  - Pencroff fears he has kept his notebook rather than his box of matches (I.5 ¶33). *(Drafted.)*
-    - quote: n’ait plutôt conservé son carnet que sa boîte d’allumettes
   - He is a smoker, and so is expected always to have matches on him (I.5 ¶65). *(Drafted.)*
     - quote: vous êtes fumeur, vous avez toujours des allumettes sur vous
   - He has kept a notebook and a watch, probably by oversight (I.6 ¶2). *(Drafted.)*
     - quote: un carnet et une montre que Gédéon Spilett avait conservée par mégarde sans doute
   - He is sure that Cyrus Smith will find a way to make fire, "with nothing" (I.9 ¶11). *(Drafted.)*
     - quote: Il trouvera bien le moyen de nous faire du feu, lui !
+  - He has hunted the tiger in India and the lion in Africa (I.10 ¶29). *(Drafted.)*
+    - quote: qui avait déjà chassé le tigre aux Indes et le lion en Afrique
+  - He kills a tragopan with a stone thrown deftly and hard (I.10 ¶32). *(Drafted.)*
+    - quote: d’un coup de pierre, adroitement et vigoureusement lancé
+  - He draws the island's outline on Cyrus Smith's advice, and the map is made at once, with sufficient precision (I.11 ¶21). *(Drafted.)*
+    - quote: la carte fut immédiatement dressée par le reporter avec une précision suffisante
+  - He would rather have names borrowed from their own country, to remind them of America (I.11 ¶62). *(Drafted.)*
+    - quote: Je préférerais des noms empruntés à notre pays
+  - His watch is a true pocket chronometer, spared by the sea because he was thrown first on the sand out of reach of the waves; he never forgot to wind it carefully each day (I.12 ¶3). *(Drafted.)*
+    - quote: avait été respectée par l’eau de mer
+    - quote: un véritable chronomètre de poche, que Gédéon Spilett n’avait jamais oublié de remonter soigneusement chaque jour
+  - His watch has kept Richmond time, on a meridian nearly Washington's (I.12 ¶7). *(Drafted.)*
+    - quote: Vous avez conservé l’heure de Richmond, n’est-ce pas ?
+  - He knows kangaroo stewed is worth the best venison (I.12 ¶49). *(Drafted.)*
+    - quote: Préparé à l’étuvée, répondit le reporter, cela vaut la meilleure venaison
   - A reporter of great talent (I.13 ¶5). *(Drafted.)*
     - quote: reporter de grand talent
   - He has learned everything so as to be able to speak of everything (I.13 ¶5). *(Drafted.)*
@@ -43,39 +56,18 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: cinq hommes plus propres à lutter contre le sort
   - He is one of the Americans described as religious men (I.13 ¶50). *(Drafted.)*
     - quote: Ces Américains étaient des hommes religieux
+  - He knows what a gun needs: iron for the barrels, steel for the locks, saltpetre, charcoal and sulphur for powder, mercury and nitric acid for fulminate, lead for balls (I.14 ¶41). *(Drafted.)*
+    - quote: Procurez-nous du fer pour les canons, de l’acier pour les batteries, du salpêtre
+    - quote: du mercure et de l’acide azotique pour le fulminate, enfin du plomb pour les balles
+  - He is easy about their lack of everything: "que nous manque-t-il ? Rien !" (I.14 ¶52). *(Drafted.)*
+    - quote: D’ailleurs, que nous manque-t-il ? Rien !
 - **On the page.**
-  - A plate is captioned with his name (I.2 pl1). *(Drafted.)*
-    - quote: GÉDÉON SPILETT.
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
-  - Committed by Smith's "nous", he approves the plan without reserve and is only surprised he had not thought of it himself (I.2 ¶42). *(Drafted.)*
-    - quote: il l’approuva sans réserve
-  - After the fall he cries "En avant !" and leads the search for the engineer (I.3 ¶2). *(Drafted.)*
-    - quote: « En avant ! » s’écria le reporter
-  - He says Cyrus's silence proves nothing and that they must not despair (I.3 ¶28). *(Drafted.)*
-    - quote: ne désespérons pas
-  - He proposes lighting a signal fire for the engineer, but there is no wood on the islet (I.3 ¶29). *(Drafted.)*
-    - quote: Le reporter émit alors l’idée d’allumer sur un point de l’îlot quelque feu
-  - He agrees with Pencroff to wait for low water and keep together as much as they can (I.3 ¶48). *(Drafted.)*
-    - quote: Séparons-nous le moins que nous pourrons
-  - At about ten o'clock on 25 March he crosses the channel with Pencroff and Harbert, clothes bundled on his head (I.3 ¶60). *(Drafted.)*
-    - quote: Gédéon Spilett et ses deux compagnons se dépouillèrent de leurs vêtements
-  - He goes off up the coast alone on Nab's track, impatient for news of the engineer (I.4 ¶1). *(Drafted.)*
-    - quote: tant il lui tardait d’avoir des nouvelles de l’ingénieur
-  - He and Nab searched the coast for more than eight miles and found no trace of the engineer (I.5 ¶42). *(Drafted.)*
-    - quote: Nab et lui avaient parcouru la côte sur un espace de plus de huit milles
-  - He eats the shellfish, lies down by a rock, exhausted but calm (I.5 ¶51). *(Drafted.)*
-    - quote: Il était exténué, mais calme.
-  - He says he had matches but must have thrown them all away (I.5 ¶57). *(Drafted.)*
-    - quote: J’en avais, mais j’ai dû tout jeter
   - A single match is found in the lining of his waistcoat (I.5 ¶66). *(Drafted.)*
     - quote: un petit morceau de bois engagé dans la doublure de son gilet
-  - He tears a leaf from his notebook for the fire (I.5 ¶73). *(Drafted.)*
-    - quote: déchira une feuille de son carnet
   - He notes the day's incidents in summary before sleeping (I.5 ¶88). *(Drafted.)*
     - quote: après avoir sommairement noté les incidents de ce jour
-  - He finds the double disappearance of Cyrus and Top, living or dead, inexplicable and improbable (I.7 ¶18). *(Drafted.)*
-    - quote: a quelque chose d’inexplicable et d’invraisemblable
   - He alone is kept awake by anxiety through the storm, reproaching himself for not having gone with Nab (I.7 ¶34). *(Drafted.)*
     - quote: Seul, Gédéon Spilett était tenu éveillé par l’inquiétude
     - quote: Il se reprochait de ne pas avoir accompagné Nab
@@ -83,24 +75,12 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: devait contribuer largement de la tête et de la main à la colonisation de l’île
   - He will turn hunting into a trade (I.13 ¶5). *(Drafted.)*
     - quote: il ferait un métier de ce qui, jusqu’alors, n’avait été pour lui qu’un plaisir
-  - Called "le reporter", he asks what happens if food runs short for want of hunting tools (I.13 ¶17). *(Drafted.)*
-    - quote: faute d’instruments de chasse
   - He and Harbert become very skilful archers (I.13 ¶36). *(Drafted.)*
     - quote: Le reporter et Harbert devinrent promptement de très-adroits tireurs d’arc
-  - He and Harbert once saw an animal that looked like a jaguar (I.13 ¶39). *(Drafted.)*
-    - quote: aperçurent un jour un animal qui ressemblait à un jaguar
   - He promises himself, once he has a serious weapon, to wage war on the wild beasts and purge the island of them (I.13 ¶39). *(Drafted.)*
     - quote: se promettait bien de faire aux bêtes féroces une guerre acharnée
-  - He asks whether Cyrus can find the longitude without instruments or sextant (I.13 ¶64). *(Drafted.)*
-    - quote: Sans instruments, sans sextant ?
-  - He says that, if they are within a hundred miles of an inhabited coast, a boat might serve them better than a house (I.13 ¶66). *(Drafted.)*
-    - quote: nous pouvons avoir intérêt à construire un bateau
-  - He takes Nemo's hand and finds it burning (III.16 ¶8). *(Drafted.)*
-    - quote: Gédéon Spilett prit sa main, qu’il trouva brûlante
-  - Nemo signs to him and the engineer to sit (III.16 ¶9). *(Drafted.)*
-    - quote: d’un signe il pria l’ingénieur et le reporter de s’asseoir
-  - He offers Nemo his care, and is told it is useless (III.16 ¶36). *(Drafted.)*
-    - quote: quand le reporter lui offrit ses soins
+  - On 16 April, which is the day true time and mean time coincide, his chronometer is taken to give the true time at Washington (I.14 ¶70). *(Drafted.)*
+    - quote: l’heure donnée par Gédéon Spilett serait l’heure vraie qu’il serait alors à Washington
 - **Habits.**
   - His notes are short, clear and neat, each one throwing light on an important point; he does not clog the wires with idle cables (I.2 ¶9). *(Drafted.)*
     - quote: chacune de ses notes, courtes, nettes, claires, portait la lumière sur un point important
@@ -108,11 +88,20 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: il était en train de faire la description et le croquis de la bataille
   - He keeps a notebook in which he notes the day's events (I.5 ¶88). *(Drafted.)*
     - quote: noté les incidents de ce jour
+  - He notes the day's incidents while the others make camp (I.10 ¶48). *(Drafted.)*
+    - quote: Gédéon Spilett noter les incidents du jour
+  - He writes the names down as they are chosen, so that the island's nomenclature may be fixed (I.11 ¶64). *(Drafted.)*
+    - quote: Gédéon Spilett les inscrirait à mesure
+  - He is ready to note any incident on the march (I.12 ¶16). *(Drafted.)*
+    - quote: Gédéon Spilett, prêt à noter tout incident
   - He hunts with bow and arrow for the camp's game (I.13 ¶36). *(Drafted.)*
     - quote: Le reporter et Harbert devinrent promptement de très-adroits tireurs d’arc
   - He is a hunter by passion (I.13 ¶5). *(Drafted.)*
     - quote: chasseur passionné
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.13, III.16
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, III.16
 - **Open:**
+  - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
+    - quote: méridien qui est à peu près celui de Washington
+    - quote: l’heure vraie qu’il serait alors à Washington
   - His origin, age and newspaper are not stated in these chapters; the text calls him only a reporter of great talent (I.13 ¶5). *(Drafted.)*
     - quote: reporter de grand talent

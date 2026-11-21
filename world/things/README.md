@@ -386,7 +386,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The wicker baskets](wicker-baskets.md) | baskets and hampers of every size made in the winter |
 | [The wild radishes](wild-radishes.md) | the raves of the Mercy bank |
 | [The wild spinach](wild-spinach.md) | a goosefoot found on the Mercy bank |
-| [The willow bark](willow-bark.md) | the black willow’s bark, powdered to stand for quinine |
+| [The willow bark](willow-bark.md) | the black willow's bark, powdered to stand for quinine |
 | [The windmill](the-windmill.md) | the wind mill built on the Grande-Vue plateau |
 | [The window glass](window-glass.md) | the panes Smith and Harbert make for Granite-house |
 | [The wooden compass](wooden-compass.md) | Smith's two-armed angle gauge, a stand-in for the sextant |

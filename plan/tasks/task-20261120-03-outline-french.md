@@ -37,6 +37,7 @@ Chapter `NNNNN` is the French chapter in book order, in steps of 100: 00100 is I
 - 2026-11-20 Wave 1 launched: c on 00400 to 00700, d on 00800 to 01100. The prompts are made by filling `prompt-outliner.md`; the seam is the French last paragraph of the chapter before.
 
 - 2026-11-20 Wave 1 back. c (00400 to 00700): 120,658 tokens, 33 calls, 5.0 min. d (00800 to 01100): 154,607 tokens, 23 calls, 7.8 min. The harness refused both agents' report files; the main session saved them from the returned text, and the prompt now asks for the report as the final message. d had written plate and note citations inside quote lines, as in "(I.8 pl1)", so 11 quotes failed. The citations were moved to "at:" lines by a script, and the prompt now says so. The checker now tests notes against the whole French, since notes may quote another chapter (d's four declared cross-chapter quotes). All 11 outlines pass.
+- 2026-11-20 Wave 2 back. e (01200 to 01500): 149,080 tokens, 24 calls, 7.4 min. f (01600 to 01900): 129,204 tokens, 22 calls, 5.7 min. Both pass `check_outlines.py`, and both reports' and timelines' quotes resolve. e notes short French phrases left in the English prose, uncited (R1120-29). These are held for the critic pass, not edited by hand. f's "claie" in I.17 ¶37 is the hurdle of I.13 and I.15 (`world/things/hurdle.md`). The running total is 810,685 tokens for 19 chapters.
 
 ## Resolution
 

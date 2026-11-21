@@ -9,3 +9,7 @@
 | 3 | lost: a cause | As yet they hunted only in Jacamar Wood, on the left of the river, for, for want of a bridge and of a boat, the Mercy had not yet been crossed. | As yet they hunted only in Jacamar Wood, on the left of the river. |
 | 4 | lost: a whole sentence | "Are you quite sure of that, Pencroff?" asked the engineer, looking at the sailor. | (deleted) |
 | 5 | lost: a footnote | (1) The gallon is about four liters and a half. | (deleted) |
+
+## The calibration run (R1121-114)
+
+A fresh Sonnet critic on `01900-cal-lost.md`, with the prompt `prompt-critic-omission-01900-cal.md` (2026-11-21). **It caught all 5 planted losses,** each with the exact French. It made no false finding. **Read:** trusted on what is lost. It runs on the clean 01900 and 02000.

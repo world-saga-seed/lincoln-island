@@ -1,6 +1,6 @@
 # The phase 2 check: the sampled beats
 
-*One beat per chapter, drawn by `random.seed(20261120)`, `random.choice` over each outline's beat headings, in chapter order, by the main session before any finder ran. Chapters 06000 to 06200 are added when their outlines exist.*
+*One beat per chapter, drawn by `random.seed(20261120)`, `random.choice` over each outline's beat headings, in chapter order, by the main session before any finder ran. Redrawn over all 62 chapters once the last outlines existed; the draw runs from the same seed, so the earlier chapters keep their beats where their headings did not change.*
 
 | Chapter | Outline | Beat | Heading |
 |---|---|---|---|
@@ -49,7 +49,7 @@
 | 04300 | `story/outline/04300-the-brig-with-the-black-flag.md` | 1 | The ship, two and a half years on (III.1 ¶1–¶2) |
 | 04400 | `story/outline/04400-ayrton-swims-to-the-brig.md` | 7 | The heroic idea (III.2 ¶61–¶66) |
 | 04500 | `story/outline/04500-the-brig-sunk-in-the-channel.md` | 6 | The boat rounds the islet (III.3 ¶30–¶39) |
-| 04600 | `story/outline/04600-salvaging-the-wrecked-brig.md` | 1 | "Ils ont sauté !" and the walk to the shore (III.4 ¶1–¶8) |
+| 04600 | `story/outline/04600-salvaging-the-wrecked-brig.md` | 1 | "They have blown up!" and the walk to the shore (III.4 ¶1–¶8) |
 | 04700 | `story/outline/04700-the-battery-and-the-six-convicts.md` | 6 | The six rogues; Ayrton's hesitation (III.5 ¶44–¶51) |
 | 04800 | `story/outline/04800-silent-wire-and-a-shot.md` | 8 | The evening telegram gets no answer (III.6 ¶54–¶63) |
 | 04900 | `story/outline/04900-harbert-wounded-and-top-sent-to-nab.md` | 4 | 12 November: hope returns (III.7 ¶46–¶50) |
@@ -63,3 +63,6 @@
 | 05700 | `story/outline/05700-the-bell-the-wire-and-the-nautilus.md` | 12 | The Nautilus, and the name (III.15 ¶132–¶147) |
 | 05800 | `story/outline/05800-captain-nemo-tells-his-life.md` | 8 | Alone; the port under Lincoln Island; Smith saved (III.16 ¶59–¶64) |
 | 05900 | `story/outline/05900-the-death-of-captain-nemo.md` | 1 | Day in the crypt; Nemo will die aboard (III.17 ¶1–¶9) |
+| 06000 | `story/outline/06000-the-volcano-smokes-and-the-crypt-is-cracked.md` | 9 | From the corral to the crypt's mouth (III.18 ¶77–¶89) |
+| 06100 | `story/outline/06100-the-island-is-doomed-and-burns.md` | 5 | The corral is lost (III.19 ¶28–¶33) |
+| 06200 | `story/outline/06200-the-rock-the-duncan-and-the-tomb.md` | 2 | Nine days on the rock, 18 March (III.20 ¶6–¶8) |

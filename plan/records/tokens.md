@@ -29,3 +29,6 @@
 | 2026-11-20 | agent, Haiku: French sorter s2 | phase 2 (French sweep, R1120-39) | all 62 | — | french-sort-s2.tsv | 125,973 | 3 | 2.7 |
 | 2026-11-20 | agent, Haiku: French reviewer r1 | phase 2 (French sweep, R1120-39) | all 62 | — | french-review-r1.tsv | 234,115 | 5 | 7.4 |
 | 2026-11-20 | agent, Haiku: French reviewer r2 | phase 2 (French sweep, R1120-39) | all 62 | — | french-review-r2.tsv | 167,286 | 5 | 3.6 |
+| 2026-11-20 | agent, Haiku: finder f1 | phase 2 (the check) | 31 beats, 00100 to 03100 | — | the sampled beats and their cited French | 149,481 | 13 | 2.6 |
+| 2026-11-20 | agent, Haiku: finder f2 | phase 2 (the check) | 31 beats, 03200 to 06200 | — | the sampled beats and their cited French | 162,513 | 23 | 3.4 |
+| 2026-11-20 | agent, Sonnet: critic | phase 2 (the check) | 3 findings, 12 beats re-read | — | report-f2, critic-recheck, the outlines and cited French | 78,290 | 19 | 1.3 |

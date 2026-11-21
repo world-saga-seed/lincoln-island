@@ -100,7 +100,7 @@
   - quote: le 3 mai, des cris de Nab
 - Harbert and Spilett drop their guns and Pencroff his axe. All go to the stranding place at Wreck Point, three miles from Granite House, at high tide. They cross the Mercy bridge, follow the right bank and reach the animal in under twenty minutes, with picks and iron-shod stakes. Birds already swarm over it. *(Drafted.)*
   - quote: sur la grève de la pointe de l’Épave, à trois milles de Granite-house
-- It is a southern whale, eighty feet long, perhaps one hundred and fifty thousand pounds. A plate carries Nab's cry. *(Drafted.)*
+- It is a southern whale, eighty feet long, a giant of its kind, weighing not less than one hundred and fifty thousand pounds. A plate carries Nab's cry. *(Drafted.)*
   - quote: longue de quatre-vingts pieds
 - It does not struggle to refloat. At low tide, walking round it, they learn why: it is dead, and a harpoon sticks out of its left flank. *(Drafted.)*
   - quote: Il était mort, et un harpon sortait de son flanc gauche.

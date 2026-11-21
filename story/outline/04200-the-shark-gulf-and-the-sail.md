@@ -136,7 +136,7 @@
   - quote: les mauvais jours étaient venus avec le mois de mai, — novembre des zones boréales
 - They are well supplied with felt clothing from the wool of the many mouflons. *(Drafted.)*
   - quote: Les vêtements de feutre ne manquaient pas
-- Ayrton is given such clothes; Smith offers him a place at Granite-house for the winter and he promises to come when the corral work is done. *(Drafted.)*
+- Ayrton is given such clothes; Smith offers him a place at Granite-house for the winter and he promises to come when the corral work is done, and does so about mid-April; from then on he shares the common life and makes himself useful, but, still humble and sad, takes no part in the others' pleasures. *(Drafted.)*
   - quote: Ce qu’il fit vers la mi-avril
   - quote: dès que les derniers travaux du corral seraient terminés
 - During most of this third winter the colonists are shut in Granite-house. Fierce storms, huge waves, and the Mercy twice swells so as to threaten the bridges. *(Drafted.)*

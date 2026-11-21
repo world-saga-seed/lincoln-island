@@ -102,7 +102,7 @@
   - quote: Gédéon Spilett prit des vues photographiques de ce superbe littoral
 - Near noon they reach the Falls River mouth. Beyond it the trees thin out and the mountain's bare spurs run to the shore. *(Drafted.)*
   - quote: Vers midi, le Bonadventure était arrivé à l’embouchure de la rivière de la Chute
-- The north part of the west coast contrasts with the south: harsh basalt, like crystallised molten rock. From the summit of Mount Franklin they had not seen how grim it is; from the sea it is unmatched. *(Drafted.)*
+- The north part of the west coast contrasts with the south: harsh basalt, like crystallised molten rock. From the summit of Mount Franklin they had not seen how grim it is; seen from the sea, this coast has a strangeness perhaps without equal anywhere in the world. *(Drafted.)*
   - quote: Quel contraste entre la portion sud et la portion nord de cette côte
   - quote: dans le basalte encore bouillant des époques géologiques
 - The ship passes half a mile off: blocks twenty to three hundred feet high, towers, spires, obelisks, bridges, arches, caves, over eight or nine miles. *(Drafted.)*

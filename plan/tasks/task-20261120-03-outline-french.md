@@ -46,6 +46,10 @@ Chapter `NNNNN` is the French chapter in book order, in steps of 100: 00100 is I
 - 2026-11-20 Wave 8 back. q (06000 to 06200): 114,643 tokens, 23 calls, 4.8 min. It passes. All 62 outlines and 62 notes files now pass `check_outlines.py`. The outlining total is 2,317,690 agent tokens for 62 chapters, under the 3.1 M projection.
 - 2026-11-20: the timeline merged (632 quotes resolve); scan page 460 read (R1120-40): the print has "le 30 novembre". The French sweep (R1120-39): 928 spans found, 858 put into English by two Haiku sorters and two Haiku reviewers, plus fixes by hand; the kept French is listed in `task-20261120-03-outline-french/french-kept.md`. 666,000 Haiku tokens. All checks pass.
 
+- 2026-11-20 The check. `sample.md` was redrawn over all 62 chapters (seed 20261120; the first 59 beats unchanged). Two Haiku finders read 31 beats each: f1 found 31 clean; f2 found 28 clean and 3 findings, all quotes resolving (`report-f1.md`, `report-f2.md`). A fresh Sonnet critic judged the three (all confirmed) and re-read 12 beats the finders had called clean (`critic-recheck.md`, seed 20261121), finding one more: 03100 beat 6, "every" game animal missed where the French has "bien des", with two causes, not one (`report-critic.md`). It also noted 06100's "sheep" for "mouflons". All five are folded back: 03200 b7 (a floor, not "perhaps"), 04100 b7 ("peut-être" restored), 04200 b8 (Ayrton comes about mid-April and shares the common life), 03100 b6, 06100 b5. 390,284 tokens.
+
 ## Resolution
 
-(On close.)
+Closed 2026-11-20. All five acceptance items are met: 62 outlines and notes pass `check_outlines.py`; the seams are checked by the outliners and the script; the timeline cites every date, with the discords side by side; the check is logged, and every finding's quote resolves; the token rows are in `plan/records/tokens.md`. Phase 2 cost 2,317,690 tokens for outlining, 666 k for the French sweep and 390 k for the check: about 3.37 M in all.
+
+The check's rates: the Haiku finders flagged 3 of 62 beats, and the critic found 1 more in the 12 they called clean. One miss in twelve suggests about five more lie in the 59 unflagged beats; they are left for the reads (the author's ruling on the sweep, applied here as well). *(My reading, to confirm.)*

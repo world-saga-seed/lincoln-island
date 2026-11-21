@@ -65,7 +65,7 @@
   - quote: c’étaient les parties fertiles de l’île, les sources du creek Rouge, les bois de Jacamar
 - The colonists harness the cart at the onaggas' stable and race to free the animals. *(Drafted.)*
   - quote: Courir au corral et mettre en liberté les animaux qu’il renfermait
-- Before three in the morning they reach the corral; the sheep and goats howl in terror; a torrent of incandescent matter already gnaws at the palisade. Ayrton throws the gate open and the animals scatter. *(Drafted.)*
+- Before three in the morning they reach the corral; the mouflons and goats howl in terror; a torrent of incandescent matter already gnaws at the palisade. Ayrton throws the gate open and the animals scatter. *(Drafted.)*
   - quote: Avant trois heures du matin, ils étaient arrivés au corral
   - quote: La porte fut brusquement ouverte par Ayrton
 - An hour later the lava fills the corral, boils away the little stream, burns the dwelling and devours the palisade; nothing of the corral remains. *(Drafted.)*

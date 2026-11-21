@@ -84,7 +84,7 @@
 
 - On one of the excursions of that time a new tree is found. *(Drafted.)*
   - quote: un nouvel arbre fut découvert
-- Cyrus and Harbert, hunting in the Far-West forest left of the Mercy, miss every game animal because Harbert talks chemistry and physics. *(Drafted.)*
+- Cyrus and Harbert, hunting in the Far-West forest left of the Mercy, let many kangaroos, capybaras and agoutis pass within range unshot, because Cyrus is no hunter and Harbert talks chemistry and physics. *(Drafted.)*
   - quote: Harbert parlait chimie et physique
 - Late in the day Harbert cries out at a shrub with a single scaly stem and leaves veined in parallel; he names it "cycas revoluta", from the natural-history dictionary; no fruit, but the trunk holds flour "toute moulue"; Cyrus: "So it is the breadfruit tree?". *(Drafted.)*
   - quote: C’est un « cycas revoluta »

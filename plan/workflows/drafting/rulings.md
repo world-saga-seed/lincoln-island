@@ -2,7 +2,7 @@
 
 *Basic.*
 
-*Template. This is your house style: the one file every drafter, critic, reviser and trimmer reads, and the rules the critics enforce. Fill in each section for your book; delete the guidance in italics. Each line carries its mark: settled lines cite their ledger ID. A new ruling goes here once, not into every prompt.*
+*The house style of* Lincoln Island*: the one file every drafter, critic, reviser and trimmer reads, and the rules the critics enforce. Each line cites its ledger ID. A new ruling goes here once, not into every prompt. The numbers are White's own, measured on his Part I (`plan/tasks/task-20261121-10-rulings.md`).*
 
 *The notes are the facts; this file only collects what drafters keep getting wrong. Keep it short enough to read whole. When it passes about two pages, move the detail to the voice sheet or a card and leave a one-line pointer.*
 
@@ -10,12 +10,13 @@
 
 *The narration: who, what tense, what distance. These are the lines a drafter breaks most often.*
 
-- [Point of view and tense, e.g. "First person, past tense, the narrator's voice; told as it happens."] *(Settled R____-__.)*
-- **No hindsight.** [If told as it happens: no "later I learned", "I never saw her again", "for what came after".]
+- **Verne's narrator, third person, past tense.** In the neighbours, as the French has it. In 01950 he stays with Pencroff and Herbert, and gives a thought briefly, as Verne does ("pensa Harbert", II.1 ¶79). He never stays long inside a head. *(Settled R1121-90.)*
+- **Foresight only where Verne has it.** In the neighbours, exactly where the French looks ahead (as I.4 ¶16, II.9 ¶67). In 01950, none: one glance forward and the reader starts looking for a hand. *(Settled R1121-91.)*
 - **The future may shape what is planted, never what is said.** A chapter states only what the cards show on the page at or before it.
 - **Never trim a clue.** No trim, cut or revision removes a line listed in `plan/reread-hooks.md` or in a chapter's clue notes. A line that looks like a clue and is listed nowhere is kept and reported.
-- **No explanation of how anything works** [unless your book explains; say which things may be explained, by whom].
-- **Spelling is White's American:** color, honor, labor, favor, harbor, neighbor, and "-ize" as he has it. The British "-our" forms are banned. See the [voice sheet](../../../story/voice/white.md). *(Settled R1121-21.)* [Contractions in narration: allowed, sparing, or never.]
+- **Explanation as Verne explains.** The neighbours keep every explanation of process and science the French gives, at its length. 01950 explains only what a sailor or a naturalist on the spot would know (tides, net floats, barnacles). It never explains the float's origin, and nothing the register holds open (world rule 11). *(Settled R1121-92.)*
+- **Spelling is White's American:** color, honor, labor, favor, harbor, neighbor, and "-ize" as he has it. The British "-our" forms are banned. See the [voice sheet](../../../story/voice/white.md). *(Settled R1121-21.)* 
+- **Contractions:** none in narration. In speech, sparing, as White's (42 in all Part I), mostly Pencroff's. *(Settled R1121-93.)*
 - **Names are White's forms on the page** (Herbert, Gideon, Neb, the Granite House); the cards keep the French. *(Settled R1121-20.)*
 - [Words the page never uses: run the banned list, `tools/tells.py FILE --banned story/voice/banned.txt`, and fix every hit in narration.]
 - **Draft plain, do not polish.** No notes, marks or comments inside a prose file.
@@ -32,13 +33,15 @@
 
 ## Texture
 
-*Numbers from the writer's own pages, measured with `tools/tells.py` on the style samples. A drafter keeps near them; the voice critic flags a chapter well outside them in either direction. The numbers below are only an example of the form.*
+*White's own numbers on his Part I (`tools/tells.py`). A drafter keeps near them. The voice critic flags a chapter well outside them in either direction, and never forces one into them. (Settled R1121-94.)*
 
-- "the way you … / the way a …" simile: no more than [2] per 1,000 words of narration, never twice in a paragraph.
-- "and" per sentence: about [0.5 to 0.65]. Break long chains with full stops, not semicolons; do not chop below [0.45].
-- No paragraph with three or more negations, or three or more "looked at".
-- None of the stock beats: "It was not X. It was Y."; a list of three abstract clauses; the quiet-realization paragraph that ends "and then I let it go"; a summing-up tag line that says what the scene showed.
-- A closing phrase used at most once a chapter.
+- "and" per sentence about 0.58; White's chapters range from 0.47 to 0.70.
+- Median sentence about 18 words, with about a quarter of the sentences long.
+- Semicolons are kept. White joins clauses with them, about 4.7 per 1,000 words.
+- "as if" at most about 0.5 per 1,000 words. No "the way you … / the way a …" simile: White has none.
+- Exclamations about 3 per 1,000 words, most of them in speech.
+- None of the stock beats: "It was not X. It was Y."; a list of three abstract clauses; the quiet-realization paragraph; a summing-up tag line that says what the scene showed.
+- No paragraph with three or more negations.
 
 ## Tells (phase 5)
 

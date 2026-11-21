@@ -64,7 +64,7 @@ Pencroff knelt down beside it in the sand. About a third of it stood above the b
 
 "A net," said Pencroff.
 
-They tried to turn the ball, but it was heavy with the sand that held it, and stuck as fast as a rock. The sailor felt round it with his fingers as far as he could reach. A cord of the same kind as the other passed under it, on the hidden side, and went down into the sand. Pencroff worked the blade of his knife down beside the glass, until he felt the cord with its point, and sawed at it blindly a long while; but the sand closed upon the blade at every stroke, and when at last he drew it out, he could not tell whether he had cut the cord half through or not cut it at all. To free the ball they must dig; and they had only their hands to dig with, and the sand, as fast as they scooped it out, filled again with water.
+They tried to turn the ball, but it was heavy with the sand that held it, and stuck as fast as a rock. The sailor felt round it with his fingers as far as he could reach. A cord of the same kind as the other passed under it, on the hidden side, and went down into the sand. Pencroff worked the blade of his knife down beside the glass, until he felt the cord with its point, and sawed at it blindly a long while. But the sand closed upon the blade at every stroke, and when at last he drew it out, he could not tell whether he had cut the cord half through or not cut it at all. To free the ball they must dig. They had only their hands to dig with, and the sand, as fast as they scooped it out, filled again with water.
 
 Pencroff sat back on his heels and looked at the thing.
 
@@ -130,7 +130,7 @@ They could not stay. Already the sea was running over the sands they had crossed
 
 They reached the beach. They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. Under the wall Herbert coughed up the sea water he had swallowed, and laughed. Pencroff did not laugh. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
 
-The squall held. The sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it, and it rocked under each sea; and the cord upon which the sailor's knife had worked, if it was not cut through, had been weakened. At last it gave way; the backwash drew the freed ball off the bar into the gut, and the flood in the channel carried it in toward the mouth of the river.
+The squall held. The sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it. It rocked under each sea. The cord upon which the sailor's knife had worked, if it was not cut through, had been weakened. At last it gave way. The backwash drew the freed ball off the bar into the gut, and the flood in the channel carried it in toward the mouth of the river.
 
 Then, for a moment, the clouds broke under the squall. A pale light fell across the channel. Out on the rocks at the river's mouth, in the spray, something flashed, once, and flew apart.
 

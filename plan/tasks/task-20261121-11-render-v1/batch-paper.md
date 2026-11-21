@@ -86,3 +86,14 @@ Calibrated 5 of 5 (`cal/plants-01900-lost.md`). The clean run is running.
   - tells.py: `and/s=0.49 med=18 sd=11.2 short%=8 long%=29` (draft 1: 0.70, 22, 13.2, 7, 42). The median and the long share now sit at White's.
   - Banned 0; spelling.py 0; Prospect Heights 0; lengths.py 48 to 48; every line of dialogue identical to the snapshot.
   - The prompt named a keep list "below" and gave none for the neighbours. The reviser reported it; no line was cut, so nothing was lost. The omission critic runs again on draft 2.
+- **Omission re-check on draft 2** (fresh Sonnet, the same prompt), 2026-11-21: **No losses** in ¶1 to ¶48, with the qualifications, figures, names and n1 checked.
+
+### 01950, draft 2
+
+- **Reviser:** a fresh Opus agent, `prompt-reviser-01950.md`, 2026-11-21, 108,309 tokens. All eleven fixes were made. Its only invention is the ruled clause of fix 2: "At last what was left of the rotten cord gave way; the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet."
+- tells.py, draft 1 to draft 2: `and/s` 0.55 to 0.66, `med` 11 to 16, `short%` 32 to 28, `long%` 25 to 31. The short sentences left are dialogue, the one-line paragraphs and the squall.
+- **The main session's re-check:**
+  - Every keep-list line is word for word.
+  - Each fixed phrase is gone ("men have been here", "telescope eyes", "surprise worth the keeping", "dry-shod", "besides, it was the truth", "were to finish"), and each new one is present.
+  - There is no Nemo, Nautilus, MOBILIS or N, no contraction in narration, and spelling.py and the banned list are both 0.
+- **One join to watch:** under fix 5 the reviser joined "He did not." into "…by the fire, but he did not." That plain one-line beat was R1121-95's kind of sentence. It is put to the author.

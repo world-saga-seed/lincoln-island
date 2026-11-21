@@ -141,3 +141,5 @@ Four edits by the main session; two findings left as they stand:
 - "where the current still ran fast" (seams 1).
 - "which were much worn" (seams 3).
 - Left: the tools' reason (K2, stated at l.49), and the still 3 June (seams 2).
+- **Facts re-check on the edited 01950** (fresh Sonnet), 2026-11-21: 1 weak finding. It held "something flashed, once, and flew apart." against the outline's "a flash in the spray, and it is gone" and the POV file's "No one sees it break up close". **Disposition:** the draft stands. R1121-68 itself says "The two see the float break", and the author ruled "flew apart" (R1121-119). The outline's and the POV file's wording lagged the ruling, and both are now brought up to it. This was a notes fix, not a prose fix.
+- **Probe re-ask:** K3 and K4 now as meant (see `probe/score.md`).

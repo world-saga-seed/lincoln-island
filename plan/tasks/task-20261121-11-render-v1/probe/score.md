@@ -28,3 +28,11 @@
 1. **K3, the point:** the hour spent reading is not returned. The page has "for a while even Pencroff forgot to watch the water" and "We had it, Pencroff. For an hour.", and the reader took the second as consolation, not as the cost.
 2. **K4, the break seen:** a flash, then "They both knew"; a reader can doubt it shattered.
 3. **K2, the tools' reason:** stated on the page (l.49), but not returned.
+
+## The re-ask after R1121-119
+
+A fresh Sonnet reader, who had never seen the earlier text, read the rebuilt `stretch.md` and answered eight questions (`prompt-recheck.md`): K3 and K4, two that probe them ("What does Herbert mean by 'For an hour'?", "Is anything of the float ever found again?"), and four decoys.
+
+- **K3, now as meant.** Asked what the secret cost, it gave "Five of us and the picks", with no men and no picks to dig (sure that something was lost). Asked what Herbert means, it said they had the float "only for the hour they knelt at the low-water bar … The reproach falls on the secrecy, since with help and picks it could have been saved", and it quoted "The hour of low water went by in this way." as "the hour they spent on it". The hour, the reading and the secrecy now return together.
+- **K4, now as meant.** "something flashed, once, and flew apart", so "probably smashed"; nothing found again (sure).
+- **Decoys:** all four answered "unknown", or a hundred rungs from the text. No invention, and no leak.

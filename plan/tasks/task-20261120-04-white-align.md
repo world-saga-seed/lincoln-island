@@ -50,4 +50,4 @@
 
 Closed 2026-11-21. All four acceptance items are met: 62 lists, 1,333 discords (548 cut, 509 changed, 184 condensed, 63 softened, 29 addition), every one citing a French paragraph and quoting both texts or marking White's silence; every quote resolves (`check_white.py`, 0 problems); the check is logged; the tokens are in `plan/records/tokens.md`. 39 outline slips were folded back (R1120-41). Phase 3 cost 3,108,011 tokens: 2,822,776 for the labellers and 285,235 for the check, under the 4.5 M cap (R1120-42).
 
-The check's rate: 5 of the 62 sampled discords (about 8 per cent) were word choices, not departures; about a hundred more such entries may stand among the 1,333. None was a false fact. *(My reading, to confirm.)*
+The check's rate: 5 of the 62 sampled discords (about 8 per cent) were word choices, not departures; about a hundred more such entries may stand among the 1,333. None was a false fact. They are left as they stand. *(Settled R1121-01.)*

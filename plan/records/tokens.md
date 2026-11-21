@@ -34,3 +34,5 @@
 | 2026-11-20 | agent, Sonnet: critic | phase 2 (the check) | 3 findings, 12 beats re-read | — | report-f2, critic-recheck, the outlines and cited French | 78,290 | 19 | 1.3 |
 | 2026-11-20 | agent, Sonnet: labeller A | phase 3 (pilot) | 00100, 03900 | 13,239 (side-by-side) | the two side-by-side files and outlines | 104,506 | 14 | 2.7 |
 | 2026-11-20 | agent, Sonnet: labeller B | phase 3 (pilot) | 05800 | 7,397 (side-by-side) | the side-by-side file and outline | 72,791 | 6 | 1.4 |
+| 2026-11-20 | agent, Sonnet: labeller d | phase 3 (White discords) | 00600 to 00900 | 27017 (side-by-side) | the four side-by-side files and outlines | 162,072 | 25 | 4.0 |
+| 2026-11-20 | agent, Sonnet: labeller c | phase 3 (White discords) | 00200 to 00500 | 25694 (side-by-side) | the four side-by-side files and outlines | 171,210 | 20 | 5.1 |

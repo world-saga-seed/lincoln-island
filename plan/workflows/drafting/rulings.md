@@ -14,6 +14,7 @@
 - **Foresight only where Verne has it.** In the neighbours, exactly where the French looks ahead (as I.4 ¶16, II.9 ¶67). In 01950, none: one glance forward and the reader starts looking for a hand. *(Settled R1121-91.)*
 - **The future may shape what is planted, never what is said.** A chapter states only what the cards show on the page at or before it.
 - **Never trim a clue.** No trim, cut or revision removes a line listed in `plan/reread-hooks.md` or in a chapter's clue notes. A line that looks like a clue and is listed nowhere is kept and reported.
+- **The neighbours render the French whole.** Every sentence of the French, and nothing that is not in it. Do not add, explain, soften, sum up or leave out. Where Verne is technical, be technical as he is; where he gives a figure, give it as he does. *(Settled R1121-103.)*
 - **Explanation as Verne explains.** The neighbours keep every explanation of process and science the French gives, at its length. 01950 explains only what a sailor or a naturalist on the spot would know (tides, net floats, barnacles). It never explains the float's origin, and nothing the register holds open (world rule 11). *(Settled R1121-92.)*
 - **Spelling is White's American:** color, honor, labor, favor, harbor, neighbor, and "-ize" as he has it. The British "-our" forms are banned. See the [voice sheet](../../../story/voice/white.md). *(Settled R1121-21.)* 
 - **Contractions:** none in narration. In speech, sparing, as White's (42 in all Part I), mostly Pencroff's. *(Settled R1121-93.)*

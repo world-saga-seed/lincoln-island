@@ -18,7 +18,7 @@
 - **Explanation as Verne explains.** The neighbours keep every explanation of process and science the French gives, at its length. 01950 explains only what a sailor or a naturalist on the spot would know (tides, net floats, barnacles). It never explains the float's origin, and nothing the register holds open (world rule 11). *(Settled R1121-92.)*
 - **Spelling is White's American:** color, honor, labor, favor, harbor, neighbor, and "-ize" as he has it. The British "-our" forms are banned. See the [voice sheet](../../../story/voice/white.md). *(Settled R1121-21.)* 
 - **Contractions:** none in narration. In speech, sparing, as White's (42 in all Part I), mostly Pencroff's. *(Settled R1121-93.)*
-- **Names are White's forms on the page** (Herbert, Gideon, Neb, the Granite House); the cards keep the French. *(Settled R1121-20.)*
+- **Names are White's forms on the page,** as [White's names](../../../story/voice/names.md) lists them (Herbert, Gideon Spilett, Neb, Granite House, Prospect Plateau); the cards keep the French. Never a name from memory of another translation. *(Settled R1121-20, R1121-107.)*
 - **Words the page never uses:** run the banned list, `tools/tells.py FILE --banned story/voice/banned.txt`, and fix every hit in narration. *(Settled R1121-21.)*
 - **Draft plain, do not polish.** No notes, marks or comments inside a prose file.
 
@@ -32,7 +32,7 @@
 
 ## Texture
 
-*White's own numbers on his Part I (`tools/tells.py`). A drafter keeps near them. The voice critic flags a chapter well outside them in either direction, and never forces one into them. (Settled R1121-94.)*
+*White's own numbers on his Part I (`tools/tells.py`). A drafter keeps near them. The voice critic flags a chapter well outside them in either direction. (Settled R1121-94.) In the neighbours, White's sentence breaks are his voice: where Verne's sentences run long, the render (and the revision) splits them toward White's lengths, as White splits them, adding and dropping nothing. (Settled R1121-108.)*
 
 - "and" per sentence about 0.58; White's chapters range from 0.47 to 0.70.
 - Median sentence about 18 words, with about a quarter of the sentences long.
@@ -48,6 +48,7 @@
 
 - **T1, British spelling.** "honour", "labours" and "colours" turned up in three renders of twenty. White's whole text has none of the -our forms. Run the banned list on every draft. *(Settled R1121-85.)*
 - **T2 to T6, small words added for idiom.** A word added to make the English plain ("like the bore of a river" for "comme des mascarets"), an intensifier ("whatever" after "sous aucun prétexte"), a filler for idiom ("no longer held together" for "ne tenaient plus"), a verb strengthened ("wrenched away" for "séparée"), a word of speech dropped ("That is not just!" for "Ce n’est pas juste, cela !"). Each is small. Together they make a habit: render what the French says, at its force, without adding words. Where the English needs a word, take the one White would use, and note it for the critic. *(Settled R1121-85.)*
+- **T7, a name from another translation.** "Prospect Heights" for White's "Prospect Plateau" in 01900 draft 1: a model's memory of later English versions. Check every name against [White's names](../../../story/voice/names.md). *(Settled R1121-107.)*
 
 ## Length
 

@@ -113,7 +113,10 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
     - quote: entre les contreforts occidentaux du mont
   - From its summit the colonists dominated the north-west coast from too high to see its sinister look (II.19 ¶47). *(Drafted.)*
     - quote: Lorsqu’ils étaient au sommet du mont Franklin
-- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8, II.11, II.12, II.18, II.19, III.1
+  - It has a southern buttress, by which a man can flee from the corral (III.7 ¶53); the buttresses offer retreats among them (III.8 ¶2). *(Drafted.)*
+    - quote: s’enfuyait par le contrefort sud du mont Franklin
+    - quote: aux contreforts du mont Franklin, entre lesquels il était naturel qu’ils cherchassent quelque retraite
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8, II.11, II.12, II.18, II.19, III.1, III.7, III.8
 - **Open:**
   - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
     - quote: à une distance de six ou sept milles

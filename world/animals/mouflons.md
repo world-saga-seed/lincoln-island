@@ -53,4 +53,6 @@ Keywords: mouflon, mouton, sheep, bighorn, horns, wool, toison, gigot, côtelett
     - quote: le troupeau de mouflons, qui comptait alors plus de quatre-vingts têtes
   - By the winter of the third year the mouflons, now numerous, have supplied abundantly the wool for the felt clothing (II.20 ¶72). *(Drafted.)*
     - quote: les mouflons, nombreux alors, avaient abondamment fourni la laine nécessaire
-- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.17, II.20
+  - At the corral they bleat habitually: their silence, and Ayrton's voice unheard, is what strikes the colonists on 11 November (III.6 ¶89). *(Drafted.)*
+    - quote: Ni les bêlements accoutumés des mouflons
+- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.17, II.20, III.6

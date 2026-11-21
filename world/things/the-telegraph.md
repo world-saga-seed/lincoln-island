@@ -39,10 +39,17 @@ Keywords: télégraphe électrique, fil, poteaux, pile, cadran, électro-aimant,
   - It puts the corral and Granite-house in communication, and a call sent from the great hall is answered by Ayrton from the corral (III.1 ¶17, ¶20). *(Drafted.)*
     - quote: l’appareil télégraphique qui mettait en communication le corral et Granite-house
     - quote: Je viens
+  - If anything happens at the corral, Ayrton is to warn the colonists at once by a telegram addressed to Granite-house (III.6 ¶6). *(Drafted.)*
+    - quote: il en préviendrait immédiatement les colons par un télégramme à l’adresse de Granite-house
+  - Ayrton acknowledges every telegram as a rule (III.6 ¶54). *(Drafted.)*
+    - quote: Ayrton n’accusa pas réception de la dépêche, ainsi qu’il avait l’habitude de le faire
+  - On 11 November the line is found cut at pole no. 74, the pole pulled down by a man’s hand and the wire freshly and violently broken, so that no telegram has passed either way (see [the posts](telegraph-posts.md), [the wire](telegraph-wire.md)) (III.6 ¶78–¶83). *(Drafted.)*
+    - quote: il a été déraciné de main d’homme
+    - quote: il était évident que les dépêches de Granite-house n’avaient pu être reçues au corral
 - **On the page.**
   - Pencroff, delighted, sends a telegram to the corral every morning and every evening, and it never goes without an answer (II.18 ¶50). *(Drafted.)*
     - quote: chaque matin et chaque soir il lançait un télégramme au corral, qui ne restait jamais sans réponse
-- **Appears in:** II.18, III.1
+- **Appears in:** II.18, III.1, III.6
 - **Open:**
   - How the call is received: II.18 ¶48 gives a needle on a dial lettered with the alphabet; III.1 ¶19 says "le timbre résonnait" after the call. Card neither (II.18 ¶48; III.1 ¶19). *(Drafted.)*
     - quote: une aiguille disposée sur un cadran, qui portait en exergue les lettres de l’alphabet

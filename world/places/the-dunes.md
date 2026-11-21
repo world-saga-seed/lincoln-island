@@ -30,4 +30,6 @@ Keywords: dunes, sable, sand hills, monticules, collines, thistles, région sabl
   - They are the capricious dunes among which the engineer was so strangely found, and sea birds frequent them by hundreds (II.20 ¶29). *(Drafted.)*
     - quote: ces dunes capricieuses, entre lesquelles l’ingénieur avait été si singulièrement retrouvé
     - quote: que les oiseaux de mer fréquentaient par centaines
-- **Appears in:** I.7, I.8, I.14, I.15, II.19, II.20
+  - The dunes form the upper coast of the Union Bay (III.5 ¶39). *(Drafted.)*
+    - quote: les dunes qui formaient la côte supérieure de la baie de l’Union
+- **Appears in:** I.7, I.8, I.14, I.15, II.19, II.20, III.5

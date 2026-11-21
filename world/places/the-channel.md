@@ -44,4 +44,6 @@ Keywords: canal, chenal, strait, current, jusant, ford, swim, tide, low water
     - quote: il avait souvent traversé à mer basse
   - Its sands are quicksands, in which the brig’s hull will disappear (III.4 ¶67). *(Drafted.)*
     - quote: les sables mouvants du canal
-- **Appears in:** I.3, I.14, I.15, I.20, II.20, III.2, III.3, III.4
+  - The water of the channel is heaved up like a waterspout by the explosion of the torpedo (III.5 ¶1). *(Drafted.)*
+    - quote: l’eau du canal s’était soulevée comme une trombe
+- **Appears in:** I.3, I.14, I.15, I.20, II.20, III.2, III.3, III.4, III.5, III.6

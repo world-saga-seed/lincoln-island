@@ -29,4 +29,10 @@ Keywords: ascenseur, lift, elevator, hydraulic, water power, ladder, plan
     - quote: glisser par la corde de l’ascenseur
   - It carries three at once, Pencroff, Nab and Harbert, from the strand up to Granite-house (III.4 ¶2). *(Drafted.)*
     - quote: en se jetant dans l’ascenseur, en même temps que Nab et le jeune garçon
-- **Appears in:** I.19, II.9, II.12, II.15, II.18, III.3, III.4
+  - The small diversion from the lake that feeds the reservoir of Granite-house and works the lift is carefully kept when the old outlet is drowned, so that water will not fail in any case (III.6 ¶11). *(Drafted.)*
+    - quote: la petite dérivation qui servait à l’alimentation du réservoir de Granite-house et à la manœuvre de l’ascenseur
+    - quote: l’eau ne manquerait en aucun cas
+  - With the lift raised, Granite-house defies any surprise or sudden attack, and a man inside it is safe (III.6 ¶11, ¶69). *(Drafted.)*
+    - quote: L’ascenseur une fois relevé, cette sûre et confortable retraite défiait toute surprise ou coup de main
+    - quote: l’ascenseur une fois relevé, il serait en sûreté
+- **Appears in:** I.19, II.9, II.12, II.15, II.18, III.3, III.4, III.6

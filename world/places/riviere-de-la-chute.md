@@ -41,4 +41,7 @@ Keywords: Falls-river, Chute, creek, ruisseau, west coast, côte occidentale, wa
     - quote: depuis l’embouchure de la rivière de la Chute jusqu’aux caps Mandibule
   - A road runs from the corral to its mouth, along the left bank of the Mercy (II.18 ¶55). *(Drafted.)*
     - quote: la route qui allait du corral à l’embouchure de la rivière de la Chute
-- **Appears in:** II.4, II.18, II.19
+  - Its right bank can be followed from the mouth up to the buttresses of Mont Franklin (III.8 ¶2). *(My reading, to confirm.)*
+    - quote: l’embouchure de la rivière de la Chute
+    - quote: en remontant la rive droite du cours d’eau, ils étaient arrivés aux contreforts du mont Franklin
+- **Appears in:** II.4, II.18, II.19, III.8

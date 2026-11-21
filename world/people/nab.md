@@ -139,6 +139,17 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - On 30 November he finds, prowling on the shore, the piece of thick iron cylinder that bears marks of explosion (III.4 ¶81). *(Drafted.)*
     - quote: Nab, rôdant sur la grève
     - quote: un morceau d’un épais cylindre de fer
+  - He holds that the colonists may search as they like for the unseen gentleman and will find him only when it pleases him; Pencroff says that is not foolish (III.5 ¶9, ¶10). *(Drafted.)*
+    - quote: nous ne le découvrirons que quand il lui plaira
+    - quote: Ce n’est pas bête, ce que tu dis là, Nab
+  - He tells Pencroff not to make himself so hard, and is sure that Pencroff would not fire on a convict at his gun's range (III.5 ¶65). *(Drafted.)*
+    - quote: ne te fais pas si méchant que cela
+    - quote: tu ne tirerais pas dessus
+  - He wants to acclimatise a couple of goats on the prairies of the plateau (III.6 ¶54). *(Drafted.)*
+    - quote: une couple de chèvres que Nab voulait acclimater sur les prairies du plateau
+  - His handwriting is large; his note to the corral says no pirates are near Granite-house and that he will not stir, and mourns "Pauvre M. Harbert !" (III.7 ¶95, ¶96). *(Drafted.)*
+    - quote: tracés de la grosse écriture de Nab
+    - quote: Point de pirates aux environs de Granite-house. Je ne bougerai pas
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -172,7 +183,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He and Pencroff carry the provisions on the march and lay out the midday meal (II.4 ¶3, ¶37). *(Drafted.)*
     - quote: Pencroff et Nab emportaient des provisions
     - quote: Nab et Pencroff disposèrent le déjeuner
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

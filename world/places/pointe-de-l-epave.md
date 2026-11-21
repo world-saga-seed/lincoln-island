@@ -36,7 +36,9 @@ Keywords: pointe, Épave, Flotson-point, point, headland, wreck, chest, cove, an
     - quote: soit en tournant les roches de la pointe de l’Épave
   - It ends the re-entering part of the shore that the pirates’ boat rounds at five cables’ distance on 18 October (III.3 ¶32). *(Drafted.)*
     - quote: la partie rentrante du littoral que terminait la pointe de l’Épave
-- **Appears in:** I.21, II.2, II.5, II.10, II.12, II.18, II.20, III.3, III.4
+  - Its outermost rocks include a pointed stone, nearly three miles from Granite-house (III.5 ¶37). *(Drafted.)*
+    - quote: frappant une pierre aiguë à près de trois milles de Granite-house
+- **Appears in:** I.21, II.2, II.5, II.10, II.12, II.18, II.20, III.3, III.4, III.5
 - **Open:**
   - I.21 ¶20 already says "la pointe de l’Épave" in July, though II.2 ¶42 gives the point that name only on 29 October. Card neither (I.21 ¶20; II.2 ¶42). *(Drafted.)*
     - quote: Après avoir tourné la pointe de l’Épave

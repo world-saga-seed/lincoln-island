@@ -84,7 +84,13 @@ Keywords: lac Grant, pond, shore, water, west bank, lac Grant, creek, déversoir
     - quote: sur la rive sud-est du lac
   - Fishing in it is fruitful (II.8 ¶15). *(Drafted.)*
     - quote: la pêche, soit dans les eaux du lac
-- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, II.7, II.8, III.16
+  - In November two dams of well-cemented blocks of rock, none over seven or eight feet wide and three high, are set across the two cuts that feed the creek Glycérine and the creek of the Grande-Chute, and raise the lake’s level by two or three feet (see [the lake dams](../things/the-lake-dams.md)) (III.6 ¶8, ¶9). *(Drafted.)*
+    - quote: les deux barrages, qui, d’ailleurs, n’excédaient pas sept à huit pieds en largeur sur trois de hauteur
+    - quote: au moyen de quartiers de roches bien cimentés
+    - quote: surélever de deux à trois pieds le niveau des eaux du lac
+  - Medicinal plants grow on its banks, where Harbert has gathered them (III.7 ¶45). *(Drafted.)*
+    - quote: celles-là mêmes que le jeune garçon avait cueillies sur les berges du lac Grant
+- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, II.7, II.8, III.16, III.6, III.7
 - **Open:**
   - The text gives the lake no size.
     - quote: du lac Grant

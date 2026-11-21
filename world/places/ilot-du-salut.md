@@ -77,6 +77,8 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
   - It has a south point and a north point, which a boat can round to enter or leave the channel (III.3 ¶31, ¶38, ¶77). *(Drafted.)*
     - quote: de manière à le tourner par sa pointe sud
     - quote: tournant la pointe nord de l’îlot
+  - Any ship moored off the islet would lie open to the fire of the battery of Granite-house (III.5 ¶23). *(Drafted.)*
+    - quote: tout navire qui se fût embossé au large de l’îlot
 - **On the page.**
   - Large heavy-flying birds rose from its holes, and others in flocks; Pencroff took them for gulls and sea-mews (I.3 ¶14). *(Drafted.)*
     - quote: des goëlands et des mouettes
@@ -84,7 +86,7 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10, II.18, II.20, III.2, III.3, III.4
+- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10, II.18, II.20, III.2, III.3, III.4, III.5
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?

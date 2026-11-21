@@ -46,7 +46,9 @@ Keywords: marais, marécage, marsh, fen, tadornes, sheldrake, south-east, wildfo
   - Its game territory is easy to reach, by the port Ballon road after the Mercy bridge or by the rocks of the pointe de l’Épave, and the hunters go no more than two or three miles from Granite-house (II.20 ¶77). *(Drafted.)*
     - quote: L’accès de ce giboyeux territoire était facile
     - quote: par la route du port Ballon, après avoir passé le pont de la Mercy
-- **Appears in:** I.21, I.22, II.2, II.11, II.20
+  - The road to Port-Ballon runs along its edge, with the thick forest on the other side (III.6 ¶17). *(Drafted.)*
+    - quote: du côté du marais des tadornes
+- **Appears in:** I.21, I.22, II.2, II.11, II.20, III.6
 - **Open:**
   - Where the marshy part lies: I.11 ¶32 speaks of stagnant water "dans la portion marécageuse du nord-est", and I.21 ¶7 puts the marsh in the south-east between the Mercy and cape Griffe. Card neither as one marsh. *(Drafted.)*
     - quote: dans la portion marécageuse du nord-est

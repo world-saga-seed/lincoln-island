@@ -38,7 +38,9 @@ Keywords: fusils, powder, poudre, fulminate, mercury, nitric acid, barrels, shot
   - On 18 October Smith counts two carbines and four guns for the six of them, with powder and balls in plenty; the card reads the four guns as the chest’s two flintlock and two percussion guns (III.3 ¶3, ¶5). *(My reading, to confirm.)*
     - quote: Nous avons à notre usage deux carabines et quatre fusils
     - quote: nous sommes amplement fournis de poudre et de balles
-- **Appears in:** I.12, I.14, I.17, I.18, I.21, I.22, II.2, II.5, II.8, III.3
+  - Pencroff slips two balls into each barrel of his gun (III.6 ¶15). *(Drafted.)*
+    - quote: en glissant ostensiblement deux balles dans chaque canon de son fusil
+- **Appears in:** I.12, I.14, I.17, I.18, I.21, I.22, II.2, II.5, II.8, III.3, III.6
 - **Open:**
   - On 31 October Pencroff says "nous n’avons que du petit plomb dans nos fusils" (II.4 ¶61), and on 2 November the guns are "chargés à balle" (II.5 ¶25); whether they were reloaded is not said. *(Drafted.)*
     - quote: Nous n’avons que du petit plomb dans nos fusils

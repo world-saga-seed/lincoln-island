@@ -57,5 +57,7 @@ Keywords: baie, grève, beach, shore, reefs, brisants, sandbanks, ebb, coast, ba
     - quote: il était déjà entré dans la vaste baie
   - Its whole perimeter runs from cap Griffe to the Mandibule capes (III.3 ¶22). *(Drafted.)*
     - quote: Depuis le cap Griffe jusqu’aux caps Mandibule, sur tout le périmètre de la baie de l’Union
+  - From the landing of Granite-house the guns command the whole bay (III.5 ¶23). *(Drafted.)*
+    - quote: ces bouches à feu commandaient véritablement toute la baie de l’union
 - **On the page.**
-- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5, II.10, II.12, II.20, III.1, III.3
+- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5, II.10, II.12, II.20, III.1, III.3, III.5

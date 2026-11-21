@@ -156,7 +156,11 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: ils ne pouvaient traverser la rivière, dont les ponts étaient relevés
   - Reefs at its mouth wreck the pirates’ second boat (III.3 ¶47). *(Drafted.)*
     - quote: irrésistiblement emportée sur les récifs
+  - Its mouth is a bad place for a boat, and the sea is hard there (III.6 ¶46). *(Drafted.)*
+    - quote: L’embouchure de la Mercy est un mauvais endroit pour un bateau, et la mer y est dure
+  - There are rocks at its mouth, on which a boat can break (III.7 ¶53). *(Drafted.)*
+    - quote: le canot s’était brisé sur les roches, à l’embouchure de la Mercy
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.16, III.2, III.3, III.4
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.16, III.2, III.3, III.4, III.6, III.7

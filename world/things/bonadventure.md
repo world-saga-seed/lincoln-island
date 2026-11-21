@@ -118,7 +118,19 @@ Keywords: Bonadventure, bateau, boat, sloop, embarcation, quille, keel, sapin, f
     - quote: elle est abritée dans Port-Ballon
   - Beside a ship of three to four hundred tons she is small, Pencroff says, "notre Bonadventure" (III.4 ¶24). *(Drafted.)*
     - quote: un navire de trois à quatre cents tonneaux, c’est un vrai navire auprès de notre Bonadventure
-- **Appears in:** II.10, II.11, II.12, II.13, II.14, II.15, II.19, II.20, III.1, III.4
+  - It lies quietly at anchor in the narrow creek of Port-Ballon, a boat of small tonnage by Pencroff’s reckoning (III.6 ¶18, ¶37). *(Drafted.)*
+    - quote: tranquillement mouillé dans l’étroite crique
+    - quote: un bateau d’un aussi faible tonnage
+  - Its anchor cable is made fast on the bitt by a rope tied in a flat knot, which Pencroff says is not his; he makes two half-hitches (see [the flat knot](the-flat-knot.md); [the half-hitches](half-hitches.md)) (III.6 ¶29, ¶31). *(Drafted.)*
+    - quote: une corde qui amarrait le câble sur la bitte même, pour l’empêcher de déraper
+    - quote: Ceci est un nœud plat, et j’ai l’habitude de faire deux demi-clefs
+  - The anchor has been weighed and dropped again, cable has been paid out, and the garniture is no longer at the hawse (see [the garniture](anchor-garniture.md)) (III.6 ¶35). *(Drafted.)*
+    - quote: on a levé l’ancre du Bonadventure et qu’on l’a mouillée de nouveau
+    - quote: n’est plus au portage de l’écubier
+  - Pencroff is sure it has been moved since he brought it back to Port-Ballon: "notre Bonadventure a navigué sans nous" (III.6 ¶39, ¶40). *(Drafted.)*
+    - quote: notre Bonadventure a navigué sans nous
+    - quote: l’embarcation avait été déplacée, plus ou moins, depuis que Pencroff l’avait ramenée à Port-Ballon
+- **Appears in:** II.10, II.11, II.12, II.13, II.14, II.15, II.19, II.20, III.1, III.4, III.6
 - **Open:**
   - The crossing out: II.13 ¶17 says it needs no more than forty-eight hours for the hundred and fifty miles, leaving on 11 October; the landing is at about noon on the 13th (II.13 ¶50), more than fifty hours after the five o’clock departure of ¶20; card neither (II.13 ¶17, ¶20, ¶50). *(Drafted.)*
     - quote: il ne fallait pas plus de quarante-huit heures pour faire cette traversée de cent cinquante milles

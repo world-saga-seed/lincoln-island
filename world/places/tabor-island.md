@@ -77,10 +77,15 @@ Keywords: île Tabor, Ayrton, bottle, message, castaway
     - quote: en dehors des routes ordinairement suivies par les longs courriers
   - It is a hundred and fifty miles from Lincoln Island in longitude and seventy-five in latitude, so that a ship bound for one might pass in sight of the other (III.1 ¶15). *(Drafted.)*
     - quote: Cent cinquante milles seulement les séparaient en longitude, et soixante-quinze milles en latitude
+  - Ayrton holds that the unknown must have come to Tabor, found him there, and made it known that a wretch was there to be saved (III.5 ¶20). *(Drafted.)*
+    - quote: ce ne peut être que lui qui soit venu à l’île Tabor
+    - quote: qui vous ait fait savoir qu’il y avait là un malheureux à sauver
+  - The colonists mean to leave there a document giving the position of Lincoln Island and Ayrton’s new home, in case the Scotch yacht comes for him (III.6 ¶21). *(Drafted.)*
+    - quote: porter un document qui fasse connaître la situation de l’île Lincoln et la nouvelle résidence d’Ayrton
 - **On the page.**
   - The editor refers to Ayrton's adventures and a note on the disagreement of some dates (III.16 n1). *(Drafted.)*
     - quote: sur la discordance de quelques dates
-- **Appears in:** II.9, II.11, II.12, II.13, II.14, II.17, II.19, III.16, III.1
+- **Appears in:** II.9, II.11, II.12, II.13, II.14, II.17, II.19, III.16, III.1, III.5, III.6
 - **Open:**
   - These chapters say nothing else of Tabor Island. The editor's note refers to the earlier tale of Ayrton's adventures and warns of a disagreement of dates; no earlier book is drawn on here.
     - quote: à propos des aventures d’Ayrton

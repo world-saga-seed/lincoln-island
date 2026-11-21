@@ -221,6 +221,26 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
   - He and Pencroff dive several times to the bed of the channel and recover the brig's chains and anchors, ballast pigs and four cannon (III.4 ¶75). *(Drafted.)*
     - quote: ayant plusieurs fois plongé jusqu’au lit du canal
     - quote: jusqu’aux quatre canons
+  - He leaves for the corral on 9 November at dawn with the cart drawn by one onagga, and the bell reports an hour or two later that he has found all in order; he says he fears nothing, and is expected back by the evening of the 10th or the morning of the 11th (III.6 ¶7, ¶54). *(Drafted.)*
+    - quote: Ayrton partit donc le 9 dès l’aube
+    - quote: il ne craignait rien
+    - quote: le 10 au soir, ou le 11 au plus tard
+  - He had always acknowledged a dispatch; on 10 November he does not answer (III.6 ¶54). *(Drafted.)*
+    - quote: n’accusa pas réception de la dépêche, ainsi qu’il avait l’habitude de le faire
+  - The colonists have grown sincerely attached to him; he had once been the chief of those now suspected of seizing him (III.6 ¶87). *(Drafted.)*
+    - quote: Ils s’étaient sincèrement attachés à leur nouveau compagnon
+    - quote: ceux dont il avait été autrefois le chef
+  - He leaves his opinion on seeking the unseen benefactor to Smith ("Ce que vous ferez sera bien fait"), then says that all should be done to find him, held to be the one who came to Tabor Island, found the wretch there and let the colonists know, so that he, Ayrton, became a man again, and he will never forget it (III.5 ¶18, ¶20). *(Drafted.)*
+    - quote: Ce que vous ferez sera bien fait
+    - quote: ce ne peut être que lui qui soit venu à l’île Tabor
+    - quote: c’est donc grâce à lui que je suis redevenu un homme
+  - Asked what should be done with the six convicts, he hesitates, then says humbly that he has been one of those jaguars and has no right to speak, and walks slowly away (III.5 ¶45, ¶46, ¶47). *(Drafted.)*
+    - quote: répondit d’une voix humble
+    - quote: J’ai été un de ces jaguars, monsieur Pencroff, et je n’ai pas le droit de parler
+  - At the corral on 11 November there is no trace of him and the ammunition he was supplied with is gone with him; the colonists fear him carried off by his old accomplices, or killed in a struggle, and the narrator later calls him without doubt massacred (III.7 ¶53, ¶54, ¶55; III.8 ¶24). *(Drafted.)*
+    - quote: Il n’y avait aucune trace d’Ayrton
+    - quote: les munitions, dont Ayrton était approvisionné, avaient disparu avec lui
+    - quote: Ayrton avait été, sans aucun doute, massacré par ces misérables
 - **On the page.**
   - He stands respectfully aside in a corner of the magnificent salon (III.16 ¶8). *(Drafted.)*
     - quote: dans un angle de ce magnifique salon
@@ -290,7 +310,7 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: il vivait encore comme au temps où il n’avait d’autre abri que les forêts de l’île Tabor
   - After the jaguar he goes back to his old life: he does not come to the meals, sleeps under the trees of the plateau and never mixes with his companions (II.17 ¶4). *(Drafted.)*
     - quote: n’assistant point aux repas, couchant sous les arbres du plateau, ne se mêlant jamais à ses compagnons
-- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
+- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
 - **Open:**
   - The editor warns, in a note that recalls the one on Ayrton's adventures, of a "discordance de quelques dates" with the earlier books (III.16 n1); the card cannot say which dates. *(Drafted.)*
     - quote: sur la discordance de quelques dates

@@ -36,4 +36,6 @@ Keywords: chute, nouvelle chute, cascade, waterfall, saignée, stream, déversoi
   - The great fall on the beach is where the fulling mill stands; Smith fixes the wire-drawing frame a few feet from it to use its motive force (II.18 ¶36, ¶37). *(My reading, to confirm.)*
     - quote: à quelques pieds seulement de la grande chute, dont l’ingénieur allait encore utiliser la force motrice
     - quote: là était le moulin à foulon
-- **Appears in:** I.17, I.18, I.20, I.22, II.7, II.11, II.18
+  - One of the two cuts in the lake’s rim feeds "le creek de la Grande-Chute"; the text does not say that this is the new fall’s stream (III.6 ¶9). *(My reading, to confirm.)*
+    - quote: le creek de la Grande-Chute
+- **Appears in:** I.17, I.18, I.20, I.22, II.7, II.11, II.18, III.6

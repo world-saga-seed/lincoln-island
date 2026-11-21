@@ -29,6 +29,9 @@ Keywords: pont de la Mercy, bridge, pont-levis, drawbridge, contre-poids, counte
     - quote: le pont, jeté à un mille et demi de l’embouchure
   - On 18 October the bridge and the culverts are raised (III.3 ¶8; III.4 ¶72). *(Drafted.)*
     - quote: dont le pont ainsi que les ponceaux avaient été relevés
+  - It stands at the bend of the Mercy, on the road to the south coast, and can be raised after a crossing to cut the two banks apart (III.6 ¶16). *(Drafted.)*
+    - quote: Nab les accompagna jusqu’au coude de la Mercy, et, après leur passage, il releva le pont
+    - quote: rétablir la communication entre les deux berges de la rivière
 - **Made from.**
   - Trees are chosen, felled, trimmed and sawn into joists, beams and planks (II.7 ¶26). *(Drafted.)*
     - quote: débités en poutrelles, en madriers et en planches
@@ -56,4 +59,4 @@ Keywords: pont de la Mercy, bridge, pont-levis, drawbridge, contre-poids, counte
     - quote: pour que les animaux ne pussent le franchir
   - The loaded cart comes back over it at eight in the evening of the first trip to port Ballon (II.7 ¶64). *(Drafted.)*
     - quote: après avoir repassé le pont de la Mercy
-- **Appears in:** II.5, II.7, II.10, II.11, II.20, III.2, III.3, III.4
+- **Appears in:** II.5, II.7, II.10, II.11, II.20, III.2, III.3, III.4, III.6

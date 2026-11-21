@@ -60,7 +60,13 @@ Keywords: bouteille, bottle, document, message, naufragé, castaway, Tabor, Harb
   - Smith lists it among the strange facts of the island: the bottle containing the document offered itself so opportunely at the first excursion at sea, and the document that Ayrton claims never to have written fell into the colonists’ hands (II.20 ¶49). *(Drafted.)*
     - quote: cette bouteille renfermant le document s’est offerte si à propos, lors de notre première excursion en mer
     - quote: le document qu’Ayrton prétend n’avoir jamais écrit est tombé entre nos mains
-- **Appears in:** II.9, II.12, II.13, II.15, II.16, II.17, II.18, II.20
+  - Smith says the unknown wrote the document and put the bottle on the course of the channel, and made known the plight of their companion (III.5 ¶3). *(Drafted.)*
+    - quote: c’est évidemment lui qui a écrit le document, qui a mis cette bouteille sur la route du canal
+  - Spilett asks whether it was he who held out the bottle when the pirogue made its first trip to sea (III.5 ¶4). *(Drafted.)*
+    - quote: Est-ce lui qui nous a tendu cette bouteille, quand la pirogue a fait sa première excursion en mer ?
+  - Spilett calls him the undoubted author of the document (III.6 ¶23). *(Drafted.)*
+    - quote: il est l’auteur incontestable du document
+- **Appears in:** II.9, II.12, II.13, II.15, II.16, II.17, II.18, II.20, III.5, III.6
 - **Open:**
   - Distance from the coast: the Bonadventure is "half a mile from the coast" when she nears port Ballon, and the bottle is taken "a few cable lengths" from it; whether these are the same distance is not said (II.12 ¶123, ¶130). *(Drafted.)*
     - quote: On n’était plus qu’à un demi-mille de la côte

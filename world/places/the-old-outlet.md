@@ -76,10 +76,15 @@ Keywords: déversoir, ancien déversoir, outlet, overflow, conduit, boyau, coulo
     - quote: cette portion des rives du lac qui confinait à l’ancien déversoir
   - Its orifice is hidden under reeds and grass, so that an enemy could not find it (III.2 ¶4). *(Drafted.)*
     - quote: l’orifice du déversoir, maintenant qu’il est caché sous les roseaux et les herbes
+  - Its upper mouth, at the south angle of Lake Grant, is already walled up and half hidden under grass and plants (III.6 ¶8). *(Drafted.)*
+    - quote: qui était déjà maçonné et à demi caché sous des herbes et des plantes, à l’angle sud du lac Grant
+  - Smith drowns it wholly by raising the lake two or three feet with two dams, so that no one could suspect that an underground conduit once carried off the overflow at the lake’s point (III.6 ¶8, ¶10). *(Drafted.)*
+    - quote: surélever de deux à trois pieds le niveau des eaux du lac
+    - quote: il était impossible de soupçonner qu’à la pointe du lac existait un conduit souterrain
 - **On the page.**
   - The drops of water still hanging on the rocks sparkle in the torchlight, so that the walls seem lined with countless stalactites (I.18 ¶19). *(Drafted.)*
     - quote: s’irisaient çà et là sous le feu des torches
-- **Appears in:** I.16, I.17, I.18, I.19, I.21, II.6, II.7, III.2
+- **Appears in:** I.16, I.17, I.18, I.19, I.21, II.6, II.7, III.2, III.6
 - **Open:**
   - How far the passage runs in all is not totalled: Smith and Harbert say that after about a hundred feet they are still at about a third of the height (I.18 ¶28, ¶29). *(Drafted.)*
     - quote: Nous ne sommes encore qu’au tiers de la hauteur

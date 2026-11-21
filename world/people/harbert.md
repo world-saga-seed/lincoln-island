@@ -259,6 +259,33 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
   - He notices that the Speedy's explosion made little noise and few wreckage, so that "le navire a plutôt coulé que sauté" (III.4 ¶30). *(Drafted.)*
     - quote: La détonation n’a pas été forte
     - quote: Il semblerait que le navire a plutôt coulé que sauté
+  - He lays and fires the second gun at the rocks of the pointe de l’Épave, and is proud of his first shot (III.5 ¶37, ¶38). *(Drafted.)*
+    - quote: C’était Harbert qui avait braqué le canon et qui l’avait tiré
+    - quote: il fut tout fier de son coup d’essai
+  - He would thank the one who saved the engineer first and then the colonists (III.5 ¶13). *(Drafted.)*
+    - quote: je voudrais le remercier, celui qui vous a sauvé d’abord et qui nous a sauvés ensuite
+  - He pleads for Ayrton, who has become an honest man again, and holds that the six convicts, being six against six, have not struck for reasons of their interest (III.5 ¶58, ¶63). *(Drafted.)*
+    - quote: Il est redevenu un honnête homme
+    - quote: Sans doute parce que leur intérêt n’était pas de le faire
+  - He had gathered medicinal plants on the banks of Lake Grant (III.7 ¶45). *(Drafted.)*
+    - quote: des plantes médicinales — celles-là mêmes que le jeune garçon avait cueillies sur les berges du lac Grant
+  - On 11 November he is struck by a ball at the corral door; it enters the chest between the third and fourth rib and comes out at the back, and the heart is not touched, though the lung may be pierced (III.6 ¶64, ¶93; III.7 ¶16, ¶18, ¶21, ¶49). *(Drafted.)*
+    - quote: Harbert, frappé d’une balle, gisait à terre
+    - quote: entre la troisième et la quatrième côte
+    - quote: la balle qui l’avait frappé s’en échappa aussitôt
+    - quote: Le cœur n’a pas été touché
+    - quote: peut-être même la balle a-t-elle traversé le poumon
+  - Wounded, he is deathly pale, his pulse so faint that it is felt only at long intervals, and for a day and a night he is without consciousness, in a high fever; on 12 November he opens his eyes and knows Smith, the reporter and Pencroff (III.7 ¶14, ¶45, ¶46). *(Drafted.)*
+    - quote: son pouls d’une faiblesse telle
+    - quote: sans qu’il eût repris connaissance
+    - quote: Il ouvrit les yeux, il reconnut Cyrus Smith, le reporter, Pencroff
+  - He is kept still, on his left side, and the wounds are dressed with compresses kept constantly wet with cold water; by that and the regular suppuration the inflammation is kept off and the fever falls (III.7 ¶30, ¶44, ¶46; III.8 ¶9). *(Drafted.)*
+    - quote: Harbert était placé sur le côté gauche
+    - quote: durent être constamment imbibées d’eau froide
+    - quote: sa fièvre tendait à baisser
+  - By 22 November, ten days after, he is much better: he takes a little food, his colour returns, and his good eyes smile on his nurses (III.8 ¶11). *(Drafted.)*
+    - quote: le 22 novembre, Harbert allait sensiblement mieux
+    - quote: Les couleurs revenaient à ses joues, et ses bons yeux souriaient à ses gardes-malades
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -315,7 +342,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: de très-adroits tireurs d’arc
   - He takes his turn at the helm of the boat, relieving Pencroff every two hours through the night (II.13 ¶31). *(Drafted.)*
     - quote: Pencroff et Harbert se relayèrent de deux heures en deux heures au gouvernail
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

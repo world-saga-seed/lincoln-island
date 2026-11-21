@@ -53,4 +53,10 @@ Keywords: port Ballon, Balloon harbour, crique, passe, havre, coupée, natural p
     - quote: le Bonadventure dut louvoyer en quittant le port Ballon
   - It shelters the colonists’ boat, which Pencroff defies the pirates to find there (III.1 ¶81). *(My reading, to confirm.)*
     - quote: elle est abritée dans Port-Ballon
-- **Appears in:** II.5, II.7, II.11, II.12, II.15, II.19, III.1
+  - It is a narrow creek, so well hidden among tall rocks that it cannot be found from sea or land unless one is on it or in it (III.6 ¶18). *(Drafted.)*
+    - quote: Port-Ballon était si bien caché au milieu de ces hautes roches
+    - quote: à moins d’être dessus ou dedans
+  - A small cove opens at the head of it, where the Bonadventure lies at anchor (III.6 ¶12, ¶18). *(Drafted.)*
+    - quote: la petite anse au fond de laquelle était mouillé le Bonadventure
+    - quote: l’étroite crique
+- **Appears in:** II.5, II.7, II.11, II.12, II.15, II.19, III.1, III.6

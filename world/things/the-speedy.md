@@ -36,7 +36,9 @@ Keywords: brick, brig, Speedy, pirates, corsair, Bob Harvey, Norfolk, navire sus
     - quote: le navire était formidablement armé
   - Her end and what was got from her: see [the wreck](the-speedys-wreck.md) and [the cargo](the-speedys-cargo.md) (III.4 ¶75, ¶80). *(Drafted.)*
     - quote: on ne voyait plus rien du navire, même à mer basse
+  - Smith says the brig could not withstand a torpedo that would have destroyed an ironclad frigate (III.5 ¶1). *(Drafted.)*
+    - quote: le Speedy n’avait pu résister
 - **On the page.**
   - Her lights are put out at night, so that she cannot be placed once dark falls (III.1 ¶97). *(Drafted.)*
     - quote: tous ses feux étaient condamnés
-- **Appears in:** III.1, III.2, III.3, III.4
+- **Appears in:** III.1, III.2, III.3, III.4, III.5

@@ -36,7 +36,7 @@ Keywords: dugong, lamantin, manatee, cétacé, cetacean, amphibie, amphibian, la
     - quote: Déjà des bandes d’oiseaux s’étaient abattus sur cette masse charnue
   - Nab and Pencroff are charged with extracting the fat and preserving the flesh for food (I.17 ¶36). *(Drafted.)*
     - quote: d’extraire la graisse du dugong, et d’en conserver la chair, qui était destinée à l’alimentation
-- **Appears in:** I.16, I.17, II.20
+- **Appears in:** I.16, I.17, II.20, III.5
 - **Open:**
   - Where the dugong's wound was: "À son cou s’ouvrait une blessure" (I.16 ¶64); Pencroff speaks of "la blessure que le dugong avait au flanc" (II.20 ¶48). Both are said to look made by a cutting instrument (I.16 ¶64; II.20 ¶48). *(Drafted.)*
     - quote: À son cou s’ouvrait une blessure qui semblait avoir été faite avec une lame tranchante

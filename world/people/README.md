@@ -21,6 +21,7 @@ A card for every person named in the French, and every person the insert adds, e
 | [Lord Glenarvan](lord-glenarvan.md) | Scottish laird, owner of the Duncan |
 | [Malay pirates](malay-pirates.md) | the sea-robbers Cyrus Smith fears in this part of the Pacific |
 | [Mary Grant](mary-grant.md) | Captain Grant's daughter |
+| [The mysterious being](the-mysterious-being.md) | the unseen benefactor the colonists feel behind their luck |
 | [Nab](nab.md) | devoted colonist and cook |
 | [Natives](natives.md) | the islanders of other islands, feared and never met |
 | [Pencroff](pencroff.md) | sailor and jack-of-all-trades |

@@ -248,6 +248,30 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: Gédéon Spilett et Ayrton, tous deux très-bons tireurs
   - Seeing the torn hull he says the openings look made by the shock of a reef rather than by the explosion of a powder-room (III.4 ¶52). *(Drafted.)*
     - quote: Ces larges ouvertures paraissent avoir plutôt été faites par le choc d’un écueil que par l’explosion d’une soute
+  - He has some practice of ordinary medicine: he knows a little of everything, and has more than once dressed wounds from a blade or a firearm (III.7 ¶12). *(Drafted.)*
+    - quote: pas sans avoir quelque pratique de médecine courante
+    - quote: Il savait un peu de tout
+  - He is no doctor, and says so: "je ne suis pas médecin"; the narrator adds that a professional surgeon could hardly have said what ravages the ball had done, still less the reporter (III.7 ¶26, ¶37). *(Drafted.)*
+    - quote: un chirurgien de profession eût à peine pu dire en ce moment, et, à plus forte raison, le reporter
+    - quote: je ne suis pas médecin
+  - His sense of responsibility makes him lose his self-possession for a moment, until Smith steadies him (III.7 ¶39). *(Drafted.)*
+    - quote: le vif sentiment de sa responsabilité lui avait fait perdre
+  - He holds that the bleeding must be stopped but the wounds neither closed nor brought to scar at once, because the ball pierced within and the matter must not gather in the chest (III.7 ¶40). *(Drafted.)*
+    - quote: arrêter l’hémorragie, mais non pas fermer les deux plaies
+    - quote: il ne fallait pas laisser la suppuration s’accumuler dans la poitrine
+  - He gives the dressings extreme care, knowing it rarer to see a dressing well done than an operation well done; he thinks the corral's cold water, a little sulphurous because of the nearby volcano, acts more directly on the healing (III.8 ¶9, ¶10). *(Drafted.)*
+    - quote: Le reporter apportait à ces pansements un soin extrême
+    - quote: il est plus rare peut-être de voir un pansement bien fait qu’une opération bien faite
+    - quote: cette eau, un peu sulfureuse, — ce qu’expliquait le voisinage du volcan
+  - He never thinks without a shudder of having had to amputate, but would not have hesitated to act (III.8 ¶18, ¶19, ¶20). *(Drafted.)*
+    - quote: je n’ai jamais pensé à une telle éventualité sans frémir
+    - quote: vous n’auriez pas hésité
+    - quote: Non, Cyrus !
+  - He wants every possible objection put: he is "le reporter, qui tenait à formuler toutes les objections possibles" (III.6 ¶41). *(Drafted.)*
+    - quote: qui tenait à formuler toutes les objections possibles
+  - He counts Ayrton's reserve to his honour, and holds that his feeling for his sad past is to be respected (III.5 ¶50). *(Drafted.)*
+    - quote: sa réserve lui fait honneur
+    - quote: il convient de respecter ce sentiment qu’il a de son triste passé
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -300,7 +324,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
   - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

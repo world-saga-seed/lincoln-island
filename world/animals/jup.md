@@ -183,7 +183,7 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
     - quote: je t’en fais cadeau
     - quote: l’ex-pipe du marin
     - quote: il l’allumait à un charbon ardent
-- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20, III.3, III.4
+- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20, III.3, III.4, III.5
 - **Open:**
   - Whether Jup lowered the ladder is not said: Cyrus Smith says he did (II.6 ¶94), and Pencroff, the next day, speaks of "cette échelle qu'il nous a si galamment renvoyée hier" (II.7 ¶11); the chapter does not say who in fact lowered it. *(My reading, to confirm.)*
     - quote: C’est lui qui nous a jeté l’échelle

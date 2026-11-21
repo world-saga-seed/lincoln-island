@@ -36,6 +36,13 @@ Keywords: pyroxyle, fulmi-coton, guncotton, coton-poudre, cellulose, sureau, eld
     - quote: sa force propulsive était quadruple de celle de la poudre ordinaire
   - After the powder of Tabor is brought home, its use is to go on, since it gives excellent results and there is no reason to replace it with ordinary powder (see [the Tabor powder](the-tabor-powder.md)) (II.15 ¶46). *(Drafted.)*
     - quote: l’emploi du pyroxyle dut être continué, car, cette substance donnant d’excellents résultats, il n’y avait aucune raison pour y substituer la poudre ordinaire
+  - Smith says it will never run short, and so uses it instead of ordinary powder, whose stock he wishes to leave intact, to try the cannon (III.5 ¶27). *(Drafted.)*
+    - quote: dont je tiens à laisser l’approvisionnement intact
+    - quote: le pyroxile, qui ne nous manquera jamais
+  - Its explosive power is four times that of ordinary powder (III.5 ¶34). *(Drafted.)*
+    - quote: sa puissance explosive, qui, on l’a dit, est quadruple de celle de la poudre ordinaire
+  - Smith thinks the steel cannon will bear the expansion of its gases without risk (III.5 ¶31). *(Drafted.)*
+    - quote: nos canons supporteront sans risque l’expansion des gaz du pyroxile
 - **Made from.**
   - To make it one steeps cellulose for a quarter of an hour in fuming nitric acid, washes it in plenty of water and dries it (II.8 ¶12). *(Drafted.)*
     - quote: plonger pendant un quart d’heure de la cellulose dans de l’acide azotique fumant, puis de laver à grande eau et de faire sécher
@@ -44,7 +51,7 @@ Keywords: pyroxyle, fulmi-coton, guncotton, coton-poudre, cellulose, sureau, eld
     - quote: devait obtenir le même résultat, et il l’obtint
   - The hunters soon have a perfectly prepared substance that, used with discretion, gives excellent results (II.8 ¶13). *(Drafted.)*
     - quote: employée avec discrétion, donna d’excellents résultats
-- **Appears in:** I.17, I.18, II.8, II.15
+- **Appears in:** I.17, I.18, II.8, II.15, III.5
 - **Open:**
   - The sulphuric acid is said to be mixed in "three volumes to five volumes" with the nitric acid, without saying which is the larger (II.8 ¶13). *(Drafted.)*
     - quote: dans la proportion de trois volumes à cinq volumes d’acide sulfurique concentré

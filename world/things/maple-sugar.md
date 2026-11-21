@@ -15,6 +15,8 @@ Keywords: sucre, sucre d’érable, sugar, syrup, sirop, raffinage, refining, ma
   - The result is a sugar a little russet in colour, almost transparent and of perfect taste, in loaves and tablets (I.22 ¶49). *(Drafted.)*
     - quote: de couleur un peu rousse, mais presque transparent et d’un goût parfait
     - quote: formait des pains et des tablettes
+  - Maple sugar is used, with medicinal plants, for the herb-teas given to the wounded Harbert (III.7 ¶45). *(Drafted.)*
+    - quote: Du sucre d’érable, des plantes médicinales
 - **Made from.**
   - The sap is set on the fire in great earthen vessels and simply evaporated; a scum rises, and Nab stirs it with a wooden spatula to hasten evaporation and keep it from a burnt taste (I.22 ¶48). *(Drafted.)*
     - quote: dans de grands vases de terre
@@ -22,4 +24,4 @@ Keywords: sucre, sucre d’érable, sugar, syrup, sirop, raffinage, refining, ma
   - After some hours of boiling it becomes a thick syrup poured into clay moulds, made beforehand in the kitchen furnace, of various shapes, and next day it has set (I.22 ¶49). *(Drafted.)*
     - quote: Après quelques heures d’ébullition
     - quote: des moules d’argile, préalablement fabriqués dans le fourneau même de la cuisine
-- **Appears in:** I.20, I.22
+- **Appears in:** I.20, I.22, III.7

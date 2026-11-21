@@ -20,4 +20,13 @@ Keywords: route du Corral, road, chemin, corral, Red Creek, sources, cart, onagg
   - The telegraph posts, with glass insulators, are planted along it from 6 February, to carry the wire to the corral (II.18 ¶46). *(Drafted.)*
     - quote: la plantation des poteaux, munis d’isoloirs en verre
     - quote: la route du corral
-- **Appears in:** II.7, II.8, II.18
+  - On both sides the thicket is dense and could easily hide men (III.6 ¶73). *(Drafted.)*
+    - quote: le fourré était épais et pouvait aisément cacher des malfaiteurs
+  - The telegraph wire follows it, on posts numbered along the way, with insulators and the wire stretched evenly; pole no. 74 lies half-way between Granite-house and the corral, with two and a half miles still to go (see [the telegraph posts](../things/telegraph-posts.md)) (III.6 ¶75, ¶85). *(Drafted.)*
+    - quote: Cyrus Smith et ses compagnons suivaient le fil télégraphique qui reliait le corral et Granite-house
+    - quote: arrivé au poteau no 74
+    - quote: Les colons se trouvaient alors à mi-chemin de Granite-house et du corral
+    - quote: Il leur restait donc encore deux milles et demi à franchir
+  - Near the corral the road runs beside a small stream that irrigates the corral’s meadows (III.6 ¶88). *(Drafted.)*
+    - quote: la route longeait ce petit ruisseau
+- **Appears in:** II.7, II.8, II.18, III.6

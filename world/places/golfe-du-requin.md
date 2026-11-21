@@ -49,4 +49,4 @@ Keywords: golfe du Requin, Shark-gulf, mâchoire, jaw, north-east, gulf, squale,
     - quote: Une coupée, une tranchée quelconque, qui donne accès à l’intérieur de l’île
   - Pencroff holds that with a mine the wall could be breached when needed (II.20 ¶26). *(Drafted.)*
     - quote: la mine aidant, on saurait bien éventrer cette muraille
-- **Appears in:** I.11, I.15, II.19, II.20
+- **Appears in:** I.11, I.15, II.19, II.20, III.5

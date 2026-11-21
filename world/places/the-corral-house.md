@@ -26,7 +26,13 @@ Keywords: maison du corral, Ayrton, wooden house, demeure, habitation, cabin, st
   - Ayrton leaves it for Granite-house about mid-April, once the last work at the corral is finished, and goes back to it for some days in the second half of October to repair the damage of the winter (II.20 ¶73, ¶78). *(Drafted.)*
     - quote: dès que les derniers travaux du corral seraient terminés
     - quote: dans la seconde quinzaine d’octobre, il retourna passer quelques jours au corral
-- **Appears in:** II.17, II.18, II.20
+  - It is empty when entered and stands within the palisade; it holds Ayrton’s bed (III.7 ¶9). *(Drafted.)*
+    - quote: dans la maison qui était vide
+    - quote: sur le lit d’Ayrton
+  - It has a fireplace, and is stocked with what life needs, which the convicts, frightened by the colonists’ coming, had no time to pillage (III.7 ¶45; III.8 ¶2). *(Drafted.)*
+    - quote: dans la Cheminée de l’habitation, qui ne manquait pas des choses nécessaires à la vie
+    - quote: n’avaient pas eu le temps de la mettre au pillage
+- **Appears in:** II.17, II.18, II.20, III.6, III.7, III.8
 - **Open:**
   - The date: the house is ready before the week is out (II.17 ¶28) and the installations are finished on 20 December (II.17 ¶30), though the request was made on 10 December (II.17 ¶10); whether the house and "les installations" are one work is not said (II.17 ¶10, ¶28, ¶30). *(My reading, to confirm.)*
     - quote: Le 10 décembre, une semaine après son retour à Granite-house

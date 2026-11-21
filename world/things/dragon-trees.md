@@ -28,4 +28,4 @@ Keywords: dragonniers, dragon trees, dracaena, liliaceae, roots, liqueur, poirea
     - quote: une boisson acidulée, sorte de bière bien préférable à l’eau pure
   - Dragon-tree drink is among the dishes of the 24 October dinner (I.22 ¶74). *(Drafted.)*
     - quote: de la boisson de dragonnier
-- **Appears in:** I.15, I.20, I.22, II.4, II.8
+- **Appears in:** I.15, I.20, I.22, II.4, II.8, III.6

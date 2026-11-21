@@ -63,4 +63,7 @@ Keywords: caisse, chest, épave, wreck, flotson, barrels, inventory, zinc, tools
   - Smith counts among the enigmas of the island that the chest stranded so happily, without any trace of wreck (II.18 ¶21; II.20 ¶49). *(Drafted.)*
     - quote: la caisse échouée sur le sable
     - quote: comment cette caisse s’est si heureusement échouée, sans qu’il y ait eu trace de naufrage
-- **Appears in:** II.2, II.3, II.18, II.20, III.4
+  - Smith says it was he who brought the chest, so well supplied with all that the colonists lacked, and stranded it at the pointe de l’Épave (III.5 ¶3). *(Drafted.)*
+    - quote: cette caisse, si convenablement pourvue de tout ce qui nous manquait
+    - quote: c’est lui qui l’a conduite et échouée à la pointe de l’Épave
+- **Appears in:** II.2, II.3, II.18, II.20, III.4, III.5

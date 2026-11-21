@@ -17,4 +17,6 @@ Keywords: graines, seeds, légumes, vegetables, récolte, Harbert, Tabor, semée
     - quote: les graines récoltées par Harbert à l’île Tabor avaient été soigneusement semées
   - The plants brought from Tabor have perfectly succeeded (II.18 ¶52). *(Drafted.)*
     - quote: les plants rapportés de l’île Tabor avaient parfaitement réussi
-- **Appears in:** II.13, II.14, II.16, II.18
+  - The various vegetables from the Tabor plants are harvested in the days before 8 November (III.5 ¶22). *(Drafted.)*
+    - quote: se récoltaient les divers légumes provenant des plants de l’île Tabor
+- **Appears in:** II.13, II.14, II.16, II.18, III.5

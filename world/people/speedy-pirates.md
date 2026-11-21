@@ -45,6 +45,8 @@ Keywords: convicts, pirates, Speedy, Norfolk, forçats, évadés, Bob Harvey, pa
     - quote: la plupart étaient restés engagés sous les bastingages
   - Six survivors of the second boat are on the island, and are carded apart as [the six convicts](the-six-convicts.md) (III.3 ¶47). *(Drafted.)*
     - quote: Mais les six survivants
+  - Pencroff takes the convicts on the island for the murderers of the Speedy's crew (III.5 ¶59). *(Drafted.)*
+    - quote: les assassins de l’équipage du Speedy
 - **On the page.**
   - The black flag is the sign that makes the brig a "navire suspect": the pirates' colours, "celui des écumeurs de mer" (III.1 ¶75, ¶77). *(Drafted.)*
     - quote: c’était à bon droit qu’on pouvait maintenant le tenir pour un navire suspect
@@ -59,4 +61,4 @@ Keywords: convicts, pirates, Speedy, Norfolk, forçats, évadés, Bob Harvey, pa
 - **Habits.**
   - They are drunk the night they arrive and the next morning still "ivres de colère et peut-être encore des libations de la veille" (III.3 ¶42). *(Drafted.)*
     - quote: ivres de colère et peut-être encore des libations de la veille
-- **Appears in:** III.1, III.2, III.3, III.4
+- **Appears in:** III.1, III.2, III.3, III.4, III.5, III.7, III.8

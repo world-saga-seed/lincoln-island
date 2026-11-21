@@ -17,4 +17,7 @@ Keywords: route, chemin, coupée, port Ballon, cart, road, carrossable, Far-West
     - quote: en même temps qu’on améliorait les routes du corral et du port Ballon
   - The hunters take it to the marsh, setting out from Granite-house over the Mercy bridge (II.11 ¶80). *(Drafted.)*
     - quote: Les chasseurs prirent donc la route de port Ballon pour se rendre au marais
-- **Appears in:** II.7, II.8, II.11
+  - The way to the south coast is three and a half miles long, running between the thick forest on one side and the marsh of the tadornes on the other (III.6 ¶17). *(Drafted.)*
+    - quote: Ce n’était qu’une distance de trois milles et demi
+    - quote: tant du côté de l’épaisse forêt que du côté du marais des tadornes
+- **Appears in:** II.7, II.8, II.11, III.6

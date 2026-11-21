@@ -7,6 +7,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 |---|---|
 | [The acetate of soda and gold chloride](acetate-of-soda-and-gold-chloride.md) | the substances that impregnate the positive print |
 | [The adzes](adzes.md) | two adzes of the chest |
+| [The aerial battery](the-aerial-battery.md) | the four cannon set in embrasures at Granite-house |
 | [The albatross message](the-albatross-message.md) | the notice in a gummed sack on the bird’s neck |
 | [The aluminium cutlery](aluminium-cutlery.md) | ten sets of the chest |
 | [The ammonium chloride](ammonium-chloride.md) | the bath for the positive paper |
@@ -16,6 +17,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The atlas](the-atlas.md) | the French-lettered atlas of the chest |
 | [The augers](augers.md) | two augers of the chest |
 | [The Australian cedars](australian-cedars.md) | clumps of cedars in the clearings by the Red Creek |
+| [Ayrton’s ammunition](ayrtons-ammunition.md) | the munitions carried to the corral for him |
 | [The baleen](baleen.md) | the whale’s horny plates, whalebone |
 | [The baleen traps](baleen-traps.md) | curved whalebone frozen in ice and hidden in fat |
 | [The ballast sacks](ballast-sacks.md) | sacks of sand holding the balloon down |
@@ -72,9 +74,12 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The coal](coal.md) | houille from an open seam by the Red Creek |
 | [The coconut palm](coconut-palm.md) | a palm the island seems to lack |
 | [The cold chisels](cold-chisels.md) | six chisels of the chest |
+| [Cold water](cold-water.md) | the sedative used on Harbert’s wounds |
 | [The collodion](collodion.md) | the substance for preparing the glass plate |
 | [The colonists’ clothes](the-colonists-clothes.md) | the garments they wore when the balloon threw them down |
 | [The compass box](compass-box.md) | a box of compasses in the chest |
+| [The compresses](compresses.md) | linen pads soaked in cold water for Harbert’s wounds |
+| [The convicts’ guns](the-convicts-guns.md) | the firearms of the pirates landed on the island |
 | [The copper](copper.md) | the metal the island does not give |
 | [The copper saucepans](copper-saucepans.md) | six tinned saucepans of the chest |
 | [The corral house furniture](the-corral-house-furniture.md) | the bed, table, bench, wardrobe and chest made for Ayrton |
@@ -114,12 +119,14 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The firs](firs.md) | the tall firs of the forest |
 | [The first fire](first-fire.md) | the fire lit with the last match on 25 March |
 | [The first loaf](the-first-loaf.md) | the first bread of Lincoln Island |
+| [The flat knot](the-flat-knot.md) | the knot on the Bonadventure’s anchor cable that is not Pencroff’s |
 | [The flintlock guns](flintlock-guns.md) | the two flint-fired guns of the chest |
 | [The foliage screen](the-foliage-screen.md) | the branches hung over the windows of Granite-house |
 | [The footprints](footprints.md) | the prints of Smith's shoes in the sand |
 | [The fulgurites](fulgurites.md) | sand fused to glass by the lightning |
 | [The fulling mill](the-fulling-mill.md) | the water-driven stamper for the wool |
 | [The furniture](the-furniture.md) | the tables, chairs, wardrobes and beds of Granite-house |
+| [The garniture](anchor-garniture.md) | the old canvas wrapped round the anchor cable at the hawse |
 | [The gimlets](gimlets.md) | three gimlets of the chest |
 | [The glass insulators](glass-insulators.md) | the glass supports of the telegraph wire |
 | [The glassblower’s pipe](glass-blowers-pipe.md) | the iron blowing tube of the glassworks |
@@ -132,12 +139,14 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The gum trees](gum-trees.md) | the gigantic gum trees of the lower Red Creek |
 | [The gun rack](the-gun-rack.md) | the rack for the arms in Granite-house |
 | [The guns](guns.md) | the fowling pieces Pencroff wants and Smith has not yet the means to make |
+| [The half-hitches](half-hitches.md) | the knot Pencroff always ties |
 | [The hammers](chest-hammers.md) | three hammers of the chest |
 | [The hand saw](hand-saw.md) | the égohine made at great pains |
 | [Harbert's handkerchief](harbert-handkerchief.md) | the cloth used to carry water to Smith |
 | [The harness](harness.md) | the traces and harness of plant fibre for the onaggas |
 | [The harpoon](the-harpoon.md) | the Maria-Stella’s harpoon found in the dead whale |
 | [The hearth](hearth.md) | flat stones at the foot of the left corridor, with a smoke duct |
+| [The herb-teas](herb-teas.md) | the cooling drinks made for Harbert |
 | [The hibiscus heterophyllus](hibiscus.md) | a mallow whose fibres make the bowstring |
 | [The horseradish](horseradish.md) | the wild horseradish of the Mercy bank |
 | [The hurdle](hurdle.md) | a woven-branch carrier for the limestone |
@@ -155,6 +164,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [Jup's clothes](jups-clothes.md) | the white jacket, breeches and apron |
 | [The kauri](kauri.md) | the giant conifer of New Zealand named in the forest by the Mercy |
 | [The koula skins](koula-skins.md) | the hides of three koulas, tanned with sulphuric acid |
+| [The lake dams](the-lake-dams.md) | two dams of cemented rock that raised Lake Grant |
 | [The lantern](lantern.md) | the lantern Smith takes down the well |
 | [The lardizabalaceae](lardizabalaceae.md) | the flexible-branched shrubs that give cordage |
 | [The last match](the-last-match.md) | the single match found in Spilett's waistcoat |
@@ -167,6 +177,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The liana rope](liana-rope.md) | dry lianas used as binding and as a plaited rope |
 | [The Lincoln flag](the-lincoln-flag.md) | the blue, red and white flag with thirty-eight stars |
 | [The linen](the-linen.md) | shirts, socks and sheets sewn from the balloon cloth |
+| [The lint](lint.md) | the shredded linen laid on Harbert’s wounds |
 | [The litter](litter.md) | a stretcher of pine branches |
 | [The map of the island](island-map.md) | the chart Spilett drew from the summit |
 | [The maple sugar](maple-sugar.md) | sugar refined from the maple’s sap |
@@ -183,6 +194,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The mouflon wool](mouflon-wool.md) | the fleeces shorn at the corral |
 | [The multi-blade knives](multi-blade-knives.md) | three knives with several blades, from the chest |
 | [The mustard](mustard.md) | the downy plant Pencroff takes for tobacco |
+| [Nab’s note](nabs-note.md) | the reply carried back by Top |
 | [The nails and screws](nails-and-screws.md) | ten sacks of the chest |
 | [The natural sciences dictionary](natural-sciences-dictionary.md) | the six-volume English dictionary of the chest |
 | [The natural soda](soda.md) | ash of burnt sea plants |
@@ -253,6 +265,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The slate slab](slate-slab.md) | a flat slate on which Smith worked his sum |
 | [Smith's shoes](smith-shoes.md) | the shoes matched to the prints |
 | [Smith's watch](smith-watch.md) | the engineer's watch, found in his waistcoat pocket |
+| [Smith’s dagger](smiths-dagger.md) | the poniard that kills a convict at the corral |
 | [The smoked cabiai ham](smoked-ham.md) | preserved ham of the cabiai |
 | [The snares](snares.md) | loops of plant fibre set at the warren |
 | [The snuffers](snuffers.md) | a fine pair of snuffers made by Smith |
@@ -283,6 +296,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The Speedy’s wreck](the-speedys-wreck.md) | the overturned hull in the channel |
 | [Spilett's notebook](spilett-notebook.md) | the reporter's notebook |
 | [Spilett's watch](spilett-watch.md) | the reporter's watch, kept by oversight |
+| [Spilett’s note to Nab](spilett-note-to-nab.md) | the page torn from the notebook and tied to Top’s collar |
 | [The spit](spit.md) | the spit on which the capybara was roasted |
 | [The spruce beer](spruce-beer.md) | spring-berr, brewed from young shoots of the black spruce |
 | [The steel](steel.md) | cementation steel made from the colonists’ own iron |
@@ -312,7 +326,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [Tafia](tafia.md) | the casks of rum in the Speedy’s cargo |
 | [The telegraph](the-telegraph.md) | the electric line from Granite-house to the corral |
 | [The telegraph battery](the-telegraph-battery.md) | Smith’s zinc, nitric acid and potash battery |
-| [The telegraph instruments](telegraph-instruments.md) | the electromagnet and dial at each end of the line |
+| [The telegraph instruments](telegraph-instruments.md) | the electromagnet, dial and bell at each end of the line |
 | [The telegraph posts](telegraph-posts.md) | the posts that carry the wire along the corral road |
 | [The telegraph wire](telegraph-wire.md) | the iron wire drawn for the line to the corral |
 | [The telescope](telescope.md) | the long glass of the chest |

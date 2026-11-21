@@ -72,4 +72,18 @@ Keywords: corral, enclos, palissade, mouflons, sheepfold, pen, hangars, wool, la
   - In the winter it is less exposed than the plateau and covered in great part by Mont Franklin, so that it receives only the remains of the gales already broken by the forests and the high rocks of the coast; the damage there is slight (II.20 ¶78). *(Drafted.)*
     - quote: moins exposé que le plateau et couvert en grande partie par le mont Franklin
     - quote: Les dégâts y furent donc peu importants
-- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1
+  - Its palisade can be climbed at the angles and straddled at the top (III.7 ¶9). *(Drafted.)*
+    - quote: se hissaient aux angles de la palissade, ils en enjambaient le faîte
+  - The door has an inside latch and is held shut from within by props; the house stands inside the enclosure (III.6 ¶92; III.7 ¶9). *(Drafted.)*
+    - quote: leva le loquet intérieur de la porte
+    - quote: les étais qui maintenaient la porte intérieurement
+    - quote: ils se précipitaient dans la maison qui était vide
+  - The part of the enclosure backed against the spur is the side from which an attack could come (III.7 ¶89). *(Drafted.)*
+    - quote: la partie de l’enceinte adossée au contrefort, par laquelle une agression pouvait se produire
+  - Its supplies can last a long time (III.8 ¶2). *(Drafted.)*
+    - quote: dont les approvisionnements, d’ailleurs, pouvaient suffire pendant un assez long temps
+- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.7, III.8
+- **Open:**
+  - The stream that waters the corral meadows is "un petit rio, né sur ses pentes" that loses itself in the Red Creek in one chapter, and "ce petit ruisseau dérivé du creek Rouge" in another; card neither (II.8 ¶32; III.6 ¶88). *(Drafted.)*
+    - quote: Un petit rio, né sur ses pentes, après l’avoir arrosée diagonalement, allait se perdre dans le Creek-Rouge
+    - quote: ce petit ruisseau dérivé du creek Rouge, qui irriguait les prairies du corral

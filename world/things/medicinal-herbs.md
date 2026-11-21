@@ -16,4 +16,6 @@ Keywords: herbes médicinales, plantes, basilic, romarin, mélisse, bétoine, in
     - quote: dont la pharmacie végétale de Granite-house fournit les ingrédients
   - The "pharmacie végétale" is read as these herbs (II.12 ¶56). *(My reading, to confirm.)*
     - quote: la pharmacie végétale de Granite-house
-- **Appears in:** I.19, II.12
+  - The medicinal plants Harbert gathered on the banks of Lake Grant serve to make cooling herb-teas (see [the herb-teas](herb-teas.md)) (III.7 ¶45). *(Drafted.)*
+    - quote: des plantes médicinales — celles-là mêmes que le jeune garçon avait cueillies sur les berges du lac Grant
+- **Appears in:** I.19, II.12, III.7

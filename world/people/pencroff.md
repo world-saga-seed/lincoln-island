@@ -437,6 +437,48 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: construire une batterie qui commanderait le canal
   - He takes the Bonadventure for a boat not to be compared with a ship of three or four hundred tons (III.4 ¶24). *(Drafted.)*
     - quote: c’est un vrai navire auprès de notre Bonadventure
+  - He gives his name as Bonadventure Pencroff, of the Vineyard (III.6 ¶39). *(Drafted.)*
+    - quote: aussi vrai que je suis Bonadventure Pencroff, du Vineyard
+  - He has taken it on himself to clean the four guns, and spends hours rubbing, greasing and polishing them and their breech-gear (III.5 ¶33). *(Drafted.)*
+    - quote: le marin s’était donné la tâche de les astiquer consciencieusement
+    - quote: Que d’heures il avait passées à les frotter, à les graisser, à les polir
+  - He calls Harbert his child, and is prouder of the boy's first shot than the boy is (III.5 ¶38; III.7 ¶2). *(Drafted.)*
+    - quote: Il n’y eut que Pencroff à en être plus fier que lui
+    - quote: son cher enfant
+    - quote: Lui, mon enfant
+  - He holds the unseen benefactor, whoever he is, for a good man who has his esteem, and would give an eye to see him face to face; he pictures him tall, strong, with a fine beard and hair like rays, lying on clouds with a great ball in his hand, which Spilett calls the portrait of God the Father (III.5 ¶7, ¶14, ¶15, ¶16). *(Drafted.)*
+    - quote: c’est un brave homme, et il a mon estime
+    - quote: je donnerais bien un de mes yeux pour voir face à face ce particulier-là
+    - quote: des cheveux comme des rayons, et qu’il doit être couché sur des nuages, une grosse boule à la main
+    - quote: c’est le portrait de Dieu le père
+    - quote: c’est ainsi que je me le figure
+  - His rough nature cannot admit a bargain with the convicts: he looks on the accomplices of Bob Harvey, murderers of the Speedy's crew, as wild beasts to be destroyed without hesitation or remorse, and no reasoning can convince him (III.5 ¶59, ¶64). *(Drafted.)*
+    - quote: Sa rude nature ne pouvait pas admettre que l’on transigeât avec les coquins
+    - quote: les assassins de l’équipage du Speedy
+    - quote: comme des bêtes fauves qu’il fallait détruire sans hésitation et sans remords
+    - quote: qu’aucun raisonnement n’eût pu convaincre
+  - He yields to Smith, though not at all convinced, on the conduct to hold towards the convicts (III.5 ¶68, ¶70). *(Drafted.)*
+    - quote: Je ferai comme il vous plaira, monsieur Smith
+    - quote: qui n’était nullement convaincu
+  - He finds a flat knot on the Bonadventure's cable that he did not tie, the anchor lifted and dropped again, and the cable's garniture gone from the hawse; he is sure the boat has sailed without them, and counts it among the inexplicable things (the garniture is an old piece of canvas wrapped round the cable so it will not wear at the hawse) (III.6 ¶29, ¶31, ¶35, ¶39, ¶44, n2). *(Drafted.)*
+    - quote: Ceci est un nœud plat
+    - quote: on a levé l’ancre du Bonadventure et qu’on l’a mouillée de nouveau
+    - quote: n’est plus au portage de l’écubier
+    - quote: notre Bonadventure a navigué sans nous
+    - quote: mettons cela au nombre des choses inexplicables
+    - quote: La garniture est un morceau de vieille toile dont on enveloppe le câble de l’ancre
+  - Beside the wounded Harbert he sobs and weeps, wants to break his head against the wall, and is like a sister of mercy, like a mother at her child's bed (III.7 ¶11, ¶46). *(Drafted.)*
+    - quote: Il sanglotait, il pleurait, il voulait se briser la tête contre la muraille
+    - quote: comme une sœur de charité, comme une mère au lit de son enfant
+  - To spare Harbert, who asks after Ayrton, he says Ayrton has joined Nab to defend Granite-house, and he talks all the time and tells the most unlikely stories to keep the boy from speaking (III.8 ¶11). *(Drafted.)*
+    - quote: Ayrton avait rejoint Nab, afin de défendre Granite-house
+    - quote: racontait les histoires les plus invraisemblables
+  - He says he has seen worse than a ball through the chest: "J’en ai vu bien d’autres" (III.8 ¶16). *(Drafted.)*
+    - quote: Qu’est-ce qu’une balle à travers la poitrine
+    - quote: J’en ai vu bien d’autres
+  - He and Smith and Spilett become very skilful at dressing the wounded boy, and all the linen of the corral house is used up (III.8 ¶10). *(Drafted.)*
+    - quote: très-habiles à panser le jeune blessé
+    - quote: Tout le linge de l’habitation avait été sacrifié
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -545,7 +587,11 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Et ça ne se fume pas, par hasard ?
   - He smokes with delight now that he has tobacco (II.10 ¶96). *(Drafted.)*
     - quote: Pencroff fumait, fumait, fumait
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
+  - He ties off a cable with two half-hitches, a seaman's knot that always stays tight; he trusts his hand: "la main ne se trompe pas" (III.6 ¶31, ¶33, n1). *(Drafted.)*
+    - quote: j’ai l’habitude de faire deux demi-clefs
+    - quote: la main ne se trompe pas
+    - quote: Sorte de nœud familier au marin, et qui a l’avantage de se maintenir toujours serré
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

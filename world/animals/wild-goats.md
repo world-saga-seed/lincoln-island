@@ -16,4 +16,6 @@ Keywords: chèvre, chèvres sauvages, corral, mouflons, battue
     - quote: l’onagga, les chèvres et les brebis du corral fournirent quotidiennement le lait nécessaire à la colonie
   - The corral's flock of mouflons and goats counts a certain number of young that must be housed and fed (II.12 ¶85). *(Drafted.)*
     - quote: le troupeau de mouflons et de chèvres comptait un certain nombre de petits
-- **Appears in:** II.8, II.9, II.12
+  - The corral has goats that Ayrton can bring back: Nab wants a couple of them to acclimatise on the plateau's prairies (III.6 ¶54). *(Drafted.)*
+    - quote: une couple de chèvres que Nab voulait acclimater sur les prairies du plateau
+- **Appears in:** II.8, II.9, II.12, III.6

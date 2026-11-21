@@ -14,4 +14,4 @@ Keywords: carnet, notes, reporter, paper, pad, sketch
 - **On the page.**
   - Spilett tore a sheet from it, after some hesitation, for the paper of the first fire (I.5 ¶73). *(Drafted.)*
     - quote: déchira une feuille de son carnet
-- **Appears in:** I.2, I.5, I.6, I.11
+- **Appears in:** I.2, I.5, I.6, I.11, III.7

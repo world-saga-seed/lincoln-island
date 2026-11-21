@@ -566,6 +566,33 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: ce cylindre est tout ce qui reste d’une torpille
     - quote: ce n’est pas moi
     - quote: son incomparable puissance
+  - In the war of the Union he had occasion to try torpedoes, and so cannot mistake the work of one (III.5 ¶1). *(Drafted.)*
+    - quote: avait eu l’occasion d’expérimenter ces terribles engins de destruction
+    - quote: ne pouvait s’y tromper
+  - He knows guns: he judges the brig's four breech-loading steel cannon to be of excellent make, able to bear a heavy charge (III.5 ¶30). *(Drafted.)*
+    - quote: et il s’y connaissait
+    - quote: ces canons étaient de fabrication excellente
+  - Pencroff has often shown great deference to his opinions (III.5 ¶67). *(Drafted.)*
+    - quote: vous avez souvent témoigné beaucoup de déférence à mes avis
+  - He will not have the convicts hunted before they act: they may come round to other feelings and repent, and he asks that the colonists attack only if attacked (III.5 ¶56, ¶69). *(Drafted.)*
+    - quote: Ils peuvent revenir à d’autres sentiments
+    - quote: peut-être se repentir
+    - quote: n’attaquons que si nous sommes attaqués
+  - He kills a convict at the corral with his dagger, struck to the heart, after the man's ball has gone through his hat; the dagger is "plus sûr encore que son fusil" (III.7 ¶8). *(Drafted.)*
+    - quote: lui traversa le chapeau d’une balle
+    - quote: frappé au cœur par le poignard de Cyrus Smith, plus sûr encore que son fusil
+  - With Spilett he treats Harbert's wounds by their plain good sense, and they act as the best surgeon would have done; he and Spilett and Pencroff grow very skilful at dressing the wounded boy (III.7 ¶44; III.8 ¶10). *(Drafted.)*
+    - quote: ils agirent comme eût fait le meilleur chirurgien
+    - quote: très-habiles à panser le jeune blessé
+  - He knows that men complete one another in society and are needed by one another; he wonders whether some circumstance may arise that the colonists would be powerless to overcome (III.8 ¶21). *(Drafted.)*
+    - quote: les hommes se complètent par l’état de société, ils sont nécessaires les uns aux autres
+    - quote: si quelque circonstance ne se produirait pas, qu’ils seraient impuissants à surmonter
+  - He thinks that he and his companions, so fortunate until now, have entered an ill-starred period, and that their luck is turning (III.8 ¶22, ¶23). *(Drafted.)*
+    - quote: fussent entrés dans une période néfaste
+    - quote: la chance semblait tourner contre eux
+  - He and Spilett are not men to despair: they look the situation in the face, weigh the chances, and stand "fermes et droits devant l’avenir" (III.8 ¶25). *(Drafted.)*
+    - quote: fussent gens à désespérer
+    - quote: ils se posaient fermes et droits devant l’avenir
 - **On the page.**
   - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
@@ -746,7 +773,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He watches the unknown at every moment, and his eyes do not leave the man's (II.15 ¶68, ¶88). *(Drafted.)*
     - quote: comme l’ingénieur l’observait à tous moments
     - quote: dont les yeux ne quittaient pas ceux de son malade
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

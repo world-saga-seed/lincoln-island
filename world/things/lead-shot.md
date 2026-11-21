@@ -47,7 +47,9 @@ Keywords: grain de plomb, plomb, lead, shot, bullet, firearm, peccary, tooth, p�
   - Smith has met no trace of lead on the island, so he makes iron shot in its place and keeps the chest's lead in reserve (II.8 ¶7, ¶8). *(Drafted.)*
     - quote: dont Cyrus Smith n’avait rencontré aucune trace dans l’île
     - quote: il employa sans trop de désavantage de la grenaille de fer
-- **Appears in:** I.22, II.1, II.4, II.5, II.8
+  - Smith says the grain of lead found in the body of the peccary was fired by the unknown (III.5 ¶3). *(Drafted.)*
+    - quote: ce grain de plomb trouvé dans le corps du pécari, c’est lui qui l’a tiré
+- **Appears in:** I.22, II.1, II.4, II.5, II.8, III.5
 - **Open:**
   - Which of the two young peccaries held the shot is not said, nor how it came there (I.22 ¶77, ¶82). *(Drafted.)*
     - quote: Ces cochons de lait étaient vraiment délicieux

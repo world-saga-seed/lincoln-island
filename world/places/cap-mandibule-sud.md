@@ -19,4 +19,6 @@ Keywords: cap Mandibule-Sud, Mandible-cape, south jaw, north-east, point
     - quote: le cap du nord couvre-t-il celui du sud
   - From "cap Mandibule" to the mouth of the Mercy it is hardly eight miles (the text does not say which of the two capes is meant) (II.20 ¶29). *(My reading, to confirm.)*
     - quote: Du cap Mandibule à l’embouchure de la Mercy, on ne comptait guère qu’une huitaine de milles
-- **Appears in:** I.11, I.14, I.15, I.19, II.20, III.1, III.3
+  - The rocks of "cap Mandibule" lie nearly five miles from Granite-house; the text does not say which of the two capes is meant (III.5 ¶41). *(My reading, to confirm.)*
+    - quote: les roches du cap Mandibule, à près de cinq milles de Granite-house
+- **Appears in:** I.11, I.14, I.15, I.19, II.20, III.1, III.3, III.5

@@ -34,4 +34,11 @@ Keywords: Creek-Glycérine, fossé, ditch, moat, ruisseau, saignée, nitro-glyce
   - It separates the plateau from the forest (II.15 ¶92; II.16 ¶103). *(Drafted.)*
     - quote: le creek qui le séparait de la forêt
     - quote: le Creek-Glycérine, qui séparait le plateau de la forêt
-- **Appears in:** II.7, II.8, II.15, II.16
+  - It is fed from one of the two cuts in the lake’s rim, the other feeding the creek of the Grande-Chute (III.6 ¶9). *(Drafted.)*
+    - quote: deux saignées faites au lac et par lesquelles s’alimentaient le creek Glycérine et le creek de la Grande-Chute
+  - A bridge that can be raised crosses it on the corral road (III.6 ¶68). *(My reading, to confirm.)*
+    - quote: il relèverait le pont
+- **On the page.**
+  - Its left bank has a slight rise crowned with a few tall dragon-trees, which hides a man waiting there (III.6 ¶71). *(Drafted.)*
+    - quote: un léger épaulement que couronnaient quelques grands dragonniers, sur la rive gauche du ruisseau
+- **Appears in:** II.7, II.8, II.15, II.16, III.6

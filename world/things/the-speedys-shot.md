@@ -15,4 +15,7 @@ Keywords: boulets, obus, projectiles, shot, shells, cannon balls, mitraille, Spe
     - quote: au milieu d’une grande quantité de projectiles
   - The size of the balls is eight to ten pounds (see [the cannon](the-speedys-cannon.md)) (III.2 ¶58). *(Drafted.)*
     - quote: des boulets de huit à dix livres
-- **Appears in:** III.2, III.3, III.4
+  - The projectile of the trial at Granite-house is cylindro-conical, and is called a boulet, one of the "jolis boulets" the colonists are supplied with (III.5 ¶26, ¶34). *(Drafted.)*
+    - quote: un de ces jolis boulets dont nous sommes approvisionnés
+    - quote: le projectile qu’ils devaient lancer était cylindro-conique
+- **Appears in:** III.2, III.3, III.4, III.5

@@ -110,6 +110,24 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He and Jup stand guard at the foot of Granite-house at night and would soon signal the convicts (III.4 ¶74). *(Drafted.)*
     - quote: Maître Jup et Top, de garde au pied de Granite-house
     - quote: eussent vite fait de les signaler
+  - He is Smith's dog: the engineer is his master, and Smith calls him "mon chien"; the narrator calls him the faithful dog (III.6 ¶74; III.7 ¶72, ¶78). *(Drafted.)*
+    - quote: Et l’on pouvait compter que le fidèle chien ne se laisserait pas surprendre
+    - quote: L’animal bondit à l’appel de son maître
+    - quote: Top ! mon chien
+  - He goes ahead of the party on the road, now running on the road, now making a turn in the wood, always mute; the narrator counts on him to bark at the least sign of danger, and he gives low growls as the corral nears (III.6 ¶74, ¶88). *(Drafted.)*
+    - quote: toujours muet et ne paraissant rien pressentir d’insolite
+    - quote: il aboierait à la moindre apparence de danger
+    - quote: Top faisait entendre quelques sourds grognements
+  - He barks fiercely as the engineer lifts the corral gate's latch, an instant before the shot (III.6 ¶92). *(Drafted.)*
+    - quote: Top aboya avec violence
+  - He is sent as messenger from the corral to Granite-house with a note on his collar; he understands what is asked of him, knows the road well, and could cover it in under half an hour, passing where the men could not; he returns with Nab's answer on his collar after a shot is heard in the wood (III.7 ¶73, ¶77, ¶79, ¶93, ¶95). *(Drafted.)*
+    - quote: Top passera où nous ne passerions pas
+    - quote: Il comprenait, il devinait ce qu’on exigeait de lui
+    - quote: La route du corral lui était familière
+    - quote: En moins d’une demi-heure
+    - quote: Un billet était attaché à son cou
+  - He has a good big head ("la bonne grosse tête du chien") (III.7 ¶94). *(Drafted.)*
+    - quote: la bonne grosse tête du chien
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -175,4 +193,4 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He licks Jup's hand, which hangs out of the bed, ruefully, and walks 'on tiptoe' to visit his friend (II.12 ¶57). *(Drafted.)*
     - quote: Top, marchant, on peut dire « sur la pointe des pieds », venait visiter son ami
     - quote: Top la léchait d’un air contrit
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4, III.5, III.6, III.7

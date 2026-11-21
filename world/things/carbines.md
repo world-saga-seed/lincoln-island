@@ -14,4 +14,6 @@ Keywords: carabines, carbines, inflammation centrale, central fire, cartouches, 
   - Two "carabines de précision", carried by Spilett and Ayrton, shoot to nearly a mile; the card reads them as the chest’s carbines (III.3 ¶3, ¶5, ¶51). *(My reading, to confirm.)*
     - quote: deux carabines et quatre fusils
     - quote: qui portaient à près d’un mille de distance
-- **Appears in:** II.2, II.3, II.4, III.3
+  - Two carbines and two guns are carried on the march to the corral, loaded with ball (III.6 ¶72). *(Drafted.)*
+    - quote: Les deux carabines et les deux fusils avaient été chargés à balle
+- **Appears in:** II.2, II.3, II.4, III.3, III.6

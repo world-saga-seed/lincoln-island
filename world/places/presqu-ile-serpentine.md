@@ -30,7 +30,7 @@ Keywords: presqu’île, Serpentine, tail, queue, alligator, rade foraine, penin
   - The coast has been fully explored by sea, so that any mysterious being could reside only under the cover of the impenetrable woods of the peninsula, where the colonists have not yet carried their investigations (II.20 ¶32). *(Drafted.)*
     - quote: ce ne pouvait être que sous le couvert des bois impénétrables de la presqu’île Serpentine
     - quote: là où les colons n’avaient encore porté leurs investigations
-- **Appears in:** I.11, I.22, II.4, II.5, II.8, II.20
+- **Appears in:** I.11, I.22, II.4, II.5, II.8, II.20, III.6, III.8
 - **Open:**
   - The lengths: I.11 ¶25 says the peninsula runs "plus de trente milles" to sea from the south-east cape; ¶26 gives the island's greatest length, from the jaw of the north-east to the tail's end, as "pas moins de trente milles"; ¶38 repeats "environ trente milles" from the summit to the extreme points. Card none of the figures.
     - quote: s’allongeait de plus de trente milles en mer, à compter du cap sud-est de l’île

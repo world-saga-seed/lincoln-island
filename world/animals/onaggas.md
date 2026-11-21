@@ -47,6 +47,11 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
   - They are most often ridden by Gédéon Spilett and Harbert, and are also harnessed to the cart, to carry wood and coal to Granite-house and the mineral products the engineer uses (II.18 ¶54). *(Drafted.)*
     - quote: étaient le plus souvent montés par Gédéon Spilett et Harbert
     - quote: on les attelait aussi au chariot
+  - One of them is hurt in the leg and cannot be harnessed until it has had a few days' rest, so the start of the great expedition is put off a week, to 20 November (III.6 ¶2). *(Drafted.)*
+    - quote: un des onaggas, blessé à la jambe, ne pouvait être attelé
+    - quote: quelques jours de repos lui étaient nécessaires
+  - The cart can be drawn by a single onagga (III.6 ¶7). *(Drafted.)*
+    - quote: emmenant le chariot, attelé d’un seul onagga
 - **On the page.**
   - They enter the plateau on 23 December because the small bridges had not been closed (II.7 ¶52, ¶53). *(Drafted.)*
     - quote: Un jour, le 23 décembre
@@ -56,4 +61,4 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
   - They are first put to the cart at the end of December, for the trip to Port Balloon, with Pencroff walking at their head (II.7 ¶61, ¶63). *(Drafted.)*
     - quote: ce fut vers la fin de décembre qu’on essaya pour la première fois les onaggas
     - quote: Pencroff, qui marchait à la tête de ses bêtes
-- **Appears in:** II.7, II.8, II.9, II.16, II.18
+- **Appears in:** II.7, II.8, II.9, II.16, II.18, III.6

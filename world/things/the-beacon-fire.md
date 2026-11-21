@@ -33,7 +33,9 @@ Keywords: feu, fire, lueur, glow, signal, phare, beacon, nuit, night, Lincoln, r
     - quote: Nous n’avons pas quitté Granite-house
   - It makes the colonists admit a mystery, an inexplicable influence evidently favourable to them (II.20 ¶68). *(Drafted.)*
     - quote: Une influence inexplicable, évidemment favorable aux colons
-- **Appears in:** II.14, II.15, II.19, II.20
+  - Smith says the fire placed on the heights of the island, which let the colonists land, was lit by the unknown (III.5 ¶3). *(Drafted.)*
+    - quote: ce feu placé sur les hauteurs de l’île et qui vous a permis d’y atterrir, c’est lui qui l’a allumé
+- **Appears in:** II.14, II.15, II.19, II.20, III.5
 - **Open:**
   - The fire is seen on the night of 18 to 19 October; the next chapter has the boat land at seven in the morning "the next day, 20 October, after four days’ voyage"; card neither (II.14 ¶102; II.15 ¶1). *(Drafted.)*
     - quote: La nuit du 18 au 19 fut obscure et froide

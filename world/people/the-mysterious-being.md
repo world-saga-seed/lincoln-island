@@ -1,0 +1,68 @@
+# The mysterious being: the unseen benefactor the colonists feel behind their luck
+
+*An unknown person, castaway or exile, to whom Cyrus Smith traces the document, the bottle, the chest, the fire, the lead shot and the torpedo, and whom the colonists resolve to find.*
+
+Keywords: être mystérieux, bienfaiteur, bienfaisant inconnu, protecteur, inconnu, benefactor, protector, unseen, document, bouteille, caisse, torpille, grain de plomb, puits, surnaturel, God the Father
+
+- **What it is.**
+  - Cyrus Smith holds that a mysterious being exists, a castaway like them perhaps, left on the island, who has done them many services and whose motive for hiding after them he cannot understand (III.5 ¶3). *(Drafted.)*
+    - quote: un être mystérieux, d’un naufragé comme nous peut-être, abandonné sur notre île
+    - quote: Quel intérêt a-t-il à agir ainsi, à se cacher après tant de services rendus
+  - His services are such as only a man commanding prodigious power could render (III.5 ¶3). *(Drafted.)*
+    - quote: seul, un homme disposant d’une puissance prodigieuse pouvait nous rendre
+  - Smith ascribes to him: the saving of Smith from the waves after the balloon's fall; the writing of the document; the bottle set on the canal's route; the chest, which he brought and stranded at the pointe de l’Épave; the fire on the island's heights; the lead shot found in the peccary's body; and the torpedo sunk in the channel (III.5 ¶3). *(Drafted.)*
+    - quote: c’est l’inconnu qui m’a sauvé des flots après la chute du ballon
+    - quote: c’est évidemment lui qui a écrit le document
+    - quote: qui a mis cette bouteille sur la route du canal
+    - quote: cette caisse, si convenablement pourvue de tout ce qui nous manquait, c’est lui qui l’a conduite et échouée à la pointe de l’Épave
+    - quote: ce feu placé sur les hauteurs de l’île
+    - quote: ce grain de plomb trouvé dans le corps du pécari, c’est lui qui l’a tiré
+    - quote: cette torpille qui a détruit le brick, c’est lui qui l’a immergée dans le canal
+  - Smith owes him a debt, and says the colonists would be ungrateful to think themselves free of gratitude, whether he be castaway or exile (III.5 ¶3). *(Drafted.)*
+    - quote: quel qu’il soit, naufragé ou exilé sur cette île
+    - quote: Nous avons contracté une dette
+  - Spilett reckons him almost all-powerful, hidden in some part of the island, with means of action that would be supernatural if the supernatural were admissible in practical life; he asks whether it is he who talks secretly with the colonists through the well of Granite-house, held out the bottle when the canoe made its first sea trip, threw Top out of the lake's waters and killed the dugong, and saved Smith, and concludes that he has a power that makes him master of the elements (III.5 ¶4). *(Drafted.)*
+    - quote: un être, presque tout-puissant, caché dans quelque partie de l’île
+    - quote: tiendraient du surnaturel
+    - quote: se met en communication secrète avec nous par le puits de Granite-house
+    - quote: nous a tendu cette bouteille
+    - quote: a rejeté Top des eaux du lac et donné la mort au dugong
+    - quote: une puissance qui le rend maître des éléments
+  - Smith grants that if a human being's intervention is no longer in doubt, he has means beyond those of humanity; if the man is found the mystery will be found too (III.5 ¶6). *(Drafted.)*
+    - quote: si l’intervention d’un être humain n’est plus douteuse pour nous
+    - quote: si nous découvrons l’homme, le mystère se découvrira aussi
+  - Pencroff holds him a good man and has esteem for him; Nab, that he will be found only when it pleases him; Spilett, that the colonists must try all the same, to do their duty by him; Harbert would thank him (III.5 ¶7, ¶9, ¶11, ¶13). *(Drafted.)*
+    - quote: c’est un brave homme, et il a mon estime
+    - quote: nous ne le découvrirons que quand il lui plaira
+    - quote: nous aurons, au moins, rempli notre devoir envers lui
+    - quote: je voudrais le remercier
+  - Pencroff pictures him tall, strong, with a fine beard and hair like rays, lying on clouds with a great ball in his hand; Spilett calls this the portrait of God the Father, and Pencroff answers that it is how he imagines him (III.5 ¶14, ¶15, ¶16). *(Drafted.)*
+    - quote: beau, grand, fort, avec une belle barbe, des cheveux comme des rayons
+    - quote: c’est le portrait de Dieu le père
+    - quote: c’est ainsi que je me le figure
+  - Ayrton holds that he alone can have come to Tabor Island, found the wretch there, and let the colonists know that there was a man to save; he thinks he may be alone, suffering, a life to renew (III.5 ¶20). *(Drafted.)*
+    - quote: ce ne peut être que lui qui soit venu à l’île Tabor
+    - quote: Peut-être est-il seul ? Peut-être souffre-t-il
+  - The colonists resolve to search the whole island, to its most secret retreats, and ask the unknown friend's pardon in advance (III.5 ¶21). *(Drafted.)*
+    - quote: Nous ne laisserons pas une partie de l’île inexplorée
+    - quote: que cet ami inconnu nous le pardonne en faveur de notre intention
+  - Spilett calls him the "auteur incontestable du document", who may know much of Lincoln Island and Tabor and the yacht's return; Pencroff asks who he is, who knows them while they do not know him, why he hides, whether he came of his own will, can leave, is still on the island (III.6 ¶23, ¶24). *(Drafted.)*
+    - quote: il est l’auteur incontestable du document
+    - quote: Il nous connaît, ce personnage, et nous ne le connaissons pas
+    - quote: Peut-il quitter l’île si cela lui plaît
+  - Spilett says that this time his protection failed them, just when it was most needed; Smith answers "Qui sait !" and that the powerful intervention may yet have the chance to act (III.8 ¶5, ¶6, ¶8). *(Drafted.)*
+    - quote: sa protection nous a fait défaut
+    - quote: Qui sait !
+    - quote: la puissante intervention aura peut-être encore l’occasion de s’exercer
+  - Smith counts among the colonists' fortunes an inexplicable influence that came to their aid, and now wonders whether the being has left the island or has himself succumbed; to these questions no answer is possible (III.8 ¶22, ¶24, ¶25). *(Drafted.)*
+    - quote: une influence inexplicable leur était venue en aide
+    - quote: avait-il donc abandonné l’île ? Avait-il succombé à son tour ?
+    - quote: aucune réponse n’était possible
+- **Appears in:** III.5, III.6, III.8
+- **Open:**
+  - The text does not say what he is: "un naufragé comme nous peut-être" and "naufragé ou exilé" (Smith), whether he came of his own will and can leave, and whether he is still on the island (III.5 ¶3; III.6 ¶24). *(Drafted.)*
+    - quote: un naufragé comme nous peut-être
+    - quote: naufragé ou exilé sur cette île
+    - quote: Est-il venu volontairement ici
+  - Whether the being Spilett asks about in III.5 ¶4 (Top thrown from the lake, the dugong killed) is the unseen creature of the lake and the well is not said; these are questions, not findings (III.5 ¶4). *(My reading, to confirm.)*
+    - quote: Est-ce lui qui a rejeté Top des eaux du lac et donné la mort au dugong

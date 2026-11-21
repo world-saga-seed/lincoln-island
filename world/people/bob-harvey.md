@@ -36,7 +36,10 @@ Keywords: Bob Harvey, Harvey, convict, pirate, chief, Speedy, Norfolk, capitaine
     - quote: ne l’atteignit pas, du moins grièvement
   - His body is among those floating after the Speedy's sinking, and Ayrton knows it (III.4 ¶19). *(Drafted.)*
     - quote: Ayrton reconnut celui de Bob Harvey
+  - The convicts landed on the island are his band: Pencroff calls them his accomplices, and the convict Smith kills at the corral belongs to the band of Bob Harvey (III.5 ¶59; III.7 ¶53). *(Drafted.)*
+    - quote: des complices de Bob Harvey
+    - quote: appartenait bien à la bande de Bob Harvey
 - **On the page.**
   - Ayrton hears his name in the cheers before he sees him (III.2 ¶43, ¶44). *(Drafted.)*
     - quote: dans ce Bob Harvey, il venait de reconnaître un de ses anciens compagnons d’Australie
-- **Appears in:** III.2, III.3, III.4
+- **Appears in:** III.2, III.3, III.4, III.5, III.7

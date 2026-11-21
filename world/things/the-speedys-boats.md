@@ -23,4 +23,6 @@ Keywords: canot, canots, embarcations, boats, davits, porte-embarcations, ligne 
     - quote: sans doute écrasée par lui, n’avait pas reparu
   - The colonists regret that they could not be saved (III.4 ¶46). *(Drafted.)*
     - quote: Il était regrettable que les deux embarcations du brick n’eussent pu être sauvées
-- **Appears in:** III.3, III.4
+  - A man of the crew of the boat that broke on the rocks at the mouth of the Mercy is the one who flees from the corral by the south buttress of Mont Franklin (III.7 ¶53). *(Drafted.)*
+    - quote: C’était l’un de ceux dont le canot s’était brisé sur les roches, à l’embouchure de la Mercy
+- **Appears in:** III.3, III.4, III.7

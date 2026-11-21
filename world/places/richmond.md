@@ -34,6 +34,8 @@ Keywords: Virginia, siege, capital, stronghold, great square, prison, escape, Gr
   - In the summer evenings of early 1866 the colonists suppose it fell promptly into General Grant's hands and that the fall of the Confederate capital was the last act of the war, the North having triumphed; they cannot know (II.8 ¶48). *(Drafted.)*
     - quote: Richmond était promptement tombée, sans doute, aux mains du général Grant
     - quote: La prise de la capitale des confédérés avait dû être le dernier acte de cette funeste lutte
+  - In November, more than two and a half years have passed since the colonists escaped from it (III.8 ¶22). *(Drafted.)*
+    - quote: Depuis plus de deux ans et demi qu’ils s’étaient échappés de Richmond
 - **On the page.**
   - The castaways were seven thousand miles from it when they landed on 24 March (I.2 ¶1). *(Drafted.)*
     - quote: à sept mille milles de cette capitale
@@ -41,4 +43,4 @@ Keywords: Virginia, siege, capital, stronghold, great square, prison, escape, Gr
     - quote: Une pluie mêlée de neige tombait
   - The landing shore was more than six thousand miles from their country (I.2 ¶57). *(Drafted.)*
     - quote: à plus de six mille milles de leur pays
-- **Appears in:** I.2, I.11, I.12, I.20, II.8
+- **Appears in:** I.2, I.11, I.12, I.20, II.8, III.8

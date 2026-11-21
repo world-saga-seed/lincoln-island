@@ -56,7 +56,7 @@ Keywords: Creek-Rouge, brook, stream mouth, coal seam, creek, ruisseau, terre ro
     - quote: vers les sources du Creek-Rouge, au pied du mont Franklin
     - quote: allait se perdre dans le Creek-Rouge
 - **On the page.**
-- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4, II.7, II.8
+- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4, II.7, II.8, III.6
 - **Open:**
   - The text does not say where the creek runs or how far its mouth is from the clearing.
     - quote: vers l’embouchure du Creek-Rouge

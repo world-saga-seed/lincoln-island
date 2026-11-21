@@ -55,7 +55,10 @@ Keywords: épave, wreck, coque, hull, carcasse, quille, keel, trombe, waterspout
     - quote: Granite-house était riche de presque tout ce qu’il avait contenu
   - A piece of a thick iron cylinder found on 30 November is the key to her loss (see [the torpedo](torpedo.md)) (III.4 ¶81). *(Drafted.)*
     - quote: un morceau d’un épais cylindre de fer
-- **Appears in:** III.3, III.4
+  - Struck in the bottom by the explosion, the brig sank at once, and her hull was so broken that she could not be refloated (III.5 ¶1). *(Drafted.)*
+    - quote: le brick, foudroyé dans ses fonds, avait coulé instantanément
+    - quote: tant les dégâts subis par sa coque avaient été considérables
+- **Appears in:** III.3, III.4, III.5
 - **Open:**
   - What destroyed her is not said in III.3; Pencroff holds to an explosion and denies any rock (III.4 ¶44, ¶53), Spilett thinks the openings look more like the shock of a reef than a powder-room explosion (III.4 ¶52), and Smith says only that he does not commit himself (III.4 ¶43); the cylinder points to a torpedo, which Smith says he did not lay (III.4 ¶92, ¶95). Card the cause neither way beyond the torpedo card.
     - quote: Je ne me prononce pas, Pencroff

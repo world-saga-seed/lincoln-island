@@ -82,4 +82,6 @@ Keywords: puits, shaft, abyss, gouffre, conduit, underground, sea level, water, 
   - Top’s barking at the mouth of the well is heard again on the basalt coast, and Top and Jup prowl no more around it in the winter of 1867 (II.19 ¶49; II.20 ¶79). *(Drafted.)*
     - quote: comme ceux que le chien faisait entendre à l’orifice du puits de Granite-house
     - quote: ne rôdaient plus autour du puits
-- **Appears in:** I.18, I.21, I.22, II.9, II.11, II.12, II.18, II.19, II.20
+  - Spilett asks whether the unknown puts himself in secret communication with the colonists through the well of Granite-house, and so knows all their plans (III.5 ¶4). *(Drafted.)*
+    - quote: Est-ce lui qui se met en communication secrète avec nous par le puits de Granite-house
+- **Appears in:** I.18, I.21, I.22, II.9, II.11, II.12, II.18, II.19, II.20, III.5

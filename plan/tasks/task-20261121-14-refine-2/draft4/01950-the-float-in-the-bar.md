@@ -2,7 +2,7 @@
 
 CHAPTER XIX bis.
 
-PENCROFF'S LINES—A ROUND THING ON THE BAR—HERBERT TAKEN INTO CONFIDENCE—A DAY OF RAIN—THE BALL OF GLASS—THE GOOSE BARNACLES—A FEW LETTERS—THE SQUALL—A FLASH ON THE ROCKS OF THE ISLET—THE SMOOTH SAND.
+PENCROFF'S LINES—A ROUND THING ON THE BAR—HERBERT TAKEN INTO CONFIDENCE—A DAY OF RAIN—THE BALL OF GLASS—THE GOOSE BARNACLES—A FEW LETTERS—THE SQUALL—A FLASH ON THE ROCKS AT THE RIVER'S MOUTH—THE SMOOTH SAND.
 
 On the 1st of June, Pencroff was out at first light. The night had been one of squalls, and, though the wind was dropping, the sea still ran high in Union Bay and broke in long rolls upon the islet, under a sky that was grey and low. The sailor went down the ladder, crossed the strip of shore at the foot of the wall, and took his way along the beach toward the mouth of the Mercy, where, near the Chimneys, on the left bank of the river, he had set his lines.
 
@@ -124,7 +124,7 @@ The squall was on them. It came out of the east, across the bay, a grey wall of 
 
 "Back!" cried the sailor.
 
-Herbert rose, and fell again. His foot had gone through the old meshes where they lay under the sand, and the sand had closed upon it. The sailor dug about it with his hands, and the sand ran back as fast as he dug. A sea broke over them both. Then Pencroff drew his knife, felt for the meshes under the water, and cut the foot free.
+Herbert rose, and fell again. His foot had gone through the old meshes where they lay under the sand, and the sand had closed upon it. The sailor tore the rotten meshes away with his hands, but the sand held the foot fast, and ran back as fast as he dug. A sea broke over them both. Then Pencroff dug with the blade of his knife, and at last drew the foot free.
 
 They could not stay. Already the sea was running over the sands they had crossed dry an hour before. The water was at their knees, then above them. Pencroff took the lad by the arm. They waded, ran, waded again. The wind tore at them. Behind them the waves broke upon the bar, and when Pencroff turned his head he could still see the float, dark in the white of the surf.
 
@@ -140,9 +140,15 @@ Pencroff looked at the bar. The float was gone from it. He looked again at the r
 
 Toward one o'clock the squall eased; the flood had long since covered the bar. The two companions went back for their shoes.
 
-At the foot of the ladder Herbert stopped. "It was nothing, Pencroff," said he. "And no one need know that I took a ducking."
+At the foot of the ladder Herbert stopped.
 
-The sailor looked at him a moment, and said nothing; and they went up. The ladder streamed with water, and they came into Granite House wet to the skin.
+"We must tell Mr. Smith, Pencroff."
+
+"Tell him what, my boy?" answered the sailor. "That a thing made by men's hands lay on the bar, and is gone? What should we be giving them but a hope, and nothing to show for it?"
+
+Herbert thought a moment, and owned that he was right. "Then no one need know that I took a ducking," said he.
+
+The sailor looked at him, and said nothing; and they went up. The ladder streamed with water, and they came into Granite House wet to the skin.
 
 "Well, Pencroff," said the reporter, "what has the sea given you this morning?"
 

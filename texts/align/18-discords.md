@@ -74,6 +74,4 @@
 
 ## Outline slips
 
-- Beat 3 of the outline gives the plate (I.18 pl1) caption "Les colons descendaient lentement." as the French of ¶20; the text's own words are "Les colons ne descendaient que fort lentement". The plate caption is a separate line after ¶20, so this is a point of citing rather than a contradiction. *(My reading, to confirm.)*
-  - outline: Les colons descendaient lentement.
-  - quote: Les colons ne descendaient que fort lentement.
+None found.

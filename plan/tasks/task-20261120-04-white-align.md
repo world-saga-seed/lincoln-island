@@ -32,6 +32,7 @@
 - 2026-11-20 c back (I.2 to I.5): 66 discords, 5 outline slips; 171,210 tokens, 20 calls, 5.1 min; passes the checker after one heading was recited (I.2 ¶57 n1). c corrected three beads in I.2 and one run in I.5 (¶60 to ¶63). A source quirk, confirmed in the Gutenberg HTML: White's I.2 ¶25 repeats ¶23's "Mr. Smith, do you want to escape?" where the French has ¶29 (Smith reads Pencroff's face), and the next line opens with a doubled quote mark; the French asks once. Logged as White's, not the derivation's.
 - 2026-11-20 e back (I.10 to I.13): 81 discords, then 80 (the main session removed I.12 ¶41's "trop haute"/"too low", which is Wikisource's correction; White follows the print's "basse"), 3 outline slips; 188,947 tokens, 21 calls, 5.2 min; passes the checker. White cuts I.11 ¶91 to ¶92, the war's cause and Lincoln's death foretold.
 - 2026-11-20 f back (I.14 to I.17): 96 discords, 1 outline slip (01700 beat 4: "sledge" for the French "claie", a hurdle); 174,427 tokens, 14 calls, 5.0 min; passes the checker (fixed to accept "None found."). f corrected beads in I.14 (White ¶11 to ¶17, one step off) and I.17 (an exchange one speech off).
+- 2026-11-20 g back (I.18 to I.21): 69 discords, 1 outline slip (02100 beat 5: "alive" added to Cyrus's claim); 161,961 tokens, 23 calls, 4.2 min; passes the checker. Beads corrected in I.18, I.20 and I.21. White's I.19 ¶31 ends without its full stop ("head-cook Neb was not particular"), as the Gutenberg HTML has it; logged in texts/README.
 
 ## Resolution
 

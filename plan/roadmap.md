@@ -4,13 +4,15 @@
 
 ## Now
 
-Phases 0 and 1 are done and committed. The working texts are in `texts/`: the French, *Vingt mille* and White, each paragraph-numbered and vetted word for word against its source. The French is also checked against ten pages of the scan.
+Phases 0 to 4 are done and committed, with the clue register (`plan/reread-hooks.md`, R1121-10). Phase 5, the calibration, is open: `plan/tasks/task-20261121-07-calibration.md`. Its sample is drawn (20 passages, 3,473 French words), and the six stubs it rests on are being built (R1121-15).
 
 ## Next
 
-1. The budget sample (R1120-11, R1120-27): card I.1, I.13 and III.16 from `texts/fr-1875/`, measure the run with `tools/tokens.py`, and send the author the estimate before phase 2.
-2. Phase 2: outline the French, chapter by chapter, citing ¶N, with a timeline.
+1. Phase 5: on the author's answer to the plan, the voice chapter copied to `story/voice/samples/`; the renders (Opus, proposed); the facts, period and politics checks; the candidate tells; the author approves the voice chapter.
+2. Phase 6: the brainstorm, fed by the author; the placement and the key frames; the insert's outline and the two neighbours'; a reader-test key for each.
+3. Phase 7: the prompt-only controls, frozen before phase 8.
 
 ## Waiting
 
-- Nothing.
+- The author: phase 5's plan (the voice chapter; A6; who renders; the cap).
+- Carried from phase 4: the scene lines left on the large cards (length, not truth); the text's discords, each ruled when a draft leans on it (R1121-07).

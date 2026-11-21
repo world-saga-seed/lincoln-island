@@ -49,6 +49,5 @@
 
 1. **drift.** `at what precise point the facade of Granite House lay` (line 9). "se développait" (¶2) is softened to "lay", as the drafter itself reported; give its sense, the facade's extent. Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(Proposal, from the fold-back.)*
 2. **drift.** `he might fear that they would never be relieved` (line 49). The French fear is his own, "il pouvait craindre de n’être jamais secouru" (¶22); the render shifts it to "they". Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(Proposal, from the fold-back.)*
-3. **voice.** `Whether the sailor was proud of his pupil cannot be told.` (line 63). Verne's idiom, "Si le marin fut fier de son élève, cela ne peut se dire" (¶29), says the pride was past telling; taken literally it reads as doubt. Render it at its force. Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(My reading, to confirm.)*
 
 Length: no item. The notes give the French's size, not a range, and the neighbours render the French whole (R1121-103). *(Proposal, from the fold-back.)*

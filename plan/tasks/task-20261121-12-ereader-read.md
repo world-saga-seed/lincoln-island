@@ -16,3 +16,5 @@
 (Filed as they arrive, by chapter and kind.)
 
 1. **01950, line.** `"We had it, Pencroff," said Herbert. "For an hour."` It does not read as Verne; it is a line White would add. Now that the hour is on the page, the answer can be plainer. Filed: R1121-122, and the Next pass list of 01950 (item 3). The author chose try A (R1121-123): "Yes," answered Herbert; "and it lay under our hands the whole time the sea was out." Prose at the refine.
+
+- 2026-11-21 The Kobo would not open the epub. The author made `build/lincoln-island-xix-xx-v1.kepub.epub` with kepubify (sha256 3cf1275a…bef), from the same epub (4e390a66…e060), so the text is the one built at c81c23f. From now on every build makes the kepub too (R1121-126). The v1 epub is not rebuilt, since the read is under way.

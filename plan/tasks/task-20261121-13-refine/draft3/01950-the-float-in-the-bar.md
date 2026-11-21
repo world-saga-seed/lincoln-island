@@ -44,7 +44,7 @@ Herbert promised; and no one would wonder to see the lad go down with the sailor
 
 The rest of that day passed at the work of Granite House. The evening ebb fell after dark, when nothing could be done on the sands, and the sailor, who was not a patient man, had to wait the night through for the low water of the next morning.
 
-The 2nd of June dawned in rain. A cold rain, driven by a wind which had gone round to the east-north-east and blew straight into the bay, beat upon the facade, and from first light the thick shutters were kept closed. Granite House was lit only by the fire of the kitchen. The engineer, the reporter and Neb were at work within, upon the furnishing of the rooms, and Top lay at his master's feet. No one looked out at the bar.
+The 2nd of June dawned in rain. A cold rain, driven by a wind which had gone round to the east-north-east and blew straight into the bay, beat upon the facade, and from first light the thick shutters were kept closed. Granite House was lit only by the fire of the kitchen, and the chimney smoked. The engineer, the reporter and Neb were at work within, upon the furnishing of the rooms, and Top lay at his master's feet. No one looked out at the bar.
 
 There were picks and shovels in the storeroom, and Pencroff thought of them. But a man does not carry a pick down a ladder to lift his lines, and the engineer would have asked what it was for. The tools stayed behind, and the sailor had his knife, one of the two blades made from Top's collar; and that was all.
 

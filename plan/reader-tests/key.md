@@ -56,14 +56,14 @@
 
 - **Kind:** hidden until III.16. On a reread, the reader should be able to link it to the Nautilus.
 - **Text returns:** a fine glass net float, not cork and not American, of a make the sailor has never seen, from somewhere far off. Must not return: that it is the Nautilus's or Captain Nemo's, or that it belongs to anyone on or under the island.
-- **True:** "The find is one of the floats that held up the Nautilus's nets, made in the Nautilus's style" (R1121-27); "The page never says the float was Captain Nemo's" (R1121-28).
-- **Planted in:** 01950, beat 4. Paid off at III.16 ¶53, ¶62 and III.17 ¶13. Echoed at II.2 ¶64.
+- **True:** "The find is one of the floats that held up the Nautilus's nets, made in the Nautilus's style" (R1121-27); the net is the old crew's (R1121-62); "The page never says the float was Captain Nemo's" (R1121-28).
+- **Planted in:** 01950, beat 4. Paid off at III.16 ¶59 to ¶61 and III.17 ¶13. Echoed at II.2 ¶64.
 
 ### K6. Where did it come from, and how long ago?
 
 - **Kind:** hidden.
-- **Text returns:** Harbert's reading of the barnacles: long adrift, from far away, long ago. Must not return: that it came from close by, recently.
-- **True:** Nemo "sets a short net off the coast he walks in his diving suit (III.16 ¶62), held up by one of the crew's old floats; the June squall tears the float loose." `plan/settled/ledger/2026-11-21.md`, R1121-29.
+- **Text returns:** Harbert's reading of the barnacles: long in the sea, long ago, from far off. Must not return: that it was set close by, by anyone on or under the island.
+- **True:** "the Nautilus's crew set it off the Union Bay shore in the ship's ordinary work, at least six years before 1865, while she still sailed … six years under the sand, this June's squalls uncover it." `plan/settled/ledger/2026-11-21.md`, R1121-62.
 - **Planted in:** 01950, beat 4.
 
 ### K7. What do the letters say?

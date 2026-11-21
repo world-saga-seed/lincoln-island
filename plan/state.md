@@ -31,7 +31,7 @@
 | 01700 | The Nitro-Glycerine and the New Fall | outlined | Verne's | none needed | the French I.17; carded |
 | 01800 | The Descent into the Old Outlet and Granite-House | outlined | Verne's | none needed | the French I.18; carded |
 | 01900 | The Facade, the Ladder and the Warren | outlined | Verne's | none needed | the French I.19; carded |
-| 01950 | The Float in the Bar | outlined (frames in part) | to set | from the author | 1 to 3 June 1865 (R1121-38); premise R1121-23 to -37, -52, -53; checked against `world/rules.md` |
+| 01950 | The Float in the Bar | outlined | about 2,500 | from the author, all set | 1 to 3 June 1865 (R1121-38); premise R1121-23 to -37, -52, -53; checked against `world/rules.md` |
 | 02000 | Candles and the Grain of Wheat | outlined | Verne's | none needed | the French I.20; carded |
 | 02100 | The Southeast Marsh Expedition | outlined | Verne's | none needed | the French I.21; carded |
 | 02200 | Traps, Snowstorm and the Lead Shot | outlined | Verne's | none needed | the French I.22; carded |

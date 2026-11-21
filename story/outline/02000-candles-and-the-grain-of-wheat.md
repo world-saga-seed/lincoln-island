@@ -175,7 +175,7 @@
 *No Verne beat above changes, and no words are added to it. These are the lines the inserted chapter, [01950](01950-the-float-in-the-bar.md), set on 1 to 3 June, sits against. They are echoes for a second reading.*
 
 - The squalls of ¶1 are the squall of 01950. Cyrus's precaution at the Chimneys against the tides is the same sea. *(Proposal.)*
-- The talk of ¶5 to ¶18 has no date, so the insert's three days fit before ¶19's "On était au 4 juin". *(Proposal.)*
+- The talk of ¶5 to ¶18 is dated by Cyrus's "Demain, en organisant une chasse aux phoques" (¶15) to the eve of the hunt of 5 June, the 3rd or the 4th, so the insert's three days come before it or end on its day. *(Proposal.)*
 - Whit Sunday, 4 June: "Ils ne demandaient plus, ils remerciaient" (¶19). It is the day after the smooth sand, and two of them give thanks with a thing lost that they have not spoken of. *(Proposal.)*
 - 5 June: the five ford the channel at low water, "franchir à gué le canal" (¶20), over the bar where the float lay, and agree to build a canoe "qui rendrait les communications plus faciles". *(Proposal.)*
 - The grain, found "par le plus grand hasard" (¶33), is kept, sown and told to all. It is the pair of the float (R1121-34). *(Proposal.)*

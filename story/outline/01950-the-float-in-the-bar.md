@@ -63,6 +63,7 @@
 - *(Settled R1121-23.)* The squall comes in. The waves are too high to stay, but they can see the float in the surf. They go back to safety and wait it out. *(Proposal.)* The flood and the squall come together, and the surge covers the bar (R1121-53). The weather is the text's own: "des averses et des rafales qui se succédèrent sans relâche" (I.20 ¶1).
 - *(Settled R1121-70.)* They wait it out under the granite wall near the foot of the ladder, where they can still see the float.
 - *(Settled R1121-65, R1121-66, R1121-68.)* In the squall, what is left of the rotten mooring breaks. The surge throws the float on the islet's rocks: from under the wall, a flash in the spray, and it is gone. They know it shattered. The bar closes over the net.
+- *(Settled R1121-110.)* The path, in one clause: the backwash draws the freed float off the bar into the gut, and the channel's current, "un courant extrêmement rapide" (I.3 ¶42), takes it onto the islet's point. The wind is onshore, so the sea alone would drive it to the coast.
 
 ### 6. Home, wet (2 June, early afternoon)
 

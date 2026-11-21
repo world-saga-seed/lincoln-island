@@ -32,7 +32,7 @@
 
 ## Texture
 
-*White's own numbers on his Part I (`tools/tells.py`). A drafter keeps near them. The voice critic flags a chapter well outside them in either direction. (Settled R1121-94.) In the neighbours, White's sentence breaks are his voice: where Verne's sentences run long, the render (and the revision) splits them toward White's lengths, as White splits them, adding and dropping nothing. (Settled R1121-108.)*
+*White's own numbers on his Part I (`tools/tells.py`). A drafter keeps near them. The voice critic flags a chapter well outside them in either direction. (Settled R1121-94.) In the neighbours, White's sentence breaks are his voice: where Verne's sentences run long, the render (and the revision) splits them toward White's lengths, as White splits them, adding and dropping nothing. (Settled R1121-108.) In 01950, the narration outside the squall keeps toward White's lengths too, joining clauses as he does; the dialogue is as it is. (Settled R1121-111.)*
 
 - "and" per sentence about 0.58; White's chapters range from 0.47 to 0.70.
 - Median sentence about 18 words, with about a quarter of the sentences long.

@@ -20,7 +20,7 @@
 - *(Settled R1121-26, R1121-27.)* The thing is one of the floats that held up the Nautilus's nets, made in the Nautilus's style. It was lost in the Nautilus's ordinary work, years before. Nemo never learns it came near them. It is never recovered.
 - *(Settled R1121-62, R1121-63.)* The net is old. The crew laid it as a set net off the Union Bay shore while the Nautilus still sailed. It fouled in the bar and they could not get it back, and it has been coming apart there ever since. It has lain six years and more under the sand, and this June's squalls uncover it. The page never dates it. No act of Nemo's, then or now. *(Settled R1121-64.)* It fouled below the low-water mark, where the crew's divers could not dig it out from under a bar the sea had moved over it, and over the years the shifting sands have worked it inshore.
 - *(Settled R1121-33.)* It is glass, a blown ball with the device moulded in it.
-- *(Settled R1121-32.)* It is thick with barnacles. *(Settled R1121-62.)* They grew while the float rode at the surface, and they died under the sand. *(Proposal.)* They are goose barnacles, the kind that hang from things kept at the surface, now dead shells.
+- *(Settled R1121-32.)* It is thick with barnacles. *(Settled R1121-62.)* They grew while the float rode at the surface, and they died under the sand. *(Settled R1121-120.)* The crust is acorn barnacles, cemented flat to the glass. Among them are a few goose barnacles, the kind that hang from things kept at the surface, now dead shells and dried stumps of stalk.
 - *(Settled R1121-31.)* They bare only a few letters of the motto's ring, too few to make a word. The N lies on the hidden side, toward the sand.
 - *(Settled R1121-28.)* The page never says it was Nemo's.
 
@@ -58,7 +58,7 @@
 - *(Settled R1121-32.)* It is thick with barnacles. They chip some away with a stone. *(Proposal.)* They go carefully, for fear of the glass.
 - *(Proposal.)* Pencroff: a net float, but not cork and not American. He has never seen the like.
 - *(Settled R1121-82.)* While Harbert chips, Pencroff counts in his head what the glass is worth: light for the shuttered house, a float for his lines. Never aloud. The reader does the sum when it breaks.
-- *(Proposal.)* Harbert: goose barnacles, long dead, the kind on a thing kept at the surface. So it has been in the sea a long time, and it came from far off. "Long ago" is true. "Far off" is wrong, since the net was set close in. *(Settled R1121-77.)* The reading dims their hope of a ship nearby; it does not kill it.
+- *(Proposal; the kinds Settled R1121-120.)* Harbert: among the common barnacles, goose barnacles, long dead, the kind on a thing kept at the surface. So it has been in the sea a long time, and it came from far off. "Long ago" is true. "Far off" is wrong, since the net was set close in. *(Settled R1121-77.)* The reading dims their hope of a ship nearby; it does not kill it.
 - *(Settled R1121-55.)* The frame: a broken run, a B, an L, an I. Harbert says "Latin, I think," and no more. *(Proposal.)* What it rests on is the -bili- of the Latin ending -bilis, which a schooled boy knows. It is part of MOBILIS, but not the word. The N lies toward the sand (R1121-31).
 - *(Settled R1121-37.)* The time they have goes in the reading. The scene is short.
 
@@ -66,7 +66,7 @@
 
 - *(Settled R1121-23.)* The squall comes in. The waves are too high to stay, but they can see the float in the surf. They go back to safety and wait it out. *(Proposal.)* The flood and the squall come together, and the surge covers the bar (R1121-53). The weather is the text's own: "des averses et des rafales qui se succédèrent sans relâche" (I.20 ¶1).
 - *(Settled R1121-70.)* They wait it out under the granite wall near the foot of the ladder, where they can still see the float.
-- *(Settled R1121-65, R1121-66, R1121-68.)* In the squall, what is left of the rotten mooring breaks. The surge throws the float on the islet's rocks: from under the wall, a flash in the spray, and it is gone. They know it shattered. The bar closes over the net.
+- *(Settled R1121-65, R1121-66, R1121-68.)* In the squall, what is left of the rotten mooring breaks. The surge throws the float on the islet's rocks: from under the wall, a flash in the spray, and it is gone. They know it shattered. The bar closes over the net. *(Settled R1121-119.)* They see it break, as R1121-68 has it: the flash flies apart, seen across the channel, not up close.
 - *(Settled R1121-110.)* The path, in one clause: the backwash draws the freed float off the bar into the gut, and the channel's current, "un courant extrêmement rapide" (I.3 ¶42), takes it onto the islet's point. The wind is onshore, so the sea alone would drive it to the coast.
 
 ### 6. Home, wet (2 June, early afternoon)
@@ -110,7 +110,7 @@
 1. **Colour of the glass.** Pick: dark green, like bottle glass, clear where the barnacles are chipped away. *(Settled R1121-80.)*
 2. **The device.** Pick: a round seal moulded on the glass, a palm across, with a ring of capital letters about a letter in the centre. It is the form of the Nautilus's marked things, "une lettre entourée d’une devise en exergue" (VML I.8). The two bare part of the ring's lower arc: B, a gap, L, I. *(Settled R1121-80.)*
 3. **How much shows.** Pick: the upper third of the ball, above the sand. *(Settled R1121-80.)*
-4. **The barnacles.** Pick: a grey-white crust of dead shells, the stalks long gone, thickest on the upper side. *(Settled R1121-80.)*
+4. **The barnacles.** A grey-white crust of dead acorn barnacles, cemented flat to the glass, which stay after death, thickest on the upper side. Among them are a few dead goose barnacles: their shells, and the dried stumps of their stalks. Only these tell Herbert the float rode at the surface. *(Settled R1121-80, amended R1121-120.)*
 5. **The net.** Pick: what shows is a dark, rotten cord, the mesh choked with sand, running down into the bar. Pencroff calls it "a net", and no more. *(Settled R1121-80.)*
 6. **The lashing.** Pick: a cord of the same, running under the ball into the sand on the hidden side (R1121-72). *(Settled R1121-80.)*
 

@@ -16,7 +16,7 @@
 - *(Settled R1121-26, R1121-27.)* The thing is one of the floats that held up the Nautilus's nets, made in the Nautilus's style. It was lost in the Nautilus's ordinary work, years before. Nemo never learns it came near them. It is never recovered.
 - *(Settled R1121-62, R1121-63.)* The net is old. The crew laid it as a set net off the Union Bay shore while the Nautilus still sailed. It fouled in the bar and they could not get it back, and it has been coming apart there ever since. It has lain six years and more under the sand, and this June's squalls uncover it. The page never dates it. No act of Nemo's, then or now. *(Settled R1121-64.)* It fouled below the low-water mark, where the crew's divers could not dig it out from under a bar the sea had moved over it, and over the years the shifting sands have worked it inshore.
 - *(Settled R1121-33.)* It is glass, a blown ball with the device moulded in it.
-- *(Settled R1121-32.)* It is thick with barnacles. *(Settled R1121-62.)* They grew while the float rode at the surface, and they died under the sand. *(Proposal.)* They are goose barnacles, the kind that hang from things kept at the surface, now dead shells.
+- *(Settled R1121-32.)* It is thick with barnacles. *(Settled R1121-62.)* They grew while the float rode at the surface, and they died under the sand. *(Settled R1121-120.)* The crust is acorn barnacles, cemented flat to the glass. Among them are a few goose barnacles, the kind that hang from things kept at the surface, now dead shells and dried stumps of stalk.
 - *(Settled R1121-31.)* They bare only a few letters of the motto's ring, too few to make a word. The N lies on the hidden side, toward the sand.
 - *(Settled R1121-28.)* The page never says it was Nemo's.
 
@@ -54,7 +54,7 @@
 - *(Settled R1121-32.)* It is thick with barnacles. They chip some away with a stone. *(Proposal.)* They go carefully, for fear of the glass.
 - *(Proposal.)* Pencroff: a net float, but not cork and not American. He has never seen the like.
 - *(Settled R1121-82.)* While Harbert chips, Pencroff counts in his head what the glass is worth: light for the shuttered house, a float for his lines. Never aloud. The reader does the sum when it breaks.
-- *(Proposal.)* Harbert: goose barnacles, long dead, the kind on a thing kept at the surface. So it has been in the sea a long time, and it came from far off. "Long ago" is true. "Far off" is wrong, since the net was set close in. *(Settled R1121-77.)* The reading dims their hope of a ship nearby; it does not kill it.
+- *(Proposal; the kinds Settled R1121-120.)* Harbert: among the common barnacles, goose barnacles, long dead, the kind on a thing kept at the surface. So it has been in the sea a long time, and it came from far off. "Long ago" is true. "Far off" is wrong, since the net was set close in. *(Settled R1121-77.)* The reading dims their hope of a ship nearby; it does not kill it.
 - *(Settled R1121-55.)* The frame: a broken run, a B, an L, an I. Harbert says "Latin, I think," and no more. *(Proposal.)* What it rests on is the -bili- of the Latin ending -bilis, which a schooled boy knows. It is part of MOBILIS, but not the word. The N lies toward the sand (R1121-31).
 - *(Settled R1121-37.)* The time they have goes in the reading. The scene is short.
 

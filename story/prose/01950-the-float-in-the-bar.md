@@ -48,7 +48,7 @@ The 2nd of June dawned in rain. A cold rain, driven by a wind which had gone rou
 
 There were picks and shovels in the storeroom, and Pencroff thought of them. But a man does not carry a pick down a ladder to lift his lines, and the engineer would have asked what it was for. The tools stayed behind, and the sailor had his knife, one of the two blades made from Top's collar; and that was all.
 
-At the foot of the wall the two companions took off their shoes, which were much worn, set them under the rock, and rolled their trousers to the knee. The sand was hard under their feet, and the water in the pools was cold enough to numb them. They went first to the lines at the mouth of the Mercy, and Pencroff hauled them in, one after the other; the hooks came up as clean as they had gone down.
+At the foot of the wall the two companions took off their shoes, which were much worn, set them under the rock, and rolled their trousers to the knee. The sand was hard under their feet, and the water in the pools was cold enough to numb them. They went first to the lines at the mouth of the Mercy, and Pencroff hauled them in, one after the other; the hooks came up with their bait untouched.
 
 "Empty," said he. "The fish have more sense than we have, my boy, and keep indoors."
 
@@ -72,15 +72,15 @@ He rapped the glass with his knuckle, where the shells had broken away.
 
 Herbert picked up a stone from the bar and began to knock away the crust, a little at a time, holding his hand very lightly, for fear of cracking the glass. Pencroff, on his knees, held the ball steady with both hands, and kept one eye upon the water.
 
-And while the lad worked, the sailor made his reckoning. A foot of good glass! At that moment Granite House sat behind its shutters, in the light of the fire, because the engineer had not yet had the time to make glass for its windows. Here was glass already made. What Mr. Smith could do with it Pencroff could only guess; but he had seen him make a lens of two watch glasses, and he was sure that he could make a window of a ball. And failing a window, it would be the finest float for his lines that a fisherman ever had; but he kept all this to himself.
+And while the lad worked, the sailor made his reckoning. A foot of good glass! At that moment Granite House sat behind its shutters, in the light of the fire, because the engineer had not yet had the time to make glass for its windows. Here was glass already made. What Mr. Smith could do with it Pencroff could only guess; but he had seen the lens he made of two watch glasses, and he was sure that he could make a window of a ball. And failing a window, it would be the finest float for his lines that a fisherman ever had; but he kept all this to himself.
 
 The shells came away more easily than Herbert had feared, and he looked at them closely as they fell.
 
-"These are goose barnacles," said he.
+"Barnacles," said he. "And look here, among them: these are goose barnacles."
 
 "Barnacles, I know well enough," answered Pencroff. "I have scraped them off many a ship's bottom."
 
-"Yes, but these are of the kind that hang by a stalk. They fasten upon anything that floats—driftwood, a buoy, a ship—and they live only near the surface, where the sea brings them their food. These are dead, and long dead. The stalks have rotted away, and only the shells are left."
+"Yes, but these few are of another kind, that hang by a stalk. They fasten upon anything that floats—driftwood, a buoy, a ship—and they live only near the surface, where the sea brings them their food. All of them are dead, and long dead; of these there is nothing left but the shells, and a stump of the stalk, dried hard among the others."
 
 "And what does that tell you?"
 

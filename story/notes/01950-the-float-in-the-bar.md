@@ -17,7 +17,7 @@
 1. **Colour of the glass.** Pick: dark green, like bottle glass, clear where the barnacles are chipped away. *(Settled R1121-80.)*
 2. **The device.** Pick: a round seal moulded on the glass, a palm across, with a ring of capital letters about a letter in the centre. It is the form of the Nautilus's marked things, "une lettre entourée d’une devise en exergue" (VML I.8). The two bare part of the ring's lower arc: B, a gap, L, I. *(Settled R1121-80.)*
 3. **How much shows.** Pick: the upper third of the ball, above the sand. *(Settled R1121-80.)*
-4. **The barnacles.** Pick: a grey-white crust of dead shells, the stalks long gone, thickest on the upper side. *(Settled R1121-80.)*
+4. **The barnacles.** A grey-white crust of dead acorn barnacles, cemented flat to the glass, which stay after death, thickest on the upper side. Among them are a few dead goose barnacles: their shells, and the dried stumps of their stalks. Only these tell Herbert the float rode at the surface. *(Settled R1121-80, amended R1121-120.)*
 5. **The net.** Pick: what shows is a dark, rotten cord, the mesh choked with sand, running down into the bar. Pencroff calls it "a net", and no more. *(Settled R1121-80.)*
 6. **The lashing.** Pick: a cord of the same, running under the ball into the sand on the hidden side (R1121-72). *(Settled R1121-80.)*
 

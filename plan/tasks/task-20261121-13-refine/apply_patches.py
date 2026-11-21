@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """Apply patches.tsv (¶ in a new text is a paragraph break; an empty new text deletes) to the draft 3 copies, each old text found exactly once; set the title to draft 3."""
-import csv, glob, pathlib, re, sys
+import csv, glob, pathlib, re, shutil, sys
 T = pathlib.Path(__file__).parent
+# Always rebuild from v1, so a patch whose new text holds its old text is never applied twice.
+ROOT = T.parents[2]
+for src in glob.glob(str(ROOT / 'story' / 'prose' / '0[12]9[05]0-*.md')) + glob.glob(str(ROOT / 'story' / 'prose' / '02000-*.md')):
+    shutil.copy(src, T / 'draft3' / pathlib.Path(src).name)
 rows = list(csv.DictReader(open(T / 'patches.tsv', encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
 done = {}
 for r in rows:
     f = glob.glob(str(T / 'draft3' / (r['chapter'] + '-*.md')))[0]
     s = open(f, encoding='utf-8').read()
-    if r['new'] and r['new'].replace('¶', '\n\n') in s and r['old'] not in s: print(r['id'], 'already applied'); continue
     n = s.count(r['old'])
     if n != 1: sys.exit(f"{r['id']}: old text found {n} times in {f}")
     s = s.replace(r['old'], r['new'].replace('¶', '\n\n')); s = re.sub(r'\n{3,}', '\n\n', s); open(f, 'w', encoding='utf-8').write(s); print(r['id'], 'applied')

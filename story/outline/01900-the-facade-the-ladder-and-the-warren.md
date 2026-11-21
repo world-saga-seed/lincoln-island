@@ -167,4 +167,4 @@
 - The house ends with its windows shuttered for want of glass: "du verre à vitre" (¶46). The float the insert finds is glass. *(Proposal.)*
 - Cyrus keeps his fear of never being rescued to himself, "en dehors du passage des navires, il pouvait craindre de n’être jamais secouru" (¶22). The first secret kept in the house is his. Pencroff's in 01950 is the second. *(Proposal.)*
 - "l’homme qui « sait » réussit" (¶24). In 01950, knowing is what costs them the time they needed. *(Proposal.)*
-- The view from the windows takes in "Toute la baie de l’Union" (¶48). Pencroff's sighting in 01950 is made on the beach, not from these windows (R1121-54).
+- The view from the windows takes in "Toute la baie de l’Union" (¶48). Pencroff's sighting in 01950 is made on the beach, not from these windows (R1121-54). *(Proposal.)*

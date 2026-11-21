@@ -84,7 +84,7 @@
 
 ### 7. Two bridges and the oysters (I.20 ¶29)
 
-- The new outlet, cut by blasting, now crosses plateau and shore with a stream, so two small bridges are needed, one on Prospect Heights (Grande-Vue) and one on the beach. *(Drafted.)*
+- The new outlet, cut by blasting, now crosses plateau and shore with a stream, so two small bridges are needed, one on Prospect Plateau (Grande-Vue) and one on the beach. *(Drafted.)*
   - quote: le nouveau déversoir, créé à coups de mine
   - quote: l’un sur le plateau de Grande-Vue, l’autre sur la grève même
 - Without them a long detour west beyond the sources of the Red Creek would be needed to reach the north. *(Drafted.)*

@@ -8,7 +8,7 @@
   - Granite-house: its facade (¶2, ¶13), its entrance, kitchen-room, dining room, dormitory, "chambre d’amis", corridor and long store (¶15–¶16), the great hall (¶13), the upper grotto as an attic (¶16).
   - The landing at about forty feet (¶28). The foot of the wall, where the pick fell (¶2–¶3).
   - The Chimneys, kept as a workshop (¶1). The old outlet and its mouth at the lake (¶5, ¶44).
-  - The Jacamar Wood, left of the river (¶30); the Far West forests, unexplored (¶30); the warren at the "the south-west corner of the lagoon" (¶30). The view: the two Mandible capes, Cape Claw, Union Bay (¶48).
+  - The Jacamar Wood, left of the river (¶30); the Far West forests, unexplored (¶30); the warren at "the south-west corner of the lagoon" (¶30). The view: the two Mandible capes, Cape Claw, Union Bay (¶48).
 - **Things.** *(Drafted.)* The rope ladder of curry-rush fibre and red-cedar rungs, a hundred rungs (¶19, ¶28); a rough pulley (¶20); bricks, lime (¶20); a brick-earth flue (¶43); stones and cement in the outlet's mouth (¶44); a trickle of lake water, 25 to 30 gallons a day (¶45); thick shutters (¶46). Herbs: thyme, wild thyme, basil, savory, rosemary, lemon balm, betony, Oswego tea (¶30, ¶31, ¶34). Four rabbits (¶41). Footnote n1: a gallon is about 4.5 litres (¶45).
 - **Time.** *(Drafted.)* "The next day, 22 May" (¶1); "a few days after the works began" the facade is open (¶14); the ladder "28 May" (¶28); "that day" for the warren, a day not given (¶35); "31 May" partitions finished (¶43). After that, the outlet is sealed and the water brought in (¶44–¶45), with no date. The hunt "every day" (¶30); a hunt of an hour's digging (¶41). The chapter covers 22 to about 31 May, and a little after. The "mauvaise saison" is near (¶30, ¶46).
 - **Clues.** *(Drafted.)*
@@ -23,6 +23,9 @@
   - The planned hydraulic lift, glass for the windows, clothes, shoes and winter light (¶21, ¶28, ¶46).
   - Pencroff's dreams of railways (¶21).
 - **Length.** 48 paragraphs (¶1–¶48), 3,064 words in the ¶ lines. *(Drafted.)*
+- **Terms the draft settled on.** "curtain" and "salient" (courtine, saillant, ¶13); "trued" and "ogival outline" (dégauchirent, le dessin ogival, ¶14); "spare room" (chambre d'amis, ¶15); "garret" (grenier, ¶16); "curry-rush", "twisted by means of a winch" (¶19); "tackle" (mouffle, ¶20); "relieved" (secouru, ¶22); "ratlines of the shrouds" (enfléchures des haubans, ¶29); "Monarda didyma" and "Oswego tea" (¶34); "American rabbits" (¶41); "chimney-builders" (fumistes, ¶43); "entresol" kept (¶48). *(Proposal, from the draft, [01900](../prose/01900-the-facade-the-ladder-and-the-warren.md).)*
+- **Names and address the draft settled on.** White's forms: Granite House, Prospect Plateau (Grande-Vue, ¶18), Jacamar Wood, the two Mandible Capes, Claw Cape, Union Bay; Herbert, Neb, Gideon Spilett ([R1121-107](../../plan/settled/ledger/2026-11-21.md)). "Master Neb" for "maître Nab" (¶43); "the lad" for "le jeune garçon" (¶32, ¶34); "thee" and "thou" for "se tutoyer" (¶26). *(Proposal, from the draft, [01900](../prose/01900-the-facade-the-ladder-and-the-warren.md).)*
+- **Left off the page by the draft.** The three plate captions (pl1 to pl3); the page has no plates. *(Proposal, from the draft, [01900](../prose/01900-the-facade-the-ladder-and-the-warren.md).)*
 
 ## Open and flags
 
@@ -39,3 +42,13 @@
 - The date of the warren day (¶35, "that day") and of the sealing of the outlet (¶44) is not given. The sealing comes after 31 May by the text's order. *(My reading, to confirm.)*
 - Pencroff is called "the sailor" and "maître Nab" the cook (¶43), and the reporter's craft with plants (¶47) is a first sight of his taste for ornament. *(My reading, to confirm.)*
 - No Wikisource correction touches this chapter. *(Drafted.)*
+
+## Next pass
+
+*(Proposal, from the fold-back: where the prose changes at the next drafting pass. The writer's reading comments join this list.)*
+
+1. **drift.** `at what precise point the facade of Granite House lay` (line 9). "se développait" (¶2) is softened to "lay", as the drafter itself reported; give its sense, the facade's extent. Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(Proposal, from the fold-back.)*
+2. **drift.** `he might fear that they would never be relieved` (line 49). The French fear is his own, "il pouvait craindre de n’être jamais secouru" (¶22); the render shifts it to "they". Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(Proposal, from the fold-back.)*
+3. **voice.** `Whether the sailor was proud of his pupil cannot be told.` (line 63). Verne's idiom, "Si le marin fut fier de son élève, cela ne peut se dire" (¶29), says the pride was past telling; taken literally it reads as doubt. Render it at its force. Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(My reading, to confirm.)*
+
+Length: no item. The notes give the French's size, not a range, and the neighbours render the French whole (R1121-103). *(Proposal, from the fold-back.)*

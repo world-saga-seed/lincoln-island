@@ -8,9 +8,22 @@
 - **Time.** June opens winter, "which corresponds to December in the northern hemisphere" (¶1). 4 June is Whit Sunday (¶19). 5 June is the seal hunt (¶20). The candle work takes under 24 hours (¶25). "Throughout that month" the indoor work goes on (¶26). The bridges take "quelques jours" (¶29). The grain is found on an undated rainy day (¶34), and planted 20 June "the same day" (¶66). The year is not given in the chapter; the earlier chapters put the landing in March 1865. The chapter covers about 20 days. *(Drafted.)* The 4 June Pentecost and the later Friday 30 June (I.21 ¶3) fit 1865. *(My reading, to confirm.)*
 - **Clues.** None unexplained in the chapter. The grain, the clothing shortage, the mouflons and the planned canoe are setups for later chapters. The grain's presence is explained at ¶37 (Richmond pigeons). The chapter notes that "by the greatest chance" (¶33) Harbert finds the grain; the narrator marks it as chance, with Providence helping. *(Drafted.)*
 - **Length.** 68 paragraphs (¶1–¶68); 2,659 words. One plate caption (pl1, after ¶36). No footnotes. *(Drafted.)*
+- **Terms the draft settled on.** "tallow candles" and "Stearine candles" (chandelle, bougie, ¶16–¶17); "the olein, the margarin and the stearin" (¶23); "calcareous soap" (¶23); "boracic acid" and "snuffers" (¶25); "joiners" and "carpenters" (menuisiers, charpentiers, ¶26, ¶29); "fox-tail saws" (égohines, ¶28); "zostera" (¶28); "an acidulated drink" (¶31, by the facts critic's fix); "acerineæ" (¶31); "four hundred thousand millions" (quatre cents milliards, ¶48, ¶52); "Pentecost Sunday" (¶19). *(Proposal, from the draft, [02000](../prose/02000-candles-and-the-grain-of-wheat.md).)*
+- **Names and address the draft settled on.** "Mr. Smith" for "monsieur Cyrus" ([R1121-96](../../plan/settled/ledger/2026-11-21.md)); "my boy" for Cyrus's "mon enfant" (¶9) and Pencroff's "mon garçon" (¶40); White's Prospect Plateau (Grande-Vue, ¶29), Red Creek, Reptile End (promontoire du Reptile, ¶30), Mount Franklin (¶4). *(Proposal, from the draft, [02000](../prose/02000-candles-and-the-grain-of-wheat.md).)*
+- **Verne's slips the draft kept, as printed** (world rule 2, [R1121-41](../../plan/settled/ledger/2026-11-21.md)): "arithmetical progressions" (¶50), the ear's "eight hundred grains" (¶50), Pencroff's single match (¶68). *(Proposal, from the draft, [02000](../prose/02000-candles-and-the-grain-of-wheat.md).)*
+- **Left off the page by the draft.** The plate caption (pl1); the page has no plates. *(Proposal, from the draft, [02000](../prose/02000-candles-and-the-grain-of-wheat.md).)*
 
 ## Open and flags
 - The chapter has no year; the dates (4 June, 5 June, 20 June) rest on the earlier chapters for 1865. *(My reading, to confirm.)*
 - ¶20 settles that a canoe will be built "somehow or other" for the Mercy and the southwest exploration, put off "at the first fine days"; in II.1 ¶18 Pencroff proposes a canoe as if it were new: "would it not be proper, before going to explore, to build a canoe". Neither side is carded. *(Drafted.)*
 - ¶4: "a serious hunt would be made for these mouflons, whose presence had been noted during the exploration of mont Frankin". The print spells "Frankin" here; elsewhere in the chapter and in I.21 it is "Franklin". Not carded. *(Drafted.)*
+  - The page gives "Mount Franklin", White's form of the name ([R1121-107](../../plan/settled/ledger/2026-11-21.md)). *(Answered by the draft, [02000](../prose/02000-candles-and-the-grain-of-wheat.md); overturnable.)*
 - No Wikisource correction touches this chapter (texts/README.md lists I.12, II.20 and III.10 only). *(Drafted.)*
+
+## Next pass
+
+*(Proposal, from the fold-back: where the prose changes at the next drafting pass. The writer's reading comments join this list.)*
+
+1. **drift.** `Herbert found one day in the lining of his vest` (line 71), and again at line 77. "Veste" (¶33, ¶36) is a jacket, as the outline has it; "vest" in White's American can read as a waistcoat. Check White's own word in XX and give the jacket. Source: [R1121-103](../../plan/settled/ledger/2026-11-21.md). *(My reading, to confirm.)*
+
+Voice: no item. The draft's register follows the French, and the one texture finding on the chapter ("and" per sentence 0.43) was left as it stands (R1121-116, N5). Length: no item; the notes give the French's size, not a range (R1121-103). *(Proposal, from the fold-back.)*

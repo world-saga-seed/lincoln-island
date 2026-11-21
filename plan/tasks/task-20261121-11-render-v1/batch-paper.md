@@ -152,3 +152,12 @@ A fresh Sonnet agent, `prompt-invention-check.md`, on `inventions.md` (22 rows),
 - Row 16, reword: "The stalks have rotted away, and only the shells are left." A goose barnacle holds by its stalk, so with the stalks gone the crust would fall away, yet the page keeps the shells "packed" on the ball. **This touches settled gap item 4** ("a grey-white crust of dead shells, the stalks long gone", R1121-80), so it goes to the author.
 All three are prose changes, and the author asked to see any before it is made.
 - **Applied (R1121-120):** "with their bait untouched"; "he had seen the lens he made of two watch glasses"; and the barnacles as two kinds. Herbert now says: "Barnacles," then "And look here, among them: these are goose barnacles." His next line has "these few are of another kind, that hang by a stalk" and ends "nothing left but the shells, and a stump of the stalk, dried hard among the others." Gap item 4 and the outline are amended to match, and the bundles rebuilt. Re-check: banned 0, spelling 0, links 0. The clue (the barnacles; Herbert's "long in the sea, from far off") is kept word for word.
+
+## The fold-back
+
+Two fresh Opus agents, run together (their write sets did not overlap): `prompt-fold-back-neighbours.md` and `prompt-fold-back-01950.md`, 2026-11-21.
+- **01900:** three lines of the draft's terms and name forms folded into the notes. Next pass: 2 drift ("lay" for "se développait", ¶2; Cyrus's own fear, "n'être jamais secouru", given as "they would never be relieved", ¶22) and 1 voice (the ¶29 idiom).
+- **02000:** four lines folded into the notes; the "mont Frankin" flag answered; the outline's "Prospect Heights" corrected. Next pass: 1 drift ("vest" for "veste"; White has "waistcoat").
+- **01950:** the 22 inventions folded into the beats as proposals from the draft (21 lines), with two lore lines in the notes, and the R1121-109 line added to the outline. Next pass: 2 voice.
+- **The main session's check:** every Next pass quote resolves (3/3, 2/2, 1/1); links 0 broken; every added line is marked. It fixed the 01950 notes' names line ("Granite House", the islet) against `story/voice/names.md`, marked the 01900 seam line it found unmarked *(Proposal.)*, and marked R1121-109 and -115 applied.
+- **Length:** 01950 runs 2,719 words (`wc -w`) against about 2,500, a target. 01900 runs 3,274 and 02000 2,750.

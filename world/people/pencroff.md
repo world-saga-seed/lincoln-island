@@ -679,7 +679,26 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Sorte de nœud familier au marin, et qui a l’avantage de se maintenir toujours serré
   - He has become a true farmer, attached at heart to his harvests (III.9 ¶45). *(Drafted.)*
     - quote: Pencroff était devenu un vrai fermier, attaché de cœur à ses récoltes
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - He crossed the channel on the first day and knows its current; a seaman, he does not go out alone on the bar with the flood making, a rule he has kept all his life (XIX bis ¶7, 70). *(Drafted.)*
+    - quote: he had crossed that channel on the first day
+    - quote: against a rule he had kept all his life
+  - On 1 June he sees the float, keeps it from the others so as not to raise their hopes, takes Herbert aside, and promises to tell "to-morrow night at latest" if it is worth telling (XIX bis ¶9–19). *(Drafted.)*
+    - quote: I'll not have Mr. Smith and Mr. Spilett and Neb all hoping
+    - quote: If it is worth telling, I'll tell it, and to-morrow night at latest.
+  - He has put in at many good ports and never seen a glass float; he has scraped barnacles off many a ship's bottom (XIX bis ¶34, 42). *(Drafted.)*
+    - quote: I have put in at many good ports, my boy, and I have never seen the like.
+    - quote: I have scraped them off many a ship's bottom.
+  - His unspoken reckoning: a window of the ball for the shuttered house, or the finest float for his lines (XIX bis ¶39). *(Drafted.)*
+    - quote: it would be the finest float for his lines that a fisherman ever had; but he kept all this to himself
+  - On 2 June he saves Herbert from the current, and does not laugh after; at the fire he tells nothing more, for he let the boy stay out on the bar with the flood making, for the pleasure of laying the thing on the table himself (XIX bis ¶60, 61, 70). *(Drafted.)*
+    - quote: Pencroff threw himself after him
+    - quote: Pencroff did not laugh.
+    - quote: for the pleasure of laying the thing on the table with his own hands
+  - On 3 June: "Five of us and the picks, and we'd have had it"; then "the sea will give us something else" (XIX bis ¶75, 76). *(Drafted.)*
+    - quote: Five of us and the picks, and we'd have had it
+    - quote: The sea has taken, and the sea will give us something else.
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20, XIX bis
 - **Open:**
   - The days of the crossing: II.13 ¶17 plans a crossing of no more than forty-eight hours for the hundred and fifty miles, and the boat lands on the 13th at about noon after leaving at five on the morning of the 11th; on the way back the boat leaves Tabor at five on the 15th, the fire is seen about two on the night of 18 to 19, and II.15 ¶1 lands it at seven on 20 October "après quatre jours de voyage" (II.13 ¶17, ¶20, ¶50; II.14 ¶94, ¶105; II.15 ¶1). *(Drafted.)*
     - quote: il ne fallait pas plus de quarante-huit heures pour faire cette traversée de cent cinquante milles

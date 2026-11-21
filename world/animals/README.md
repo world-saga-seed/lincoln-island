@@ -10,6 +10,7 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Alectors](alectors.md) | the long-tailed gallinaceans of the poultry-yard |
 | [Apes of Granite-house](apes-of-granite-house.md) | the band of quadrumanes that took the dwelling |
 | [The austral whale](austral-whale.md) | the Cape whale found dead on the Wreck Point shore |
+| [The barnacles](barnacles.md) | acorn and goose barnacles on the glass float |
 | [Birds of prey](birds-of-prey.md) | the scavengers over the stranded whale |
 | [Black cocks](black-cocks.md) | the Mozambique-like cocks of the poultry-yard |
 | [Bronze-winged pigeons](bronze-winged-pigeons.md) | the forest pigeons Harbert points out |

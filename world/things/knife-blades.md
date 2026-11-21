@@ -29,7 +29,11 @@ Keywords: knives, couteaux, cutting edge, blade, tool, steel, hilt, whetstone
     - quote: j’aurais vite fait de fabriquer un arc et des flèches
   - Smith had said that the colonists did not even have the tools needed to make tools (I.13 ¶3). *(Drafted.)*
     - quote: Ils ne possédaient même pas les outils nécessaires à faire les outils
-- **Appears in:** I.13, I.15
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - Pencroff carries one of the two blades on 2 June, and saws blind with it at the cord under the float (XIX bis ¶22, 30). *(Drafted.)*
+    - quote: the sailor had his knife, one of the two blades made from Top's collar
+    - quote: sawed at it blindly a long while
+- **Appears in:** I.13, I.15, XIX bis
 - **Open:**
   - The text does not say that these blades cut the bow branches; I.13 ¶30 says only that the branches were cut, stripped and trimmed.
     - quote: furent coupées, effeuillées, taillées

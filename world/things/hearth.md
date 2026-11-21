@@ -24,4 +24,7 @@ Keywords: foyer, fireplace, flue, smoke, boyau, flat stones, embers
     - quote: Il plaça quelques morceaux de bois sous les cendres, de manière à retrouver du feu au retour
   - After the storm the drowned ashes were nothing but mud (I.8 ¶94). *(Drafted.)*
     - quote: Les cendres noyées n’étaient plus que vase
-- **Appears in:** I.4, I.5, I.7, I.8
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - The kitchen chimney smokes in the east-north-east wind of 2 June (XIX bis ¶21). *(Drafted.)*
+    - quote: and the chimney smoked
+- **Appears in:** I.4, I.5, I.7, I.8, XIX bis

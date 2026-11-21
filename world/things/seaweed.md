@@ -27,4 +27,7 @@ Keywords: varech, algues, sargasses, wrack, fucaceae, couch, bed, food, shore
     - quote: soude naturelle
   - Dried wrack, "warechs", is used with brushwood for a fire on the south-east beach (I.21 ¶20). *(Drafted.)*
     - quote: Un feu de broussailles et de warechs desséchés
-- **Appears in:** I.8, I.9, I.10, I.17, I.21
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - On 2 June a tangle of wrack, torn loose by the squalls, lies over the float on the bar (XIX bis ¶27). *(Drafted.)*
+    - quote: A tangle of wrack, torn loose by the squalls, lay over it
+- **Appears in:** I.8, I.9, I.10, I.17, I.21, XIX bis

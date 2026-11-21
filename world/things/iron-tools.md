@@ -28,4 +28,7 @@ Keywords: outils, tools, pics, pioches, haches, hachettes, marteaux, clous, tena
     - quote: le pic et la pioche achevèrent le dessin ogival
   - In June the tools, which were very rudimentary, are improved and completed (I.20 ¶26). *(Drafted.)*
     - quote: On perfectionna les outils, qui étaient fort rudimentaires
-- **Appears in:** I.15, I.16, I.17, I.18, I.19, I.20
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - Picks and shovels are kept in Granite House's storeroom; on 2 June Pencroff leaves them, since a man does not carry a pick to lift his lines (XIX bis ¶22). *(Drafted.)*
+    - quote: But a man does not carry a pick down a ladder to lift his lines
+- **Appears in:** I.15, I.16, I.17, I.18, I.19, I.20, XIX bis

@@ -23,4 +23,8 @@ Keywords: vêtements, habits, clothes, clothing, chaussures, shoes, laine, wool,
   - The clothes have lasted the winter but will not last to the next; skins of carnivores or wool of ruminants must be got at any price (I.22 ¶59). *(Drafted.)*
     - quote: avaient passé l’hiver, mais ils ne pourraient pas durer jusqu’à l’hiver prochain
     - quote: Peaux de carnassiers ou laine de ruminants
-- **Appears in:** I.19, I.20, I.22
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - By June their shoes are much worn; on the sands they go barefoot, trousers rolled to the knee, and dry their wet clothes on their backs by the fire (XIX bis ¶24, 69). *(Drafted.)*
+    - quote: took off their shoes, which were much worn
+    - quote: dried their clothes upon their backs
+- **Appears in:** I.19, I.20, I.22, XIX bis

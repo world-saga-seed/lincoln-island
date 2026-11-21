@@ -371,7 +371,10 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
   - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - On 2 June he asks the wet pair "what has the sea given you this morning?" (XIX bis ¶67). *(Drafted.)*
+    - quote: what has the sea given you this morning?
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20, XIX bis
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

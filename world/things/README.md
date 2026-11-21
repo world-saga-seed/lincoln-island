@@ -139,6 +139,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The furniture](the-furniture.md) | the tables, chairs, wardrobes and beds of Granite-house |
 | [The garniture](anchor-garniture.md) | the old canvas wrapped round the anchor cable at the hawse |
 | [The gimlets](gimlets.md) | three gimlets of the chest |
+| [The glass float](the-glass-float.md) | the ball of glass on the bar off the Mercy, lost on 2 June 1865 |
 | [The glass insulators](glass-insulators.md) | the glass supports of the telegraph wire |
 | [The glassblower’s pipe](glass-blowers-pipe.md) | the iron blowing tube of the glassworks |
 | [The glassware](glassware.md) | tumblers and bottles blown at the end of the pipe |

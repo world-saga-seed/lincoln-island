@@ -21,4 +21,7 @@ Keywords: meubles, mobilier, tables, chaises, armoires, lits, matelas, zostère,
     - quote: put diviser les fibres ligneuses du bois
   - The planks lay in the store, wood sawn into boards (I.22 ¶27). *(Drafted.)*
     - quote: Le bois, débité en planches, ne manquait pas dans le magasin
-- **Appears in:** I.20, I.22
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - On 2 June Smith, Spilett and Neb are at work indoors on the furnishing of the rooms (XIX bis ¶21). *(Drafted.)*
+    - quote: The engineer, the reporter and Neb were at work within, upon the furnishing of the rooms
+- **Appears in:** I.20, I.22, XIX bis

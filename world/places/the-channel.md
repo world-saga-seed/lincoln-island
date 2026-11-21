@@ -46,4 +46,22 @@ Keywords: canal, chenal, strait, current, jusant, ford, swim, tide, low water
     - quote: les sables mouvants du canal
   - The water of the channel is heaved up like a waterspout by the explosion of the torpedo (III.5 ¶1). *(Drafted.)*
     - quote: l’eau du canal s’était soulevée comme une trombe
-- **Appears in:** I.3, I.14, I.15, I.20, II.20, III.2, III.3, III.4, III.5, III.6
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - A sand bar lies off the mouth of the Mercy, on the coast side of the gut, a cable or two from the beach; at low water it is reached over the bared sands without crossing the gut (XIX bis ¶4, 26). *(Drafted.)*
+    - quote: on the coast side of this gut, a bar of sand lay bare, a cable or two from the beach
+    - quote: There was no need to cross the gut
+  - The squalls at the end of May reshape the shore near the Mercy: sand cut from the foot of a rock, a bank where there was none (XIX bis ¶3). *(Drafted.)*
+    - quote: Here the sand had been cut away from the foot of a rock, there a bank showed where there had been none before.
+  - The tides of 1 to 3 June: low water near first light on 1 June, toward eight on 2 June, mid-morning on 3 June; the evening ebb of 1 June falls after dark (XIX bis ¶3, 7, 20, 23, 71). *(Drafted.)*
+    - quote: The tide was near its lowest
+    - quote: The evening ebb fell after dark
+    - quote: Toward eight o'clock the ebb began to near its lowest.
+    - quote: Toward the middle of the morning, at low water
+  - The ebb scours the sands into hollows running toward the gut; on 2 June, in the retreat before the flood, the bottom goes from under Herbert in one, and the current turns him over and draws him seaward (XIX bis ¶60). *(Drafted.)*
+    - quote: the ebb had scoured the sands into hollows that ran down toward the gut, and in one of these the bottom went from under Herbert's feet
+  - On 2 June the backwash draws the freed float off the bar into the gut, and the channel's current carries it toward the islet's point (R1121-110) (XIX bis ¶62). *(Drafted.)*
+    - quote: the backwash drew the freed ball off the bar into the gut, and the current of the channel carried it toward the point of the islet
+  - On 3 June the bar has moved; where the float lay, the sand runs smooth and level to the gut, and not a thread of the net shows (XIX bis ¶72, 73). *(Drafted.)*
+    - quote: The bar had moved.
+    - quote: the sand ran smooth and level to the gut, and of the net not a thread showed
+- **Appears in:** I.3, I.14, I.15, I.20, II.20, III.2, III.3, III.4, III.5, III.6, XIX bis

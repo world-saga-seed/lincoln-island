@@ -19,4 +19,7 @@ Keywords: lentille, burning glass, watch glasses, verres de montre, sun fire, fi
     - quote: C’était le soleil qui avait fourni cette chaleur dont s’émerveillait Pencroff
   - The glasses were put back in the two watches before the climb (I.10 ¶19). *(Drafted.)*
     - quote: les verres avaient été remis aux montres de l’ingénieur et du reporter
-- **Appears in:** I.10
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - Pencroff saw the lens, and on 2 June thinks Smith could make a window of the glass float (XIX bis ¶39). *(Drafted.)*
+    - quote: he had seen the lens he made of two watch glasses, and he was sure that he could make a window of a ball
+- **Appears in:** I.10, XIX bis

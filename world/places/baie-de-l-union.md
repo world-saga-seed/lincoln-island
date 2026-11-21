@@ -60,4 +60,12 @@ Keywords: baie, grève, beach, shore, reefs, brisants, sandbanks, ebb, coast, ba
   - From the landing of Granite-house the guns command the whole bay (III.5 ¶23). *(Drafted.)*
     - quote: ces bouches à feu commandaient véritablement toute la baie de l’union
 - **On the page.**
-- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5, II.10, II.12, II.20, III.1, III.3, III.5, III.14
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - On 1 June, after a night of squalls, the wind is dropping but the sea still runs high in the bay and breaks in long rolls on the islet, under a low grey sky (XIX bis ¶1). *(Drafted.)*
+    - quote: the sea still ran high in Union Bay and broke in long rolls upon the islet
+  - On 2 June a cold rain comes on an east-north-east wind blowing straight into the bay; a squall comes out of the east across the bay with the flood, about an hour after low water (XIX bis ¶21, 58). *(Drafted.)*
+    - quote: a wind which had gone round to the east-north-east and blew straight into the bay
+    - quote: It came out of the east, across the bay, a grey wall of rain and wind.
+  - On 3 June the day is grey and still, the wind gone round to the south-west, the sea down (XIX bis ¶71). *(Drafted.)*
+    - quote: in the night the wind had gone round to the south-west, and the sea was down
+- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5, II.10, II.12, II.20, III.1, III.3, III.5, III.14, XIX bis

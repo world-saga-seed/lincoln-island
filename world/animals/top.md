@@ -231,4 +231,7 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - At the corral, lying quiet with his head on his paws, he gives no sign of alarm; later, held on a leash by Nab, he breaks it, barks furiously and runs towards the back of the corral, to the bank where the five bodies lie (III.12 ¶25, ¶58, ¶102, ¶107). *(Drafted.)*
     - quote: Top, couché à terre, sa tête allongée sur ses pattes, ne donnait aucun signe d’inquiétude
     - quote: Top, rompant violemment sa laisse, se mit à aboyer avec fureur
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4, III.5, III.6, III.7, III.9, III.10, III.11, III.12, III.14, III.15, III.19, III.20
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - On 1 to 3 June he stays with his master; on 2 June he lies at Smith's feet indoors (XIX bis ¶21). *(Drafted.)*
+    - quote: Top lay at his master's feet
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4, III.5, III.6, III.7, III.9, III.10, III.11, III.12, III.14, III.15, III.19, III.20, XIX bis

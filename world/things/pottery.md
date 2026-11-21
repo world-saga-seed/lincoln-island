@@ -43,4 +43,7 @@ Keywords: poterie, crockery, earthenware, pots, cooking vessels, pipe clay, terr
     - quote: Les colons, devenus potiers, ne firent pas autre chose que de la poterie
   - The rest of the pottery was carried to the Chimneys on 15 April (I.13 ¶51). *(Drafted.)*
     - quote: Le reste des poteries fut emporté
-- **Appears in:** I.13, I.17, I.20, I.22
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - Neb's pots are in use in the kitchen of Granite House in June 1865 (XIX bis ¶23). *(Drafted.)*
+    - quote: went back to his pots
+- **Appears in:** I.13, I.17, I.20, I.22, XIX bis

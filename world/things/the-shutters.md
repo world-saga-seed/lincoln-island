@@ -16,4 +16,7 @@ Keywords: volets, shutters, windows, facade, wind, rain, closure, winter
   - On 3 November the windows' shutters are shut, seen through curtains of foliage; the apes later push them back (II.6 ¶21, ¶43). *(Drafted.)*
     - quote: les fenêtres, dont les volets étaient clos
     - quote: dont ils avaient repoussé les volets
-- **Appears in:** I.19, I.22, II.6
+- **In XIX bis.** *(The inserted chapter, 01950; R1121-132.)*
+  - On 2 June the shutters are kept closed from first light against the rain on an east-north-east wind (XIX bis ¶21). *(Drafted.)*
+    - quote: from first light the thick shutters were kept closed
+- **Appears in:** I.19, I.22, II.6, XIX bis

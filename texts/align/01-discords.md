@@ -84,6 +84,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 1 of the outline puts the voices "in the dark"; the French of ¶1–¶13 says nothing of darkness and dates the cry to about four in the afternoon. *(Drafted.)*
   - outline: Voices in the dark of the basket say the balloon is falling; one man is addressed as Cyrus.
   - quote: vers quatre heures du soir, dans la journée du 23 mars 1865

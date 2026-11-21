@@ -121,6 +121,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 6 of the outline says the search begins on 19 February; the French says so too, but the French's own III.12 places the party's arrival near the corral at five in the evening of 19 February and Ayrton's finding that night, so the search cannot have begun "le jour même"; the outline carries the French's slip without a flag. *(My reading, to confirm.)*
   - outline: The search starts that very day, 19 February, and lasts a week
   - quote: Des recherches furent commencées le jour même, 19 février, et durèrent une semaine entière

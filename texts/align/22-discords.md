@@ -109,6 +109,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 9 of the outline has the sap "skimmed"; the French has a scum that rises, and only Nab's stirring. *(Drafted.)*
   - outline: The sap is heated in large earthen vessels and skimmed, and Nab stirs it with a wooden spatula.
   - quote: bientôt une écume monta à sa surface

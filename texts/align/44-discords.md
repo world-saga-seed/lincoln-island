@@ -118,8 +118,8 @@
   - white: one at Harvey, though without effect
 
 ### 24. condensed: fear that the islet was invaded (III.2 ¶82; White ¶54)
-- The French has the colonists ask whether the islet had been invaded and whether they ought to run to help; White gives only that they could not cross. *(Drafted.)*
-  - quote: L’îlot était-il donc envahi ?
+- The French sets out the silence (the firing has stopped, neither Ayrton nor Pencroff reappears) and two questions: was the islet invaded, and ought they to run to help? White condenses them to "they could not go to the assistance", keeping the fear of a descent from ¶81. *(Drafted.)*
+  - quote: L’îlot était-il donc envahi ? Ne fallait-il pas courir au secours d’Ayrton et de Pencroff ?
   - white: They could not go to the assistance of Ayrton or Pencroff
 
 ### 25. changed: Smith points to the sky (III.2 ¶93; White ¶65)
@@ -128,6 +128,8 @@
   - white: Smith did not answer, but he looked upwards
 
 ## Outline slips
+
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
 
 - Beat 3 of the outline: it states as fact that the islet is found deserted, where the French says only that it seemed certain after observation. *(Drafted.)*
   - outline: the islet is found deserted

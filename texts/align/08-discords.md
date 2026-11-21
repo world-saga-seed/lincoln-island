@@ -64,6 +64,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 1 of the outline makes Pencroff's one word a question; the French gives it as a cry with an exclamation mark, not a question. *(My reading, to confirm.)*
   - outline: Pencroff's one word to him is a question: is Cyrus alive.
   - quote: « Vivant ! » s’écria-t-il.

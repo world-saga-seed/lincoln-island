@@ -149,6 +149,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beats 7 and 9 call the corral's animals "sheep and goats"; the French says moufflons and goats. *(Drafted.)*
   - outline: the corral's sheep and goats need fodder
   - quote: le troupeau de mouflons et de chèvres était renfermé

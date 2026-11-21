@@ -169,6 +169,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 5 of the outline: the outline gives the judgement that the boat is on a reconnaissance and not a landing to Smith; in the French it is the narrator's. *(Drafted.)*
   - outline: Smith judges it a reconnaissance, not a landing, since a landing would bring more men.
   - quote: Leur but était, sans doute, d’opérer une première reconnaissance, mais non de débarquer

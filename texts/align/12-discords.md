@@ -116,6 +116,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 8 of the outline glosses "becs-rouges" as spoonbills; the French gives only the name. *(Drafted.)*
   - outline: pelicans, moorhens, spoonbills (becs-rouges)
   - quote: des canards sauvages, des pélicans, des poules d’eau, des becs-rouges

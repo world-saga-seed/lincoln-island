@@ -2,6 +2,8 @@
 
 *Labeller r. Beads corrected: none.*
 
+*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #7 ("Good Luck": White's settled English form of the boat's name; see SUMMARY.md). Later discords renumbered.*
+
 *Not aligned (main session): after "THE END." White prints a glossary of 92 entries, White ¶54 to ¶145 (AGOUTI to TUFA, and a last line "[Illustration: Lincoln Island]"), which the French has nowhere. It is the edition's addition, one for the whole book.*
 
 ### 1. changed: Serpentine Peninsula, "so far from the eruptive centre" (III.20 ¶2; White ¶2)
@@ -34,17 +36,12 @@
   - quote: de faire route à cent milles de là dans le nord-est
   - white: to come in this direction
 
-### 7. changed: Bonadventure becomes Good Luck (III.20 ¶38; White ¶36)
-- The French names the boat the Bonadventure; White calls it the Good Luck. *(Drafted.)*
-  - quote: c’était donc lui qui avait pris notre Bonadventure
-  - white: it was he who took our Good Luck
-
-### 8. softened: "the God of all mercies" becomes "the God of sinners" (III.20 ¶41; White ¶39)
+### 7. softened: "the God of all mercies" becomes "the God of sinners" (III.20 ¶41; White ¶39)
 - Smith asks that the God of all mercies receive Nemo's soul; White has "the God of sinners", which gives the prayer a different tone and sets Nemo among sinners. *(My reading, to confirm.)*
   - quote: que le dieu de toutes les miséricordes reçoive l’âme du capitaine Nemo
   - white: may the God of sinners receive the soul of Captain Nemo
 
-### 9. cut: the reef is to appear on the charts (III.20 ¶49; White ¶47)
+### 8. cut: the reef is to appear on the charts (III.20 ¶49; White ¶47)
 - The French says the reef would henceforth appear on the charts of the Pacific, which answers Smith's remark that Lincoln Island was on no map; White drops it. *(Drafted.)*
   - quote: cet écueil qui devait désormais figurer sur les cartes du Pacifique
   - white: this remaining reef

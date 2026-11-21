@@ -19,7 +19,7 @@ for nn, c, ns in rows:
     out.append(f'| {nn * 100:05d} | {cite(nn)} | ' + ' | '.join(str(c[k]) for k in KINDS) + f' | {sum(c.values())} | {ns} |')
 out.append('| **all** | | ' + ' | '.join(f'**{tot[k]}**' for k in KINDS) + f' | **{sum(tot.values())}** | **{sum(r[2] for r in rows)}** |')
 out += ['', '## Book-wide', '',
-        '- **The boat\'s name.** White calls the Bonadventure "Good Luck" in every chapter that names it, and says Pencroff chose the name (II.12), where the French gives it as his baptismal name. Some lists log it per chapter; it is one discord. *(Drafted.)*',
+        '- **The boat\'s name.** White calls the Bonadventure "Good Luck" in every chapter that names it, and says Pencroff chose the name (II.12), where the French gives it as his baptismal name. As a name it is a settled English form and is not counted (the phase 3 check dropped the per-chapter entries); what II.12 says of who chose it is counted there. *(Drafted.)*',
         '- **The glossary.** White III.20 ends with a glossary of 92 entries after "THE END." (White ¶54 to ¶145), the edition\'s own; not aligned. *(Drafted.)*',
         '- **No footnotes.** White prints none of Hetzel\'s footnotes, the Publisher\'s notes on the dates among them (II.17 n1, III.16 n1); the lists log them as cuts where they fall. *(Drafted.)*',
         '- **The names.** Herbert, Neb and Gideon for Harbert, Nab and Gédéon, and other settled English forms, are not counted. *(Drafted.)*',

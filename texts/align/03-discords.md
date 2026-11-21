@@ -94,6 +94,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 1 of the outline has Spilett promise Nab that they will find him alive; the French gives the words « Vivant ! » (¶9) to no named speaker. *(My reading, to confirm.)*
   - outline: Spilett promises Nab they will find him alive
   - quote: — Vivant !

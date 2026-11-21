@@ -129,6 +129,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 4 of the outline: "sledge" for the French's hurdle (claie). *(Drafted.)*
   - outline: Cyrus, Harbert and the reporter, hauling the sledge up the river
   - quote: traînant la claie et remontant la rivière

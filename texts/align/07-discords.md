@@ -2,6 +2,8 @@
 
 *Labeller d. Beads corrected: none.*
 
+*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #7 ("which was out": the English idiom keeps the sense). Later discords renumbered.*
+
 ### 1. cut: footnote n1, the petrels (I.7 ¶3 n1; White —)
 - The French footnote says petrels are sea birds that love storms; White renders the phrase as "Mother Cary’s chickens" with no note. *(Drafted.)*
   - quote: Oiseaux de mer qui se plaisent surtout au milieu des tempêtes.
@@ -32,27 +34,22 @@
   - quote: Nab avait poussé plus loin que la veille ses recherches sur le littoral
   - white: Neb, in his search, had pushed on so far that he had not been able to return
 
-### 7. changed: the ebbing sea "which was out" (I.7 ¶27; White ¶26)
-- The French says the sea was falling (ebbing); White says it was out. *(Drafted.)*
-  - quote: la mer, qui baissait alors
-  - white: the sea, which was out
-
-### 8. condensed: the storm's rattling shingle and the vapour rags (I.7 ¶27; White ¶26)
+### 7. condensed: the storm's rattling shingle and the vapour rags (I.7 ¶27; White ¶26)
 - The French describes the shingle roaring like cartloads of pebbles being emptied and the rain in rags of vapour along the coast; White keeps only the rain driven in clouds. *(Drafted.)*
   - quote: dont les galets bruissaient violemment, comme des tombereaux de cailloux qui se vident
   - white: —
 
-### 9. changed: "could belie his conjectures" becomes "had disproved" (I.7 ¶68; White ¶58)
+### 8. changed: "could belie his conjectures" becomes "had disproved" (I.7 ¶68; White ¶58)
 - The French says Top's arrival might give the lie to Pencroff's conjectures; White says the dog's cunning had disproved them. *(Drafted.)*
   - quote: l’arrivée de Top pouvait donner un démenti à ses conjectures
   - white: the dog’s cunning had disproved his conjectures
 
-### 10. cut: the new moon "in conjunction with the sun" (I.7 ¶71; White ¶60)
+### 9. cut: the new moon "in conjunction with the sun" (I.7 ¶71; White ¶60)
 - The French states that the moon, being new, is in conjunction with the sun; White has only "the new moon". *(Drafted.)*
   - quote: en conjonction avec le soleil
   - white: The new moon had not sufficient light to pierce the clouds.
 
-### 11. changed: five miles at four o'clock becomes eight (I.7 ¶79; White ¶66)
+### 10. changed: five miles at four o'clock becomes eight (I.7 ¶79; White ¶66)
 - The French estimates five miles covered by four in the morning, which fits the six miles of ¶81; White says eight. *(Drafted.)*
   - quote: une distance de cinq milles avait été franchie
   - white: they estimated the distance travelled as eight miles

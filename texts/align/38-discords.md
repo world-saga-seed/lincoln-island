@@ -209,6 +209,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 6 of section 6 says "A dozen bushels"; the French says about ten. *(Drafted.)*
   - outline: A dozen bushels sown yearly are enough to feed men and beasts.
   - quote: il suffisait de semer une dizaine de boisseaux

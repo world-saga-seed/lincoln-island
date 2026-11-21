@@ -139,6 +139,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 10 puts the fall "some hundred paces ahead"; the French says "quelques cents pas", a few hundred. *(Drafted.)*
   - outline: a waterfall is heard some hundred paces ahead, a natural dam.
   - quote: à quelques cents pas en amont

@@ -89,6 +89,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 9 of the outline gives the naming of the Mercy, Safety Island, Prospect Plateau and the Far-West forests to Pencroff; the French gives them to the party's excited imaginations. *(Drafted.)*
   - outline: Pencroff, delighted, then gives: the river that supplies drinking water
   - quote: Pencroff était enchanté de la tournure que prenaient les choses, et les imaginations, un peu surexcitées, eurent bientôt donné :

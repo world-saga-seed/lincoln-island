@@ -94,6 +94,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 3 gives Nemo's words "à un jour donné" as "at a fixed day"; the French means "on some day", in the future, and fixes no day. *(Drafted.)*
   - outline: With the treasure they can do good things "at a fixed day"
   - quote: Avec ce trésor, vous pourrez faire, à un jour donné, de bonnes choses.

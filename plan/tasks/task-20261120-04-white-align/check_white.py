@@ -56,6 +56,7 @@ def check(nn):
     outl = glob.glob(os.path.join(ROOT, 'story/outline', f'{int(nn) * 100:05d}-*.md'))
     outtext = norm(open(outl[0], encoding='utf-8').read()) if outl else ''
     probs, warns, n = [], [], 0
+    folded = 'Folded back' in open(p, encoding='utf-8').read()
     cur = None; in_slips = False
     for i, ln in enumerate(open(p, encoding='utf-8'), 1):
         s = ln.rstrip('\n')
@@ -91,7 +92,7 @@ def check(nn):
         elif what == 'white' and q not in ('—', '-'):
             if cur and q not in cur[1]:
                 (warns if q in whall else probs).append(f'{i}: White quote {"outside its cited ¶" if q in whall else "does not resolve"}: {q[:70]}')
-        elif what == 'outline' and q not in outtext:
+        elif what == 'outline' and q not in outtext and not folded:
             probs.append(f'{i}: outline words do not resolve: {q[:70]}')
     return n, probs, warns
 

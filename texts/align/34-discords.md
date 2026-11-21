@@ -214,6 +214,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 2 of the outline: it makes Pencroff install the lathe, where the French's "il" is ambiguous and Cyrus Smith installed the lathe himself in II.10 (31.md ¶6: "L’ingénieur installa un tour"). *(Drafted.)*
   - outline: Smith makes the pulleys, with a lathe that Pencroff installed, on Pencroff's advice.
   - quote: au moyen du tour qu’il avait installé, Cyrus Smith fabriqua les poulies nécessaires

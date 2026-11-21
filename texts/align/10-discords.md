@@ -109,6 +109,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 10 of the outline puts the glow in the west; the French says only "at a point of this horizon", though the cloud band is in the west. *(Drafted.)*
   - outline: A faint glow appears in the west, descending as the cloud rises
   - quote: Mais, en un point de cet horizon, une vague lueur parut soudain, qui descendait lentement, à mesure que le nuage montait vers le zénith.

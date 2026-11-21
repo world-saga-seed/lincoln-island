@@ -184,6 +184,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 11 of the outline gives to Smith a question the French puts in the narrator's voice. *(Drafted.)*
   - outline: Smith wonders if the cavern reaches the island's centre
   - quote: Quant à cette caverne que les colons exploraient alors, s’étendait-elle donc jusqu’au centre de l’île ?

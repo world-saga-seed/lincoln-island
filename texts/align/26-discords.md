@@ -119,6 +119,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 6 of the outline says game is gone from the fringe; the French says only the furred game (gibier de poil) is gone. *(Drafted.)*
   - outline: game is gone from this fringe but birds swarm
   - quote: le gibier de poil ne se montrait plus sur cette lisière

@@ -116,6 +116,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beats 1 and 12 of the outline give both "the flight lasted five days" and "Of five men leaving on 20 March, four were thrown ... on 24 March", with no note that the French itself disagrees: twenty to twenty-four is four days, and the sea is seen "cinq jours après". *(Drafted.)*
   - outline: the flight lasted five days
   - quote: Ce fut cinq jours après seulement, qu’une éclaircie laissa voir l’immense mer

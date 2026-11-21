@@ -139,6 +139,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 5 of the outline: it gives 8 November for the cannon trial without noting that III.4 dates Nab's find of the cylinder, which this chapter opens on, to 30 November. *(My reading, to confirm.)*
   - outline: Pencroff, on 8 November, says the armament being finished they must try the range
   - quote: c’était le 8 novembre

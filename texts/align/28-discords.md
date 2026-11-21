@@ -74,6 +74,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 4 of the outline makes the hibiscus cord "some twenty fathoms"; the French has several twenties of fathoms (quelques vingtaines), which is more. *(Drafted.)*
   - outline: with some twenty fathoms of light hibiscus cord
   - quote: quelques vingtaines de brasses d’une légère corde d’hibiscus

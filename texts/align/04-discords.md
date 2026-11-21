@@ -100,6 +100,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 8 of the outline says the raft is at the river mouth "within two hours"; the French says it arrived "before two", that is before two o'clock, the hour being one at the bend. *(Drafted.)*
   - outline: within two hours the raft is at the river mouth
   - quote: avant deux heures, il arrivait à l’embouchure

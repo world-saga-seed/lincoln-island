@@ -134,6 +134,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 7 of the outline: it says the prisoner falls on a "raw duck"; the French has only "one of the ducks" Harbert had killed, shown after he refused cooked meat. *(Drafted.)*
   - outline: he refuses cooked meat but falls on a raw duck
   - quote: le marin lui ayant montré un des canards qu’Harbert avait tués

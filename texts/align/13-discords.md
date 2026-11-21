@@ -2,6 +2,8 @@
 
 *Labeller e. Beads corrected: 20 and 21 (White ¶19, "Suddenly his face brightened", renders French ¶23, not ¶22; French ¶22 has no rendering).*
 
+*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #14 (soup and spiced ham: conventional renderings). Later discords renumbered.*
+
 ### 1. condensed: tailor's assistant on state ships (I.13 ¶8; White ¶5)
 - Pencroff was an assistant tailor on the ships of the state in the French; White has an assistant tailor on board ship. *(Drafted.)*
   - quote: aide-tailleur sur les bâtiments de l’état
@@ -67,37 +69,32 @@
   - quote: Bonté du ciel ! Est-ce du tabac ?
   - white: Ah, I know! It’s tobacco!
 
-### 14. changed: pot-au-feu becomes soup, and the capybara ham a spiced ham (I.13 ¶57; White ¶49)
-- The supper is Nab's agouti pot-au-feu, which the chapter heading calls the first, and an aromatised capybara ham; White has agouti soup and a spiced ham. *(Drafted.)*
-  - quote: un pot-au-feu d’agouti, un jambon de cabiai aromatisé
-  - white: some agouti soup, a spiced ham
-
-### 15. changed: the Southern Cross is placed at the zenith (I.13 ¶58; White ¶50)
+### 14. changed: the Southern Cross is placed at the zenith (I.13 ¶58; White ¶50)
 - The French has the circumpolar constellations shining in the southern zenith, the Cross among them; White has the Cross itself riding in the zenith above them. *(Drafted.)*
   - quote: Au zénith austral, les constellations circompolaires resplendissaient
   - white: in the zenith, shining resplendent above the circumpolar constellations, rode the Southern Cross.
 
-### 16. cut: the Cross greeted from Mount Franklin, and the lunar dawn (I.13 ¶58; White ¶50)
+### 15. cut: the Cross greeted from Mount Franklin, and the lunar dawn (I.13 ¶58; White ¶50)
 - White drops that this is the Cross the engineer had saluted a few days before on the summit of Mount Franklin, and the silvering of the horizon he calls the lunar dawn. *(Drafted.)*
   - quote: cette Croix du Sud que l’ingénieur, quelques jours auparavant, saluait à la cime du mont Franklin
   - white: —
 
-### 17. condensed: the three places to measure the distance from (I.13 ¶65; White ¶55)
+### 16. condensed: the three places to measure the distance from (I.13 ¶65; White ¶55)
 - White reduces the American and Australian continents and the principal archipelagoes of the Pacific to "its locality". *(Drafted.)*
   - quote: soit du continent américain, soit du continent australien, soit des principaux archipels du Pacifique
   - white: we must find out its locality.
 
-### 18. condensed: the acacia thorn (I.13 ¶69; White ¶58)
+### 17. condensed: the acacia thorn (I.13 ¶69; White ¶58)
 - White drops that the pivot of the wooden compass was a strong acacia thorn from the dead wood of the woodpile. *(Drafted.)*
   - quote: une forte épine d’acacia, que fournit le bois mort du bûcher
   - white: two little flat sticks which he fastened together with a thorn
 
-### 19. cut: the Mercy was too deep to cross (I.13 ¶70; White ¶58)
+### 18. cut: the Mercy was too deep to cross (I.13 ¶70; White ¶58)
 - White drops that the best station, the south-facing shore, would need crossing the Mercy, then deep. *(Drafted.)*
   - quote: il eût fallu traverser la Mercy, alors profonde, et c’était une difficulté
   - white: But as the sea horizon was hidden from this point by Claw Cape, the engineer determined to make his observation from Prospect Plateau
 
-### 20. changed: the plateau edge facing north-west and south-east (I.13 ¶72; White ¶59)
+### 19. changed: the plateau edge facing north-west and south-east (I.13 ¶72; White ¶59)
 - The edge they stand on runs north-west to south-east along the Mercy, and they go up its left bank; White says the edge faced the southeast. *(Drafted.)*
   - quote: ils vinrent se placer sur la lisière qui s’orientait nord-ouest et sud-est
   - white: went to the edge of the plateau which faced the southeast

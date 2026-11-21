@@ -50,3 +50,6 @@
 | 2026-11-20 | agent, Sonnet: labeller p | phase 3 (White discords) | 05200 to 05500 | 24318 (side-by-side) | the four side-by-side files and outlines | 161,003 | 24 | 4.4 |
 | 2026-11-20 | agent, Sonnet: labeller q | phase 3 (White discords) | 05600, 05700 | 14828 (side-by-side) | the two side-by-side files and outlines | 119,661 | 11 | 3.3 |
 | 2026-11-20 | agent, Sonnet: labeller r | phase 3 (White discords) | 05900 to 06200 | 28369 (side-by-side) | the four side-by-side files and outlines | 179,370 | 24 | 4.3 |
+| 2026-11-21 | agent, Haiku: finder f1 | phase 3 (the check) | 31 discords, 01 to 31 | — | the sampled discords and their French and White | 97,845 | 24 | 2.7 |
+| 2026-11-21 | agent, Haiku: finder f2 | phase 3 (the check) | 31 discords, 32 to 62 | — | the sampled discords and their French and White | 107,461 | 16 | 2.7 |
+| 2026-11-21 | agent, Sonnet: critic | phase 3 (the check) | 11 contested, 12 re-read | — | critic-sample, the finders' reports, the lists and texts | 79,929 | 14 | 1.3 |

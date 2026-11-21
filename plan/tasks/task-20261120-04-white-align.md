@@ -5,8 +5,8 @@
 - **Region:** writes `texts/align/` (the aligner's beads and the side-by-side files), the discord lists, `texts/align/NN-discords.md` (R1120-43), and this task's folder. Reads `texts/fr-1875/`, `texts/white-1876/`, `story/outline/`.
 - **Wave:** none.
 - **Start hash:** fdb14c1, 2026-11-20.
-- **End hash:** (on close)
-- **Status:** Labelling done; the finder's check next.
+- **End hash:** (this commit)
+- **Status:** Closed.
 
 ## Steps
 
@@ -44,7 +44,10 @@
 - 2026-11-20 The outline slips of the 59 lists back so far (33, R1120-41) are folded back into `story/outline/`: guesses in the French restored as guesses (00100, 00300, 04400, 04500), speakers the French leaves unnamed left unnamed (00300, 00800, 02200, 04500), numbers and words put back (00400, 01700, 02100, 02500, 02600, 02800, 03000, 03400, 03600, 03800), and the French's own discords given a pointer to the timeline or notes where they are set out (00200, 02900, 03800, 04700, 05500). `check_outlines.py` passes.
 - 2026-11-20 q back (III.14, III.15): 68 discords, 2 outline slips, both folded back (05700: the cavern question is the narrator's; ¶52's "neuf heures un quart" comes before ¶49's 9:47, Verne's slip, now flagged); 119,661 tokens, 11 calls, 3.3 min; passes the checker. White drops III.14 ¶30 to ¶41 whole, the passage on why the island's winters are cold.
 - 2026-11-20 r back (III.17 to III.20): 78 discords, 4 outline slips, all folded back (05900: "some day" for "à un jour donné"; the gesture is Smith's; no "afternoon" in the French; 06000: mouflons, not sheep); 179,370 tokens, 24 calls, 4.3 min; passes the checker. All 62 lists are in: 1,341 discords (548 cut, 517 changed, 184 condensed, 63 softened, 29 addition) and 39 outline slips, every one folded back. `texts/sum_discords.py` writes `texts/align/SUMMARY.md`, with a book-wide section ("Good Luck", the glossary, the footnotes, the names, the source's faults). The glossary is noted at the head of `62-discords.md`.
+- 2026-11-21 The check. One discord per chapter drawn by seed (`sample.md`). Two Haiku finders: f2 used its verdicts as asked (25 sound, 6 contested); f1 turned them about (its "finding" meant confirmed), and read by content contested 5 (`report-f1.md`, `report-f2.md`). A fresh Sonnet critic judged the 11: 5 stand, 1 recut (III.2 #24, reworded), 5 drop as word choices that keep the sense (I.7 #7, I.13 #14, I.19 #2, I.21 #6, III.20 #7 "Good Luck"); it re-read 12 the finders passed and found all sound (`report-critic.md`). The main session dropped the five, and with "Good Luck" the same entry in III.4, III.6 and III.14, keeping II.12's (who chose the name); the lists' heads say so. 285,235 tokens. The slips sections are marked folded back, and `check_white.py` no longer asks their old outline words to resolve.
 
 ## Resolution
 
-(On close.)
+Closed 2026-11-21. All four acceptance items are met: 62 lists, 1,333 discords (548 cut, 509 changed, 184 condensed, 63 softened, 29 addition), every one citing a French paragraph and quoting both texts or marking White's silence; every quote resolves (`check_white.py`, 0 problems); the check is logged; the tokens are in `plan/records/tokens.md`. 39 outline slips were folded back (R1120-41). Phase 3 cost 3,108,011 tokens: 2,822,776 for the labellers and 285,235 for the check, under the 4.5 M cap (R1120-42).
+
+The check's rate: 5 of the 62 sampled discords (about 8 per cent) were word choices, not departures; about a hundred more such entries may stand among the 1,333. None was a false fact. *(My reading, to confirm.)*

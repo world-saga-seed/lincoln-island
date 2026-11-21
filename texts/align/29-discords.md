@@ -74,6 +74,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 4 of the outline repeats "defended on three sides by water" and then lists four sides (north-west, north, east, south); the French itself says "trois côtés" and lists four, so the outline carries an unflagged count that its own list contradicts. *(My reading, to confirm.)*
   - outline: The plateau is already defended on three sides by water
   - quote: Le plateau se trouvait déjà défendu sur trois côtés par des cours d’eau

@@ -124,6 +124,8 @@
 
 ## Outline slips
 
+*Folded back into `story/outline/` by the main session (R1120-41); the "outline:" lines quote the outline as it stood before.*
+
 - Beat 3 of the outline: it says Ayrton made a promise to report incidents; the French gives the narrator's judgement that he would not fail to, with no promise. *(Drafted.)*
   - outline: Ayrton's promise to report any incident
   - quote: Ayrton, si quelque incident survenait, ne négligerait pas d’en informer les habitants de Granite-house

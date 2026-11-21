@@ -56,6 +56,8 @@ At the foot of the wall the two companions took off their shoes, which were much
 
 The tide was out, and from the river's mouth the bared sands of the channel stretched toward the islet, ribbed by the ebb and shining with water. And on the coast side of the gut, where the current still ran fast, the bar rose a little above them. There was no need to cross the gut; the two walked out over the wet sand, with the rain in their faces, and in a few minutes they stood beside the thing.
 
+"Back before the turn, my boy," said Pencroff, from old habit, with a look at the gut.
+
 A tangle of wrack, torn loose by the squalls, lay over it, and Pencroff dragged it away. It was a ball of glass, almost hidden under the shells.
 
 Pencroff knelt down beside it in the sand. About a third of it stood above the bar, and the rest was buried, so that it showed above the sand as the back of a turtle shows above the sea. Over all its upper part lay a crust of grey-white shells, dead and empty, packed one against another. Here and there a shell had broken away, and there the glass showed through, dark green, like the glass of a bottle. From under the crust, on the side toward the gut, a dark cord came out of the sand, rotten and swollen with water, with the meshes of a net choked with sand along it; and it ran down again into the bar.

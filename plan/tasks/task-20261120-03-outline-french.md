@@ -40,6 +40,7 @@ Chapter `NNNNN` is the French chapter in book order, in steps of 100: 00100 is I
 - 2026-11-20 Wave 2 back. e (01200 to 01500): 149,080 tokens, 24 calls, 7.4 min. f (01600 to 01900): 129,204 tokens, 22 calls, 5.7 min. Both pass `check_outlines.py`, and both reports' and timelines' quotes resolve. e notes short French phrases left in the English prose, uncited (R1120-29). These are held for the critic pass, not edited by hand. f's "claie" in I.17 ¶37 is the hurdle of I.13 and I.15 (`world/things/hurdle.md`). The running total is 810,685 tokens for 19 chapters.
 - 2026-11-20 Wave 3 back. g (02000 to 02300): 146,523 tokens, 27 calls, 7.3 min. h (02400 to 02700): 151,157 tokens, 23 calls, 6.2 min. Both pass. g's scratch script was overwritten by h's in the shared scratch folder, and g re-ran its check under another name. The prompt now gives each agent its own scratch folder, as the workflow's step 2 says. The running total is 1,108,365 tokens for 27 chapters.
 - 2026-11-20 Wave 4 back. i (02800 to 03100): 134,984 tokens, 24 calls, 5.8 min. j (03200 to 03500): 142,412 tokens, 21 calls, 6.6 min. Both pass, each in its own scratch folder. The running total is 1,385,761 tokens for 35 chapters.
+- 2026-11-20 Wave 5 back. k (03600 to 03900): 147,776 tokens, 22 calls, 7.0 min. l (04000 to 04300): 147,653 tokens, 27 calls, 6.8 min. Both pass. l's returned text garbled one reference ("II.19 ¶92 of III.1"); the saved report gives it as III.1 ¶92 and says so. The running total is 1,681,190 tokens for 43 chapters.
 
 ## Resolution
 

@@ -1,0 +1,187 @@
+# Ayrton's story of the Duncan (outline)
+
+*Chapter 03900: the French II.17 (`texts/fr-1875/39.md`). Before: 03800. After: 04000. Third person, past tense; Verne's narrator. Every beat is marked (Drafted.): it is what the French holds. Ayrton's own telling (beats 4 to 8) is in the first person in the French; it is outlined here in the third.*
+
+## Outline
+
+### 1. Apart, and the colonists' questions (II.17 ¶1–¶9)
+
+- His last words confirm the colonists' presentiments: a guilt perhaps expiated before men but not absolved by his conscience. *(Drafted.)*
+  - quote: dont sa conscience ne l’avait pas encore absous
+- After the jaguar scene he does not return to the forest and no longer leaves the Granite-house enclosure. *(Drafted.)*
+  - quote: il ne quitta plus l’enceinte de Granite-house
+- The plate's caption, set after ¶1, names him. *(Drafted.)*
+  - quote: Ayrton.
+  - at: II.17 pl1
+- They agree his secret will never be asked. *(Drafted.)*
+  - quote: son secret ne lui serait jamais demandé
+- Common life goes on: Cyrus and Spilett work together as chemists and physicists; Spilett hunts with Harbert; Nab and Pencroff work at stables, poultry yard and corral. *(Drafted.)*
+  - quote: tantôt chimistes, tantôt physiciens
+- The unknown works apart, takes no meals with them and sleeps under the plateau's trees. *(Drafted.)*
+  - quote: couchant sous les arbres du plateau
+- Pencroff asks why he asked for help from his fellows and threw the document into the sea; Cyrus says he will tell them, perhaps sooner than they think. *(Drafted.)*
+  - quote: Pourquoi a-t-il jeté ce document à la mer
+  - quote: Peut-être plus tôt que vous ne le pensez, Pencroff
+- The narrator says the day of confessions is near. *(Drafted.)*
+  - quote: le jour des aveux était proche
+
+### 2. The request to live at the corral (II.17 ¶10–¶26)
+
+- On 10 December, a week after his return to Granite-house, the unknown comes to Cyrus calm and humble. *(Drafted.)*
+  - quote: Le 10 décembre, une semaine après son retour à Granite-house
+- He blushes when Cyrus wants to ask a question, and Cyrus, seeing he fears questions about his past, says they are friends and not only companions. *(Drafted.)*
+  - quote: mais nous sommes des amis
+- He asks leave to live at the corral four or five miles away at the foot of the mountain, to tend the animals. *(Drafted.)*
+  - quote: à quatre ou cinq milles d’ici, au pied de la montagne
+- Cyrus says the corral has only stables, and he answers that it is good enough. *(Drafted.)*
+  - quote: Ce sera assez bon pour moi, monsieur
+- Cyrus says they will not oppose him and he will always be welcome at Granite-house, and they will see to his lodging. *(Drafted.)*
+  - quote: toujours le bienvenu à Granite-house
+- Cyrus insists on the word friend on purpose. *(Drafted.)*
+  - quote: qui insistait à dessein sur cette cordiale appellation
+- He thanks Cyrus and withdraws. *(Drafted.)*
+  - quote: Merci, monsieur
+
+### 3. The corral house and the evening of 20 December (II.17 ¶27–¶32)
+
+- Cyrus tells the others and they decide to build a comfortable wooden house at the corral. *(Drafted.)*
+  - quote: une maison de bois que l’on rendrait aussi confortable que possible
+- The colonists go that day with tools, and the house is ready before the week is out, about twenty feet from the stables with a view of the mouflon flock of over eighty head. *(Drafted.)*
+  - quote: plus de quatre-vingts têtes
+- Furniture is made, and arms, munitions and tools are carried there. *(Drafted.)*
+  - quote: couchette, table, banc, armoire, coffre
+- He has not seen the house, working on the plateau; thanks to him all the land is ploughed and ready for sowing. *(Drafted.)*
+  - quote: toutes les terres étaient labourées et prêtes à être ensemencées
+- The installations are finished on 20 December and he says he will sleep there that very evening. *(Drafted.)*
+  - quote: C’était le 20 décembre que les installations avaient été achevées au corral
+- At eight that evening the colonists, who left him alone to spare him a farewell, are in the great hall of Granite-house; a light knock sounds and he enters. *(Drafted.)*
+  - quote: Il était alors huit heures
+
+### 4. "It is my duty to speak" (II.17 ¶33–¶41)
+
+- He says that before he leaves they should know his story. *(Drafted.)*
+  - quote: il est bon que vous sachiez mon histoire
+- Cyrus says he need not speak; he answers that it is his duty. *(Drafted.)*
+  - quote: C’est mon devoir de parler
+- He refuses to sit and stands in a corner of the hall in half-shadow, bareheaded, arms crossed. *(Drafted.)*
+  - quote: Il était tête nue, les bras croisés sur la poitrine
+- The plate's caption shows him so. *(Drafted.)*
+  - quote: Il était tête nue, les bras croisés.
+  - at: II.17 pl2
+- He tells it like one forcing himself, and his hearers never interrupt. *(Drafted.)*
+  - quote: que ses auditeurs n’interrompirent pas une seule fois
+
+### 5. The Duncan, the document and the traitor (II.17 ¶42–¶60)
+
+- On 20 December 1854 the steam yacht Duncan of the Scottish laird Lord Glenarvan anchors at Cape Bernouilli on Australia's west coast at the thirty-seventh parallel. *(Drafted.)*
+  - quote: Le 20 décembre 1854, un yacht de plaisance à vapeur, le Duncan
+- Aboard are Glenarvan, his wife, an army major, a French geographer, and a girl and boy who are the children of Captain Grant, whose ship Britannia was lost with all hands a year before. *(Drafted.)*
+  - quote: dont le navire le Britannia avait péri corps et biens, une année auparavant
+- The Duncan is commanded by Captain John Mangles with a crew of fifteen. *(Drafted.)*
+  - quote: monté par un équipage de quinze hommes
+- Six months before, the Duncan had picked up in the Irish Sea a bottle with a document in English, German and French. *(Drafted.)*
+  - quote: une bouteille renfermant un document écrit en anglais, en allemand et en français
+- It said three men of the Britannia, Grant and two of his men, survived on a land whose latitude was given and whose longitude was washed out. *(Drafted.)*
+  - quote: dont la longitude, effacée par l’eau de mer, n’était plus lisible
+- The latitude was 37° 11′ south. *(Drafted.)*
+  - quote: Cette latitude était celle de 37° 11′ australe
+- The Admiralty hesitating, Glenarvan sails with his family and the Grant children by Glasgow, the Strait of Magellan and Patagonia. *(Drafted.)*
+  - quote: L’amirauté anglaise ayant hésité à entreprendre cette recherche
+- He crosses Patagonia on the thirty-seventh parallel, finds no trace and re-embarks on 13 November. *(Drafted.)*
+  - quote: il se rembarqua le 13 novembre
+- The Duncan searches Tristan da Cunha and Amsterdam in vain and reaches Cape Bernouilli on 20 December 1854. *(Drafted.)*
+  - quote: les îles Tristan d’Acunha et d’Amsterdam
+- Glenarvan lands, an Irish farmer gives hospitality, and a servant of the farmer says he is a Scot and one of Grant's companions. *(Drafted.)*
+  - quote: je suis un des compagnons du capitaine Grant, un des naufragés du Britannia
+- The man is Ayrton, boatswain of the Britannia, who thought himself sole survivor, having been separated from Grant when the ship broke on the reefs. *(Drafted.)*
+  - quote: qu’il était lui, Ayrton, seul survivant du Britannia
+- He says the Britannia was lost on Australia's east coast, not the west, and Grant, if alive, is a prisoner of the natives to be sought on the other side. *(Drafted.)*
+  - quote: c’est sur l’autre côte qu’il faut le chercher
+- The Irishman, who had employed him more than a year, vouches for him; Glenarvan decides to cross Australia on the thirty-seventh parallel under Ayrton's guidance, while the Duncan under the second, Tom Austin, goes to Melbourne. *(Drafted.)*
+  - quote: tandis que le Duncan, aux ordres du second, Tom Austin, allait se rendre à Melbourne
+- They leave on 23 December 1854. *(Drafted.)*
+  - quote: Ils partirent le 23 décembre 1854
+- The teller says Ayrton was a traitor: he had tried to lead the crew to mutiny and Captain Grant landed him on 8 April 1852 on Australia's west coast. *(Drafted.)*
+  - quote: le capitaine Grant l’avait débarqué, le 8 avril 1852, sur la côte ouest de l’Australie
+- Since then he has been chief of escaped convicts under the name Ben Joyce, and wanted to seize the Duncan and make her a Pacific pirate. *(Drafted.)*
+  - quote: sous le nom de Ben Joyce, le chef de convicts évadés
+  - quote: faire de ce yacht un pirate du Pacifique
+
+### 6. The letter and the New Zealand coast (II.17 ¶61–¶68)
+
+- The teller pauses, his voice trembling, and goes on. *(Drafted.)*
+  - quote: Sa voix tremblait, mais il reprit en ces termes
+- The expedition across Australia is unlucky, led by Ayrton, with his convict band before and behind. *(Drafted.)*
+  - quote: tantôt précédé, tantôt suivi de sa bande de convicts
+- The Duncan, sent to Melbourne for repair, is to be lured away; Ayrton gets a letter ordering her to the east coast at Twofold Bay, where he had arranged to meet his accomplices. *(Drafted.)*
+  - quote: à la baie Twofold
+- Unmasked at the moment of handing it over, he flees but takes the letter, and two days later reaches Melbourne. *(Drafted.)*
+  - quote: Ayrton parvint à s’en emparer, et, deux jours après, il arrivait à Melbourne
+- Austin takes the letter and sails; next day Ayrton learns the ship is going to the east coast of New Zealand, because of an error by the French geographer who wrote the letter. *(Drafted.)*
+  - quote: par une erreur providentielle du géographe français
+- Ayrton tries to revolt and is locked up. *(Drafted.)*
+  - quote: Il voulut se révolter. On l’enferma
+- The Duncan cruises there until 3 March, when Ayrton hears the caronades and Glenarvan comes aboard. *(Drafted.)*
+  - quote: Le Duncan resta à croiser sur cette côte jusqu’au 3 mars
+
+### 7. Glenarvan's side, and the abandonment on Tabor (II.17 ¶69–¶79)
+
+- At Twofold Bay Glenarvan finds no Duncan; the Melbourne telegraph says she left on the 18th for an unknown destination. *(Drafted.)*
+  - quote: Duncan parti depuis le 18 courant pour une destination inconnue
+- He thinks the yacht a pirate ship, takes a merchant ship to New Zealand's west coast and crosses on the thirty-seventh parallel; on the other coast he finds the Duncan, which had waited five weeks. *(Drafted.)*
+  - quote: qui l’attendait depuis cinq semaines
+- The date is 3 March 1855; Glenarvan wants Ayrton to say what he knows of Grant, and Ayrton stays silent. *(Drafted.)*
+  - quote: On était au 3 mars 1855
+- Glenarvan says Ayrton will be handed to the English authorities at the first port. *(Drafted.)*
+  - quote: on le remettrait aux autorités anglaises
+- Lady Glenarvan overcomes his resistance; Ayrton, in exchange for his words, asks to be left on a Pacific island, and Glenarvan consents. *(Drafted.)*
+  - quote: l’abandonner sur une des îles du Pacifique
+- Ayrton tells his life and it is clear he knew nothing since the day Grant landed him. *(Drafted.)*
+  - quote: il ne savait rien depuis le jour où le capitaine Grant l’avait débarqué
+- The Duncan reaches Tabor, where Grant and his two men are found on the thirty-seventh parallel, and Ayrton is to take their place. *(Drafted.)*
+  - quote: on retrouva le capitaine Grant et ses deux hommes, précisément sur ce trente-septième parallèle
+- Glenarvan's words to Ayrton: he will be alone but not lost or forgotten; he knows where he is and where to find him. *(Drafted.)*
+  - quote: je sais où vous trouver
+- The Duncan sails away on 18 March 1855. *(Drafted.)*
+  - quote: On était au 18 mars 1855[n1]
+- Hetzel's note says these events are taken from the Captain Grant novel, warns of a discord in the dates, and says the true dates could not be given at first. *(Drafted.)*
+  - quote: une certaine discordance dans les dates
+  - at: II.17 n1
+
+### 8. Alone on Tabor (II.17 ¶80–¶84)
+
+- Ayrton has munitions, arms, tools and seeds, and the house built by Captain Grant. *(Drafted.)*
+  - quote: la maison construite par l’honnête capitaine Grant
+- He repents, works and prays for two or three years, watching for a ship. *(Drafted.)*
+  - quote: Pendant deux ans, trois ans, ce fut ainsi
+- He sinks into savagery and cannot say whether after two or four years of abandonment. *(Drafted.)*
+  - quote: après deux ou quatre ans d’abandon
+- He says Ayrton, or Ben Joyce, and he are one. *(Drafted.)*
+  - quote: nous ne faisons qu’un
+
+### 9. The pardon and the hand (II.17 ¶85–¶92)
+
+- The colonists rise, deeply moved. *(Drafted.)*
+  - quote: Il est difficile de dire à quel point ils étaient émus
+- Cyrus tells him he has been a great criminal but has expiated his crimes; he is pardoned, and asked to be their companion. *(Drafted.)*
+  - quote: Ayrton, vous êtes pardonné
+- Ayrton steps back; Cyrus holds out his hand; Ayrton seizes it, weeping. *(Drafted.)*
+  - quote: de grosses larmes coulèrent de ses yeux
+- The plate's caption gives Cyrus's words. *(Drafted.)*
+  - quote: « Voici ma main, » dit l’ingénieur.
+  - at: II.17 pl3
+- Asked if he will live with them, he asks for more time alone in the corral house, and Cyrus agrees. *(Drafted.)*
+  - quote: laissez-moi seul dans cette habitation du corral
+
+### 10. The document he never threw (II.17 ¶93–¶101)
+
+- As Ayrton goes, Cyrus asks why, wishing to live alone, he threw into the sea the document that put them on his track. *(Drafted.)*
+  - quote: pourquoi avez-vous donc jeté à la mer ce document
+- Ayrton seems not to know of any document, and Cyrus explains: a bottle giving Tabor's exact position. *(Drafted.)*
+  - quote: qui paraissait ne pas savoir ce dont on lui parlait
+- After thinking, he says he never threw a document into the sea. *(Drafted.)*
+  - quote: Je n’ai jamais jeté de document à la mer
+- Pencroff cries out, and Ayrton repeats never. *(Drafted.)*
+  - quote: Jamais ? s’écria Pencroff
+- Ayrton bows, goes to the door and leaves. *(Drafted.)*
+  - quote: s’inclinant, regagna la porte et partit

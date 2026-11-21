@@ -1,0 +1,79 @@
+# Timeline fragment L (04000 to 04300)
+
+- 1866-12-20, evening and night: the talk about the bottle after Ayrton goes (II.18 ¶1–¶14). *(My reading, to confirm.)*
+  - quote: Le lendemain, — 21 décembre,
+- 1866-12-21: the colonists find Ayrton gone to the corral; Smith and Spilett at the Chimneys workshop (II.18 ¶15–¶16). *(Drafted.)*
+  - quote: Le lendemain, — 21 décembre,
+- 1867-01 (month): the year 1867 begins; summer work (II.18 ¶25). *(Drafted.)*
+  - quote: Le mois de janvier arriva. C’était l’année 1867 qui commençait.
+- 1867-01-10: Smith tells his companions of the telegraph (II.18 ¶29). *(Drafted.)*
+  - quote: Ce fut le 10 janvier
+- 1867-01, after the 10th: the wire drawn, "quelques jours" (II.18 ¶39). *(My reading, to confirm.)*
+  - quote: Il ne fallut que quelques jours pour mener à bien cette besogne
+- 1867-02-06: the poles are begun (II.18 ¶46). *(Drafted.)*
+  - quote: Ce fut le 6 février que fut commencée la plantation des poteaux
+- 1867-02, between the 6th and the 12th: the wire is stretched (II.18 ¶46). *(My reading, to confirm.)*
+  - quote: Quelques jours après, le fil était tendu
+- 1867-02-12: the telegraph is in use; Ayrton answers from the corral (II.18 ¶49). *(Drafted.)*
+  - quote: Le tout fut complètement installé le 12 février
+- 1867-02 and after: the fine season; the fourth wheat harvest (II.18 ¶52). *(Drafted.)*
+  - quote: La quatrième récolte de blé avait été admirable
+- 1867-03, end: the great summer heats end (II.18 ¶68). *(Drafted.)*
+  - quote: Les grandes chaleurs de l’été se terminèrent avec le mois de mars
+- 1867-03-21, morning: the "snow" of sea birds (II.18 ¶69). *(My reading, to confirm: the month is March from ¶68 and ¶82.)*
+  - quote: On put même croire, un matin, — le 21, — que les premières neiges avaient fait leur apparition.
+- 1867-03-26: two years since the landing (II.18 ¶82). *(Drafted.)*
+  - quote: c’était le 26 mars, et il y avait deux ans
+- 1867-04, first week: the talk of leaving the island, and a west gale of five or six days (II.19 ¶4, ¶37). *(Drafted.)*
+  - quote: un jour de la première semaine d’avril
+- 1867-04-16, morning: the Bonadventure leaves Port Balloon; night at anchor under the promontory (II.19 ¶40–¶43). *(Drafted.)*
+  - quote: Le 16 avril, au matin, tous les colons, accompagnés de Top, étaient embarqués
+- 1867-04-17: the west coast; midday at the Falls River mouth; evening anchorage on the north shore (II.19 ¶44, ¶46, ¶53). *(Drafted.)*
+  - quote: Le lendemain, 17 avril, Pencroff appareilla dès le point du jour
+- 1867-04-18, 8 a.m. under way; 10 a.m. the talk of the tide and the fire (II.19 ¶55, ¶69). *(My reading, to confirm: the day follows from ¶53's evening and ¶54's "ce matin-là".)*
+  - quote: À huit heures du matin, le Bonadventure appareillait
+- 1867-04-18, full moon (II.19 ¶73). *(My reading, to confirm: the day follows the line above.)*
+  - quote: c’est aujourd’hui pleine lune
+- 1866-10-19/20, the night of the fire on the plateau (as spoken of, II.19 ¶83, ¶88; the year 1866 is not stated and follows from the Tabor voyage being before the winter of II.20 ¶73 and the "cinq mois" of II.19 ¶27). *(My reading, to confirm.)*
+  - quote: dans la nuit du 19 au 20 octobre
+- 1867-04-18, about 6 p.m.: the Bonadventure is abreast of the Shark Gulf with the ebb running (II.20 ¶1). *(My reading, to confirm: the day.)*
+  - quote: il était environ six heures quand le Bonadventure fut par le travers du golfe
+- 1867-04-19, about 7 a.m.: entry into the Shark Gulf (II.20 ¶6). *(My reading, to confirm.)*
+  - quote: Vers sept heures du matin
+- 1867-04-19, about 2 p.m.: out of the gulf (II.20 ¶26). *(My reading, to confirm.)*
+  - quote: en sortit vers deux heures du soir
+- 1867-04-19, about 5 p.m.: anchor at the Mercy mouth, three days after leaving (II.20 ¶30–¶31). *(My reading, to confirm.)*
+  - quote: à cinq heures, l’ancre du Bonadventure mordait le fond de sable à l’embouchure de la Mercy
+  - quote: Il y avait trois jours que les colons avaient quitté leur demeure
+- 1867-04-25, evening: Smith lists the mysteries on Prospect Heights (II.20 ¶37). *(Drafted.)*
+  - quote: le 25 avril, pendant la soirée
+- 1867-04, about the middle: Ayrton comes to live at Granite-house (II.20 ¶73). *(Drafted.)*
+  - quote: Ce qu’il fit vers la mi-avril
+- 1867-05: the bad days come (II.20 ¶71). *(Drafted.)*
+  - quote: les mauvais jours étaient venus avec le mois de mai
+- 1867-06 to 1867-09: the four hard winter months (II.20 ¶78). *(Drafted.)*
+  - quote: juin, juillet, août et septembre
+- 1867-10, second half: Ayrton goes back for some days to the corral (II.20 ¶78). *(Drafted.)*
+  - quote: dans la seconde quinzaine d’octobre, il retourna passer quelques jours au corral
+- 1867-10-17, about 3 p.m.: Harbert's photograph of Union Bay (II.20 ¶82). *(Drafted.)*
+  - quote: le 17 de ce mois d’octobre, vers trois heures du soir
+- 1867-10-17: the ship is seen on the plate and then through the telescope (II.20 ¶92; III.1 ¶1). *(Drafted.)*
+  - quote: ce jour même, — 17 octobre, —
+- 1867-10-17, about 3 p.m.: Ayrton is sent for by telegraph (III.1 ¶17, ¶37). *(My reading, to confirm: an hour before four.)*
+  - quote: Vers quatre heures, — une heure après qu’il avait été mandé, —
+- 1867-10-17, about 4 p.m.: Ayrton arrives at Granite-house (III.1 ¶37). *(Drafted.)*
+  - quote: Vers quatre heures, — une heure après qu’il avait été mandé, —
+- 1867-10-17, about 5 p.m.: the brig is nearly behind Claw Cape (III.1 ¶57). *(Drafted.)*
+  - quote: il était déjà cinq heures du soir
+- 1867-10-17, about 7:10 p.m.: sunset (III.1 ¶92). *(My reading, to confirm: twenty minutes before half past seven.)*
+  - quote: Le soleil avait disparu depuis vingt minutes environ
+- 1867-10-17, about 7:30 p.m.: the brig eight miles off (III.1 ¶92). *(Drafted.)*
+  - quote: Il était sept heures et demie alors
+- 1867-10-17, night, after nightfall: the cannon shot and the anchor (III.1 ¶99–¶104). *(Drafted.)*
+  - quote: Six secondes s’étaient écoulées entre la lumière et le coup
+- Discord, flagged and not reconciled: Pencroff's forecast of the cape "entre midi et une heure" (II.19 ¶72) against "il était environ six heures" abreast of the gulf (II.20 ¶1).
+  - quote: nous serons par le travers du cap entre midi et une heure
+  - quote: il était environ six heures quand le Bonadventure fut par le travers du golfe
+- Discord, flagged and not reconciled: Ayrton's move to Granite-house "vers la mi-avril" (II.20 ¶73) against May's bad days (II.20 ¶71).
+  - quote: Ce qu’il fit vers la mi-avril
+  - quote: les mauvais jours étaient venus avec le mois de mai

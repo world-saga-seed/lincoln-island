@@ -1,6 +1,6 @@
 # Timeline
 
-*The dated and datable events of the French, in book order, merged by the main session from the phase 2 outliners' fragments (`plan/tasks/task-20261120-03-outline-french/timeline-*.md`), each line as its outliner wrote it. A date the text states is marked *(Drafted.)*; a date worked out from "the next day" and the like is marked *(My reading, to confirm.)* with the quote it rests on. Where the chapters give no year the outliners wrote the year as a reading, or left it open as "----"; it is not filled in here. Where the text disagrees with itself, both lines stand side by side, flagged; nothing is reconciled (R1120-33). The cross-chapter discords the outliners could not see from inside their spans are listed at the end.*
+*The dated and datable events of the French, in book order, merged by the main session from the phase 2 outliners' fragments, each line as its outliner wrote it. A date the text states is marked *(Drafted.)*; a date worked out from "the next day" and the like is marked *(My reading, to confirm.)* with the quote it rests on. Where the chapters give no year the outliners wrote the year as a reading, or left it open as "----"; it is not filled in here. Where the text disagrees with itself, both lines stand side by side, flagged; nothing is reconciled (R1120-33). The cross-chapter discords the outliners could not see from inside their spans are listed at the end.*
 
 ## 00100 to 00200 (I.1 to I.2)
 

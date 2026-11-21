@@ -2,7 +2,7 @@
 
 *Labeller e. Beads corrected: 20 and 21 (White ¶19, "Suddenly his face brightened", renders French ¶23, not ¶22; French ¶22 has no rendering).*
 
-*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #14 (soup and spiced ham: conventional renderings). Later discords renumbered.*
+*Dropped after the phase 3 check (the critic's judgement; `plan/archive/task-20261120-04-white-align/report-critic.md`): the labeller's #14 (soup and spiced ham: conventional renderings). Later discords renumbered.*
 
 ### 1. condensed: tailor's assistant on state ships (I.13 ¶8; White ¶5)
 - Pencroff was an assistant tailor on the ships of the state in the French; White has an assistant tailor on board ship. *(Drafted.)*

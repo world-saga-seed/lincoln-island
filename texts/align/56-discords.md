@@ -2,7 +2,7 @@
 
 *Labeller q. Beads corrected: 4 to 22 (White's paragraphs run a little behind the machine's pairing from bead 4, and White drops French ¶30–¶41 outright, so beads 18 to 21 are paired with the wrong White text; the true pairing is: French ¶7 with White ¶7, ¶8 with White ¶8–¶9, ¶9 with ¶10, ¶10–¶11 with ¶11–¶12, ¶12–¶13 with ¶13–¶14, ¶14 with ¶15, ¶15 with ¶16, ¶16–¶17 with ¶17–¶18, ¶18 with ¶18, ¶19–¶20 with ¶19, ¶21 with ¶20, ¶22–¶23 with ¶21, ¶24–¶25 with ¶22, ¶26 with ¶23, ¶27–¶29 and ¶42 with ¶24, ¶30–¶41 with nothing).*
 
-*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #3 ("Good Luck", as above). Later discords renumbered.*
+*Dropped after the phase 3 check (the critic's judgement; `plan/archive/task-20261120-04-white-align/report-critic.md`): the labeller's #3 ("Good Luck", as above). Later discords renumbered.*
 
 ### 1. changed: colony "raised to a metropolis" (III.14 ¶2; White ¶2)
 - In the French the colony would depend on the mother country; White says it would be raised to a metropolis. *(Drafted.)*

@@ -2,7 +2,7 @@
 
 *Labeller n. Beads corrected: 59–60 (White ¶58 renders the first part of ¶72 only; the Mercy bridge and the six convicts' danger, the rest of ¶72, sit in White ¶59 with ¶73).*
 
-*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #3 ("Good Luck", as above). Later discords renumbered.*
+*Dropped after the phase 3 check (the critic's judgement; `plan/archive/task-20261120-04-white-align/report-critic.md`): the labeller's #3 ("Good Luck", as above). Later discords renumbered.*
 
 ### 1. softened: "exterminated" becomes "disposed of" (III.4 ¶6; White ¶6)
 - Smith says the chief thing is that the pirates have been exterminated; White has them "disposed of". *(Drafted.)*

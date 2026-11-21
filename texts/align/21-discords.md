@@ -2,7 +2,7 @@
 
 *Labeller g. Beads corrected: beads 5, 6 and 7 are out by a paragraph (French ¶8 and ¶9 both go with White ¶4; French ¶10 with White ¶5; French ¶11–¶13 with White ¶6). Bead 14 and bead 15 are also out (French ¶21 runs from White ¶15 "While eating" into White ¶16; French ¶22 is White ¶17). Beads 21 and 22 are out (French ¶36 begins at "The coral insects" in White ¶23 and ends in White ¶24). Bead 35 is not an addition: White ¶38 renders the last sentences of French ¶55.*
 
-*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #6 ("millions upon millions": hyperbole for hyperbole). Later discords renumbered.*
+*Dropped after the phase 3 check (the critic's judgement; `plan/archive/task-20261120-04-white-align/report-critic.md`): the labeller's #6 ("millions upon millions": hyperbole for hyperbole). Later discords renumbered.*
 
 ### 1. cut: the overflow runs out by the well (I.21 ¶6; White ¶3)
 - The French says the reservoir's overflow ran off by the well to the sea; White says it "emptied itself into the sea". *(Drafted.)*

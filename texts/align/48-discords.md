@@ -2,7 +2,7 @@
 
 *Labeller o. Beads corrected: none.*
 
-*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #3 ("Good Luck", as above). Later discords renumbered.*
+*Dropped after the phase 3 check (the critic's judgement; `plan/archive/task-20261120-04-white-align/report-critic.md`): the labeller's #3 ("Good Luck", as above). Later discords renumbered.*
 
 ### 1. cut: the sun at the Tropic of Capricorn (III.6 ¶2; White ¶2)
 - The French says the sun was reaching the Tropic of Capricorn and giving the longest days; White keeps the longest days and drops the sun's position. *(Drafted.)*

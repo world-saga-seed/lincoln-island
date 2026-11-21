@@ -2,7 +2,7 @@
 
 *Labeller g. Beads corrected: none.*
 
-*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #2 ("certainly": the French is already flat). Later discords renumbered.*
+*Dropped after the phase 3 check (the critic's judgement; `plan/archive/task-20261120-04-white-align/report-critic.md`): the labeller's #2 ("certainly": the French is already flat). Later discords renumbered.*
 
 ### 1. condensed: the ladder "makes access impossible" (I.19 ¶7; White ¶6)
 - Cyrus says that once drawn up the ladder will make access to the dwelling impossible; White says only that they can pull it up after them. *(Drafted.)*

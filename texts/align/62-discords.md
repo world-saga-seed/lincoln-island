@@ -2,7 +2,7 @@
 
 *Labeller r. Beads corrected: none.*
 
-*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #7 ("Good Luck": White's settled English form of the boat's name; see SUMMARY.md). Later discords renumbered.*
+*Dropped after the phase 3 check (the critic's judgement; `plan/archive/task-20261120-04-white-align/report-critic.md`): the labeller's #7 ("Good Luck": White's settled English form of the boat's name; see SUMMARY.md). Later discords renumbered.*
 
 *Not aligned (main session): after "THE END." White prints a glossary of 92 entries, White ¶54 to ¶145 (AGOUTI to TUFA, and a last line "[Illustration: Lincoln Island]"), which the French has nowhere. It is the edition's addition, one for the whole book.*
 

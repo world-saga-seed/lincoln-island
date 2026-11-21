@@ -2,7 +2,7 @@
 
 *Labeller d. Beads corrected: none.*
 
-*Dropped after the phase 3 check (the critic's judgement; `plan/tasks/task-20261120-04-white-align/report-critic.md`): the labeller's #7 ("which was out": the English idiom keeps the sense). Later discords renumbered.*
+*Dropped after the phase 3 check (the critic's judgement; `plan/archive/task-20261120-04-white-align/report-critic.md`): the labeller's #7 ("which was out": the English idiom keeps the sense). Later discords renumbered.*
 
 ### 1. cut: footnote n1, the petrels (I.7 ¶3 n1; White —)
 - The French footnote says petrels are sea birds that love storms; White renders the phrase as "Mother Cary’s chickens" with no note. *(Drafted.)*

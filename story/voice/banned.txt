@@ -1,0 +1,15 @@
+# Words and phrases the narration never uses.
+# One per line, matched as whole words, case ignored.
+# A line starting "re:" is a regular expression. Lines starting "#" are comments.
+# Run:  python3 tools/tells.py story/prose/*.md --banned story/voice/banned.txt
+
+# Words wrong for the narrator's time and place
+# British spelling; White is American throughout (R1121-21)
+re:\b(colo|hono|labo|favo|harbo|neighbo|vigo|odo|rigo|humo|endeavo|behavio|armo|clamo|ardo|parlo|rumo|splendo|tumo|vapo)ur(s|ed|ing|able|ably|ful|less)?\b
+# Stock phrases a model reaches for
+I realized
+something shifted
+couldn't help but
+re:\bnot [a-z]+ but [a-z]+\b
+
+# Words that explain what the page only shows

@@ -2,7 +2,7 @@
 
 ## Questions held for the next session
 
-- For the author: the insert's names (the French Harbert, Gédéon, Nab, or White's Herbert, Gideon, Neb), and whether the drafting rules take White's American spelling (phase 5, T1).
+- None.
 
 ## Stages
 

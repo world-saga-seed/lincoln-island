@@ -7,7 +7,7 @@
 - **Wave:** none.
 - **Start hash:** 9557496, 2026-11-21.
 - **End hash:** the commit "Phase 5: closed", 2026-11-21.
-- **Status:** Done, 2026-11-21, but for the author's answer on the insert's names and spelling.
+- **Status:** Closed, 2026-11-21.
 
 ## Steps
 
@@ -44,4 +44,4 @@ Phase 5 is done but for one question. The 20 renders, from the cards and the Fre
 
 Against the acceptance: 1, every passage rendered and set beside the French and White; 2, every finding quotes the render and the French, and the quotes resolve; 3, the tells logged with quotes and kind; 4, the voice chapter approved (R1121-16); 5, the tokens logged.
 
-For the author: which names the insert uses (the French Harbert, Gédéon, Nab, or White's Herbert, Gideon, Neb), and whether the drafting rules take White's American spelling.
+The author ruled the two questions it left: the page uses White's names, the cards the French (R1121-20); the page takes White's American spelling, the "-our" forms banned (R1121-21). Both are in `story/voice/white.md` and `story/voice/banned.txt`, which flags none of White's own text.

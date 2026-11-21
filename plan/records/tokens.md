@@ -97,3 +97,4 @@
 | 2026-11-21 | agent, Sonnet: period critic | phase 5 | the 20 renders | — | the renders, the period flags, White I.5, Webster 1864 by search | 55,394 | 7 | 0.8 |
 | 2026-11-21 | agent, Sonnet: facts and politics critic | phase 5 | the 20 side files | — | the side files | 65,952 | 6 | 0.9 |
 | 2026-11-21 | agent, Sonnet: facts critic, calibration run | phase 5 | the 20 side files, five errors planted | — | the planted side files | 63,893 | 5 | 0.7 |
+| 2026-11-20 | session | main session, this transcript whole: phases 3 to 5, the clue register |  |  | transcript 35407339-c21e-4215-b919-d831b1220510.jsonl | 165,651,532 (in 1,462 · cache write 1,397,625 · cache read 163,732,136 · out 520,309) | 612 | 420 |

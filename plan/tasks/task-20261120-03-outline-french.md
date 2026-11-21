@@ -7,7 +7,7 @@
 - **Wave:** none.
 - **Start hash:** 9ceda4b, 2026-11-20.
 - **End hash:** (on close)
-- **Status:** Running: the remaining chapters, four a span.
+- **Status:** Closed, 2026-11-20 (the Resolution; the status line was left stale until 2026-11-21).
 
 ## Numbering
 

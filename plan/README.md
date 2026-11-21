@@ -37,3 +37,6 @@ Every line Claude adds to the notes carries a mark: see `CLAUDE.md` rule 2. A gr
 
 - **The author is another session.** Questions go to it by message, a few at a time; its answers go on the ledger marked "the author's" (`BRIEF.md`, "Who plays the author"). It may not authorize edits to `CLAUDE.md` or settings; those are the human's (R1120-21).
 - **`existing/kingston-1875/` is closed until phase 12b** (R1120-07): no reading, no agent reading list.
+- **A critic's zero is believed only after a planted run.** When a critic finds nothing, plant a few errors of the kinds it is asked for (a softening, a changed figure, an added cause, a lost figure, an anachronism) in copies, and run a fresh critic on them before the zero is reported (phase 5: 5 of 5 found; `plan/tasks/task-20261121-07-calibration/calibration-plants.md`).
+- **A Clues section is not a complete list of clues.** Before any cut, check the line against `plan/reread-hooks.md` and the French, not the card's own Clues (phase 4: a reviewer's agreed prune set held I.9 ¶105).
+- **Agents' report files are refused by the tool.** Prompts say to put the report in the final message; the main session saves it from the transcript (phases 4 and 5).

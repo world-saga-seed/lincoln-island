@@ -78,6 +78,8 @@
 
 ## Drift
 
+- 01950: `"We had it, Pencroff," said Herbert. "For an hour."` (line 149) is now R1121-123's line; the prose takes it at the refine (phase 11). The Next pass list has it as item 3.
+
 *Where a draft says something the notes no longer say. Delete a row when the page matches.*
 
 | Chapter | The page says | The notes say | Since |

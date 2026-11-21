@@ -43,7 +43,7 @@
 
 - **Kind:** plain. This is the chapter's point (R1121-36).
 - **Text returns:** with all five and the picks they would have had it. They lost it because they were two and spent their hour reading it. Must not return: that the sea was simply too strong for anyone.
-- **True:** "Five of us and the picks, and we'd have had it." / "We had it, Pencroff. For an hour." `story/outline/01950-the-float-in-the-bar.md § 7. The smooth sand (3 June, the next low water)` (R1121-57, R1121-58).
+- **True:** "Five of us and the picks, and we'd have had it." / "Yes," answered Herbert; "and it lay under our hands the whole time the sea was out." (R1121-123) `story/outline/01950-the-float-in-the-bar.md § 7. The smooth sand (3 June, the next low water)` (R1121-57, R1121-58).
 - **Planted in:** 01950, beats 4 and 7.
 
 ### K4. Why is the float lost?

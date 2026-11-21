@@ -97,7 +97,7 @@
 - *(Proposal, from the draft, [01950](../prose/01950-the-float-in-the-bar.md).)* The pretext is the lines once more; they go out by the lines, and the chapter ends as they go back across the sand to them.
 - *(Settled R1121-23, R1121-65.)* The bar has shifted. There is nothing to find, not even the net. *(Settled R1121-68.)* No one ever finds a piece of the glass.
 - *(Settled R1121-57.)* Pencroff, at the smooth sand: "Five of us and the picks, and we'd have had it."
-- *(Settled R1121-58.)* Harbert: "We had it, Pencroff. For an hour." It turns Pencroff's "would have" back on the hour they spent reading.
+- *(Settled R1121-123.)* Harbert: "Yes," answered Herbert; "and it lay under our hands the whole time the sea was out." Plain, as Verne's people talk. It turns Pencroff's "would have" back on the hour of low water, which the page has already shown going by in the reading.
 - *(Settled R1121-34.)* The grain of wheat later that month (I.20 ¶34) is the pair. The chapter does not point to it.
 
 ## Clues

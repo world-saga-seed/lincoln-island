@@ -15,4 +15,4 @@
 
 (Filed as they arrive, by chapter and kind.)
 
-1. **01950, line.** `"We had it, Pencroff," said Herbert. "For an hour."` It does not read as Verne; it is a line White would add. Now that the hour is on the page, the answer can be plainer. Filed: R1121-122, and the Next pass list of 01950 (item 3). The author asked for tries for the refine; the choice is pending.
+1. **01950, line.** `"We had it, Pencroff," said Herbert. "For an hour."` It does not read as Verne; it is a line White would add. Now that the hour is on the page, the answer can be plainer. Filed: R1121-122, and the Next pass list of 01950 (item 3). The author chose try A (R1121-123): "Yes," answered Herbert; "and it lay under our hands the whole time the sea was out." Prose at the refine.

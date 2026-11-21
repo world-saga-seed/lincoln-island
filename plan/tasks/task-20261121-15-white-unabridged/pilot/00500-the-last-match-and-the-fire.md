@@ -40,7 +40,7 @@ Pencroff, who was an inveterate smoker, felt in his vest for the box, which he w
 
 “Not a thing, Pencroff.”
 
-The sailor, followed by the boy, walked out, briskly rubbing his forehead.
+The sailor, followed by the boy, walked out, briskly scratching his forehead.
 
 On the sand, among the rocks, by the bank of the river, both of them searched with the utmost care, but without result. The box was of copper, and had it been there, they must have seen it.
 
@@ -72,7 +72,7 @@ The reporter, when he came up, seated himself upon a rock, without speaking. Fai
 
 The reporter at length gave the history of their search. Neb and he had followed the coast for more than eight miles, and, consequently, far beyond the point where the balloon had made the last plunge but one, which was followed by the disappearance of the engineer and Top. The shore was deserted. No trace, no mark. Not a recently turned stone, not a trace upon the sand, not a footprint, was upon all that part of the shore. It was evident that no inhabitant frequented that portion of the coast. The sea was as deserted as the land; and it was there, at some hundreds of feet from shore, that the engineer had found his grave.
 
-At that moment Neb rose, and in a voice which showed how he still struggled against despair, exclaimed:—
+At that moment Neb rose, and in a voice which showed how the feelings of hope still held out in him, exclaimed:—
 
 “No! no! he is not dead! No! it is impossible! He! nonsense! It might happen to me, or to any other, but never to him. He is a man who can get out of anything!”
 
@@ -80,7 +80,7 @@ Then his strength failing him, he murmured, “But I am used up.”
 
 Herbert ran to him and cried:—
 
-“Neb, we will find him; God will give him back to us; but you, you must be famishing; do eat something.”
+“Neb, we will find him; God will give him back to us; but you, you must be famishing; do eat something, I beg of you.”
 
 And while speaking the lad offered the poor negro a handful of shell-fish—a meagre and insufficient nourishment enough.
 
@@ -122,11 +122,11 @@ He took it, and, followed by his companions, regained the Chimneys. This tiny bi
 
 Pencroff took the bit of paper and crouched down before the fire-place, where some handfuls of grass, leaves, and dry moss had been placed under the faggots in such a way that the air could freely circulate and make the dry wood readily ignite. Then Pencroff shaping the paper into a cone, as pipe-smokers do in a high wind, placed it among the moss. Taking, then, a slightly rough stone and wiping it carefully, with beating heart and suspended breath, he gave the match a little rub. The first stroke produced no effect, as Pencroff fearing to break off the phosphorus had not rubbed hard enough.
 
-“Ho, I won’t be able to do it,” said he; “my hand shakes—the match will miss—I can’t do it—I don’t want to try!” And, rising, he besought Herbert to undertake it.
+“No, I won’t be able to do it,” said he; “my hand shakes—the match will miss—I can’t do it—I will not!” And, rising, he charged Herbert to take his place.
 
 Certainly, the boy had never in his life been so affected. His heart beat furiously. Prometheus, about to steal the fire from heaven, could not have been more excited.
 
-Nevertheless he did not hesitate, but rubbed the stone with a quick stroke. A little sputtering was heard, and a light blue flame sprung out and produced a pungent smoke. Herbert gently turned the match, so as to feed the flame, and then slid it under the paper cone. In a few seconds the paper took fire, and then the moss kindled. An instant later, the dry wood crackled, and a joyous blaze, fanned by the vigorous breath of the sailor, shone out from the darkness.
+Nevertheless he did not hesitate, but rubbed the stone with a quick stroke. A little sputtering was heard, and a faint bluish flame sprung out and produced a pungent smoke. Herbert gently turned the match, so as to feed the flame, and then slid it into the paper cone. In a few seconds the paper took fire, and then the moss kindled. An instant later, the dry wood crackled, and a joyous blaze, fanned by the vigorous breath of the sailor, shone out from the darkness.
 
 “At length,” cried Pencroff, rising, “I never was so excited in my life!”
 
@@ -134,14 +134,14 @@ It was evident that the fire did well in the fireplace of flat stones. The smoke
 
 Pencroff began at once to utilize the fire by preparing something more nourishing than a dish of lithodomes. Two dozen eggs were brought by Herbert, and the reporter, leaning back in a corner, watched these proceedings without speaking. A triple thought held possession of his mind. Did Cyrus still live? If alive, where was he? If he had survived his plunge, why was it he had found no means of making his existence known? As to Neb, he roamed the sand. He was no more than a body without a soul.
 
-Pencroff, who knew fifty-two ways of cooking eggs, had no choice at this time. He contented himself with placing them in the hot cinders and letting them cook slowly. In a few minutes the operation was finished, and the sailor invited the reporter to take part in the supper. This was the first meal of the castaways upon this unknown coast. The hard eggs were excellent, and as the egg contains all the elements necessary for man’s nourishment, these poor men found them sufficient, and felt their strength reviving.
+Pencroff, who knew fifty-two ways of cooking eggs, had no choice at this time. He contented himself with placing them in the hot cinders and letting them cook slowly. In a few minutes the operation was finished, and the sailor invited the reporter to take part in the supper. This was the first meal of the castaways upon this unknown coast. The hard eggs were excellent, and as the egg contains all the elements necessary for man’s nourishment, these poor men did very well on them, and felt their strength reviving.
 
-Unfortunately, one was absent from this repast. If the five prisoners who had escaped from Richmond had all been there, under those piled-up rocks, before that bright and crackling fire upon that dry sand, perhaps they would have had nothing but thanks to render to heaven! But the most ingenious, as well as the most learned—he who was undoubtedly their chief, Cyrus Smith—alas! was missing, and his body had not even obtained burial.
+Ah! if only one had not been absent from this repast! If the five prisoners who had escaped from Richmond had all been there, under those piled-up rocks, before that bright and crackling fire upon that dry sand, perhaps they would have had nothing but thanks to render to heaven! But the most ingenious, as well as the most learned—he who was undoubtedly their chief, Cyrus Smith—alas! was missing, and his body had not even obtained burial.
 
 Thus passed the 25th of March. The night was come. Outside they heard the whistling of the wind, the monotonous thud of the surf, and the deafening grinding of the pebbles on the beach, as the waves drove them up and drew them back.
 
-The reporter had retired to the end of a dark passage, after having briefly noted the events of the day—the first sight of this new land, the loss of the engineer, the exploration of the shore, the incidents of the matches, etc.; and, overcome by fatigue, he was enabled to find some rest in sleep.
+The reporter had retired to the end of a dark passage, after having briefly noted the events of the day—the first sight of this new land, the loss of the engineer, the exploration of the shore, the incident of the matches, etc.; and, overcome by fatigue, he was enabled to find some rest in sleep.
 
-Herbert soon fell asleep. The sailor, dozing, with one eye open, passed the night by the fire, on which he kept heaping fuel.
+Herbert soon fell asleep. The sailor, keeping watch with one eye open, passed the night by the fire, on which he kept heaping fuel.
 
 One only of the castaways did not rest in the Chimneys. It was the inconsolable, the despairing Neb, who, during the whole night, and in spite of his companions’ efforts to make him take some rest, wandered upon the sands calling his master.

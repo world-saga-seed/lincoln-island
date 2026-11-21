@@ -30,6 +30,7 @@
 - 2026-11-20 The projection: about 33 k tokens a labeller plus 5.4 per word of the side-by-side text (420,646 words for the book): 2.8 M at four chapters a labeller, 3.0 M at three, 3.6 M by flat scaling; with a finder's check, about 3.1 to 3.9 M. Put to the author with the place for the lists.
 - 2026-11-20 d back (I.6 to I.9): 54 discords, 1 outline slip (00800 beat 1: "Vivant !" is a cry, not a question); 162,072 tokens, 25 calls, 4.0 min; passes the checker. For the clue lists, when `plan/reread-hooks.md` is made: White cuts I.9 ¶105, "Peut-être voyait-il des hommes pour la première fois" (the capybara), a hint that the island is unvisited.
 - 2026-11-20 c back (I.2 to I.5): 66 discords, 5 outline slips; 171,210 tokens, 20 calls, 5.1 min; passes the checker after one heading was recited (I.2 ¶57 n1). c corrected three beads in I.2 and one run in I.5 (¶60 to ¶63). A source quirk, confirmed in the Gutenberg HTML: White's I.2 ¶25 repeats ¶23's "Mr. Smith, do you want to escape?" where the French has ¶29 (Smith reads Pencroff's face), and the next line opens with a doubled quote mark; the French asks once. Logged as White's, not the derivation's.
+- 2026-11-20 e back (I.10 to I.13): 81 discords, then 80 (the main session removed I.12 ¶41's "trop haute"/"too low", which is Wikisource's correction; White follows the print's "basse"), 3 outline slips; 188,947 tokens, 21 calls, 5.2 min; passes the checker. White cuts I.11 ¶91 to ¶92, the war's cause and Lincoln's death foretold.
 
 ## Resolution
 

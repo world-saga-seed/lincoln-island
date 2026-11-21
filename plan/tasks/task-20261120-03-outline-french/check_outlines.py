@@ -5,8 +5,8 @@ For each story/outline/NNNNN-*.md (NNNNN a multiple of 100, 00100 to 06200):
   - its beats' paragraph ranges, "### N. Beat (I.1 ¶1–¶15)", cover ¶1 to the
     chapter's last paragraph with no gap and no overlap, in order;
   - the range's part.chapter matches the chapter;
-  - every quote in the outline and its notes file resolves in that chapter
-    (tools/quotes.py's matching, run on the chapter's own text);
+  - every quote in the outline resolves in that chapter, and every quote in
+    its notes file in the French text (notes may quote another chapter);
   - every bullet in the outline carries a mark.
 Prints one line per chapter and a count of problems; exit 1 on any.
 
@@ -28,7 +28,8 @@ def last_par(n):
 
 
 def quotes_ok(path, n):
-    r = subprocess.run(['python3', 'tools/quotes.py', path, '--in', f'texts/fr-1875/{n:02d}.md'],
+    targets = [f'texts/fr-1875/{n:02d}.md'] if n else sorted(glob.glob('texts/fr-1875/[0-9][0-9].md'))
+    r = subprocess.run(['python3', 'tools/quotes.py', path, '--in', *targets],
                        capture_output=True, text=True)
     return r.returncode == 0, r.stdout.strip().splitlines()[-1] if r.stdout.strip() else r.stderr.strip()
 
@@ -71,7 +72,7 @@ def main():
         if not notes:
             probs.append('no notes file')
         else:
-            ok, msg = quotes_ok(notes[0], n)
+            ok, msg = quotes_ok(notes[0], None)   # notes may quote another chapter: checked against the whole French
             if not ok and '0 quotes found' not in msg:
                 probs.append(f'notes quotes: {msg}')
         bad += len(probs)

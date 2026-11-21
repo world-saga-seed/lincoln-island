@@ -1,0 +1,68 @@
+# Timeline fragment C: I.4 to I.7 (chapters 00400 to 00700)
+
+Year 1865 comes from I.1 ¶12 ("la journée du 23 mars 1865"); these chapters give no year. Dates here are marked as read.
+
+- 1865-03-25, morning, after about 10 a.m.: the reporter goes north after Nab; Pencroff and Harbert set out south to look for shelter and water (I.4 ¶1, ¶8). *(My reading, to confirm.)* The day rests on I.5 ¶87; the hour on I.3 ¶60.
+  - quote: il remonta le littoral, dans la direction qu’avait suivie, quelques heures auparavant, le nègre Nab
+- 1865-03-25, low tide, morning: the ebb has uncovered the beach; the lithodomes are eaten (I.4 ¶8, ¶10). *(My reading, to confirm.)*
+  - quote: sur cette grève que le flot descendant avait largement découvert
+- 1865-03-25, midday or after: the flood is already felt as they go up the river after the Chimneys are found (I.4 ¶28). *(My reading, to confirm.)*
+  - quote: Le flot montant — et il se faisait déjà sentir en ce moment
+- 1865-03-25, about a quarter of an hour on: they reach the forest bend (I.4 ¶29). *(Drafted.)*
+  - quote: Après avoir marché pendant un quart d’heure
+- 1865-03-25: the raft is built in one hour (I.4 ¶39). *(Drafted.)*
+  - quote: En une heure, le travail fut fini
+- 1865-03-25, some hours before the tide turns: climb to the plateau and the first view (I.4 ¶40–¶54). *(Drafted.)*
+  - quote: Il y avait alors quelques heures à occuper
+- 1865-03-25, 1 p.m.: back at the river bend; the current has turned; the raft is brought down (I.4 ¶63). *(Drafted.)*
+  - quote: il était une heure après midi
+- 1865-03-25, "avant deux heures" (before two o'clock, or within two hours, unclear): the raft arrives at the Chimneys (I.4 ¶64). *(Drafted.)*
+  - quote: avant deux heures, il arrivait à l’embouchure
+- 1865-03-24, the landing, "la veille" (I.5 ¶26). *(My reading, to confirm.)* Flag: I.4 ¶8 also speaks of "l’endroit où ils étaient débarqués" without a date.
+  - quote: le point où ils avaient atterri la veille
+- 1865-03-25, afternoon: the match search, and the second lithodome gathering (I.5 ¶12–¶36). *(My reading, to confirm.)*
+  - quote: Harbert et Pencroff se dirigèrent rapidement vers le point où ils avaient atterri la veille
+- 1865-03-25, 5 p.m.: Pencroff and Harbert are back at the Chimneys (I.5 ¶37). *(Drafted.)*
+  - quote: Il était cinq heures du soir
+- 1865-03-25, about 6 p.m., sunset: Nab and Spilett return without Smith (I.5 ¶38). *(Drafted.)*
+  - quote: Vers six heures, au moment où le soleil disparaissait derrière les hautes terres de l’ouest
+- 1865-03-25, after dark: the one match lights the fire; the first supper (I.5 ¶79, ¶85). *(Drafted.)*
+  - quote: se développait au milieu de l’obscurité
+- 1865-03-25, night: the 25th ends; Nab wanders the beach all night (I.5 ¶87, ¶90). *(Drafted.)*
+  - quote: Ainsi se passa cette journée du 25 mars.
+- 1865-03-26, dawn: Nab goes north again (I.6 ¶9). *(Drafted.)*
+  - quote: Ce matin-là, 26 mars, dès l’aube
+- 1865-03-26, 9 a.m.: Pencroff and Harbert leave for the forest (I.6 ¶17). *(Drafted.)*
+  - quote: Il était alors neuf heures du matin.
+- 1865-03-26, about 10 a.m.: after an hour's march they have covered barely a mile (I.6 ¶21). *(My reading, to confirm.)*
+  - quote: après une heure de marche, ils avaient à peine franchi un mille
+- 1865-03-26, about 3 p.m.: the tétras are seen (I.6 ¶37). *(Drafted.)*
+  - quote: Vers trois heures après midi
+- 1865-03-26, about 3:30 p.m. onward: "une grande demi-heure" of waiting, and the three tétras taken (I.6 ¶43, ¶47). *(My reading, to confirm.)*
+  - quote: Une grande demi-heure s’écoula
+- 1865-03-26, about 6 p.m.: Pencroff and Harbert are back at the Chimneys (I.6 ¶52). *(Drafted.)*
+  - quote: vers six heures, assez fatigués de leur excursion, Harbert et Pencroff rentraient aux Cheminées
+- 1865-03-26, evening: the gale is rising; Spilett on the shore (I.7 ¶1). *(My reading, to confirm.)* It follows I.6 ¶52, the same day.
+  - quote: il fraîchissait avec le déclin du jour
+- 1865-03-26, 7 p.m.: Nab not back (I.7 ¶22). *(Drafted.)*
+  - quote: À sept heures du soir, Nab n’était pas encore de retour.
+- 1865-03-26, 8 p.m.: still not back; the sea is ebbing (I.7 ¶27, ¶29). *(Drafted.)*
+  - quote: À huit heures, Nab n’avait pas encore reparu
+- 1865-03-27, about 2 a.m.: Spilett hears the barking (I.7 ¶35). *(My reading, to confirm.)* The date rests on the night following the 26th.
+  - quote: il pouvait être deux heures du matin
+- 1865-03-27, about 2:15 a.m.: the march begins after Top arrives; a quarter of an hour on, they stop (I.7 ¶70, ¶73). *(My reading, to confirm.)*
+  - quote: après cette marche d’un quart d’heure
+- 1865-03-27, about 2:30 a.m.: the march resumes; the tide begins to rise, a spring tide, new moon (I.7 ¶71, ¶77). *(Drafted.)*
+  - quote: Il était environ deux heures et demie du matin.
+- 1865-03-27, 4 a.m.: five miles covered (I.7 ¶79). *(Drafted.)*
+  - quote: À quatre heures du matin, on pouvait estimer qu’une distance de cinq milles avait été franchie.
+- 1865-03-27, about 5 a.m.: first light (I.7 ¶80). *(Drafted.)*
+  - quote: Vers cinq heures, le jour commença à se faire.
+- 1865-03-27, 6 a.m.: full daylight, about six miles from the Chimneys, tide at the full (I.7 ¶81). *(Drafted.)*
+  - quote: À six heures du matin, le jour était fait.
+  - quote: car on était au plein de la mer
+- 1865-03-27, about 6:05 a.m.: the cave; Cyrus Smith is found (I.7 ¶85–¶87). *(My reading, to confirm.)* Five minutes after leaving the beach, at about six.
+  - quote: Cinq minutes après avoir quitté la grève
+- Discord to flag, not reconciled: the summary of I.7 (¶0) says "À huit mille du premier campement"; ¶81 gives "à six milles environ des Cheminées". *(Drafted.)*
+  - quote: À huit mille du premier campement
+  - quote: à six milles environ des Cheminées

@@ -1,5 +1,7 @@
 # The outliner's prompt (scene-outlines, prompt D, adapted)
 
+*Revised after wave 1: a quote line holds only the quote, with a note's or plate's citation on an "at:" line below (agent d wrote "(I.8 pl1)" inside the quote); the report is returned as the final message, since the harness refused agent c's write of report-c.md.*
+
 *Filled in for each agent: {SPAN} (e.g. "00100 and 00200"), {CHAPTERS} (one line each: number, citation prefix, working-text file), {AGENT} (a, b ...), {BEFORE} (the last beat of the chapter before the span, or "none").*
 
 ---
@@ -21,7 +23,6 @@ WRITE ONLY, for each of your chapters NNNNN:
 - story/notes/NNNNN-slug.md
 and, once for your span:
 - plan/tasks/task-20261120-03-outline-french/timeline-{AGENT}.md
-- plan/tasks/task-20261120-03-outline-french/report-{AGENT}.md
 
 The slug is three to six English words, lower-case kebab-case, taken from the chapter's summary (¶0), e.g. 00100-the-balloon-in-the-hurricane.
 
@@ -42,7 +43,7 @@ THE OUTLINE (story/outline/NNNNN-slug.md):
     - Next point. *(Drafted.)*
       - quote: exact French words
 
-A beat is a unit of action or a scene: a change of place, time, or what the people are doing. A chapter usually has four to ten. The beats run in the text's order and together cover every paragraph from ¶1 to the last: no paragraph is left out, and none is in two beats. Each beat's heading gives its paragraph range. Under it, the points that matter later: who does what, what is made, found, learned or decided, every date, time, number and measure the text gives, every clue or mystery. One quote per point: the shortest run of French words, copied character for character (keep ’ « » and the spaces), from inside the beat's range, that shows the point. Footnotes are cited "I.1 n1" and plate captions "I.1 pl2"; note what they add. Dialogue as gist, never translated whole. Do not judge or summarise the style.
+A beat is a unit of action or a scene: a change of place, time, or what the people are doing. A chapter usually has four to ten. The beats run in the text's order and together cover every paragraph from ¶1 to the last: no paragraph is left out, and none is in two beats. Each beat's heading gives its paragraph range. Under it, the points that matter later: who does what, what is made, found, learned or decided, every date, time, number and measure the text gives, every clue or mystery. One quote per point: the shortest run of French words, copied character for character (keep ’ « » and the spaces), from inside the beat's range, that shows the point. Footnotes are cited "I.1 n1" and plate captions "I.1 pl2"; note what they add. A quote line holds only the French words: nothing after them. A quote from a footnote or a plate caption gets its citation on the next line, indented like the quote, as "- at: I.1 pl2". Dialogue as gist, never translated whole. Do not judge or summarise the style.
 
 THE NOTES (story/notes/NNNNN-slug.md):
 
@@ -72,6 +73,6 @@ A date the text implies but does not state (e.g. "the next day") is given as the
 
 THE SEAM. The chapter before your span ends: {BEFORE}. Your first beat must follow from it; say in the report if it does not.
 
-THE REPORT (report-{AGENT}.md): per chapter, the number of beats and its first and last paragraph; anything you could not place; the discords; the open questions, each with your recommendation where the text supports one. Every quote in the report on its own line as "- quote: exact words".
+THE REPORT, returned as your final message, not written to a file (the harness refuses report files from agents; the main session saves it as report-{AGENT}.md): per chapter, the number of beats and its first and last paragraph; anything you could not place; the discords; the open questions, each with your recommendation where the text supports one. Every quote in the report on its own line as "- quote: exact words".
 
-Before finishing, check that the beats of each chapter cover ¶1 to the last paragraph with no gap and no overlap, and re-read every quote against the text; fix any that do not match exactly. Your final message: beats per chapter, and anything you could not do.
+Before finishing, check that the beats of each chapter cover ¶1 to the last paragraph with no gap and no overlap, and re-read every quote against the text; fix any that do not match exactly. Your final message is the report, in full.

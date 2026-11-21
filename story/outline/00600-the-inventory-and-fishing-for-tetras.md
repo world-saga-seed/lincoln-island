@@ -1,0 +1,109 @@
+# The inventory and fishing for tétras (outline)
+
+*Chapter 00600: the French I.6 (`texts/fr-1875/06.md`). Before: 00500. After: 00700. Third person, past tense; Verne's narrator. Every beat is marked (Drafted.): it is what the French holds.*
+
+## Outline
+
+### 1. The castaways' inventory (I.6 ¶1–¶4)
+
+- The inventory is quickly made: nothing but the clothes they wore, except a notebook and a watch that Spilett kept, probably by oversight. No weapon, tool or pocket knife; everything was thrown out of the car to lighten the balloon. *(Drafted.)*
+  - quote: pas une arme, pas un outil, pas même un couteau de poche
+  - quote: Les passagers de la nacelle avaient tout jeté au dehors pour alléger l’aérostat.
+- The narrator compares them with Defoe's and Wyss's imaginary heroes, and with Selkirk and Raynal: those had a wreck, seeds, livestock, tools, or drift from the sea; here there is nothing. *(Drafted.)*
+  - quote: De rien, il leur faudrait arriver à tout !
+- If Cyrus Smith were with them, there might be hope; but they must expect nothing except from themselves and Providence. *(Drafted.)*
+  - quote: Les naufragés ne devaient rien attendre que d’eux-mêmes
+
+### 2. The decision to wait before exploring (I.6 ¶5–¶8)
+
+- The question to settle quickly: continent, inhabited land, or island. By Pencroff's advice they wait some days before exploring, to prepare food and regain strength. *(Drafted.)*
+  - quote: il parut convenable d’attendre quelques jours avant d’entreprendre une exploration
+- The Chimneys serve for now; the fire is lit and embers can be kept; shellfish and eggs are plentiful; they might kill some of the pigeons, even with sticks or stones; the forest trees may give fruit; fresh water is near. They agree to stay some days, then explore the coast or the interior. *(Drafted.)*
+  - quote: pendant quelques jours, on resterait aux Cheminées
+- Nab is glad of it: he will not believe in Smith's loss until he has seen and touched the body. Pencroff does not undeceive him but has no hope himself. *(Drafted.)*
+  - quote: tant que lui, Nab, n’aurait pas vu de ses yeux, touché de ses mains, le cadavre de son maître, il ne croirait pas à sa mort !
+
+### 3. The morning of 26 March (I.6 ¶9–¶12)
+
+- On the morning of 26 March, at dawn, Nab goes north again along the coast to where the sea closed over Smith. *(Drafted.)*
+  - quote: Ce matin-là, 26 mars, dès l’aube
+- Breakfast is pigeon eggs and lithodomes; Harbert has found salt deposited in the hollows of the rocks. *(Drafted.)*
+  - quote: Harbert avait trouvé du sel déposé dans le creux des roches par évaporation
+- Pencroff asks the reporter to join the hunt in the forest, but someone must keep the fire and be ready if Nab needs help. Spilett stays. Pencroff speaks of "cutting our gun in the forest". *(Drafted.)*
+  - quote: il était nécessaire que quelqu’un restât, afin d’entretenir le feu
+  - quote: nous couperons notre fusil dans la forêt
+
+### 4. Charred linen as tinder; departure (I.6 ¶13–¶17)
+
+- Harbert proposes burnt linen as tinder, since there is no amadou. Part of Pencroff's large-checked handkerchief is half burnt. It is stored in the central chamber in a dry cavity of the rock. *(Drafted.)*
+  - quote: Le linge brûlé, répondit le jeune garçon.
+  - quote: le mouchoir à grands carreaux de Pencroff
+- It is nine in the morning, the weather threatening, the breeze from the south-east. They go up the left bank, after a look at the smoke twisting at a point of rock. *(Drafted.)*
+  - quote: Il était alors neuf heures du matin.
+  - quote: la brise soufflait du sud-est
+
+### 5. Up the river: the forest and its lack of tracks (I.6 ¶18–¶21)
+
+- At the forest Pencroff breaks two branches into clubs, which Harbert sharpens on a rock; Pencroff wishes for a knife. They follow the bank so as not to get lost. *(Drafted.)*
+  - quote: deux solides branches qu’il transforma en gourdins
+  - quote: Pencroff, afin de ne pas s’égarer, résolut de suivre le cours d’eau
+- From the bend the river runs south-west and narrows into a deep bed under a double arch of trees. *(Drafted.)*
+  - quote: À partir du coude qui reportait son cours dans le sud-ouest
+- The left bank is flat, sometimes marshy, with an underground network of water; the right bank is steeper, hill with trees in tiers, hard to walk. *(Drafted.)*
+  - quote: La rive opposée paraissait être plus accidentée
+- No human trace: only fresh tracks of four-footed animals, some left by formidable wild beasts, but no axe mark, no dead fire, no footprint. The narrator says that in the Pacific the presence of man might be more to fear than to wish for. Plate I.6 pl1 (after ¶20) shows Pencroff noticing the tracks. *(Drafted.)*
+  - quote: nulle part la marque d’une hache sur un tronc d’arbre, ni les restes d’un feu éteint, ni l’empreinte d’un pas
+  - quote: la présence de l’homme eût été peut-être plus à craindre qu’à désirer
+- They go slowly: after an hour they have barely covered a mile. Hunting has been unprofitable; birds sing but are wary. *(Drafted.)*
+  - quote: après une heure de marche, ils avaient à peine franchi un mille
+
+### 6. The jacamar (I.6 ¶22–¶26)
+
+- In a marshy part Harbert points out a bird with a long sharp bill, like a kingfisher anatomically, of rough plumage with a metallic sheen: he thinks it a jacamar. *(Drafted.)*
+  - quote: Ce doit être un « jacamar »
+- Harbert's thrown stone strikes it at the wing root, but the bird runs off. Pencroff comforts him. *(Drafted.)*
+  - quote: le jacamar s’enfuit de toute la vitesse de ses jambes
+
+### 7. The conifers; the couroucous (I.6 ¶27–¶35)
+
+- The trees grow more widely spaced but none bears edible fruit. Pencroff looks in vain for palms, which are reported to the fortieth parallel in the northern hemisphere and only the thirty-fifth in the southern. *(Drafted.)*
+  - quote: jusqu’au trente-cinquième seulement dans l’hémisphère austral
+- The forest is wholly conifers: deodars, Douglas firs like those of the north-west coast of America, and splendid firs a hundred and fifty feet high. *(Drafted.)*
+  - quote: des sapins admirables, mesurant cent cinquante pieds de hauteur
+- A flock of small long-tailed birds scatters feathers; Harbert names them couroucous. They are good to eat, delicate, and easy to approach and kill with sticks. *(Drafted.)*
+  - quote: Ce sont des « couroucous »
+  - quote: leur chair est très délicate
+  - quote: il est facile de les approcher et de les tuer à coups de bâton
+- They wait at the lower branches for insects. The hunters sweep rows of them off with sticks swung like scythes: about a hundred lie on the ground before the rest flee. Pencroff threads them on a switch like larks. *(Drafted.)*
+  - quote: Une centaine jonchait déjà le sol
+  - quote: Le marin enfila les couroucous, comme des mauviettes
+- The river curves slightly southward but must rise in the mountain and be fed by melting snow on the central cone. *(Drafted.)*
+  - quote: la rivière devait prendre sa source dans la montagne
+
+### 8. The tétras taken on lines (I.6 ¶36–¶50)
+
+- The purpose of the trip, game for the Chimneys, is not yet met; Pencroff grumbles that he lacks Top, who vanished with his master and probably perished. *(Drafted.)*
+  - quote: Mais Top avait disparu en même temps que son maître et probablement péri avec lui !
+- About three in the afternoon they see flocks pecking juniper berries; a trumpet-like call is heard. These are « tétras », named so in the United States; Harbert tells the males by their two pointed wing tufts. The birds will not let them near. *(Drafted.)*
+  - quote: Vers trois heures après midi
+  - quote: un véritable appel de trompette résonna dans la forêt
+- Pencroff proposes taking them on a line "like a carp". *(Drafted.)*
+  - quote: Comme une carpe, » répondit sérieusement le marin.
+- He has found half a dozen tétras nests, two or three eggs each; he leaves them untouched, for the owners will come back, and sets lines of real hooks around them. Footnote I.6 n1 (at ¶41) glosses Isaac Walton as the celebrated author of a treatise on angling. *(Drafted.)*
+  - quote: Pencroff avait trouvé dans les herbes une demi-douzaine de nids de tétras
+  - quote: Célèbre auteur d’un traité sur la pêche à la ligne.
+- The lines are thin creepers tied end to end, fifteen to twenty feet long; for hooks, strong thorns with curved points from a dwarf acacia bush; for bait, large red worms. *(Drafted.)*
+  - quote: de gros vers rouges qui rampaient sur le sol
+  - quote: longues de quinze à vingt pieds
+- He lays the baited ends by the nests, takes the other ends and hides with Harbert behind a big tree, downwind. After a good half hour several pairs return. *(Drafted.)*
+  - quote: Une grande demi-heure s’écoula
+- He twitches the baits; three tétras swallow bait and hook at once; he strikes, and the beating wings show they are caught. Pencroff shouts "Hurrah!" Plate I.6 pl2 (after ¶48) carries the cry. *(Drafted.)*
+  - quote: Trois tétras, très-voraces sans doute, avalèrent à la fois l’appât et l’hameçon.
+  - quote: « Hurrah ! » s’écria-t-il en se précipitant vers ce gibier
+- Harbert applauds; Pencroff says he did not invent the method and that more surprises are to be expected. *(Drafted.)*
+  - quote: il faut nous attendre à en voir bien d’autres !
+
+### 9. Back to the Chimneys (I.6 ¶51–¶52)
+
+- The tétras are tied by the feet; as daylight fades Pencroff turns back, following the river downstream, and they reach the Chimneys about six o'clock. *(Drafted.)*
+  - quote: vers six heures, assez fatigués de leur excursion, Harbert et Pencroff rentraient aux Cheminées

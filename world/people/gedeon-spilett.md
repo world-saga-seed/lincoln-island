@@ -129,6 +129,59 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: décousues avec une patience admirable par Gédéon Spilett et Harbert
   - He means to purge his domain of the wild beasts that take refuge in the woods of the Serpentine peninsula (II.8 ¶42). *(Drafted.)*
     - quote: dont Gédéon Spilett comptait bien purger son domaine
+  - With Harbert he is the engineer's natural helper at the glassworks, which they do not leave for some days (II.9 ¶33). *(Drafted.)*
+    - quote: Gédéon Spilett et Harbert, les aides naturels de l’ingénieur
+  - He raises the check of the island's position with the better sextant, reasoning that imperfect instruments may have spoiled the exactness of the observations and that verification is easy; he wonders whether the colonists are not much nearer an inhabited land than they think (II.9 ¶70, ¶72, ¶74, ¶76). *(Drafted.)*
+    - quote: il serait peut-être à propos de le faire
+    - quote: l’imperfection des appareils ait nui à la justesse des observations
+    - quote: si nous ne sommes pas beaucoup plus près d’une terre habitée que nous ne le croyons
+  - In the dense Far-West forest he never ventures without his pocket compass, for the sun hardly pierces the foliage (II.10 ¶19). *(Drafted.)*
+    - quote: le reporter ne s’y hasardait jamais sans emporter la boussole de poche
+    - quote: le soleil perçait à peine les épaisses ramures
+  - He is the discoverer of the tobacco plant: on 30 April, fifty paces ahead of Harbert in a clearing in the south-west of the Far-West, he is struck by the smell of upright, cylindrical, branching stems with flowers in clusters and very small seeds, and pulls up one or two (II.10 ¶21, ¶22, ¶98). *(Drafted.)*
+    - quote: C’était le 30 avril
+    - quote: précédant Harbert d’une cinquantaine de pas
+    - quote: surpris de l’odeur qu’exhalaient certains végétaux
+    - quote: Non, Pencroff, c’est M. Spilett
+  - He takes up Harbert's plan of keeping the find from Pencroff, and the plant is smuggled into Granite-house 'en fraude' (II.10 ¶29, ¶31, ¶32). *(Drafted.)*
+    - quote: Entendu, Harbert
+    - quote: ils l’introduisirent « en fraude »
+  - He is curious to see Pencroff handle a harpoon; he is surprised to see a whale at so high a latitude (II.10 ¶37, ¶39). *(Drafted.)*
+    - quote: j’aurais aimé à vous voir manœuvrer le harpon
+    - quote: Je m’étonne, dit le reporter, de voir une baleine sous cette latitude relativement élevée
+  - He asks whether there are whalers in these waters, and is not satisfied by Pencroff's answer (II.10 ¶55, ¶59). *(Drafted.)*
+    - quote: Il y a donc des baleiniers sur nos parages
+    - quote: que l’affirmation de Pencroff ne satisfaisait pas
+  - He does not shrink from the three days' cutting up, so that Pencroff says he will end by making 'un très-bon naufragé' (II.10 ¶66). *(Drafted.)*
+    - quote: aucun des colons ne se rebuta, pas même Gédéon Spilett
+    - quote: finirait par faire « un très-bon naufragé »
+  - He has thought several times of throwing into the sea a notice in a bottle, or of trusting it to pigeons, but the distance of twelve hundred miles to any land makes that, says the narrator, pure folly; he persuades Harbert to let the albatross carry a notice (II.11 ¶31, ¶33). *(Drafted.)*
+    - quote: Gédéon Spilett avait déjà songé plusieurs fois
+    - quote: une notice renfermée dans une bouteille
+    - quote: qui était de douze cents milles
+    - quote: C’eut été pure folie
+    - quote: Gédéon Spilett lui fit comprendre
+  - The chronicler sometimes reappears in him: he is not sorry to launch an article telling of the colonists' adventures, to the honour of the 'reporter attitré du New-York Herald' and of the number that would carry it, if it ever reached its director, 'l’honorable John Benett' (II.11 ¶34). *(Drafted.)*
+    - quote: chez qui le chroniqueur reparaissait quelquefois
+    - quote: le reporter attitré du New-York Herald
+    - quote: l’honorable John Benett
+  - He drafts a short notice, put in a bag of strong gummed canvas, asking whoever finds it to send it to the offices of the New-York Herald (II.11 ¶35). *(Drafted.)*
+    - quote: rédigea donc une notice succincte
+    - quote: un sac de forte toile gommée
+    - quote: de la faire parvenir aux bureaux du New-York Herald
+  - He supposes the well to be joined to the sea and that some marine animal comes from time to time to breathe at the bottom (II.11 ¶70). *(Drafted.)*
+    - quote: ce puits est en communication directe avec la mer
+  - He agrees to be Nab's aide in the kitchen, warning him that if he lets out his recipes he will publish them, and is installed in Nab's 'laboratoire culinaire' (II.12 ¶8, ¶10). *(Drafted.)*
+    - quote: si tu me dévoiles tes recettes, je les publierai
+    - quote: devenu l’aide de Nab, fut installé dans son laboratoire culinaire
+  - Told of the engineer's exploration of the well, he shares Cyrus Smith's opinion that, though nothing was found, 'il restait toujours un secret à découvrir' (II.12 ¶10). *(Drafted.)*
+    - quote: le reporter partagea l’opinion de Cyrus Smith
+    - quote: il restait toujours un secret à découvrir
+  - He recalls leaving the footbridge of the beach open (II.12 ¶29). *(Drafted.)*
+    - quote: je me rappelle l’avoir laissé ouvert
+  - He is a little of a doctor: he judges Jup out of danger, and lets him eat as he pleases in his convalescence (II.12 ¶60, ¶62). *(Drafted.)*
+    - quote: Gédéon Spilett, qui était un peu médecin
+    - quote: le reporter le laissa manger à sa fantaisie
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -181,9 +234,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
   - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
-  - He notes down what the engineer tells of the eucalyptus (II.3 ¶53). *(Drafted.)*
-    - quote: Je vais noter cela
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

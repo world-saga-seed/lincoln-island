@@ -9,6 +9,8 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Albatrosses](albatrosses.md) | the great sea birds of the barren north shore |
 | [Alectors](alectors.md) | the long-tailed gallinaceans of the poultry-yard |
 | [Apes of Granite-house](apes-of-granite-house.md) | the band of quadrumanes that took the dwelling |
+| [The austral whale](austral-whale.md) | the Cape whale found dead on the Wreck Point shore |
+| [Birds of prey](birds-of-prey.md) | the scavengers over the stranded whale |
 | [Black cocks](black-cocks.md) | the Mozambique-like cocks of the poultry-yard |
 | [Bronze-winged pigeons](bronze-winged-pigeons.md) | the forest pigeons Harbert points out |
 | [Bustards](bustards.md) | the outardes among the game |
@@ -24,6 +26,7 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Dugong](dugong.md) | the sea-mammal killed in Lake Grant |
 | [Echidnas](echidnas.md) | the spiny anteaters of the Jacamar Wood |
 | [Edible shellfish](edible-shellfish.md) | the coquillages of the south shore |
+| [Grebes](grebes.md) | the grèbes of the winter marsh |
 | [Green turtle](green-turtle.md) | the mydas the colonists turned over and lost |
 | [Guillemots](guillemots.md) | sea birds on the frozen lake |
 | [Gulls and mews](gulls.md) | sea birds of the islet and the granite wall |

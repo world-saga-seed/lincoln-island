@@ -94,6 +94,33 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: on eût dit que le nègre et le singe se comprenaient
   - With his own hands he raised a veranda covered with climbing plants on the edge of the plateau of Grande-Vue (II.8 ¶47). *(Drafted.)*
     - quote: une sorte de vérandah couverte de plantes grimpantes, que Nab avait élevée de ses propres mains
+  - He has trained Jup, whom he calls 'mon élève, et bientôt mon égal' (II.9 ¶9). *(Drafted.)*
+    - quote: Mon élève, répondait Nab, et bientôt mon égal
+  - He and Harbert each have a favourite among the new-born lambs (II.9 ¶17). *(Drafted.)*
+    - quote: à la grande joie de Nab et d’Harbert, qui avaient chacun leur favori parmi les nouveaux-nés
+  - He fattens the young peccaries in the sty by the poultry-yard (II.9 ¶18). *(Drafted.)*
+    - quote: de s’engraisser par les soins de Nab
+  - He is in the secret of the tobacco, and has trouble keeping it from Pencroff (II.10 ¶33, ¶100). *(Drafted.)*
+    - quote: Cyrus Smith et Nab furent mis dans la confidence
+    - quote: Nab qui a eu bien de la peine à nous garder le secret
+  - He watches the whale through the telescope while minding his furnaces, and from his kitchen window he sees it stranded (II.10 ¶44, ¶47). *(Drafted.)*
+    - quote: Nab, tout en surveillant ses fourneaux, ne quittaient pas la lunette
+    - quote: des cris de Nab, posté à la fenêtre de sa cuisine
+  - In the talk about coal he intervenes only with a quip to Pencroff: 'Tu t’es levé trop tôt' (II.11 ¶65). *(Drafted.)*
+    - quote: Tu t’es levé trop tôt, Pencroff
+    - quote: qui n’intervint que par ces mots dans la discussion
+  - He plans preserves and pâtés from the winter game, 'une réserve agréable', and works with the reporter on the savoury preparations that fill Granite-house with good smells (II.12 ¶3, ¶11). *(Drafted.)*
+    - quote: Conserves, pâtés, nous aurons là une réserve agréable
+    - quote: des bonnes odeurs qu’émettaient les manipulations savantes de Nab et du reporter
+  - Jup is his friend and pupil; he spoils him with little sweet dishes, saying that Jup has no other pleasure than that of the mouth and that he is happy to repay his services (II.12 ¶50, ¶60, ¶61). *(Drafted.)*
+    - quote: Son ami Nab l’appela
+    - quote: Nab lui faisait de bons petits plats sucrés
+    - quote: il n’a pas d’autre plaisir que celui de la bouche
+    - quote: je suis trop heureux de pouvoir reconnaître ainsi ses services
+  - He is the first awake when Top barks in the night (II.12 ¶18). *(Drafted.)*
+    - quote: Nab, qui fut le premier éveillé
+  - He counts Top as a colonist: 'Sur sept ! Top en vaut bien un autre !' (II.12 ¶118). *(Drafted.)*
+    - quote: Sur sept ! ajouta Nab. Top en vaut bien un autre
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -127,7 +154,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He and Pencroff carry the provisions on the march and lay out the midday meal (II.4 ¶3, ¶37). *(Drafted.)*
     - quote: Pencroff et Nab emportaient des provisions
     - quote: Nab et Pencroff disposèrent le déjeuner
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

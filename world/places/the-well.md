@@ -39,4 +39,39 @@ Keywords: puits, shaft, abyss, gouffre, conduit, underground, sea level, water, 
     - quote: Quelque monstre marin ne venait-il pas, de temps en temps, respirer au fond de ce puits
   - He tells his impressions only to Spilett, thinking it useless to bring his companions into the thoughts it stirred in him (I.22 ¶55). *(Drafted.)*
     - quote: ne communiqua ses impressions qu’à Gédéon Spilett
-- **Appears in:** I.18, I.21, I.22
+  - Its overflow carries off the water of the lift’s fall (see [the hydraulic lift](../things/the-hydraulic-lift.md)) (II.9 ¶31). *(Drafted.)*
+    - quote: dont le trop-plein se déversa par le puits intérieur
+  - Its mouth opens at the end of the inner corridor, at the level of the corridor of Granite-house (II.11 ¶66, ¶81). *(Drafted.)*
+    - quote: l’orifice du puits, qui s’ouvrait à l’extrémité du couloir intérieur
+    - quote: dont l’orifice s’ouvrait au niveau du couloir de Granite-house
+  - It communicated with the sea, since it once served as the passage of the lake’s waters (II.11 ¶81). *(Drafted.)*
+    - quote: qui communiquait avec la mer, puisqu’autrefois il servait de passage aux eaux du lac
+  - Top barks at it with a strange intonation and circles it, and Jup joins him, the two seeming uneasy rather than angry (II.11 ¶66, ¶69). *(Drafted.)*
+    - quote: avec cette intonation étrange
+    - quote: ces deux animaux paraissaient être plutôt inquiets qu’irrités
+  - Spilett says it must communicate with the sea and that some sea animal comes from time to time to breathe at the bottom; Pencroff finds no other explanation, and the engineer’s brow darkens (II.11 ¶70, ¶71, ¶73). *(Drafted.)*
+    - quote: quelque animal marin vient de temps en temps respirer au fond
+    - quote: il n’y a pas d’autre explication à donner
+    - quote: assombrit le front de l’ingénieur
+  - The shaft is about six feet across (II.11 ¶83). *(Drafted.)*
+    - quote: dont le diamètre mesurait six pieds environ
+  - Its wall is everywhere solid; its projections would let an agile being climb to the orifice, but they show no mark or break (II.11 ¶84, ¶85). *(Drafted.)*
+    - quote: Partout, la paroi était pleine
+    - quote: il ne trouva aucune empreinte, aucune cassure
+  - At the bottom the water is perfectly calm; no side passage opens anywhere, and the wall, struck, rings solid: compact granite through which no living thing could cut a way (II.11 ¶88). *(Drafted.)*
+    - quote: la surface de l’eau, qui était alors parfaitement calme
+    - quote: ne s’ouvrait aucun couloir latéral
+    - quote: sonnait le plein
+    - quote: C’était un granit compacte
+  - The only way up is the always-submerged canal to the sea under the rocky subsoil of the beach, possible only to marine animals (II.11 ¶88). *(Drafted.)*
+    - quote: ce canal, toujours immergé, qui le mettait en communication avec la mer à travers le sous-sol rocheux de la grève, et cela n’était possible qu’à des animaux marins
+  - Where the canal ends, at what point of the coast and at what depth, could not be settled (II.11 ¶88). *(Drafted.)*
+    - quote: en quel point du littoral et à quelle profondeur sous les flots, on ne pouvait la résoudre
+  - Smith covers the orifice again and says to himself: "Je n’ai rien vu, et pourtant il y a quelque chose !" (II.11 ¶89, ¶90). *(Drafted.)*
+    - quote: recouvrit l’orifice du puits
+    - quote: Je n’ai rien vu, et pourtant il y a quelque chose
+  - Spilett shares his opinion that, though nothing was found, there is still a secret to discover (II.12 ¶10). *(Drafted.)*
+    - quote: il restait toujours un secret à découvrir
+  - On the night of the raid Top does not bark at the well but at the door (II.12 ¶17). *(Drafted.)*
+    - quote: Le chien n’aboyait pas, cette fois, près de l’orifice du puits, mais au seuil de la porte
+- **Appears in:** I.18, I.21, I.22, II.9, II.11, II.12

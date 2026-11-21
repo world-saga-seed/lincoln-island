@@ -59,6 +59,8 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: la pointe sud de l’îlot
   - It cannot be seen from the cove of port Ballon, nor the Grande-Vue plateau, since the lie of the ground and a curtain of tall trees mask the northern horizon (II.5 ¶47). *(Drafted.)*
     - quote: ni l’îlot, ni le plateau de Grande-Vue n’étaient visibles
+  - The whale comes so near the islet that it can be fully distinguished (II.10 ¶44). *(My reading, to confirm.)*
+    - quote: il s’approchait si près de l’îlot, qu’on pouvait le distinguer complètement
 - **On the page.**
   - Large heavy-flying birds rose from its holes, and others in flocks; Pencroff took them for gulls and sea-mews (I.3 ¶14). *(Drafted.)*
     - quote: des goëlands et des mouettes
@@ -66,7 +68,7 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5
+- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?

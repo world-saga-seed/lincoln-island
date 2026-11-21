@@ -10,4 +10,7 @@ Keywords: pilet, pintail, canard, duck, marais, marsh, lac, lake, gibier, game
   - Pintails flutter by thousands on the frozen lake, with ducks, snipe and guillemots (I.22 ¶30). *(Drafted.)*
     - quote: canards et bécassines, pilets et guillemots
     - quote: Il y en avait des milliers
-- **Appears in:** I.21, I.22
+  - Pintails are among the water game that crowd the south-east marsh in winter, its winter quarters (II.11 ¶78). *(Drafted.)*
+    - quote: tout le gibier aquatique, qui établissait là ses quartiers d’hiver
+    - quote: pilets
+- **Appears in:** I.21, I.22, II.11

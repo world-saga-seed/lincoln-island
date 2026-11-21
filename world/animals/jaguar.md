@@ -22,6 +22,9 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
     - quote: un magnifique animal se montrait à l’entrée de la caverne
     - quote: ce jaguar a quitté son repaire
     - quote: dont le sable était jonché d’ossements
+  - A jaguar is caught in the whalebone traps, among a dozen foxes and some boars, and found dead with its stomach pierced by the unbent whalebone (II.11 ¶29). *(Drafted.)*
+    - quote: Une douzaine de renards, quelques sangliers et même un jaguar s’y laissèrent prendre
+    - quote: l’estomac perforé par les fanons détendus
 - **On the page.**
   - It comes forward, bristling, eye aflame, as if it had never before smelt man (II.4 ¶64). *(Drafted.)*
     - quote: le poil hérissé, l’œil en feu
@@ -33,4 +36,4 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
   - Its skin is thought to make the ornament of the great hall of Granite-house, and Nab skins it (II.4 ¶67, ¶77). *(Drafted.)*
     - quote: dont la magnifique dépouille ferait l’ornement de la grande salle de Granite-house
     - quote: Nab dépouillait le jaguar
-- **Appears in:** I.13, II.4
+- **Appears in:** I.13, II.4, II.11

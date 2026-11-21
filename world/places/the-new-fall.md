@@ -31,4 +31,6 @@ Keywords: chute, nouvelle chute, cascade, waterfall, saignée, stream, déversoi
   - Its bed on the beach is widened considerably and the sands kept in place by a double palisade (II.7 ¶39). *(Drafted.)*
     - quote: le lit du ruisseau de la grève fut considérablement élargi
     - quote: on maintint les sables au moyen d’une double palissade
-- **Appears in:** I.17, I.18, I.20, I.22, II.7
+  - The mechanical force of the beach fall, till then unused, drives Smith’s fulling mill (see [the fulling mill](../things/the-fulling-mill.md)) (II.11 ¶6). *(My reading, to confirm.)*
+    - quote: profiter de la force mécanique, inutilisée jusqu’alors, que possédait la chute d’eau de la grève
+- **Appears in:** I.17, I.18, I.20, I.22, II.7, II.11

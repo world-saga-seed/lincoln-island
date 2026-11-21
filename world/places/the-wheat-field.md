@@ -26,4 +26,10 @@ Keywords: champ de blé, grain, sowing, plot, palisade, garden, seed bed, wheat
     - quote: des tourniquets criards et des mannequins effrayants
   - Seven hundred and fifty grains are laid in small regular furrows (II.7 ¶38). *(Drafted.)*
     - quote: Les sept cent cinquante grains furent alors déposés dans de petits sillons bien réguliers
-- **Appears in:** I.20, I.21, II.7
+  - In the hail of 2 March the ears of Pencroff’s wheat field are beginning to lift their small green heads, and he shelters the crop with a heavy canvas (II.9 ¶3, ¶4). *(Drafted.)*
+    - quote: son champ de blé courait les dangers les plus sérieux
+    - quote: les épis commençaient déjà à lever leur petite tête verte
+    - quote: au moyen d’une grosse toile, il parvint à protéger sa récolte
+  - The third field, sown after the second harvest on 15 April, is far larger than the first two (II.10 ¶18). *(Drafted.)*
+    - quote: Le troisième champ de blé fut donc incomparablement plus étendu que les deux premiers
+- **Appears in:** I.20, I.21, II.7, II.9, II.10

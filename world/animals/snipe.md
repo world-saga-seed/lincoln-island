@@ -13,4 +13,7 @@ Keywords: bécassine, snipe, marais, marsh, gibier, game, oiseau, bird, flèche
     - quote: Il y en avait des milliers
   - Snipe fall to the arrows of Harbert and Gédéon Spilett (I.22 ¶57). *(Drafted.)*
     - quote: bécassines, enfin gibier de poil ou de plume, tombaient sous leurs flèches
-- **Appears in:** I.21, I.22
+  - Snipe are among the water game that crowd the south-east marsh in winter, its winter quarters (II.11 ¶78). *(Drafted.)*
+    - quote: tout le gibier aquatique, qui établissait là ses quartiers d’hiver
+    - quote: bécassines
+- **Appears in:** I.21, I.22, II.11

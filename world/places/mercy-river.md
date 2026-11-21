@@ -130,7 +130,16 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: la pêche, soit dans les eaux du lac, soit dans le courant de la Mercy, ne tarda pas à être fructueuse
   - Salmon run up it in bands for several miles to spawn (II.8 ¶19). *(Drafted.)*
     - quote: Des saumons vinrent par bandes s’aventurer dans la Mercy et en remontèrent le cours pendant plusieurs milles
+  - The Far-West forest lies on its left, where the cycads grow (II.9 ¶44). *(Drafted.)*
+    - quote: dans la forêt du Far-West, sur la gauche de la Mercy
+  - From the bridge one goes down the right bank and takes the beach to the stranded whale on the pointe de l’Épave (II.10 ¶49). *(Drafted.)*
+    - quote: on redescendit la rive droite de la rivière, on prit par la grève
+  - The plateau of Grande-Vue can be reached from the beach only by the Mercy’s left bank, a narrow strip between the river and the granite wall, which Smith picks as the line to hold (II.12 ¶32, ¶39). *(Drafted.)*
+    - quote: en remontant la rive gauche de la Mercy, arriver au plateau de Grande-Vue
+    - quote: cette étroite portion de la berge comprise entre la rivière et la muraille de granit
+  - The Bonadventure’s anchor bites the sand near its mouth before she sails (II.12 ¶94). *(Drafted.)*
+    - quote: l’ancre qui mordait le sable près de l’embouchure de la Mercy
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, III.16

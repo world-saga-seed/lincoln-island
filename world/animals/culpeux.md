@@ -32,4 +32,30 @@ Keywords: culpeux, renard, fox, Chili, Malouines, aboiement, bark, bait, appât,
     - quote: à ces renards ou à ces phoques, dont la fourrure laissait à désirer
   - Pencroff counts on the closed plateau to spare the poultry-yard "la visite des renards" and the attacks of other noxious beasts (II.7 ¶33). *(My reading, to confirm.)*
     - quote: ni la visite des renards, ni l’agression d’autres bêtes nuisibles
-- **Appears in:** I.21, I.22, II.7
+  - About a dozen 'renards' are caught in the whalebone traps, found dead with their stomachs pierced; the text does not call them culpeux there (II.11 ¶29). *(My reading, to confirm.)*
+    - quote: Une douzaine de renards
+    - quote: l’estomac perforé par les fanons détendus
+  - Harbert recognises their barking from his first visit to the sources of the Red Creek, and names them: 'Ce sont des culpeux, ce sont des renards !' (II.12 ¶34, ¶35). *(Drafted.)*
+    - quote: de les avoir déjà entendus pendant sa première visite aux sources du Creek-Rouge
+    - quote: Ce sont des culpeux, ce sont des renards
+  - They are dangerous animals when many and irritated by hunger, and the narrator calls them pillagers (II.12 ¶38, ¶39). *(Drafted.)*
+    - quote: Ce sont de dangereux animaux que ces culpeux, quand ils sont en grand nombre et que la faim les irrite
+    - quote: ces pillards
+  - The band is at least a hundred strong, with eyes that shine like embers; they keep pressing on, the last ranks pushing the first, and they seem to renew themselves by the footbridge of the shore (II.12 ¶42, ¶45). *(Drafted.)*
+    - quote: qui devaient être au moins une centaine, et dont les yeux brillaient comme des braises
+    - quote: Les derniers rangs poussaient les premiers
+  - One leaps on Nab's back like a 'chat-tigre'; in the dark the colonists first take the barking for wolves, jaguars or apes (II.12 ¶24, ¶46). *(Drafted.)*
+    - quote: Des loups, des jaguars ou des singes
+    - quote: comme un chat-tigre
+  - The band withdraws northward at the first light of dawn, and about fifty carcasses are left on the shore; they are dragged to the Far-West forest and buried deep (II.12 ¶47, ¶48, ¶58). *(Drafted.)*
+    - quote: Les premières lueurs de l’aube, sans doute, déterminèrent la retraite des assaillants
+    - quote: détalèrent vers le nord
+    - quote: une cinquantaine de cadavres
+    - quote: traînés jusqu’à la forêt du Far-West et enterrés profondément
+- **On the page.**
+  - They enter the shore through the footbridge of the beach, left open, and could go up the left bank of the Mercy to the Grande-Vue plateau; the colonists block the narrow bank between the river and the granite wall (II.12 ¶28, ¶29, ¶32, ¶39). *(Drafted.)*
+    - quote: Ils auront franchi le ponceau de la grève
+    - quote: l’un de nous aura oublié de refermer
+    - quote: en remontant la rive gauche de la Mercy, arriver au plateau de Grande-Vue
+    - quote: cette étroite portion de la berge comprise entre la rivière et la muraille de granit
+- **Appears in:** I.21, I.22, II.7, II.11, II.12

@@ -28,11 +28,18 @@ Keywords: pointe, Épave, Flotson-point, point, headland, wreck, chest, cove, an
     - quote: De la pointe de l’Épave à Granite-house, il restait encore quatre milles
   - The chest had been found less than twenty miles from the part of the south shore at the foot of the Washington Bay (II.5 ¶42). *(Drafted.)*
     - quote: comme l’avait été cette caisse, trouvée à moins de vingt milles de là
-- **Appears in:** I.21, II.2, II.5
+  - The dead whale is stranded on the beach of the pointe de l’Épave, at high tide, three miles from Granite-house (II.10 ¶49). *(Drafted.)*
+    - quote: sur la grève de la pointe de l’Épave, à trois milles de Granite-house et à mer haute
+  - The Bonadventure, leaving the Union Bay, doubles the pointe de l’Épave and cap Griffe before holding close to the wind along the southern coast (II.12 ¶96). *(Drafted.)*
+    - quote: Après avoir doublé la pointe de l’Épave et le cap Griffe, Pencroff dut tenir le plus près
+- **Appears in:** I.21, II.2, II.5, II.10, II.12
 - **Open:**
   - I.21 ¶20 already says "la pointe de l’Épave" in July, though II.2 ¶42 gives the point that name only on 29 October. Card neither (I.21 ¶20; II.2 ¶42). *(Drafted.)*
     - quote: Après avoir tourné la pointe de l’Épave
     - quote: à laquelle fut donné le nom de pointe de l’Épave (Flotson-point)
   - The distance to Granite-house: II.2 ¶13 puts the point "about three miles from the Mercy"; II.5 ¶98 says "four miles" remain from the point to Granite-house. Card neither (II.2 ¶13; II.5 ¶98). *(Drafted.)*
     - quote: environ à trois milles de la Mercy
+    - quote: il restait encore quatre milles
+  - The distance to Granite-house: II.10 ¶49 says "trois milles", where II.5 ¶98 says "quatre milles"; card neither (II.10 ¶49; II.5 ¶98). *(Drafted.)*
+    - quote: à trois milles de Granite-house
     - quote: il restait encore quatre milles

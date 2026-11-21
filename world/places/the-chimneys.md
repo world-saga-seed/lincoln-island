@@ -81,6 +81,12 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: quelques vingtaines de brasses d’une légère corde d’hibiscus
   - The canoe is hauled up on the strand next to it (II.5 ¶118). *(Drafted.)*
     - quote: Le canot fut halé sur la grève jusqu’auprès des Cheminées
+  - In the recess between the Chimneys and the wall a yard is prepared for the Bonadventure (see [the boatyard](the-boatyard.md)) (II.10 ¶6). *(Drafted.)*
+    - quote: dans le renfoncement qui existait entre les Cheminées et la muraille, un chantier était préparé
+  - In the winter storms the sea’s assaults endanger the Chimneys more than once (II.11 ¶74). *(Drafted.)*
+    - quote: compromirent plus d’une fois les Cheminées
+  - A forge stands at the Chimneys, where the boat’s ironwork is made (II.12 ¶84). *(Drafted.)*
+    - quote: à la forge des Cheminées
 - **On the page.**
   - The river mouth lies a few steps from it (I.4 ¶64). *(Drafted.)*
     - quote: à quelques pas des Cheminées
@@ -103,7 +109,7 @@ Keywords: Cheminées, camp, shelter, lodging, cave, bedding, moss, hearth
     - quote: le gibier de poil et de plume abonda-t-il aux Cheminées
   - The kitchen of the Chimneys was supplied with pottery (I.13 ¶47). *(Drafted.)*
     - quote: la cuisine des Cheminées se trouva pourvue d’un certain nombre d’ustensiles
-- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.15, I.16, I.17, I.18, I.19, I.20, I.22, II.5, II.6, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.15, I.16, I.17, I.18, I.19, I.20, I.22, II.5, II.6, II.10, II.11, II.12, III.16
 - **Open:**
   - The text does not say where the Chimneys stand in relation to the Mercy or the lake, nor how many corridors or chambers there are.
     - quote: sur le sable des couloirs

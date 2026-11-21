@@ -9,4 +9,7 @@ Keywords: coutelas, cutlasses, blades, arms, sheaths, étuis, cuir, chest
     - quote: 5 coutelas
   - All five are taken on the exploration, well sheathed in leather (II.3 ¶6). *(Drafted.)*
     - quote: les cinq coutelas bien engaînés de cuir
-- **Appears in:** II.2, II.3
+  - Smith takes a cutlass at his belt down the well, and strikes the wall with its handle, which rings solid (II.11 ¶83, ¶88). *(Drafted.)*
+    - quote: passé un coutelas à sa ceinture
+    - quote: frappa du manche de son coutelas
+- **Appears in:** II.2, II.3, II.11

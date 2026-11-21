@@ -80,6 +80,16 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
     - quote: C’était comme un appel désespéré
   - He and Jup get on well and play together willingly (II.7 ¶30). *(Drafted.)*
     - quote: Top et Jup étaient au mieux et jouaient volontiers ensemble
+  - He is delighted with the lift, for he has not and cannot have Jup's skill with rungs; he had often had to go up to Granite-house on Nab's back or on the orang's (II.9 ¶32). *(Drafted.)*
+    - quote: Top se montra particulièrement enchanté de cette amélioration
+    - quote: il n’avait pas et ne pouvait avoir l’adresse de maître Jup pour gravir des échelons
+    - quote: sur le dos de Nab, ou même sur celui de l’orang
+  - He goes before the colonists in the line against the culpeux with his formidable jaws open, and fights with real fury, leaping at the foxes' throats and strangling them outright (II.12 ¶41, ¶46). *(Drafted.)*
+    - quote: Top, ses formidables mâchoires ouvertes, précédait les colons
+    - quote: Top se battait avec une fureur véritable
+    - quote: sautant à la gorge des renards et les étranglant net
+  - Nab counts him as a colonist: 'Top en vaut bien un autre !' (II.12 ¶118). *(Drafted.)*
+    - quote: Top en vaut bien un autre
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -131,4 +141,18 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - His master, who watches this several times, takes him for a sensible dog "qui n’ont jamais perdu leur temps à aboyer à la lune", and wonders what in the well so affects him (I.22 ¶54). *(Drafted.)*
     - quote: un de ces chiens sensés qui n’ont jamais perdu leur temps à aboyer à la lune
     - quote: Qu’y avait-il donc dans cet abîme qui pût impressionner à ce point l’intelligent animal
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8
+  - His barks again take on the strange intonation the engineer had already noted, and he again circles the mouth of the well at the end of the inner passage; Jup joins him, and the two seem uneasy rather than angry (II.11 ¶66, ¶69). *(Drafted.)*
+    - quote: les aboiements de Top, qui éclatèrent de nouveau avec cette intonation étrange
+    - quote: Top recommençait à tourner autour de l’orifice du puits
+    - quote: plutôt inquiets qu’irrités
+  - Silenced by Pencroff, he stays in the room and goes on giving low growls all evening (II.11 ¶72). *(Drafted.)*
+    - quote: Top resta dans le salon
+    - quote: continua à faire entendre de sourds grognements pendant toute la soirée
+  - He is the first to wake the colonists with his barking, at about four in the morning, and this time he does not bark at the well's mouth but at the door, hurling himself on it as if to break it in (II.12 ¶16, ¶17). *(Drafted.)*
+    - quote: réveillés par les aboiements de Top
+    - quote: Le chien n’aboyait pas, cette fois, près de l’orifice du puits, mais au seuil de la porte
+    - quote: comme s’il eût voulu l’enfoncer
+  - He licks Jup's hand, which hangs out of the bed, ruefully, and walks 'on tiptoe' to visit his friend (II.12 ¶57). *(Drafted.)*
+    - quote: Top, marchant, on peut dire « sur la pointe des pieds », venait visiter son ami
+    - quote: Top la léchait d’un air contrit
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12

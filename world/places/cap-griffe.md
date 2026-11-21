@@ -50,12 +50,14 @@ Keywords: cap Griffe, headland, promontory, point, south shore, cap de la Griffe
     - quote: qu’un phénomène de mirage rehaussait, comme s’il eût été suspendu entre la terre et l’eau
   - From the cove of port Ballon, less than ten miles from it, the view passes over the last rocks of the cape to the Union Bay (see [port Ballon](port-ballon.md)) (II.5 ¶44, ¶47). *(Drafted.)*
     - quote: passant par-dessus les dernières roches du cap
+  - From the sea off port Ballon the coast is seen from cap Griffe to the promontoire du Reptile (II.12 ¶98). *(Drafted.)*
+    - quote: depuis le cap Griffe jusqu’au promontoire du Reptile
 - **On the page.**
   - From the plateau a sharp point in the south shuts the horizon, and one could not tell whether the land goes on or turns south-east and south-west, making a very long peninsula (I.4 ¶46). *(Drafted.)*
     - quote: une sorte de presqu’île très-allongée
   - The half-circle of horizon visible from the plateau runs from the cape to the promontory of the Reptile (I.13 ¶73). *(My reading, to confirm.)*
     - quote: depuis le cap jusqu’au promontoire du Reptile
-- **Appears in:** I.3, I.4, I.11, I.13, I.19, I.21, II.1, II.2, II.5
+- **Appears in:** I.3, I.4, I.11, I.13, I.19, I.21, II.1, II.2, II.5, II.12
 - **Open:**
   - The text does not say how far the cape is from the Chimneys or the plateau.
     - quote: le cap Griffe lui cachait l’horizon du sud

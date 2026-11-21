@@ -157,6 +157,47 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Parce qu’ils n’ont point les oreilles longues et que leurs formes sont plus gracieuses
   - He seldom returns from an excursion without bringing back some useful plants (II.8 ¶43). *(Drafted.)*
     - quote: Harbert ne revenait guère d’une excursion sans rapporter quelques végétaux utiles
+  - He has grown two inches in a year; his face is forming and becoming more manly, and he promises to be a man as accomplished in body as in mind (II.9 ¶13). *(Drafted.)*
+    - quote: Harbert avait déjà grandi de deux pouces depuis un an
+    - quote: Sa figure se formait et devenait plus mâle
+    - quote: aussi accompli au physique qu’au moral
+  - He uses his leisure from manual work to study, reads the few books found in the chest, and has the engineer as his master in the sciences and the reporter in languages (II.9 ¶13). *(Drafted.)*
+    - quote: il lisait les quelques livres trouvés dans la caisse
+    - quote: dans l’ingénieur pour les sciences, dans le reporter pour les langues, des maîtres
+  - Cyrus Smith's fixed idea is to pass on to him all he knows, and he profits largely by the lessons of his professor; Cyrus thinks that if he dies, Harbert will replace him (II.9 ¶14, ¶15). *(Drafted.)*
+    - quote: Harbert profitait largement des leçons de son professeur
+    - quote: c’est lui qui me remplacera
+  - He is the engineer's helper at the glassworks and blows the glass bubble through the cane, turning it constantly, until it measures a foot across (II.9 ¶33, ¶39). *(Drafted.)*
+    - quote: Gédéon Spilett et Harbert, les aides naturels de l’ingénieur
+    - quote: Harbert, gonflant ses joues, souffla tant et si bien dans la canne
+    - quote: une bulle qui mesurait un pied de diamètre
+  - Hunting with the engineer, he keeps asking him a thousand questions and talks chemistry and physics, so that kangaroos, capybaras and agoutis pass within range and escape his gun (II.9 ¶44). *(Drafted.)*
+    - quote: Harbert parlait chimie et physique
+    - quote: le jeune garçon faisait mille questions à l’ingénieur
+    - quote: échappèrent pourtant au fusil du jeune garçon
+  - He knows the cycas revoluta, of which he has the portrait in the natural history dictionary, and knows that its trunk holds a flour that nature supplies ready-ground; the finding of the 'bread tree' is his (II.9 ¶48, ¶50, ¶54). *(Drafted.)*
+    - quote: C’est un « cycas revoluta », dont j’ai le portrait dans notre dictionnaire d’histoire naturelle
+    - quote: son tronc contient une farine que la nature nous fournit toute moulue
+    - quote: Harbert ne s’était pas trompé
+  - He fetches the atlas, which was published in France and so has French nomenclature (II.9 ¶85). *(Drafted.)*
+    - quote: Harbert alla chercher l’atlas
+    - quote: dont, par conséquent, la nomenclature était en langue française
+  - He recognises the tobacco plant that the reporter brings: 's’il n’est pas de première qualité, ce n’en est pas moins du tabac'; it is he who proposes to keep the find from Pencroff until a filled pipe can be offered him, and Spilett credits him with having recognised the plant (II.10 ¶26, ¶28, ¶30, ¶100). *(Drafted.)*
+    - quote: voilà une trouvaille qui vous assure tous les droits à la reconnaissance de Pencroff
+    - quote: ce n’en est pas moins du tabac
+    - quote: Ne disons rien à Pencroff
+    - quote: à Harbert qui a reconnu cette plante
+  - He knows that the island lies in the 'Whale-Field' of the English and American fishermen, between New Zealand and South America (II.10 ¶40). *(Drafted.)*
+    - quote: précisément sur cette partie du Pacifique que les pêcheurs anglais et américains appellent
+  - He is the one who recognised the barking foxes of the Red Creek's sources, on his first visit there, and names them culpeux (II.12 ¶34, ¶35). *(Drafted.)*
+    - quote: il se souvint de les avoir déjà entendus pendant sa première visite aux sources du Creek-Rouge
+    - quote: Ce sont des culpeux, ce sont des renards
+  - He shoots the albatross with a gunshot that wounds its foot lightly, and would gladly keep it and tame it, but yields to Spilett's argument (II.11 ¶32, ¶33). *(Drafted.)*
+    - quote: un coup de fusil d’Harbert avait légèrement blessé à la patte
+    - quote: Harbert aurait bien voulu garder ce superbe oiseau
+    - quote: Harbert dut se rendre
+  - He handles the sailmaker's needle skilfully (II.12 ¶12). *(Drafted.)*
+    - quote: Harbert, qui maniait habilement l’aiguille du voilier
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -192,6 +233,14 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: qui sauva Harbert d’une mort certaine en apportant le sulfate de quinine
   - He draws near to Nemo, kneels, takes his hand and kisses it (III.16 ¶84). *(Drafted.)*
     - quote: Il plia les genoux, il prit sa main et la lui baisa.
+  - Cyrus Smith calls him 'cet enfant, dont le hasard a fait notre fils' (II.11 ¶23). *(Drafted.)*
+    - quote: cet enfant, dont le hasard a fait notre fils
+  - In the bow of the Bonadventure, to point the course through the passes, he cries 'Lofe, Pencroff, lofe', plunges his arm in the water and comes up with a bottle he has seized a few cable-lengths from the coast (II.12 ¶124, ¶125, ¶128, ¶129, ¶130). *(Drafted.)*
+    - quote: Harbert se tenait à l’avant, afin d’indiquer la route à suivre au milieu des passes
+    - quote: Lofe, Pencroff, lofe
+    - quote: plongea rapidement son bras dans l’eau
+    - quote: Une bouteille
+    - quote: à quelques encâblures de la côte
 - **Habits.**
   - He is a naturalist who names what the party finds (I.4 ¶16). *(Drafted.)*
     - quote: Le jeune garçon était très-fort en histoire naturelle
@@ -203,7 +252,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: remarquablement instruit déjà dans les sciences naturelles
   - He shoots with a bow (I.13 ¶36). *(Drafted.)*
     - quote: de très-adroits tireurs d’arc
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

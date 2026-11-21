@@ -36,4 +36,17 @@ Keywords: mouflon, mouton, sheep, bighorn, horns, wool, toison, gigot, côtelett
   - Most of those taken are females, some about to give birth, so the flock should prosper and wool and skins abound (II.8 ¶40). *(Drafted.)*
     - quote: La plupart de ces mouflons étaient des femelles
     - quote: le troupeau prospérerait
-- **Appears in:** I.10, I.20, I.22, II.7, II.8
+  - Their lambs are born at the corral: several bleat under the sheds, and Nab and Harbert each have a favourite among the new-born (II.9 ¶17). *(Drafted.)*
+    - quote: accroissement du troupeau de mouflons
+    - quote: plusieurs agneaux bêlaient déjà sous les hangars
+    - quote: qui avaient chacun leur favori parmi les nouveaux-nés
+  - The goats and ewes of the corral give daily milk with the onagga; the text does not say the ewes are the mouflons (II.9 ¶63). *(My reading, to confirm.)*
+    - quote: les chèvres et les brebis du corral
+  - Their wool, taken from the corral's mouflons, is a fibre of very short strands, a good condition for felting; it is washed in tubs at seventy degrees for twenty-four hours, then in soda baths (II.11 ¶2, ¶3, ¶4). *(Drafted.)*
+    - quote: Les mouflons du corral avaient été dépouillés de leur laine
+    - quote: la laine fournie par les mouflons était faite de brins très-courts
+    - quote: c’est une bonne condition pour le feutrage
+    - quote: la laine plongea pendant vingt-quatre heures
+  - The flock of mouflons and goats at the corral counts a certain number of young that have to be housed and fed (II.12 ¶85). *(Drafted.)*
+    - quote: le troupeau de mouflons et de chèvres comptait un certain nombre de petits
+- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12

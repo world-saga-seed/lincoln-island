@@ -34,4 +34,8 @@ Keywords: Pacifique, ocean, sea, océan, Mexico, crossing, presumption
     - quote: ce Pacifique pourra se changer un jour en un vaste continent
   - The Pacific tides, even at their greatest rise, would never reach the level of the Falls-river’s bed (II.4 ¶35). *(Drafted.)*
     - quote: les marées du Pacifique, même à leur maximum d’élévation, ne devaient jamais atteindre le niveau de la rivière
-- **Appears in:** I.7, I.9, I.11, I.14, I.16, I.19, I.21, II.4
+  - Between New Zealand and South America lies the part the English and American whalers call the "Whale-Field" (see [the Whale-Field](whale-field.md)) (II.10 ¶40). *(Drafted.)*
+    - quote: cette partie du Pacifique que les pêcheurs anglais et américains appellent le « Whale-Field
+  - It is the Pacific, "si fécond en sinistres", that a small boat would have to cross to reach Tabor (II.11 ¶11). *(Drafted.)*
+    - quote: au milieu de ce Pacifique, si fécond en sinistres
+- **Appears in:** I.7, I.9, I.11, I.14, I.16, I.19, I.21, II.4, II.10, II.11

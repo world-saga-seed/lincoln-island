@@ -13,4 +13,7 @@ Keywords: gourdins, bâtons, sticks, cudgels, branches, weapons, hunting, no kni
     - quote: après avoir arraché trois bâtons au tronc d’un jeune sapin
   - The explorers set out for the mountain armed with sticks (I.10 ¶20). *(Drafted.)*
     - quote: les explorateurs, armés de bâtons
-- **Appears in:** I.6, I.9, I.10
+  - Jup fights the culpeos with a knotty club he brandishes like a mace; it breaks in the fight, and he is found holding a stump of it (II.12 ¶41, ¶51). *(Drafted.)*
+    - quote: Jup, armé d’un gourdin noueux qu’il brandissait comme une massue
+    - quote: le tronçon de son bâton rompu
+- **Appears in:** I.6, I.9, I.10, II.12

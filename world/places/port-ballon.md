@@ -32,4 +32,11 @@ Keywords: port Ballon, Balloon harbour, crique, passe, havre, coupée, natural p
     - quote: une assez vaste cavité rocheuse
   - A road is cut to it through the Far-West forest for the cart (see [the road to port Ballon](port-ballon-road.md)) (II.7 ¶61). *(Drafted.)*
     - quote: depuis le coude de la Mercy jusqu’au port Ballon
-- **Appears in:** II.5, II.7
+  - The hunters go to the marsh by the road to port Ballon after crossing the Mercy bridge (II.11 ¶80). *(Drafted.)*
+    - quote: Les chasseurs prirent donc la route de port Ballon pour se rendre au marais
+  - Abreast of it, three or four miles out, the whole island shows with its coast from cap Griffe to the promontoire du Reptile (II.12 ¶98). *(Drafted.)*
+    - quote: à trois ou quatre milles de la côte, par le travers du port Ballon
+  - The passes left between sandbanks and reefs have to be tested and, if need be, buoyed, since the small cove is to be the boat’s home port (see [the Bonadventure](../things/bonadventure.md)) (II.12 ¶122). *(Drafted.)*
+    - quote: les passes ménagées entre les bancs de sable et les récifs
+    - quote: cette petite crique devait être le port d’attache du bateau
+- **Appears in:** II.5, II.7, II.11, II.12

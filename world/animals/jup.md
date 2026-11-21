@@ -68,6 +68,68 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
     - quote: d’un seul coup d’épaule, la remettait en bon chemin
   - Pencroff says that were he as wicked as he is good, there would be no managing him (II.8 ¶29). *(Drafted.)*
     - quote: S’il était aussi méchant qu’il est bon
+  - He has a room of his own near the general storeroom, a cabin with a frame always full of good litter, which suits him perfectly (II.9 ¶7). *(Drafted.)*
+    - quote: occupait une chambre à part, près du magasin général
+    - quote: toujours rempli de bonne litière
+  - Pencroff praises him as a servant who never complains and never answers back; Nab calls him his pupil and soon his equal, and Pencroff says he is Nab's superior, since Nab talks and Jup does not (II.9 ¶8, ¶9, ¶10). *(Drafted.)*
+    - quote: jamais de récrimination
+    - quote: jamais de réponse inconvenante
+    - quote: Mon élève, répondait Nab, et bientôt mon égal
+    - quote: toi, Nab, tu parles, et lui, ne parle pas
+  - He knows the service now: he beats the clothes, turns the spit, sweeps the rooms, serves at table, stacks the wood, and never goes to bed without first tucking Pencroff in (II.9 ¶11). *(Drafted.)*
+    - quote: battait les habits, il tournait la broche, il balayait les chambres, il servait à table, il rangeait le bois
+    - quote: il ne se couchait jamais sans être venu border le digne marin dans son lit
+  - He is charged with bringing the young peccaries their daily food, scraps and dish-water, and does it conscientiously; he sometimes pulls their tails, for the curled tails amuse him like a toy, which is mischief and not malice, his instinct being a child's (II.9 ¶18). *(Drafted.)*
+    - quote: Maître Jup, chargé de leur apporter la nourriture quotidienne
+    - quote: s’acquittait consciencieusement de sa tâche
+    - quote: c’était malice et non méchanceté
+    - quote: son instinct était celui d’un enfant
+  - He has the skill with rungs that Top lacks; Top had often had to go up to Granite-house on Nab's back or on the orang's (II.9 ¶32). *(Drafted.)*
+    - quote: l’adresse de maître Jup pour gravir des échelons
+    - quote: ou même sur celui de l’orang
+  - He can drive the light cart: Pencroff takes him on his rounds to the corral and has him drive, and Jup cracks his whip with his usual intelligence (II.9 ¶63). *(Drafted.)*
+    - quote: il emmenait Jup et le faisait conduire
+    - quote: faisant claquer son fouet
+    - quote: avec son intelligence habituelle
+  - He is Nab's helper in the domestic work (II.10 ¶5). *(Drafted.)*
+    - quote: maître Jup, son aide
+  - In the dark he brandishes a knotty club like a mace; the narrator supposes he sees through the darkness, and he gives a shrill whistle that marks extreme jubilation with him (II.12 ¶41, ¶46). *(Drafted.)*
+    - quote: armé d’un gourdin noueux qu’il brandissait comme une massue
+    - quote: d’une vue qui lui permettait de percer cette obscurité
+    - quote: un sifflement aigu, qui était chez lui la marque d’une extrême jubilation
+  - He holds his ground with rare coolness against five or six big culpeux, and will not be kept back (II.12 ¶46). *(Drafted.)*
+    - quote: auxquels il tenait tête avec un rare sang-froid
+    - quote: c’était en vain qu’on voulait le faire rester en arrière
+  - Nab is his friend, and Jup answers his call; the narrator calls him 'l'intrépide animal' (II.12 ¶50, ¶51). *(Drafted.)*
+    - quote: Son ami Nab l’appela
+    - quote: pour la première fois, Jup ne répondit pas à l’appel de son ami
+    - quote: l’intrépide animal
+  - He seems to understand Pencroff's words and lays his head on the sailor's shoulder as if to thank him (II.12 ¶54). *(Drafted.)*
+    - quote: Il semblait que Jup comprît
+    - quote: comme pour le remercier
+  - Nab has him nursed 'tout comme à une personne naturelle'; Top, walking on tiptoe, visits his friend and seems to approve the care, and licks his hand ruefully (II.12 ¶56, ¶57). *(Drafted.)*
+    - quote: tout comme à une personne naturelle
+    - quote: Top, marchant, on peut dire « sur la pointe des pieds », venait visiter son ami
+    - quote: Top la léchait d’un air contrit
+  - His constitution wins out; the reporter, who is a little of a doctor, soon takes him as out of danger; he has one 'défaut mignon', being a trifle greedy, which Nab has never tried to cure (II.12 ¶60). *(Drafted.)*
+    - quote: Sa constitution l’emporta
+    - quote: qui était un peu médecin
+    - quote: s’il avait un défaut mignon, c’était d’être un tantinet gourmand
+    - quote: Nab n’avait jamais rien fait pour le corriger de ce défaut-là
+  - The narrator says the instinct that too often fails reasoning beings would save the orang from any excess in his convalescent hunger (II.12 ¶62). *(Drafted.)*
+    - quote: il se fiait à cet instinct qui manque trop souvent aux êtres raisonnants
+    - quote: qui devait préserver l’orang de tout excès
+  - Cyrus Smith cites several examples of tamed apes to whom the use of tobacco has become familiar (II.12 ¶72). *(Drafted.)*
+    - quote: plusieurs exemples de singes apprivoisés, auxquels l’usage du tabac était devenu familier
+  - The friendship between Jup and Pencroff is already close and is tightened by their shared taste for tobacco (II.12 ¶73). *(Drafted.)*
+    - quote: cette communauté de goût ne fit que resserrer entre Jup et Pencroff
+    - quote: ces étroits liens d’amitié qui unissaient déjà le digne singe et l’honnête marin
+  - Pencroff says he may be a man and wonders whether he will one day speak; Nab says it is rather that he does not speak, 'il ne lui manque que la parole', and calls him 'muet de naissance' (II.12 ¶74, ¶75, ¶77). *(Drafted.)*
+    - quote: C’est peut-être un homme
+    - quote: il ne lui manque que la parole
+    - quote: muet de naissance
+  - Pencroff counts him among the colony: 'Sur six ! Vous oubliez Jup.' (II.12 ¶117). *(Drafted.)*
+    - quote: Sur six ! répondit Pencroff. Vous oubliez Jup.
 - **On the page.**
   - He is the ape that took refuge in the passage and is run down by Nab; he defends himself valiantly before being thrown down and bound (II.6 ¶89, ¶96). *(Drafted.)*
     - quote: un grand singe, qui s’était réfugié dans le couloir
@@ -83,8 +145,35 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
     - quote: Pencroff avait délié ses bras
     - quote: les entraves aux jambes
     - quote: maître Jup avait été mis en liberté
-- **Appears in:** II.6, II.7, II.8
+  - While Top barks at the well's mouth, he joins him with unmistakable signs of agitation, grumbling, and the two animals seem uneasy rather than angry; Pencroff sends him back to his room, and he goes to lie down (II.11 ¶68, ¶69, ¶71, ¶72). *(Drafted.)*
+    - quote: Jup à grogner de cette façon
+    - quote: donnait des signes non équivoques d’agitation
+    - quote: plutôt inquiets qu’irrités
+    - quote: Jup retourna se coucher
+  - When Top barks at the door in the night, Jup cries shrilly (II.12 ¶17). *(Drafted.)*
+    - quote: Jup, de son côté, poussait des cris aigus
+  - After the fight with the culpeux he is found under a heap of dead foxes, jaws smashed and backs broken by his club, the stump of his broken stick still in his hand and deep wounds across his chest; a fever follows (II.12 ¶51, ¶55). *(Drafted.)*
+    - quote: Jup fut retrouvé au milieu d’un véritable monceau de culpeux
+    - quote: au terrible gourdin de l’intrépide animal
+    - quote: tenait encore à la main le tronçon de son bâton rompu
+    - quote: de profondes blessures labouraient sa poitrine
+    - quote: la fièvre se déclara à un degré assez fort
+  - He begins to eat on 16 August, and gets up on 21 August with his wounds healed, taken at once by a ravenous hunger (II.12 ¶60, ¶62). *(Drafted.)*
+    - quote: Le 16 août, Jup commença à manger
+    - quote: le 21 août, maître Jup se leva
+    - quote: Ses blessures étaient cicatrisées
+    - quote: une faim dévorante
+  - On 25 August he is found smoking Pencroff's pipe, crouched like a Turk on the threshold of Granite-house; Pencroff gives it to him, and he has his own pipe hung in his room beside his tobacco supply, fills it himself and lights it from a live coal (II.12 ¶64, ¶69, ¶70, ¶73). *(Drafted.)*
+    - quote: le 25 août
+    - quote: accroupi comme un turc sur la porte de Granite-house
+    - quote: je t’en fais cadeau
+    - quote: l’ex-pipe du marin
+    - quote: il l’allumait à un charbon ardent
+- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12
 - **Open:**
   - Whether Jup lowered the ladder is not said: Cyrus Smith says he did (II.6 ¶94), and Pencroff, the next day, speaks of "cette échelle qu'il nous a si galamment renvoyée hier" (II.7 ¶11); the chapter does not say who in fact lowered it. *(My reading, to confirm.)*
     - quote: C’est lui qui nous a jeté l’échelle
     - quote: cette échelle qu’il nous a si galamment renvoyée hier
+  - The fight is dated to the night of 11 August (II.12 ¶15), and Jup's rising to 21 August, "ten days after taking to bed" (II.12 ¶62); ten days before 21 August is 11 August, though the fight ended at dawn, after that night had begun. Card neither. *(Drafted.)*
+    - quote: Dix jours après avoir pris le lit, le 21 août, maître Jup se leva.
+    - quote: dans la nuit du 11 août

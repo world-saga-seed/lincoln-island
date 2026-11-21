@@ -14,8 +14,15 @@ Keywords: koula, paresseux, sloth, ours, bear, griffes, claws, arbre, tree, feui
     - quote: n’appartenait point à cette redoutable famille des plantigrades
   - Two or three koulas are seen on the march toward the west coast, and Pencroff would gladly have sent them a few charges of shot (II.4 ¶8). *(Drafted.)*
     - quote: deux ou trois koulas, auxquels Pencroff eût volontiers adressé quelques charges de plomb
+  - Three big herbivores are killed in the last fortnight of April, koulas like the one seen north of the lake, that let themselves be killed stupidly between the thick branches of the trees where they had taken refuge (II.10 ¶19). *(Drafted.)*
+    - quote: trois gros herbivores furent tués pendant cette dernière quinzaine d’avril
+    - quote: des koulas, dont les colons avaient déjà vu un échantillon au nord du lac
+    - quote: se laissèrent tuer stupidement entre les grosses branches des arbres
+  - Their skins are taken to Granite-house and given a kind of tanning with sulphuric acid that makes them usable (II.10 ¶19). *(Drafted.)*
+    - quote: Leurs peaux furent rapportées à Granite-house
+    - quote: l’acide sulfurique aidant, elles furent soumises à une sorte de tannage qui les rendit utilisables
 - **On the page.**
   - The reporter, seeing it between the first branches of a tree in a thick copse, takes it for a bear; once its identity is verified it is left to its business (I.15 ¶38). *(Drafted.)*
     - quote: un animal qu’il prit pour un ours
     - quote: qu’on ne dérangea point de ses occupations
-- **Appears in:** I.15, II.4
+- **Appears in:** I.15, II.4, II.10

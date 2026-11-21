@@ -19,6 +19,8 @@ Keywords: bougies, chandelle, stearic, stéarique, wicks, mèches, light, éclai
   - With the shutters stopped tight in the cold of August the consumption of candles was considerable, and the colonists often lit only by the flame of the hearths to save them (I.22 ¶41). *(Drafted.)*
     - quote: la consommation de bougies fut considérable
     - quote: ne s’éclairèrent souvent qu’avec la flamme des foyers
+  - The great hall is lit with candles in the winter evenings (II.11 ¶41). *(Drafted.)*
+    - quote: bien éclairée de bougies
 - **Made from.**
   - Smith had the lime and the sulphuric acid, and the seals of the islet would supply the fat (I.20 ¶18). *(Drafted.)*
     - quote: il avait de la chaux et de l’acide sulfurique
@@ -38,4 +40,4 @@ Keywords: bougies, chandelle, stearic, stéarique, wicks, mèches, light, éclai
     - quote: ne dura pas plus de vingt-quatre heures
   - Smith also made a fine pair of snuffers (see [the snuffers](snuffers.md)) (I.20 ¶25). *(Drafted.)*
     - quote: une belle paire de mouchettes
-- **Appears in:** I.20, I.22
+- **Appears in:** I.20, I.22, II.11

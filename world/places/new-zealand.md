@@ -20,4 +20,8 @@ Keywords: Nouvelle-Zélande, Maoris, English, colony, landfall
   - The eucalyptus are called there "fever trees" (II.3 ¶48, ¶50). *(Drafted.)*
     - quote: Savez-vous comment on les appelle dans l’Australie et la Nouvelle-Zélande
     - quote: les « arbres à fièvre »
-- **Appears in:** I.9, I.14, II.1, II.3
+  - The Whale-Field lies between New Zealand and South America, where the southern whales are met in greatest number (II.10 ¶40). *(Drafted.)*
+    - quote: entre la Nouvelle-Zélande et l’Amérique du Sud, que les baleines de l’hémisphère austral se rencontrent en plus grand nombre
+  - Harbert says the albatross, vanished in the west, goes towards it (II.11 ¶37). *(Drafted.)*
+    - quote: Vers la Nouvelle-Zélande
+- **Appears in:** I.9, I.14, II.1, II.3, II.10, II.11

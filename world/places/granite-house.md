@@ -110,6 +110,24 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: halés sur le sable
   - It has a great hall, where on 29 October the objects of the chest are set out in order (II.2 ¶76). *(Drafted.)*
     - quote: disposés méthodiquement dans la grande salle
+  - Its fitting-out is improved day by day: a rack for the arms, kept with extreme care, shelves and cupboards leaving nothing to wish for (see [the lathe](../things/the-lathe.md)) (II.9 ¶6). *(Drafted.)*
+    - quote: dont l’aménagement se perfectionnait et se complétait de jour en jour
+    - quote: Un râtelier avait été installé pour les armes
+  - Its windows are soon fitted with glass panes (see [the window glass](../things/window-glass.md)) (II.9 ¶41). *(Drafted.)*
+    - quote: les fenêtres de Granite-house furent-elles bientôt garnies de plaques diaphanes
+  - The lift carries people and loads up to its door (see [the hydraulic lift](../things/the-hydraulic-lift.md)) (II.9 ¶31). *(Drafted.)*
+    - quote: on pouvait s’élever dans la banne jusqu’à la porte de Granite-house
+  - Nab’s kitchen has a window from which he can watch the shore (II.10 ¶47). *(Drafted.)*
+    - quote: Nab, posté à la fenêtre de sa cuisine
+  - Smith installs a second fireplace in the great hall, where the long winter evenings pass (II.11 ¶40). *(Drafted.)*
+    - quote: Cyrus Smith avait installé une seconde cheminée dans la grande salle
+  - In the winter storms the sea breaks against the Granite-house wall, and the spray rises to more than a hundred feet (II.11 ¶74, ¶75). *(Drafted.)*
+    - quote: les précipitait sur la muraille de Granite-house
+    - quote: dont les embruns s’élevaient à une hauteur de plus de cent pieds
+  - The flag is run up at the central window (II.12 ¶14). *(Drafted.)*
+    - quote: ce pavillon fut arboré à la fenêtre centrale de Granite-house
+  - Jup has a room of his own in it (see [Jup’s room](jups-room.md)) (II.9 ¶7). *(My reading, to confirm.)*
+    - quote: il occupait une chambre à part, près du magasin général
   - The colonists are called the colonists of Granite-house, so it is their dwelling (III.16 ¶66). *(My reading, to confirm.)*
     - quote: les colons de Granite-house
   - It has an inner well (a shaft) that can be reached from the sea floor (III.16 ¶64). *(Drafted.)*
@@ -140,7 +158,10 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: la corde du haut de Granite-house
   - Nemo summoned the colonists of Granite-house by a wire linking the corral to the Nautilus (III.16 ¶66). *(Drafted.)*
     - quote: il manda, comme on sait, les colons de Granite-house
-- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, III.16
+- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, III.16
 - **Open:**
   - Chapter I.13 knows no Granite-house: there the engineer still hopes to find or build a better dwelling than the Chimneys (I.13 ¶40). Nothing in these chapters says where Granite-house stands, how big it is, or how the well opens inside it.
     - quote: une demeure plus convenable
+  - Whether the "seconde cheminée dans la grande salle" of II.11 ¶40 is the second fireplace set "dans la salle à manger" of I.21 ¶5 is not said (I.21 ¶5; II.11 ¶40). *(Drafted.)*
+    - quote: Une seconde cheminée avait été établie dans la salle à manger
+    - quote: une seconde cheminée dans la grande salle

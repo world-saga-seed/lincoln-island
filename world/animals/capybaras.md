@@ -24,16 +24,7 @@ Keywords: cabiai, capybara, rongeur, rodent, amphibie, pond, mare, ham, game, po
     - quote: d’agoutis, de cabiais, de kangourous
   - Cabiais swarm in the woods at the start of 1866, with other game of fur and feather (II.8 ¶6). *(Drafted.)*
     - quote: Agoutis, pécaris, cabiais, kangourous, gibiers de poil et de plume fourmillaient véritablement
-- **On the page.**
-  - Held by Top, it does not struggle, and the narrator guesses it may be seeing men for the first time (I.9 ¶105). *(Drafted.)*
-    - quote: Peut-être voyait-il des hommes pour la première fois.
-  - It tears free of Top's teeth, grunts, knocks Harbert half over and vanishes into the wood (I.9 ¶106). *(Drafted.)*
-    - quote: poussa un vigoureux grognement, se précipita sur Harbert, le renversa à demi
-  - It dives into a wide pool shaded by great old pines and hides at the bottom (I.9 ¶108, ¶109). *(Drafted.)*
-    - quote: l’animal disparaissait sous les eaux d’une vaste mare, ombragée par de grands pins séculaires
-    - quote: caché au fond de la mare
-  - Dragged to the bank, it is killed by a blow of Nab's stick (I.9 ¶114). *(Drafted.)*
-    - quote: était assommé d’un coup du bâton de Nab
-  - Pencroff carries it on his shoulder; he means to roast it as soon as there is a coal (I.9 ¶115, ¶116). *(Drafted.)*
-    - quote: ce rongeur sera rongé jusqu’aux os
-- **Appears in:** I.9, I.22, II.1, II.8
+  - Capybaras pass within good range of Harbert's gun in the Far-West forest, on the left of the Mercy, and escape it (II.9 ¶44). *(Drafted.)*
+    - quote: bien des kangourous, des cabiais ou des agoutis passèrent à bonne portée
+    - quote: échappèrent pourtant au fusil du jeune garçon
+- **Appears in:** I.9, I.22, II.1, II.8, II.9

@@ -46,5 +46,9 @@ Keywords: baie, grève, beach, shore, reefs, brisants, sandbanks, ebb, coast, ba
     - quote: les deux caps Mandibule paraissaient se déplacer et fermer plus étroitement la baie de l’Union
   - From the cove of port Ballon the view passes over the last rocks of cap Griffe and loses itself in the Union Bay (II.5 ¶47). *(Drafted.)*
     - quote: il allait se perdre jusque dans la baie de l’Union
+  - The whale, deeply engaged in the vast bay, ranges it quickly from cap Mandibule to cap Griffe (II.10 ¶44). *(Drafted.)*
+    - quote: profondément engagé dans la vaste baie de l’Union, la sillonnait rapidement depuis le cap Mandibule jusqu’au cap Griffe
+  - To leave it the Bonadventure first runs before the wind (II.12 ¶95). *(Drafted.)*
+    - quote: Pour sortir de la baie de l’Union, il fallut d’abord faire vent arrière
 - **On the page.**
-- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5
+- **Appears in:** I.3, I.4, I.5, I.11, I.14, I.19, I.21, II.2, II.5, II.10, II.12

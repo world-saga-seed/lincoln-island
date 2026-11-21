@@ -1,0 +1,82 @@
+# The austral whale: the Cape whale found dead on the Wreck Point shore
+
+*A whale of the southern species, eighty feet long, that lingers in Union Bay and strands dead with a harpoon in its left flank.*
+
+Keywords: baleine, baleine australe, baleine du Cap, whale, cétacé, harpon, harpoon, fanons, baleen, whalebone, huile, oil, lard, blubber, Maria-Stella, Vineyard, Whale-Field, pointe de l’Épave, Wreck Point
+
+- **What it is.**
+  - It is a whale of the largest size, which probably belongs to the southern species called the 'baleine du Cap' (II.10 ¶35). *(Drafted.)*
+    - quote: une baleine de la plus grande taille
+    - quote: à l’espèce australe, dite « baleine du Cap »
+  - The island lies in the part of the Pacific that English and American fishermen call the 'Whale-Field', between New Zealand and South America, where the whales of the southern hemisphere are met in greatest numbers (II.10 ¶40, n1). *(Drafted.)*
+    - quote: Whale-Field
+    - quote: entre la Nouvelle-Zélande et l’Amérique du Sud
+    - quote: les baleines de l’hémisphère austral se rencontrent en plus grand nombre
+    - quote: Champ des baleines
+  - It is wholly black, with a head more depressed than that of the whales of the north (II.10 ¶44). *(Drafted.)*
+    - quote: la baleine australe, qui est entièrement noire
+    - quote: dont la tête est plus déprimée que celle des baleines du nord
+  - It moves by jerks, pushed by its prodigiously powerful tail fin, at a speed that sometimes reaches twelve miles an hour (II.10 ¶44). *(Drafted.)*
+    - quote: poussé par sa nageoire caudale prodigieusement puissante
+    - quote: se mouvait par soubresauts
+    - quote: douze milles à l’heure
+  - It throws from its blowholes, to a great height, a cloud of vapour or of water; naturalists and whalers are not agreed which, and it is generally held to be vapour condensing in the cold air (II.10 ¶45). *(Drafted.)*
+    - quote: rejeter par ses évents, et à une grande hauteur, un nuage de vapeur… ou d’eau
+    - quote: les naturalistes et les baleiniers ne sont pas encore d’accord
+    - quote: On admet généralement que c’est de la vapeur
+  - The stranded whale is eighty feet long, a giant of its species, and must weigh not less than a hundred and fifty thousand pounds (II.10 ¶51). *(Drafted.)*
+    - quote: longue de quatre-vingts pieds, un géant de l’espèce
+    - quote: cent cinquante mille livres
+  - She is a female, and her teats give a great quantity of milk which, on the naturalist Dieffenbach's opinion, may pass for cow's milk, differing neither in taste, nor colour, nor density (II.10 ¶65). *(Drafted.)*
+    - quote: Cette baleine était une femelle
+    - quote: une grande quantité d’un lait
+    - quote: du lait de vache
+    - quote: ni par le goût, ni par la coloration, ni par la densité
+  - The blubber is cut in parallel slices two and a half feet thick and divided into pieces of about a thousand pounds each; melted in big earthen vessels it loses about a third of its weight; the tongue alone gives six thousand pounds of oil and the lower lip four thousand (II.10 ¶67). *(Drafted.)*
+    - quote: coupé en tranches parallèles de deux pieds et demi d’épaisseur
+    - quote: qui pouvaient peser mille livres chacun
+    - quote: il perdit environ un tiers de son poids
+    - quote: la langue seule donna six mille livres d’huile, et la lèvre inférieure quatre mille
+  - The fat should assure a long supply of stearine and glycerine (II.10 ¶67). *(Drafted.)*
+    - quote: la provision de stéarine et de glycérine
+  - The upper part of the mouth bears, on both sides, eight hundred very elastic horny blades of fibrous texture, edged like two great combs, whose teeth, six feet long, retain the animalcules, small fish and molluscs the whale feeds on (II.10 ¶67). *(Drafted.)*
+    - quote: huit cents lames cornées, très-élastiques, de contexture fibreuse
+    - quote: dont les dents, longues de six pieds
+    - quote: les milliers d’animalcules, de petits poissons et de mollusques dont se nourrit la baleine
+  - The colonists know before the kill that such a prey would profit them, for the oil, fat and baleen can be put to many uses; a dozen baleens, each cut in six equal parts and sharpened, are made into the engines used against foxes and wolves, a hunters' device of the Aleutians (II.10 ¶43, ¶69, ¶75). *(Drafted.)*
+    - quote: l’huile, la graisse, les fanons pouvaient être employés à bien des usages
+    - quote: Il prit une douzaine de fanons de baleine qu’il coupa en six parties égales
+    - quote: fréquemment employé par les chasseurs aléoutiens
+- **On the page.**
+  - It is seen swimming in the island's waters, two or three miles out, for some days; it will not leave, sails the great Union Bay from Cape Mandible to Cape Claw, and sometimes comes so close to the islet that it can be made out completely (II.10 ¶35, ¶44). *(Drafted.)*
+    - quote: à deux ou trois milles au large
+    - quote: sembla ne point vouloir abandonner les eaux de l’île
+    - quote: depuis le cap Mandibule jusqu’au cap Griffe
+    - quote: il s’approchait si près de l’îlot, qu’on pouvait le distinguer complètement
+  - On 3 May Nab, at his kitchen window, cries that the whale has stranded on the shore of the island; the narrator says that what the colonists could not do, chance did for them (II.10 ¶47). *(Drafted.)*
+    - quote: Mais ce que les colons ne pouvaient faire, le hasard le fit pour eux
+    - quote: le 3 mai
+    - quote: la baleine était échouée sur le rivage de l’île
+  - It stranded on the beach of Wreck Point, three miles from Granite-house, at high tide, and does not stir or struggle to float again (II.10 ¶49, ¶52). *(Drafted.)*
+    - quote: sur la grève de la pointe de l’Épave, à trois milles de Granite-house et à mer haute
+    - quote: ne remuait pas
+  - At low tide the colonists find it dead, with a harpoon sticking out of its left flank (II.10 ¶53, ¶54). *(Drafted.)*
+    - quote: Il était mort, et un harpon sortait de son flanc gauche
+  - Gédéon Spilett asks whether there are whalers in these waters; Pencroff says whales have been seen to make thousands of miles with a harpoon in the flank, and that this one could have been struck in the north of the Atlantic and come to die in the south of the Pacific; the reporter, not satisfied by his assertion, says 'Cependant…', and Cyrus Smith answers that it is perfectly possible (II.10 ¶55, ¶58, ¶59, ¶60). *(Drafted.)*
+    - quote: Il y a donc des baleiniers sur nos parages
+    - quote: On a vu des baleines faire des milliers de milles avec un harpon au flanc
+    - quote: que l’affirmation de Pencroff ne satisfaisait pas
+    - quote: Cela est parfaitement possible
+  - Pencroff draws the harpoon from the flank and reads its inscription: the ship is the 'Maria-Stella', a whaler of the Vineyard, his own country (II.10 ¶61, ¶62, ln3). *(Drafted.)*
+    - quote: Un navire du Vineyard ! Un navire de mon pays ! s’écria-t-il. La Maria-Stella !
+    - quote: Maria-Stella / Vineyard.
+  - Birds of prey, which had watched the prey for some days, are driven off by gunshots; the cutting up, directed by Pencroff, who had served on a whaler, takes three days, and the remains are left to the birds (II.10 ¶64, ¶66, ¶68). *(Drafted.)*
+    - quote: Les oiseaux de proie, qui épiaient depuis quelques jours cette riche proie
+    - quote: il fallut les écarter à coups de fusil
+    - quote: Pencroff avait autrefois servi sur un navire baleinier
+    - quote: qui dura trois jours
+    - quote: les restes de l’animal furent abandonnés aux oiseaux
+- **Appears in:** II.10
+- **Open:**
+  - How the whale came to die is not told: the text gives only the harpoon in its left flank, and the stranding on 3 May (II.10 ¶47, ¶54). *(Drafted.)*
+    - quote: Il était mort, et un harpon sortait de son flanc gauche

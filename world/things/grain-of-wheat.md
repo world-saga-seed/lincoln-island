@@ -35,4 +35,16 @@ Keywords: grain de blé, blé, wheat, grain, seed, bread, pain, harvest, moisson
     - quote: Les sept cent cinquante grains
   - Bread is still the one thing missing from the colonists' table, and a privation they feel (II.8 ¶15). *(Drafted.)*
     - quote: Seul, le pain manquait encore à la table des colons
-- **Appears in:** I.20, I.21, II.7, II.8
+  - The second wheat harvest, on 15 April, succeeds like the first and gives the proportion of grain foretold: five bushels (II.10 ¶9, ¶10). *(Drafted.)*
+    - quote: Ce fut la deuxième récolte de blé, qui se fit le 15 avril
+    - quote: donna la proportion de grains annoncée d’avance
+    - quote: Cinq boisseaux
+  - At a hundred and thirty thousand grains to the bushel the five bushels make six hundred and fifty thousand grains (II.10 ¶11). *(Drafted.)*
+    - quote: à cent trente mille grains par boisseau, cela fait six cent cinquante mille grains
+  - All is to be sown, save a small reserve; Smith says a proportional yield from the next harvest would give four thousand bushels (II.10 ¶12, ¶13). *(Drafted.)*
+    - quote: nous sèmerons tout cette fois
+    - quote: moins une petite réserve cependant
+    - quote: nous aurons quatre mille boisseaux
+  - The third field is far larger than the first two, its earth prepared with extreme care (see [the wheat field](../places/the-wheat-field.md)) (II.10 ¶18). *(Drafted.)*
+    - quote: Le troisième champ de blé fut donc incomparablement plus étendu que les deux premiers
+- **Appears in:** I.20, I.21, II.7, II.8, II.10

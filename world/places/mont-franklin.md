@@ -103,7 +103,11 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
   - The pastures at its foot are frequented by ruminants, and mouflons are numerous in that part of the island (II.8 ¶36, ¶38). *(Drafted.)*
     - quote: au pied du mont Franklin, au milieu des pâturages fréquentés par les ruminants
     - quote: Les mouflons étaient nombreux dans cette portion de l’île
-- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8
+  - Its south-east buttress shelters the corral from the winter hurricane, which spared its trees, sheds and palisade (II.11 ¶76). *(Drafted.)*
+    - quote: abritée par le contrefort sud-est du mont Franklin, ne souffrit pas trop des violences de l’ouragan
+  - Seen from three or four miles out at sea, it dominates the whole island, its head whitened by a little snow in October (II.12 ¶98). *(Drafted.)*
+    - quote: ce mont Franklin, qui dominait l’ensemble et dont quelques neiges blanchissaient la tête
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8, II.11, II.12
 - **Open:**
   - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
     - quote: à une distance de six ou sept milles

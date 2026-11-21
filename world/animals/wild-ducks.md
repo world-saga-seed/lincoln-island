@@ -19,4 +19,11 @@ Keywords: canard sauvage, wild duck, gibier, game, vol, flight, flèche, arrow, 
     - quote: Il y en avait des milliers
   - Wild ducks fall to the arrows of Harbert and Gédéon Spilett (I.22 ¶57). *(Drafted.)*
     - quote: canards sauvages, bécassines, enfin gibier de poil ou de plume, tombaient sous leurs flèches
-- **Appears in:** I.12, I.14, I.21, I.22
+  - Wild ducks are among the water game that crowd the south-east marsh in winter, its winter quarters (II.11 ¶78). *(Drafted.)*
+    - quote: tout le gibier aquatique, qui établissait là ses quartiers d’hiver
+    - quote: Canards sauvages
+  - Game keeps perfectly in the intense cold; wild ducks and the rest are eaten fresh and declared superior to any other water game of the known world (II.12 ¶11). *(Drafted.)*
+    - quote: le gibier, par ce froid intense, se gardait parfaitement
+    - quote: canards sauvages et autres furent mangés frais
+    - quote: déclarés supérieurs à toutes autres bêtes aquatiques du monde connu
+- **Appears in:** I.12, I.14, I.21, I.22, II.11, II.12

@@ -22,7 +22,10 @@ Keywords: agouti, rongeur, rodent, mara, grillade, pot-au-feu, gibier, game, fl�
     - quote: des agoutis, des kangourous et autres rongeurs
   - Agoutis swarm in the woods at the start of 1866, with other game of fur and feather (II.8 ¶6). *(Drafted.)*
     - quote: Agoutis, pécaris, cabiais, kangourous, gibiers de poil et de plume fourmillaient véritablement
-- **Appears in:** I.12, I.13, I.22, II.1, II.4, II.8
+  - Agoutis pass within good range of Harbert's gun in the Far-West forest, on the left of the Mercy, and escape it (II.9 ¶44). *(Drafted.)*
+    - quote: bien des kangourous, des cabiais ou des agoutis passèrent à bonne portée
+    - quote: échappèrent pourtant au fusil du jeune garçon
+- **Appears in:** I.12, I.13, I.22, II.1, II.4, II.8, II.9
 - **Open:**
   - The text calls the maras "sorte d’agoutis" yet says the five molars "distingue précisément" them from agoutis, and calls the meal of maras "grillades d’agoutis" (I.12 ¶64, ¶75). Card neither as one name; see maras.md. *(Drafted.)*
     - quote: sorte d’agoutis

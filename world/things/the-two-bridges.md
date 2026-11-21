@@ -14,8 +14,12 @@ Keywords: ponceaux, bridges, passerelles, plateau, grève, new outlet, carpentry
     - quote: l’un sur le fossé que je vous propose de creuser, et l’autre sur la rive gauche de la Mercy
   - Bridges and small bridges are to be raisable at will, so that the plateau is safe from surprise (II.7 ¶23). *(Drafted.)*
     - quote: si ces pont et ponceaux peuvent être levés à volonté
-  - On 23 December the small bridges are not closed, so two onaggas stray onto the plateau (II.7 ¶53). *(Drafted.)*
-    - quote: dont les ponceaux n’avaient pas été fermés
-  - Pencroff tips the small bridge of the Creek-Glycérine and imprisons them (II.7 ¶58). *(Drafted.)*
-    - quote: jusqu’au ponceau du Creek-Glycérine, le fit basculer
-- **Appears in:** I.20, II.7
+  - The small bridge on the beach is left open on the night of 11 August, and the culpeos cross it (see [the Mercy](../places/mercy-river.md)) (II.12 ¶28, ¶29, ¶32). *(Drafted.)*
+    - quote: Ils auront franchi le ponceau de la grève
+    - quote: que l’un de nous aura oublié de refermer
+    - quote: Il était certain que le ponceau avait été franchi
+  - The raiders retreat to the north over it at dawn, and Nab runs to raise it (II.12 ¶47). *(Drafted.)*
+    - quote: de manière à repasser le ponceau, que Nab courut relever immédiatement
+  - From then on none goes to bed without one of them making sure that all the bridges are raised (II.12 ¶59). *(Drafted.)*
+    - quote: ils ne se couchèrent plus sans que l’un d’eux se fût assuré que tous les ponts étaient relevés
+- **Appears in:** I.20, II.7, II.12

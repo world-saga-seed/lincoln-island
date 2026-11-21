@@ -32,4 +32,9 @@ Keywords: basse-cour, poultry yard, volaille, palissade, cahutes, tinamous, cana
     - quote: semblables aux coqs de Mozambique
   - It lies inside the closed part of the plateau, with Granite-house and the Chimneys (II.7 ¶15). *(Drafted.)*
     - quote: Granite-house, les Cheminées, la basse-cour et toute la partie supérieure du plateau
-- **Appears in:** II.7, II.8
+  - A pen for the young peccaries, built near it, is fed by Jup (see [the peccary sty](the-peccary-sty.md)) (II.9 ¶18). *(Drafted.)*
+    - quote: Une étable fut construite près de la basse-cour
+  - Standing on the Grande-Vue plateau, directly exposed to the east wind, it is considerably damaged by the winter gales: the dovecote unroofed twice and the barrier blown down (II.11 ¶76). *(Drafted.)*
+    - quote: la basse-cour, établie sur le plateau de Grande-Vue, et, par conséquent, directement exposée aux coups du vent d’est, eut à subir des dégâts assez considérables
+    - quote: la barrière s’abattit également
+- **Appears in:** II.7, II.8, II.9, II.11

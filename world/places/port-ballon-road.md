@@ -15,4 +15,6 @@ Keywords: route, chemin, coupée, port Ballon, cart, road, carrossable, Far-West
     - quote: cette route à peine ébauchée
   - In February it is improved, together with the road to the corral (II.8 ¶42). *(Drafted.)*
     - quote: en même temps qu’on améliorait les routes du corral et du port Ballon
-- **Appears in:** II.7, II.8
+  - The hunters take it to the marsh, setting out from Granite-house over the Mercy bridge (II.11 ¶80). *(Drafted.)*
+    - quote: Les chasseurs prirent donc la route de port Ballon pour se rendre au marais
+- **Appears in:** II.7, II.8, II.11

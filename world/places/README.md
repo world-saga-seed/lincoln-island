@@ -44,6 +44,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The grotto](the-grotto.md) | the excavation behind a high dune where Smith lay |
 | [The jaguar’s cave](the-jaguars-cave.md) | a cavern in the rocks at the promontoire du Reptile |
 | [Juan Fernández](juan-fernandez.md) | an island of a castaway's story, named for comparison |
+| [Jup’s room](jups-room.md) | the cabin beside the general store |
 | [The kauri stand](the-kauri-stand.md) | a part of the forest by the Mercy with giant kauris |
 | [The kitchen garden](the-kitchen-garden.md) | the plateau's vegetable beds, in small squares |
 | [La pointe de l’Épave](pointe-de-l-epave.md) | the granite point where the chest ran aground |
@@ -70,6 +71,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The osier bed](the-osier-bed.md) | a stand of purple osiers at the lake’s north point |
 | [The oyster bed](oyster-bed.md) | the great oyster bank on the shore north of the Chimneys |
 | [The Pacific Ocean](pacific-ocean.md) | the ocean the storm is thought to have carried the balloon across |
+| [The peccary sty](the-peccary-sty.md) | the shed built beside the poultry-yard |
 | [The Pomotou](pomotou.md) | a Pacific group named as a possible landfall |
 | [The pond](the-pond.md) | a large pond shaded by old pines |
 | [Port Ballon](port-ballon.md) | the small hidden natural harbour of the south coast |
@@ -96,12 +98,14 @@ A card for every place named on or off the island, each fact cited to the French
 | [The turtle shore](the-turtle-shore.md) | the beach two miles from Granite-house where the turtle is left |
 | [The upper cave](the-upper-cave.md) | a small cave about a hundred feet down the old outlet |
 | [The veranda](the-veranda.md) | the creeper-covered shelter Nab built on the plateau's edge |
+| [The Vineyard](vineyard.md) | the New York port of the whaler Maria-Stella and of Pencroff |
 | [The warren](the-warren.md) | the natural rabbit warren at the lake’s south-west |
 | [Washington](washington.md) | the capital of the Union, whose meridian the colonists keep time by |
 | [The well](the-well.md) | the sheer shaft at the end of the great cavern, ninety feet to the sea |
 | [The west coast](the-west-coast.md) | a shore of forest, with no cliff, reef or beach |
 | [The western creek](western-creek.md) | a narrow creek of the west coast |
 | [The westward track](the-westward-track.md) | the way cut through the forest from the camp |
+| [The Whale-Field](whale-field.md) | the part of the Pacific where whales gather |
 | [The wheat field](the-wheat-field.md) | the sheltered plot on the plateau where the one grain was sown |
 | [The wood of the Jacamar](jacamar-wood.md) | the forest on the left bank of the Mercy |
 <!-- /cards -->

@@ -25,7 +25,9 @@ Keywords: minerai de fer, iron, ore, oxyde de fer, red earth, fer
     - quote: enfermé dans sa gangue fusible
   - The ore was broken into small pieces and cleaned by hand of the impurities on its surface (I.15 ¶43). *(Drafted.)*
     - quote: On cassa préalablement le minerai en petits morceaux
-- **Appears in:** I.12, I.15
+  - The coal and iron deposits are among the places visited through the winter and spring (II.12 ¶85). *(Drafted.)*
+    - quote: ni aux gisements de houille et de fer
+- **Appears in:** I.12, I.15, II.12
 - **Open:**
   - Where the deposits lie: I.15 ¶7 says in the north-west part of the island; ¶31 says at the foot of the north-east spurs of Mont Franklin. Carded neither way (I.15 ¶7). *(Drafted.)*
     - quote: quelques gisements dans la partie nord-ouest de l’île

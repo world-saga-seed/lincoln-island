@@ -31,6 +31,10 @@ Keywords: échelle, échelle de corde, ladder, rungs, échelons, landing, palier
   - Its foot is made fast on 3 November by two stakes driven firmly into the sand (II.7 ¶11, ¶12). *(Drafted.)*
     - quote: Assujettissons-la par son extrémité inférieure
     - quote: deux pieux, solidement enfoncés dans le sable
+  - The lift replaces it as the way up, and no one regrets the first ladder (II.9 ¶32). *(Drafted.)*
+    - quote: qui remplaça l’échelle primitive, que personne ne songea à regretter
+  - The rope ladder, no longer used since the lift was installed and long enough, is the one Smith lets down the well (II.11 ¶83). *(My reading, to confirm.)*
+    - quote: l’échelle de corde qui ne servait plus depuis l’installation de l’ascenseur, et dont la longueur était suffisante
 - **Made from.**
   - The uprights are fibres of the "curry-jonc" plaited with a windlass, as strong as a thick cable (see [the curry-jonc](curry-jonc.md)) (I.19 ¶19). *(Drafted.)*
     - quote: formés des fibres du « curry-jonc » tressées au moyen d’un moulinet
@@ -39,4 +43,4 @@ Keywords: échelle, échelle de corde, ladder, rungs, échelons, landing, palier
     - quote: une sorte de cèdre rouge, aux branches légères et résistantes
   - Pencroff worked it with a master’s hand (I.19 ¶19). *(Drafted.)*
     - quote: travaillé de main de maître par Pencroff
-- **Appears in:** I.19, I.22, II.6, II.7
+- **Appears in:** I.19, I.22, II.6, II.7, II.9, II.11

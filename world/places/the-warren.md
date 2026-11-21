@@ -36,7 +36,9 @@ Keywords: garenne, rabbits, lapins, burrows, terriers, meadow, prairie, herbs, t
   - It still supplies its rabbits to the Granite-house kitchen; lying a little outside the point where the Creek-Glycérine begins, its inhabitants cannot enter the reserved plateau or ravage the new plantings (II.8 ¶15). *(Drafted.)*
     - quote: La garenne fournissait toujours son contingent de lapins aux offices de Granite-house
     - quote: ses hôtes ne pouvaient pénétrer sur le plateau réservé
-- **Appears in:** I.19, I.20, I.22, II.1, II.8
+  - The warren is among the places the colonists never fail to visit in the autumn (II.12 ¶85). *(Drafted.)*
+    - quote: ni à la garenne
+- **Appears in:** I.19, I.20, I.22, II.1, II.8, II.12
 - **Open:**
   - Which water the "lagon" is: I.19 ¶30 puts the warren toward "l’angle sud-ouest du lagon", and Lake Grant is called "lac" elsewhere. Which water is meant is not said. *(My reading, to confirm.)*
     - quote: vers l’angle sud-ouest du lagon

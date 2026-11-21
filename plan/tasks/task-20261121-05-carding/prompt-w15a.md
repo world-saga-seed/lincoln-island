@@ -48,4 +48,4 @@ THE TOOL CHAIN (B only). `world/things/tool-chain.md` lists, in book order, ever
 
 A CROWD FIGURE. A name met once with nothing to say about it gets no card: list it in your report.
 
-YOUR REPORT (the file named above, and the same text as your final message): the cards you made and the cards you extended, as two lists of file names; the crowd figures; the text's own disagreements you put on Open lines; questions for the author, each with your recommendation; and one line of totals (cards made, cards extended, facts added).
+YOUR REPORT (the file named above, and the same text as your final message; if the tool refuses the report file, do not work around it: your final message is the report, and the main session saves it): the cards you made and the cards you extended, as two lists of file names; the crowd figures; the text's own disagreements you put on Open lines; questions for the author, each with your recommendation; and one line of totals (cards made, cards extended, facts added).

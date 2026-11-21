@@ -39,7 +39,11 @@ Keywords: pécari, peccary, tajassou, sanglier, cochon, pig, trappe, trap, cocho
     - quote: ce n’était pas encore dans cette partie du Far-West que le pécari avait reçu le grain de plomb qui coûtait une mâchelière à Pencroff
   - Peccaries swarm in the woods at the start of 1866, with other game of fur and feather (II.8 ¶6). *(Drafted.)*
     - quote: Agoutis, pécaris, cabiais, kangourous, gibiers de poil et de plume fourmillaient véritablement
-- **Appears in:** I.22, II.1, II.4, II.8
+  - An attempt to domesticate them succeeds fully: a sty is built near the poultry-yard and soon holds several young being 'civilised', that is, fattened by Nab's care (II.9 ¶18). *(Drafted.)*
+    - quote: essai de domestication pour les pécaris, essai qui réussit pleinement
+    - quote: Une étable fut construite près de la basse-cour
+    - quote: c’est-à-dire de s’engraisser par les soins de Nab
+- **Appears in:** I.22, II.1, II.4, II.8, II.9
 - **Open:**
   - The animals of the traps are first called "sangliers" and judged like pigs (I.22 ¶14), then "des pécaris" of the tajassou kind (I.22 ¶21); Pencroff calls the young "du cochon de lait" (I.22 ¶66). The text does not say they are two kinds. *(Drafted.)*
     - quote: ces sangliers qui avaient été déjà signalés

@@ -44,4 +44,15 @@ Keywords: corral, enclos, palissade, mouflons, sheepfold, pen, hangars, wool, la
     - quote: La plupart de ces mouflons étaient des femelles
   - The prisoners tried to overthrow the palisade and failed, and soon grew quieter (II.8 ¶41). *(Drafted.)*
     - quote: Les prisonniers avaient bien essayé de renverser la palissade, mais ils n’y avaient point réussi
-- **Appears in:** II.7, II.8
+  - Under its sheds the mouflon flock grows, with several lambs bleating already (II.9 ¶17). *(Drafted.)*
+    - quote: plusieurs agneaux bêlaient déjà sous les hangars
+  - The onagga, the goats and the ewes of the corral supply the colony’s daily milk (II.9 ¶63). *(Drafted.)*
+    - quote: l’onagga, les chèvres et les brebis du corral fournirent quotidiennement le lait nécessaire à la colonie
+  - It is stocked so amply in June that daily visits are no longer needed, and the colonists decide never to let a week pass without going (II.11 ¶27). *(Drafted.)*
+    - quote: le corral avait été approvisionné largement et ne nécessita plus de visites quotidiennes
+    - quote: on ne laisserait jamais passer une semaine sans s’y rendre
+  - Under the south-east buttress of Mont Franklin it escapes the worst of the winter gales (see [Mont Franklin](mont-franklin.md)) (II.11 ¶76). *(Drafted.)*
+    - quote: cette enceinte, abritée par le contrefort sud-est du mont Franklin
+  - It is refitted in the autumn, since the flock of mouflons and goats counts a number of young to house and feed (II.12 ¶85). *(Drafted.)*
+    - quote: Le corral était réaménagé, car le troupeau de mouflons et de chèvres comptait un certain nombre de petits
+- **Appears in:** II.7, II.8, II.9, II.11, II.12

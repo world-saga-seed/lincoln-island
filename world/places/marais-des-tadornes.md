@@ -36,7 +36,11 @@ Keywords: marais, marécage, marsh, fen, tadornes, sheldrake, south-east, wildfo
     - quote: Le gibier devait être facile à approcher
   - It is a marshy plain, which the curve of the coast toward the point hides from anyone going by water (II.2 ¶12). *(Drafted.)*
     - quote: cachait toute la plaine marécageuse des Tadornes
-- **Appears in:** I.21, I.22, II.2
+  - The marsh of the Tadornes lies in the south-east of the island, and all the water game takes its winter quarters there: wild ducks, snipe, pintails, teal and grebes abound (II.11 ¶78). *(Drafted.)*
+    - quote: dans le sud-est de l’île, vers le marais des tadornes
+    - quote: le gibier aquatique, qui établissait là ses quartiers d’hiver
+    - quote: Canards sauvages, bécassines, pilets, sarcelles, grèbes, y abondaient
+- **Appears in:** I.21, I.22, II.2, II.11
 - **Open:**
   - Where the marshy part lies: I.11 ¶32 speaks of stagnant water "dans la portion marécageuse du nord-est", and I.21 ¶7 puts the marsh in the south-east between the Mercy and cape Griffe. Card neither as one marsh. *(Drafted.)*
     - quote: dans la portion marécageuse du nord-est

@@ -24,8 +24,15 @@ Keywords: houille, charcoal, fuel, seam, deposit, mineral
     - quote: au pied des contreforts du mont Franklin
   - The sailor and Nab go again to the coal seam with the cart and bring back some tons of fuel (I.22 ¶37). *(Drafted.)*
     - quote: jusqu’au gisement de houille, afin de rapporter quelques tonnes de combustible
+  - It is the ground’s fuel for the glass furnace (II.9 ¶34). *(Drafted.)*
+    - quote: le sol fournissait la houille pour chauffer le four à la température voulue
+  - Neither wood nor coal is spared in the cold of July, the great hall being warmed with it (II.11 ¶40, ¶41). *(Drafted.)*
+    - quote: on n’épargna ni le bois, ni le charbon
+    - quote: bien chauffée de houille
+  - The coal and iron deposits are among the places visited through the winter and spring (II.12 ¶85). *(Drafted.)*
+    - quote: ni aux gisements de houille et de fer
 - **On the page.**
-- **Appears in:** I.12, I.13, I.15, I.17, I.21, I.22
+- **Appears in:** I.12, I.13, I.15, I.17, I.21, I.22, II.9, II.11, II.12
 - **Open:**
   - The size of the seam and the distance to the clearing are not given.
     - quote: un gisement à ciel ouvert

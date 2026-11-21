@@ -309,6 +309,89 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: ballon qui emportait les prisonniers des sudistes
   - Captain Nemo saved him from the sea (III.16 ¶62). *(Drafted.)*
     - quote: il sauva Cyrus Smith
+  - The sight of the sand melted and vitrified by lightning on the shore leads him to believe that thick, solid panes could be made to garnish the windows against wind, rain and hail (II.9 ¶5). *(Drafted.)*
+    - quote: l’ingénieur fut amené à croire
+    - quote: fondit le sable et le vitrifia
+    - quote: garnir les fenêtres de vitres épaisses et solides
+  - He installs a lathe, which lets him turn small toilet and kitchen utensils, and especially buttons, whose lack was keenly felt (II.9 ¶6). *(Drafted.)*
+    - quote: L’ingénieur installa un tour
+    - quote: des boutons, dont le défaut se faisait vivement sentir
+  - His fixed idea is to pass on to the boy all that he knows, teaching by example as much as by word; he thinks, 'Si je meurs, c’est lui qui me remplacera !' (II.9 ¶14, ¶15). *(Drafted.)*
+    - quote: transmettre au jeune garçon tout ce qu’il savait
+    - quote: de l’instruire par l’exemple autant que par la parole
+    - quote: Si je meurs, pensait Cyrus Smith, c’est lui qui me remplacera
+  - He is not a hunter (II.9 ¶44). *(Drafted.)*
+    - quote: Cyrus Smith n’était pas chasseur
+  - He makes glass: he first has to adapt the old pottery kiln, and after several failed trials he sets up a glassworks; the shore gives sand, the lime chalk, the sea plants soda, the pyrites sulphuric acid, the soil coal for the kiln (II.9 ¶33, ¶34). *(Drafted.)*
+    - quote: il dut d’abord approprier l’ancien four à poteries à cette nouvelle destination
+    - quote: après plusieurs essais infructueux, il finit par réussir à monter un atelier de verrerie
+    - quote: les plantes marines fournissaient la soude
+  - He gathers the molten paste with the glassmaker's cane, turns it on a metal plate, has Harbert blow, and lengthens the bubble by a pendulum motion into a cylinder; the cylinder is split along its length and flattened with a wooden roller to make the first pane (II.9 ¶36, ¶39, ¶40). *(Drafted.)*
+    - quote: Cyrus Smith « cueillit » avec la canne une certaine quantité de cette pâte
+    - quote: lui imprimant un mouvement de pendule
+    - quote: ce cylindre fut fendu dans sa longueur
+    - quote: plané au moyen d’un rouleau de bois
+  - He has not looked again at the island's position since he got the sextant from the chest, and owns that he ought to have checked it sooner, though any error should not pass five degrees; the remark that raises the matter, on the evening of 1 April, is one that 'devait amener plus tard de graves conséquences' (II.9 ¶67, ¶71, ¶75). *(Drafted.)*
+    - quote: une observation fut faite qui devait amener plus tard de graves conséquences
+    - quote: j’aurais dû faire cette vérification plus tôt
+    - quote: elle ne doive pas dépasser cinq degrés
+  - He owns the sextant found in the chest, a more perfect instrument than the one he used before (II.9 ¶70, ¶72). *(Drafted.)*
+    - quote: ce sextant trouvé dans la caisse
+    - quote: cet instrument qui est plus parfait que celui que vous avez employé
+  - By his second observation he finds that, despite the imperfection of his instruments, he had worked so skilfully that his first error had not passed five degrees (II.9 ¶83). *(Drafted.)*
+    - quote: Cyrus Smith avait opéré avec tant d’habileté, que son erreur n’avait pas dépassé cinq degrés
+  - He knows maritime construction as he knows nearly everything, and seeks the model of the boat first on paper (II.10 ¶7). *(Drafted.)*
+    - quote: Il se connaissait en construction maritime comme en presque toutes choses
+    - quote: c’était sur le papier qu’il avait d’abord cherché le gabarit de son embarcation
+  - He knows the whalebone device of the Aleutian hunters of Russian America, and describes how it kills an animal that swallows the bait (II.10 ¶75). *(Drafted.)*
+    - quote: il est fréquemment employé par les chasseurs aléoutiens dans l’Amérique russe
+    - quote: la chaleur de son estomac fera fondre la glace
+  - He is in the secret of the tobacco and prepares it (II.10 ¶33, ¶100). *(Drafted.)*
+    - quote: Cyrus Smith et Nab furent mis dans la confidence
+    - quote: à Cyrus qui l’a préparée
+  - Having no carders, combers, spinners or loom, he means to use the property of wool filaments, pressed in every direction, of tangling into felt; he builds a fulling mill driven by the shore waterfall, where his quality as engineer served him well (II.11 ¶3, ¶6). *(Drafted.)*
+    - quote: il se proposait tout bonnement d’utiliser la propriété qu’ont les filaments de laine
+    - quote: s’enchevêtrer et de constituer
+    - quote: Où sa qualité d’ingénieur le servit fort
+    - quote: pour mouvoir un moulin à foulon
+  - He does not approve of the voyage to Tabor, which is only a matter of curiosity since no help can be found on that desert, half-arid rock; a journey of a hundred and fifty miles in a relatively small boat over unknown seas causes him some apprehension (II.11 ¶11). *(Drafted.)*
+    - quote: Cyrus Smith n’approuvât pas ce voyage, tout de curiosité
+    - quote: aucun secours à trouver sur ce rocher désert et à demi aride
+    - quote: ne laissait pas de lui causer quelque appréhension
+  - He calls Harbert 'cet enfant, dont le hasard a fait notre fils' (II.11 ¶23). *(Drafted.)*
+    - quote: cet enfant, dont le hasard a fait notre fils
+  - He has been much involved in the affairs of the Union, and holds his listeners with accounts, views and forecasts (II.11 ¶41). *(Drafted.)*
+    - quote: qui avait été très-mêlé aux affaires de l’Union
+    - quote: intéressait vivement ses auditeurs par ses récits, ses aperçus et ses pronostics
+  - He knows the figures of the coal workings, and foresees that coal will one day be replaced by water decomposed into hydrogen and oxygen, 'probably' by electricity; 'L’eau est le charbon de l’avenir' (II.11 ¶50, ¶63). *(Drafted.)*
+    - quote: les cent mille ouvriers qui leur arrachent annuellement cent millions de quintaux métriques
+    - quote: décomposée, sans doute, par l’électricité
+    - quote: L’eau est le charbon de l’avenir
+  - The incident of Top at the well darkens his brow; he wants to explore the well, and first of all to be alone in knowing what is there (II.11 ¶73, ¶82). *(Drafted.)*
+    - quote: assombrit le front de l’ingénieur
+    - quote: d’abord, être seul à savoir
+  - He goes down into the well alone, by the rope ladder, with a lantern, a revolver and a cutlass at his belt; he finds no trace of climbing and no side passage, the wall sounds solid, and he comes up pensive: 'Je n’ai rien vu, et pourtant il y a quelque chose !' (II.11 ¶79, ¶83, ¶88, ¶90). *(Drafted.)*
+    - quote: prétextant quelque travail
+    - quote: ayant allumé une lanterne, pris un revolver et passé un coutelas à sa ceinture
+    - quote: sonnait le plein
+    - quote: Je n’ai rien vu, et pourtant il y a quelque chose
+  - He makes the pulleys on the lathe, on Pencroff's advice (II.12 ¶12). *(Drafted.)*
+    - quote: sur les conseils de Pencroff et au moyen du tour qu’il avait installé
+    - quote: Cyrus Smith fabriqua les poulies nécessaires
+  - He gives the order that places the colonists in a line on the narrow bank between the river and the granite wall (II.12 ¶40). *(Drafted.)*
+    - quote: sur un ordre de Cyrus Smith
+    - quote: gagnèrent l’endroit désigné
+  - He approves Pencroff's idea of making the boat as solid as possible, 'ne sachant pas ce que réservait l’avenir' (II.12 ¶80, ¶81). *(Drafted.)*
+    - quote: Cyrus Smith ne sachant pas ce que réservait l’avenir, approuva l’idée du marin
+  - The plans of the boat come from him, though on the sailor's advice he often modified some parts; he has not Pencroff's confidence in it, and hopes the sailor has given up Tabor; he would be loath to see two or three of his companions venture far in so small a craft, of fifteen tons (II.12 ¶93). *(Drafted.)*
+    - quote: dont les plans venaient de lui
+    - quote: il n’avait pas en elle la confiance que manifestait Pencroff
+    - quote: Cyrus Smith espérait même que le marin y avait renoncé
+    - quote: qui ne jaugeait pas plus de quinze tonneaux
+  - He would not hesitate, in a pressing case, to trust the Bonadventure even for a longer crossing, but would see Pencroff leave for Tabor with pain, since nothing obliges him to go (II.12 ¶110). *(Drafted.)*
+    - quote: il ne faudrait pas hésiter à se confier au Bonadventure
+    - quote: je vous verrais partir avec peine pour l’île Tabor
+    - quote: puisque rien ne vous oblige à y aller
 - **On the page.**
   - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
@@ -443,8 +526,6 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - Of the chest's contents he murmurs, thoughtfully, "Rien n’y manque, en effet"; of the photographic apparatus he says he does not well understand its use (II.2 ¶55, ¶62). *(Drafted.)*
     - quote: Rien n’y manque, en effet, murmura Cyrus Smith d’un air pensif
     - quote: je n’en comprends pas bien l’utilité
-  - He answers Pencroff's longing for tobacco: "Cela viendra, Pencroff, cela se trouvera" (II.3 ¶56). *(Drafted.)*
-    - quote: Cela viendra, Pencroff, cela se trouvera
   - He is "toujours absorbé dans ses réflexions" on the Mercy (II.3 ¶20). *(Drafted.)*
     - quote: toujours absorbé dans ses réflexions
   - He says he knows the name of the submarine apparatus, the Nautilus (III.16 ¶14). *(Drafted.)*
@@ -466,6 +547,12 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: Je n’ai point à juger le capitaine Nemo
   - Asked his view, he says Nemo's error was to believe the past could be revived (III.16 ¶79). *(Drafted.)*
     - quote: votre tort est d’avoir cru qu’on pouvait ressusciter le passé
+  - He and his companions keep Easter Sunday, 1 April, by rest and prayer (II.9 ¶68). *(Drafted.)*
+    - quote: le 1er avril, un dimanche, le jour de pâques
+    - quote: avaient sanctifié par le repos et la prière
+  - He says Pencroff's account of the harpoon is perfectly possible, and proposes to look at the harpoon for the name of a ship, as whalers often engrave it (II.10 ¶60). *(Drafted.)*
+    - quote: Cela est parfaitement possible
+    - quote: les baleiniers ont-ils gravé sur celui-ci le nom de leur navire
 - **Habits.**
   - He prefers to expect the worst at once and keep only the surprise of the better (I.9 ¶72). *(Drafted.)*
     - quote: Mieux vaut mettre les choses au pis tout de suite
@@ -482,7 +569,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
   - When his plan succeeds he shows no satisfaction, "suivant son habitude": lips pressed, gaze fixed, motionless (I.18 ¶1). *(Drafted.)*
     - quote: suivant son habitude, sans témoigner aucune satisfaction, les lèvres serrées, le regard fixe
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

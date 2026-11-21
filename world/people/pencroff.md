@@ -239,6 +239,109 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: une canne que Pencroff lui avait faite
   - He says that were Jup as wicked as he is good, there would be no managing him (II.8 ¶29). *(Drafted.)*
     - quote: S’il était aussi méchant qu’il est bon
+  - His first thought in the hail, whose stones are the size of pigeon's eggs, is that his wheat field runs the most serious dangers; he runs to it and protects the crop with a big canvas, is pelted in its place, and does not complain (II.9 ¶3, ¶4). *(Drafted.)*
+    - quote: Pencroff n’eut qu’une idée : c’est que son champ de blé courait les dangers les plus sérieux
+    - quote: au moyen d’une grosse toile, il parvint à protéger sa récolte
+    - quote: Il fut lapidé à sa place, mais il ne s’en plaignit pas
+  - He holds that after the necessities one should think of comfort, which for loads and goods is indispensable, and asks the engineer for the lift he had spoken of: not so convenient to climb a long ladder when heavily loaded (II.9 ¶20, ¶24). *(Drafted.)*
+    - quote: pensons un peu au confortable
+    - quote: mais pour les choses, c’est indispensable
+    - quote: grimper à une longue échelle, quand on est lourdement chargé
+  - He makes the glassmaker's cane, five to six feet long, by rolling a long, thin strip of iron like a gun barrel (II.9 ¶35). *(Drafted.)*
+    - quote: Pencroff réussit à fabriquer cette canne
+    - quote: une bande de fer, longue et mince, qui fut roulée comme un canon de fusil
+  - He asks to be allowed to blow glass in his turn, and blows so hard that his products take the most cheerful shapes, which he admires (II.9 ¶42). *(Drafted.)*
+    - quote: Pencroff avait demandé la faveur de « souffler » à son tour
+    - quote: il soufflait si fort que ses produits affectaient les formes les plus réjouissantes, qui faisaient son admiration
+  - He is more and more enthusiastic about his island, and holds that there are islands made for castaways, 'créées spécialement pour qu’on y fasse convenablement naufrage', of which Lincoln Island is one (II.9 ¶56, ¶59, ¶61). *(Drafted.)*
+    - quote: de plus en plus enthousiaste de son île
+    - quote: des îles créées spécialement pour qu’on y fasse convenablement naufrage
+    - quote: il est non moins certain que l’île Lincoln en est une
+  - He trusts the engineer's observations: Mr Cyrus is too good an observer to be mistaken, and if the island has not moved, it is where he put it (II.9 ¶73, ¶78). *(Drafted.)*
+    - quote: M. Cyrus est un trop bon observateur pour s’être trompé
+    - quote: l’île est bien où il l’a mise
+  - On hearing that Tabor has perhaps never been visited, he says they will visit it; he proposes a decked boat that he undertakes to steer, thinks a hundred and fifty miles 'enlevé' in forty-eight hours with a fair wind, and, asked what for, answers 'On ne sait pas. Faut voir !' (II.9 ¶95, ¶96, ¶98, ¶100, ¶101, ¶102). *(Drafted.)*
+    - quote: Eh bien, nous le visiterons
+    - quote: Nous construirons une barque pontée, et je me charge de la conduire
+    - quote: En quarante-huit heures et avec un bon vent, ce sera enlevé
+    - quote: On ne sait pas. Faut voir
+  - When he has a plan in his head he gives himself no rest until it is carried out; he wants to visit Tabor, so a boat of some size has to be built (II.10 ¶1). *(Drafted.)*
+    - quote: Lorsque Pencroff s’était mis un projet en tête, il n’avait et ne laissait pas de cesse qu’il n’eût été exécuté
+  - He has worked some years in a Brooklyn shipyard and knows the practice of the trade; he serves the engineer well in building the boat (II.10 ¶7). *(Drafted.)*
+    - quote: ayant travaillé quelques années dans un chantier de Brooklyn, connaissait la pratique du métier
+  - He is all fire for his new undertaking, and would not abandon it for an instant; only the second wheat harvest, on 15 April, draws him from the yard for one day (II.10 ¶8, ¶9). *(Drafted.)*
+    - quote: tout feu pour mener à bien sa nouvelle entreprise
+    - quote: Une seule opération eut le privilège de l’arracher
+    - quote: la deuxième récolte de blé, qui se fit le 15 avril
+  - He measures the five bushels of the second harvest scrupulously, wants to sow all of it but for a small reserve, and expects bread and a mill (II.10 ¶10, ¶12, ¶14, ¶16). *(Drafted.)*
+    - quote: après avoir scrupuleusement mesuré ses richesses
+    - quote: nous sèmerons tout cette fois, dit le marin, moins une petite réserve cependant
+    - quote: Et on mangera du pain
+    - quote: Mais il faudra faire un moulin
+  - There is a fisherman in every sailor; he sighs with regret at not being able to attack the whale, wanted it like a child wants a forbidden object, and dreamt of it aloud at night (II.10 ¶42, ¶46). *(Drafted.)*
+    - quote: dans tout marin, il y a un pêcheur
+    - quote: non sans pousser un soupir de regret
+    - quote: comme un enfant d’un objet qu’on lui interdit
+    - quote: La nuit, il en rêvait à voix haute
+  - He is a native of the Vineyard: the harpoon's inscription makes him cry 'Un navire de mon pays !', and the narrator calls the Vineyard 'ce nom de son pays natal'; he knows the whaler Maria-Stella well (II.10 ¶62, ¶63). *(Drafted.)*
+    - quote: Un navire du Vineyard ! Un navire de mon pays
+    - quote: La Maria-Stella ! un beau baleinier, ma foi ! Et que je connais bien
+    - quote: ce nom de son pays natal
+  - He once served on a whaler, and can direct the cutting up of the whale (II.10 ¶66). *(Drafted.)*
+    - quote: Pencroff avait autrefois servi sur un navire baleinier
+    - quote: il put diriger méthodiquement l’opération du dépeçage
+  - He is given a filled pipe by Spilett and a live coal by Harbert on 31 May, and cries 'Du tabac ! Du vrai tabac !' and 'Il ne manque donc plus rien à notre île !'; he smokes on and on, and tells his friends he will pay them back, 'à la vie, à la mort' (II.10 ¶82, ¶90, ¶91, ¶93, ¶95, ¶96, ¶101). *(Drafted.)*
+    - quote: le 31 mai, il devait éprouver une des plus grandes joies de sa vie
+    - quote: le reporter qui lui présentait une pipe toute bourrée, et Harbert, une braise ardente
+    - quote: Du tabac ! Du vrai tabac
+    - quote: Il ne manque donc plus rien à notre île
+    - quote: Pencroff fumait, fumait, fumait
+    - quote: c’est à la vie, à la mort
+  - His fixed idea is a reconnaissance voyage to Tabor; Cyrus Smith finds in him a rather odd obstinacy in wanting it, of which he is not quite aware; he wants to know 'ce qui se passe à l’île Tabor', and when the engineer says nothing can happen there, answers 'Qui sait ?' (II.11 ¶11, ¶12, ¶18, ¶19, ¶20). *(Drafted.)*
+    - quote: L’idée fixe du marin était de faire un voyage de reconnaissance à l’île Tabor
+    - quote: un entêtement assez bizarre à accomplir ce voyage
+    - quote: Pour savoir ce qui se passe à l’île Tabor
+    - quote: Qui sait
+  - He means to be away only a few days, to go and come back and see what the islet is; he asks to take only Harbert with him; he reckons that when the engineer has seen the boat well rigged and handled at sea he will no longer hesitate to let him go, and says it will be a masterpiece (II.11 ¶14, ¶22, ¶24). *(Drafted.)*
+    - quote: La quitter pour quelques jours seulement
+    - quote: je vous demanderai la permission de n’emmener qu’Harbert avec moi
+    - quote: Je ne vous cache pas que ce sera un chef-d’œuvre, votre bateau
+  - He expects no great result from the albatross as a means of correspondence (II.11 ¶38). *(Drafted.)*
+    - quote: n’attendait pas grand résultat de ce mode de correspondance
+  - He accepts Spilett's explanation of Top's and Jup's agitation at the well: 'il n’y a pas d’autre explication à donner' (II.11 ¶70, ¶71). *(Drafted.)*
+    - quote: il n’y a pas d’autre explication à donner
+  - He raises a blue, red and white flag, its colours from plant dyes; to the thirty-seven stars of the American states' flag he adds a thirty-eighth, that of the 'état de Lincoln', for he holds his island as already attached to the great republic, 'de cœur, si elle ne l’est pas encore de fait' (II.12 ¶12, ¶13). *(Drafted.)*
+    - quote: Pencroff dressa même un pavillon bleu, rouge et blanc
+    - quote: en avait ajouté une trente-huitième, l’étoile de « l’état de Lincoln »
+    - quote: car il considérait son île comme déjà rattachée à la grande république
+    - quote: elle l’est de cœur, si elle ne l’est pas encore de fait
+  - He says Jup will be nursed like one of themselves; he is himself wounded, but his wounds and the others' are insignificant, since firearms kept the assailants at a distance (II.12 ¶53, ¶54). *(Drafted.)*
+    - quote: nous le soignerons comme l’un de nous
+    - quote: Le marin était blessé lui-même, mais ses blessures
+    - quote: étaient insignifiantes
+  - He gives Jup his pipe as a present (II.12 ¶70). *(Drafted.)*
+    - quote: je t’en fais cadeau
+  - He proposes lining the hull inside with a watertight ceiling, to secure the boat's solidity (II.12 ¶80). *(Drafted.)*
+    - quote: Pencroff proposa à l’ingénieur de doubler intérieurement la coque avec un vaigrage étanche
+  - He picks a young straight fir without knots for the mast, which he need only square at the foot and round at the head (II.12 ¶84). *(Drafted.)*
+    - quote: un jeune sapin, bien droit, sans nœuds
+    - quote: qu’il n’eut qu’à équarir à son emplanture et à arrondir à sa tête
+  - His baptismal name is Bonadventure, which is the name chosen for the boat; he is radiant at the launch and shows no modesty, and the rank of captain is awarded him by all (II.12 ¶87, ¶88). *(Drafted.)*
+    - quote: Pencroff était radieux
+    - quote: qui ne montra aucune modestie
+    - quote: Le grade de capitaine lui fut décerné de l’agrément de tous
+    - quote: celui de Bonadventure, qui était le nom de baptême de l’honnête marin
+  - He says he loves the island as he loved his poor mother, and asks what lacks to these five children fallen to her from heaven (II.12 ¶100). *(Drafted.)*
+    - quote: Je l’aime comme j’aimais ma pauvre mère
+    - quote: ces cinq enfants qui lui sont tombés du ciel
+  - He keeps to his idea of visiting Tabor: 'On aime à connaître ses voisins', 'La politesse veut qu’on aille, au moins, lui faire une visite'; he is vexed by the engineer's opposition, but would not cause him pain, and says a companion will be enough; the narrator calls him 'L’entêté marin' (II.12 ¶111, ¶113, ¶115, ¶121). *(Drafted.)*
+    - quote: On aime à connaître ses voisins
+    - quote: La politesse veut qu’on aille, au moins, lui faire une visite
+    - quote: que l’opposition de l’ingénieur vexait un peu
+    - quote: Un compagnon me suffira
+    - quote: L’entêté marin
+  - He counts Jup among the colony: 'Sur six ! Vous oubliez Jup.' (II.12 ¶117). *(Drafted.)*
+    - quote: Vous oubliez Jup
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -345,7 +448,9 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
   - He says there is everything on the island "excepté du tabac", and asks whether bamboo cannot be smoked (II.4 ¶26, ¶58). *(Drafted.)*
     - quote: qu’excepté du tabac, il y a de tout dans cette île
     - quote: Et ça ne se fume pas, par hasard ?
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8
+  - He smokes with delight now that he has tobacco (II.10 ¶96). *(Drafted.)*
+    - quote: Pencroff fumait, fumait, fumait
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

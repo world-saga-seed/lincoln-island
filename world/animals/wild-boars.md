@@ -14,4 +14,8 @@ Keywords: sanglier, sangliers, wild boar, pig, hog, gibier, game, forêt, Jacama
     - quote: leur ressemblance avec le cochon d’Amérique ou d’Europe
   - A few wild boars are seen on the march toward the west coast (II.4 ¶8). *(Drafted.)*
     - quote: On vit aussi quelques sangliers
-- **Appears in:** I.15, I.19, I.22, II.4
+  - A few wild boars are caught in the whalebone engines set at the forest edge where the animals pass on their way to the lake, and are found dead with their stomachs pierced (II.11 ¶28, ¶29). *(Drafted.)*
+    - quote: à l’endroit où passaient communément les animaux pour se rendre au lac
+    - quote: quelques sangliers
+    - quote: l’estomac perforé par les fanons détendus
+- **Appears in:** I.15, I.19, I.22, II.4, II.11

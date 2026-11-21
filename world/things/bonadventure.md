@@ -1,0 +1,77 @@
+# The Bonadventure: the decked sloop Pencroff builds and commands
+
+*A fir-built decked boat of fifteen tons, thirty-five feet of keel, designed by Smith and built by him and Pencroff from April to October, launched on 10 October, named for Pencroff’s Christian name.*
+
+Keywords: Bonadventure, bateau, boat, sloop, embarcation, quille, keel, sapin, fir, pont, deck, lest, ballast, Pencroff, Tabor, launch, lancement
+
+- **What it is.**
+  - Pencroff wants to visit Tabor, and a boat of some size is needed for the crossing (II.10 ¶1). *(Drafted.)*
+    - quote: il voulait visiter l’île Tabor, et, comme une embarcation d’une certaine grandeur était nécessaire à cette traversée, il fallait construire ladite embarcation
+  - The plan settled by Smith and Pencroff: thirty-five feet of keel, nine feet of beam, a draught of no more than six feet (II.10 ¶2, ¶3). *(Drafted.)*
+    - quote: trente-cinq pieds de quille et neuf pieds de bau
+    - quote: ne devrait pas tirer plus de six pieds
+  - She is to be decked her whole length, with two hatches giving into two rooms divided by a bulkhead (II.10 ¶3). *(Drafted.)*
+    - quote: ponté dans toute sa longueur, percé de deux écoutilles qui donneraient accès dans deux chambres séparées par une cloison
+  - She is rigged as a sloop, with brigantine, staysail, fortune, topsail and jib (II.10 ¶3). *(Drafted.)*
+    - quote: gréé en sloop, avec brigantine, trinquette, fortune, flèche, foc
+  - The hull is built with planks flush rather than overlapping ("à francs bords"), the frames fitted hot after the planking, on false frames (II.10 ¶3). *(Drafted.)*
+    - quote: sa coque serait construite à francs bords
+    - quote: on l’appliquerait à chaud après l’ajustement des bordages qui seraient montés sur faux-couples
+  - She is built of fir, a wood a little "fendif" but easy to work and as good as elm in water, chosen over the elm and fir that abound on the island (see [the firs](firs.md); [the elms](elms.md)) (II.10 ¶4). *(Drafted.)*
+    - quote: On se décida pour le sapin, bois un peu « fendif »
+  - Smith and Pencroff work on her alone, as the good season is six months off (II.10 ¶5). *(Drafted.)*
+    - quote: Cyrus Smith et Pencroff travailleraient seuls au bateau
+  - The keel, thirty-five feet long, with stern-post and stem, is laid on the sand eight days after the trees are felled, in a yard prepared in the recess between the Chimneys and the wall (see [the boatyard](../places/the-boatyard.md)) (II.10 ¶6). *(Drafted.)*
+    - quote: Huit jours après, dans le renfoncement qui existait entre les Cheminées et la muraille, un chantier était préparé
+    - quote: une quille, longue de trente-cinq pieds, munie d’un étambot à l’arrière et d’une étrave à l’avant
+  - Smith knows ship-building as he knows nearly everything and first sought the model on paper; Pencroff, who worked some years in a Brooklyn yard, knows the trade’s practice (II.10 ¶7). *(Drafted.)*
+    - quote: Il se connaissait en construction maritime comme en presque toutes choses
+    - quote: ayant travaillé quelques années dans un chantier de Brooklyn, connaissait la pratique du métier
+  - The false frames are fitted on the keel only after severe calculations and mature reflection (II.10 ¶7). *(Drafted.)*
+    - quote: après calculs sévères et mûres réflexions que les faux-couples furent emmanchés sur la quille
+  - Late in May she is half planked, and her lines promise a good sea boat (II.10 ¶81). *(Drafted.)*
+    - quote: il était à demi bordé
+  - Work stops with the great cold, about 20 June, and she is to be finished for the next spring (II.11 ¶10). *(Drafted.)*
+    - quote: dut suspendre la construction du bateau
+  - In September she is wholly planked and ribbed inside with frames softened by steam (II.12 ¶79). *(Drafted.)*
+    - quote: Il était entièrement bordé déjà
+    - quote: des membrures assouplies par la vapeur d’eau
+  - On Pencroff’s proposal the hull is doubled inside with a watertight ceiling, to make her as solid as possible; Smith, not knowing what the future held, approves (II.12 ¶80, ¶81). *(Drafted.)*
+    - quote: doubler intérieurement la coque avec un vaigrage étanche
+    - quote: Cyrus Smith ne sachant pas ce que réservait l’avenir, approuva l’idée du marin
+  - Ceiling and deck are finished about 15 September; the seams are caulked with oakum of dry zostera driven in with a mallet, and covered with boiling tar from the forest pines (see [the zostera](zostera.md); [the pines](pines.md)) (II.12 ¶82). *(Drafted.)*
+    - quote: on fit de l’étoupe avec du zostère sec
+    - quote: recouvertes de goudron bouillant, que les pins de la forêt fournirent avec abondance
+  - She is ballasted with heavy pieces of granite set in a bed of lime, about twelve thousand pounds, with a deck laid over and the interior divided in two rooms, with two benches serving as chests (II.12 ¶83). *(Drafted.)*
+    - quote: lestée avec de lourds morceaux de granit, maçonnés dans un lit de chaux
+    - quote: douze mille livres environ
+    - quote: deux bancs, qui servaient de coffres
+  - The mast foot props the bulkhead between the two rooms, which are entered by two hatches with hoods (II.12 ¶83). *(Drafted.)*
+    - quote: Le pied du mât devait épontiller la cloison qui séparait les deux chambres
+  - The mast is a young straight fir without knots, squared at the heel and rounded at the head (II.12 ¶84). *(Drafted.)*
+    - quote: un jeune sapin, bien droit, sans nœuds, qu’il n’eut qu’à équarir à son emplanture et à arrondir à sa tête
+  - The ironwork of mast, rudder and hull is roughly but solidly made at the forge of the Chimneys (see [the Chimneys](../places/the-chimneys.md)) (II.12 ¶84). *(Drafted.)*
+    - quote: grossièrement, mais solidement fabriquées à la forge des Cheminées
+  - Yards, topmast, boom, spars and oars are all done in the first week of October (II.12 ¶84). *(Drafted.)*
+    - quote: vergues, mât de flèche, gui, espars, avirons, etc, tout était terminé dans la première semaine d’octobre
+  - She is launched on 10 October, fully rigged, pushed on rollers to the shore’s edge and taken up by the rising sea (II.12 ¶87). *(Drafted.)*
+    - quote: Le 10 octobre, le bateau fut lancé à la mer
+    - quote: ayant été poussée sur des rouleaux à la lisière du rivage, fut prise par la mer montante
+  - She is named Bonadventure by vote, for the baptismal name of Pencroff, who is made captain by common consent (II.12 ¶87, ¶88). *(Drafted.)*
+    - quote: Le grade de capitaine lui fut décerné de l’agrément de tous
+    - quote: celui de Bonadventure, qui était le nom de baptême de l’honnête marin
+  - Her plans came from Smith, though he often changed parts of them on the sailor’s advice (II.12 ¶93). *(Drafted.)*
+    - quote: dont les plans venaient de lui, bien que, sur le conseil du marin, il en eût souvent modifié quelques parties
+  - She measures no more than fifteen tons (II.12 ¶93). *(Drafted.)*
+    - quote: qui ne jaugeait pas plus de quinze tonneaux
+  - She rides well in her water-lines and should sail well on all points (II.12 ¶89). *(Drafted.)*
+    - quote: il se tenait parfaitement dans ses lignes d’eau
+  - Running free she is satisfactorily fast; close-hauled she makes about five quarters of the wind, holds well against leeway and tacks very well, gaining in the turn (II.12 ¶95, ¶96). *(Drafted.)*
+    - quote: la vitesse de l’embarcation était satisfaisante
+    - quote: pouvait marcher environ à cinq quarts du vent
+    - quote: Il virait très-bien vent devant
+  - Smith says that in a pressing case one should not hesitate to trust the Bonadventure, even for a longer crossing (II.12 ¶110). *(Drafted.)*
+    - quote: dans un cas pressant, il ne faudrait pas hésiter à se confier au Bonadventure, même pour une traversée plus longue
+  - Her home port is to be port Ballon (see [port Ballon](../places/port-ballon.md)) (II.12 ¶122). *(Drafted.)*
+    - quote: cette petite crique devait être le port d’attache du bateau
+- **Appears in:** II.10, II.11, II.12

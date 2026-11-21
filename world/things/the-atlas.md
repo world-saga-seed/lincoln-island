@@ -13,4 +13,9 @@ Keywords: atlas, carte, maps, Mercator, planisphère, French, nomenclature, ches
   - Its nomenclature is in French, unlike the English books, and it bears no date and no publisher’s name (II.2 ¶67). *(Drafted.)*
     - quote: dont la nomenclature était en français
     - quote: ni date de publication, ni nom d’éditeur
-- **Appears in:** II.2
+  - It was published in France, so its nomenclature is French (II.9 ¶85). *(Drafted.)*
+    - quote: avait été édité en France, et dont, par conséquent, la nomenclature était en langue française
+  - On its Pacific map Smith finds an island at 153° of longitude and 37° 11′ of latitude, which is Tabor (see [Tabor Island](../places/tabor-island.md)) (II.9 ¶86, ¶91, ¶93). *(Drafted.)*
+    - quote: La carte du Pacifique fut développée
+    - quote: Cette île est située par 153° de longitude et 37° 11′ de latitude
+- **Appears in:** II.2, II.9

@@ -6,11 +6,13 @@ A card for every person named in the French, and every person the insert adds, e
 | Card | What it is |
 |---|---|
 | [Abraham Lincoln](abraham-lincoln.md) | the statesman the island is named for |
+| [The Aleutian hunters](aleutian-hunters.md) | the trappers of Russian America whose whalebone engine Cyrus Smith borrows |
 | [Ayrton](ayrton.md) | man found on Tabor Island, among the colonists |
 | [Captain Nemo](captain-nemo.md) | Prince Dakkar of Bundelkund, commander of the Nautilus |
 | [Cyrus Smith](cyrus-smith.md) | engineer, leader of the castaways |
 | [Gédéon Spilett](gedeon-spilett.md) | reporter, colonist |
 | [Harbert](harbert.md) | the boy among the colonists |
+| [John Benett](john-benett.md) | the director of the New-York Herald |
 | [Jonathan Forster](jonathan-forster.md) | Southern diehard who built the balloon |
 | [Malay pirates](malay-pirates.md) | the sea-robbers Cyrus Smith fears in this part of the Pacific |
 | [Nab](nab.md) | devoted colonist and cook |

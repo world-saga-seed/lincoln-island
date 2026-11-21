@@ -62,6 +62,12 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
     - quote: La terre, sur ce plateau, était prodigieusement féconde
   - On its edge stands Nab's veranda (see [the veranda](the-veranda.md)) (II.8 ¶47). *(Drafted.)*
     - quote: sur la lisière du plateau de Grande-Vue, sous une sorte de vérandah couverte de plantes grimpantes
+  - The colonists gather in the evening under the veranda at its edge (see [the veranda](the-veranda.md)) (II.9 ¶69). *(Drafted.)*
+    - quote: sous la vérandah, à la lisière du plateau de Grande-Vue
+  - It is exposed to the east wind, which wrecks the poultry-yard in the winter gales (II.11 ¶76). *(Drafted.)*
+    - quote: directement exposée aux coups du vent d’est
+  - It can be invaded only by the left bank of the Mercy, whose narrow strip between the river and the granite wall Smith bars against the culpeos (II.12 ¶39). *(Drafted.)*
+    - quote: l’envahissement du plateau ne pouvait se faire que par la rive gauche de la Mercy
 - **On the page.**
   - Pigeons fly by hundreds at the crest of the plateau (I.6 ¶7). *(Drafted.)*
     - quote: ces pigeons qui volaient par centaines à la crête du plateau
@@ -74,4 +80,4 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
   - On the plateau old enormous trunks, felled by age, show dark bark against the green carpet, and noisy cockatoos hop from branch to branch (I.16 ¶27). *(Drafted.)*
     - quote: Quelques vieux troncs énormes, abattus par l’âge
     - quote: tout un monde de kakatoès bruyants
-- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18, I.19, I.20, I.22, II.7, II.8
+- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18, I.19, I.20, I.22, II.7, II.8, II.9, II.11, II.12

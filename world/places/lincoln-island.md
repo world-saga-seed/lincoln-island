@@ -174,6 +174,22 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: on devait croire qu’elle n’avait jamais dû l’être
   - From the lead-shot incident on, it is certain that it is or has been inhabited by others than the colonists (II.1 ¶29). *(Drafted.)*
     - quote: l’île était ou avait été habitée par d’autres que par les colons
+  - Smith’s first observation placed it between 150° and 155° of west longitude and between 30° and 35° of south latitude (II.9 ¶81, ln4). *(Drafted.)*
+    - quote: En longitude ouest : de 150° à 155°
+    - quote: En latitude sud : de 30° à 35°
+  - The second, taken with the sextant on 2 April, gives exactly 150° 30′ of west longitude and 34° 57′ of south latitude; the error was therefore no more than five degrees (II.9 ¶82, ¶83, ln5). *(Drafted.)*
+    - quote: En longitude ouest : 150° 30′
+    - quote: En latitude sud : 34° 57′
+    - quote: son erreur n’avait pas dépassé cinq degrés
+  - The atlas puts the nearest known island, Tabor, two and a half degrees farther west and two degrees farther south (see [Tabor Island](tabor-island.md)) (II.9 ¶91). *(Drafted.)*
+    - quote: à deux degrés et demi plus à l’ouest et deux degrés plus au sud que l’île Lincoln
+  - The colonists talk of its isolated situation in the Pacific (II.9 ¶69). *(Drafted.)*
+    - quote: On causait de l’île et de sa situation isolée dans le Pacifique
+  - It lies in the worst waters of the Pacific, as if the centre of vast cyclones that whip it like a top’s whip (II.11 ¶76). *(Drafted.)*
+    - quote: l’île Lincoln était située dans les parages les plus mauvais du Pacifique
+    - quote: formât le point central de vastes cyclones
+  - The winter of 1866-67 brings storms and gales, the sea heaving as if from some submarine commotion (II.11 ¶74). *(Drafted.)*
+    - quote: provoqué par quelque commotion sous-marine
   - It is described as a desert island (III.16 ¶64). *(Drafted.)*
     - quote: sur une île déserte
   - A port is hollowed out beneath it (III.16 ¶61). *(Drafted.)*
@@ -189,12 +205,10 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, III.16
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, III.16
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent
-  - The island's latitude and longitude are not given in these chapters.
-    - quote: la latitude de l’île
   - Whether Nemo's ‘île déserte du Pacifique’ where the Nautilus was built is this island is not stated.
     - quote: Une île déserte du Pacifique
   - The latitude's bounds: I.14 ¶25 gives "between the thirty-fifth and the fortieth parallel"; I.14 ¶76 gives "between the thirty-fifth and the thirty-seventh". Carded neither way.
@@ -218,3 +232,16 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
   - Where the marsh lies: I.11 ¶32 speaks of stagnant water "dans la portion marécageuse du nord-est", and I.21 ¶7 puts the marshy ground in the south-east between the Mercy and cape Griffe (see [the marsh of the Tadornes](marais-des-tadornes.md)). Carded neither way. *(Drafted.)*
     - quote: dans la portion marécageuse du nord-est
     - quote: comprise au sud-est entre la Mercy et le cap Griffe
+  - The position: the second observation gives 34° 57′ of south latitude and 150° 30′ of west longitude (II.9 ln5), where I.14 ¶25 and ¶75 give "le trente-septième degré de latitude australe" and "le cent cinquante-deuxième degré de longitude ouest", and the first observation is put at 30° to 35° of latitude (II.9 ln4), where I.14 ¶76 gives "entre le trente-cinquième et le trente-septième parallèle"; card neither (II.9 ln4, ln5; I.14 ¶25, ¶75, ¶76). *(Drafted.)*
+    - quote: En latitude sud : 34° 57′
+    - quote: En latitude sud : de 30° à 35°
+    - quote: l’île Lincoln était située sur le trente-septième degré de latitude australe
+    - quote: entre le trente-cinquième et le trente-septième parallèle
+  - The distance to land: Pencroff’s voyage to Tabor is "cent cinquante milles", while the notice’s bottle or pigeon would have to cross "la distance qui séparait l’île de toute terre", "douze cents milles"; Tabor is land at 150 miles; card neither (II.11 ¶11, ¶31). *(Drafted.)*
+    - quote: Un voyage de cent cinquante milles
+    - quote: qui séparait l’île de toute terre et qui était de douze cents milles
+  - The cold of the winter of 1866: the text says the temperature fell less than in the previous winter, its July maximum "huit degrés fahrenheit (13,33° centigrades au-dessous de zéro)", yet in the first week of August it fell to "huit degrés Fahrenheit au-dessous de zéro (22° centig. au-dessous de glace)", and the winter before, on 4 July, reached "huit degrés Fahrenheit (13° centigr. au-dessous de zéro)" (I.21 ¶5); card neither (II.11 ¶74, ¶77; I.21 ¶5). *(Drafted.)*
+    - quote: La température ne s’abaissa pas autant que pendant le précédent hiver
+    - quote: huit degrés fahrenheit (13,33° centigrades au-dessous de zéro)
+    - quote: huit degrés Fahrenheit au-dessous de zéro (22° centig. au-dessous de glace)
+    - quote: huit degrés Fahrenheit (13° centigr. au-dessous de zéro)

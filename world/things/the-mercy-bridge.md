@@ -20,6 +20,9 @@ Keywords: pont de la Mercy, bridge, pont-levis, drawbridge, contre-poids, counte
     - quote: depuis cette embouchure jusqu’au coude de la Mercy où devait être établi le pont
   - Smith means all the bridges and small bridges of the plateau to be raisable at will, so that the plateau is safe from any surprise (II.7 ¶23). *(Drafted.)*
     - quote: si ces pont et ponceaux peuvent être levés à volonté
+  - It is crossed on the way to the stranded whale, and raised by Smith behind the hunters on 3 August (II.10 ¶49; II.11 ¶80). *(Drafted.)*
+    - quote: on passa le pont de la Mercy
+    - quote: Dès qu’ils eurent passé le pont de la Mercy, l’ingénieur le releva
 - **Made from.**
   - Trees are chosen, felled, trimmed and sawn into joists, beams and planks (II.7 ¶26). *(Drafted.)*
     - quote: débités en poutrelles, en madriers et en planches
@@ -47,4 +50,4 @@ Keywords: pont de la Mercy, bridge, pont-levis, drawbridge, contre-poids, counte
     - quote: pour que les animaux ne pussent le franchir
   - The loaded cart comes back over it at eight in the evening of the first trip to port Ballon (II.7 ¶64). *(Drafted.)*
     - quote: après avoir repassé le pont de la Mercy
-- **Appears in:** II.5, II.7
+- **Appears in:** II.5, II.7, II.10, II.11

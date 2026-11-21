@@ -34,6 +34,7 @@
 - 2026-11-20 f back (I.14 to I.17): 96 discords, 1 outline slip (01700 beat 4: "sledge" for the French "claie", a hurdle); 174,427 tokens, 14 calls, 5.0 min; passes the checker (fixed to accept "None found."). f corrected beads in I.14 (White ¶11 to ¶17, one step off) and I.17 (an exchange one speech off).
 - 2026-11-20 g back (I.18 to I.21): 69 discords, 1 outline slip (02100 beat 5: "alive" added to Cyrus's claim); 161,961 tokens, 23 calls, 4.2 min; passes the checker. Beads corrected in I.18, I.20 and I.21. White's I.19 ¶31 ends without its full stop ("head-cook Neb was not particular"), as the Gutenberg HTML has it; logged in texts/README.
 - 2026-11-20 h back (I.22 to II.3): 88 discords, 3 outline slips (02200 beats 9 and 11; 02500 beat 10, "some hundred paces" for "quelques cents pas"); 187,170 tokens, 19 calls, 5.2 min; passes the checker. h's tallies by kind for I.22 did not add up; counts by kind are taken from the headings at close. Misprints in the Gutenberg White ("l5 pounds", "I adzes") are logged as discords, marked as readings.
+- 2026-11-20 i back (II.4 to II.7): 72 discords, 4 outline slips; 173,089 tokens, 22 calls, 4.7 min; passes the checker. Of the slips, 02900 beat 5's "three weeks" against seventeen days is already flagged in the 02900 notes, so it is no slip; 02900 beat 4's "three sides" is checked at the fold-back.
 
 ## Resolution
 

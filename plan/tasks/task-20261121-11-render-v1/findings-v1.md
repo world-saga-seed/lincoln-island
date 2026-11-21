@@ -18,7 +18,7 @@
 |---|---|---|---|
 | I1 | "Then men have been here!" | facts critic | ruled (R1121-109) |
 | I2 | The path and the mooring's parting are not on the page | facts critic | ruled (R1121-110, R1121-65) |
-| I3 | "upon the rooms which the long days of winter were to finish" | facts critic | ruled (R1121-115) |
+| I3 | "upon the rooms which the long days of winter were to finish" | facts critic | ruled: "upon the furnishing of the rooms" (R1121-115, R1121-118) |
 | I4 | "crossed dry-shod" | facts critic | ruled (R1121-115) |
 | I5 | Chopped narration outside the squall (median 11, short 32%), e.g. "The bar had moved." | tells.py; voice critic ×2 | ruled (R1121-111) |
 | I6 | Recycled closer: "and, besides, it was the truth." (l.43) and "it was true, as far as it went." (l.135) | voice critic | cut it at l.43, keep l.135 (pick) |

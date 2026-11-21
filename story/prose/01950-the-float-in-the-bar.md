@@ -44,7 +44,7 @@ Herbert promised; and no one would wonder to see the lad go down with the sailor
 
 The rest of that day passed at the work of Granite House. The evening ebb fell after dark, when nothing could be done on the sands, and the sailor, who was not a patient man, had to wait the night through for the low water of the next morning.
 
-The 2nd of June dawned in rain. A cold rain, driven by a wind which had gone round to the east-north-east and blew straight into the bay, beat upon the facade, and from first light the thick shutters were kept closed. Granite House was lit only by the fire of the kitchen. The engineer, the reporter and Neb were at work within, upon the rooms that were still unfinished, and Top lay at his master's feet. No one looked out at the bar.
+The 2nd of June dawned in rain. A cold rain, driven by a wind which had gone round to the east-north-east and blew straight into the bay, beat upon the facade, and from first light the thick shutters were kept closed. Granite House was lit only by the fire of the kitchen. The engineer, the reporter and Neb were at work within, upon the furnishing of the rooms, and Top lay at his master's feet. No one looked out at the bar.
 
 There were picks and shovels in the storeroom, and Pencroff thought of them. But a man does not carry a pick down a ladder to lift his lines, and the engineer would have asked what it was for. The tools stayed behind, and the sailor had his knife, one of the two blades made from Top's collar; and that was all.
 
@@ -134,7 +134,7 @@ Toward one o'clock the squall eased; the flood had long since covered the bar. T
 
 Neb laughed loudly, and set about making up the fire, and the engineer smiled. The two wet men stood before the hearth and dried their clothes upon their backs, as sailors do. That was all they told, and it was true, as far as it went.
 
-Pencroff might have told the rest then, by the fire, but he did not. The sea had uncovered the thing once; it might give back something else at the next low water, the net, or some piece of what had been on the bar. The sailor meant to go back and see, and to bring home with his own hands whatever he found, and lay it on the table before them all.
+Pencroff might have told the rest then, by the fire. He did not. The sea had uncovered the thing once; it might give back something else at the next low water, the net, or some piece of what had been on the bar. The sailor meant to go back and see, and to bring home with his own hands whatever he found, and lay it on the table before them all.
 
 The 3rd of June was grey and still, for in the night the wind had gone round to the south-west, and the sea was down. Toward the middle of the morning, at low water, the two went down once more to the lines, and from the lines out over the sands.
 

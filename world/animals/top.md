@@ -151,6 +151,11 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
     - quote: si l’instinct de Top les avait pour ainsi dire pressenties
     - quote: Les grondements du chien avaient complétement cessé
     - quote: ne rôdaient plus à l’orifice du puits intérieur
+  - When the last eruption comes, he gives signs of the greatest fear, his instinct warning him that a catastrophe is near (III.19 ¶78). *(Drafted.)*
+    - quote: Top et Jup donnaient des signes du plus grand effroi
+    - quote: leur instinct les avertissait qu’une catastrophe était prochaine
+  - He survives the island's end: on the rock there are "les six colons et leur chien Top" (III.20 ¶2). *(Drafted.)*
+    - quote: aux six colons et à leur chien Top
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -221,4 +226,4 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - At the corral, lying quiet with his head on his paws, he gives no sign of alarm; later, held on a leash by Nab, he breaks it, barks furiously and runs towards the back of the corral, to the bank where the five bodies lie (III.12 ¶25, ¶58, ¶102, ¶107). *(Drafted.)*
     - quote: Top, couché à terre, sa tête allongée sur ses pattes, ne donnait aucun signe d’inquiétude
     - quote: Top, rompant violemment sa laisse, se mit à aboyer avec fureur
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4, III.5, III.6, III.7, III.9, III.10, III.11, III.12, III.14, III.15
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14, II.18, II.19, II.20, III.3, III.4, III.5, III.6, III.7, III.9, III.10, III.11, III.12, III.14, III.15, III.19, III.20

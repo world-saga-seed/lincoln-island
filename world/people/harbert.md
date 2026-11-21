@@ -344,6 +344,20 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
   - He answers Pencroff that he will never abandon Lincoln Island, above all if Pencroff stays, laughing and blushing at once when Pencroff speaks of his wife and children (III.15 ¶15, ¶17). *(Drafted.)*
     - quote: Jamais, Pencroff, et surtout si tu prends le parti d’y rester !
     - quote: riant et rougissant à la fois
+  - He goes up at dawn to Grande-Vue to saddle one of the onaggas, and is the first to see the plume on the volcano (III.18 ¶12). *(Drafted.)*
+    - quote: pour seller l’un des onaggas
+    - quote: aperçut un énorme panache qui se déroulait à la cime du volcan
+  - He is nimbler than his companions, and is first to the plateau at night (III.18 ¶34). *(Drafted.)*
+    - quote: plus leste que ses compagnons, était arrivé le premier au plateau
+  - He would have gone with Smith to the corral but will not vex Pencroff by being away from the yard (III.18 ¶60). *(Drafted.)*
+    - quote: il ne voulut pas contrarier Pencroff en s’absentant
+  - On the bare rock he never leaves the engineer, and looks at him as if to ask a help that Smith cannot bring (III.20 ¶8). *(Drafted.)*
+    - quote: Harbert ne quittait pas l’ingénieur
+    - quote: comme pour lui demander un secours que celui-ci ne pouvait apporter
+  - Weak with hunger, he and Nab begin to show signs of delirium (III.20 ¶11). *(Drafted.)*
+    - quote: Harbert et Nab commencèrent à donner quelques signes de délire
+  - His studies are finished in Iowa under Cyrus Smith's direction (III.20 ¶53). *(Drafted.)*
+    - quote: Harbert, dont les études s’achevèrent sous la direction de Cyrus Smith
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -402,7 +416,7 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Pencroff et Harbert se relayèrent de deux heures en deux heures au gouvernail
   - He finds in the forest species not yet signalled on the island, tree ferns and carob trees (III.11 ¶53). *(Drafted.)*
     - quote: Harbert découvrit des essences nouvelles, dont la présence n’avait pas encore été signalée dans l’île
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

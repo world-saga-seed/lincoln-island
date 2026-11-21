@@ -22,7 +22,14 @@ Keywords: canot, boat, tôle boulonnée, sheet iron, aviron, oars, gouvernail, N
   - It lies moored along the flank of the submarine, and is taken astern when the colonists leave (III.17 ¶88, ¶89). *(Drafted.)*
     - quote: qui était amarré au flanc du bateau sous-marin
     - quote: Ce canot fut conduit à l’arrière
-- **Appears in:** III.15, III.17
+  - Called the "canot de tôle", it is left at the crypt Dakkar, hauled by Pencroff, Nab and Ayrton onto the little strand on one side of the crypt, out of danger of the waves (III.18 ¶1, ¶2). *(Drafted.)*
+    - quote: Le canot de tôle demeura en cet endroit
+    - quote: le halèrent sur la petite grève qui confinait à l’un des côtés de la crypte
+  - Under the arch it lies sheltered under the vault; rowed by Ayrton with the two oars, with the lantern set on the stem and Smith at the helm (III.18 ¶91, ¶93). *(Drafted.)*
+    - quote: abritée sous la voussure de l’arcade
+    - quote: il saisit les deux avirons
+    - quote: Cyrus Smith prit la barre
+- **Appears in:** III.15, III.17, III.18
 - **Open:**
   - The text does not say whose boat it is or how it came to float at the cave’s mouth; Nemo’s words in III.17 ¶32 treat it as the one that brought them. Whether it is the Nautilus’s canot of III.16 ¶58 is not said (see [the Nautilus](nautilus.md)). (III.17 ¶32). *(Drafted.)*
     - quote: le canot qui vous a amenés

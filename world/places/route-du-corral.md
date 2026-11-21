@@ -43,4 +43,6 @@ Keywords: route du Corral, road, chemin, corral, Red Creek, sources, cart, onagg
     - quote: Ils remontèrent la rive gauche de la Mercy, atteignirent le plateau, passèrent le pont du creek Glycérine et s’avancèrent à travers la forêt
   - From the mouth of the Mercy to the corral it is five miles (III.15 ¶49). *(Drafted.)*
     - quote: les cinq qui séparaient l’embouchure de la Mercy du corral
-- **Appears in:** II.7, II.8, II.18, III.6, III.9, III.10, III.11, III.15
+  - The lava threatens to cut the road to the corral on 24 January (III.19 ¶38). *(Drafted.)*
+    - quote: menaçaient de couper la route du corral
+- **Appears in:** II.7, II.8, II.18, III.6, III.9, III.10, III.11, III.15, III.19

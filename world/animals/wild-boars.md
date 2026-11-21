@@ -24,4 +24,7 @@ Keywords: sanglier, sangliers, wild boar, pig, hog, gibier, game, forêt, Jacama
   - Sangliers are among the big game that never fail at the house when Harbert and Spilett hunt on the corral road (III.14 ¶20). *(Drafted.)*
     - quote: cabiais, agoutis, kangourous, sangliers, porcs sauvages pour le gros gibier
     - quote: ne manquaient jamais à la maison
-- **Appears in:** I.15, I.19, I.22, II.4, II.11, II.18, III.14
+  - When the Far-West forest burns, the game, "jaguars, sangliers, cabiais, koulas" among it, flees mad with fear toward the Mercy and the marsh of the tadornes; all the island's animals die in its end (III.19 ¶60; III.20 ¶3). *(Drafted.)*
+    - quote: jaguars, sangliers, cabiais, koulas, gibier de poil et de plume
+    - quote: Les animaux avaient également péri dans la catastrophe
+- **Appears in:** I.15, I.19, I.22, II.4, II.11, II.18, III.14, III.19, III.20

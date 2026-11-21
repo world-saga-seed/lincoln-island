@@ -41,6 +41,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The corral stream](the-corral-stream.md) | the small stream that waters the corral, where five bodies lie |
 | [The crater of Mont Franklin](crater.md) | the extinct crater, with its breach and lava stair on the north |
 | [Creek-Glycérine](creek-glycerine.md) | the small stream in the ditch cut to close the plateau on the west |
+| [Crypte Dakkar](crypte-dakkar.md) | the sea-cave under the north-west coast, once the Nautilus’s port |
 | [The dark closet](the-dark-closet.md) | the room of Granite-house where the plates are fixed |
 | [The dead-wood clearings](dead-wood-clearings.md) | forest clearings strewn with stumps and dead wood |
 | [The dovecote](the-dovecote.md) | the pigeon house in a corner of the poultry-yard |
@@ -59,6 +60,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [Greenwich](greenwich.md) | the meridian from which longitudes are counted |
 | [The grotto](the-grotto.md) | the excavation behind a high dune where Smith lay |
 | [Harbert’s room](harberts-room.md) | his room in Granite-house, with a window on the sea |
+| [The Iowa domain](iowa-domain.md) | the colony the colonists found in America |
 | [The Irish Sea](irish-sea.md) | where the Duncan picks up the Grant bottle |
 | [The Irishman’s farm](the-irishmans-farm.md) | the farm near Cape Bernouilli where Glenarvan meets Ayrton |
 | [The jaguar’s cave](the-jaguars-cave.md) | a cavern in the rocks at the promontoire du Reptile |
@@ -70,6 +72,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [La rivière de la Chute](riviere-de-la-chute.md) | the creek that falls forty feet into the sea on the west coast |
 | [Lake Grant](lake-grant.md) | the lake west of the brickworks clearing |
 | [The landing place](landing-place.md) | where the balloon came down and the four came ashore |
+| [The last rock](the-last-rock.md) | the rock that remains of the island |
 | [Le marais des Tadornes](marais-des-tadornes.md) | the marsh of the south-east, named for its sheldrakes |
 | [Les Malouines](malouines.md) | the Falkland Islands, where the culpeux are found |
 | [The library of the Nautilus](nautilus-library.md) | the room with the luminous ceiling between the saloon and the dining room |
@@ -85,7 +88,6 @@ A card for every place named on or off the island, each fact cited to the French
 | [Mont Franklin](mont-franklin.md) | the extinct volcano of two cones at the island's north-west |
 | [Mount Pitt](mont-pitt.md) | the mountain of Norfolk Island |
 | [The natural stair](the-natural-stair.md) | the slope of rock-fall up to the plateau |
-| [The Nautilus's port](nautilus-port.md) | a submarine port hollowed under Lincoln Island, now closed |
 | [The new fall](the-new-fall.md) | the stream opened from the lake’s east bank, falling three hundred feet to the beach |
 | [New Zealand](new-zealand.md) | the land named as the farthest the wind might have carried them |
 | [Norfolk Island](norfolk-island.md) | the English penal settlement east of Australia |
@@ -97,6 +99,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The Pacific Ocean](pacific-ocean.md) | the ocean the storm is thought to have carried the balloon across |
 | [Patagonia](patagonia.md) | the land Glenarvan crosses along the thirty-seventh parallel |
 | [The peccary sty](the-peccary-sty.md) | the shed built beside the poultry-yard |
+| [The plain of sand and tufa](the-plain-of-sand-and-tufa.md) | the plain between the volcano and the sea |
 | [The platform of the Nautilus](nautilus-platform.md) | the deck with the hatch, the lenticular eye and the helm cabin |
 | [The plutonian tunnels](the-plutonian-tunnels.md) | the dark galleries at the north foot of Mont Franklin, where the rumbling is heard |
 | [Polynesia](polynesia.md) | the archipelagos east of the Pacific the long-haul ships frequent |

@@ -40,7 +40,11 @@ Keywords: presqu’île, Serpentine, tail, queue, alligator, rade foraine, penin
     - quote: dont la largeur variait de trois à quatre milles, car elle était comprise entre les deux rivages de la presqu’île Serpentine
   - Springs trickling in a thousand threads water the ground of the peninsula (III.13 ¶68). *(Drafted.)*
     - quote: s’épanchant par mille filets, abreuvaient le sol de la presqu’île Serpentine
-- **Appears in:** I.11, I.22, II.4, II.5, II.8, II.20, III.6, III.8, III.11, III.12, III.13, III.14
+  - After the eruption a single clump of green trees still stands at the end of the peninsula (III.19 ¶62). *(Drafted.)*
+    - quote: Un seul bouquet d’arbres verts se dressait à l’extrémité de la presqu’île Serpentine
+  - The long peninsula is among the places swallowed in the final destruction, though it lay far from the eruptive centre (III.20 ¶2). *(Drafted.)*
+    - quote: la longue presqu’île Serpentine, si éloignée cependant du centre éruptif
+- **Appears in:** I.11, I.22, II.4, II.5, II.8, II.20, III.6, III.8, III.11, III.12, III.13, III.14, III.19, III.20
 - **Open:**
   - The lengths: I.11 ¶25 says the peninsula runs "plus de trente milles" to sea from the south-east cape; ¶26 gives the island's greatest length, from the jaw of the north-east to the tail's end, as "pas moins de trente milles"; ¶38 repeats "environ trente milles" from the summit to the extreme points. Card none of the figures.
     - quote: s’allongeait de plus de trente milles en mer, à compter du cap sud-est de l’île

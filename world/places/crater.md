@@ -50,4 +50,25 @@ Keywords: cratère, volcan éteint, cheminée volcanique, égueulement, lava sta
     - quote: les vapeurs ne cessèrent d’empanacher la cime de la montagne
     - quote: sans qu’aucune flamme se mêlât à leurs épaisses volutes
     - quote: Le phénomène se concentrait encore dans la partie inférieure de la cheminée centrale
-- **Appears in:** I.10, I.11, I.12, III.13, III.14, III.15
+  - On 3 January thick smoke has replaced the vapours: a greyish column more than three hundred feet wide at its base, spreading like an immense mushroom seven or eight hundred feet above the summit; for three months the crater had given off vapours from an internal boiling (III.18 ¶15). *(Drafted.)*
+    - quote: large de plus de trois cents pieds à sa base
+    - quote: à une hauteur de sept à huit cents pieds au-dessus de la cime du mont
+    - quote: Depuis trois mois déjà, le cratère émettait des vapeurs
+  - The old way of the lavas is still open, and the crater has until then poured them to the north (III.18 ¶24). *(Drafted.)*
+    - quote: l’ancienne route des laves est toujours ouverte
+    - quote: le cratère les a jusqu’ici épanchées vers le nord
+  - The north-east breach (égueulement) is partly visible and, on 4 to 6 January, pours no stream down the northern slope (III.18 ¶54). *(Drafted.)*
+    - quote: l’égueulement du nord-est, qui était en partie visible
+    - quote: ne versait aucun torrent sur le talus septentrional du mont
+  - On 8 January no lava flows through the throat of the crater, which shows that the volcanic matter has not yet reached the upper orifice of the central chimney (III.18 ¶73). *(Drafted.)*
+    - quote: aucun épanchement lavique ne s’opérait par le goulot du cratère
+    - quote: n’avait pas encore atteint l’orifice supérieur de la cheminée centrale
+  - After the upper cone falls on 24 January the crater is wide open and throws up so intense a light that the air seems incandescent; the new crater’s orientation sends the lava toward the corral (III.19 ¶27, ¶29). *(Drafted.)*
+    - quote: Le cratère, largement ouvert alors
+    - quote: par suite de l’orientation du nouveau cratère
+  - The beheaded volcano ends in a sort of bare table in place of the old crater, with two outlets cut on its south and east edges that pour out two distinct currents of lava (III.19 ¶37). *(Drafted.)*
+    - quote: Une sorte de table rase le terminait
+    - quote: Deux égueulements, creusés à ses bords sud et est
+  - In the first week of March the crater fills again with lava, which spills down all the slopes of the volcano (III.19 ¶78). *(Drafted.)*
+    - quote: Le cratère s’emplit à nouveau de laves qui s’épanchèrent sur tous les revers du volcan
+- **Appears in:** I.10, I.11, I.12, III.13, III.14, III.15, III.18, III.19

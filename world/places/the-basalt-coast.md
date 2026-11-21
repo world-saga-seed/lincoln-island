@@ -62,8 +62,16 @@ Keywords: côte de fer, basalte, iron coast, lava, blocs, prismes, cathedral, To
   - Under a hollow of the rocks there is a deep portico cut in the rock, where one can shelter (III.15 ¶95, ¶100). *(Drafted.)*
     - quote: sous une anfractuosité des roches
     - quote: sous une sorte de portique profond, creusé dans la roche
-- **Appears in:** II.19, II.20, III.12, III.13, III.15
+  - Its north-western part is an enormous heap of basaltic and porphyritic rocks, the crest of which the colonists reach from the corral and go down by the same execrable road that led them to the crypt on the stormy night (III.18 ¶86, ¶87). *(Drafted.)*
+    - quote: cet énorme entassement de roches basaltiques et porphyritiques qui formait la côte nord-ouest de l’île
+    - quote: le chemin détestable qui, pendant cette nuit d’orage, les avait conduits à la crypte Dakkar
+  - By day the descent is less perilous, since the layer of ashes covering the polished rocks gives a firmer foothold on the sloping surfaces (III.18 ¶87). *(Drafted.)*
+    - quote: En plein jour, cette descente fut moins périlleuse
+  - The shoulder that runs along the shore, about forty feet up, slopes down gently to sea level (see [the crypt Dakkar](crypte-dakkar.md)) (III.18 ¶88). *(Drafted.)*
+    - quote: à une hauteur de quarante pieds environ
+    - quote: s’abaissait par une pente douce, jusqu’au niveau de la mer
+- **Appears in:** II.19, II.20, III.12, III.13, III.15, III.18
 - **Open:**
-  - At the foot of these rocks Smith sees "not a cavern, not a crevice" from the Bonadventure (II.19 ¶51), yet the arch of a vast excavation shows at their foot at low tide (III.15 ¶103); the text does not reconcile them (see [the Nautilus’s port](nautilus-port.md)). (III.15 ¶103; II.19 ¶51). *(Drafted.)*
+  - At the foot of these rocks Smith sees "not a cavern, not a crevice" from the Bonadventure (II.19 ¶51), yet the arch of a vast excavation shows at their foot at low tide (III.15 ¶103); the text does not reconcile them (see [the Nautilus’s port](crypte-dakkar.md)). (III.15 ¶103; II.19 ¶51). *(Drafted.)*
     - quote: pas une caverne, pas une anfractuosité
     - quote: La voussure d’une vaste excavation commençait à se dessiner au-dessus des eaux

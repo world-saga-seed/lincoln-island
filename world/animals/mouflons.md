@@ -62,4 +62,16 @@ Keywords: mouflon, mouton, sheep, bighorn, horns, wool, toison, gigot, côtelett
   - The corral is not abandoned: every two days a colonist goes to tend the flock of mouflons and goats and brings back the milk that supplies Nab's pantry (III.14 ¶20). *(Drafted.)*
     - quote: allait soigner le troupeau de mouflons et de chèvres
     - quote: rapportait le lait qui approvisionnait l’office de Nab
-- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.17, II.20, III.6, III.12, III.13, III.14
+  - The herd of mouflons and goats is shut in the corral and must have its fodder renewed (III.18 ¶55). *(Drafted.)*
+    - quote: le troupeau de mouflons et de chèvres était renfermé
+    - quote: renouveler la provision de fourrage de ces animaux
+  - They seem ill at ease before the first signs of the eruption; Smith says instinct speaks in them, and instinct does not deceive (III.18 ¶70, ¶81). *(Drafted.)*
+    - quote: semblaient éprouver un certain malaise devant ces premiers symptômes d’une éruption
+    - quote: l’instinct parle en eux, et l’instinct ne trompe pas
+  - When the lava comes down on the corral they are terrified; Ayrton throws open the gate and they flee in all directions (III.19 ¶31). *(Drafted.)*
+    - quote: quelle épouvante terrifiait les mouflons et les chèvres
+    - quote: les animaux, affolés, s’échappèrent en toutes directions
+  - Many of the island's animals perish in the first eruption; the rest find refuge in the marsh of the tadornes; in the end all perish in the island's destruction (III.19 ¶78; III.20 ¶3). *(Drafted.)*
+    - quote: Bon nombre des animaux de l’île avaient péri pendant la première éruption
+    - quote: Les animaux avaient également péri dans la catastrophe
+- **Appears in:** I.10, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.17, II.20, III.6, III.12, III.13, III.14, III.19, III.20

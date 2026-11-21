@@ -102,6 +102,35 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: dont le souvenir ne peut s’effacer
   - He is laid to rest in the Nautilus, which the colonists sink, and which, become his coffin, rests at the bottom of the seas (III.17 ¶90, ¶91). *(Drafted.)*
     - quote: le Nautilus, devenu le cercueil du capitaine Nemo, reposait au fond des mers
+  - The colonists give the cavern's entrance the name "crypte Dakkar", in memory of Captain Nemo (III.18 ¶1). *(Drafted.)*
+    - quote: à laquelle ils donnèrent le nom de « crypte Dakkar », en souvenir du capitaine Nemo
+  - The colonists, whose imagination had made of him a genius, feel more isolated after his death: they had grown used to counting on his powerful intervention (III.18 ¶5). *(Drafted.)*
+    - quote: cet homme dont leur imagination faisait un génie
+    - quote: à compter sur cette intervention puissante qui leur manquait aujourd’hui
+  - He lies in the abyss where the Nautilus rests (III.18 ¶5, ¶94). *(Drafted.)*
+    - quote: Son Nautilus et lui étaient ensevelis au fond d’un abîme
+    - quote: où reposait le capitaine Nemo
+  - Smith holds that he had foreseen the danger that threatens the island, and that the wall of the crypt shows what he feared (III.18 ¶74, ¶98, ¶105). *(Drafted.)*
+    - quote: Le capitaine Nemo l’a bien pressenti
+    - quote: Voilà ce que craignait le capitaine Nemo
+    - quote: le capitaine avait raison
+  - In the few minutes of private talk, he gave Smith the explanation of the island's doom, "le dernier service" he wished to do the colonists before he died; it rests on "une disposition particulière" that he made known to Smith, which will sooner or later break the island's submarine frame (III.19 ¶6, ¶8, ¶11). What the disposition is, the chapter does not say. *(Drafted.)*
+    - quote: l’explication que, pendant nos quelques minutes d’entretien secret, m’a donnée le capitaine Nemo
+    - quote: c’est le dernier service qu’il a voulu nous rendre avant de mourir
+    - quote: une disposition particulière que m’a fait connaître le capitaine Nemo
+  - Nab and Pencroff hold that none of the disaster would have come had Nemo lived; Smith answers Nab that it would (III.19 ¶74–¶77). *(Drafted.)*
+    - quote: si le capitaine Nemo eût encore été vivant, croyez-vous que tout cela serait arrivé
+    - quote: Oui, Nab
+    - quote: Eh bien, moi, je ne le crois pas
+  - The colonists uncover at Smith's prayer for the soul of "notre sauveur" and murmur the captain's name (III.20 ¶41, ¶42). *(Drafted.)*
+    - quote: Les colons s’étaient découverts à cette dernière phrase de Cyrus Smith et murmuraient le nom du capitaine
+  - The riches in the casket are a bequest from him to the colonists of Lincoln Island (III.20 ¶51). *(Drafted.)*
+    - quote: la plus grande partie fut employée à l’acquisition d’un vaste domaine
+    - quote: Des richesses contenues dans le coffret légué par le capitaine Nemo aux colons de l’île Lincoln
+  - The history of Captain Grant and that of Captain Nemo are "la double histoire" that binds the friends who visit the colonists in Iowa (III.20 ¶54). *(Drafted.)*
+    - quote: tous ceux qui avaient été mêlés à la double histoire du capitaine Grant et du capitaine Nemo
+  - The rock that is all that is left of the island, a morsel of granite beaten by the waves of the Pacific, is his tomb (III.20 ¶55). *(Drafted.)*
+    - quote: un morceau de granit battu par les lames du Pacifique, tombe de celui qui fut le capitaine Nemo
 - **On the page.**
   - He has a magnificent head, high forehead, proud look, white beard and abundant hair swept back (III.16 ¶1). *(Drafted.)*
     - quote: tête magnifique, front haut, regard fier, barbe blanche, chevelure abondante et rejetée en arrière
@@ -252,7 +281,7 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: toujours, et anonymement
   - He prefers not to be seen, even while helping (III.16 ¶64). *(Drafted.)*
     - quote: il ne voulut point être vu
-- **Appears in:** III.15, III.16, III.17
+- **Appears in:** III.15, III.16, III.17, III.18, III.19, III.20
 - **Open:**
   - III.16 refers throughout to the earlier book, "Vingt mille Lieues sous les mers" (the professor's account of seven months aboard); the card holds only what III.16 states (III.16 ¶24). *(Drafted.)*
     - quote: Vingt mille Lieues sous les mers

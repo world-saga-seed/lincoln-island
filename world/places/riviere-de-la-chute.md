@@ -65,4 +65,10 @@ Keywords: Falls-river, Chute, creek, ruisseau, west coast, côte occidentale, wa
     - quote: confinait par l’ouest à la vallée de la rivière de la Chute
   - Between the corral valley and its valley rises a buttress, which the colonists cross at its narrowest part (III.15 ¶80). *(Drafted.)*
     - quote: le contrefort dressé entre la vallée du corral et celle de la rivière de la Chute, qu’ils traversèrent dans sa partie la plus étroite
-- **Appears in:** II.4, II.18, II.19, III.8, III.11, III.12, III.13, III.15
+  - Its valley is wide, the ground sloping down on each side of the creek, so that the second current of lava, which follows it, meets no obstacle and spreads through the Far-West forest (III.19 ¶37, ¶59). *(Drafted.)*
+    - quote: la vallée de la rivière de la Chute
+    - quote: vallée large, dont les terrains se déprimaient de chaque côté du creek
+    - quote: ne devait trouver aucun obstacle
+  - After the eruption the valleys of the Falls river and the Mercy no longer pour a drop of water into the sea (III.19 ¶62). *(Drafted.)*
+    - quote: Les vallées de la rivière de la Chute et de la Mercy ne versaient plus une seule goutte d’eau à la mer
+- **Appears in:** II.4, II.18, II.19, III.8, III.11, III.12, III.13, III.15, III.19

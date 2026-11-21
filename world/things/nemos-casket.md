@@ -21,4 +21,9 @@ Keywords: coffret, casket, diamants, perles, treasure, trésor, cent fortunes, s
   - Nemo tells Smith to take it the next day on leaving the saloon, and the colonists carry it out of the Nautilus (III.17 ¶30, ¶86). *(Drafted.)*
     - quote: Demain, vous prendrez ce coffret
     - quote: après avoir emporté l’unique souvenir
-- **Appears in:** III.17
+  - Ayrton saves it at the risk of his life when the island is engulfed and returns it to Smith (III.20 ¶44, ¶45). *(Drafted.)*
+    - quote: le coffret qu’Ayrton avait sauvé au péril de sa vie
+  - Most of its riches buy a vast domain in Iowa, and a single pearl, the finest, is taken from the treasure and sent to Lady Glenarvan in the name of the castaways (III.20 ¶51). *(Drafted.)*
+    - quote: la plus grande partie fut employée à l’acquisition d’un vaste domaine dans l’état d’Iowa
+    - quote: Une seule perle, la plus belle, fut distraite de ce trésor et envoyée à lady Glenarvan
+- **Appears in:** III.17, III.20

@@ -96,7 +96,24 @@ Keywords: lac Grant, pond, shore, water, west bank, lac Grant, creek, déversoir
     - quote: il y a des saules sur le bord du lac
   - Its surroundings are well known to the colonists (III.11 ¶24). *(Drafted.)*
     - quote: les environs du lac Grant
-- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, II.7, II.8, III.6, III.7, III.10, III.11, III.13, III.16
+  - Spilett hopes it will cover the Grande-Vue plateau against the lava, since the general slope of the ground falls from Mont Franklin to the east coast, and Smith answers only that he hopes so (III.19 ¶34, ¶35, ¶36). *(Drafted.)*
+    - quote: s’abaissait du mont Franklin à la côte est
+    - quote: Le lac nous couvrira
+  - A certain rise of the ground at its limit, which if higher might have held the lava, is where the colonists dig the dike that makes the lava pour into the lake by a fall twenty feet high (III.19 ¶46, ¶51). *(Drafted.)*
+    - quote: un certain exhaussement du sol
+    - quote: par une chute haute de vingt pieds
+  - The lake cannot overflow, because the surplus of its water is spent in steam; its water, not renewed, must in the end be absorbed (III.19 ¶53, ¶54). *(Drafted.)*
+    - quote: si considérable que fût la masse d’eau contenue dans le lac
+    - quote: le trop-plein de ses eaux se dépensait en vapeurs
+  - Three hours after the lava first falls in, the lake is a vast heap of smoking rocks like thousands of reefs, and by 25 to 30 January it is almost entirely filled (III.19 ¶54, ¶57). *(Drafted.)*
+    - quote: un énorme entassement de rocs fumants
+    - quote: le lac Grant était presque entièrement comblé
+  - After the eruption its south point is spared and forms a sort of pond holding all the drinkable water left on the island (III.19 ¶62). *(Drafted.)*
+    - quote: sa pointe sud avait été épargnée et formait une sorte d’étang
+    - quote: tout ce qui restait d’eau potable dans l’île
+  - A small lake called Lake Grant is named in the colonists’ domain in Iowa (see [the Iowa domain](iowa-domain.md)) (III.20 ¶52). *(Drafted.)*
+    - quote: un petit lac qui fut le lac Grant
+- **Appears in:** I.11, I.12, I.13, I.16, I.17, I.18, I.21, I.22, II.7, II.8, III.6, III.7, III.10, III.11, III.13, III.16, III.19, III.20
 - **Open:**
   - The text gives the lake no size.
     - quote: du lac Grant

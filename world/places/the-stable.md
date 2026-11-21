@@ -14,7 +14,10 @@ Keywords: écurie, stable, onaggas, litière, basse-cour
     - quote: les écuries, Cyrus Smith préféra attendre
   - The "étables" built on the poultry-yard site now hold five onaggas, four vigorous and well trained, and a young one just born (III.14 ¶18). *(My reading, to confirm.)*
     - quote: Les étables contenaient maintenant cinq onaggas, dont quatre vigoureux, bien dressés, se laissant atteler ou monter, et un petit qui venait de naître
-- **Appears in:** II.7, II.15, II.17, III.10, III.11, III.14
+  - The colonists run to the onaggas’ stable and harness the cart on the night of 23 to 24 January; its "étables" are destroyed by the lava in March (III.19 ¶30, ¶78). *(My reading, to confirm.)*
+    - quote: vers l’étable des onaggas
+    - quote: des étables, il ne resta plus rien
+- **Appears in:** II.7, II.15, II.17, III.10, III.11, III.14, III.19
 - **Open:**
   - The pigs brought from Tabor are taken to "les étables" to acclimatise easily; whether these are the same shelter as the "écurie" of II.7 ¶59 is not said (II.15 ¶45). *(Drafted.)*
     - quote: ces animaux furent conduits aux étables, où ils devaient s’acclimater facilement

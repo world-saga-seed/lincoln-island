@@ -693,6 +693,55 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He stays only a few minutes shut in with Nemo, and tells his friends nothing of the secret things the dying man wished to confide (III.17 ¶72). *(Drafted.)*
     - quote: Cyrus Smith resta quelques minutes seulement enfermé avec le capitaine Nemo
     - quote: il ne leur dit rien des choses secrètes que le mourant avait voulu lui confier
+  - He gives the building of the new ship more than ever his time and care, as a guarantee of a solid vessel able to keep the sea in heavy weather and to make a crossing of some length at need (III.18 ¶7). *(Drafted.)*
+    - quote: Cyrus Smith y donna plus que jamais son temps et ses soins
+    - quote: un bâtiment solide, pouvant tenir la mer même par un gros temps
+  - The plans he gave for the new ship are judged excellent: she will behave well at sea (III.18 ¶9). *(Drafted.)*
+    - quote: les plans donnés par Cyrus Smith étaient excellents
+  - He is inclined to think the storms of the air are linked with the troubles inside the earth, since the storms come with a recrudescence of volcanic signs (III.18 ¶11). *(Drafted.)*
+    - quote: Une sorte de connexité s’établissait-elle entre les troubles de l’air et les troubles des portions intérieures du globe
+    - quote: Cyrus Smith fut porté à le croire
+  - He weighs the coming eruption more gravely than Pencroff: the old lava road is still open and the crater has so far poured north, but an island of basalt on one side, granite on the other, lava to the north and loose soil to the south could be broken up by an earthquake (III.18 ¶24, ¶27). *(Drafted.)*
+    - quote: l’ancienne route des laves est toujours ouverte
+    - quote: Il n’envisageait pas aussi légèrement que Pencroff les conséquences d’une éruption
+    - quote: aurait couru le risque d’être désagrégée
+  - He explains the vibrations felt in the ground by the effervescence of the central fire: the earth's crust is only the wall of a boiler, which vibrates like a sounding plate under the pressure of gases (III.18 ¶42). *(Drafted.)*
+    - quote: L’écorce terrestre n’est autre chose que la paroi d’une chaudière
+    - quote: vibre comme une plaque sonore
+  - Asked whether he foresees a danger, he answers "Oui et non" and will say only that he must see, must visit the mountain, before he can tell (III.18 ¶46, ¶50). *(Drafted.)*
+    - quote: Oui et non
+    - quote: il faut que je voie… que je visite la montagne
+  - He reads the ash that falls on the corral, pozzolana and powdered pumice, as proof that the trouble is deep in the lower layers of the volcano (III.18 ¶65). *(Drafted.)*
+    - quote: démontre combien le trouble est profond dans les couches inférieures du volcan
+  - He tells his companions that Lincoln Island is doomed to a destruction whose cause is in itself and that nothing can avert (III.19 ¶2, ¶3). *(Drafted.)*
+    - quote: l’île Lincoln courait un immense danger, qu’aucune puissance humaine ne pouvait conjurer
+    - quote: Elle est vouée à une destruction plus ou moins prochaine
+  - He found in the crypt that the cracks in the wall closing its end were widening under the inner pressure, and that the wall would in time let in the sea, which on reaching the central chimney would blow up the island as the Mediterranean rushing into Etna would blow up Sicily (III.19 ¶13, ¶15, ¶17). *(Drafted.)*
+    - quote: ces fractures s’agrandissaient sous la pression intérieure
+    - quote: l’île Lincoln sautera comme sauterait la Sicile si la Méditerranée se précipitait dans l’Etna
+  - He is used to putting figures on grave situations, and tells the truth to men he knows able to hear it, whatever it be (III.19 ¶42). *(Drafted.)*
+    - quote: habitué à chiffrer les situations graves
+    - quote: des hommes capables d’entendre la vérité, quelle qu’elle fût
+  - His rule, given to Pencroff when the colonists doubt the use of working at the boat: "il faut faire son devoir jusqu’au bout" (III.19 ¶45). *(Drafted.)*
+    - quote: il faut faire son devoir jusqu’au bout
+  - He grasps at once that the lava must be dammed and made to fall into the lake, and his thought is understood by the others (III.19 ¶48, ¶49). *(Drafted.)*
+    - quote: La pensée de l’ingénieur fut aussitôt comprise
+    - quote: il fallait l’endiguer, pour ainsi dire, et l’obliger ainsi à se déverser dans le lac
+  - On the bare rock after the island's end he is calm (III.20 ¶8). *(Drafted.)*
+    - quote: Cyrus Smith était calme
+  - He reads the notice from Tabor and knows it for the same hand that wrote the document found at the corral (III.20 ¶37). *(Drafted.)*
+    - quote: reconnu qu’elle était de la même main qui avait écrit le document trouvé au corral
+  - He prays that God receive the soul of Captain Nemo, whom he calls "notre sauveur" (III.20 ¶41). *(Drafted.)*
+    - quote: que le dieu de toutes les miséricordes reçoive l’âme du capitaine Nemo, notre sauveur
+  - He tells Robert Grant that where he left a culprit he finds a man "que l’expiation a refait honnête", whose hand he is proud to give (III.20 ¶48). *(Drafted.)*
+    - quote: un homme que l’expiation a refait honnête
+  - Fifteen days after the rescue the colonists land in America, to find their country at peace after the war (III.20 ¶50). *(Drafted.)*
+    - quote: Quinze jours après, les colons débarquaient en Amérique
+  - With most of the casket's riches the colonists buy a vast domain in the state of Iowa, where they found a colony that bears the lost island's name, with a river called the Mercy, a mountain Franklin, a small lake Grant and the forests of the Far-West, "une île en terre ferme"; all prospers under the engineer's intelligent hand, and none of the old colonists is missing, for they have sworn always to live together (III.20 ¶51, ¶52, ¶53). *(Drafted.)*
+    - quote: l’acquisition d’un vaste domaine dans l’état d’Iowa
+    - quote: C’était comme une île en terre ferme
+    - quote: sous la main intelligente de l’ingénieur et de ses compagnons, tout prospéra
+    - quote: ils avaient juré de toujours vivre ensemble
 - **On the page.**
   - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
@@ -877,7 +926,7 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
   - He watches the unknown at every moment, and his eyes do not leave the man's (II.15 ¶68, ¶88). *(Drafted.)*
     - quote: comme l’ingénieur l’observait à tous moments
     - quote: dont les yeux ne quittaient pas ceux de son malade
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer

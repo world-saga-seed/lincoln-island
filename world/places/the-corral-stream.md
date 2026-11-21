@@ -14,6 +14,8 @@ Keywords: ruisseau, stream, cours d’eau, berge, bank, corral, cinq corps, five
   - Five bodies lie stretched on its bank, those of the convicts who had landed on the island four months before (III.12 ¶107, ¶108). *(Drafted.)*
     - quote: Cinq corps, étendus sur la berge
     - quote: C’étaient ceux des convicts qui, quatre mois auparavant, avaient débarqué sur l’île Lincoln
-- **Appears in:** III.12, III.13
+  - The "petit rio" that crosses the corral is vaporised by the lava on 24 January (III.19 ¶32). *(Drafted.)*
+    - quote: volatilisait l’eau du petit rio qui le traversait
+- **Appears in:** III.12, III.13, III.19
 - **Open:**
   - Whether this is the same stream as the corral’s "petit rio" that loses itself in the Red Creek (II.8 ¶32) is not said (see [the corral](corral.md) and its Open line). *(Drafted.)* *(Drafted.)*

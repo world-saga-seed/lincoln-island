@@ -246,6 +246,26 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Elle fut donc inférieure à la température du précédent hivernage
   - Smith’s plan is to give the island to the United States and found on it a station for their navy in this part of the Pacific (III.17 ¶61). *(Drafted.)*
     - quote: d’en doter les États-Unis et d’y fonder pour notre marine une relâche
+  - It is made of very diverse matter, basalt on one side, granite on the other, lava in the north and loose soil in the south, which cannot be solidly bound together and might be broken up by an earthquake (III.18 ¶27). *(Drafted.)*
+    - quote: basaltes d’un côté, granit de l’autre, laves au nord, sol meuble au midi
+    - quote: aurait couru le risque d’être désagrégée
+  - It is not like the other islands of the Pacific: a special arrangement, which Nemo made known to Smith, must sooner or later dislocate its submarine frame, and it is doomed to a destruction whose cause is within it (III.19 ¶3, ¶11). *(Drafted.)*
+    - quote: n’est pas de celles qui doivent durer autant que le globe lui-même
+    - quote: une disposition particulière que m’a fait connaître le capitaine Nemo
+  - The general slope of the ground falls from Mont Franklin to the east coast (III.19 ¶34). *(Drafted.)*
+    - quote: La pente générale du sol s’abaissait du mont Franklin à la côte est
+  - It is destroyed in the night of 8 to 9 March 1869: by a tremendous explosion, heard a hundred miles off, pieces of the mountain fall into the Pacific and in a few minutes the Ocean covers the island’s place (III.19 ¶81). *(Drafted.)*
+    - quote: Une explosion, qu’on eût entendue à cent milles de distance
+    - quote: l’Océan recouvrait la place où avait été l’île Lincoln
+  - Of the island nothing remains in sight but a narrow rock, which is later reckoned to be a reef that will figure on the charts of the Pacific, and the tomb of Nemo (III.20 ¶2, ¶49, ¶55). *(Drafted.)*
+    - quote: De l’île Lincoln, on ne voyait plus que cet étroit rocher
+    - quote: devait désormais figurer sur les cartes du Pacifique
+    - quote: tombe de celui qui fut le capitaine Nemo
+  - The island is not even marked on the charts, and the notice gives its longitude and latitude and names it as the present residence of Ayrton and five American colonists (III.20 ¶33, ¶36). *(Drafted.)*
+    - quote: cette île n’est même pas portée sur les cartes
+    - quote: résidence actuelle d’Ayrton et de cinq colons américains
+  - It lies a hundred miles to the north-east of Tabor Island (III.20 ¶28). *(Drafted.)*
+    - quote: à cent milles de là dans le nord-est
 - **On the page.**
   - The seabirds on the granite wall are little alarmed by the sight of a man, who, it seems, troubled their solitude for the first time (I.4 ¶9). *(Drafted.)*
     - quote: peu effrayés de la présence de l’homme
@@ -255,7 +275,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.1, III.2, III.10, III.11, III.12, III.13, III.14, III.15, III.16, III.17
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.1, III.2, III.10, III.11, III.12, III.13, III.14, III.15, III.16, III.17, III.18, III.19, III.20
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent

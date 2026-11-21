@@ -112,7 +112,14 @@ Keywords: corral, enclos, palissade, mouflons, sheepfold, pen, hangars, wool, la
     - quote: d’en rehausser l’enceinte palissadée et de la flanquer d’une sorte de blockhaus
     - quote: serait toujours l’objectif des pirates
     - quote: forcément remise au printemps prochain
-- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15
+  - It shuts up the flock of mouflons and goats, whose fodder must be renewed; its court is entered by a gate that is closed from outside (III.18 ¶55, ¶70, ¶84). *(Drafted.)*
+    - quote: où le troupeau de mouflons et de chèvres était renfermé
+    - quote: dans la cour du corral
+    - quote: La porte fut fermée extérieurement
+  - It is destroyed by the lava on 24 January: the lava fills it, vaporises the water of the little stream crossing it, burns the dwelling and devours the palisade to the last post, so that nothing remains (III.19 ¶32). *(Drafted.)*
+    - quote: la lave bouillonnante emplissait le corral
+    - quote: Du corral il ne restait plus rien !
+- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.18, III.19
 - **Open:**
   - The stream that waters the corral meadows is "un petit rio, né sur ses pentes" that loses itself in the Red Creek in one chapter, and "ce petit ruisseau dérivé du creek Rouge" in another; card neither (II.8 ¶32; III.6 ¶88). *(Drafted.)*
     - quote: Un petit rio, né sur ses pentes, après l’avoir arrosée diagonalement, allait se perdre dans le Creek-Rouge

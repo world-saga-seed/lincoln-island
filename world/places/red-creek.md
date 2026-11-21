@@ -62,8 +62,16 @@ Keywords: Creek-Rouge, brook, stream mouth, coal seam, creek, ruisseau, terre ro
   - The Red Creek and the Falls-river are changed lower down into rivers by the absorption of some tributaries, being formed of all the waters of the mountain (III.13 ¶68). *(Drafted.)*
     - quote: changés plus bas en rivières par l’absorption de quelques affluents
     - quote: se formaient de toutes les eaux de la montagne
+  - Its sources lie at the corral, and Smith goes up beyond them to look at the mountain’s northern slope (III.18 ¶67). *(Drafted.)*
+    - quote: je remonterai jusqu’au delà des sources du creek Rouge
+  - Its valley and its sources, in the fertile part of the island, are the way the lava takes toward the corral; the lava, overflowing the creek bed, threatens to cut the road to the corral and vaporises the stream (III.19 ¶29, ¶37, ¶38). *(Drafted.)*
+    - quote: les sources du creek Rouge
+    - quote: la vallée du creek Rouge
+    - quote: débordant du lit du creek Rouge, menaçaient de couper la route du corral
+  - The colonists halt by the lake half a mile from the creek’s mouth (III.19 ¶41). *(Drafted.)*
+    - quote: à un demi-mille de l’embouchure du creek Rouge
 - **On the page.**
-- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4, II.7, II.8, III.6, III.11, III.13
+- **Appears in:** I.12, I.13, I.15, I.16, I.17, I.20, II.4, II.7, II.8, III.6, III.11, III.13, III.18, III.19
 - **Open:**
   - The text does not say where the creek runs or how far its mouth is from the clearing.
     - quote: vers l’embouchure du Creek-Rouge

@@ -81,7 +81,18 @@ Keywords: Far-West, forêts, bois, woods, forest, Serpentine, impenetrable, for�
     - quote: humide à sa couche supérieure, mais chauffé à l’intérieur par des feux volcaniques
   - It gives the best oaks and elms for the new ship (see [the schooner](../things/the-schooner.md)) (III.14 ¶15). *(Drafted.)*
     - quote: Ce fut la forêt du Far-West qui donna les meilleures essences en chênes et en ormes
-- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12, II.18, III.6, III.8, III.11, III.12, III.14
+  - Smith says that if the lava is not stopped by the lake it will invade the Far-West forests and not a tree or plant will be left on the ground (III.19 ¶43, ¶51). *(Drafted.)*
+    - quote: le courant envahira les forêts du Far-West
+    - quote: pas un arbre, pas une plante ne restera à la surface du sol
+  - At that season the trees are dried by torrid heat, so that when the second current of lava runs through the forest it takes fire at once, through the base of the trunks and the high branches, the flames running faster along the crowns than the lava at the foot (III.19 ¶59). *(Drafted.)*
+    - quote: les essences étaient desséchées par une chaleur torride
+    - quote: plus vite à la cime des arbres que le courant de laves à leur pied
+  - The forests are destroyed: the whole wooded part of the island is bare, a wild heap of volcanic tufa, and the site of the forests more arid than the marsh of the Tadornes (III.19 ¶62). *(Drafted.)*
+    - quote: Toute la partie boisée de l’île était maintenant dénudée
+    - quote: L’emplacement des forêts détruites était plus aride que le marais des tadornes
+  - Forests that became the Far-West forests are named in the colonists’ domain in Iowa (see [the Iowa domain](iowa-domain.md)) (III.20 ¶52). *(Drafted.)*
+    - quote: des forêts qui devinrent les forêts du Far-West
+- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12, II.18, III.6, III.8, III.11, III.12, III.14, III.19, III.20
 - **Open:**
   - How much of the great forest the name covers: I.11 ¶32 says the trees make "two thirds" of the island a forest; I.11 ¶27 has the forest cover the whole south from the mountain to the shore; ¶81 gives the name to the woods of the Serpentine peninsula. The three do not say how they overlap, nor whether it takes in [the evergreen forest](the-evergreen-forest.md) or [the wood of the Jacamar](jacamar-wood.md). Card neither.
     - quote: très-boisée dans toute sa portion méridionale depuis la montagne jusqu’au littoral

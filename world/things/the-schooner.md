@@ -50,4 +50,34 @@ Keywords: goélette, schooner, navire, new ship, vessel, quille, keel, chantier,
     - quote: une grande quantité de clous de cuivre
   - Spilett tells Nemo they are building a ship large enough to carry them to the nearest lands (III.17 ¶65). *(Drafted.)*
     - quote: Nous construisons un navire, dit Gédéon Spilett, un navire assez grand pour nous transporter aux terres les plus rapprochées
-- **Appears in:** III.13, III.14, III.15, III.17
+  - It is to be a solid ship able to keep the sea in heavy weather, large enough for a crossing of some length, and Smith gives more than ever his time to it (III.18 ¶7). *(Drafted.)*
+    - quote: un bâtiment solide, pouvant tenir la mer même par un gros temps
+    - quote: assez grand pour tenter, au besoin, une traversée de quelque durée
+  - It must be ready in five months, by the beginning of March, to visit Tabor before the equinoctial gales; the Speedy’s rigging was saved whole, so only the hull remains to be finished (III.18 ¶8). *(Drafted.)*
+    - quote: dans cinq mois, c’est-à-dire pour le commencement de mars
+    - quote: celui du Speedy avait été sauvé en entier
+    - quote: la coque du navire qu’il fallait achever
+  - By the end of 1868, after two and a half months, the frames are in place and the first strakes fitted, and the plans given by Smith prove excellent (III.18 ¶9). *(Drafted.)*
+    - quote: les couples avaient été mis en place, et les premiers bordages étaient ajustés
+    - quote: les plans donnés par Cyrus Smith étaient excellents
+  - Pencroff means her to keep the name Bonadventure, and wants her afloat in the Port-Ballon (III.18 ¶30). *(Drafted.)*
+    - quote: notre nouveau Bonadventure — car nous lui conserverons ce nom
+    - quote: flotte sur les eaux du Port-Ballon
+  - The "précintes" are thick strakes that form the belt of a ship and bind her frames firmly together; they are laid on 3 January by all the colonists (III.18 ¶31). *(Drafted.)*
+    - quote: épais bordages qui forment la ceinture d’un bâtiment
+    - quote: relient solidement entre eux les couples de sa carcasse
+  - About 23 January she is half planked (III.19 ¶25). *(Drafted.)*
+    - quote: le navire était à demi bordé
+  - In the days of respite the planking is to be finished and the hull carefully caulked, and the launch made at once, the rigging to be done afloat (III.19 ¶56). *(Drafted.)*
+    - quote: border le navire et à le calfater avec soin
+    - quote: quitte à le gréer, quand il reposerait dans son élément
+  - On 20 February a month is still needed; she is to be launched as soon as the hull is watertight, deck, fittings, interior and rigging coming afterwards, and perhaps taken to Port-Ballon, since at the Mercy’s mouth she would risk being crushed (III.19 ¶68). *(Drafted.)*
+    - quote: Il fallait encore un mois
+    - quote: Le pont, l’acastillage, l’aménagement intérieur et le gréement se feraient après
+    - quote: il courait le risque d’être écrasé
+  - On 3 March the launch is expected in about ten days; Pencroff and Ayrton prepare it for the morning of 9 March, though the upper seams are not yet caulked (III.19 ¶69, ¶79, ¶80). *(Drafted.)*
+    - quote: l’opération du lancement se ferait dans une dizaine de jours
+    - quote: les coutures supérieures du navire ne fussent pas encore calfatées
+  - She is broken in the catastrophe (III.20 ¶6). *(Drafted.)*
+    - quote: Leur dernier espoir, leur navire, avait été brisé
+- **Appears in:** III.13, III.14, III.15, III.17, III.18, III.19, III.20

@@ -128,7 +128,14 @@ Keywords: être mystérieux, bienfaiteur, bienfaisant inconnu, protecteur, incon
   - The colonists call him "leur bienfaiteur" and "ce protecteur" they had known only a few hours (III.17 ¶43, ¶86). *(Drafted.)*
     - quote: ce protecteur qu’ils auraient connu quelques heures à peine
     - quote: leur bienfaiteur
-- **Appears in:** III.5, III.6, III.8, III.10, III.11, III.12, III.13, III.14, III.15, III.17
+  - The notice found on Tabor gives the longitude and latitude of Lincoln Island, "résidence actuelle d’Ayrton et de cinq colons américains" (III.20 ¶36). *(Drafted.)*
+    - quote: la situation de l’île Lincoln, « résidence actuelle d’Ayrton et de cinq colons américains. »
+  - It is written in the same hand as the document found at the corral (III.20 ¶37). *(Drafted.)*
+    - quote: de la même main qui avait écrit le document trouvé au corral
+  - Pencroff concludes that he is the one who took the Bonadventure and ventured alone to Tabor, and Harbert adds, to deposit that notice; Pencroff calls it the captain's last service (III.20 ¶38, ¶39, ¶40). *(Drafted.)*
+    - quote: c’était donc lui qui avait pris notre Bonadventure, lui qui s’était hasardé, seul, jusqu’à l’île Tabor
+    - quote: Pour y déposer cette notice
+- **Appears in:** III.5, III.6, III.8, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.20
 - **Open:**
   - The text does not say what he is: "un naufragé comme nous peut-être" and "naufragé ou exilé" (Smith), whether he came of his own will and can leave, and whether he is still on the island (III.5 ¶3; III.6 ¶24). *(Drafted.)*
     - quote: un naufragé comme nous peut-être

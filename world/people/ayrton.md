@@ -308,6 +308,28 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: Qui est venu pour la dernière fois ici ?
     - quote: Moi, monsieur Smith, répondit Ayrton.
     - quote: Il y a quatre jours.
+  - He is one of the three carpenters of the new ship, with Smith and Pencroff (III.18 ¶8). *(Drafted.)*
+    - quote: Cyrus Smith, Pencroff et Ayrton, aidés de Nab
+  - Tending the corral's flock is a task he is used to, and can do alone (III.18 ¶55). *(Drafted.)*
+    - quote: il pouvait suffire seul à cette besogne, dont il avait l’habitude
+  - The colonists mean to take to Tabor the notice about Ayrton, in case the Scottish yacht comes back; they have not been able to deposit one saying how his situation has changed (III.18 ¶7; III.20 ¶12). *(Drafted.)*
+    - quote: afin d’y déposer la notice relative à Ayrton
+    - quote: les colons n’avaient pu déposer une notice indiquant les changements survenus dans la situation d’Ayrton
+  - With Pencroff he makes the preparations for the launch (III.19 ¶80). *(Drafted.)*
+    - quote: Pencroff et Ayrton procédèrent donc aux préparatifs du lancement
+  - On the bare rock he is resigned to his fate; in the end he alone, by a supreme effort, still lifts his head, and he is the first to see the ship, naming her "Le Duncan !" (III.20 ¶8, ¶14, ¶17). *(Drafted.)*
+    - quote: Nab et Ayrton étaient résignés à leur sort
+    - quote: Seul, Ayrton, par un suprême effort, relevait encore la tête
+    - quote: « Le Duncan ! » murmura Ayrton
+  - The Duncan was sent to Tabor to fetch him and bring him home after twelve years of expiation (III.20 ¶26). *(Drafted.)*
+    - quote: pour y chercher Ayrton et le rapatrier après douze ans d’expiation
+  - He saved the casket at the risk of his life as the island went under, and brings it faithfully to Smith (III.20 ¶44, ¶45). *(Drafted.)*
+    - quote: qu’Ayrton avait sauvé au péril de sa vie
+    - quote: qu’il venait fidèlement remettre à l’ingénieur
+  - Smith calls him a man whom expiation has made honest again (III.20 ¶48). *(Drafted.)*
+    - quote: un homme que l’expiation a refait honnête
+  - In Iowa he is "prêt à se sacrifier à toute occasion" (III.20 ¶53). *(Drafted.)*
+    - quote: Ayrton prêt à se sacrifier à toute occasion
 - **On the page.**
   - He stands respectfully aside in a corner of the magnificent salon (III.16 ¶8). *(Drafted.)*
     - quote: dans un angle de ce magnifique salon
@@ -393,7 +415,7 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: il vivait encore comme au temps où il n’avait d’autre abri que les forêts de l’île Tabor
   - After the jaguar he goes back to his old life: he does not come to the meals, sleeps under the trees of the plateau and never mixes with his companions (II.17 ¶4). *(Drafted.)*
     - quote: n’assistant point aux repas, couchant sous les arbres du plateau, ne se mêlant jamais à ses compagnons
-- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
+- **Appears in:** III.16, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20
 - **Open:**
   - The editor warns, in a note that recalls the one on Ayrton's adventures, of a "discordance de quelques dates" with the earlier books (III.16 n1); the card cannot say which dates. *(Drafted.)*
     - quote: sur la discordance de quelques dates

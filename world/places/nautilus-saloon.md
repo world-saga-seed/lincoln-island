@@ -30,7 +30,7 @@ Keywords: salon, room, divan, cushions, hall, electric air
     - quote: éclairé par les rayons électriques que tamisaient les arabesques d’un plafond lumineux
   - The colonists close its door carefully on leaving it, the saloon still flooded with light (III.17 ¶87). *(Drafted.)*
     - quote: Le merveilleux salon, toujours inondé de lumière, avait été fermé soigneusement
-  - It lies aboard the Nautilus, at the far end of the library behind a wide door, and the Nautilus lies in the cave under the island (see [the library](nautilus-library.md); [the Nautilus’s port](nautilus-port.md)) (III.15 ¶143, ¶144). *(Drafted.)*
+  - It lies aboard the Nautilus, at the far end of the library behind a wide door, and the Nautilus lies in the cave under the island (see [the library](nautilus-library.md); [the Nautilus’s port](crypte-dakkar.md)) (III.15 ¶143, ¶144). *(Drafted.)*
     - quote: Au fond de la bibliothèque, une large porte, fermée également, fut ouverte par l’ingénieur
     - quote: Un vaste salon, sorte de musée
 - **On the page.**

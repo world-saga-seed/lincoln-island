@@ -182,6 +182,11 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
   - For the seven months after the last searches the orang's uneasiness stops, and he no longer prowls with Top at the mouth of the inner well (III.14 ¶54). *(Drafted.)*
     - quote: aussi bien que les inquiétudes de l’orang
     - quote: ne rôdaient plus à l’orifice du puits intérieur
+  - When the last eruption comes, he gives signs of the greatest fear, his instinct warning him that a catastrophe is near (III.19 ¶78). *(Drafted.)*
+    - quote: Top et Jup donnaient des signes du plus grand effroi
+    - quote: leur instinct les avertissait qu’une catastrophe était prochaine
+  - He dies in the catastrophe, in some crevice of the ground (III.20 ¶3). *(Drafted.)*
+    - quote: le malheureux Jup lui-même avait, hélas ! trouvé la mort dans quelque crevasse du sol
 - **On the page.**
   - He is the ape that took refuge in the passage and is run down by Nab; he defends himself valiantly before being thrown down and bound (II.6 ¶89, ¶96). *(Drafted.)*
     - quote: un grand singe, qui s’était réfugié dans le couloir
@@ -221,7 +226,7 @@ Keywords: Jup, Jupiter, orang, orang-outang, singe, quadrumane, anthropomorphe, 
     - quote: je t’en fais cadeau
     - quote: l’ex-pipe du marin
     - quote: il l’allumait à un charbon ardent
-- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20, III.3, III.4, III.5, III.9, III.10, III.11, III.12, III.14, III.15
+- **Appears in:** II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.18, II.19, II.20, III.3, III.4, III.5, III.9, III.10, III.11, III.12, III.14, III.15, III.19, III.20
 - **Open:**
   - Whether Jup lowered the ladder is not said: Cyrus Smith says he did (II.6 ¶94), and Pencroff, the next day, speaks of "cette échelle qu'il nous a si galamment renvoyée hier" (II.7 ¶11); the chapter does not say who in fact lowered it. *(My reading, to confirm.)*
     - quote: C’est lui qui nous a jeté l’échelle

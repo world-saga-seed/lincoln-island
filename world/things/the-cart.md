@@ -45,7 +45,10 @@ Keywords: chariot, cart, wagon, hauling, hurdle, claie, transport
     - quote: Harbert avait offert une place à Jup dans son véhicule
   - Smith calls it the expedition’s wagon of ammunition and provisions, which at need can serve as a retrenchment (III.12 ¶55). *(Drafted.)*
     - quote: c’est notre fourgon de munitions et de vivres, et, au besoin, il nous servira de retranchement
-- **Appears in:** I.20, I.22, II.1, II.3, II.5, II.7, II.8, II.9, II.18, III.6, III.9, III.10, III.11, III.12
+  - It is drawn by two onaggas, which take Smith and Ayrton to the corral at a good trot (III.18 ¶61). *(Drafted.)*
+    - quote: le chariot attelé des deux onaggas
+    - quote: y couraient au grand trot
+- **Appears in:** I.20, I.22, II.1, II.3, II.5, II.7, II.8, II.9, II.18, III.6, III.9, III.10, III.11, III.12, III.18, III.19
 - **Open:**
   - Who made the cart, of what, and when is not said (I.20 ¶29). *(Drafted.)*
     - quote: une sorte de grossier chariot

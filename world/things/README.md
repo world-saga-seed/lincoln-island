@@ -99,6 +99,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The cycas press](the-cycas-press.md) | the press that drives the mucilage from the pith |
 | [The deodars](deodars.md) | Himalayan cedars among the riverside conifers |
 | [The descent rope](the-descent-rope.md) | the rope let down from the door of Granite-house |
+| [The dike](the-dike.md) | the earthwork thrown up to turn the lava into the lake |
 | [The diving suit](diving-suit.md) | Nemo's scaphander, worn to walk under water |
 | [The douglas firs](douglas-firs.md) | tall conifers like those of America’s north-west, whose bark covers the pirogue |
 | [The dragon trees](dragon-trees.md) | tall liliaceous trees whose roots can be eaten and fermented |
@@ -175,7 +176,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The kauri](kauri.md) | the giant conifer of New Zealand named in the forest by the Mercy |
 | [The koula skins](koula-skins.md) | the hides of three koulas, tanned with sulphuric acid |
 | [The lake dams](the-lake-dams.md) | two dams of cemented rock that raised Lake Grant |
-| [The lantern](lantern.md) | the lantern Smith takes down the well |
+| [The lantern](lantern.md) | the lantern the colonists carry into dark places |
 | [The lardizabalaceae](lardizabalaceae.md) | the flexible-branched shrubs that give cordage |
 | [The last match](the-last-match.md) | the single match found in Spilett's waistcoat |
 | [The lathe](the-lathe.md) | the turning lathe Smith sets up in Granite-house |
@@ -216,7 +217,9 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The Nautilus’s light](the-nautilus-light.md) | the white electric glare that fills the cave |
 | [The needles](needles.md) | two boxes of needles of the chest |
 | [Nemo’s casket](nemos-casket.md) | the casket of diamonds and pearls Nemo leaves the colonists |
+| [Nemo’s notice](nemos-notice.md) | the document Nemo left on Tabor giving Lincoln’s position |
 | [The nettle trees](nettle-trees.md) | the micocouliers of the Mercy, whose kernels give oil |
+| [The New Lincoln Herald](new-lincoln-herald.md) | the newspaper Spilett founds in Iowa |
 | [The new wire](the-new-wire.md) | the insulated wire that runs from the corral line to the cave of the Nautilus |
 | [The nitric acid](nitric-acid.md) | distilled from the saltpetre by the sulphuric acid |
 | [The nitro-glycerine](nitro-glycerine.md) | the explosive Smith makes from the dugong’s fat and the saltpetre |
@@ -356,6 +359,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The telegraph posts](telegraph-posts.md) | the posts that carry the wire along the corral road |
 | [The telegraph wire](telegraph-wire.md) | the iron wire drawn for the line to the corral |
 | [The telescope](telescope.md) | the long glass of the chest |
+| [The tent](the-tent.md) | the shelter of the colonists by the mouth of the Mercy |
 | [The tinder](tinder.md) | tinder (amadou) of dried armoise and saltpetre |
 | [Tobacco](tobacco.md) | the plant Pencroff wants and the island has not given |
 | [The tool chain](tool-chain.md) | the colonists' made things in order |
@@ -372,6 +376,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The unknown’s clothes](the-unknowns-clothes.md) | the scrap of blanket, then the colonists’ clothing |
 | [The unknown’s knife](the-unknowns-knife.md) | the knife with which he kills the jaguar |
 | [The Vigo treasure](vigo-treasure.md) | the sunken wealth Nemo drew on |
+| [The volcanic ash](volcanic-ash.md) | the grey dust and pozzolana that fall from the eruption |
 | [The water channel](the-water-channel.md) | the lake water led to Granite-house |
 | [The water jug](water-jug.md) | a jug Nab carried for fresh water |
 | [The whale oil](whale-oil.md) | the blubber and oil rendered from the stranded whale |

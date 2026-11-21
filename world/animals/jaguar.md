@@ -41,6 +41,9 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
     - quote: lorsqu’il était gelé, leur offrait un passage facile
   - Hoarse howls of jaguars trouble the silence of the night at the first camp in the Far-West forest (III.11 ¶50). *(Drafted.)*
     - quote: de rauques hurlements de jaguars
+  - When the Far-West forest burns, the game, "jaguars, sangliers, cabiais, koulas" among it, flees mad with fear toward the Mercy and the marsh of the tadornes; all the island's animals die in its end (III.19 ¶60; III.20 ¶3). *(Drafted.)*
+    - quote: jaguars, sangliers, cabiais, koulas, gibier de poil et de plume
+    - quote: Les animaux avaient également péri dans la catastrophe
 - **On the page.**
   - It comes forward, bristling, eye aflame, as if it had never before smelt man (II.4 ¶64). *(Drafted.)*
     - quote: le poil hérissé, l’œil en feu
@@ -52,4 +55,4 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
   - Its skin is thought to make the ornament of the great hall of Granite-house, and Nab skins it (II.4 ¶67, ¶77). *(Drafted.)*
     - quote: dont la magnifique dépouille ferait l’ornement de la grande salle de Granite-house
     - quote: Nab dépouillait le jaguar
-- **Appears in:** I.13, II.4, II.11, II.16, II.18, II.20, III.11
+- **Appears in:** I.13, II.4, II.11, II.16, II.18, II.20, III.11, III.19, III.20

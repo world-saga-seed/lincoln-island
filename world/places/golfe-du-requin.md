@@ -54,4 +54,8 @@ Keywords: golfe du Requin, Shark-gulf, mâchoire, jaw, north-east, gulf, squale,
   - Its high walls are of lava, and it is extremely difficult to reach the level of the gulf itself (III.13 ¶96). *(Drafted.)*
     - quote: les hautes murailles laviques du golfe du Requin
     - quote: il fût extrêmement difficile d’atteindre le niveau même du golfe
-- **Appears in:** I.11, I.15, II.19, II.20, III.5, III.11, III.13, III.14
+  - The gulf is narrow, framed by the prolongation of an enormous causeway of old lava (III.18 ¶75). *(Drafted.)*
+    - quote: l’énorme chaussée dont le prolongement encadrait l’étroit golfe du Requin
+  - Its lava "jaws" are among the places destroyed in the final explosion (III.20 ¶2). *(Drafted.)*
+    - quote: les mâchoires laviques du golfe du Requin
+- **Appears in:** I.11, I.15, II.19, II.20, III.5, III.11, III.13, III.14, III.18, III.20

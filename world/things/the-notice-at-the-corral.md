@@ -15,7 +15,7 @@ Keywords: notice, papier, paper, message, English, Suivez le nouveau fil, table,
   - Ayrton, the last colonist to come to the corral before that night, was there four days earlier (III.15 ¶64, ¶65, ¶67). *(Drafted.)*
     - quote: Qui est venu pour la dernière fois ici
     - quote: Il y a quatre jours
-- **Appears in:** III.15
+- **Appears in:** III.15, III.20
 - **Open:**
   - The text does not say who wrote it or when it was put there; see [the new wire](the-new-wire.md). (III.15 ¶68). *(Drafted.)*
     - quote: un papier déposé sur la table

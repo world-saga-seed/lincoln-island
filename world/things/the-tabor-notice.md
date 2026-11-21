@@ -16,7 +16,13 @@ Keywords: notice, document, Tabor, yacht écossais, Duncan, Ayrton, notice à d�
   - Smith thinks the yacht’s coming to Tabor very doubtful and that, if it came months ago, it may have left after seeking some trace of Ayrton in vain (III.14 ¶8). *(Drafted.)*
     - quote: L’arrivée du yacht écossais à l’île Tabor est fort problématique
     - quote: après avoir vainement cherché quelque trace d’Ayrton
-- **Appears in:** III.13, III.14
+  - The colonists mean to go to Tabor as soon as the ship is ready, to leave the notice about Ayrton as an indispensable precaution in case the Scottish yacht comes back; it is the reason for building the ship in five months, before the equinoctial gales (III.18 ¶7, ¶8). *(Drafted.)*
+    - quote: afin d’y déposer la notice relative à Ayrton
+    - quote: C’était une indispensable précaution à prendre pour le cas où le yacht écossais reparaîtrait dans ces mers
+    - quote: avant que les coups de vent d’équinoxe eussent rendu cette traversée impraticable
+  - It is never deposited by the colonists, who are unable to leave a notice on Tabor before the island is destroyed (III.20 ¶12). *(Drafted.)*
+    - quote: les colons n’avaient pu déposer une notice
+- **Appears in:** III.13, III.14, III.18, III.20
 - **Open:**
   - The text does not say it has been written, only that it must be carried; the crossing is put off for the year (III.13 ¶61). (III.13 ¶61). *(Drafted.)*
     - quote: nous renoncerons pour cette année à faire la traversée de l’île Tabor

@@ -44,4 +44,6 @@ Keywords: moulin à vent, windmill, ailes, sails, meules, millstones, poivrière
     - quote: Quant à relever les bâtiments de la basse-cour, le moulin, les écuries, Cyrus Smith préféra attendre
   - It is rebuilt on the plateau after the devastation (III.14 ¶18). *(Drafted.)*
     - quote: Le moulin fut rebâti
-- **Appears in:** II.16, II.20, III.1, III.9, III.10, III.11, III.14
+  - The mill is destroyed by the lava on the Grande-Vue plateau in March, nothing left of it (III.19 ¶78). *(Drafted.)*
+    - quote: Du moulin, des bâtiments de la basse-cour, des étables, il ne resta plus rien
+- **Appears in:** II.16, II.20, III.1, III.9, III.10, III.11, III.14, III.19

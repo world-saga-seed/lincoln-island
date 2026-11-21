@@ -19,6 +19,7 @@ A card for every person named in the French, and every person the insert adds, e
 | [Jonathan Forster](jonathan-forster.md) | Southern diehard who built the balloon |
 | [Lady Glenarvan](lady-glenarvan.md) | Lord Glenarvan's wife |
 | [Lord Glenarvan](lord-glenarvan.md) | Scottish laird, owner of the Duncan |
+| [Mac Nabbs](mac-nabbs.md) | a major of the Duncan's friends |
 | [Malay pirates](malay-pirates.md) | the sea-robbers Cyrus Smith fears in this part of the Pacific |
 | [Mary Grant](mary-grant.md) | Captain Grant's daughter |
 | [The mysterious being](the-mysterious-being.md) | the unseen benefactor the colonists feel behind their luck |

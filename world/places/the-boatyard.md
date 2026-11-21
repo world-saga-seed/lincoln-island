@@ -17,7 +17,12 @@ Keywords: chantier, boatyard, shipyard, pirogue, worksite, Pencroff
     - quote: il n’aurait pu établir en aucun autre endroit, à proximité de Granite-house
   - By the end of September the carcass of the schooner stands on it (III.15 ¶9). *(Drafted.)*
     - quote: se dressait sur le chantier de construction
-- **Appears in:** II.1, II.10, III.14, III.15
+  - The colonists work at it on the strand of Granite-house, from which the volcano cannot be seen (III.18 ¶32). *(My reading, to confirm.)*
+    - quote: qu’on ne pouvait apercevoir, d’ailleurs, de la grève de Granite-house
+  - It holds spades, picks and axes, which the colonists fetch to build the dike; it is spared for some days by the lava, and would not have been had the lava reached the beach (III.19 ¶50, ¶56, ¶67). *(Drafted.)*
+    - quote: Ils en rapportèrent des pelles, des pioches, des haches
+    - quote: le chantier de construction n’eût pas été épargné
+- **Appears in:** II.1, II.10, III.14, III.15, III.18, III.19
 - **Open:**
   - The text does not say whether the pirogue’s yard of II.1 ¶83 is the Bonadventure’s yard of II.10 ¶6; no place is named for the first. *(Drafted.)*
     - quote: Arrivé au chantier, où l’ingénieur et le marin travaillaient ensemble

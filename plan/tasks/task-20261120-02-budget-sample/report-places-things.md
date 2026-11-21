@@ -14,7 +14,7 @@ Source: texts/fr-1875 (01.md, 13.md, 58.md). No git commands run. The READMEs in
 - [Cape Griffe](../../../world/places/cap-griffe.md): A cape near the shore where the colonists stand; it hides the southern horizon, and the heights of the right bank end at it.
 - [The wood of the Jacamar](../../../world/places/jacamar-wood.md): The part of the forest on the Mercy's left bank, where most of the game was killed.
 - [The Red Creek](../../../world/places/red-creek.md): A stream; a coal seam lies in the open near its mouth.
-- [The Nautilus's port](../../../world/places/nautilus-port.md): A sea-port under the island, entered by a crypt; a basalt rise closed it to the Nautilus.
+- [The Nautilus's port](../../../world/places/crypte-dakkar.md): A sea-port under the island, entered by a crypt; a basalt rise closed it to the Nautilus.
 - [Tabor Island](../../../world/places/tabor-island.md): Named once: the island where Ayrton was found through a document in a bottle.
 - [Bundelkund](../../../world/places/bundelkund.md): An Indian territory, independent in the prince's youth, with mountains to which he returned before vanishing.
 - [The Maelstrom](../../../world/places/maelstrom.md): The whirlpool where the Nautilus was caught and from which the three prisoners fled in its boat.

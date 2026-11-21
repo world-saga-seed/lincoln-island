@@ -39,7 +39,13 @@ Keywords: bois du Jacamar, forest, hunting ground, trees
     - quote: aussi déserts qu’au jour où les colons atterrirent sur l’île
   - The colonists know it thoroughly, between the corral road and the Mercy (III.11 ¶24). *(Drafted.)*
     - quote: les bois de Jacamar compris entre la route du corral et la Mercy
+  - The Jacamar wood is among the fertile parts of the island, with the Red Creek’s sources, threatened by the lava; thick woods stand between the lava and the Grande-Vue plateau (III.19 ¶29, ¶34). *(Drafted.)*
+    - quote: les bois de Jacamar
+    - quote: malgré les bois épais de Jacamar
+  - At its edge the first ranks of trees catch fire when the lava comes, and burst, while others stay whole (III.19 ¶38). *(Drafted.)*
+    - quote: à la lisière du bois de Jacamar
+    - quote: Les premiers rangs d’arbres prirent feu
 - **On the page.**
   - Most of the game was killed there (I.13 ¶36). *(Drafted.)*
     - quote: La plupart de ces animaux furent tués dans la partie de la forêt
-- **Appears in:** I.13, I.15, I.19, II.3, II.8, III.1, III.9, III.10, III.11, III.13
+- **Appears in:** I.13, I.15, I.19, II.3, II.8, III.1, III.9, III.10, III.11, III.13, III.19

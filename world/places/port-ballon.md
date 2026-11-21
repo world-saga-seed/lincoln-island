@@ -59,4 +59,9 @@ Keywords: port Ballon, Balloon harbour, crique, passe, havre, coupée, natural p
   - A small cove opens at the head of it, where the Bonadventure lies at anchor (III.6 ¶12, ¶18). *(Drafted.)*
     - quote: la petite anse au fond de laquelle était mouillé le Bonadventure
     - quote: l’étroite crique
-- **Appears in:** II.5, II.7, II.11, II.12, II.15, II.19, III.1, III.6, III.14
+  - Pencroff wants the new ship afloat there; and Smith thinks of taking her there, as far as possible from the eruptive centre (III.18 ¶30; III.19 ¶68). *(Drafted.)*
+    - quote: flotte sur les eaux du Port-Ballon
+    - quote: c’est-à-dire aussi loin que possible du centre éruptif
+  - Its granites are among the places swallowed in the final destruction (III.20 ¶2). *(Drafted.)*
+    - quote: les granits de Port-Ballon
+- **Appears in:** II.5, II.7, II.11, II.12, II.15, II.19, III.1, III.6, III.14, III.18, III.19, III.20

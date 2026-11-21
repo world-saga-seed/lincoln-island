@@ -1,8 +1,8 @@
-# The Nautilus's port: a submarine port hollowed under Lincoln Island, now closed
+# Crypte Dakkar: the sea-cave under the north-west coast, once the Nautilus’s port
 
-*A sea-port under the island, entered by a crypt; a basalt rise closed it to the Nautilus.*
+*The cavern named in memory of Nemo: a submarine port hollowed under the island, entered by a low basalt arch on the north-west coast, running inland to a fractured wall against the volcano’s chimney.*
 
-Keywords: harbour, haven, crypt, cave, entrance, bar, basalt, dock
+Keywords: harbour, haven, crypt, cave, entrance, bar, basalt, dock, crypte Dakkar, caverne Dakkar, nautilus-port, paroi, wall, fractures, north-west coast
 
 - **What it is.**
   - It is one of the underwater ports the Nautilus sometimes used as a place of call (III.16 ¶60). *(Drafted.)*
@@ -52,10 +52,56 @@ Keywords: harbour, haven, crypt, cave, entrance, bar, basalt, dock
   - The Nautilus is sunk in it by the colonists, and the crypt grows dark again as its light fades (III.17 ¶90, ¶91). *(Drafted.)*
     - quote: le Nautilus, s’enfonçant peu à peu, disparut sous la nappe liquide
     - quote: la crypte redevenait obscure
+  - The colonists give the cavern’s entrance the name "crypte Dakkar", in memory of Captain Nemo (III.18 ¶1). *(Drafted.)*
+    - quote: ils donnèrent le nom de « crypte Dakkar », en souvenir du capitaine Nemo
+  - At low tide one can pass easily under the arch, whose basalt pier the flood beats (III.18 ¶1). *(Drafted.)*
+    - quote: ils purent aisément passer sous l’arcade, dont le flot battait le pied-droit basaltique
+  - A small strand borders one side of the crypt, where a boat is safe from danger (III.18 ¶2). *(Drafted.)*
+    - quote: la petite grève qui confinait à l’un des côtés de la crypte
+    - quote: où il ne courait aucun danger
+  - It lies under the north-west coast, a huge heap of basaltic and porphyritic rocks; the way to it from the corral runs west by a narrow path to the coast and down the steep crest (see [the basalt coast](the-basalt-coast.md)) (III.18 ¶84, ¶86, ¶87). *(Drafted.)*
+    - quote: l’étroit sentier qui conduisait à la côte
+    - quote: qui formait la côte nord-ouest de l’île
+    - quote: cette côte abrupte
+  - At low tide no strand shows, and the waves, dirtied with volcanic dust, beat the basalts of the shore directly (III.18 ¶88). *(Drafted.)*
+    - quote: aucune grève ne découvrait
+    - quote: salies par la poussière volcanique
+  - The opening lies under the last rock, the lower landing of the shoulder (III.18 ¶89). *(Drafted.)*
+    - quote: sous la dernière roche, qui formait le palier inférieur de l’épaulement
+  - The arch is very low over the opening, so that a swell pushes the boat deeper under the vault (III.18 ¶93). *(Drafted.)*
+    - quote: sous le cintre très-surbaissé de la crypte
+  - With the Nautilus gone no light fills the dark cavern, and a sepulchral silence reigns under the vault in its front part (III.18 ¶94, ¶95). *(Drafted.)*
+    - quote: pour embraser de ses feux cette sombre caverne
+    - quote: Un silence sépulcral régnait sous cette voûte
+  - Sulphurous vapours and a sharp smell, with rumblings from the mountain’s entrails, are noticed as one goes in along the right-hand wall (III.18 ¶95, ¶97). *(Drafted.)*
+    - quote: en suivant la paroi de droite de la crypte
+    - quote: des vapeurs sulfureuses saisirent à la gorge
+  - It takes twenty-five minutes by boat from the opening to the end wall (III.18 ¶100). *(Drafted.)*
+    - quote: Vingt-cinq minutes après avoir franchi l’ouverture
+  - The end wall separates the crypt from the central chimney of the volcano; its thickness is not known, a hundred feet or ten, but the noises through it are too clear for it to be very thick (III.18 ¶101). *(Drafted.)*
+    - quote: qui séparait la crypte de la cheminée centrale du volcan
+    - quote: Était-elle de cent pieds ou de dix, on n’eût pu le dire
+    - quote: les bruits souterrains étaient trop perceptibles
+  - The end wall is of basalt prisms badly jointed; an acrid smoke seeps through almost invisible cracks, and fractures run across it, some down to two or three feet from the water (III.18 ¶103). *(Drafted.)*
+    - quote: à travers les prismes mal joints, transpirait une fumée âcre
+    - quote: jusqu’à deux ou trois pieds seulement des eaux de la crypte
+  - Smith says the crypt runs under the island to the volcano, separated from the central chimney only by the wall that closes its end, which is furrowed with fractures that already pass sulphurous gas (III.19 ¶13). *(Drafted.)*
+    - quote: Cette crypte se prolonge sous l’île jusqu’au volcan
+    - quote: sillonnée de fractures et de fentes qui laissent déjà passer les gaz sulfureux
+  - Smith finds the fractures widening under the pressure inside, and says the wall will in time let in the sea water with which the cavern is filled (III.19 ¶15). *(Drafted.)*
+    - quote: ces fractures s’agrandissaient sous la pression intérieure
+    - quote: elle livrerait passage aux eaux de la mer dont la caverne est remplie
+  - The island, it is said, will last only as long as the wall of the crypt lasts (III.19 ¶20). *(Drafted.)*
+    - quote: ne durerait que tant que la paroi de la crypte Dakkar durerait elle-même
+  - In the night of 8 to 9 March the wall of the "caverne Dakkar" gives way under the pressure of the gases, and the sea rushes by the central chimney into the volcano (III.19 ¶81). *(Drafted.)*
+    - quote: La paroi de la caverne Dakkar avait évidemment cédé sous la pression des gaz
+    - quote: la mer, se précipitant par la cheminée centrale dans le gouffre ignivome
+  - The basalts of the crypt Dakkar are among the things that disappear when the island is destroyed (III.20 ¶2). *(Drafted.)*
+    - quote: les basaltes de la crypte Dakkar
 - **On the page.**
   - In his diving suit Nemo walked under the water a few cable-lengths from the island's shore (III.16 ¶62). *(Drafted.)*
     - quote: il se promenait sous les eaux, à quelques encâblures du rivage de l’île
-- **Appears in:** III.15, III.16, III.17
+- **Appears in:** III.15, III.16, III.17, III.18, III.19, III.20
 - **Open:**
   - Where the entrance lies on the coast is not stated. How long Nemo has been in the port is given as ‘six years’ in III.16 ¶62; this is set against the dates in the editor's note and is not carded (see the Nautilus card).
     - quote: Depuis six ans, le capitaine était là

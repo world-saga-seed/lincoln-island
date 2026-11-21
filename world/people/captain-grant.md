@@ -26,7 +26,9 @@ Keywords: Grant, capitaine, Britannia, naufragé, Tabor, Duncan, document, Mary,
   - He is called "l’honnête capitaine Grant", and the house on Tabor is said to have been built by him; the colonists later speak of it as the cabin that was his and Ayrton's (II.17 ¶80; II.19 ¶22). *(Drafted.)*
     - quote: la maison construite par l’honnête capitaine Grant
     - quote: cette cabane qui fut la demeure du capitaine Grant et d’Ayrton
-- **Appears in:** II.17, II.19
+  - His son Robert, by 1869, commands the Duncan (III.20 ¶26). *(Drafted.)*
+    - quote: le fils du capitaine Grant
+- **Appears in:** II.17, II.19, III.20
 - **Open:**
   - Who built the house on Tabor: Ayrton's tale says "la maison construite par l’honnête capitaine Grant" (II.17 ¶80); the colonists, on first seeing the planks, read the house as the work of one castaway from the wreck (II.14 ¶22) (II.17 ¶80; II.14 ¶22). *(Drafted.)*
     - quote: la maison construite par l’honnête capitaine Grant

@@ -23,4 +23,12 @@ Keywords: source sulfureuse, smoke, fumée jaune, hydrogen sulphide, thermal, la
     - quote: la source sulfurée n’offrant aucune utilisation actuelle
   - It lies a few hundred paces from the thick edge of the forest, where the red-banked creek runs (I.12 ¶38). *(Drafted.)*
     - quote: à quelques centaines de pas
-- **Appears in:** I.12
+  - It is at the place where the colonists found a sulphurous spring on their first exploration, east of the Red Creek and its eastern buttresses (III.18 ¶71). *(Drafted.)*
+    - quote: l’endroit où ses compagnons et lui avaient découvert une source sulfureuse, lors de leur première exploration
+  - On 8 January, instead of the single column of smoke there are thirteen, spouting from the ground as if violently pushed by a piston, and the air is saturated with sulphurous gas, hydrogen and carbonic acid mixed with water vapour (III.18 ¶72). *(Drafted.)*
+    - quote: il en compta treize qui fusaient hors de terre
+    - quote: saturée de gaz sulfureux, d’hydrogène, d’acide carbonique
+  - The plain there is sown with volcanic tufa, ashes that time has made into hard blocks, and it trembles underfoot; no trace of new lava is seen (III.18 ¶72). *(Drafted.)*
+    - quote: ces tufs volcaniques dont la plaine était semée
+    - quote: il ne vit encore aucune trace de laves nouvelles
+- **Appears in:** I.12, III.18

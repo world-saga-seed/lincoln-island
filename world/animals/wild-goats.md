@@ -23,4 +23,8 @@ Keywords: chèvre, chèvres sauvages, corral, mouflons, battue
   - The corral's flock of mouflons and goats is tended every two days, and its milk supplies Nab's pantry (III.14 ¶20). *(Drafted.)*
     - quote: allait soigner le troupeau de mouflons et de chèvres
     - quote: rapportait le lait qui approvisionnait l’office de Nab
-- **Appears in:** II.8, II.9, II.12, III.6, III.12, III.13, III.14
+  - The goats are shut in the corral with the mouflons and have their fodder renewed; they are ill at ease before the eruption and flee when Ayrton opens the gate before the lava (III.18 ¶55, ¶70; III.19 ¶31). *(Drafted.)*
+    - quote: le troupeau de mouflons et de chèvres était renfermé
+    - quote: qui semblaient éprouver un certain malaise devant ces premiers symptômes d’une éruption
+    - quote: quelle épouvante terrifiait les mouflons et les chèvres
+- **Appears in:** II.8, II.9, II.12, III.6, III.12, III.13, III.14, III.18, III.19

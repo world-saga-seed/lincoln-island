@@ -1,6 +1,6 @@
 # Tabor Island: an island where Ayrton was left
 
-*Named once: the island where Ayrton was found through a document in a bottle.*
+*The island where Ayrton was left by the Scottish yacht; the atlas puts it farther west and south than Lincoln, and the colonists sail to it in the Bonadventure.*
 
 Keywords: île Tabor, Ayrton, bottle, message, castaway
 
@@ -82,10 +82,20 @@ Keywords: île Tabor, Ayrton, bottle, message, castaway
     - quote: qui vous ait fait savoir qu’il y avait là un malheureux à sauver
   - The colonists mean to leave there a document giving the position of Lincoln Island and Ayrton’s new home, in case the Scotch yacht comes for him (III.6 ¶21). *(Drafted.)*
     - quote: porter un document qui fasse connaître la situation de l’île Lincoln et la nouvelle résidence d’Ayrton
+  - The colonists have not been able to leave there a notice of the changes in Ayrton’s situation; the Scottish yacht’s commander, after searching the islet, would put to sea again and go back to lower latitudes (III.20 ¶12). *(Drafted.)*
+    - quote: les colons n’avaient pu déposer une notice indiquant les changements survenus dans la situation d’Ayrton
+    - quote: reprendrait la mer et regagnerait de plus basses latitudes
+  - Nemo reached it alone in the Bonadventure to leave there the notice that gives Lincoln’s position (see [Nemo’s notice](../things/nemos-notice.md)) (III.20 ¶38, ¶39). *(Drafted.)*
+    - quote: qui s’était hasardé, seul, jusqu’à l’île Tabor
+    - quote: Pour y déposer cette notice
+  - The Duncan was sent to Tabor to seek Ayrton and bring him home after "twelve years" of expiation, and, finding him no longer there, went on a hundred miles to the north-east, to Lincoln (III.20 ¶26, ¶28). *(Drafted.)*
+    - quote: avait été expédié à l’île Tabor pour y chercher Ayrton
+    - quote: après douze ans d’expiation
+    - quote: faire route à cent milles de là dans le nord-est
 - **On the page.**
   - The editor refers to Ayrton's adventures and a note on the disagreement of some dates (III.16 n1). *(Drafted.)*
     - quote: sur la discordance de quelques dates
-- **Appears in:** II.9, II.11, II.12, II.13, II.14, II.17, II.19, III.1, III.5, III.6, III.13, III.14, III.16
+- **Appears in:** II.9, II.11, II.12, II.13, II.14, II.17, II.19, III.1, III.5, III.6, III.13, III.14, III.16, III.18, III.20
 - **Open:**
   - These chapters say nothing else of Tabor Island. The editor's note refers to the earlier tale of Ayrton's adventures and warns of a disagreement of dates; no earlier book is drawn on here.
     - quote: à propos des aventures d’Ayrton
@@ -100,3 +110,5 @@ Keywords: île Tabor, Ayrton, bottle, message, castaway
     - quote: mit le cap à l’est-nord-est
   - Hetzel’s note says the events of Ayrton’s tale are drawn from "Les Enfants du capitaine Grant" and that the reader will remark "une certaine discordance dans les dates"; the dates given in II.17 (20 December 1854, 3 March, 18 March 1855) are not squared with the colonists’ year 1866 (card neither) (II.17 n1). *(Drafted.)*
     - quote: une certaine discordance dans les dates
+  - The direction and distance of Lincoln from Tabor: III.20 ¶28 puts the Duncan’s course from Tabor to Lincoln a hundred miles "dans le nord-est", which makes Lincoln north-east of Tabor at a hundred miles; II.9 ¶99 puts Tabor "à cent cinquante milles environ dans le nord-est" and II.9 ¶91 farther west and south than Lincoln. Card neither (III.20 ¶28). (III.20 ¶28). *(Drafted.)*
+    - quote: faire route à cent milles de là dans le nord-est

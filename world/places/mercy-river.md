@@ -171,7 +171,14 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
     - quote: la Mercy, elle était plus directement alimentée par d’abondantes sources, perdues sous le couvert du bois de Jacamar
   - Excellent salmon run again up its waters (III.14 ¶20). *(Drafted.)*
     - quote: une nouvelle pêche de ces excellents saumons qui vinrent encore s’engouffrer dans les eaux de la Mercy
+  - Its mouth lies between the islet and the granite wall, where a ship moored would risk being crushed in a dislocation; the colonists camp under a tent near it after leaving Granite-house (III.19 ¶60, ¶68). *(Drafted.)*
+    - quote: ils campaient sous une tente, près de l’embouchure de la Mercy
+    - quote: à l’embouchure de la Mercy, entre l’îlot et la muraille de granit
+  - The animals driven from the burning forest take refuge on the side of the Mercy (III.19 ¶60). *(Drafted.)*
+    - quote: se réfugièrent du côté de la Mercy
+  - A river called the Mercy is named in the colonists’ domain in Iowa (see [the Iowa domain](iowa-domain.md)) (III.20 ¶52). *(Drafted.)*
+    - quote: une rivière qui fut appelée la Mercy
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.2, III.3, III.4, III.6, III.7, III.9, III.10, III.11, III.13, III.14, III.15, III.16
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.2, III.3, III.4, III.6, III.7, III.9, III.10, III.11, III.13, III.14, III.15, III.16, III.19, III.20

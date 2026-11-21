@@ -28,4 +28,14 @@ Keywords: Duncan, yacht, vapeur, Glenarvan, Mangles, Glasgow, Tabor, caronades, 
     - quote: le Duncan est un yacht à vapeur
     - quote: si une cheminée s’élevait entre les deux mâts
     - quote: Le yacht écossais était, lui aussi, gréé en brick
-- **Appears in:** II.17, II.19, III.1
+  - She comes toward the rock in a straight line under forced steam, and the colonists are taken into a steamer’s cabin (III.20 ¶16, ¶20). *(Drafted.)*
+    - quote: en droite ligne, en forçant sa vapeur
+    - quote: dans la chambre d’un steamer
+  - She is Lord Glenarvan’s yacht, now commanded by Robert Grant, sent to Tabor to seek Ayrton and bring him home after twelve years of expiation (III.20 ¶26). *(Drafted.)*
+    - quote: le yacht de lord Glenarvan, alors commandé par Robert, le fils du capitaine Grant
+    - quote: pour y chercher Ayrton et le rapatrier après douze ans d’expiation
+  - After leaving Tabor without Ayrton she makes a hundred miles to the north-east to look for him and his companions at Lincoln, led by the notice; the colonists land in America fifteen days after the rescue (III.20 ¶28, ¶29, ¶50). *(Drafted.)*
+    - quote: faire route à cent milles de là dans le nord-est
+    - quote: non-seulement Ayrton, mais vos compagnons et vous
+    - quote: Quinze jours après, les colons débarquaient en Amérique
+- **Appears in:** II.17, II.19, III.1, III.20

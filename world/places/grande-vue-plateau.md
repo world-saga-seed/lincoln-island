@@ -105,6 +105,18 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
     - quote: toute trace de dévastation eut disparu du plateau de Grande-Vue
   - Its harvests, hay and various crops are abundant (III.15 ¶10). *(Drafted.)*
     - quote: des diverses récoltes qui abondaient au plateau de Grande-Vue
+  - Harbert goes up to it at dawn to saddle one of the onaggas; from its edge the mountain, six miles off, can be watched at night (III.18 ¶12, ¶33, ¶35). *(Drafted.)*
+    - quote: monté dès l’aube au plateau de Grande-Vue pour seller l’un des onaggas
+    - quote: Le mont Franklin, distant de six milles environ
+  - Cyrus Smith and Spilett go up every day while the eruption lasts; the plateau is spared the first lava, and the next flow would spill onto it and so onto the beach (III.19 ¶56, ¶57, ¶61). *(Drafted.)*
+    - quote: Le plateau de Grande-Vue, Granite-house et le chantier de construction étaient momentanément préservés
+    - quote: elles se fussent inévitablement répandues sur le plateau de Grande-Vue
+  - In March the lava invades it: the mill, the poultry-yard buildings and the stables are destroyed, and the lava, overflowing the edge of the granite wall, begins to pour onto the beach in cataracts of fire (III.19 ¶78). *(Drafted.)*
+    - quote: envahit le plateau de Grande-Vue
+    - quote: il ne resta plus rien
+    - quote: débordant l’arête de la muraille granitique
+  - The plateau is among the places swallowed in the final destruction (III.20 ¶2). *(Drafted.)*
+    - quote: le plateau de Grande-Vue
 - **On the page.**
   - Pigeons fly by hundreds at the crest of the plateau (I.6 ¶7). *(Drafted.)*
     - quote: ces pigeons qui volaient par centaines à la crête du plateau
@@ -117,4 +129,4 @@ Keywords: Grande-Vue, tableland, height, edge, ridge, lookout, horizon, Grande-V
   - On the plateau old enormous trunks, felled by age, show dark bark against the green carpet, and noisy cockatoos hop from branch to branch (I.16 ¶27). *(Drafted.)*
     - quote: Quelques vieux troncs énormes, abattus par l’âge
     - quote: tout un monde de kakatoès bruyants
-- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18, I.19, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.9, III.10, III.11, III.13, III.14, III.15
+- **Appears in:** I.3, I.4, I.5, I.6, I.9, I.11, I.12, I.13, I.14, I.16, I.17, I.18, I.19, I.20, I.22, II.7, II.8, II.9, II.11, II.12, II.16, II.17, II.18, II.20, III.1, III.6, III.9, III.10, III.11, III.13, III.14, III.15, III.18, III.19, III.20

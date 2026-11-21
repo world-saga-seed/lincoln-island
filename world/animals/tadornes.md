@@ -22,4 +22,7 @@ Keywords: tadorne, shelduck, canard, duck, marais, marsh, Tadorn’s-fens, gibie
     - quote: Le gibier devait être facile à approcher
   - The marshes of the tadornes are vast, and the best hunts of the great cold are made there (II.20 ¶77). *(Drafted.)*
     - quote: dans les vastes marais des tadornes
-- **Appears in:** I.21, I.22, II.20
+  - The animals driven by the fire of the Far-West find refuge in the marsh that bears the tadornes' name, beyond the Port-Ballon road (III.19 ¶60, ¶78). *(Drafted.)*
+    - quote: se réfugièrent du côté de la Mercy et dans le marais des tadornes
+    - quote: ne trouvèrent d’autre refuge que le marais des tadornes
+- **Appears in:** I.21, I.22, II.20, III.19

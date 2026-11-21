@@ -11,7 +11,10 @@ Keywords: briquet, fire-steel, tinderbox, amadou, flint, silex, sparks, light, t
     - quote: un briquet et de l’amadou
   - The torches for the descent are lit with the fire of the briquet (I.18 ¶18). *(Drafted.)*
     - quote: allumées au feu du briquet
-- **Appears in:** I.10, I.18
+  - Ayrton is told to take a briquet with a lantern, and strikes it to light the lantern in the crypt Dakkar (III.18 ¶83, ¶93). *(Drafted.)*
+    - quote: Prenez un fanal et un briquet
+    - quote: après avoir battu le briquet, alluma le fanal
+- **Appears in:** I.10, I.18, III.18
 - **Open:**
   - The text does not say what the briquet is made of or where it came from; see [the spark pebbles](spark-pebbles.md), which hold the same gap (I.18 ¶4). *(Drafted.)*
     - quote: un briquet et de l’amadou

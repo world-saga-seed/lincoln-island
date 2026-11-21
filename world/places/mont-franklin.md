@@ -144,7 +144,28 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
     - quote: les coulées de lave qui zébraient les pentes septentrionales de la montagne
   - A new crater opening in its south walls would threaten the corral (III.15 ¶6). *(Drafted.)*
     - quote: le corral aurait tout à craindre, si quelque nouveau cratère s’ouvrait dans les parois sud du mont Franklin
-- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8, II.11, II.12, II.18, II.19, III.1, III.7, III.8, III.11, III.12, III.13, III.14, III.15
+  - A huge plume of smoke is seen unrolling at its summit on 3 January 1869 (III.18 ¶12). *(Drafted.)*
+    - quote: un énorme panache qui se déroulait à la cime du volcan
+  - It stands about six miles from the Grande-Vue plateau, and at night seems a gigantic torch (III.18 ¶35). *(Drafted.)*
+    - quote: distant de six milles environ
+    - quote: comme une gigantesque torche
+  - Its first vapours appeared about 15 October, when the colonists searched its buttresses for Nemo’s retreat; the fires smouldered ten weeks (III.18 ¶37, ¶39). *(Drafted.)*
+    - quote: les premières vapeurs ont apparu vers l’époque à laquelle nous avons fouillé les contreforts
+    - quote: Les feux souterrains ont donc couvé pendant dix semaines
+  - In the night of 23 to 24 January the lava, risen to the level of the first stage of the volcano, throws off the cone that formed its cap (III.19 ¶25). *(Drafted.)*
+    - quote: sous l’effort des laves, qui arrivèrent au niveau du premier étage du volcan
+    - quote: celui-ci fut décoiffé du cône qui formait chapeau
+  - The upper cone is a mass a thousand feet high weighing billions of pounds, which falls on the plain of sand and tufa between the volcano and the sea because it leaned to the north (III.19 ¶27). *(Drafted.)*
+    - quote: un massif haut de mille pieds, pesant des milliards de livres
+    - quote: il tomba sur la plaine de sables et de tufs qui s’étendait entre le volcan et la mer
+  - After the first eruption its north-western buttresses stand out in sharp, bright ridges, like a gigantic claw laid on the ground (III.19 ¶62). *(Drafted.)*
+    - quote: en âpres et vives arêtes les contreforts du volcan
+    - quote: une griffe gigantesque appliquée sur le sol
+  - The lower cone is torn by the final explosion (III.20 ¶2). *(Drafted.)*
+    - quote: le cône inférieur du mont Franklin, déchiré par l’explosion
+  - Its name is given to a mountain of the colonists’ domain in Iowa (see [the Iowa domain](iowa-domain.md)) (III.20 ¶52). *(Drafted.)*
+    - quote: une montagne qui prit le nom de Franklin
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8, II.11, II.12, II.18, II.19, III.1, III.7, III.8, III.11, III.12, III.13, III.14, III.15, III.18, III.19, III.20
 - **Open:**
   - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
     - quote: à une distance de six ou sept milles

@@ -313,6 +313,10 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He believes the handling of a submarine like the Nautilus must be very easy and quickly learned: no storms, no collisions, and a few feet down the sea is as calm as a lake (III.17 ¶48). *(Drafted.)*
     - quote: la manœuvre d’un appareil sous-marin tel que ce Nautilus doit être très-facile
     - quote: aussi calmes que celles d’un lac
+  - On the bare rock he is more nervous than Smith (III.20 ¶8). *(Drafted.)*
+    - quote: Gédéon Spilett, plus nerveux
+  - In Iowa he founds the New Lincoln Herald, which becomes "le journal le mieux renseigné du monde entier" (III.20 ¶53). *(Drafted.)*
+    - quote: Gédéon Spilett lui-même, qui fonda le New Lincoln Herald, lequel fut le journal le mieux renseigné du monde entier
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -365,10 +369,13 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
   - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington
     - quote: l’heure vraie qu’il serait alors à Washington
   - His origin, age and newspaper are not stated in these chapters; the text calls him only a reporter of great talent (I.13 ¶5). *(Drafted.)*
     - quote: reporter de grand talent
+  - The date of the volcano's waking, counted in III.18: Harbert says it was "deux mois et demi" ago, about 15 October; Spilett answers that the underground fires have smouldered "dix semaines" (III.18 ¶38, ¶39). The text does not reconcile them. *(Drafted.)*
+    - quote: voilà déjà deux mois et demi de cela
+    - quote: Les feux souterrains ont donc couvé pendant dix semaines

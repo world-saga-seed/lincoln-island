@@ -21,8 +21,11 @@ Keywords: koula, paresseux, sloth, ours, bear, griffes, claws, arbre, tree, feui
   - Their skins are taken to Granite-house and given a kind of tanning with sulphuric acid that makes them usable (II.10 ¶19). *(Drafted.)*
     - quote: Leurs peaux furent rapportées à Granite-house
     - quote: l’acide sulfurique aidant, elles furent soumises à une sorte de tannage qui les rendit utilisables
+  - When the Far-West forest burns, the game, "jaguars, sangliers, cabiais, koulas" among it, flees mad with fear toward the Mercy and the marsh of the tadornes; all the island's animals die in its end (III.19 ¶60; III.20 ¶3). *(Drafted.)*
+    - quote: jaguars, sangliers, cabiais, koulas, gibier de poil et de plume
+    - quote: Les animaux avaient également péri dans la catastrophe
 - **On the page.**
   - The reporter, seeing it between the first branches of a tree in a thick copse, takes it for a bear; once its identity is verified it is left to its business (I.15 ¶38). *(Drafted.)*
     - quote: un animal qu’il prit pour un ours
     - quote: qu’on ne dérangea point de ses occupations
-- **Appears in:** I.15, II.4, II.10
+- **Appears in:** I.15, II.4, II.10, III.19, III.20

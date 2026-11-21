@@ -542,6 +542,29 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Courir sur les mers, bien ! mais sous les mers, non !
     - quote: j’aime mieux un bon coup de vent à bord d’un navire bien gréé
     - quote: Un bateau est fait pour aller sur l’eau et non dessous
+  - He brings to the building of the ship a devouring activity, grumbles when anyone leaves the carpenter's axe for the hunter's gun, and in his anger does the work of six men (III.18 ¶9). *(Drafted.)*
+    - quote: Pencroff apportait à ce travail une activité dévorante
+    - quote: il faisait — par colère — l’ouvrage de six hommes
+  - He means to keep the name Bonadventure for the new ship, which he wants afloat in Port-Ballon within two months (III.18 ¶30). *(Drafted.)*
+    - quote: notre nouveau Bonadventure — car nous lui conserverons ce nom
+    - quote: flotte sur les eaux du Port-Ballon
+  - He will look at the volcano only on its amusing side (III.18 ¶52). *(Drafted.)*
+    - quote: qui ne voulait considérer le phénomène que par ses côtés amusants
+  - At the news that the island must perish he cannot hold back a big tear, and does not try to hide it (III.19 ¶22). *(Drafted.)*
+    - quote: Pencroff ne put retenir une grosse larme qui glissa sur sa joue, et qu’il ne chercha point à cacher
+  - He never goes up to Grande-Vue after the eruption, for he will not see the island so laid waste in its new look (III.19 ¶61). *(Drafted.)*
+    - quote: jamais Pencroff, qui ne voulait pas voir sous son aspect nouveau l’île si profondément dévastée
+  - The ruin of his domain plunges him into a sombre taciturnity; with hope back, he thinks only of the ship, on which all his hopes are fixed (III.19 ¶70). *(Drafted.)*
+    - quote: cette sombre taciturnité dans laquelle l’avaient plongé la ruine et la dévastation de son domaine
+    - quote: ce navire, sur lequel se concentraient toutes ses espérances
+  - He tells Nab in a murmur that he does not believe the disaster would have happened had Captain Nemo lived (III.19 ¶76). *(Drafted.)*
+    - quote: Eh bien, moi, je ne le crois pas
+  - He and Ayrton make the preparations for the launch (III.19 ¶80). *(Drafted.)*
+    - quote: Pencroff et Ayrton procédèrent donc aux préparatifs du lancement
+  - On the bare rock he is in the grip of a dull anger, and paces to and fro (III.20 ¶8). *(Drafted.)*
+    - quote: Pencroff, en proie à une sourde colère, allaient et venaient sur ce roc
+  - In Iowa he becomes "plus fermier qu’il n’avait jamais été marin" (III.20 ¶53). *(Drafted.)*
+    - quote: Pencroff plus fermier qu’il n’avait jamais été marin
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -656,7 +679,7 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Sorte de nœud familier au marin, et qui a l’avantage de se maintenir toujours serré
   - He has become a true farmer, attached at heart to his harvests (III.9 ¶45). *(Drafted.)*
     - quote: Pencroff était devenu un vrai fermier, attaché de cœur à ses récoltes
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn

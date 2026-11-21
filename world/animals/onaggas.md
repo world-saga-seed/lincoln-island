@@ -69,6 +69,12 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
   - Every two days a colonist, driving the cart or riding an onagga, goes to the corral to tend the flock and bring back the milk (III.14 ¶20). *(Drafted.)*
     - quote: conduisant le chariot ou montant un des onaggas
     - quote: rapportait le lait qui approvisionnait l’office de Nab
+  - Harbert saddles one on Grande-Vue; there is a stable of the onaggas, from which they are harnessed to the cart (III.18 ¶12; III.19 ¶30). *(Drafted.)*
+    - quote: pour seller l’un des onaggas
+    - quote: l’étable des onaggas
+  - Two onaggas draw the cart to the corral at a fast trot (III.18 ¶61). *(Drafted.)*
+    - quote: le chariot attelé des deux onaggas
+    - quote: y couraient au grand trot
 - **On the page.**
   - They enter the plateau on 23 December because the small bridges had not been closed (II.7 ¶52, ¶53). *(Drafted.)*
     - quote: Un jour, le 23 décembre
@@ -78,4 +84,4 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
   - They are first put to the cart at the end of December, for the trip to Port Balloon, with Pencroff walking at their head (II.7 ¶61, ¶63). *(Drafted.)*
     - quote: ce fut vers la fin de décembre qu’on essaya pour la première fois les onaggas
     - quote: Pencroff, qui marchait à la tête de ses bêtes
-- **Appears in:** II.7, II.8, II.9, II.16, II.18, III.6, III.9, III.10, III.11, III.12, III.14
+- **Appears in:** II.7, II.8, II.9, II.16, II.18, III.6, III.9, III.10, III.11, III.12, III.14, III.18, III.19

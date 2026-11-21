@@ -52,7 +52,10 @@ Keywords: marais, marécage, marsh, fen, tadornes, sheldrake, south-east, wildfo
     - quote: les vastes marais des Tadornes
   - Smith holds that the convicts crossed it after landing, and made at once for the forests of the Far-West (III.12 ¶4). *(Drafted.)*
     - quote: après avoir traversé le marais des Tadornes
-- **Appears in:** I.21, I.22, II.2, II.11, II.20, III.6, III.11, III.12
+  - It lies beyond the Port-Ballon road, and the animals driven from the burning forest take refuge there and by the Mercy; after the second eruption it shelters the surviving animals (III.19 ¶60, ¶78). *(Drafted.)*
+    - quote: dans le marais des tadornes, au delà de la route de Port-Ballon
+    - quote: ne trouvèrent d’autre refuge que le marais des tadornes
+- **Appears in:** I.21, I.22, II.2, II.11, II.20, III.6, III.11, III.12, III.19
 - **Open:**
   - Where the marshy part lies: I.11 ¶32 speaks of stagnant water "dans la portion marécageuse du nord-est", and I.21 ¶7 puts the marsh in the south-east between the Mercy and cape Griffe. Card neither as one marsh. *(Drafted.)*
     - quote: dans la portion marécageuse du nord-est

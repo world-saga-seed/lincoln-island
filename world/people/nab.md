@@ -175,6 +175,16 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: ce qui m’occupe, moi, c’est la besogne quotidienne
   - He and Pencroff above all hope to end their days on Lincoln Island (III.15 ¶13). *(Drafted.)*
     - quote: Pencroff et Nab surtout espéraient bien y finir leurs jours
+  - He can speak "le plus sérieusement du monde" while jesting that volcanoes ought to be swept like chimneys (III.18 ¶18). *(Drafted.)*
+    - quote: On devrait bien ramoner les volcans
+    - quote: qui sembla parler le plus sérieusement du monde
+  - He asks his master whether all this would have happened had Captain Nemo still been alive, and holds with Pencroff that it would not (III.19 ¶74, ¶77). *(Drafted.)*
+    - quote: si le capitaine Nemo eût encore été vivant, croyez-vous que tout cela serait arrivé
+    - quote: répondit sérieusement Nab
+  - On the bare rock he is resigned to his fate, as Ayrton is (III.20 ¶8). *(Drafted.)*
+    - quote: Nab et Ayrton étaient résignés à leur sort
+  - In Iowa he stays "là où était son maître" (III.20 ¶53). *(Drafted.)*
+    - quote: Nab là où était son maître
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -208,7 +218,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He and Pencroff carry the provisions on the march and lay out the midday meal (II.4 ¶3, ¶37). *(Drafted.)*
     - quote: Pencroff et Nab emportaient des provisions
     - quote: Nab et Pencroff disposèrent le déjeuner
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

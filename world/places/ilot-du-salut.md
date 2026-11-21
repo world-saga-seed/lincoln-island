@@ -82,6 +82,10 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
   - The islet covers the shore of Granite-house only imperfectly against the fury of the open sea, and in great storms the waves beat directly on the foot of the granite wall (III.14 ¶27). *(My reading, to confirm.)*
     - quote: l’îlot ne couvrait qu’imparfaitement le littoral contre les fureurs du large
     - quote: les lames venaient battre directement le pied de la muraille granitique
+  - The islet stands at the mouth of the Mercy, opposite the granite wall, the mouth being the place where the ship would risk being crushed (III.19 ¶68). *(My reading, to confirm.)*
+    - quote: entre l’îlot et la muraille de granit
+  - The islet is swallowed in the destruction of the island, under the name "îlot du Salut" (III.20 ¶2). *(Drafted.)*
+    - quote: l’îlot du Salut
 - **On the page.**
   - Large heavy-flying birds rose from its holes, and others in flocks; Pencroff took them for gulls and sea-mews (I.3 ¶14). *(Drafted.)*
     - quote: des goëlands et des mouettes
@@ -89,7 +93,7 @@ Keywords: îlot, rock, skerry, fondrières, promontory, sandbank, whale carcass,
     - quote: tout l’îlot apparut, comme s’il fût descendu d’un nuage
   - Shellfish are scattered over its sand and the four ate some there (I.3 ¶50). *(Drafted.)*
     - quote: quelques coquillages dont le sable était semé
-- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10, II.18, II.20, III.2, III.3, III.4, III.5, III.14
+- **Appears in:** I.3, I.7, I.8, I.11, I.14, I.15, I.20, I.21, I.22, II.2, II.5, II.10, II.18, II.20, III.2, III.3, III.4, III.5, III.14, III.19, III.20
 - **Open:**
   - Whether the islet belongs to a larger archipelago is asked and not answered
     - quote: se rattachait-il à un archipel plus important ?

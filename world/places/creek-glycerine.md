@@ -46,7 +46,9 @@ Keywords: Creek-Glycérine, fossé, ditch, moat, ruisseau, saignée, nitro-glyce
     - quote: qui se disposait à traverser le cours d’eau
   - A bridge carries the corral road over it (III.15 ¶42). *(Drafted.)*
     - quote: passèrent le pont du creek Glycérine
+  - In March the lava, following the south-west shore of Lake Grant, passes beyond the Glycerine creek and invades the Grande-Vue plateau (III.19 ¶78). *(Drafted.)*
+    - quote: se porta au delà du creek Glycérine et envahit le plateau de Grande-Vue
 - **On the page.**
   - Its left bank has a slight rise crowned with a few tall dragon-trees, which hides a man waiting there (III.6 ¶71). *(Drafted.)*
     - quote: un léger épaulement que couronnaient quelques grands dragonniers, sur la rive gauche du ruisseau
-- **Appears in:** II.7, II.8, II.15, II.16, III.6, III.9, III.10, III.15
+- **Appears in:** II.7, II.8, II.15, II.16, III.6, III.9, III.10, III.15, III.19

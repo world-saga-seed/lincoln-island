@@ -15,7 +15,8 @@
 - **The future may shape what is planted, never what is said.** A chapter states only what the cards show on the page at or before it.
 - **Never trim a clue.** No trim, cut or revision removes a line listed in `plan/reread-hooks.md` or in a chapter's clue notes. A line that looks like a clue and is listed nowhere is kept and reported.
 - **No explanation of how anything works** [unless your book explains; say which things may be explained, by whom].
-- [Spelling: American or British.] [Contractions in narration: allowed, sparing, or never.]
+- **Spelling is White's American:** color, honor, labor, favor, harbor, neighbor, and "-ize" as he has it. The British "-our" forms are banned. See the [voice sheet](../../../story/voice/white.md). *(Settled R1121-21.)* [Contractions in narration: allowed, sparing, or never.]
+- **Names are White's forms on the page** (Herbert, Gideon, Neb, the Granite House); the cards keep the French. *(Settled R1121-20.)*
 - [Words the page never uses: run the banned list, `tools/tells.py FILE --banned story/voice/banned.txt`, and fix every hit in narration.]
 - **Draft plain, do not polish.** No notes, marks or comments inside a prose file.
 
@@ -38,6 +39,13 @@
 - No paragraph with three or more negations, or three or more "looked at".
 - None of the stock beats: "It was not X. It was Y."; a list of three abstract clauses; the quiet-realization paragraph that ends "and then I let it go"; a summing-up tag line that says what the scene showed.
 - A closing phrase used at most once a chapter.
+
+## Tells (phase 5)
+
+*Ways a modern model's renders departed from the French, or from White, that White did not. Found by the phase 5 calibration (`plan/archive/task-20261121-07-calibration/tells.md`). The facts and voice critics check for them.*
+
+- **T1, British spelling.** "honour", "labours" and "colours" turned up in three renders of twenty. White's whole text has none of the -our forms. Run the banned list on every draft. *(Settled R1121-85.)*
+- **T2 to T6, small words added for idiom.** A word added to make the English plain ("like the bore of a river" for "comme des mascarets"), an intensifier ("whatever" after "sous aucun prétexte"), a filler for idiom ("no longer held together" for "ne tenaient plus"), a verb strengthened ("wrenched away" for "séparée"), a word of speech dropped ("That is not just!" for "Ce n’est pas juste, cela !"). Each is small. Together they make a habit: render what the French says, at its force, without adding words. Where the English needs a word, take the one White would use, and note it for the critic. *(Settled R1121-85.)*
 
 ## Length
 

@@ -1,6 +1,6 @@
 # The key: 01900, 01950, 02000
 
-*(Proposal.) The spec for the blind probe of the three chapters of phase 8, the insert and its neighbours. Built from the notes by the main session (the stretch is three chapters; no agent). Never given to a reader. The author settles it by changing the marks.*
+*(Settled R1121-83.) The spec for the blind probe of the three chapters of phase 8, the insert and its neighbours. Built from the notes by the main session (the stretch is three chapters; no agent). Never given to a reader. Settled by the author as written, with K4 corrected and K15 added (R1121-83).*
 
 | ID | Kind | Subject |
 |---|---|---|
@@ -14,6 +14,7 @@
 | K7 | hidden | What the letters say |
 | K8 | unknown | Whether a ship is near the island |
 | K9 | forbidden | That a hidden hand moved the float |
+| K15 | plain | What the glass was worth to them |
 | **01900, before** | | |
 | K10 | plain | How Granite-house is reached and kept safe |
 | K11 | plain | What Cyrus fears and keeps to himself |
@@ -48,9 +49,9 @@
 ### K4. Why is the float lost?
 
 - **Kind:** plain.
-- **Text returns:** the squall and the surge shifted the sandbar. It is nature, at a neap tide that gave them only a short low water.
-- **True:** "At the next low water the bar has shifted and the float is gone." `story/outline/01950-the-float-in-the-bar.md § 7`; "The insert's tide is a neap" (R1121-53).
-- **Planted in:** 01950, beats 3, 5 and 7.
+- **Text returns:** the squall broke what was left of its rotten mooring, and the surge threw it on the islet's rocks, where the two saw it shatter. It is nature. The bar then closes over the net, and nothing is left to find.
+- **True:** "the squall breaks what is left of the rotten mooring … and the bar closes over the net" (R1121-65); "from under the wall, a flash on the islet's rocks in the spray, and it is gone. They know it shattered" (R1121-68). `plan/settled/ledger/2026-11-21.md`.
+- **Planted in:** 01950, beats 5 and 7.
 
 ### K5. Whose float is it?
 
@@ -86,6 +87,13 @@
 - **Text returns:** the question does not arise. The loss is the sea's.
 - **True:** "by natural causes, with no sign of Captain Nemo's hand" (R1121-23); world rule 3, "The insert adds no act of his." `world/rules.md`.
 - **Planted in:** none.
+
+### K15. What was the glass worth to them?
+
+- **Kind:** plain, from Pencroff's unspoken sum, never said aloud.
+- **Text returns:** light for the shuttered house, which waits on window glass, and a float for his lines. The reader does the sum when it breaks. Must not return: that anyone says it.
+- **True:** "Pencroff counts in his head what the glass is worth: light for the shuttered house, a float for his lines. Never aloud" (R1121-82); "en attendant que l’ingénieur eût eu le temps de fabriquer du verre à vitre" (I.19 ¶46).
+- **Planted in:** 01900 ¶46 (the shutters), 01950, beat 4.
 
 ## 01900, before
 

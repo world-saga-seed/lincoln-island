@@ -4,12 +4,13 @@
 
 ## Now
 
-Phases 0 to 5 are done and committed. The voice is White's (I.5 the sample, R1121-16; `story/voice/white.md`): his names on the page, the French on the cards (R1121-20); his American spelling, the "-our" forms banned (R1121-21). The closed tasks 01 to 07 are in `plan/archive/`, and canon cites no task paper. Phase 6 starts at the author's word.
+Phases 0 to 6 are done. The insert is chapter 01950, "XIX bis", "The Float in the Bar", set 1 to 3 June 1865 between I.19 and I.20 (R1121-23 to -82). Its outline, its notes (the gap pass) and the seams in its two neighbours' outlines are in `story/`. The world's rules are in `world/rules.md`. The actor logs are in `story/calendar/`, the key for the three chapters in `plan/reader-tests/key.md`, and the new clue thread on the register as H36. Phase 7 starts next, at the author's word.
 
 ## Next
 
-1. Phase 6: the brainstorm, fed by the author; the placement and the key frames; the insert's outline and the two neighbours'; a reader-test key for each. Phase 5's candidate tells (`plan/archive/task-20261121-07-calibration/tells.md`) go to the drafting rules.
-2. Phase 7: the prompt-only controls, frozen before phase 8.
+1. Phase 7: the prompt-only controls. One fixed prompt per chapter (01900, 01950, 02000), written from the chapter as settled in phase 6, with White's neighbouring chapters pasted in. The same prompts go to Opus in a fresh context and to Gemini in the human's account. Frozen and committed before phase 8; the author approves the prompts.
+2. At the head of phase 8, before any drafting: the interview to fill the drafting rules (`plan/workflows/drafting/rulings.md`, still the kit's template but for spelling, names and the tells), R1121-86.
+3. Phase 8: render version 1 of the three chapters.
 
 ## Waiting
 

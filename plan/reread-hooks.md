@@ -43,6 +43,9 @@
 | H33 | the apes' sudden flight from the dwelling | II.6 ¶74; II.7 ¶1 | none: left open (last raised II.7 ¶1) | chapter | les singes, pris d’un effroi subit, provoqué par quelque cause inconnue / une terreur, non moins subite qu’inexplicable, qui les avait chassés de Granite-house | |
 | H34 | the harpoon in the stranded whale | II.10 ¶54; II.10 ¶57; II.10 ¶59; II.10 ¶62 | none: left open (last raised II.10 ¶59) | chapter | un harpon sortait de son flanc gauche / Puisque ce harpon est encore là / que l’affirmation de Pencroff ne satisfaisait pas / La Maria-Stella | |
 | H35 | what the dying man told the engineer alone | III.17 ¶72 | none: left open (III.17 ¶72) | book | il ne leur dit rien des choses secrètes que le mourant avait voulu lui confier | |
+| H36 | the glass float in the bar, and its broken letters | 01950 (the insert): the float, glass, half buried on its old net; the barnacles; the broken run B, L, I, "Latin, I think" | III.16 ¶59; III.16 ¶60; III.17 ¶13 | book | (01950's lines, copied here once it is drafted) / ses compagnons moururent / points de relâche / Mobilis in mobili. | |
+
+*H36 (Settled R1121-84) is the insert's: its plants are in 01950's prose, still to be drafted. Echoes, kept and not cut: II.2 ¶20, ¶64 (the chest half buried; its goods unmarked, "contrairement à ce qui se fait d’habitude"); II.1 (the turtle, H28, kept open); I.19 ¶46 (the shutters, "du verre à vitre"); I.20 ¶20 (the ford over the bar). Nothing in it explains an open thread (world rule 11).*
 
 ## Near puzzles
 

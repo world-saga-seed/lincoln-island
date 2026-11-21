@@ -9,8 +9,13 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: Je n’ai pas de nom, monsieur.
   - He speaks English (III.16 ¶2). *(Drafted.)*
     - quote: quand il dit en anglais
+    - He says he speaks French, English, German and Latin alike, and the professor finds him speaking with perfect ease and no accent (VML I.10 ¶5, ¶6). *(Drafted.)*
+      - quote: je parle également le français, l’anglais, l’allemand et le latin
+      - quote: Cet homme s’exprimait avec une aisance parfaite, sans aucun accent
   - He is called "le capitaine Nemo" (III.16 ¶5). *(Drafted.)*
     - quote: Le capitaine Nemo fixa un regard ardent sur l’ingénieur
+    - He tells the professor that he is for the three only Captain Nemo, and they for him only passengers of the Nautilus (VML I.10 ¶56). *(Drafted.)*
+      - quote: je ne suis pour vous que le capitaine Nemo
   - He was an Indian, Prince Dakkar (III.16 ¶38). *(Drafted.)*
     - quote: Le capitaine Nemo était un Indien, le prince Dakkar
   - He was the son of a rajah of the then independent territory of Bundelkund (III.16 ¶38). *(Drafted.)*
@@ -138,6 +143,9 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: une maladie lente l’avait miné peu à peu
   - He says he has lived in the depths of the sea, the only place where he found independence (III.16 ¶19). *(Drafted.)*
     - quote: le seul milieu où j’aie trouvé l’indépendance
+    - He bids the professor live in the bosom of the seas, where alone is independence, since the sea belongs not to despots (VML I.10 ¶80). *(Drafted.)*
+      - quote: vivez, vivez au sein des mers ! Là seulement est l’indépendance !
+      - quote: La mer n’appartient pas aux despotes.
   - He says the book holds only a history of some months of his life (III.16 ¶25). *(Drafted.)*
     - quote: Mon histoire de quelques mois seulement, monsieur !
   - With a haughty smile he calls himself a great culprit, a rebel put perhaps outside humanity's pale (III.16 ¶27). *(Drafted.)*
@@ -178,6 +186,8 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: Sa tête fut mise à prix
   - His father, mother, wife and children paid for him (III.16 ¶49). *(Drafted.)*
     - quote: son père, sa mère, sa femme, ses enfants payèrent pour lui
+    - He cries to the professor that through the oppressor he saw all he had loved and cherished perish: country, wife, children, father, mother (VML II.21 ¶57). *(Drafted.)*
+      - quote: patrie, femme, enfants, mon père, ma mère, j’ai vu tout périr
   - After the defeat he went back, alone, to the Bundelkund mountains, filled with disgust for all that bore the name of man (III.16 ¶51). *(Drafted.)*
     - quote: pris d’un immense dégoût contre tout ce qui portait le nom d’homme
   - He sold the remains of his fortune and gathered about twenty faithful companions, and one day all vanished (III.16 ¶51). *(Drafted.)*
@@ -186,34 +196,119 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: Sous les eaux, dans la profondeur des mers, où nul ne pouvait le suivre.
   - A desert island of the Pacific served him as shipyard, where a submarine was built on his plans (III.16 ¶53). *(Drafted.)*
     - quote: Une île déserte du Pacifique lui servit à établir ses chantiers
+    - In the earlier book he says he set up his workshops on a desert islet in mid-ocean, where he and the companions he had trained and formed finished the Nautilus (VML I.13 ¶47). *(Drafted.)*
+      - quote: j’avais établi mes ateliers sur un îlot désert, en plein Océan
+      - quote: mes braves compagnons que j’ai instruits et formés, et moi, nous avons achevé notre Nautilus
+    - When the work was done, fire destroyed every trace of their passage on the islet, which he would have blown up had he been able (VML I.13 ¶47). *(Drafted.)*
+      - quote: le feu a détruit toute trace de notre passage sur cet îlot que j’aurais fait sauter, si je l’avais pu
   - He used electricity for motive force, light and heat in his craft (III.16 ¶53). *(Drafted.)*
     - quote: comme force motrice, force éclairante, force calorifique
+    - He tells the professor that one agent rules aboard, which lights him, warms him and is the soul of his mechanical apparatus: electricity (VML I.12 ¶9). *(Drafted.)*
+      - quote: Il m’éclaire, il m’échauffe, il est l’âme de mes appareils mécaniques
+      - quote: Cet agent, c’est l’électricité.
+    - He says his electricity is not everyone's, and that this is all he will permit himself to say of it (VML I.12 ¶13). *(Drafted.)*
+      - quote: mon électricité n’est pas celle de tout le monde, et c’est là tout ce que vous me permettrez de vous en dire
+    - He asks the sea itself for the means of making it: he extracts the sodium of sea water and makes his cells of it, an amalgam of sodium and mercury taking the place of the zinc in Bunsen cells (VML I.12 ¶15, ¶19, ¶21). *(Drafted.)*
+      - quote: j’ai voulu ne demander qu’à la mer elle-même les moyens de produire mon électricité
+      - quote: c’est ce sodium que j’extrais de l’eau de mer et dont je compose mes éléments
+      - quote: il forme un amalgame qui tient lieu du zinc dans les éléments Bunzen
+    - He extracts the sodium not by the pile but by the heat of coal, which he calls sea coal (VML I.12 ¶23, ¶25). *(Drafted.)*
+      - quote: je ne l’extrais pas par la pile, et j’emploie tout simplement la chaleur du charbon de terre
+      - quote: Disons le charbon de mer, si vous voulez
+    - He says the sea produces the electricity and the electricity gives the Nautilus heat, light, motion, life itself (VML I.12 ¶27). *(Drafted.)*
+      - quote: il produit l’électricité, et l’électricité donne au Nautilus la chaleur, la lumière, le mouvement, la vie en un mot
   - He named the craft the Nautilus and himself Captain Nemo, and disappeared under the seas (III.16 ¶53). *(Drafted.)*
     - quote: il s’appela le capitaine Nemo, et il disparut sous les mers
   - For many years he visited all oceans from pole to pole, a pariah of the inhabited universe (III.16 ¶54). *(Drafted.)*
     - quote: Paria de l’univers habité
+    - The earlier book shows him unfurling a black flag with a golden N at the south pole, where the sun is cut in two by the horizon (VML II.14 ¶87, ¶93). *(Drafted.)*
+      - quote: Le pôle sud !
+      - quote: déploya un pavillon noir, portant un N d’or écartelé sur son étamine
   - He drew an inexhaustible mine of wealth from the millions lost at Vigo Bay in 1702 by the Spanish galleons (III.16 ¶54). *(Drafted.)*
     - quote: Les millions perdus dans la baie de Vigo, en 1702, par les galions espagnols
+    - In the earlier book the Nautilus lies in Vigo Bay, where men of the crew in diving dress clear half-rotted casks and burst chests, from which ingots and cascades of piastres and jewels spill over the sand (VML II.8 ¶63). *(Drafted.)*
+      - quote: s’occupaient à déblayer des tonneaux à demi pourris, des caisses éventrées
+      - quote: des lingots d’or et d’argent, des cascades de piastres et de bijoux
+    - He tells the professor that on 22 October 1702 the English ships arrived in the bay and Admiral de Château-Renaud burned and scuttled the galleons, which sank with their immense treasures (VML II.8 ¶58). *(Drafted.)*
+      - quote: le 22 octobre 1702, les vaisseaux anglais arrivèrent dans la baie de Vigo
+      - quote: il incendia et saborda les galions qui s’engloutirent avec leurs immenses trésors
+    - The professor understands that Nemo comes here to collect, as he needs, the millions with which he ballasts the Nautilus (VML II.8 ¶64). *(Drafted.)*
+      - quote: venait encaisser, suivant ses besoins, les millions dont il lestait son Nautilus
+    - He says he has only to gather what men have lost, in Vigo Bay and at a thousand other wrecks whose places his submarine chart has noted (VML II.8 ¶67). *(Drafted.)*
+      - quote: je n’ai qu’à ramasser ce que les hommes ont perdu
+      - quote: sur mille théâtres de naufrages dont ma carte sous-marine a noté la place
   - He gave this wealth always anonymously to peoples fighting for their independence (III.16 ¶54). *(Drafted.)*
     - quote: anonymement, en faveur des peuples qui se battaient pour l’indépendance de leur pays
+    - He says he makes good use of these riches, and knows that there are suffering beings, oppressed races, wretches to relieve and victims to avenge (VML II.8 ¶73). *(Drafted.)*
+      - quote: Qui vous dit que je n’en fais pas un bon usage ?
+      - quote: des races opprimées sur cette terre, des misérables à soulager, des victimes à venger
   - The editor says he aided the uprising of the Candiotes in this way (III.16 n2). *(Drafted.)*
     - quote: Il s’agit du soulèvement des Candiotes
+    - The professor understands for whom the millions sent by Captain Nemo were meant, when the Nautilus sailed in the waters of insurgent Crete (VML II.8 ¶75). See [the Candiotes](the-candiotes.md). *(Drafted.)*
+      - quote: à qui étaient destinés ces millions expédiés par le capitaine Nemo
+      - quote: lorsque le Nautilus naviguait dans les eaux de la Crète insurgée
   - On the night of 6 November 1866 three men were thrown aboard: a French professor, his servant and a Canadian fisherman (III.16 ¶55). *(Drafted.)*
     - quote: C’étaient un professeur français, son domestique et un pêcheur canadien
+    - In the earlier book the professor is hurled into the sea by a frightful shock when the frigate's harpoon strikes, at the end of the day of 6 November (VML I.6 ¶95, ¶104). See [the three men](the-french-professor-his-servant-and-a-canadian-fisherman.md). *(Drafted.)*
+      - quote: cette malencontreuse journée du 6 novembre
+      - quote: Un choc effroyable se produisit
+      - quote: je fus précipité à la mer
+    - At daybreak, after a night clinging to the hull, they are drawn into the Nautilus by eight stout fellows with veiled faces, and the professor takes it for a floating prison (VML I.7 ¶86, ¶90; I.8 ¶1). *(Drafted.)*
+      - quote: Quelques instants après, huit solides gaillards, le visage voilé, apparaissaient silencieusement, et nous entraînaient dans leur formidable machine
+      - quote: cette prison flottante
   - Their fall into the sea came from a collision between the Nautilus and the United States frigate "Abraham-Lincoln", which was hunting him (III.16 ¶55). *(Drafted.)*
     - quote: la frégate des États-Unis l’Abraham-Lincoln, qui lui donnait la chasse
+    - He says to the professor that the Abraham-Lincoln hunts him over all the seas, and that Ned Land struck him with his harpoon (VML I.10 ¶10). See [the frigate](../things/frigate-abraham-lincoln.md). *(Drafted.)*
+      - quote: Est-ce involontairement que l’Abraham-Lincoln me chasse sur toutes les mers ?
+      - quote: Est-ce involontairement que maître Ned Land m’a frappé de son harpon ?
   - He learned from the professor that the Nautilus, taken for a giant cetacean or a pirate vessel, was hunted on all seas (III.16 ¶56). *(Drafted.)*
     - quote: était poursuivi sur toutes les mers
+    - In the earlier book the world first speaks of an extraordinary cetacean, and of a "submarine" boat of extreme motive power (VML I.1 ¶7; I.2 ¶5). *(Drafted.)*
+      - quote: ce cétacé extraordinaire pouvait se transporter d’un endroit à un autre avec une vélocité surprenante
+      - quote: ceux qui tenaient pour un bateau « sous-marin » d’une extrême puissance motrice
+    - Brought aboard, the professor thinks of pirates of a new kind who exploit the sea in their own way (VML I.8 ¶1). *(Drafted.)*
+      - quote: quelques pirates d’une nouvelle espèce qui exploitaient la mer à leur façon
+    - The professor tells him that accidents caused by the shock of his submarine apparatus have stirred public opinion on both continents (VML I.10 ¶12). *(Drafted.)*
+      - quote: divers accidents, provoqués par le choc de votre appareil sous-marin, ont ému l’opinion publique dans les deux continents
+    - The professor later supposes that on all seas men now hunt the terrible engine of destruction (VML II.21 ¶30). *(Drafted.)*
+      - quote: sur toutes les mers, sans doute, on poursuivait maintenant ce terrible engin de destruction
   - He could have returned the three men to the ocean; he kept them prisoners for seven months (III.16 ¶57). *(Drafted.)*
     - quote: il les garda prisonniers, et, pendant sept mois
+    - He tells them they are his prisoners after combat, whom he keeps when with one word he could plunge them back into the abyss (VML I.10 ¶42). *(Drafted.)*
+      - quote: Vous êtes mes prisonniers après combat !
+      - quote: quand je pourrais d’un mot vous replonger dans les abîmes de l’Océan
   - The three escaped on 22 June 1867 with the Nautilus's boat (III.16 ¶58). *(Drafted.)*
     - quote: le 22 juin 1867, ces trois hommes
+    - In the earlier book they flee in the Nautilus's boat, whose opening in the hull plating is bolted shut from within, as the cry "Maelstrom !" rings out (VML II.22 ¶52, ¶56). *(Drafted.)*
+      - quote: L’orifice évidé dans la tôle du Nautilus fut préalablement fermé et boulonné
+      - quote: « Maelstrom ! Maelstrom ! » s’écriait-il.
+    - The boat is torn from its socket and flung like a stone from a sling into the whirlpool (VML II.22 ¶61). *(Drafted.)*
+      - quote: le canot, arraché de son alvéole, était lancé comme la pierre d’une fronde au milieu du tourbillon
   - He believed them drowned in the Maelstrom off Norway (III.16 ¶58). *(Drafted.)*
     - quote: le capitaine dut croire que les fugitifs
+    - The professor describes the Maelstrom: at flood the waters squeezed between the Faroe and Lofoten islands rush with irresistible violence into a whirl from which no ship has ever got out, the "Nombril de l’Océan" (VML II.22 ¶58). See [the Maelstrom](../places/maelstrom.md). *(Drafted.)*
+      - quote: Elles forment un tourbillon dont aucun navire n’a jamais pu sortir
+      - quote: le « Nombril de l’Océan »
+    - The professor later asks whether the Nautilus has withstood the grip of the Maelstrom (VML II.23 ¶5). *(Drafted.)*
+      - quote: A-t-il résisté aux étreintes du Maelstrom ?
   - He did not know that they had been cast ashore, taken in by Lofoten fishermen, and that the professor had published the book (III.16 ¶58). *(Drafted.)*
     - quote: Il ignorait donc que le Français et ses deux compagnons eussent été miraculeusement rejetés à la côte
+    - The professor comes to himself in the hut of a fisherman of the Lofoten islands, his two companions safe and sound beside him (VML II.23 ¶1). *(Drafted.)*
+      - quote: j’étais couché dans la cabane d’un pêcheur des îles Loffoden
+      - quote: Mes deux compagnons, sains et saufs étaient près de moi
+    - There he revises the account of these adventures and holds it exact: not a fact omitted, not a detail exaggerated (VML II.23 ¶3). See [the book](../things/vingt-mille-lieues-sous-les-mers.md). *(Drafted.)*
+      - quote: que je revois le récit de ces aventures
+      - quote: Pas un fait n’a été omis, pas un détail n’a été exagéré
   - His companions died one by one and rest in a coral cemetery in the Pacific (III.16 ¶59). *(Drafted.)*
     - quote: leur cimetière de corail, au fond du Pacifique
+    - In the earlier book Nemo buries a crewman dead in the night in a clearing of the coral forest, where a cross of coral stands on a pedestal of rocks and the ground is raised in mounds encrusted with limestone (VML I.24 ¶56, ¶57, ¶59). *(Drafted.)*
+      - quote: se dressait une croix de corail
+      - quote: Cette clairière c’était un cimetière, ce trou, une tombe
+    - He says the polyps seal their dead for eternity, and calls it their peaceful cemetery (VML I.24 ¶72, ¶74). *(Drafted.)*
+      - quote: Nous creusons la tombe, et les polypes se chargent d’y sceller nos morts pour l’éternité !
+      - quote: C’est là notre paisible cimetière
+    - A second companion, killed by an octopus, is not to rest with his companions in the peaceful waters of the coral cemetery (VML II.19 ¶2). See [the coral cemetery](../places/coral-cemetery.md). *(Drafted.)*
+      - quote: ne devait pas reposer avec ses compagnons dans les paisibles eaux du cimetière de corail
   - He was left alone of all who had taken refuge with him (III.16 ¶59). *(Drafted.)*
     - quote: le capitaine Nemo resta seul de tous ceux qui s’étaient réfugiés avec lui
   - Alone, he brought the Nautilus to one of the submarine ports he sometimes used (III.16 ¶60). *(Drafted.)*
@@ -224,6 +319,10 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: Depuis six ans, le capitaine était là, ne naviguant plus, attendant la mort
   - He saw the balloon fall, while walking under the water in his diving suit (III.16 ¶62). *(Drafted.)*
     - quote: Revêtu de son scaphandre
+    - In the earlier book he says he uses the Rouquayrol-Denayrouze apparatus, devised by two Frenchmen and improved by him for his own use, with a sheet-iron reservoir on the back holding air at fifty atmospheres (VML I.15 ¶67). See [the diving suit](../things/diving-suit.md). *(Drafted.)*
+      - quote: l’appareil Rouquayrol-Denayrouze
+      - quote: que j’ai perfectionné pour mon usage
+      - quote: sous une pression de cinquante atmosphères
   - A good impulse made him save Cyrus Smith (III.16 ¶62). *(Drafted.)*
     - quote: Un bon mouvement entraîna le capitaine
   - At first he wanted to flee the five castaways, but his harbour was shut (III.16 ¶63). *(Drafted.)*
@@ -262,10 +361,18 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: maintenant que vous connaissez ma vie, jugez-la !
   - He cries that it was an English frigate that attacked him in a narrow, shallow bay, and he passed (III.16 ¶73). *(Drafted.)*
     - quote: j’ai passé !
+    - In the earlier book the ship that fires on the Nautilus is a great ironclad two-decker with a spur, whose flag is not hoisted and whose nationality Nemo keeps secret; he says he will sink it, and the Nautilus passes through its hull below the waterline (VML II.21 ¶17, ¶46, ¶50, ¶78, ¶81). See [the frigate rammed](../things/the-frigate-rammed-by-the-nautilus.md). *(Drafted.)*
+      - quote: un grand vaisseau de guerre, à éperon, un deux-ponts cuirassé
+      - quote: Monsieur, je vais le couler.
+      - quote: Sa nationalité, du moins, restera un secret pour vous
+      - quote: au-dessous de sa ligne de flottaison
   - He is described as becoming Prince Dakkar again for an instant (III.16 ¶73). *(Drafted.)*
     - quote: redevenu un instant le prince Dakkar
   - He says he stood in justice and right and did good where he could, and evil where he must (III.16 ¶75). *(Drafted.)*
     - quote: J’ai fait partout le bien que j’ai pu, et aussi le mal que j’ai dû.
+    - He tells the professor, as he prepares to sink the warship: "Je suis le droit, je suis la justice ! Je suis l’opprimé, et voilà l’oppresseur !" (VML II.21 ¶57). *(Drafted.)*
+      - quote: Je suis le droit, je suis la justice !
+      - quote: Je suis l’opprimé, et voilà l’oppresseur !
   - He says that not all justice lies in forgiving (III.16 ¶75). *(Drafted.)*
     - quote: Toute justice n’est pas dans le pardon !
   - He asks "Ai-je eu tort, ai-je eu raison ?" (III.16 ¶81). *(Drafted.)*
@@ -275,16 +382,20 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
     - quote: il se promenait sous les eaux
   - He hunts under the sea with electric bullets (III.16 ¶65). *(Drafted.)*
     - quote: qu’il employait dans ses chasses sous-marines
+    - The Nautilus's gun holds in its hollow butt some twenty electric balls, each shot followed by the next (VML I.16 ¶13). *(Drafted.)*
+      - quote: une vingtaine de balles électriques
+      - quote: Dès qu’un coup était tiré, l’autre était prêt à partir.
+    - He says every shot is mortal with this gun: the balls are small glass capsules, true Leyden jars charged at high tension, that discharge at the slightest shock (VML I.15 ¶81, ¶83). See [the electric bullets](../things/electric-bullets.md). *(Drafted.)*
+      - quote: avec ce fusil tous les coups sont mortels
+      - quote: de véritables petites bouteilles de Leyde
   - He drew his food from the sea: fish, seaweed, large mammals (III.16 ¶53). *(Drafted.)*
     - quote: ses myriades de poissons, ses moissons de varechs et de sargasses, ses énormes mammifères
   - He gave away treasure anonymously to peoples fighting for independence (III.16 ¶54). *(Drafted.)*
     - quote: toujours, et anonymement
   - He prefers not to be seen, even while helping (III.16 ¶64). *(Drafted.)*
     - quote: il ne voulut point être vu
-- **Appears in:** III.15, III.16, III.17, III.18, III.19, III.20
+- **Appears in:** III.15, III.16, III.17, III.18, III.19, III.20, VML I.1, VML I.2, VML I.6, VML I.7, VML I.8, VML I.10, VML I.12, VML I.13, VML I.15, VML I.16, VML I.18, VML I.24, VML II.8, VML II.14, VML II.19, VML II.20, VML II.21, VML II.22, VML II.23
 - **Open:**
-  - III.16 refers throughout to the earlier book, "Vingt mille Lieues sous les mers" (the professor's account of seven months aboard); the card holds only what III.16 states (III.16 ¶24). *(Drafted.)*
-    - quote: Vingt mille Lieues sous les mers
   - The editor warns that dates disagree with the earlier books (III.16 n1). *(Drafted.)*
     - quote: sur la discordance de quelques dates
   - Disagreement on elapsed time since his withdrawal from the world: Nemo says thirty years (III.16 ¶19), yet the chapter dates the revolt in 1857 and his disappearance after it (III.16 ¶47). Neither is carded.
@@ -296,10 +407,6 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
   - Disagreement on his age: "soixante ans" when he was left alone (III.16 ¶60), against study from ten to thirty and return in 1849 (III.16 ¶45). Neither is carded.
     - quote: Le capitaine Nemo avait alors soixante ans.
     - quote: revint-il au Bundelkund dans l’année 1849
-  - The method of producing his electricity is unrevealed: "par des moyens qui seront connus un jour" (III.16 ¶53). *(Drafted.)*
-    - quote: par des moyens qui seront connus un jour
-  - The fate of his father, mother, wife and children is not stated beyond "payèrent pour lui" (III.16 ¶49). *(Drafted.)*
-    - quote: son père, sa mère, sa femme, ses enfants payèrent pour lui
   - Smith says "Il y a trente ans qu’il vit sur le Nautilus" (III.17 ¶9); the chapter III.16 dates the revolt in 1857 and his disappearance after it. Neither is carded; see the line on thirty years above (III.17 ¶9; III.16 ¶47). *(Drafted.)*
     - quote: Il y a trente ans qu’il vit sur le Nautilus
     - quote: En 1857, la grande révolte des cipayes éclata.
@@ -308,3 +415,39 @@ Keywords: Nemo, Dakkar, prince, Bundelkund, India, sepoys, Nautilus, submarine, 
   - Height of the Nautilus's platform: III.15 ¶132 says the apparatus rises "de dix à douze pieds au-dessus du niveau de la mer", and III.17 ¶42 says the platform rises "sept ou huit pieds au-dessus de l’eau"; both are in the text, and the tide stood differently at the two times (III.15 ¶132; III.17 ¶42). Carded neither. *(Drafted.)*
     - quote: s’élevait de dix à douze pieds au-dessus du niveau de la mer
     - quote: qui s’élevait de sept ou huit pieds au-dessus de l’eau
+  - Disagreement on the date of the night the three came aboard: III.16 ¶55 gives "le 6 novembre 1866"; the earlier book gives no year for that night, but dates the first hunts to the year before ("L’année 1866"), the Scotia's collision to 13 April 1867 and the frigate's news of the animal to "le 2 juillet", so the night of 6 November falls in 1867 (VML I.1 ¶1, ¶19; I.2 ¶30; I.6 ¶95). Carded neither. The year of the night of 6 November in the earlier book is my reckoning from these dates. *(My reading, to confirm.)*
+    - quote: pendant la nuit du 6 novembre 1866
+    - quote: L’année 1866 fut marquée par un événement bizarre
+    - quote: Le 13 avril 1867, la mer étant belle
+    - quote: le 2 juillet, on apprit qu’un steamer de la ligne de San-Francisco
+    - quote: cette malencontreuse journée du 6 novembre
+  - Disagreement on the escape: III.16 ¶58 gives 22 June 1867, "quelques jours" after the frigate's sinking (III.16 ¶71); the earlier book gives the sinking as "ce terrible jour du 2 juin", dated 1 June 1868 in the same book, and puts the wandering of the Nautilus after it at "quinze ou vingt jours" before the Maelstrom; it names no date for the escape (VML II.20 ¶52; II.21 ¶72; II.22 ¶9). Hetzel's note says the dates disagree (III.16 n1). Carded neither. *(Drafted.)*
+    - quote: Un jour, le 22 juin 1867, ces trois hommes
+    - quote: Ce terrible jour du 2 juin se levait.
+    - quote: c’est aujourd’hui le 13 prairial, le 1er juin 1868
+    - quote: se prolongea pendant quinze ou vingt jours
+    - quote: sur la discordance de quelques dates
+  - Disagreement on the length of the captivity: III.16 ¶57 gives seven months, and the professor in the earlier book says he crossed twenty thousand leagues "en moins de dix mois" and lived "dix mois de cette existence" (III.16 ¶25, ¶57; VML II.23 ¶4, ¶6). Carded neither. *(Drafted.)*
+    - quote: pendant sept mois, ils purent contempler toutes les merveilles
+    - quote: en moins de dix mois j’ai franchi vingt mille lieues
+    - quote: N’ai-je pas vécu dix mois de cette existence extra-naturelle ?
+  - Disagreement on England: III.16 ¶41 and ¶42 say he would never set foot on English soil, the one country he never wished to enter; the earlier book has him say he studied in London, Paris and New York (III.16 ¶41, ¶42; VML I.13 ¶43). Carded neither. *(Drafted.)*
+    - quote: ne voulut jamais poser le pied sur cette terre par lui maudite
+    - quote: j’ai étudié à Londres, à Paris, à New York, du temps que j’étais un habitant des continents de la terre
+  - Disagreement on the ship he sank: III.16 ¶71 and ¶73 say a frigate, English, which pursued him in the north of the Atlantic, in a narrow and shallow bay; the earlier book has an ironclad two-decker of unnamed nationality, met in the open sea at about 47° 24′ north and 17° 28′ west, which he lets pursue him (III.16 ¶71, ¶73; VML II.21 ¶17, ¶50, ¶55; II.20 ¶52). Carded neither. *(Drafted.)*
+    - quote: une frégate anglaise, monsieur, s’écria le capitaine Nemo
+    - quote: J’étais resserré dans une baie étroite et peu profonde !
+    - quote: un grand vaisseau de guerre, à éperon, un deux-ponts cuirassé
+    - quote: Sa nationalité, du moins, restera un secret pour vous
+    - quote: par 47° 24′ de latitude et 17° 28′ de longitude
+  - Disagreement on the ocean of the coral cemetery: III.16 ¶59 puts it "au fond du Pacifique"; the earlier book has the professor tell of his first outing in the Pacific and then of this one in a different place, "cette portion de l’océan indien" (III.16 ¶59; VML I.24 ¶46, ¶49). Carded neither. *(Drafted.)*
+    - quote: leur cimetière de corail, au fond du Pacifique
+    - quote: ma première excursion sous les eaux de l’Océan Pacifique. Ici
+    - quote: cette portion de l’océan indien
+  - Disagreement on the crew: III.16 ¶51 has the prince gather about twenty faithful companions in the mountains of Bundelkund; the earlier book has some twenty sailors of the Nautilus who "appartenaient évidemment à des nations différentes", Irish, French, some Slavs, a Greek or a Candiote (III.16 ¶51; VML I.18 ¶4). Carded neither. *(Drafted.)*
+    - quote: réunit une vingtaine de ses plus fidèles compagnons
+    - quote: Ces marins appartenaient évidemment à des nations différentes
+    - quote: des Irlandais, des Français, quelques Slaves, un Grec ou un Candiote
+  - His age: III.16 ¶60 says sixty when he was left alone; in the earlier book the professor cannot say whether he is thirty-five or fifty (III.16 ¶60; VML I.8 ¶21). Carded neither. *(Drafted.)*
+    - quote: Le capitaine Nemo avait alors soixante ans.
+    - quote: Ce personnage avait-il trente-cinq ou cinquante ans, je n’aurais pu le préciser.

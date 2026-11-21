@@ -128,7 +128,7 @@ A card for every place named on or off the island, each fact cited to the French
 | [The sulphur spring](sulphur-spring.md) | a warm sulphurous spring at the foot of Mont Franklin |
 | [The Tabor cone](tabor-cone.md) | the hill climbed to survey Tabor Island |
 | [The Tabor dwelling](the-tabor-dwelling.md) | the plank hut found empty on Tabor Island |
-| [Tabor Island](tabor-island.md) | an island where Ayrton was left |
+| [Tabor Island](tabor-island.md) | the islet where Ayrton was left |
 | [The Tabor landing](tabor-landing.md) | the sand beach on Tabor’s east coast where the Bonadventure lies |
 | [The Tabor paths](tabor-paths.md) | the overgrown tracks and old felled trees of Tabor’s woods |
 | [The Tabor plots](tabor-vegetable-plots.md) | the old vegetable beds in Tabor’s clearings |

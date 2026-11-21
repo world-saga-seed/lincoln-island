@@ -9,9 +9,11 @@ A card for every person named in the French, and every person the insert adds, e
 | [The Aleutian hunters](aleutian-hunters.md) | the trappers of Russian America whose whalebone engine Cyrus Smith borrows |
 | [Ayrton](ayrton.md) | man found on Tabor Island, among the colonists |
 | [Bob Harvey](bob-harvey.md) | Ayrton's old accomplice, chief of the Speedy's pirates |
+| [The Candiotes](the-candiotes.md) | the Cretan insurgents whom Nemo aided from the Vigo treasure |
 | [Captain Grant](captain-grant.md) | master of the Britannia, found on Tabor |
 | [Captain Nemo](captain-nemo.md) | Prince Dakkar of Bundelkund, commander of the Nautilus |
 | [Cyrus Smith](cyrus-smith.md) | engineer, leader of the castaways |
+| [The French professor, his servant and a Canadian fisherman](the-french-professor-his-servant-and-a-canadian-fisherman.md) | the three men thrown aboard the Nautilus |
 | [Gédéon Spilett](gedeon-spilett.md) | reporter, colonist |
 | [Harbert](harbert.md) | the boy among the colonists |
 | [John Benett](john-benett.md) | the director of the New-York Herald |

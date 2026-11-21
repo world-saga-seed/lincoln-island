@@ -7,6 +7,13 @@ Keywords: harbour, haven, crypt, cave, entrance, bar, basalt, dock, crypte Dakka
 - **What it is.**
   - It is one of the underwater ports the Nautilus sometimes used as a place of call (III.16 ¶60). *(Drafted.)*
     - quote: un des ports sous-marins qui lui servaient quelquefois de points de relâche
+    - In the earlier book Nemo says that the Nautilus has entered a lagoon at the centre of an extinct volcano by a natural channel ten metres below the surface of the ocean, and calls it "son port d’attache", safe, convenient and mysterious (VML II.10 ¶26). *(Drafted.)*
+      - quote: Au centre même d’un volcan éteint
+      - quote: par un canal naturel ouvert à dix mètres au-dessous de la surface de l’Océan
+      - quote: C’est ici son port d’attache, un port sûr, commode, mystérieux
+    - There the Nautilus floats beside a bank laid out like a quay, in a lake shut in a circle of walls two miles across, under a funnel-shaped vault five or six hundred metres high, with a circular opening at the top (VML II.10 ¶23). *(Drafted.)*
+      - quote: Il flottait auprès d’une berge disposée comme un quai
+      - quote: un lac emprisonné dans un cirque de murailles qui mesurait deux milles de diamètre
   - It is hollowed out beneath Lincoln Island and now shelters the Nautilus (III.16 ¶61). *(Drafted.)*
     - quote: L’un de ces ports était creusé sous l’île Lincoln
   - Its entrance is a crypt (III.16 ¶63). *(Drafted.)*
@@ -101,7 +108,7 @@ Keywords: harbour, haven, crypt, cave, entrance, bar, basalt, dock, crypte Dakka
 - **On the page.**
   - In his diving suit Nemo walked under the water a few cable-lengths from the island's shore (III.16 ¶62). *(Drafted.)*
     - quote: il se promenait sous les eaux, à quelques encâblures du rivage de l’île
-- **Appears in:** III.15, III.16, III.17, III.18, III.19, III.20
+- **Appears in:** III.15, III.16, III.17, III.18, III.19, III.20, VML II.10
 - **Open:**
   - Where the entrance lies on the coast is not stated. How long Nemo has been in the port is given as ‘six years’ in III.16 ¶62; this is set against the dates in the editor's note and is not carded (see the Nautilus card).
     - quote: Depuis six ans, le capitaine était là

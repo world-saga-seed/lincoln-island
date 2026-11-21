@@ -132,6 +132,8 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The flintlock guns](flintlock-guns.md) | the two flint-fired guns of the chest |
 | [The foliage screen](the-foliage-screen.md) | the branches hung over the windows of Granite-house |
 | [The footprints](footprints.md) | the prints of Smith's shoes in the sand |
+| [The frigate Abraham-Lincoln](frigate-abraham-lincoln.md) | the United States frigate that hunted the Nautilus |
+| [The frigate rammed by the Nautilus](the-frigate-rammed-by-the-nautilus.md) | the warship Nemo sank |
 | [The fulgurites](fulgurites.md) | sand fused to glass by the lightning |
 | [The fulling mill](the-fulling-mill.md) | the water-driven stamper for the wool |
 | [The furniture](the-furniture.md) | the tables, chairs, wardrobes and beds of Granite-house |
@@ -160,7 +162,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The hibiscus heterophyllus](hibiscus.md) | a mallow whose fibres make the bowstring |
 | [The horseradish](horseradish.md) | the wild horseradish of the Mercy bank |
 | [The hurdle](hurdle.md) | a woven-branch carrier for the limestone |
-| [The hydraulic lift](the-hydraulic-lift.md) | the lift Smith plans for Granite-house |
+| [The hydraulic lift](the-hydraulic-lift.md) | the water-driven lift of Granite-house |
 | [The hyposulphite of soda](hyposulphite-of-soda.md) | the fixing substance of the photographic outfit |
 | [The iron](iron.md) | forged from the island’s ore by the simplified Catalan method |
 | [The iron dishes](iron-dishes.md) | three dishes of the chest |
@@ -228,7 +230,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The palms](palms.md) | the palms Pencroff looked for in vain in the forest |
 | [Pencroff's jacket](pencroff-jacket.md) | the sailor's jacket used to rub Smith |
 | [Pencroff's matchbox](matchbox.md) | the copper box of matches, lost on landing |
-| [Pencroff's pipe](pencroff-pipe.md) | the sailor's pipe, lost in the fall |
+| [Pencroff's pipe](pencroff-pipe.md) | the sailor's pipe, lost at the landing, and the pipe given him later |
 | [The percussion caps](percussion-caps.md) | twelve boxes of fulminate primers |
 | [The percussion guns](percussion-guns.md) | the two cap guns of the chest |
 | [The photographic apparatus](photographic-apparatus.md) | the boxed camera of the chest |
@@ -376,6 +378,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The unknown’s clothes](the-unknowns-clothes.md) | the scrap of blanket, then the colonists’ clothing |
 | [The unknown’s knife](the-unknowns-knife.md) | the knife with which he kills the jaguar |
 | [The Vigo treasure](vigo-treasure.md) | the sunken wealth Nemo drew on |
+| [Vingt mille Lieues sous les mers](vingt-mille-lieues-sous-les-mers.md) | the book that tells the professor's months aboard the Nautilus |
 | [The volcanic ash](volcanic-ash.md) | the grey dust and pozzolana that fall from the eruption |
 | [The water channel](the-water-channel.md) | the lake water led to Granite-house |
 | [The water jug](water-jug.md) | a jug Nab carried for fresh water |
@@ -385,7 +388,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The wild spinach](wild-spinach.md) | a goosefoot found on the Mercy bank |
 | [The willow bark](willow-bark.md) | the black willow’s bark, powdered to stand for quinine |
 | [The windmill](the-windmill.md) | the wind mill built on the Grande-Vue plateau |
-| [The window glass](window-glass.md) | panes Smith means to make for the facade |
+| [The window glass](window-glass.md) | the panes Smith and Harbert make for Granite-house |
 | [The wooden compass](wooden-compass.md) | Smith's two-armed angle gauge, a stand-in for the sextant |
 | [The writing paper](writing-paper.md) | three reams of white paper of the chest |
 | [The zinc](zinc.md) | the metal of the chest’s lining, spent on the telegraph battery |

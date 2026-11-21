@@ -86,3 +86,4 @@
 | 2026-11-21 | agent, Sonnet: carder w15b (places, things) | phase 4 | 06000 to 06200 | 11020 | the three chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 194,515 | 38 | 8.2 |
 | 2026-11-21 | agent, Sonnet: large-card reviewer, first pass | phase 4 | 21 large cards | — | large-cards.tsv (1,449 lines), the card form | 145,932 | 14 | 2.1 |
 | 2026-11-21 | agent, Sonnet: large-card reviewer, second pass | phase 4 | the 387 marked scene | — | large-cards-2.tsv, the card form | 67,345 | 5 | 0.8 |
+| 2026-11-21 | agent, Sonnet: Vingt mille carder | phase 4 | III.15 to III.17, VML by search | — | the three L'Île chapters, the Nemo and Nautilus cards, VML passages found by search | 297,287 | 55 | 12.4 |

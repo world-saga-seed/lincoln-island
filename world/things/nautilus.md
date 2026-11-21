@@ -7,24 +7,58 @@ Keywords: submarine, underwater boat, undersea, electricity, ram, vessel, Nemo's
 - **What it is.**
   - It is a submarine boat built on the prince's plans, at a yard on a desert island of the Pacific (III.16 ¶53). *(Drafted.)*
     - quote: Une île déserte du Pacifique lui servit à établir ses chantiers, et, là, un bateau sous-marin fut construit sur ses plans
+    - In the earlier book Nemo says he is at once its captain, builder and engineer (VML I.13 ¶39). *(Drafted.)*
+      - quote: j’en suis tout à la fois le capitaine, le constructeur et l’ingénieur
+    - He says each piece reached him from a different point of the globe under a disguised destination: the keel forged at Le Creusot, the engine in Prussia, the ram in the Motala workshops in Sweden (VML I.13 ¶45). *(Drafted.)*
+      - quote: m’est arrivé d’un point différent du globe, et sous une destination déguisée
+      - quote: Sa quille a été forgée au Creusot
+      - quote: sa machine par Krüpp, en Prusse
+      - quote: son éperon dans les ateliers de Motala, en Suède
+    - He says he set up his workshops on a desert islet in mid-ocean, where he and his companions finished the Nautilus, and that fire then destroyed every trace of their passage (VML I.13 ¶47). *(Drafted.)*
+      - quote: j’avais établi mes ateliers sur un îlot désert, en plein Océan
+      - quote: le feu a détruit toute trace de notre passage sur cet îlot
+    - It is a very elongated cylinder with conical ends, in the form of a cigar, seventy metres long and eight metres broad at its widest, with two hulls of steel plate joined by T-irons (VML I.13 ¶2, ¶5, ¶6). *(Drafted.)*
+      - quote: C’est un cylindre très-allongé, à bouts coniques
+      - quote: est exactement de soixante-dix mètres, et son bau, à sa plus grande largeur, est de huit mètres
+      - quote: Le Nautilus se compose de deux coques, l’une intérieure, l’autre extérieure
   - Electricity serves it as motive force, light and heat (III.16 ¶53). *(Drafted.)*
     - quote: force motrice, force éclairante, force calorifique
+    - Nemo tells the professor that electricity gives the Nautilus heat, light, motion, life itself (VML I.12 ¶27). *(Drafted.)*
+      - quote: il produit l’électricité, et l’électricité donne au Nautilus la chaleur, la lumière, le mouvement, la vie en un mot
+    - He says there is no coal to run out, since electricity is its mechanical agent (VML I.13 ¶39). *(Drafted.)*
+      - quote: pas de charbon qui s’épuise, puisque l’électricité est son agent mécanique
   - The prince drew the electricity from inexhaustible sources, by means that will be known one day (III.16 ¶53). *(Drafted.)*
     - quote: par des moyens qui seront connus un jour
+    - In the earlier book he says he draws it from the sea: sodium extracted from sea water, mixed with mercury, replaces the zinc of Bunsen cells; and he extracts the sodium by the heat of "charbon de mer" (VML I.12 ¶19, ¶21, ¶23, ¶25). *(Drafted.)*
+      - quote: c’est ce sodium que j’extrais de l’eau de mer et dont je compose mes éléments
+      - quote: il forme un amalgame qui tient lieu du zinc dans les éléments Bunzen
+      - quote: Disons le charbon de mer, si vous voulez
   - It was named the Nautilus by its builder (III.16 ¶53). *(Drafted.)*
     - quote: Il nomma son appareil sous-marin le Nautilus
   - Its draught is relatively great (III.16 ¶63). *(Drafted.)*
     - quote: dont le tirant d’eau était relativement considérable
+    - Nemo says he planned it to float in balance with nine tenths below water and a tenth only above it (VML I.13 ¶4). *(Drafted.)*
+      - quote: j’ai voulu, qu’en équilibre dans l’eau il plongeât des neuf dixièmes, et qu’il émergeât d’un dixième seulement
   - It has an alphabetical apparatus (III.16 ¶66). *(Drafted.)*
     - quote: qui était muni d’un appareil alphabétique
   - It has a boat (canot) (III.16 ¶58). *(Drafted.)*
     - quote: du canot du Nautilus
+    - In the earlier book Nemo shows the professor an excellent boat, light and unsinkable, which clings to the top of the hull in a cavity made for it, fully decked, watertight and held by strong bolts (VML I.12 ¶40, ¶42). See [the Nautilus's boat](the-nautilus-boat.md). *(Drafted.)*
+      - quote: Une excellente embarcation, légère et insubmersible
+      - quote: Il est entièrement ponté, absolument étanche, et retenu par de solides boulons
   - It rammed a frigate like a battering ram and sank it (III.16 ¶71). *(Drafted.)*
     - quote: s’était précipité comme un bélier sur cette frégate et l’avait coulée sans merci
+    - In the earlier book Nemo says "je vais le couler" of the warship that fires on him, and drives the steel spur through its hull below the waterline, like a needle through sailcloth (VML II.21 ¶46, ¶78, ¶81). See [the frigate rammed](the-frigate-rammed-by-the-nautilus.md). *(Drafted.)*
+      - quote: Monsieur, je vais le couler.
+      - quote: au-dessous de sa ligne de flottaison
+      - quote: passait au travers de la masse du vaisseau comme l’aiguille du voilier à travers la toile
   - It is a long spindle-shaped body floating at the centre of the lake, silent and motionless, like the body of an enormous cetacean, about two hundred and fifty feet long (III.15 ¶132). *(Drafted.)*
     - quote: Au centre du lac, un long objet fusiforme flottait à la surface des eaux, silencieux, immobile
     - quote: semblable au corps d’un énorme cétacé
     - quote: long de deux cent cinquante pieds environ
+    - In the earlier book the professor says the Nautilus has always been taken for a marine animal, and its plates, lightly overlapping, resemble the scales of large reptiles (VML I.14 ¶9). *(Drafted.)*
+      - quote: ce bateau eût toujours été pris pour un animal marin
+      - quote: ressemblaient aux écailles qui revêtent le corps des grands reptiles terrestres
   - Its wonders could not be paid for with millions (III.17 ¶2). *(Drafted.)*
     - quote: que des millions n’eussent pas payées
   - Nemo wishes it to be his only tomb, his coffin (III.17 ¶24). *(Drafted.)*
@@ -35,6 +69,10 @@ Keywords: submarine, underwater boat, undersea, electricity, ram, vessel, Nemo's
     - quote: deux larges robinets qui se trouvent sur la ligne de flottaison
     - quote: L’eau pénétrera dans les réservoirs
     - quote: communication avec les réservoirs destinés à déterminer l’immersion de l’appareil
+    - In the earlier book the water reservoirs lie in the lower parts of the Nautilus; Nemo opens taps, they fill, and the boat sinks to the surface of the water, and with its supplementary reservoirs of a hundred tons it can go down to great depths (VML I.13 ¶8, ¶18). *(Drafted.)*
+      - quote: Ces réservoirs existent en abord dans les parties inférieures du Nautilus
+      - quote: J’ouvre des robinets, ils se remplissent
+      - quote: j’ai des réservoirs supplémentaires capables d’embarquer cent tonneaux
   - The engine room lies at the bow, where electric apparatus gives heat, light and mechanical force (see [the engine room](../places/nautilus-engine-room.md); [the library](../places/nautilus-library.md)) (III.17 ¶40). *(Drafted.)*
     - quote: arrivèrent à l’avant, dans la chambre des machines
     - quote: fournissaient la force mécanique au Nautilus
@@ -49,21 +87,46 @@ Keywords: submarine, underwater boat, undersea, electricity, ram, vessel, Nemo's
     - quote: suffit amplement aux besoins du prince et de son équipage
   - The crew was about twenty men (III.16 ¶51). *(My reading, to confirm.)*
     - quote: une vingtaine de ses plus fidèles compagnons
+    - In the earlier book some twenty sailors of the Nautilus, vigorous and well made, come up on the platform to draw in the nets (VML I.18 ¶4). *(Drafted.)*
+      - quote: une vingtaine de matelots du Nautilus, tous gens vigoureux et bien constitués, étaient montés sur la plate-forme
+    - The crew's quarters are five metres long, and the door is closed, so the professor cannot count the men needed to work the Nautilus (VML I.12 ¶50). *(Drafted.)*
+      - quote: le poste de l’équipage, long de cinq mètres
+      - quote: le nombre d’hommes nécessité par la manœuvre du Nautilus
   - It was taken for a giant cetacean or for a pirate submarine (III.16 ¶56). *(Drafted.)*
     - quote: tantôt pris pour un mammifère géant de la famille des cétacés, tantôt pour un appareil sous-marin renfermant un équipage de pirates
+    - In the earlier book the thing is first called an extraordinary cetacean, then a "submarine" boat of extreme motive power; the professor, brought aboard, fears pirates of a new kind (VML I.1 ¶7; I.2 ¶5; I.8 ¶1). *(Drafted.)*
+      - quote: ce cétacé extraordinaire pouvait se transporter d’un endroit à un autre avec une vélocité surprenante
+      - quote: ceux qui tenaient pour un bateau « sous-marin » d’une extrême puissance motrice
+      - quote: quelques pirates d’une nouvelle espèce
   - Three men were thrown aboard on the night of 6 November 1866 (III.16 ¶55). *(Drafted.)*
     - quote: pendant la nuit du 6 novembre 1866, trois hommes furent jetés à son bord
+    - In the earlier book the professor is thrown into the sea by the shock of the frigate's harpoon at the end of the day of 6 November, finds Conseil and Ned Land, and is taken into the Nautilus at daybreak (VML I.6 ¶95, ¶104; I.7 ¶86, ¶90). See [the three men](../people/the-french-professor-his-servant-and-a-canadian-fisherman.md). *(Drafted.)*
+      - quote: cette malencontreuse journée du 6 novembre
+      - quote: je fus précipité à la mer
+      - quote: nous entraînaient dans leur formidable machine
   - The three were kept prisoners for seven months (III.16 ¶57). *(Drafted.)*
     - quote: pendant sept mois
+    - Nemo tells them they are his prisoners after combat, whom he keeps when he could plunge them back into the abyss (VML I.10 ¶42). *(Drafted.)*
+      - quote: Vous êtes mes prisonniers après combat !
+      - quote: quand je pourrais d’un mot vous replonger dans les abîmes de l’Océan
   - The voyage ran twenty thousand leagues under the seas (III.16 ¶57). *(Drafted.)*
     - quote: un voyage qui se poursuivit pendant vingt mille lieues sous les mers
+    - The professor says that he crossed twenty thousand leagues under the seas and made the underwater tour of the world (VML II.23 ¶4). *(Drafted.)*
+      - quote: j’ai franchi vingt mille lieues
+      - quote: ce tour du monde sous-marin
   - The three escaped on 22 June 1867 in its boat (III.16 ¶58). *(Drafted.)*
     - quote: le 22 juin 1867
+    - In the earlier book the three flee in the Nautilus's boat, and the cry "Maelstrom !" rises as it is about to detach itself from the hull; the boat is flung into the whirlpool (VML II.22 ¶56, ¶61). See [the Maelstrom](../places/maelstrom.md). *(Drafted.)*
+      - quote: « Maelstrom ! Maelstrom ! » s’écriait-il.
+      - quote: le canot, arraché de son alvéole, était lancé comme la pierre d’une fronde au milieu du tourbillon
   - As the crew died the Nautilus emptied and Nemo was left alone in it (III.16 ¶59). *(Drafted.)*
     - quote: Le vide se fit dans le Nautilus
+    - In the earlier book Nemo buries one of his men in the coral cemetery and says they dig the grave and the polyps seal their dead for eternity (VML I.24 ¶59, ¶72). See [the coral cemetery](../places/coral-cemetery.md). *(Drafted.)*
+      - quote: Cette clairière c’était un cimetière, ce trou, une tombe
+      - quote: Nous creusons la tombe, et les polypes se chargent d’y sceller nos morts pour l’éternité !
   - It is now in a port beneath Lincoln Island (III.16 ¶61). *(Drafted.)*
     - quote: celui qui donnait en ce moment asile au Nautilus
-- **Appears in:** III.15, III.16, III.17
+- **Appears in:** III.15, III.16, III.17, VML I.1, VML I.2, VML I.6, VML I.7, VML I.8, VML I.10, VML I.12, VML I.13, VML I.14, VML I.18, VML I.24, VML II.21, VML II.22, VML II.23
 - **Open:**
   - Dates and durations that do not agree. Nemo says he has had no communication with the inhabited world for thirty years; he says the Frenchman was thrown aboard sixteen years ago; the chapter dates that event to 1866; and it says the captain was sixty when he was alone and had been in the island port six years. Card neither reading: the numbers are held here, not carded.
     - quote: Il y a pourtant trente années que je n’ai plus aucune communication avec le monde habité
@@ -72,10 +135,25 @@ Keywords: submarine, underwater boat, undersea, electricity, ram, vessel, Nemo's
     - quote: Depuis six ans, le capitaine était là
   - The editor's own warning on these dates, in his note on the earlier book: the same remark as for Ayrton's adventures.
     - quote: sur la discordance de quelques dates
-  - The chapter refers to the earlier book by its title; nothing from it is drawn on here.
-    - quote: Vingt mille Lieues sous les mers
   - The height above the sea: III.15 ¶132 says the apparatus rises ten to twelve feet; III.17 ¶42 says the platform rises seven or eight feet above the water (see [the platform](../places/nautilus-platform.md)). Card neither. (III.15 ¶132; III.17 ¶42). *(Drafted.)*
     - quote: s’élevait de dix à douze pieds au-dessus du niveau de la mer
     - quote: qui s’élevait de sept ou huit pieds au-dessus de l’eau
   - The thirty years: III.17 ¶9 has Smith say that Nemo has lived thirty years on the Nautilus, a further reading beside the thirty years without communication with the inhabited world in III.16 and the dates given there. (III.17 ¶9). *(Drafted.)*
     - quote: Il y a trente ans qu’il vit sur le Nautilus
+  - Measure of the length: III.15 ¶132 says "long de deux cent cinquante pieds environ"; the earlier book has Nemo give "exactement de soixante-dix mètres", while the professor had earlier reckoned the animal at "deux cent cinquante pieds" (III.15 ¶132; VML I.13 ¶2; I.6 ¶43). Carded neither. *(Drafted.)*
+    - quote: long de deux cent cinquante pieds environ
+    - quote: La longueur de ce cylindre, de tête en tête, est exactement de soixante-dix mètres
+    - quote: j’estimai sa longueur à deux cent cinquante pieds seulement
+  - The height above the water: the earlier book has the platform emerge "de quatre-vingts centimètres seulement" (VML I.14 ¶9), beside III.15 ¶132 and III.17 ¶42 above. Carded none (see [the platform](../places/nautilus-platform.md)). *(Drafted.)*
+    - quote: La plate-forme émergeait de quatre-vingts centimètres seulement
+  - Where the engine room lies: III.17 ¶40 has the colonists come "à l’avant, dans la chambre des machines"; the earlier book divides the front part (dining room, library, saloon, captain's room, the professor's room, air tank "jusqu’à l’étrave") and then goes "à l’arrière" past the galley and crew quarters to the engine room (III.17 ¶40; VML I.12 ¶35, ¶36, ¶51). Carded neither (see [the engine room](../places/nautilus-engine-room.md)). *(Drafted.)*
+    - quote: arrivèrent à l’avant, dans la chambre des machines
+    - quote: nous visiterons l’arrière du Nautilus
+    - quote: et enfin un réservoir d’air de sept mètres cinquante, qui s’étendait jusqu’à l’étrave
+    - quote: Au fond s’élevait une quatrième cloison étanche qui séparait ce poste de la chambre des machines
+  - The crew: III.16 ¶51 has the prince gather companions in the mountains of Bundelkund; the earlier book names the sailors as of different nations, "des Irlandais, des Français, quelques Slaves, un Grec ou un Candiote" (VML I.18 ¶4). Carded neither. *(Drafted.)*
+    - quote: réunit une vingtaine de ses plus fidèles compagnons
+    - quote: des Irlandais, des Français, quelques Slaves, un Grec ou un Candiote
+  - The dates and durations of III.16 are set beside the earlier book's on the card of [Captain Nemo](../people/captain-nemo.md): the year of 6 November, the date of the escape, seven months against ten. Carded neither. *(Drafted.)*
+    - quote: pendant la nuit du 6 novembre 1866
+    - quote: en moins de dix mois j’ai franchi vingt mille lieues

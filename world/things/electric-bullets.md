@@ -14,5 +14,5 @@ Keywords: balles électriques, ammunition, firearm, weapon, convicts
     - quote: frappa les convicts de ces balles électriques
 - **Appears in:** III.13, III.16
 - **Open:**
-  - The text does not say what the bullets are made of or how they are fired.
+  - *L'Île* does not say what the bullets are made of or how they are fired; *Vingt mille* does, carded on [Captain Nemo](../people/captain-nemo.md) (VML I.15 ¶81, ¶83). *(Drafted.)*
     - quote: dont il avait le secret

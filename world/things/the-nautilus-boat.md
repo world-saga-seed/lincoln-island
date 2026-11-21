@@ -12,6 +12,10 @@ Keywords: canot, boat, tôle boulonnée, sheet iron, aviron, oars, gouvernail, N
   - It is made of bolted sheet iron, and two oars lie in the bottom under the benches (III.15 ¶112). *(Drafted.)*
     - quote: Ce canot était fait en tôle boulonnée
     - quote: Deux avirons étaient au fond, sous les bancs
+    - In the earlier book the Nautilus's boat is light and unsinkable, fully decked, watertight, held by strong bolts to the hull, with a mast, a sail and oars (VML I.12 ¶40, ¶42). See [the Nautilus](nautilus.md). *(Drafted.)*
+      - quote: Une excellente embarcation, légère et insubmersible
+      - quote: Il est entièrement ponté, absolument étanche, et retenu par de solides boulons
+      - quote: je mâte, je hisse ma voile ou je prends mes avirons
   - It has a rudder, and carries the six colonists, two at the oars, Pencroff at the helm and Smith in the bow with the lantern on the stem (III.15 ¶114). *(Drafted.)*
     - quote: Pencroff au gouvernail
     - quote: le fanal posé sur l’étrave
@@ -29,7 +33,11 @@ Keywords: canot, boat, tôle boulonnée, sheet iron, aviron, oars, gouvernail, N
     - quote: abritée sous la voussure de l’arcade
     - quote: il saisit les deux avirons
     - quote: Cyrus Smith prit la barre
-- **Appears in:** III.15, III.17, III.18
+- **Appears in:** III.15, III.17, III.18, VML I.12
 - **Open:**
   - The text does not say whose boat it is or how it came to float at the cave’s mouth; Nemo’s words in III.17 ¶32 treat it as the one that brought them. Whether it is the Nautilus’s canot of III.16 ¶58 is not said (see [the Nautilus](nautilus.md)). (III.17 ¶32). *(Drafted.)*
     - quote: le canot qui vous a amenés
+  - The Nautilus's boat of the earlier book is "entièrement ponté", entered by a man-hole through the hull, and the earlier book has it carry the three in the escape (VML I.12 ¶42; II.22 ¶22); the boat of III.15 ¶112 has benches. Whether they are one boat is not said (see III.16 ¶58). Carded neither. *(Drafted.)*
+    - quote: Deux avirons étaient au fond, sous les bancs
+    - quote: Il est entièrement ponté, absolument étanche
+    - quote: vingt milles à faire dans cette légère embarcation du Nautilus

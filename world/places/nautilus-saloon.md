@@ -13,29 +13,53 @@ Keywords: salon, room, divan, cushions, hall, electric air
     - quote: retombant sur les oreillers du divan
   - A vast saloon, a sort of museum, heaped with all the treasures of mineral nature, works of art and wonders of industry (III.15 ¶144). *(Drafted.)*
     - quote: Un vaste salon, sorte de musée où étaient entassées, avec tous les trésors de la nature minérale, des œuvres de l’art, des merveilles de l’industrie
+    - In the earlier book it is a vast quadrilateral with cut corners, ten metres long, six wide and five high, and truly a museum in which an intelligent and prodigal hand has gathered all the treasures of nature and art (VML I.11 ¶22). *(Drafted.)*
+      - quote: C’était un vaste quadrilatère, à pans coupés, long de dix mètres, large de six, haut de cinq
+      - quote: c’était réellement un musée dans lequel une main intelligente et prodigue avait réuni tous les trésors de la nature et de l’art
   - Nemo lies on a rich divan (III.15 ¶145). *(Drafted.)*
     - quote: Étendu sur un riche divan
   - Paintings hang on splendid tapestries, masterpieces of the Italian, Flemish, French and Spanish masters, and marble and bronze reductions stand on pedestals (III.17 ¶13). *(Drafted.)*
     - quote: les tableaux accrochés aux splendides tapisseries des parois, ces chefs-d’œuvre des maîtres italiens, flamands, français et espagnols
     - quote: les réductions de marbre et de bronze qui se dressaient sur leurs piédestaux
+    - In the earlier book some thirty master paintings in uniform frames hang between gleaming panoplies on walls hung with tapestries, among them a Raphael Madonna, a Murillo, a Velázquez and a Rubens, with admirable reductions of marble or bronze statues standing on pedestals in the corners (VML I.11 ¶23). *(Drafted.)*
+      - quote: Une trentaine de tableaux de maîtres, à cadres uniformes
+      - quote: une madone de Raphaël
+      - quote: quelques admirables réductions de statues de marbre ou de bronze
   - A magnificent organ is set against the aft bulkhead (III.17 ¶13). *(Drafted.)*
     - quote: l’orgue magnifique adossé à la cloison d’arrière
+    - In the earlier book scores of Weber, Rossini, Mozart, Beethoven and others lie on a large piano-organ that occupies one of the saloon's panels (VML I.11 ¶27). *(Drafted.)*
+      - quote: un piano-orgue de grand modèle qui occupait un des panneaux du salon
   - Showcases stand around a central basin in which the most admirable products of the sea flower: marine plants, zoophytes and strings of pearls of priceless value (III.17 ¶13). *(Drafted.)*
     - quote: les vitrines disposées autour d’une vasque centrale
     - quote: chapelets de perles d’une inappréciable valeur
+    - In the earlier book a jet of water, electrically lit, falls in the middle of the saloon into a basin made of a single giant clam, and the most precious products of the sea are classed under elegant show-cases around it (VML I.11 ¶31, ¶32). *(Drafted.)*
+      - quote: un jet d’eau, électriquement éclairé, retombait dans une vasque faite d’une seule tridacne
+      - quote: sous d’élégantes vitrines fixées par des armatures de cuivre
+    - Strings of pearls of the greatest beauty are laid out in special compartments, which the electric light pricks with points of fire (VML I.11 ¶35). *(Drafted.)*
+      - quote: des chapelets de perles de la plus grande beauté, que la lumière électrique piquait de pointes de feu
   - The motto of the Nautilus is inscribed on the pediment of this museum (see [the motto](../things/mobilis-in-mobili.md)) (III.17 ¶13, ln1). *(Drafted.)*
     - quote: cette devise inscrite au fronton de ce musée, la devise du Nautilus
     - quote: Mobilis in mobili
+    - In the earlier book the motto is read on the table service and on a chest lid, not on a pediment (VML I.8 ¶59, ¶60; II.6 ¶79). See [the motto](../things/mobilis-in-mobili.md). *(Drafted.)*
+      - quote: portait une lettre entourée d’une devise en exergue
+      - quote: le chiffre du Nautilus, avec sa devise Mobilis in mobile
   - Its light comes from electric rays sifted through the arabesques of a luminous ceiling (see [the Nautilus’s light](../things/the-nautilus-light.md)) (III.17 ¶13). *(Drafted.)*
     - quote: éclairé par les rayons électriques que tamisaient les arabesques d’un plafond lumineux
+    - In the earlier book a luminous ceiling, decorated with light arabesques, distributes a clear and soft daylight over all the wonders heaped in the museum (VML I.11 ¶22). *(Drafted.)*
+      - quote: Un plafond lumineux, décoré de légères arabesques, distribuait un jour clair et doux
   - The colonists close its door carefully on leaving it, the saloon still flooded with light (III.17 ¶87). *(Drafted.)*
     - quote: Le merveilleux salon, toujours inondé de lumière, avait été fermé soigneusement
   - It lies aboard the Nautilus, at the far end of the library behind a wide door, and the Nautilus lies in the cave under the island (see [the library](nautilus-library.md); [the Nautilus’s port](crypte-dakkar.md)) (III.15 ¶143, ¶144). *(Drafted.)*
     - quote: Au fond de la bibliothèque, une large porte, fermée également, fut ouverte par l’ingénieur
     - quote: Un vaste salon, sorte de musée
+    - In the earlier book Nemo opens a door facing the one by which the professor entered the library, and the professor passes into an immense and splendidly lit saloon (VML I.11 ¶21). *(Drafted.)*
+      - quote: ouvrit une porte qui faisait face à celle par laquelle j’étais entré dans la bibliothèque
+      - quote: je passai dans un salon immense et splendidement éclairé
+    - The saloon is ten metres long and is set after the library, between it and the captain's room, a watertight bulkhead dividing it from his room (VML I.12 ¶36). *(Drafted.)*
+      - quote: le grand salon de dix mètres, séparé de la chambre du capitaine par une seconde cloison étanche
 - **On the page.**
   - The colonists Ayrton, Pencroff, Harbert and Nab stand respectfully aside in a corner of it (III.16 ¶8). *(Drafted.)*
     - quote: dans un angle de ce magnifique salon
   - Nemo signs to the engineer and the reporter to sit (III.16 ¶9). *(Drafted.)*
     - quote: d’un signe il pria l’ingénieur et le reporter de s’asseoir
-- **Appears in:** III.15, III.16, III.17
+- **Appears in:** III.15, III.16, III.17, VML I.8, VML I.11, VML I.12, VML II.6

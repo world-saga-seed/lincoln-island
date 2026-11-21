@@ -1,0 +1,71 @@
+# The French professor, his servant and a Canadian fisherman: the three men thrown aboard the Nautilus
+
+*The three prisoners of Nemo, a French professor, his servant and a Canadian fisherman, whose seven months aboard became a published book.*
+
+Keywords: Aronnax, Conseil, Ned Land, professor, servant, harpooner, Canadian, prisoners, castaways, Nautilus, Vingt mille Lieues sous les mers, Maelstrom, Lofoten
+
+- **What it is.**
+  - On the night of 6 November 1866 three men were thrown aboard the Nautilus: a French professor, his servant and a Canadian fisherman (III.16 ¶55). *(Drafted.)*
+    - quote: pendant la nuit du 6 novembre 1866, trois hommes furent jetés à son bord. C’étaient un professeur français, son domestique et un pêcheur canadien
+    - In the earlier book the professor is Pierre Aronnax, assistant professor at the Muséum d’histoire naturelle of Paris (VML I.2 ¶1, ¶11). *(Drafted.)*
+      - quote: En ma qualité de professeur-suppléant au Muséum d’histoire naturelle de Paris
+      - quote: l’honorable Pierre Aronnax, professeur au Muséum de Paris
+    - His servant is Conseil, a devoted Fleming (VML I.3 ¶6). *(Drafted.)*
+      - quote: Conseil était mon domestique
+      - quote: un brave Flamand que j’aimais et qui me le rendait bien
+    - The Canadian is Ned Land, a harpooner aboard the frigate, whose family, of Quebec, formed a tribe of bold fishermen (VML I.4 ¶7, ¶10; I.10 ¶5). *(Drafted.)*
+      - quote: Ned Land était un Canadien
+      - quote: La famille du harponneur était originaire de Québec, et formait déjà une tribu de hardis pêcheurs
+      - quote: Ned Land, d’origine canadienne, harponneur à bord de la frégate l’Abraham-Lincoln
+  - They had been hurled into the sea by a shock between the Nautilus and the United States frigate "Abraham-Lincoln", which hunted it (III.16 ¶55). *(Drafted.)*
+    - quote: Ces trois hommes avaient été précipités à la mer, dans un choc qui s’était produit entre le Nautilus et la frégate des États-Unis l’Abraham-Lincoln
+    - In the earlier book the professor is flung over the rail into the sea by the frightful shock; Ned Land is flung into it as well, and gains a footing on the back of the Nautilus, which he takes for the giant narwhal (VML I.6 ¶104; I.7 ¶57, ¶58, ¶60). See [the frigate](../things/frigate-abraham-lincoln.md). *(Drafted.)*
+      - quote: je fus précipité à la mer
+      - quote: Vous avez été précipité à la mer au choc de la frégate ?
+      - quote: sur notre narwal gigantesque
+  - The professor told Nemo that the Nautilus was hunted on all seas (III.16 ¶56). *(Drafted.)*
+    - quote: était poursuivi sur toutes les mers
+    - In the earlier book the professor tells him that accidents caused by the shock of his apparatus have stirred public opinion on both continents (VML I.10 ¶12). *(Drafted.)*
+      - quote: divers accidents, provoqués par le choc de votre appareil sous-marin, ont ému l’opinion publique dans les deux continents
+  - Nemo kept them prisoners, though he could have returned them to the ocean, and for seven months they saw all the wonders of a voyage of twenty thousand leagues under the seas (III.16 ¶57). *(Drafted.)*
+    - quote: il les garda prisonniers, et, pendant sept mois, ils purent contempler toutes les merveilles d’un voyage qui se poursuivit pendant vingt mille lieues sous les mers
+    - In the earlier book he tells them they will stay aboard, since fate has thrown them there, and that they are his prisoners after combat (VML I.10 ¶24, ¶42). *(Drafted.)*
+      - quote: Vous resterez à mon bord, puisque la fatalité vous y a jetés
+      - quote: Vous êtes mes prisonniers après combat !
+  - They knew nothing of Nemo's past (III.16 ¶58). *(Drafted.)*
+    - quote: ces trois hommes, qui ne savaient rien du passé du capitaine Nemo
+    - In the earlier book the professor wonders to what nation the strange man belongs, who boasts of belonging to none (VML I.14 ¶24). *(Drafted.)*
+      - quote: Saurais-je jamais à quelle nation appartenait cet homme étrange qui se vantait de n’appartenir à aucune ?
+  - They witnessed a grave incident, which the professor must have told in his book and whose echo must have been terrible: the Nautilus ramming and sinking a frigate (III.16 ¶70, ¶71). *(Drafted.)*
+    - quote: dont les trois étrangers jetés à son bord avaient été témoins
+    - In the earlier book Nemo sends the professor and his companions below, and the professor sees the broken hull sink within ten metres of him (VML II.21 ¶44, ¶84). See [the frigate rammed](../things/the-frigate-rammed-by-the-nautilus.md). *(Drafted.)*
+      - quote: Descendez, me dit-il d’un ton bref, descendez, vous et vos compagnons
+      - quote: je vis cette coque entr’ouverte, où l’eau s’enfonçait avec un bruit de tonnerre
+  - On 22 June 1867 they escaped after seizing the Nautilus's boat, and Nemo, with the Nautilus drawn into the Maelstrom, had to believe them drowned (III.16 ¶58). *(Drafted.)*
+    - quote: s’être emparés du canot du Nautilus
+    - quote: le capitaine dut croire que les fugitifs, noyés dans ces effroyables remous
+    - In the earlier book Ned Land bolts the opening in the hull with a wrench he has brought, and the boat, torn from its socket, is flung into the whirlpool (VML II.22 ¶52, ¶61). *(Drafted.)*
+      - quote: fermé et boulonné au moyen d’une clef anglaise dont Ned Land s’était muni
+      - quote: le canot, arraché de son alvéole, était lancé comme la pierre d’une fronde au milieu du tourbillon
+  - They were miraculously cast ashore and taken in by fishermen of the Lofoten islands; the professor, back in France, published the book in which seven months of the Nautilus's voyage were told (III.16 ¶58). See [the book](../things/vingt-mille-lieues-sous-les-mers.md). *(Drafted.)*
+    - quote: eussent été miraculeusement rejetés à la côte, que des pêcheurs des îles Loffoden les avaient recueillis
+    - In the earlier book the professor comes to himself in a fisherman's hut of the Lofoten islands, his two companions safe beside him (VML II.23 ¶1). *(Drafted.)*
+      - quote: j’étais couché dans la cabane d’un pêcheur des îles Loffoden
+      - quote: Mes deux compagnons, sains et saufs étaient près de moi
+  - Nemo asks whether the Frenchman and his two companions did not perish in the Maelstrom, and Smith answers that they did not (III.16 ¶23, ¶24). *(Drafted.)*
+    - quote: Cet homme et ses deux compagnons n’ont donc pas péri dans le Maëlstrom
+    - quote: Ils n’ont pas péri
+- **Appears in:** III.16, VML I.2, VML I.3, VML I.4, VML I.6, VML I.7, VML I.10, VML I.14, VML II.21, VML II.22, VML II.23
+- **Open:**
+  - Whether all three were hurled into the sea by the shock: III.16 ¶55 says so of the three; the earlier book has Conseil say he was not, but followed his master of his own will (III.16 ¶55; VML I.7 ¶14, ¶15). Carded neither. *(Drafted.)*
+    - quote: Ces trois hommes avaient été précipités à la mer
+    - quote: Nullement. Mais étant au service de monsieur, j’ai suivi monsieur !
+  - Whether they came aboard in the night: III.16 ¶55 has them thrown aboard "pendant la nuit"; the earlier book has them cling all night to the hull and be drawn in when day broke (III.16 ¶55; VML I.7 ¶84, ¶86, ¶90). Carded neither. *(Drafted.)*
+    - quote: pendant la nuit du 6 novembre 1866, trois hommes furent jetés à son bord
+    - quote: Enfin cette longue nuit s’écoula.
+    - quote: Le jour parut.
+  - The year of the night, the date of the escape and seven months against ten are set out on the card of [Captain Nemo](captain-nemo.md). Carded neither. *(Drafted.)*
+    - quote: pendant sept mois
+    - quote: en moins de dix mois j’ai franchi vingt mille lieues
+  - Hetzel's note says the dates of the history of Captain Nemo disagree with those of the earlier book (III.16 n1). *(Drafted.)*
+    - quote: sur la discordance de quelques dates

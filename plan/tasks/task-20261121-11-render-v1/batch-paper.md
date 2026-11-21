@@ -97,3 +97,24 @@ Calibrated 5 of 5 (`cal/plants-01900-lost.md`). The clean run is running.
   - Each fixed phrase is gone ("men have been here", "telescope eyes", "surprise worth the keeping", "dry-shod", "besides, it was the truth", "were to finish"), and each new one is present.
   - There is no Nemo, Nautilus, MOBILIS or N, no contraction in narration, and spelling.py and the banned list are both 0.
 - **One join to watch:** under fix 5 the reviser joined "He did not." into "…by the fire, but he did not." That plain one-line beat was R1121-95's kind of sentence. It is put to the author.
+
+### 02000, draft 2
+
+- **Reviser:** a fresh Opus agent, `prompt-reviser-02000.md`, 2026-11-21, 62,500 tokens. Fixes: three spellings, "an acidulated drink", and four knots split at semicolons joining main clauses, each where the French has ";" or ", et". Inventions: none.
+- **The main session's re-check:**
+  - spelling.py 0; banned 0; lengths.py 68 to 68 (¶42 low, as in draft 1); every line of dialogue identical to the snapshot.
+  - tells.py: `and/s` 0.43 to 0.42, `long%` 35 to 31, knots 5 to 1.
+
+## Triplets (R1121-117)
+
+`triplets.py` counts series of three short items (one to four words each, the last two joined by and/or) in the narration, against the aligned French. A series the French paragraph also has is Verne's list; one beyond the French count is for rhythm, or the render's own. Speech is left out.
+
+| Text | Narration words | Series not in the French | Per 1,000 |
+|---|---|---|---|
+| White XIX | 2,154 | 1 ("Neb was courage, zeal, and self-denial in person") | 0.46 |
+| White XX | 1,598 | 1 real ("This spot was cleared, weeded, and even dug"), plus 1 false match ("somehow or other") | 0.63 |
+| 01900 draft 2 | 2,945 | 0 | 0.00 |
+| 02000 draft 2 | 2,053 | 1 ("The spot was cleared, carefully weeded, and even dug over"), but it is the French's: "nettoyé, sarclé avec soin, fouillé même" (¶67), with no "et", which the matcher misses | 0.00 |
+| 01950 draft 2 (no French; against White's rate) | 2,275 | 1 ("dead and empty", within "a crust of grey-white shells, dead and empty") | 0.44 |
+
+**Result:** none of ours runs over White's rate. The one in 02000 is Verne's. 01950's 0.44 is at White's XIX rate, and its one series is the settled detail of the shells (gap item 4). **No flags.**

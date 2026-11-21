@@ -1,6 +1,6 @@
 # Tools
 
-Nineteen small Python scripts. Standard library only (Python 3.8 or later), no paths written into them, everything set by arguments. Four of them (`sounds.py`, `refrains.py`, `scale.py` and the banned-word scan in `tells.py`) read the page through `context.py`, the shared reader and pattern matcher, so keep it in the same folder as they are; a fix to how a chapter is read, split into sentences or searched is made there once. They come with the clone, in `tools/`; run each from the book's top folder. Every script answers `--help`.
+Twenty-three small Python scripts. Standard library only (Python 3.8 or later), no paths written into them, everything set by arguments. Four of them (`sounds.py`, `refrains.py`, `scale.py` and the banned-word scan in `tells.py`) read the page through `context.py`, the shared reader and pattern matcher, so keep it in the same folder as they are; a fix to how a chapter is read, split into sentences or searched is made there once. They come with the clone, in `tools/`; run each from the book's top folder. Every script answers `--help`.
 
 They give the method its mechanical checks: verdicts nobody argues with, under every judgment a critic or reader makes. **Try each one on a case it must catch before you trust a clean result from it** (a planted broken link, a planted banned word).
 
@@ -19,6 +19,7 @@ They come in three levels. Start with the basic ones; add the refinement checks 
 | `reading.py` | one chapter's reading list: its outline's and notes' links resolved to files and line ranges, the cards and sheets it names, the chapter before, the digest | `python3 tools/reading.py 00400 --step facts --digest story/volume/1-digest.md` |
 | `quotes.py` | checks that every quote in a report is really in the text it quotes | `python3 tools/quotes.py findings.md --in story/prose/00400-*.md` |
 | `epub.py` | builds an EPUB of chosen chapters, each paragraph tagged with its source line | `python3 tools/epub.py --title "Volume 1" --out build/v1.epub story/prose/00*.md` |
+| `tokens.py` | a session's token totals (input, cache written, cache read, output; by model; the agents inside it apart) from its Claude Code transcript, as a row for the token log; a call written as several lines counted once | `python3 tools/tokens.py ~/.claude/projects/BOOK/SESSION.jsonl --step "session close" --log plan/tokens.md --append` |
 | `check_clean.py` | checks that a book cloned from the kit has nothing left of the example: no `example/`, no name from it, no link into it | `python3 tools/check_clean.py` |
 
 ### Refinement
@@ -135,4 +136,5 @@ Each script was run on the kit's `example/` folder:
 - `attribution.py` on a two-head draft with a paragraph planted in the wrong head's voice: 15 paragraphs, 10 and 5, the planted one among them, the key holding each line and head. A cold reader given the file put all 15 in the right head and named the planted one as wrong for its head.
 - `knowledge.py` on the example's guard at 00100, 00500 and 00600: 6, 8 and 6 entries, the right ones; at 00500 the belief and the not-known that end there marked as turning.
 - `markup.py` on the example's 00400 with four planted finds: 20 items listed (8 keyframe sources, 12 assisted); three finds placed with their colours, the planted one with words not on the page dropped and listed.
+- `tokens.py` on a planted transcript of five lines (one call written twice, one agent call, one call later, one line not JSON): 3 calls, the doubled one once, the agent's summed apart, the bad line reported and skipped; `--until` before the last call keeps 2, a `--since` with no zone read as local keeps 1, a `--since` after them all exits 1; `--append` adds one row under the template's header.
 - `epub.py`: a numbered build with one drafted chapter and one placeholder, and a file-list build with `--kepub`; every XML part parsed as well-formed.

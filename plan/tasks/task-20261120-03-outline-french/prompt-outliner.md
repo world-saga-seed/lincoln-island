@@ -1,6 +1,6 @@
 # The outliner's prompt (scene-outlines, prompt D, adapted)
 
-*Revised after wave 1: a quote line holds only the quote, with a note's or plate's citation on an "at:" line below (agent d wrote "(I.8 pl1)" inside the quote); the report is returned as the final message, since the harness refused agent c's write of report-c.md.*
+*Revised after wave 3: each agent has a scratch folder of its own (g's script was overwritten by h's in the shared one). Revised after wave 1: a quote line holds only the quote, with a note's or plate's citation on an "at:" line below (agent d wrote "(I.8 pl1)" inside the quote); the report is returned as the final message, since the harness refused agent c's write of report-c.md.*
 
 *Filled in for each agent: {SPAN} (e.g. "00100 and 00200"), {CHAPTERS} (one line each: number, citation prefix, working-text file), {AGENT} (a, b ...), {BEFORE} (the last beat of the chapter before the span, or "none").*
 
@@ -17,6 +17,8 @@ READ ONLY these files:
 - plan/templates/chapter-outline.md
 - texts/README.md (how the text is laid out and cited; the Wikisource corrections and what the print reads)
 - your chapters' working texts, listed above, each in full.
+
+SCRATCH. Any script or scratch file you make goes in <scratchpad>/agent-{AGENT}/ and nowhere else; another agent works beside you.
 
 WRITE ONLY, for each of your chapters NNNNN:
 - story/outline/NNNNN-slug.md

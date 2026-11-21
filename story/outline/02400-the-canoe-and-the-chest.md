@@ -1,0 +1,190 @@
+# The canoe and the chest (outline)
+
+*Chapter 02400: the French II.2 (`texts/fr-1875/24.md`). Before: 02300. After: 02500. Third person, past tense; Verne's narrator. Every beat is marked (Drafted.): it is what the French holds.*
+
+## Outline
+
+### 1. The canoe is finished and launched (II.2 ¶1–¶8)
+
+- On 29 October the bark canoe is finished; Pencroff has kept his promise. *(Drafted.)*
+  - quote: Le 29 octobre, le canot d’écorce était entièrement achevé
+- It was built in five days, its hull framed with flexible rods of crejimba. *(Drafted.)*
+  - quote: avait été construite en cinq jours
+- Three benches, a gunwale for the pins of two oars, and a stern scull; twelve feet long, under two hundred pounds. *(Drafted.)*
+  - quote: longue de douze pieds, et qui ne pesait pas deux cents livres
+- It is launched on the sand before Granite-house, lifted by the rising tide; Pencroff sculls it and finds it fit for use. *(Drafted.)*
+  - quote: le flot montant la souleva
+- Pencroff boasts it could go round the island, with ballast, a mast and a sail that Cyrus Smith will make one day, and asks whether it will carry all five. *(Drafted.)*
+  - quote: un bout de voile que M. Smith nous fabriquera un jour
+- It is agreed to try it that same day along the shore, as far as the first point where the southern rocks end. *(Drafted.)*
+  - quote: ferait, ce jour même, l’essai de la pirogue
+- Nab remarks that it leaks; Pencroff says the wood must swell and in two days it will be dry. *(Drafted.)*
+  - quote: Dans deux jours il n’y paraîtra plus
+
+### 2. Down the coast in the canoe (II.2 ¶9–¶17)
+
+- The weather is fine and the sea calm. Nab and Harbert take the oars; Pencroff sculls from the stern. *(Drafted.)*
+  - quote: Le temps était magnifique, la mer calme
+- They cross the channel and pass the south point of the islet; a light south breeze, no swell, the canoe heavily loaded. *(Drafted.)*
+  - quote: Une légère brise soufflait du sud
+- They stand off about half a mile to see the whole of Mount Franklin. *(Drafted.)*
+  - quote: On s’éloigna environ d’un demi-mille de la côte
+- Pencroff turns back and follows the shore; the point is about three miles from the Mercy, and the colonists decide to go to its end and only a little beyond, to glimpse the coast as far as Cape Claw. *(Drafted.)*
+  - quote: était environ à trois milles de la Mercy
+- They keep within two cables of the shore, avoiding reefs that the rising tide is beginning to cover. *(Drafted.)*
+  - quote: que la marée montante commençait à couvrir
+- The point is a savage heap of granite with no vegetation, jutting two miles ahead of the forest, like a giant's arm from a sleeve of green. *(Drafted.)*
+  - quote: qui se prolongeait à deux milles en avant de la forêt
+- Gédéon Spilett sketches the coast; as the canoe goes south the two Mandible capes seem to close Union Bay. *(Drafted.)*
+  - quote: dessinait la côte à grands traits
+- Cyrus Smith is silent and watches, with a look of distrust, as if he were observing some strange country. *(Drafted.)*
+  - quote: il semblait toujours qu’il observât quelque contrée étrange
+- After three-quarters of an hour they are almost at the end of the point, and Harbert points out a black spot. *(Drafted.)*
+  - quote: après trois quarts d’heure de navigation
+
+### 3. Barrels on the shore (II.2 ¶18–¶26)
+
+- The reporter says it looks like a wreck half sunk in the sand. *(Drafted.)*
+  - quote: une épave à demi enfoncée dans le sable
+- Pencroff sees barrels that may be full. *(Drafted.)*
+  - quote: Des barils, des barils, qui peuvent être pleins
+- Cyrus Smith orders them to land; the canoe puts in at a small cove. *(Drafted.)*
+  - quote: Au rivage, Pencroff !
+- Two barrels half buried in the sand are lashed to a large chest, which they kept afloat until it grounded. *(Drafted.)*
+  - quote: Deux barils étaient là, à demi enfoncés dans le sable
+
+### 4. The engineer stays Pencroff's hand (II.2 ¶27–¶35)
+
+- Harbert asks whether there has been a wreck near the island; Spilett says plainly yes. *(Drafted.)*
+  - quote: Il y a donc eu un naufrage dans les parages de l’île
+- Pencroff, with a heavy stone, is about to smash the chest; Cyrus Smith asks whether he can restrain his impatience for one hour. *(Drafted.)*
+  - quote: pouvez-vous modérer votre impatience pendant une heure seulement
+- Cyrus Smith's plan: carry it to Granite-house, open it there without breaking it, and float it to the river mouth as it floated here. *(Drafted.)*
+  - quote: Transportons-la à Granite-house
+- Pencroff admits he was wrong. *(Drafted.)*
+  - quote: j’avais tort
+- The narrator: the chest must be heavy, since it needed lightening by two empty barrels; better to tow it. *(Drafted.)*
+  - quote: il avait fallu la « soulager » au moyen de deux barils vides
+
+### 5. Where did it come from? (II.2 ¶36–¶41)
+
+- They search the shore for several hundred paces and watch the sea from a high rock: no other debris, no ship, an empty horizon. *(Drafted.)*
+  - quote: Nul autre débris ne leur apparut
+- A wreck is certain; perhaps it ties to the lead-shot incident; strangers may have landed elsewhere and may still be on the island. *(Drafted.)*
+  - quote: Peut-être même cet incident se rattachait-il à l’incident du grain de plomb ?
+- They reckon the strangers cannot be Malay pirates, since the wreckage is American or European in origin. *(Drafted.)*
+  - quote: ces étrangers ne pouvaient être des pirates malais
+- The chest is five feet by three, of oak, covered in a thick skin held by copper nails; the two big casks are sealed and empty, tied with knots Pencroff knows for sailors' knots. *(Drafted.)*
+  - quote: qui mesurait cinq pieds de long sur trois de large
+- It is in perfect condition; its time at sea was short and its arrival on the shore recent; no water seems to have got in. *(Drafted.)*
+  - quote: son arrivée sur ce rivage était récente
+- Reading of the colonists: thrown overboard from a disabled ship making for the island, by passengers who lightened it with a floating apparatus in the hope of finding it later. *(Drafted.)*
+  - quote: jetée par-dessus le bord d’un navire désemparé
+- Cyrus Smith will tow it to Granite-house and inventory it; any survivors found will get it back; Pencroff says if no one is found they will keep it. *(Drafted.)*
+  - quote: nous la remettrons à ceux auxquels elle appartient
+  - quote: Nous la garderons pour nous
+
+### 6. The tow and the Flotson-point (II.2 ¶42)
+
+- The tide reaches the chest; one of the barrel ropes serves as a towline to the canoe; Pencroff and Nab dig the sand with the oars to free it. *(Drafted.)*
+  - quote: servit d’amarre pour lier l’appareil flottant au canot
+- The point is named Flotson-point. *(Drafted.)*
+  - quote: à laquelle fut donné le nom de pointe de l’Épave (Flotson-point)
+- The tow is heavy and Pencroff fears the chest will sink; they reach the shore before Granite-house an hour and a half after setting out, three miles. *(Drafted.)*
+  - quote: une heure et demie après son départ
+
+### 7. Opening the chest and the inventory (II.2 ¶43–¶53)
+
+- Canoe and chest are hauled up on the sand and are soon dry as the sea withdraws. *(Drafted.)*
+  - quote: comme la mer se retirait déjà
+- Nab fetches tools to force it with the least damage; Pencroff does not hide that he is very moved. *(Drafted.)*
+  - quote: Pencroff ne chercha point à cacher qu’il était extrêmement ému
+- The barrels are detached and kept; the locks are forced with a pry bar and the lid falls open. *(Drafted.)*
+  - quote: les serrures furent forcées au moyen d’une pince
+- Inside is a second casing of zinc against damp. *(Drafted.)*
+  - quote: Une seconde enveloppe en zinc doublait l’intérieur de la caisse
+- Nab hopes for preserves; the reporter hopes not; Pencroff half says "if only there were…" and, asked what, says "Nothing". *(Drafted.)*
+  - quote: Si seulement il y avait…
+- Objects of very different kinds come out onto the sand; Pencroff cheers, Harbert claps, Nab dances. *(Drafted.)*
+  - quote: Il y avait là des livres qui auraient rendu Harbert fou de joie
+- The chest holds tools, arms, instruments, clothes, books; the exact list, as written in Spilett's notebook, follows. *(Drafted.)*
+  - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
+- Tools: knives, axes of two kinds, planes, adzes, a bedane, chisels, files, hammers, gimlets, augers, ten sacks of nails and screws, three saws, two boxes of needles. *(Drafted.)*
+  - quote: 2 haches de bûcheron. | 2 haches de charpentier
+  - quote: 10 sacs de clous et de vis
+  - quote: 3 scies de diverses grandeurs
+- Arms: two flintlocks, two percussion guns, two centre-fire carbines, five cutlasses, four boarding sabres, two kegs of powder of twenty-five pounds each, twelve boxes of percussion caps. *(Drafted.)*
+  - quote: 2 fusils à pierre. | 2 fusils à capsule. | 2 carabines à inflammation centrale
+  - quote: 2 barils de poudre pouvant contenir chacun vingt-cinq livres
+  - quote: 12 boîtes d’amorces fulminantes
+  - quote: 4 sabres d’abordage
+- Instruments: a sextant, a field glass, a telescope, a box of compasses, a pocket compass, a Fahrenheit thermometer, an aneroid barometer, a whole photographic apparatus. *(Drafted.)*
+  - quote: 1 sextant
+  - quote: 1 boussole de poche
+  - quote: 1 thermomètre de Fahrenheit
+  - quote: 1 boîte renfermant tout un appareil photographique
+- Clothes: two dozen shirts and three dozen stockings of a stuff like wool but evidently of vegetable origin. *(Drafted.)*
+  - quote: 2 douzaines de chemises d’un tissu particulier qui ressemblait à de la laine, mais dont l’origine était évidemment végétale
+- Utensils: an iron pot, six tinned copper saucepans, three iron dishes, ten aluminium forks and spoons, two kettles, a small portable stove, six table knives. *(Drafted.)*
+  - quote: 10 couverts d’aluminium
+  - quote: 1 petit fourneau portatif
+- Books and paper: a Bible with Old and New Testaments, an atlas, a dictionary of the Polynesian idioms, a six-volume dictionary of natural sciences, three reams of white paper, two blank ledgers. *(Drafted.)*
+  - quote: 1 Bible contenant l’Ancien et le Nouveau Testament
+  - quote: 1 dictionnaire des divers idiomes polynésiens
+  - quote: 1 dictionnaire des sciences naturelles, en six volumes
+  - quote: 3 rames de papier blanc. | 2 registres à pages blanches
+
+### 8. A chest with no marks (II.2 ¶54–¶68)
+
+- Spilett remarks that the owner was a practical man; nothing is missing; it is as if he expected a shipwreck. *(Drafted.)*
+  - quote: On dirait vraiment qu’il s’attendait à faire naufrage
+- Cyrus Smith murmurs, thoughtful, that nothing is missing. *(Drafted.)*
+  - quote: Rien n’y manque, en effet
+- Harbert says the ship was no Malay pirate; Pencroff supposes the owner a prisoner of pirates; Spilett rejects that and prefers an American or European ship carried into these waters. *(Drafted.)*
+  - quote: Il est plus probable qu’un bâtiment américain ou européen a été entraîné dans ces parages
+- Cyrus Smith agrees it may have happened so. *(Drafted.)*
+  - quote: cela a pu se passer ainsi
+- Pencroff doubts the photographic box; Cyrus Smith says he does not see its use and more clothes or ammunition would have served better. *(Drafted.)*
+  - quote: Même la boîte à photographie
+- Spilett asks for any mark or address; every object is examined, especially books, instruments and arms. *(Drafted.)*
+  - quote: aucune marque, aucune adresse
+- Neither arms nor instruments bear a maker's mark, contrary to custom; all are perfect and unused; tools and utensils likewise new. *(Drafted.)*
+  - quote: ne portaient la marque du fabricant
+  - quote: tout était neuf
+- Conclusion drawn: the choice was meditated and the packing done with care; the second metal casing could not have been soldered in haste. *(Drafted.)*
+  - quote: n’aurait pu être soudée dans un moment de hâte
+- The two dictionaries are English, with no publisher or date. *(Drafted.)*
+  - quote: tous deux étaient anglais
+- The Bible is in English, a quarto remarkable for its typography, that seems often leafed through. *(Drafted.)*
+  - quote: qui paraissait avoir été souvent feuilleté
+- The atlas covers the whole world with Mercator planispheres; its nomenclature is in French; no date, no publisher. *(Drafted.)*
+  - quote: dont la nomenclature était en français
+- Nothing indicates the provenance or nationality of the ship that must have recently passed. *(Drafted.)*
+  - quote: aucun indice qui pût en indiquer la provenance
+- Until now the colonists made everything themselves; the chest, in the narrator's words, seemed providence rewarding them; they give thanks together. *(Drafted.)*
+  - quote: Leurs remerciements s’élevèrent donc unanimement vers le ciel
+
+### 9. Pencroff's missing tobacco (II.2 ¶69–¶74)
+
+- Pencroff alone is not wholly satisfied; his hurrahs fell as objects came out. *(Drafted.)*
+  - quote: ses hurrahs diminuaient d’intensité
+- He mutters that there will be nothing for him in the box. *(Drafted.)*
+  - quote: vous verrez qu’il n’y aura rien pour moi dans cette boîte
+- Asked by Nab what he expected, he says gravely: half a pound of tobacco. All laugh. *(Drafted.)*
+  - quote: Une demi-livre de tabac
+  - quote: On ne put s’empêcher de rire à l’observation du marin
+
+### 10. A fuller exploration decided; the Gospel (II.2 ¶75–¶84)
+
+- The find makes a serious exploration of the island more necessary; they will start next day at dawn, up the Mercy to reach the west coast, since castaways there might be without resources. *(Drafted.)*
+  - quote: le lendemain, dès le point du jour, on se mettrait en route
+- During that day the objects are carried to Granite-house and arranged in the great hall. *(Drafted.)*
+  - quote: disposés méthodiquement dans la grande salle
+- That day, 29 October, is a Sunday; before bed Harbert asks Cyrus Smith to read a passage of the Gospel. *(Drafted.)*
+  - quote: était précisément un dimanche
+- Pencroff, superstitious, asks him to open at random and read the first verse he sees. *(Drafted.)*
+  - quote: Ouvrez au hasard
+- Cyrus Smith opens the book where a bookmark parts the pages, and sees a red cross made in pencil before verse 8 of chapter VII of Saint Matthew. *(Drafted.)*
+  - quote: devant le verset 8 du chapitre VII de l’Évangile de saint Mathieu
+- He reads the verse: "Whoever asks receives, and who seeks finds." *(Drafted.)*
+  - quote: Quiconque demande reçoit, et qui cherche trouve.

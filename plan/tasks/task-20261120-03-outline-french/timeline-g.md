@@ -1,0 +1,63 @@
+# Timeline fragment g (chapters 02000 to 02300)
+
+*The year is not stated in these chapters. It is taken as 1865 from the earlier chapters (I.1 ¶12 gives 23 March 1865 for the balloon); so each year below is *(My reading, to confirm.)*, with the day and month as the French gives them.*
+
+- 1865-06 (first days): the winter month begins, with squalls and rain (I.20 ¶1). *(Drafted.)*
+  - quote: La saison d’hiver commença véritablement avec ce mois de juin
+- 1865-06-04: Whit Sunday; work is suspended and the colonists give thanks (I.20 ¶19). *(My reading, to confirm.)*
+  - quote: On était au 4 juin. C’était le dimanche de la Pentecôte
+- 1865-06-05: the seal hunt on the islet, fat and skins brought back (I.20 ¶20). *(My reading, to confirm.)*
+  - quote: Le lendemain, 5 juin, par un temps assez incertain, on partit pour l’îlot.
+- 1865-06-05 to 1865-06-06, about: the candle-making, under twenty-four hours (I.20 ¶25). *(My reading, to confirm.)*
+  - quote: L’opération ne dura pas plus de vingt-quatre heures.
+- 1865-06, rest of the month: indoor work at Granite-house (I.20 ¶26). *(Drafted.)*
+  - quote: Pendant tout ce mois, le travail ne manqua pas à l’intérieur de la nouvelle demeure.
+- 1865-06, after 5 June, a few days: the two bridges, then the oyster trip (I.20 ¶29); the text gives no date. *(My reading, to confirm.)*
+  - quote: Ce fut l’affaire de quelques jours.
+- 1865-06, date not given, before 20 June: Harbert finds the grain of wheat on a day of torrential rain (I.20 ¶34). *(My reading, to confirm.)*
+  - quote: il pleuvait à torrents
+- 1865-06-20: the grain is planted, the same day it is decided (I.20 ¶66). *(My reading, to confirm.)*
+  - quote: On était au 20 juin.
+- 1865-06, late: after endless rain the weather turns cold (I.21 ¶2). *(Drafted.)*
+  - quote: Vers la fin du mois de juin, après d’interminables pluies, le temps se mit décidément au froid
+- 1865-06-29: about 20 °F (I.21 ¶2). *(My reading, to confirm.)*
+  - quote: le 29, un thermomètre Fahrenheit eût certainement annoncé vingt degrés seulement au-dessus de zéro
+- 1865-06-30, a Friday: the end of the year in the northern reckoning (I.21 ¶3). *(My reading, to confirm.)*
+  - quote: Le lendemain, 30 juin, jour qui correspond au 31 décembre de l’année boréale, était un vendredi
+- 1865-07-04: the temperature falls to 8 °F (I.21 ¶5). *(My reading, to confirm.)*
+  - quote: le 4 juillet, tomba à huit degrés Fahrenheit
+- 1865-07-05, 6 a.m.: the five colonists and Top leave Granite-house for the southeast marsh (I.21 ¶8). *(My reading, to confirm.)*
+  - quote: le 5 juillet, dès six heures du matin
+- 1865-07-05, 8 a.m.: they reach the beach on the open sea (I.21 ¶20). *(My reading, to confirm.)*
+  - quote: Il était alors huit heures du matin.
+- 1865-07-05, about 5 p.m.: they start home (I.21 ¶56). *(My reading, to confirm.)*
+  - quote: Vers cinq heures du soir
+- 1865-07-05, 8 p.m.: all are back at Granite-house (I.21 ¶57). *(My reading, to confirm.)*
+  - quote: À huit heures du soir, tous étaient rentrés à Granite-house.
+- 1865-07 to 1865-08-15: the intense cold lasts (I.22 ¶1). *(My reading, to confirm.)*
+  - quote: Ces froids intenses durèrent jusqu’au 15 août
+- 1865-08, second week: peccaries first taken in the traps (I.22 ¶14). *(My reading, to confirm.)*
+  - quote: dans la seconde semaine d’août
+- 1865-08-15, about: the wind goes to the northwest, snow begins (I.22 ¶22). *(My reading, to confirm.)*
+  - quote: Vers le 15 août, l’état atmosphérique se modifia subitement par une saute de vent dans le nord-ouest
+- 1865-08-20 to 1865-08-25: the colonists are shut in by the storm (I.22 ¶23). *(My reading, to confirm.)*
+  - quote: ils restèrent renfermés pendant cinq jours, du 20 au 25 août
+- 1865-08, last week: the storm calms and the colonists go out (I.22 ¶29). *(My reading, to confirm.)*
+  - quote: Pendant la dernière semaine de ce mois d’août
+- 1865-08-25, about: wind to the southeast, 8 °F below zero (I.22 ¶41). Flagged: it falls on the same day as the end of the confinement of ¶23. *(My reading, to confirm.)*
+  - quote: Vers le 25, après une nouvelle alternative de neige et de pluie, le vent sauta au sud-est
+- 1865-09, to the middle: the cold lasts (I.22 ¶50). *(My reading, to confirm.)*
+  - quote: Le froid continua jusqu’à la mi-septembre
+- 1865-09, second half: much hunting; Pencroff presses for firearms (I.22 ¶57). *(My reading, to confirm.)*
+  - quote: On chassa beaucoup dans la seconde moitié de septembre
+- 1865-10-24: the peccaries are trapped; dinner at five; the lead shot (I.22 ¶62, ¶75, ¶82). *(My reading, to confirm.)*
+  - quote: On était au 24 octobre.
+  - quote: À cinq heures, le dîner fut servi dans la salle de Granite-house.
+- 1865-10-24: seven months to the day since the landing (II.1 ¶1; I.22 ¶70). The date of the landing is not in these chapters; if it was 24 March, the two agree. *(My reading, to confirm.)*
+  - quote: Il y avait sept mois, jour pour jour, que les passagers du ballon avaient été jetés sur l’île Lincoln.
+- 1865-10-25: Pencroff begins the pirogue, "dès le lendemain" (II.1 ¶34). *(My reading, to confirm.)*
+  - quote: Dès le lendemain, Pencroff se mit à l’ouvrage.
+- 1865-10-26: Harbert and Spilett talk while hunting, and Harbert climbs the kauri (II.1 ¶37, ¶48). *(My reading, to confirm.)*
+  - quote: c’était le 26 octobre
+- 1865-10-28: the turtle is turned and left, and found gone two hours later (II.1 ¶60, ¶74). *(My reading, to confirm.)*
+  - quote: Le surlendemain, — 28 octobre

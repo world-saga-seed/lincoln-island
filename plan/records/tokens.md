@@ -94,3 +94,6 @@
 | 2026-11-21 | agent, Sonnet: stub builder | phase 5 | the six stubs the sample rests on | — | the six stubs' French paragraphs, the form | 68,274 | 9 | 1.1 |
 | 2026-11-21 | agent, Opus: renderer r1 | phase 5 | A1, A4, A6, S1 to S6 | — | the voice sample, nine bundles | 127,797 | 21 | 2.9 |
 | 2026-11-21 | agent, Opus: renderer r2 | phase 5 | A2, A3, A5, P1, P2, S7 to S12 | — | the voice sample, eleven bundles | 132,952 | 16 | 1.8 |
+| 2026-11-21 | agent, Sonnet: period critic | phase 5 | the 20 renders | — | the renders, the period flags, White I.5, Webster 1864 by search | 55,394 | 7 | 0.8 |
+| 2026-11-21 | agent, Sonnet: facts and politics critic | phase 5 | the 20 side files | — | the side files | 65,952 | 6 | 0.9 |
+| 2026-11-21 | agent, Sonnet: facts critic, calibration run | phase 5 | the 20 side files, five errors planted | — | the planted side files | 63,893 | 5 | 0.7 |

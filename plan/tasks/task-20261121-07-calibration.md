@@ -6,8 +6,8 @@
 - **Region:** writes this task's folder and, for R1121-15, the stub cards the sample rests on. Reads `texts/fr-1875/`, `texts/white-1876/` (the voice chapter only, for the drafters), `world/`, `story/outline/`, `existing/webster-1864/` (for the period check).
 - **Wave:** none.
 - **Start hash:** 9557496, 2026-11-21.
-- **End hash:** (on close)
-- **Status:** Running.
+- **End hash:** the commit "Phase 5: closed", 2026-11-21.
+- **Status:** Done, 2026-11-21, but for the author's answer on the insert's names and spelling.
 
 ## Steps
 
@@ -33,6 +33,15 @@
 
 - 2026-11-21 The author approved the plan: I.5 the voice chapter (R1121-16), A6 I.15 ¶26 (R1121-17), Opus renders and Sonnet critics (R1121-18), a 3 M cap (R1121-19). White's I.5 copied unchanged to `story/voice/samples/white-I.5.md`.
 
+- 2026-11-21 The stubs built (68,274 tokens): six cards, no Open lines.
+- 2026-11-21 The bundles (`bundles/`, by script): the French with a paragraph either side, the outline, the card lines citing the passage; A6 the French alone; no White.
+- 2026-11-21 The renders, two fresh Opus agents (127,797 and 132,952 tokens): all 20. The tool refused both reports; saved from their final messages.
+- 2026-11-21 The checks. `side.py` set each render beside the French and White (`side/`). `period_check.py` flagged 14 words in neither White nor Webster 1864 (`period-flags.md`). The period critic (55,394 tokens): no word, sense or science later than 1876; the British "-our" spelling against White's American; the names. The facts and politics critic (65,952 tokens): no finding in 20 passages. A zero from an uncalibrated critic proves little, so five errors were planted in copies (`side-cal/`, `calibration-plants.md`: a softening, a changed figure, an added cause, a lost figure, an anachronism) and a fresh critic run on them (63,893 tokens): all five found, nothing else flagged. The renders' own disclosed small departures sit below that critic's line by design. The candidate tells: `tells.md`.
+
 ## Resolution
 
-(On close.)
+Phase 5 is done but for one question. The 20 renders, from the cards and the French in White's voice, depart from the French in no way a calibrated critic catches, and use no English or science later than 1876. They keep Verne's politics where White softens them and his figures where White changes them, and the from-the-French-alone render did not add White's addition. The candidate tells are one strong (British "-our" spelling, where White is American throughout) and five weak (small words added or dropped for idiom, each named by the renderer). The voice chapter is White's I.5 (R1121-16). Cost: about 0.58 M agent tokens, against the 3 M cap (R1121-19).
+
+Against the acceptance: 1, every passage rendered and set beside the French and White; 2, every finding quotes the render and the French, and the quotes resolve; 3, the tells logged with quotes and kind; 4, the voice chapter approved (R1121-16); 5, the tokens logged.
+
+For the author: which names the insert uses (the French Harbert, Gédéon, Nab, or White's Herbert, Gideon, Neb), and whether the drafting rules take White's American spelling.

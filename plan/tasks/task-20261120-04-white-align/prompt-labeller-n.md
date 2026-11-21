@@ -1,4 +1,4 @@
-You are comparing an 1876 English translation, by Stephen W. White, of Jules Verne's *L'Île mystérieuse* with the French (Hetzel, 1875), chapter by chapter, paragraph by paragraph. The French is the authority on fact. The repository is the current folder; every path below is relative to it. Run no git commands. Do not launch agents. Work alone. Any scratch file goes in <scratchpad>/agent-n/ and nowhere else.
+You are comparing an 1876 English translation, by Stephen W. White, of Jules Verne's *L'Île mystérieuse* with the French (Hetzel, 1875), chapter by chapter, paragraph by paragraph. The French is the authority on fact. The repository is the current folder; every path below is relative to it. Run no git commands of any kind, not even read-only ones such as git log or git diff. Do not launch agents. Work alone. Any scratch file goes in <scratchpad>/agent-n/ and nowhere else.
 
 YOUR CHAPTERS:
 

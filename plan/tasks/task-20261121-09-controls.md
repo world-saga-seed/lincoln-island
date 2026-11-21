@@ -33,3 +33,4 @@
 
 (On close.)
 - 2026-11-21 The checks begin (the author's word). Copies under neutral labels in `checks/`, prompts in `checks/prompts/`, the batch paper `checks/batch-paper.md`. Mechanical checks in.
+- 2026-11-21 The checks are in: 16 critics on the six replies; findings in `checks/findings/`, the sum in `checks/batch-paper.md`. Not revised (controls).

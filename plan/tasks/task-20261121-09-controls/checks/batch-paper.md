@@ -21,6 +21,11 @@
 | facts 02000 | 2 (sea-wrack for zostère; "wax" candles) | 3, 2 standing ("Oswego tea" for monardes; "catechism"; "Mr. Smith" is White's) |
 | omission 02000 | 0 | 1 ("absolument" on "parfaits") |
 | facts 01950 | 21 (9 break); canon 7 (lamp, ladder rungs, the secret departure Spilett knows of, forged knives, "backed", "two days later", Mandible Cape), story 14 | 13 (5 break); canon 2 (the candle plan four days early; the islet reached before the first ford), story 11 |
-| voice | | |
-| seams | | |
-| blind probe (open, then asked) | | |
+| voice | about 26 (7 break: in 01950 the origin, K8 settled, a motto named, the look ahead, the silence explained; in 02000 two names not White's) | 22 (4 to 5 break, all in 01950: candles early, the look ahead and the silence, the flash at the islet, K8 answered) |
+| seams | 8 (1 break: the oil-lamp; the ladder worked the wrong way; the tools "only") | 4 (0 break: the candles early; Top on 1 June) |
+| blind probe (open, then asked) | 10 as meant; K1 off (pride); K6 told more; leaks K7 (a motto named), K8 (sure no ship) | 13 of 15 as meant, K3 half, K4 thin; no leaks |
+
+## The sum (the main session's)
+
+- **01900 and 02000 (Verne's chapters):** both controls render close to the French: x1 3 findings and 0 losses in the four checks, x2 3 standing findings and 1 loss. The faults are the voice's: long sentences above White's (01900 long 41 to 43% against 27 to 30), house spelling (13 and 6 wrong forms), and names from other translations in x1's and x2's 02000 (Whit-Sunday, Reptile Promontory).
+- **01950 (the inserted chapter):** here the method shows. Canon breaks against Verne and the controls' own neighbours: x1 7 (the oil-lamp, eighty rungs, forged knives, a secret departure known, "two days later", Mandible Cape, a veer for a back), x2 2 (the candle plan early, the islet before the first ford). Voice breaks: x1 5, x2 4, the same four rules in both: the narrator gives the origin or settles a ship, looks ahead, names the silence and its cause. The probe: x1 leaks K7 and K8 and gets K1 wrong; x2 holds every hidden question but loses K3 (the point) to half, as v1's draft 2 did. The final: 15 of 15, no leaks, 0 canon breaks.

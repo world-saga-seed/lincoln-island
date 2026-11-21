@@ -1,0 +1,72 @@
+# Timeline fragment p (chapters 05600 to 05900, III.14 to III.17)
+
+The chapters give days and months but no year in their own words; the dates are written with the year left open as "----", except where the text gives it (Nemo's life).
+
+- Three years after the Richmond escape (about March 1868, my count): the colonists talk of home (III.14 ¶1). *(My reading, to confirm.)*
+  - quote: Trois ans s’étaient écoulés depuis que les prisonniers de Richmond s’étaient enfuis
+- ----04, April: felling and hauling timber; equinox gales; the month is fine (III.14 ¶16, ¶18). *(Drafted.)*
+  - quote: pendant le mois d’avril, qui ne fut troublé que par quelques coups de vent d’équinoxe assez violents
+- ----05-15, about: the keel is laid on the yard (III.14 ¶26). *(Drafted.)*
+  - quote: Vers le 15 mai, la quille du nouveau bâtiment s’allongeait sur le chantier
+- ----05-22, about: the first stern frames set, the week after the keel (III.14 ¶26). *(My reading, to confirm.)*
+  - quote: Pendant la semaine suivante, on mit encore en place les premiers couples de l’arrière
+- ----05, last days: very bad weather, east wind (III.14 ¶27). *(Drafted.)*
+  - quote: Pendant les derniers jours du mois, le temps fut extrêmement mauvais.
+- ----06-10, about: ship-building abandoned for the cold (III.14 ¶29). *(Drafted.)*
+  - quote: vers le 10 juin, il fallut définitivement abandonner la construction du bateau
+- ----06 to ----08: the winter months, very hard, mean eight degrees Fahrenheit (III.14 ¶49). *(Drafted.)*
+  - quote: Ainsi se passèrent les mois d’hiver, juin, juillet et août.
+- ----09: September brings the fine days; seven months without a sign of the island's genius since the last search around the mountain (III.14 ¶53). *(Drafted.)*
+  - quote: pendant le mois de septembre, qui ramena les beaux jours
+- ----09-07: Smith sees smoke over the crater of Mount Franklin (III.14 ¶56). *(Drafted.)*
+  - quote: Le 7 septembre, Cyrus Smith
+- ----09, toward the end: the schooner's frame stands on the yard (III.15 ¶9). *(Drafted.)*
+  - quote: Vers la fin du mois de septembre, la carcasse du navire
+- ----09 to ----10: a week's pause for harvest and haymaking (III.15 ¶10). *(Drafted.)*
+  - quote: durent être interrompus pendant une semaine
+- ----10-15, evening, 9 p.m.: the electric bell rings in Granite-house; new moon that day (III.15 ¶23, ¶40). *(Drafted.)*
+  - quote: Un soir, le 15 octobre
+  - quote: La lune, nouvelle ce jour-là même
+- ----10-11: Ayrton's last visit to the corral, four days before (III.15 ¶65–¶67). *(My reading, to confirm.)*
+  - quote: Il y a quatre jours.
+- ----10-15, 9:12 p.m.: the party leaves Granite-house (III.15 ¶49). *(Drafted.)*
+  - quote: à neuf heures douze minutes
+- ----10-15, 9:47 p.m.: three of the five miles done (III.15 ¶49). *(Drafted.)*
+  - quote: À neuf heures quarante-sept
+- ----10-15, "9:15" (text): the flash shows the palisade; thunder breaks as they reach the gate (III.15 ¶52). Flagged: this is earlier than 9:47 in the same chapter. *(Drafted.)*
+  - quote: À neuf heures un quart, un vif éclair leur montrait l’enceinte palissadée
+- ----10-15, a little before 10 p.m.: they reach the high edge above the western ocean (III.15 ¶84). *(Drafted.)*
+  - quote: À dix heures moins quelques minutes
+- ----10-16, midnight: Smith goes down with the lantern; two hours of falling tide (III.15 ¶102). *(Drafted.)*
+  - quote: À minuit, Cyrus Smith, emportant le fanal
+  - quote: Il y avait déjà deux heures de mer baissée.
+- ----10-16, about 1 a.m.: the hour passed; three hours of fall, fifteen feet; the boat is found and they enter (III.15 ¶110, ¶114). *(My reading, to confirm.)*
+  - quote: Une heure s’écoula.
+- ----10-16, about 1:30 to 2 a.m.: a quarter of an hour of winding course, another quarter, half a mile; the Nautilus lit (III.15 ¶117, ¶123). *(My reading, to confirm.)*
+  - quote: Le canot marcha pendant un quart d’heure encore
+- 1702: the Spanish galleons lose their millions in Vigo Bay (III.16 ¶54). *(Drafted.)*
+  - quote: Les millions perdus dans la baie de Vigo, en 1702, par les galions espagnols
+- 1849: Prince Dakkar returns to Bundelkund (III.16 ¶45). *(Drafted.)*
+  - quote: revint-il au Bundelkund dans l’année 1849
+- 1857: the sepoy revolt (III.16 ¶47). *(Drafted.)*
+  - quote: En 1857, la grande révolte des cipayes éclata
+- 1866-11-06, night: three men thrown aboard the Nautilus (III.16 ¶55). *(Drafted.)*
+  - quote: pendant la nuit du 6 novembre 1866
+- 1867-06-22: the three escape in the boat at the Maelstrom (III.16 ¶58). *(Drafted.)*
+  - quote: le 22 juin 1867
+- Nemo says thirty years without contact with the inhabited world, and sixteen years since the Frenchman: flagged; the text's own dates (1849, 1866) do not give those spans against a colony year of about 1868 (III.16 ¶19, ¶21). *(Drafted.)*
+  - quote: trente années que je n’ai plus aucune communication avec le monde habité
+  - quote: il y a seize ans
+- The Nautilus has been six years at the port under Lincoln Island when the balloon falls (III.16 ¶62). Flagged against the 1866 encounter. *(Drafted.)*
+  - quote: Depuis six ans, le capitaine était là
+- ----10-16, day: the day comes; the sea is high and blocks the opening; Nemo says "demain, je serai mort" (III.17 ¶1, ¶22). *(My reading, to confirm.)*
+  - quote: Le jour était venu.
+  - quote: demain, je serai mort
+- ----10-16, evening to night: the day ends without change; night comes in the crypt (III.17 ¶74). *(Drafted.)*
+  - quote: La journée se termina sans qu’aucun changement se manifestât.
+- ----10-17, a little after midnight: Nemo crosses his arms (III.17 ¶77). *(My reading, to confirm.)*
+  - quote: un peu après minuit
+- ----10-17, about 1 a.m.: Captain Nemo dies, saying "Dieu et patrie !" (III.17 ¶78). *(My reading, to confirm.)*
+  - quote: Vers une heure du matin
+- ----10-17, some hours later: the Nautilus is sunk (III.17 ¶85, ¶90). *(My reading, to confirm.)*
+  - quote: Quelques heures après, les colons remplissaient la promesse faite au capitaine

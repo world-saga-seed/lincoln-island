@@ -1,0 +1,54 @@
+# Ayrton's tale and the mountain search (notes)
+
+## Notes for drafting
+- **Where it sits.** Follows III.12 ¶108 (the five bodies by the stream). It runs from the night of 19 February 1868 to the third anniversary on 25 March. *(Drafted.)*
+- **Cast.**
+  - Ayrton, also called Ben Joyce (¶1, ¶7); Cyrus Smith (¶3); Nab and Pencroff (¶24); Gédéon Spilett (¶28); Harbert (¶12). *(Drafted.)*
+  - The five dead convicts (¶22); the convict who knew Ayrton (¶7); the two who fired on Harbert on 11 November (¶11). *(Drafted.)*
+  - Bob Harvey, named only as the one whose absence wrecked the Bonadventure (¶57). *(Drafted.)*
+  - The unknown, "le justicier de l'île", "notre génie" (¶31, ¶92). *(Drafted.)*
+  - Top and Jup do not appear. *(Drafted.)*
+- **Places.**
+  - The corral house and the stream bank (¶3, ¶20–¶22); the cave at the foot of Mount Franklin (¶6, ¶66); Granite-house and the plateau of Grande-Vue (¶8, ¶84, ¶99). *(Drafted.)*
+  - Tabor Island (¶50); the Bonadventure's little port (¶55). *(Drafted.)*
+  - The valley south of the volcano and the Falls River's upper waters (¶66); the south-west spur and the narrow gorge from the basalt shore heap (¶67); the three wooded valleys: corral, Falls River, Red Creek (¶68); the Mercy and Jacamar wood springs, Serpentine Peninsula (¶68); the two northern valleys and the tunnels (¶71). *(Drafted.)*
+  - The cavity with rumblings (¶73); the crater (¶95); the dunes and Shark Gulf (¶96). *(Drafted.)*
+- **Things.**
+  - The small red marks on the bodies (¶26); the "arme foudroyante" (¶29). *(Drafted.)*
+  - The convicts' store in the cave (¶66); resin torches (¶71); the engineer's survey of the mountain (¶94); the double rope and the arrow (¶99). *(Drafted.)*
+  - The brig's ironwork and rigging, offered for a new boat (¶59); the notice for Tabor (¶50). *(Drafted.)*
+- **Time.**
+  - Night of 19 February: the wait in the house (¶3). Next morning, Ayrton wakes after "cent quatre jours de séparation" (¶4). *(Drafted.)*
+  - Ayrton's account: 10 November, at nightfall, taken; the next day to be killed; four months in the cave; 11 November, shots at Harbert; the third week of February; two days of prostration (¶6, ¶7, ¶10, ¶11, ¶15, ¶16). *(Drafted.)*
+  - The Bonadventure lost "il y a huit jours à peine" (¶55). *(Drafted.)*
+  - The search: from "le jour même, 19 février", a week (¶65); "Du 19 au 25 février" (¶94); return 25 February (¶99); "un mois plus tard", 25 March, the third anniversary (¶100). *(Drafted.)*
+  - A boat of thirty to forty tons takes five to six months (¶60); the Tabor crossing is given up for the year (¶61). *(Drafted.)*
+  - The chapter covers about five weeks. *(Drafted.)*
+- **Clues.**
+  - How Ayrton was brought from the cave to the corral; he does not know (¶17, ¶31). *(Drafted.)*
+  - The five convicts killed outright, with a small red mark on each, no wound (¶25–¶26). *(Drafted.)*
+  - Cyrus Smith's name for the unknown: "le justicier", and his words on a "protecteur hautain" (¶31, ¶35). *(Drafted.)*
+  - The rumblings in the mountain, the possible eruption, and the engineer's account of why the plateau is safe (¶73–¶88). *(Drafted.)*
+  - The volcano's "valve" possibly clogged at the base of the chimney (¶86). *(Drafted.)*
+  - The unknown's retreat not found anywhere on the surface; the colonists begin to think it is not there (¶93, ¶98). *(Drafted.)*
+  - The Tabor notice undelivered; the Scottish yacht may come (¶50). *(Drafted.)*
+- **Length.** 100 paragraphs (¶1–¶100); 3,483 words in the ¶1–¶100 lines (the ¶0 summary not counted). Three plates, no footnotes. *(Drafted.)*
+
+## Open and flags
+- **The days of Ayrton's absence.** ¶4 says "cent quatre jours de séparation". ¶6 dates his capture 10 November. The day of the finding is the night of 19 February, and the waking is the next day. By plain count 10 November to 20 February is 102 days. Quotes:
+  - quote: après cent quatre jours de séparation
+  - quote: le 10 novembre dernier
+  - *(My reading, to confirm.)* Card neither.
+- **The day the search starts.** ¶4 puts Ayrton's waking on the day after the finding ("Le lendemain", which is 20 February by III.12 ¶13 and ¶17); ¶65 says the search began "le jour même, 19 février". Both sides:
+  - quote: Le lendemain, Ayrton sortait de cette torpeur
+  - quote: Des recherches furent commencées le jour même, 19 février
+  - Card neither. *(My reading, to confirm.)*
+- **"Le lendemain de son arrivée".** ¶6 puts Ayrton's capture the day after his arrival at the corral, "le 10 novembre", and the colonists' arrival at the corral is 11 November (¶11). *(Drafted.)*
+- **"Two days" of prostration.** ¶16 says that for two days he cannot say what happened; ¶15 says it went on "jusqu'à la troisième semaine de février". Quotes:
+  - quote: depuis deux jours, il ne pouvait même dire ce qui s’était passé
+  - quote: Ce fut ainsi jusqu’à la troisième semaine de février
+  - *(Drafted.)*
+- **The Bonadventure.** ¶55 says it was found and lost eight days ago, but III.11 ¶51 to III.12 ¶108 give no sign of the convicts' having been out on the sea during that march; this is the text's silence and not a discord. *(My reading, to confirm.)*
+- **Ben Joyce.** ¶7 gives Ayrton's Australian name; I did not have an earlier chapter to check. *(Drafted.)*
+- **The "hier" at ¶86.** Cyrus Smith says he observed the crater's summit "hier", in a search that began the 19th; the day of the dialogue is not given. *(My reading, to confirm.)*
+- **No Wikisource correction** touches this chapter (`texts/README.md`). *(Drafted.)*

@@ -1,0 +1,162 @@
+# Harbert recovers and the expedition sets out (outline)
+
+*Chapter 05300: the French III.11 (`texts/fr-1875/53.md`). Before: 05200. After: 05400. Third person, past tense; Verne's narrator. Every beat is marked (Drafted.): it is what the French holds.*
+
+## Outline
+
+### 1. The quinine (III.11 ¶1–¶9)
+
+- Spilett opens the box: about two hundred grains of white powder; he tastes it, and the bitterness tells him it is the alkaloid of quinquina. *(Drafted.)*
+  - quote: environ deux cents grains d’une poudre blanche
+  - quote: L’extrême amertume de cette substance ne pouvait le tromper
+- The powder must be given at once; how it came there can be discussed later. *(Drafted.)*
+  - quote: Comment elle se trouvait là, on le discuterait plus tard
+- Spilett asks for coffee; Nab brings a tepid cup; Spilett puts in about eighteen grains of quinine, which Harbert is made to drink. A footnote gives the weight. *(Drafted.)*
+  - quote: Gédéon Spilett y jeta environ dix-huit grains[n1] de la quinine
+  - quote: 10 grammes.
+  - at: III.11 n1
+- It is in time: the third fit does not come, and the narrator says it never will. *(Drafted.)*
+  - quote: le troisième accès de la fièvre pernicieuse ne s’était pas manifesté
+  - quote: il ne devait pas revenir
+- All have hope again; the "mysterious influence" has acted once more at the last moment. *(Drafted.)*
+  - quote: L’influence mystérieuse s’était de nouveau exercée
+- After some hours Harbert rests more quietly; the colonists can talk it over: the unknown's hand is plainer than ever, but how did he enter Granite-house at night? *(Drafted.)*
+  - quote: Mais comment avait-il pu pénétrer pendant la nuit jusque dans Granite-house
+  - quote: le « génie de l’île »
+- Through that day quinine is given about every three hours. *(Drafted.)*
+  - quote: de trois heures en trois heures environ
+
+### 2. Convalescence, to the new year (III.11 ¶10–¶19)
+
+- Next day Harbert is a little better; intermittent fevers relapse often, but the specific is at hand, and so, no doubt, is the man who brought it. *(Drafted.)*
+  - quote: le spécifique était là, et non loin, sans doute, celui qu’il l’avait apporté
+- Ten days later, 20 December, he enters convalescence on a strict diet with no fit returned. *(Drafted.)*
+  - quote: Dix jours après, le 20 décembre, Harbert entrait en convalescence
+- Pencroff is like a man pulled from an abyss; he hugs the reporter nearly to suffocation and from then on calls him only "docteur Spilett". *(Drafted.)*
+  - quote: il ne l’appela plus que le docteur Spilett
+- Still to find is the true doctor; Pencroff promises him a hard embrace. *(Drafted.)*
+  - quote: Restait à découvrir le vrai docteur
+  - quote: « On le découvrira ! » répétait le marin
+- December ends and with it 1867; the colonists enter 1868 in fine weather and tropical heat cooled by the sea breeze; Harbert's bed is by a window and Nab cooks light dishes for him. *(Drafted.)*
+  - quote: cette année 1867
+  - quote: Ils entrèrent dans l’année 1868
+- The convicts have not shown themselves near Granite-house in all this time; of Ayrton there is no news, and Cyrus Smith and Harbert still hope while the others think him dead. *(Drafted.)*
+  - quote: les convicts ne s’étaient pas montrés une seule fois aux environs de Granite-house
+  - quote: leurs compagnons ne mettaient plus en doute que le malheureux n’eût succombé
+- The expedition will be made when Harbert is fit, perhaps in a month, since the whole colony's strength will be needed against the convicts. *(Drafted.)*
+  - quote: il fallait attendre un mois peut-être
+- The liver congestion is gone and the wounds are healed for good. *(Drafted.)*
+  - quote: La congestion du foie avait disparu
+
+### 3. January: the plateau, Harbert up, the day fixed (III.11 ¶20–¶23)
+
+- In January the work on the plateau is only to save what can be saved of the ruined wheat and vegetables, so as to sow again for the next half-season. *(Drafted.)*
+  - quote: sauver ce qui pouvait l’être des récoltes dévastées
+- Cyrus Smith will not rebuild the poultry-yard, mill and stables yet, lest the convicts return to the plateau while the colonists are away; rebuilding waits until the island is cleared. A plate follows. *(Drafted.)*
+  - quote: Quant à relever les bâtiments de la basse-cour, le moulin, les écuries, Cyrus Smith préféra attendre
+  - quote: Le jeune convalescent avait commencé à se lever…
+  - at: III.11 pl1
+- Harbert begins to rise in the second half of January, an hour a day, then two, then three; he is eighteen then, tall, promising fine bearing; Spilett is severe with him. *(Drafted.)*
+  - quote: dans la seconde quinzaine du mois de janvier
+  - quote: Il avait dix-huit ans alors
+- By the end of the month he walks over the plateau and the shore and takes sea baths with Pencroff and Nab. *(Drafted.)*
+  - quote: Quelques bains de mer qu’il prit en compagnie de Pencroff et de Nab
+- Cyrus Smith fixes departure for 15 February; the nights are very clear at this season, good for searching the whole island. *(Drafted.)*
+  - quote: qui fut fixé au 15 février prochain
+- Preparations begin; the colonists have sworn not to come back to Granite-house until both aims are met: destroy the convicts and find Ayrton if he lives, and find the one who guides the colony's fate. *(Drafted.)*
+  - quote: ne point rentrer à Granite-house avant que leur double but eût été atteint
+  - quote: découvrir celui qui présidait si efficacement aux destinées de la colonie
+
+### 4. What is known of the island, and the plan (III.11 ¶24–¶31)
+
+- Known well: the east coast from Claw Cape to Mandible Capes, the Tadorn marshes, around Lake Grant, the Jacamar wood between the corral road and the Mercy, the Mercy and the Red Creek, the Mount Franklin spurs round the corral. *(Drafted.)*
+  - quote: les colons connaissaient à fond toute la côte orientale depuis le cap Griffe jusqu’aux caps Mandibules
+- Explored only imperfectly: the shore of Washington Bay to the Reptile-End, the wooded and marshy west coast, the dunes ending at Shark Gulf. *(Drafted.)*
+  - quote: mais d’une manière imparfaite seulement
+- Not explored at all: the woods of the Serpentine Peninsula, all the right of the Mercy, the left bank of the Falls River, and the tangle of spurs on three-quarters of Mount Franklin's base; thousands of acres have escaped them. *(Drafted.)*
+  - quote: plusieurs milliers d’acres de l’île avaient encore échappé à leurs investigations
+- It is decided to go through the Far West to take in everything right of the Mercy. *(Drafted.)*
+  - quote: englober toute la partie située sur la droite de la Mercy
+- The text weighs going first to the corral, where the convicts may have gone back; either the corral is already ruined or they have dug in there, and there will be time to hunt them out. *(Drafted.)*
+  - quote: il serait toujours temps d’aller les relancer dans leur retraite
+- After discussion the first plan stands: through the woods to the Reptile-End, cutting a first track between Granite-house and the peninsula's end, sixteen to seventeen miles long. *(Drafted.)*
+  - quote: sur une longueur de seize à dix-sept milles
+- The cart is in good order and the onaggas rested; food, camp gear, portable kitchen, arms and ammunition from Granite-house's arsenal are loaded; the party must stay close and never split. *(Drafted.)*
+  - quote: de ne se diviser sous aucun prétexte
+- No one will stay at Granite-house; Top and Jup go too. *(Drafted.)*
+  - quote: personne ne resterait à Granite-house
+  - quote: L’inaccessible demeure pouvait se garder toute seule
+
+### 5. The eve and the departure, 14 and 15 February (III.11 ¶32–¶40)
+
+- 14 February, the eve, is a Sunday, given to rest and thanks to the Creator; Harbert, wholly cured but a little weak, will have a place on the cart. *(Drafted.)*
+  - quote: Le 14 février, veille du départ, était un dimanche
+- Next day at dawn Cyrus Smith secures Granite-house: the ladders are buried deep in the sand at the Chimneys, the lift drum is taken down, and Pencroff, last out, comes down by a doubled rope, which is drawn down so that no link remains between the door and the shore. A plate follows. *(Drafted.)*
+  - quote: le tambour de l’ascenseur fut démonté, et il ne resta plus rien de l’appareil
+  - quote: ne laissa plus subsister aucune communication entre le palier supérieur et la grève
+  - quote: Pencroff redescendit au moyen d’une corde. (Page 515.)
+  - at: III.11 pl2
+- Fine weather; Spilett says it will be hot, Pencroff says the trees will shade them; the engineer gives the word. *(Drafted.)*
+  - quote: En route ! » dit l’ingénieur
+- Harbert is made to ride the cart for the first hours; Nab leads the onaggas, the three men go ahead, Top gambols, Jup accepts a place in Harbert's cart. *(Drafted.)*
+  - quote: Harbert avait offert une place à Jup dans son véhicule
+- The cart rounds the river mouth, goes up the Mercy's left bank for a mile, crosses the bridge at the head of the Port-Balloon road, leaves that road on the left and enters the Far West woods. *(Drafted.)*
+  - quote: il traversa le pont au bout duquel s’amorçait la route de Port-Ballon
+
+### 6. The first day's march (III.11 ¶41–¶50)
+
+- The first two miles are open and the cart goes freely; some creepers and brush are cut. *(Drafted.)*
+  - quote: Pendant les deux premiers milles, les arbres, largement espacés
+- The trees give cool shade: deodars, douglas firs, casuarinas, banksias, gum trees, dragon trees; the island's usual birds and animals are there, recalling the first excursions. *(Drafted.)*
+  - quote: Déodars, douglas, casuarinas, banksias, gommiers, dragonniers
+- Cyrus Smith notes the animals are shyer than before, so the convicts have lately passed; there are signs of their passing: broken branches, ashes of a dead fire, footprints in clay, but nothing like a settled camp. *(Drafted.)*
+  - quote: ces animaux, quadrupèdes et volatiles, sont plus craintifs qu’autrefois
+  - quote: rien qui parût appartenir à un campement définitif
+- The engineer forbids hunting, lest shots alert the convicts, and forbids anyone to go alone. *(Drafted.)*
+  - quote: s’abstenir de chasser
+- In the afternoon, about six miles from Granite-house, the way is hard and trees must be felled; before each thicket Cyrus Smith sends in Top and Jup, and if they come back with nothing to signal there is nothing to fear. *(Drafted.)*
+  - quote: à six milles environ de Granite-house
+  - quote: quand le chien et l’orang revenaient sans avoir rien signalé
+- The evening camp is about nine miles from Granite-house on a small tributary of the Mercy the colonists did not know. *(Drafted.)*
+  - quote: campèrent à neuf milles environ de Granite-house
+  - quote: un petit affluent de la Mercy, dont ils ignoraient l’existence
+- Fires would draw the convicts rather than keep them off, so the camp stays dark; two keep watch together, relieved every two hours; Harbert is excused over his objections; the pairs are Pencroff with Spilett and the engineer with Nab. *(Drafted.)*
+  - quote: mieux valait dans ce cas s’entourer de profondes ténèbres
+  - quote: de deux heures en deux heures
+- There is hardly any night; the darkness is from the foliage; the silence is troubled only by jaguars' hoarse howls and monkeys' sneers that irritate Jup. *(Drafted.)*
+  - quote: de rauques hurlements de jaguars et des ricanements de singes
+
+### 7. The second day, 16 February: trees, emus, footprints (III.11 ¶51–¶63)
+
+- The night passes without incident (a plate), and the march resumes on 16 February, slow rather than hard. *(Drafted.)*
+  - quote: La nuit se passa sans incident
+  - at: III.11 pl3
+  - quote: le lendemain, 16 février, la marche, plutôt lente que pénible, fut reprise
+- Only six miles that day, with the axe all the way; the colonists spare the great trees and cut the small, so the track winds. *(Drafted.)*
+  - quote: Ce jour-là, on ne put franchir que six milles
+  - quote: Véritables « setlers »
+- Harbert finds new species not yet noted on the island: tree ferns, carob trees whose pods the onaggas eat, and kauris two hundred feet high, trees of New Zealand. *(Drafted.)*
+  - quote: Harbert découvrit des essences nouvelles
+  - quote: s’élevaient à une hauteur de deux cents pieds
+- A pair of emus, five feet high and brown, is glimpsed; Top chases them and they outrun him. *(Drafted.)*
+  - quote: un couple de ces grands oiseaux qui sont particuliers à l’Australie
+  - quote: tant leur rapidité était prodigieuse
+- More traces: near a recently dead fire, footprints measured one by one show five men; no sixth print, which would have been Ayrton's. *(Drafted.)*
+  - quote: on retrouva aisément la trace des pieds de cinq hommes
+  - quote: on ne put découvrir une sixième empreinte
+- Harbert says Ayrton was not with them; Pencroff says then they have already killed him and wants their lair; Spilett thinks they wander, to be masters of the island. *(Drafted.)*
+  - quote: Ayrton n’était pas avec eux ! dit Harbert
+  - quote: ils vont à l’aventure
+- Pencroff, choked, says the bullet in his gun is the one that went through Harbert's chest, and it will not miss. *(Drafted.)*
+  - quote: C’est la balle qui a traversé la poitrine d’Harbert
+- The narrator says reprisals cannot give Ayrton back and that no hope remains of seeing him again. *(Drafted.)*
+  - quote: il n’y avait plus à conserver aucun espoir de jamais le revoir
+
+### 8. The peninsula's end reached (III.11 ¶64–¶65)
+
+- That evening the camp is fourteen miles from Granite-house, and Cyrus Smith reckons it no more than five miles from the Reptile-End. *(Drafted.)*
+  - quote: à quatorze milles de Granite-house
+  - quote: pas être à plus de cinq milles du promontoire du Reptile
+- Next day the tip of the peninsula is reached and the forest crossed end to end; no sign of the convicts' retreat nor of the unknown's. *(Drafted.)*
+  - quote: aucun indice n’avait permis de trouver la retraite où s’étaient réfugiés les convicts
+  - quote: celle, non moins secrète, qui donnait asile au mystérieux inconnu

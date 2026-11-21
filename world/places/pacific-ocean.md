@@ -50,4 +50,4 @@ Keywords: Pacifique, ocean, sea, océan, Mexico, crossing, presumption
   - Pieces of the mountain fall into it in the explosion, and the rock that remains is to figure on the charts of the Pacific (III.19 ¶81; III.20 ¶49). *(Drafted.)*
     - quote: Des morceaux de montagnes retombèrent dans le Pacifique
     - quote: devait désormais figurer sur les cartes du Pacifique
-- **Appears in:** I.7, I.9, I.11, I.14, I.16, I.19, I.21, II.4, II.10, II.11, II.17, III.1, III.2, III.19, III.20
+- **Appears in:** I.7, I.9, I.11, I.14, I.16, I.19, I.21, II.4, II.10, II.11, II.13, II.17, III.1, III.2, III.19, III.20

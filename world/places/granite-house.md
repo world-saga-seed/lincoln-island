@@ -232,7 +232,7 @@ Keywords: home, house, shaft, rock, rope, orifice, dwelling
     - quote: la corde du haut de Granite-house
   - Nemo summoned the colonists of Granite-house by a wire linking the corral to the Nautilus (III.16 ¶66). *(Drafted.)*
     - quote: il manda, comme on sait, les colons de Granite-house
-- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, II.18, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.13, III.14, III.15, III.16, III.18, III.19, III.20
+- **Appears in:** I.18, I.19, I.20, I.21, I.22, II.2, II.6, II.7, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.18, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.13, III.14, III.15, III.16, III.18, III.19, III.20
 - **Open:**
   - Chapter I.13 knows no Granite-house: there the engineer still hopes to find or build a better dwelling than the Chimneys (I.13 ¶40). Nothing in these chapters says where Granite-house stands, how big it is, or how the well opens inside it.
     - quote: une demeure plus convenable

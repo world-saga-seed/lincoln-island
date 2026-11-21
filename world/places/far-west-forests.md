@@ -92,7 +92,7 @@ Keywords: Far-West, forêts, bois, woods, forest, Serpentine, impenetrable, for�
     - quote: L’emplacement des forêts détruites était plus aride que le marais des tadornes
   - Forests that became the Far-West forests are named in the colonists’ domain in Iowa (see [the Iowa domain](iowa-domain.md)) (III.20 ¶52). *(Drafted.)*
     - quote: des forêts qui devinrent les forêts du Far-West
-- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12, II.18, III.6, III.8, III.11, III.12, III.14, III.19, III.20
+- **Appears in:** I.11, I.12, I.19, I.20, I.21, I.22, II.1, II.3, II.4, II.7, II.8, II.9, II.10, II.12, II.16, II.18, III.6, III.8, III.11, III.12, III.14, III.19, III.20
 - **Open:**
   - How much of the great forest the name covers: I.11 ¶32 says the trees make "two thirds" of the island a forest; I.11 ¶27 has the forest cover the whole south from the mountain to the shore; ¶81 gives the name to the woods of the Serpentine peninsula. The three do not say how they overlap, nor whether it takes in [the evergreen forest](the-evergreen-forest.md) or [the wood of the Jacamar](jacamar-wood.md). Card neither.
     - quote: très-boisée dans toute sa portion méridionale depuis la montagne jusqu’au littoral

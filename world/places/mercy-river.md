@@ -181,4 +181,4 @@ Keywords: Mercy, stream, ford, bank, current, crossing, la Mercy, Providence, na
 - **On the page.**
   - The forest on the left bank bears the name wood of the Jacamar (I.13 ¶36). *(Drafted.)*
     - quote: la partie de la forêt située sur la rive gauche de la Mercy
-- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.18, II.20, III.2, III.3, III.4, III.6, III.7, III.9, III.10, III.11, III.13, III.14, III.15, III.16, III.19, III.20
+- **Appears in:** I.4, I.5, I.6, I.7, I.9, I.10, I.11, I.12, I.13, I.16, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.5, II.7, II.8, II.9, II.10, II.12, II.13, II.15, II.16, II.18, II.20, III.2, III.3, III.4, III.6, III.7, III.9, III.10, III.11, III.13, III.14, III.15, III.16, III.19, III.20

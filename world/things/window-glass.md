@@ -1,6 +1,6 @@
-# The window glass: panes Smith means to make for the facade
+# The window glass: the panes Smith and Harbert make for Granite-house
 
-*Window glass not yet made: the openings of the facade stand closed by thick shutters until the engineer has time to make it.*
+*Glass blown from the island's sand, lime and soda in March of the second year; until then thick shutters close the openings of the facade.*
 
 Keywords: verre à vitre, glass, panes, windows, châssis, frames, fenêtres
 

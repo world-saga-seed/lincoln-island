@@ -418,8 +418,6 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Harbert découvrit des essences nouvelles, dont la présence n’avait pas encore été signalée dans l’île
 - **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16, II.17, II.18, II.19, II.20, III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8, III.9, III.10, III.11, III.12, III.13, III.14, III.15, III.17, III.18, III.19, III.20
 - **Open:**
-  - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
-    - quote: brave enfant
   - The day of the second fit: the first fit is dated 6 December (III.10 ¶34) and the fever does not return "le jour suivant" (¶42); the day and night of anxiety are then "cette journée du 7 décembre" (¶52, where "décembre" is Wikisource's correction of the print's "novembre"), and "La journée du lendemain, 8 décembre" follows the night with the second fit (¶56). *(Drafted.)*
     - quote: elle ne revint pas davantage le jour suivant
     - quote: cette journée du 7 décembre

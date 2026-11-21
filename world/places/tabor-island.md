@@ -1,6 +1,6 @@
-# Tabor Island: an island where Ayrton was left
+# Tabor Island: the islet where Ayrton was left
 
-*The island where Ayrton was left by the Scottish yacht; the atlas puts it farther west and south than Lincoln, and the colonists sail to it in the Bonadventure.*
+*The island where Ayrton was left by the Scottish yacht, and to which the colonists sail in the Bonadventure; its direction and distance from Lincoln the text gives more than one way.*
 
 Keywords: île Tabor, Ayrton, bottle, message, castaway
 

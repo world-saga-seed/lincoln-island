@@ -1,6 +1,6 @@
-# Pencroff's pipe: the sailor's pipe, lost in the fall
+# Pencroff's pipe: the sailor's pipe, lost at the landing, and the pipe given him later
 
-*Pencroff's pipe, which left him in the shaking of the landing.*
+*Pencroff's pipe was lost at the landing; on 31 May a filled pipe is given him, which goes to Jup in August. The text does not say whether they are one pipe.*
 
 Keywords: pipe, smoker, tobacco, lost
 

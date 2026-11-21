@@ -1,6 +1,6 @@
 # The bottle: the stoppered bottle Harbert takes from the sea off port Ballon
 
-*A closed bottle seized on 10 October a few cable lengths from the coast, holding a wet paper with the position of Tabor Island.*
+*A closed bottle taken from the sea on 10 October off the coast, holding a paper with the position of Tabor Island; how far out, and how old the paper, the text gives two ways.*
 
 Keywords: bouteille, bottle, document, message, naufragé, castaway, Tabor, Harbert, papier, latitude, longitude
 

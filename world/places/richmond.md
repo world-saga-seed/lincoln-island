@@ -43,4 +43,4 @@ Keywords: Virginia, siege, capital, stronghold, great square, prison, escape, Gr
     - quote: Une pluie mêlée de neige tombait
   - The landing shore was more than six thousand miles from their country (I.2 ¶57). *(Drafted.)*
     - quote: à plus de six mille milles de leur pays
-- **Appears in:** I.2, I.11, I.12, I.20, II.8, III.8, III.14
+- **Appears in:** I.2, I.11, I.12, I.20, II.8, II.16, III.8, III.14

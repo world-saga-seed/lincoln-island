@@ -125,6 +125,7 @@ Keywords: être mystérieux, bienfaiteur, bienfaisant inconnu, protecteur, incon
     - quote: Ce canot était fait en tôle boulonnée
     - quote: Cette lumière provenait d’une source électrique
     - quote: Capitaine Nemo, vous nous avez demandés ?
+  - His own card is [Captain Nemo](captain-nemo.md); this card keeps the colonists' view of him before they knew him (III.15 ¶147). *(Drafted.)*
   - The colonists call him "leur bienfaiteur" and "ce protecteur" they had known only a few hours (III.17 ¶43, ¶86). *(Drafted.)*
     - quote: ce protecteur qu’ils auraient connu quelques heures à peine
     - quote: leur bienfaiteur

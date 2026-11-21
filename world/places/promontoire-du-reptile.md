@@ -40,4 +40,4 @@ Keywords: promontoire du Reptile, Reptile-end, queue, reptile, extremity, south-
     - quote: il ne devait pas être à plus de cinq milles du promontoire du Reptile
   - The forest shore stretches from it to the Falls-river (III.12 ¶1). *(Drafted.)*
     - quote: le littoral depuis le promontoire du Reptile jusqu’à la rivière de la Chute
-- **Appears in:** I.11, I.20, II.1, II.4, II.5, II.19, III.11, III.12
+- **Appears in:** I.11, I.20, II.1, II.4, II.5, II.13, II.16, II.19, III.11, III.12

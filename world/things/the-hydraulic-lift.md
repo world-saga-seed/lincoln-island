@@ -1,6 +1,6 @@
-# The hydraulic lift: the lift Smith plans for Granite-house
+# The hydraulic lift: the water-driven lift of Granite-house
 
-*A water-driven lift that Smith means to install later to spare the inhabitants of Granite-house all fatigue and loss of time on the ladder.*
+*A hamper on a cable, wound by a wheel turned by a fall of lake water in the corridor; it first works on 17 March and replaces the ladder.*
 
 Keywords: ascenseur, lift, elevator, hydraulic, water power, ladder, plan
 

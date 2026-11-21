@@ -66,4 +66,4 @@ Keywords: caisse, chest, épave, wreck, flotson, barrels, inventory, zinc, tools
   - Smith says it was he who brought the chest, so well supplied with all that the colonists lacked, and stranded it at the pointe de l’Épave (III.5 ¶3). *(Drafted.)*
     - quote: cette caisse, si convenablement pourvue de tout ce qui nous manquait
     - quote: c’est lui qui l’a conduite et échouée à la pointe de l’Épave
-- **Appears in:** II.2, II.3, II.18, II.20, III.4, III.5
+- **Appears in:** II.2, II.3, II.13, II.18, II.20, III.4, III.5

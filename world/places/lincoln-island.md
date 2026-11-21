@@ -275,7 +275,7 @@ Keywords: île Lincoln, shore, coast, landfall, desert island, volcanic, castawa
     - quote: Peut-être voyait-il des hommes pour la première fois
   - By 5 April the castaways had been on it for twelve days (I.13 ¶41). *(Drafted.)*
     - quote: il y avait douze jours que le vent avait jeté les naufragés sur ce littoral
-- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.19, II.20, III.1, III.2, III.10, III.11, III.12, III.13, III.14, III.15, III.16, III.17, III.18, III.19, III.20
+- **Appears in:** I.1, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.16, I.19, I.20, I.21, I.22, II.1, II.9, II.11, II.13, II.14, II.15, II.16, II.19, II.20, III.1, III.2, III.10, III.11, III.12, III.13, III.14, III.15, III.16, III.17, III.18, III.19, III.20
 - **Open:**
   - I.1 does not name the land the balloon reaches; the link to Lincoln Island is a reading from I.13 ¶41, which counts twelve days from the landing.
     - quote: Ils ignoraient ce qu’il était, île ou continent

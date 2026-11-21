@@ -84,3 +84,4 @@
 | 2026-11-21 | agent, Sonnet: carder w14b (places, things) | phase 4 | 05500 to 05700, 05900 | 15017 | the four chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 268,275 | 51 | 14.0 |
 | 2026-11-21 | agent, Sonnet: carder w15a (people, animals) | phase 4 | 06000 to 06200 | 11020 | the three chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 152,958 | 30 | 5.3 |
 | 2026-11-21 | agent, Sonnet: carder w15b (places, things) | phase 4 | 06000 to 06200 | 11020 | the three chapters, the form, their Clues, I.11 ¶63-¶81, the cards it extended | 194,515 | 38 | 8.2 |
+| 2026-11-21 | agent, Sonnet: large-card reviewer, first pass | phase 4 | 21 large cards | — | large-cards.tsv (1,449 lines), the card form | 145,932 | 14 | 2.1 |

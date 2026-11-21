@@ -165,7 +165,7 @@ Keywords: montagne, cime, neige, volcano, summit, peak, Franklin, view, mont Fra
     - quote: le cône inférieur du mont Franklin, déchiré par l’explosion
   - Its name is given to a mountain of the colonists’ domain in Iowa (see [the Iowa domain](iowa-domain.md)) (III.20 ¶52). *(Drafted.)*
     - quote: une montagne qui prit le nom de Franklin
-- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8, II.11, II.12, II.18, II.19, III.1, III.7, III.8, III.11, III.12, III.13, III.14, III.15, III.18, III.19, III.20
+- **Appears in:** I.3, I.4, I.6, I.9, I.10, I.11, I.12, I.15, I.16, I.17, I.20, I.21, II.1, II.2, II.3, II.4, II.8, II.11, II.12, II.13, II.18, II.19, III.1, III.7, III.8, III.11, III.12, III.13, III.14, III.15, III.18, III.19, III.20
 - **Open:**
   - Distance: I.3 ¶54 puts it at "sept milles au moins" and I.4 ¶47 at "six ou sept milles"; carded neither way.
     - quote: à une distance de six ou sept milles

@@ -25,7 +25,9 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The banksias](banksias.md) | trees of the Red Creek |
 | [Basalt](basalt.md) | the volcanic rock strewn over the mountain and the plain at its foot |
 | [The basket](nacelle.md) | the wicker car of the balloon |
+| [The beacon fire](the-beacon-fire.md) | the glow on Lincoln that guides the Bonadventure home |
 | [The beer and liquor](beer-and-liquor.md) | the gallons of beer and fermented liquor of the first exploration |
+| [The beer yeast](beer-yeast.md) | the yeast that leavens the first loaf |
 | [The besaiguë](besaigue.md) | the double-edged carpenter’s tool of the chest |
 | [The Bible](the-bible.md) | the English Bible of the chest, with a pencil cross before Matthew VII, 8 |
 | [The binocular](binocular.md) | the field glass of the chest |
@@ -43,11 +45,15 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The brick kiln](brick-kiln.md) | the open stack that fired the first bricks |
 | [The bricks](bricks.md) | hand-moulded sun-dried bricks |
 | [The briquet](briquet.md) | the steel for striking sparks, with its tinder |
+| [The Britannia](the-britannia.md) | the wrecked ship named on the Tabor plank |
+| [The Britannia plank](the-britannia-plank.md) | the board with half-effaced letters on the Tabor hut |
 | [The burnt linen](burnt-linen.md) | a half-burnt rag of Pencroff's handkerchief kept as tinder |
+| [The cabbages](cabbages.md) | the cabbages of the Tabor plots |
 | [The caladium macrorhizum](caladium.md) | a herb whose boiled rhizomes feed the colonists |
 | [The candles](candles.md) | stearic candles made from seal fat |
 | [The carbines](carbines.md) | the two central-fire carbines of the chest |
 | [The carpenter’s axes](carpenters-axes.md) | two axes of the chest |
+| [The carrots](carrots.md) | the carrots of the Tabor plots |
 | [The cart](the-cart.md) | the crude cart that replaced the hurdle |
 | [The casuarinas](casuarinas.md) | trees of the Red Creek banks |
 | [The chemical matches](chemical-matches.md) | matches Smith plans to make |
@@ -96,6 +102,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The firing device](firing-device.md) | an iron mass hung over the mine hole on a fibre, lit by a slow sulphured fibre |
 | [The firs](firs.md) | the tall firs of the forest |
 | [The first fire](first-fire.md) | the fire lit with the last match on 25 March |
+| [The first loaf](the-first-loaf.md) | the first bread of Lincoln Island |
 | [The flintlock guns](flintlock-guns.md) | the two flint-fired guns of the chest |
 | [The footprints](footprints.md) | the prints of Smith's shoes in the sand |
 | [The fulgurites](fulgurites.md) | sand fused to glass by the lightning |
@@ -242,18 +249,39 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [Sulphur](sulphur.md) | the sulphur of the volcano, wanted for powder |
 | [The sulphuric acid](sulphuric-acid.md) | acid distilled from the iron sulphate on 20 May |
 | [The table knives](table-knives.md) | six knives of the chest |
+| [The Tabor bed](tabor-bed.md) | the disordered bed of the Tabor hut |
+| [The Tabor bench](tabor-bench.md) | the bench of the Tabor hut |
+| [The Tabor Bible](tabor-bible.md) | the Bible gnawed by damp on the Tabor table |
+| [The Tabor cupboard](tabor-cupboard.md) | the cupboard of the Tabor hut |
+| [The Tabor fence](tabor-fence.md) | the wooden fence of the Tabor hut’s lawn |
+| [The Tabor fireplace](tabor-fireplace.md) | the rough chimney of the Tabor hut |
+| [The Tabor guns](the-tabor-guns.md) | the two shotguns of the Tabor hut, one broken |
+| [The Tabor kettles](tabor-kettles.md) | the two rusted kettles of the Tabor hut |
+| [The Tabor lead](the-tabor-lead.md) | the barrel of lead from the Tabor hut |
+| [The Tabor pot](tabor-pot.md) | the overturned pot of the Tabor hut |
+| [The Tabor powder](the-tabor-powder.md) | the intact barrel of powder from the Tabor hut |
+| [The Tabor primers](the-tabor-primers.md) | the boxes of caps from the Tabor hut |
+| [The Tabor sailor’s clothes](tabor-sailor-clothes.md) | the half-mouldy clothes in the Tabor cupboard |
+| [The Tabor seeds](tabor-seeds.md) | the vegetable seed taken from Tabor to Lincoln |
+| [The Tabor shelf](tabor-shelf.md) | the shelf of the Tabor hut holding powder, lead and caps |
+| [The Tabor table](tabor-table.md) | the table of the Tabor hut |
+| [The Tabor tin cutlery](tabor-tin-cutlery.md) | the tin place-setting on the Tabor table |
+| [The Tabor tools](the-tabor-tools.md) | the shovel, pickaxe and pick of the Tabor hut |
 | [The telescope](telescope.md) | the long glass of the chest |
 | [The tinder](tinder.md) | tinder (amadou) of dried armoise and saltpetre |
 | [Tobacco](tobacco.md) | the plant Pencroff wants and the island has not given |
 | [The tool chain](tool-chain.md) | the colonists' made things in order |
 | [The torches](torches.md) | resinous branches lit for the descent of the old outlet |
 | [The torpedo](torpedo.md) | a torpedo placed at the bottom of the channel |
+| [The turnips](turnips.md) | the turnips of the Tabor plots |
 | [The turtle eggs](turtle-eggs.md) | the round hard-shelled eggs of the sea turtles of the Mandibule beaches |
 | [The tussac](tussac.md) | the tall grass of the clearings |
 | [The two bridges](the-two-bridges.md) | the two small plank bridges over the new outlet |
 | [The two knife blades](knife-blades.md) | the first tool, made from the dog's collar |
 | [The tétras jelly](tetras-jelly.md) | juice and jelly of tétras flesh given to Smith |
 | [The tétras lines](tetras-lines.md) | baited lines of liana and thorn set for tétras |
+| [The unknown’s clothes](the-unknowns-clothes.md) | the scrap of blanket, then the colonists’ clothing |
+| [The unknown’s knife](the-unknowns-knife.md) | the knife with which he kills the jaguar |
 | [The Vigo treasure](vigo-treasure.md) | the sunken wealth Nemo drew on |
 | [The water channel](the-water-channel.md) | the lake water led to Granite-house |
 | [The water jug](water-jug.md) | a jug Nab carried for fresh water |
@@ -261,6 +289,7 @@ A card for every thing and every made thing, the tool chain in order, each fact 
 | [The wicker baskets](wicker-baskets.md) | baskets and hampers of every size made in the winter |
 | [The wild radishes](wild-radishes.md) | the raves of the Mercy bank |
 | [The wild spinach](wild-spinach.md) | a goosefoot found on the Mercy bank |
+| [The windmill](the-windmill.md) | the wind mill built on the Grande-Vue plateau |
 | [The window glass](window-glass.md) | panes Smith means to make for the facade |
 | [The wooden compass](wooden-compass.md) | Smith's two-armed angle gauge, a stand-in for the sextant |
 | [The writing paper](writing-paper.md) | three reams of white paper of the chest |

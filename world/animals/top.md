@@ -90,6 +90,8 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
     - quote: sautant à la gorge des renards et les étranglant net
   - Nab counts him as a colonist: 'Top en vaut bien un autre !' (II.12 ¶118). *(Drafted.)*
     - quote: Top en vaut bien un autre
+  - He did not sail with the Bonadventure for Tabor: Pencroff hopes to catch pigs there even without him, so counts on him as a help in the hunt (II.14 ¶41). *(My reading, to confirm.)*
+    - quote: même en l’absence de Top
 - **On the page.**
   - He vanishes when the engineer is swept off, having gone of his own will to his master's aid (I.3 ¶1). *(Drafted.)*
     - quote: s’était volontairement précipité au secours de son maître
@@ -155,4 +157,4 @@ Keywords: Top, chien, dog, Cyrus Smith, faithful, balloon, chain
   - He licks Jup's hand, which hangs out of the bed, ruefully, and walks 'on tiptoe' to visit his friend (II.12 ¶57). *(Drafted.)*
     - quote: Top, marchant, on peut dire « sur la pointe des pieds », venait visiter son ami
     - quote: Top la léchait d’un air contrit
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.12, I.15, I.16, I.17, I.18, I.19, I.21, I.22, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.11, II.12, II.14

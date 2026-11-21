@@ -47,4 +47,20 @@ Keywords: grain de blé, blé, wheat, grain, seed, bread, pain, harvest, moisson
     - quote: nous aurons quatre mille boisseaux
   - The third field is far larger than the first two, its earth prepared with extreme care (see [the wheat field](../places/the-wheat-field.md)) (II.10 ¶18). *(Drafted.)*
     - quote: Le troisième champ de blé fut donc incomparablement plus étendu que les deux premiers
-- **Appears in:** I.20, I.21, II.7, II.8, II.10
+  - The third harvest is made on 15 November; the second crop of six hundred thousand grains gives this time four thousand bushels, more than five hundred million grains (II.16 ¶80). *(Drafted.)*
+    - quote: Au 15 novembre, on fit la troisième moisson
+    - quote: La seconde récolte de six cent mille grains produisit cette fois quatre mille boisseaux, soit plus de cinq cents millions de grains
+  - The colony is rich in wheat, since sowing about ten bushels is enough to secure the crop every year and to feed men and beasts (II.16 ¶80). *(Drafted.)*
+    - quote: il suffisait de semer une dizaine de boisseaux pour que la récolte fût assurée chaque année et que tous, hommes et bêtes, pussent s’en nourrir
+  - The last fortnight of November is given to the work of making bread; there is grain but no flour, so a mill is needed (see [the windmill](the-windmill.md)) (II.16 ¶81, ¶82). *(Drafted.)*
+    - quote: on consacra la dernière quinzaine du mois de novembre aux travaux de panification
+    - quote: on avait le grain, mais non la farine, et l’installation d’un moulin fut nécessaire
+  - Two or three bushels of wheat are ground on the morning of the mill’s first day, and the next morning a fine loaf is on the table at Granite-house (see [the first loaf](the-first-loaf.md)) (II.16 ¶94). *(Drafted.)*
+    - quote: deux à trois boisseaux de blé furent moulus
+    - quote: une magnifique miche
+- **Appears in:** I.20, I.21, II.7, II.8, II.10, II.16
+- **Open:**
+  - The harvest of the third field: ¶80 heads it "la troisième moisson" yet calls the crop of six hundred thousand grains "La seconde récolte"; and the second harvest of 15 April gave six hundred and fifty thousand grains (II.10 ¶11); card neither (II.16 ¶80; II.10 ¶11). *(Drafted.)*
+    - quote: Au 15 novembre, on fit la troisième moisson
+    - quote: La seconde récolte de six cent mille grains
+    - quote: cela fait six cent cinquante mille grains

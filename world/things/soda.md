@@ -11,6 +11,8 @@ Keywords: soude, soude naturelle, natural soda, ash, sea plants, salicornia, sap
     - quote: les plantes marines fournissaient la soude
   - The mouflon wool is washed through with soda baths before fulling (II.11 ¶4). *(Drafted.)*
     - quote: un lavage à fond au moyen de bains de soude
+  - Soda is being made at the Chimneys on 3 December, the stock of soap being exhausted (see [the soap](soap.md)) (II.16 ¶99). *(Drafted.)*
+    - quote: fabriquer de la soude, la provision de savon étant épuisée
 - **Made from.**
   - Sea plants abound on the shore, salicornias, ficoids and the fucaceae that make wracks and tangles; a great quantity is gathered, dried, then burnt in open pits (I.17 ¶45). *(Drafted.)*
     - quote: salicornes, ficoïdes, et toutes ces fucacées qui forment les varechs et les goëmons
@@ -22,4 +24,4 @@ Keywords: soude, soude naturelle, natural soda, ash, sea plants, salicornia, sap
     - quote: le traitement par la soude fournirait, au contraire, un savon soluble
   - Soda and potash from burnt plants degrease the balloon's cloth in January (see [the balloon's envelope](balloon-envelope.md)) (II.8 ¶3). *(Drafted.)*
     - quote: dégraissées au moyen de soude et de potasse obtenues par incinération de plantes
-- **Appears in:** I.17, II.8, II.9, II.11
+- **Appears in:** I.17, II.8, II.9, II.11, II.16

@@ -14,4 +14,6 @@ Keywords: pins, pine, parasol, conifer, evergreen
     - quote: cette contrée se trouvait plus élevée en latitude que ne le supposait l’ingénieur
   - Great secular pines shade a large pond (I.9 ¶108). *(Drafted.)*
     - quote: ombragée par de grands pins séculaires
-- **Appears in:** I.4, I.9
+  - A clump of pines stands on Tabor, giving shade to rest in (II.14 ¶33). *(Drafted.)*
+    - quote: à l’ombre d’un bouquet de pins
+- **Appears in:** I.4, I.9, II.14

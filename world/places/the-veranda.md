@@ -10,4 +10,6 @@ Keywords: vérandah, veranda, Nab, plateau, evening, creepers, plantes grimpante
     - quote: sur la lisière du plateau de Grande-Vue
   - The colonists gather under it after dinner, at the plateau’s edge, to watch night rise on the horizon (II.9 ¶69). *(Drafted.)*
     - quote: étaient réunis sous la vérandah, à la lisière du plateau de Grande-Vue
-- **Appears in:** II.8, II.9
+  - The colonists are gathered under it on the evening of 10 November, at eight o’clock, as dusk begins (II.16 ¶66). *(Drafted.)*
+    - quote: réunis sous la vérandah
+- **Appears in:** II.8, II.9, II.16

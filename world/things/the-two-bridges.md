@@ -18,8 +18,8 @@ Keywords: ponceaux, bridges, passerelles, plateau, grève, new outlet, carpentry
     - quote: Ils auront franchi le ponceau de la grève
     - quote: que l’un de nous aura oublié de refermer
     - quote: Il était certain que le ponceau avait été franchi
-  - The raiders retreat to the north over it at dawn, and Nab runs to raise it (II.12 ¶47). *(Drafted.)*
-    - quote: de manière à repasser le ponceau, que Nab courut relever immédiatement
   - From then on none goes to bed without one of them making sure that all the bridges are raised (II.12 ¶59). *(Drafted.)*
     - quote: ils ne se couchèrent plus sans que l’un d’eux se fût assuré que tous les ponts étaient relevés
-- **Appears in:** I.20, II.7, II.12
+  - By day the bridges are kept raised, so that Nab says the unknown cannot escape from the plateau (II.15 ¶86). *(Drafted.)*
+    - quote: il ne pourra pas s’échapper, fit observer Nab, puisque les ponts sont relevés
+- **Appears in:** I.20, II.7, II.12, II.15

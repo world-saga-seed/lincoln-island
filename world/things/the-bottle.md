@@ -18,7 +18,37 @@ Keywords: bouteille, bottle, document, message, naufragé, castaway, Tabor, Harb
     - quote: Naufragé… île Tabor : 153° O. long. — 37° 11′ lat. S.
   - These are the figures Smith read off the atlas for Tabor (II.9 ¶91). *(My reading, to confirm.)*
     - quote: Cette île est située par 153° de longitude et 37° 11′ de latitude
-- **Appears in:** II.9, II.12
+  - A day’s delay, says Spilett, and the bottle might have broken on the reefs; Harbert calls it a happy chance that the Bonadventure passed just when it was still floating (II.13 ¶7, ¶8). *(Drafted.)*
+    - quote: un jour de retard, et cette bouteille pouvait se briser sur les récifs
+    - quote: précisément quand cette bouteille flottait encore
+  - Smith reads the paper as showing that the castaway of Tabor is a man with fairly advanced knowledge of seamanship, since he gives the latitude and longitude of the island, in agreement with those the colonists found, to within a minute (II.13 ¶6). *(Drafted.)*
+    - quote: un homme ayant des connaissances assez avancées en marine
+    - quote: conformes à celles que nous avons trouvées, et jusqu’à une minute d’approximation
+  - He reads it also as English or American, since the document is written in the English language (II.13 ¶6). *(Drafted.)*
+    - quote: qu’il est anglais ou américain, puisque le document est écrit en langue anglaise
+  - Spilett says that the presence of this castaway explains the arrival of the chest on the island’s shores (see [the chest](the-chest.md)) (II.13 ¶7). *(Drafted.)*
+    - quote: la présence de ce naufragé explique l’arrivée de la caisse sur les rivages de l’île
+  - Smith asks Pencroff whether the finding does not seem strange to him, and, when Pencroff says it seems only fortunate, answers "et cependant…" (II.13 ¶9, ¶11). *(Drafted.)*
+    - quote: Et cela ne vous semble pas bizarre ?
+    - quote: et cependant…
+  - Spilett says the document appears to have been recently written, and Smith says that cannot easily be checked but "nous le saurons !" (II.13 ¶13, ¶14). *(Drafted.)*
+    - quote: le document paraît avoir été récemment écrit
+    - quote: nous le saurons !
+  - Harbert says the document speaks of only one castaway (II.13 ¶76). *(Drafted.)*
+    - quote: ne parle que d’un seul naufragé
+  - Smith holds that the document was recently written and that only the castaway can have written it; it cannot be the work of a dead companion, since it would have spoken of two castaways and it speaks of only one (II.15 ¶26, ¶30). *(Drafted.)*
+    - quote: le document que nous avons trouvé avait été récemment écrit
+    - quote: le naufragé seul a pu écrire ce document
+    - quote: il ne parle que d’un seul
+  - Pencroff says the bottle was still floating when found, and that it could not have been taken back by the sea after lying on the shore, since the south coast is all rocks and would have broken it (II.16 ¶60). *(Drafted.)*
+    - quote: elle flottait encore
+    - quote: c’est tout rochers sur la côte sud, et elle s’y fût immanquablement brisée
+  - The paper was in a perfect state of preservation, not spoiled by damp (II.16 ¶62). *(Drafted.)*
+    - quote: il se trouvait dans un parfait état de conservation
+  - The paper gives the position of Tabor in latitude and longitude with precision, which implies in its author a fairly complete knowledge of hydrography, which a simple sailor could not have (II.16 ¶63). *(Drafted.)*
+    - quote: il donnait la situation de l’île Tabor en latitude et en longitude avec précision
+    - quote: des connaissances assez complètes en hydrographie, qu’un simple marin ne pouvait avoir
+- **Appears in:** II.9, II.12, II.13, II.15, II.16
 - **Open:**
   - Distance from the coast: the Bonadventure is "half a mile from the coast" when she nears port Ballon, and the bottle is taken "a few cable lengths" from it; whether these are the same distance is not said (II.12 ¶123, ¶130). *(Drafted.)*
     - quote: On n’était plus qu’à un demi-mille de la côte
@@ -26,3 +56,8 @@ Keywords: bouteille, bottle, document, message, naufragé, castaway, Tabor, Harb
   - Language: the paper is printed in French (ln3), while II.13 ¶6 says the document is "écrit en langue anglaise"; card neither (II.12 ln3; II.13 ¶6). *(Drafted.)*
     - quote: Naufragé… île Tabor : 153° O. long. — 37° 11′ lat. S.
     - quote: puisque le document est écrit en langue anglaise
+  - Whether the document is recent or old: Spilett finds it "récemment écrit" (II.13 ¶13) and Smith holds it recent (II.15 ¶26), but at Tabor the explorers conclude "que le document a une date déjà ancienne" (II.13 ¶85, ¶86), and later the unknown is thought to have written it years ago, "et cependant le document semblait récemment écrit" (II.16 ¶56, ¶57); card neither (II.13 ¶13, ¶85, ¶86; II.15 ¶26; II.16 ¶56, ¶57). *(Drafted.)*
+    - quote: le document paraît avoir été récemment écrit
+    - quote: Il faut donc admettre que le document a une date déjà ancienne ?
+    - quote: Il y aurait donc, par conséquent, plusieurs années qu’il aurait écrit ce document
+    - quote: le document semblait récemment écrit

@@ -17,15 +17,62 @@ Keywords: île Tabor, Ayrton, bottle, message, castaway
     - quote: sur ce rocher désert et à demi aride
   - Pencroff calls it the island’s neighbour, and the only one (II.12 ¶111). *(Drafted.)*
     - quote: L’île Tabor, c’est notre voisine, et c’est la seule
+  - The Bonadventure steers south-west from Lincoln to reach Tabor, and holds that direction through the whole of 12 October, to "terrir juste sur l’île Tabor"; the return is on a course east-north-east (II.13 ¶20, ¶32; II.14 ¶94). *(Drafted.)*
+    - quote: prendre directement ensuite la route du sud-ouest
+    - quote: il devait terrir juste sur l’île Tabor
+    - quote: mit le cap à l’est-nord-est, de manière à cingler directement vers l’île Lincoln
+  - The sea between Tabor and Lincoln is absolutely deserted, with only an albatross or a frigate bird passing at gunshot, though it is the season when whalers head for the southern Pacific (II.13 ¶33, ¶34). *(Drafted.)*
+    - quote: elle était absolument déserte
+    - quote: nous sommes à l’époque où les baleiniers se dirigent ordinairement vers la partie méridionale du Pacifique
+  - It is sighted at six in the morning of 13 October and seen from fifteen miles as a low coast scarcely emerged from the waves (II.13 ¶41, ¶44). *(Drafted.)*
+    - quote: Terre !
+    - quote: sorte de côte basse, à peine émergée des flots
+  - Harbert calls it only an islet, much less important than Lincoln and probably due, like it, to some submarine upheaval (II.13 ¶45). *(Drafted.)*
+    - quote: Ce n’est qu’un îlot beaucoup moins important que l’île Lincoln
+    - quote: probablement dû comme elle à quelque soulèvement sous-marin
+  - Gum trees stand in clumps on it, and other tall trees of the nature of those growing on Lincoln; no smoke rises (II.13 ¶47). *(Drafted.)*
+    - quote: des bouquets de gommiers verdoyants et quelques autres grands arbres, de la nature de ceux qui poussaient à l’île Lincoln
+  - By the latest maps there is no other island in that part of the Pacific between New Zealand and the American coast, so it cannot be mistaken for another (II.13 ¶51). *(Drafted.)*
+    - quote: d’après les cartes les plus récentes, il n’existait aucune autre île sur cette portion du Pacifique, entre la Nouvelle-Zélande et la côte américaine
+  - It measures no more than six miles round, in an elongated oval little fringed with capes or promontories and little hollowed with coves or creeks, with the sea around it deserted to the limits of the sky (II.13 ¶58). *(Drafted.)*
+    - quote: ne mesurait pas plus de six milles de tour
+    - quote: la forme d’un ovale allongé
+  - It is wooded over its whole surface, a uniform mass of greenery dominated by two or three low hills, without the diversity of Lincoln, arid on one side and fertile on the other (II.13 ¶59). *(Drafted.)*
+    - quote: boisé sur toute sa surface
+    - quote: que dominaient deux ou trois collines peu élevées
+  - Harbert calls the domain restricted, and Pencroff says it would have been a little small for the colonists (II.13 ¶60, ¶61). *(Drafted.)*
+    - quote: Le domaine est restreint
+    - quote: c’eût été un peu petit pour nous
+  - Its south point ends in a sharp cape; the west coast is sand and rocks, with thick woods behind; the shore is easy to follow, cut in a few places by big rocks (II.13 ¶66, ¶68). *(Drafted.)*
+    - quote: terminée par un cap aigu
+    - quote: également formée de sable et de roches, que d’épais bois bordaient en arrière-plan
+    - quote: de grosses roches la coupaient
+  - The whole perimeter is walked in four hours, with no trace of habitation or of a human footprint (II.13 ¶69). *(Drafted.)*
+    - quote: après quatre heures de marche, fut entièrement parcouru
+  - On it live goats and pigs of European species, which it is thought a whaler landed and which multiplied quickly (II.13 ¶73). *(Drafted.)*
+    - quote: appartenaient aux espèces européennes
+    - quote: Sans doute quelque baleinier les avait débarqués sur l’île
+  - Its works of men: the old paths and felled trees (see [the Tabor paths](tabor-paths.md)), the old vegetable plots (see [the Tabor plots](tabor-vegetable-plots.md)), one hut (see [the Tabor dwelling](the-tabor-dwelling.md)), and a stream (see [the Tabor stream](tabor-stream.md)); the landing is on the east coast (see [the Tabor landing](tabor-landing.md)), and a cone rises inland (see [the Tabor cone](tabor-cone.md)) (II.13 ¶52, ¶59, ¶74, ¶79, ¶92). *(My reading, to confirm.)*
+    - quote: un espèce de cône
+    - quote: un ruisseau coulait à travers une large prairie
+    - quote: des sentiers tracés
+    - quote: la terre avait été plantée de plantes potagères
+    - quote: elle avait été construite en planches
   - Ayrton's presence on Tabor Island was made known by a document enclosed in a bottle (III.16 ¶65). *(Drafted.)*
     - quote: fit connaître la présence d’Ayrton à l’île Tabor, au moyen du document enfermé dans la bouteille
 - **On the page.**
   - The editor refers to Ayrton's adventures and a note on the disagreement of some dates (III.16 n1). *(Drafted.)*
     - quote: sur la discordance de quelques dates
-- **Appears in:** II.9, II.11, II.12, III.16
+- **Appears in:** II.9, II.11, II.12, II.13, II.14, III.16
 - **Open:**
   - These chapters say nothing else of Tabor Island. The editor's note refers to the earlier tale of Ayrton's adventures and warns of a disagreement of dates; no earlier book is drawn on here.
     - quote: à propos des aventures d’Ayrton
   - The direction: ¶91 puts it "plus à l’ouest" and "plus au sud" than Lincoln, but ¶99 puts it "dans le nord-est"; card neither (II.9 ¶91, ¶99). *(Drafted.)*
     - quote: à deux degrés et demi plus à l’ouest et deux degrés plus au sud que l’île Lincoln
     - quote: À cent cinquante milles environ dans le nord-est
+  - The distance: Pencroff speaks of the castaway as "abandonné à quelques cents milles de nous", while ¶17 puts the crossing at "cent cinquante milles"; card neither (II.13 ¶1, ¶17). *(Drafted.)*
+    - quote: abandonné à quelques cents milles de nous
+    - quote: cette traversée de cent cinquante milles
+  - The direction: the boat’s course is south-west going and east-north-east returning (II.13 ¶20, ¶32; II.14 ¶94), which agrees with the atlas of II.9 ¶91, "plus à l’ouest et plus au sud", and not with II.9 ¶99 "dans le nord-est"; card neither (II.13 ¶20, ¶32; II.14 ¶94). *(Drafted.)*
+    - quote: prendre directement ensuite la route du sud-ouest
+    - quote: mit le cap à l’est-nord-est

@@ -22,6 +22,8 @@ Keywords: pigeon, pigeon de roche, wild pigeon, eggs, œufs, Harbert
     - quote: ne se reproduisent qu’à l’état sauvage
   - Rock pigeons are shot in the wood and roasted (II.6 ¶58). *(Drafted.)*
     - quote: quelques pigeons de roche, que l’on fit rôtir
+  - Bands of rock pigeons, like those of Lincoln Island, fly up before the party on Tabor Island (II.13 ¶56). *(Drafted.)*
+    - quote: Des bandes de pigeons de roche et d’hirondelles de mer, semblables à ceux de l’île Lincoln
 - **On the page.**
   - Some dozens of eggs are found in cavities and collected in Pencroff's handkerchief (I.4 ¶62). *(My reading, to confirm.)*
     - quote: Quelques douzaines furent recueillies, puis placées dans le mouchoir du marin
@@ -33,4 +35,4 @@ Keywords: pigeon, pigeon de roche, wild pigeon, eggs, œufs, Harbert
     - quote: ces pigeons qui volaient par centaines à la crête du plateau
   - Pigeon eggs make up, with lithodomes, the breakfast of 26 March (I.6 ¶10). *(Drafted.)*
     - quote: uniquement composé d’œufs de pigeon et de lithodomes
-- **Appears in:** I.4, I.5, I.6, I.16, I.19, II.6, II.7
+- **Appears in:** I.4, I.5, I.6, I.16, I.19, II.6, II.7, II.13

@@ -26,6 +26,8 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Dugong](dugong.md) | the sea-mammal killed in Lake Grant |
 | [Echidnas](echidnas.md) | the spiny anteaters of the Jacamar Wood |
 | [Edible shellfish](edible-shellfish.md) | the coquillages of the south shore |
+| [Frigate birds](frigate-birds.md) | the frégates of the open sea |
+| [Goats of Tabor](goats-of-tabor.md) | the European goats of Tabor Island |
 | [Grebes](grebes.md) | the grèbes of the winter marsh |
 | [Green turtle](green-turtle.md) | the mydas the colonists turned over and lost |
 | [Guillemots](guillemots.md) | sea birds on the frozen lake |
@@ -52,11 +54,13 @@ A card for every animal named or met in the French, one a kind, each fact cited 
 | [Pelicans](pelicans.md) | water birds of the lake shore |
 | [Penguins](penguins.md) | the braying diving birds of the islet |
 | [Petrels](petrels.md) | sea birds that love storms |
+| [Pigs of Tabor](pigs-of-tabor.md) | the European pigs of Tabor Island |
 | [Pintails](pintails.md) | the pilets of the marsh and lake |
 | [Rabbits](rabbits.md) | the lapins d’Amérique of the warren |
 | [Red worms](red-worms.md) | the fat worms used as bait |
 | [Rock pigeons](rock-pigeons.md) | the cliff birds whose eggs feed the first supper |
 | [Salmon](salmon.md) | the shoals that run up the Mercy |
+| [Sea swallows](sea-swallows.md) | the hirondelles de mer of Tabor |
 | [Seals](seals.md) | the oily amphibians of the islet |
 | [Shovellers](shovellers.md) | the souchets of the poultry-yard |
 | [Silver spotted fish](spotted-silver-fish.md) | the savoury fish with yellowish dots |

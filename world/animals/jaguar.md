@@ -25,6 +25,13 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
   - A jaguar is caught in the whalebone traps, among a dozen foxes and some boars, and found dead with its stomach pierced by the unbent whalebone (II.11 ¶29). *(Drafted.)*
     - quote: Une douzaine de renards, quelques sangliers et même un jaguar s’y laissèrent prendre
     - quote: l’estomac perforé par les fanons détendus
+  - A formidable jaguar, like the one killed at the Reptile promontory, is met in the forest across the Creek-Glycérine, on the lake's south side, where dangerous animals had not shown themselves (II.16 ¶98, ¶104). *(Drafted.)*
+    - quote: un formidable jaguar, semblable à celui qui avait été tué au promontoire du Reptile
+    - quote: les animaux dangereux ne se montraient pas dans cette partie de l’île
+  - It is killed there with a knife by the unknown, who seizes its throat and stabs its heart, as it crouches to spring on Harbert (II.16 ¶104, ¶105, ¶106). *(Drafted.)*
+    - quote: ramassé sur lui-même, allait s’élancer
+    - quote: il lui fouillait le cœur avec son couteau
+    - quote: Le jaguar tomba
 - **On the page.**
   - It comes forward, bristling, eye aflame, as if it had never before smelt man (II.4 ¶64). *(Drafted.)*
     - quote: le poil hérissé, l’œil en feu
@@ -36,4 +43,4 @@ Keywords: jaguar, fauve, félin, tigre, rival du tigre, couguar, caverne, repair
   - Its skin is thought to make the ornament of the great hall of Granite-house, and Nab skins it (II.4 ¶67, ¶77). *(Drafted.)*
     - quote: dont la magnifique dépouille ferait l’ornement de la grande salle de Granite-house
     - quote: Nab dépouillait le jaguar
-- **Appears in:** I.13, II.4, II.11
+- **Appears in:** I.13, II.4, II.11, II.16

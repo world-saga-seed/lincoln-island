@@ -92,10 +92,17 @@ A card for every place named on or off the island, each fact cited to the French
 | [The stable](the-stable.md) | the onaggas' shelter beside the poultry-yard |
 | [The stream by the grotto](grotto-stream.md) | a clear stream a hundred paces from the grotto |
 | [The sulphur spring](sulphur-spring.md) | a warm sulphurous spring at the foot of Mont Franklin |
+| [The Tabor cone](tabor-cone.md) | the hill climbed to survey Tabor Island |
+| [The Tabor dwelling](the-tabor-dwelling.md) | the plank hut found empty on Tabor Island |
 | [Tabor Island](tabor-island.md) | an island where Ayrton was left |
+| [The Tabor landing](tabor-landing.md) | the sand beach on Tabor’s east coast where the Bonadventure lies |
+| [The Tabor paths](tabor-paths.md) | the overgrown tracks and old felled trees of Tabor’s woods |
+| [The Tabor plots](tabor-vegetable-plots.md) | the old vegetable beds in Tabor’s clearings |
+| [The Tabor stream](tabor-stream.md) | the brook across Tabor’s meadow to the west coast |
 | [Tahiti](tahiti.md) | an island of the Pacific |
 | [The talus](the-talus.md) | the long slope west of the granite wall’s north angle |
 | [The turtle shore](the-turtle-shore.md) | the beach two miles from Granite-house where the turtle is left |
+| [The unknown’s room](the-unknowns-room.md) | the room at Granite-house given to the Tabor castaway |
 | [The upper cave](the-upper-cave.md) | a small cave about a hundred feet down the old outlet |
 | [The veranda](the-veranda.md) | the creeper-covered shelter Nab built on the plateau's edge |
 | [The Vineyard](vineyard.md) | the New York port of the whaler Maria-Stella and of Pencroff |

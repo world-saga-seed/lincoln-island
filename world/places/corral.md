@@ -55,4 +55,6 @@ Keywords: corral, enclos, palissade, mouflons, sheepfold, pen, hangars, wool, la
     - quote: cette enceinte, abritée par le contrefort sud-est du mont Franklin
   - It is refitted in the autumn, since the flock of mouflons and goats counts a number of young to house and feed (II.12 ¶85). *(Drafted.)*
     - quote: Le corral était réaménagé, car le troupeau de mouflons et de chèvres comptait un certain nombre de petits
-- **Appears in:** II.7, II.8, II.9, II.11, II.12
+  - Smith intends to build a farm there (II.16 ¶79). *(Drafted.)*
+    - quote: au corral, où Cyrus Smith avait l’intention de bâtir une ferme
+- **Appears in:** II.7, II.8, II.9, II.11, II.12, II.16

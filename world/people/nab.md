@@ -121,6 +121,13 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
     - quote: Nab, qui fut le premier éveillé
   - He counts Top as a colonist: 'Sur sept ! Top en vaut bien un autre !' (II.12 ¶118). *(Drafted.)*
     - quote: Sur sept ! ajouta Nab. Top en vaut bien un autre
+  - In his joy at the Bonadventure's return he dances, turns on himself, claps his hands and cries "Oh ! mon maître !", a pantomime "plus touchante que le plus beau discours" (II.15 ¶4). *(Drafted.)*
+    - quote: il s’était mis à danser, à tourner sur lui-même en battant des mains
+    - quote: plus touchante que le plus beau discours
+  - He hastens the lunch for the three who are dying of hunger (II.15 ¶38). *(Drafted.)*
+    - quote: pendant le déjeuner, que Nab avait hâté
+  - He and Pencroff have become very able carpenters (II.16 ¶86). *(Drafted.)*
+    - quote: Nab et Pencroff étaient devenus de très-habiles charpentiers
 - **On the page.**
   - On learning his master was a prisoner he left Massachusetts, reached Richmond and, by ruse and skill, risking his life twenty times, slipped into the besieged city (I.2 ¶15). *(Drafted.)*
     - quote: à force de ruse et d’adresse
@@ -154,7 +161,7 @@ Keywords: Nab, cook, forge, smith, colonist, devotion
   - He and Pencroff carry the provisions on the march and lay out the midday meal (II.4 ¶3, ¶37). *(Drafted.)*
     - quote: Pencroff et Nab emportaient des provisions
     - quote: Nab et Pencroff disposèrent le déjeuner
-- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
+- **Appears in:** I.2, I.3, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
 - **Open:**
   - His origin and age are not stated in these chapters, which give only his qualities (I.13 ¶7). *(Drafted.)*
     - quote: Nab, c’était le dévouement personnifié.

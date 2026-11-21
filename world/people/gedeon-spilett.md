@@ -182,6 +182,37 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
   - He is a little of a doctor: he judges Jup out of danger, and lets him eat as he pleases in his convalescence (II.12 ¶60, ¶62). *(Drafted.)*
     - quote: Gédéon Spilett, qui était un peu médecin
     - quote: le reporter le laissa manger à sa fantaisie
+  - He reasons that the document explains the box's arrival on the island: there was a wreck since there is a castaway (II.13 ¶7). *(Drafted.)*
+    - quote: la présence de ce naufragé explique l’arrivée de la caisse
+    - quote: Il y a eu naufrage, puisqu’il y a un naufragé
+  - He remarks that the document looks to have been written recently (II.13 ¶13). *(Drafted.)*
+    - quote: le document paraît avoir été récemment écrit
+  - He does not forget his trade as the New-York Herald's reporter: he declares he would swim rather than miss such an occasion (II.13 ¶18). *(Drafted.)*
+    - quote: n’oubliait point son métier de reporter du New-York Herald
+    - quote: il irait à la nage plutôt que de manquer une pareille occasion
+  - He lends a hand at the boat's manoeuvre when needed (II.13 ¶28). *(Drafted.)*
+    - quote: au besoin, il mettait la main à la manœuvre
+  - He wonders whether he entrusted his last chronicle for the Herald to one of the great sea birds (II.13 ¶33). *(Drafted.)*
+    - quote: il avait confié sa dernière chronique adressée au New-York Herald
+  - He proposes climbing the cone to get a summary view of the islet and so ease the search (II.13 ¶53). *(Drafted.)*
+    - quote: nous pourrons sans doute avoir une connaissance sommaire de l’îlot
+  - From the paths and axe-felled trunks he reasons that men not only landed but lived on the islet for some time; from the state of the plantations he fears the islet has long been uninhabited (II.13 ¶75, ¶82). *(Drafted.)*
+    - quote: ils l’ont habité pendant un certain temps
+    - quote: on peut craindre que l’îlot ne soit plus habité depuis longtemps
+  - He suggests the document may have been written by a companion of the castaway, since dead (II.15 ¶27). *(Drafted.)*
+    - quote: qu’il n’ait été rédigé par un compagnon de cet homme, mort depuis
+  - He is very robust (II.14 ¶49). *(Drafted.)*
+    - quote: le reporter très-robuste aussi
+  - Looking the savage in the eyes, he thinks that not all reason is out in him (II.14 ¶62). *(Drafted.)*
+    - quote: le reporter crut voir que toute raison n’était pas éteinte en lui
+  - He holds that whoever the man is or has been, it is their duty to take him to Lincoln Island, and that "L’âme ne meurt pas" (II.14 ¶64, ¶66). *(Drafted.)*
+    - quote: notre devoir est de le ramener avec nous à l’île Lincoln
+    - quote: L’âme ne meurt pas
+  - He has the idea that the sight of fire may work on the savage (II.14 ¶77). *(Drafted.)*
+    - quote: eut alors l’idée que la vue du feu agirait peut-être sur lui
+  - He thinks the unknown has too grave things to say if he is silent, and that he has come back into humanity only by way of remorse (II.16 ¶9, ¶23). *(Drafted.)*
+    - quote: des choses trop graves à dire
+    - quote: il semble qu’il ne soit rentré dans l’humanité que par la voie du remords
 - **On the page.**
   - Bored in captivity, with nothing more to note, he thinks only of leaving Richmond at any price and has tried several times (I.2 ¶17). *(Drafted.)*
     - quote: Plusieurs fois, même, il tenta l’aventure
@@ -234,7 +265,7 @@ Keywords: Spilett, journalist, newspaperman, archer, hunter, colonist, Nautilus
     - quote: le crayon d’une main, le carnet de l’autre, dessinait la côte à grands traits
   - The inventory of the chest is entered in his notebook (II.2 ¶52). *(Drafted.)*
     - quote: telle qu’elle fut portée sur le carnet de Gédéon Spilett
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
 - **Open:**
   - His watch is said to keep Richmond time, on a meridian "à peu près celui de Washington" (I.12 ¶9), and I.14 ¶70 reads its hour as the true hour at Washington. The text calls the two meridians nearly the same; no more. *(Drafted.)*
     - quote: méridien qui est à peu près celui de Washington

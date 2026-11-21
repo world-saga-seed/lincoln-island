@@ -392,6 +392,62 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: il ne faudrait pas hésiter à se confier au Bonadventure
     - quote: je vous verrais partir avec peine pour l’île Tabor
     - quote: puisque rien ne vous oblige à y aller
+  - He will not let the bottle's arrival pass for luck: asked "Et cela ne vous semble pas bizarre ?", he answers Pencroff's "heureux, voilà tout" with "et cependant…" (II.13 ¶9, ¶11). *(Drafted.)*
+    - quote: Et cela ne vous semble pas bizarre ?
+    - quote: et cependant…
+  - He reasons from the form of the document that its writer has fairly advanced knowledge of seamanship, since he gives the latitude and longitude of the island within a minute of what the colonists found, and that he is English or American, since it is written in English (II.13 ¶6). *(Drafted.)*
+    - quote: un homme ayant des connaissances assez avancées en marine
+    - quote: jusqu’à une minute d’approximation
+    - quote: qu’il est anglais ou américain
+  - Asked whether the document is recent, he says it is hard to check and adds "nous le saurons !" (II.13 ¶14). *(Drafted.)*
+    - quote: Cela est difficile à vérifier
+    - quote: nous le saurons
+  - He holds that isolation quickly destroys reason ("Malheur à qui est seul") and that a few months before, the man of Tabor was a man like them (II.15 ¶24). *(Drafted.)*
+    - quote: Malheur à qui est seul, mes amis
+    - quote: l’isolement a vite fait de détruire la raison
+  - He reasons that the document recently written can only be the castaway's own, and that it would have spoken of two castaways if a companion had written it, since it speaks of only one (II.15 ¶26, ¶30). *(Drafted.)*
+    - quote: le naufragé seul a pu écrire ce document
+    - quote: le document eût parlé de deux naufragés
+  - He believes the unknown not incurable, since despair made him what he is, and that the soul in him will be saved among his fellows (II.15 ¶32). *(Drafted.)*
+    - quote: Cet infortuné ne doit pas être incurable
+    - quote: cette âme, nous la sauverons
+  - His hand laid on the unknown's shoulder with authority, and his look of infinite gentleness, calm the man (II.15 ¶34). *(Drafted.)*
+    - quote: par un geste plein d’autorité
+    - quote: avec une douceur infinie
+  - He sets himself the task of passing some hours each day with the unknown, working near him at various things to fix his attention (II.15 ¶65). *(Drafted.)*
+    - quote: Cyrus Smith s’imposa la tâche de passer quelques heures dans sa compagnie
+    - quote: de manière à fixer son attention
+  - He treats the unknown as a sick man and will not hurry him (II.15 ¶67). *(Drafted.)*
+    - quote: il ne voulait pas brusquer son malade
+    - quote: l’inconnu n’était qu’un malade
+  - He decides to put the unknown to the test by moving him before the ocean and the forest edge, and does not believe he will flee (II.15 ¶70, ¶74). *(Drafted.)*
+    - quote: Cyrus Smith résolut donc de l’éprouver
+    - quote: Je ne le crois pas
+  - He says there is "quelque douloureux mystère" about the unknown, will respect his secrets, and holds that if he has done wrong he has cruelly atoned and is absolved in the colonists' eyes (II.16 ¶6, ¶25). *(Drafted.)*
+    - quote: Il y a là quelque douloureux mystère
+    - quote: Que nous respecterons
+    - quote: à nos yeux, il est absous
+  - He will not provoke the unknown to tell his story and will decide what to do only when it is told (II.16 ¶49, ¶64). *(Drafted.)*
+    - quote: Ne le provoquons pas à nous raconter son histoire
+    - quote: ne provoquons pas notre nouveau compagnon à parler
+  - He reasons that a man sure of deliverance at a set time would have waited and not thrown the document into the sea (II.16 ¶51). *(Drafted.)*
+    - quote: n’eût pas jeté ce document à la mer
+  - He is left thoughtful by Pencroff's proofs that the bottle cannot have floated for years, and finds "quelque chose d’inexplicable" in it (II.16 ¶61, ¶64). *(Drafted.)*
+    - quote: qui demeura songeur
+    - quote: quelque chose d’inexplicable
+  - He is certain, "par une sorte de pressentiment", that the unknown will come back, calling the flight "la dernière révolte de cette rude nature" (II.16 ¶77, ¶78, ¶95, ¶96). *(Drafted.)*
+    - quote: persista dans l’inébranlable idée que le malheureux reviendrait tôt ou tard
+    - quote: la dernière révolte de cette rude nature
+  - He decides on a windmill on the heights of Grande-Vue rather than a mill at the Mercy's second fall, draws the plans, and gives the carpenters the templates to follow (II.16 ¶82, ¶85, ¶86). *(Drafted.)*
+    - quote: il fut décidé que l’on établirait un simple moulin à vent
+    - quote: Cyrus Smith fit les plans
+    - quote: les gabarits fournis par l’ingénieur
+  - He knows the miller's rule that a mill does most work when the wings' turns a minute are six times the feet a second the wind travels, and warns Pencroff against too much wind (II.16 ¶90, ¶92). *(Drafted.)*
+    - quote: On sait par expérience que la plus grande quantité de travail est produite par un moulin
+    - quote: mais pas trop de vent
+  - He makes soda at the Chimneys, with the reporter, the soap supply being used up (II.16 ¶99). *(Drafted.)*
+    - quote: fabriquer de la soude
+    - quote: la provision de savon étant épuisée
 - **On the page.**
   - Pencroff knew him by reputation and knew how impatiently he chafed in captivity (I.2 ¶24). *(Drafted.)*
     - quote: Il connaissait de réputation l’ingénieur Cyrus Smith
@@ -569,7 +625,10 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: hauteur qu’il comptait calculer le lendemain par un simple procédé de géométrie élémentaire
   - When his plan succeeds he shows no satisfaction, "suivant son habitude": lips pressed, gaze fixed, motionless (I.18 ¶1). *(Drafted.)*
     - quote: suivant son habitude, sans témoigner aucune satisfaction, les lèvres serrées, le regard fixe
-- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
+  - He watches the unknown at every moment, and his eyes do not leave the man's (II.15 ¶68, ¶88). *(Drafted.)*
+    - quote: comme l’ingénieur l’observait à tous moments
+    - quote: dont les yeux ne quittaient pas ceux de son malade
+- **Appears in:** I.1, I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
 - **Open:**
   - The balloon's lost passenger is not named in I.1, and III.16 says the engineer was thrown into the sea; whether this is the same passenger is not stated in these chapters (I.1 ¶64; III.16 ¶62). *(My reading, to confirm.)*
     - quote: Le passager manquant avait évidemment été enlevé par le coup de mer
@@ -581,3 +640,6 @@ Keywords: Smith, ingénieur, engineer, colonist, leader, brickmaker, latitude, S
     - quote: à quelques centaines de pas d’un rivage
     - quote: à douze cents pieds au plus du rivage
     - quote: ne devait pas être inférieure à un demi-mille
+  - The miller's rule gives sixteen turns a minute for twenty-four feet a second: the text says the turns are "sextuple" of the feet a second, which for twenty-four feet would be 144 (II.16 ¶92). *(Drafted.)*
+    - quote: sextuple du nombre de pieds parcourus par le vent en une seconde
+    - quote: il imprimera seize tours aux ailes pendant une minute

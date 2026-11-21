@@ -315,10 +315,6 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: en avait ajouté une trente-huitième, l’étoile de « l’état de Lincoln »
     - quote: car il considérait son île comme déjà rattachée à la grande république
     - quote: elle l’est de cœur, si elle ne l’est pas encore de fait
-  - He says Jup will be nursed like one of themselves; he is himself wounded, but his wounds and the others' are insignificant, since firearms kept the assailants at a distance (II.12 ¶53, ¶54). *(Drafted.)*
-    - quote: nous le soignerons comme l’un de nous
-    - quote: Le marin était blessé lui-même, mais ses blessures
-    - quote: étaient insignifiantes
   - He gives Jup his pipe as a present (II.12 ¶70). *(Drafted.)*
     - quote: je t’en fais cadeau
   - He proposes lining the hull inside with a watertight ceiling, to secure the boat's solidity (II.12 ¶80). *(Drafted.)*
@@ -342,6 +338,51 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: L’entêté marin
   - He counts Jup among the colony: 'Sur six ! Vous oubliez Jup.' (II.12 ¶117). *(Drafted.)*
     - quote: Vous oubliez Jup
+  - He sees only luck in the bottle: "Cela me semble heureux, voilà tout", and "pourquoi pas ici aussi bien qu’ailleurs ?" (II.13 ¶10). *(Drafted.)*
+    - quote: Cela me semble heureux, voilà tout
+    - quote: pourquoi pas ici aussi bien qu’ailleurs
+  - He is a prudent sailor: by night, though the sea is calm, he takes in the topsail so as not to be caught by a gust with canvas at the masthead (II.13 ¶30). *(Drafted.)*
+    - quote: Pencroff était un marin prudent
+    - quote: ne voulant point s’exposer à être surpris par quelque excès de brise
+  - He is satisfied with his crew and talks of rewarding them with "un quart de vin par bordée"; he laughs at his own joke when he says the sea is not so deserted, since they are on it, and asks whether they take the boat for a wreck and themselves for porpoises (II.13 ¶28, ¶37, ¶38). *(Drafted.)*
+    - quote: d’un quart de vin par bordée
+    - quote: Est-ce que vous prenez notre bateau pour une épave et nos personnes pour des marsouins
+    - quote: Et Pencroff de rire de sa plaisanterie
+  - He trusts Harbert as himself at the helm and gives him the course like a commander to a helmsman (II.13 ¶31). *(Drafted.)*
+    - quote: Le marin se fiait à Harbert comme à lui-même
+    - quote: comme un commandant à son timonier
+  - Among the reefs of Tabor he steers with the most extreme caution and, posted in the bow, watches the water with the halyard in hand (II.13 ¶46, ¶49). *(Drafted.)*
+    - quote: ne marchait plus qu’avec une extrême prudence sur ces eaux inconnues
+    - quote: prêt à amener sa voile, dont il tenait la drisse en main
+  - He is sure the castaway is still on Tabor: he would have taken with him the arms and tools, which castaways prize as the last relics of the wreck, and had he made a boat he would have left them still less (II.14 ¶14). *(Drafted.)*
+    - quote: S’il avait quitté l’île, il eût emporté ses armes et ses outils
+    - quote: les dernières épaves du naufrage
+  - His boat is his child, and the right of fathers is to worry more than is reasonable (II.14 ¶30). *(Drafted.)*
+    - quote: ce bateau, c’était son enfant
+  - He is of herculean strength (II.14 ¶49). *(Drafted.)*
+    - quote: Le marin était d’une force herculéenne
+  - He has a strongly tempered soul and does not despair even when he believes himself lost at sea (II.14 ¶104). *(Drafted.)*
+    - quote: il avait une âme fortement trempée
+  - He shakes his head in doubt at the hope of waking the savage, and stays the one sceptic, "l’incrédule Pencroff", when the others come to share Smith's hope and faith (II.14 ¶67; II.15 ¶69). *(Drafted.)*
+    - quote: Pencroff secouait la tête d’un air de doute
+    - quote: l’incrédule Pencroff
+  - He thinks the unknown did not reach Tabor by shipwreck but was left there after some crime (II.16 ¶45). *(Drafted.)*
+    - quote: à la suite de quelque crime, il y aura été abandonné
+  - He says the unknown "a des secrets" and that he does not know what sort of man they have brought back (II.16 ¶24). *(Drafted.)*
+    - quote: Je ne sais trop quelle espèce d’homme nous avons ramené là
+    - quote: Il a des secrets
+  - He reasons against the document's age: the bottle was still afloat, could not have been cast up on the rocky south coast and taken back by the sea, and a document years old would have been spoiled by damp, which it was not (II.16 ¶54, ¶56, ¶60, ¶62). *(Drafted.)*
+    - quote: car elle flottait encore
+    - quote: il eût été avarié par l’humidité
+    - quote: il se trouvait dans un parfait état de conservation
+  - Smith tells him he bears three-quarters of all the colonists' tasks; Pencroff teases him that with Smith everything becomes too easy, a port with a lighthouse, a mole and a dry dock (II.15 ¶58, ¶59). *(Drafted.)*
+    - quote: Un port avec un phare, un môle et un bassin de radoubs
+    - quote: vous êtes bien pour les trois quarts dans toutes nos besognes
+  - He and Nab have become very able carpenters and follow the templates the engineer gives (II.16 ¶86). *(Drafted.)*
+    - quote: Nab et Pencroff étaient devenus de très-habiles charpentiers
+  - He says the windmill will be gayer and look well in the landscape; as always he is delighted with his work and sure that the apparatus is perfect (II.16 ¶83, ¶88). *(Drafted.)*
+    - quote: ce moulin à vent sera plus gai et fera bon effet dans le paysage
+    - quote: Comme toujours, Pencroff était enchanté de son ouvrage
 - **On the page.**
   - He proposes to proceed by method: shelter, fire and food (I.4 ¶5). *(Drafted.)*
     - quote: Procédons avec méthode
@@ -450,7 +491,12 @@ Keywords: Pencroff, marin, seaman, Brooklyn, carpenter, shipwright, archer, pipe
     - quote: Et ça ne se fume pas, par hasard ?
   - He smokes with delight now that he has tobacco (II.10 ¶96). *(Drafted.)*
     - quote: Pencroff fumait, fumait, fumait
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
 - **Open:**
   - His age and origin are not stated in these chapters; only his trades and Brooklyn (I.13 ¶8). *(Drafted.)*
     - quote: charpentier dans les chantiers de construction de Brooklyn
+  - The days of the crossing: II.13 ¶17 plans a crossing of no more than forty-eight hours for the hundred and fifty miles, and the boat lands on the 13th at about noon after leaving at five on the morning of the 11th; on the way back the boat leaves Tabor at five on the 15th, the fire is seen about two on the night of 18 to 19, and II.15 ¶1 lands it at seven on 20 October "après quatre jours de voyage" (II.13 ¶17, ¶20, ¶50; II.14 ¶94, ¶105; II.15 ¶1). *(Drafted.)*
+    - quote: il ne fallait pas plus de quarante-huit heures pour faire cette traversée de cent cinquante milles
+    - quote: À cinq heures du matin, l’ancre fut levée.
+    - quote: Vers deux heures du matin, il se leva tout à coup
+    - quote: après quatre jours de voyage

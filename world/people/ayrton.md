@@ -13,14 +13,168 @@ Keywords: Ayrton, Tabor, bottle, document, castaway, colonist
     - quote: des aventures d’Ayrton
   - He is not counted among the "cinq naufragés" of the balloon (III.16 ¶63). *(My reading, to confirm.)*
     - quote: ces cinq naufragés
+  - He is the castaway of Tabor Island, "le naufragé de l’île Tabor", whom the document in the bottle spoke of; he is taken alive on Tabor on 14 October, the eve of the Bonadventure's sailing (II.15 ¶33; II.14 ¶93). *(Drafted.)*
+    - quote: Le naufragé de l’île Tabor
+    - quote: le lendemain, — 15 octobre
+  - The colonists take the Tabor castaway and Ayrton, whose presence on Tabor the bottle made known, to be one man; these chapters never give him a name (II.15 ¶33; III.16 ¶65). *(My reading, to confirm.)*
+    - quote: Le naufragé de l’île Tabor
+    - quote: la présence d’Ayrton à l’île Tabor
+  - His new companions call him "l’inconnu" (or "l’abandonné") from the day he is lodged at Granite-house (II.15 ¶37). *(Drafted.)*
+    - quote: l’abandonné, ou plutôt l’inconnu
+    - quote: ses nouveaux compagnons le désignèrent désormais
+  - He had been a sailor (II.14 ¶95). *(Drafted.)*
+    - quote: comme il avait été marin
+  - He is not young: Spilett supposes him at least fifty, though the beard hides his features (II.14 ¶88). *(Drafted.)*
+    - quote: il n’est plus jeune
+    - quote: au moins cinquante ans
+  - Smith believes he recognises, through the uncut beard, the marked features of the Anglo-Saxon; the colonists agree he must be English or American, from the name Britannia (II.15 ¶38). *(Drafted.)*
+    - quote: les traits caractérisés de l’Anglo-saxon
+    - quote: l’inconnu devait être anglais ou américain
+  - The arms and tools he leaves give Smith nothing by which to establish who he is (II.15 ¶44). *(Drafted.)*
+    - quote: ne vit rien qui pût le mettre à même d’établir l’identité de l’inconnu
+  - The things in the house are his: a Bible gnawed by damp, a tin cup and plate, sailor's clothes half mouldy, a spade, pick and pickaxe, two fowling pieces (one broken), a keg of powder still intact, a keg of lead and several boxes of caps (II.14 ¶5, ¶74). *(Drafted.)*
+    - quote: une Bible rongée par l’humidité
+    - quote: deux fusils de chasse, dont l’un était brisé
+    - quote: un baril de poudre encore intact
+    - quote: la vue des objets qui lui appartenaient
+  - The narrator takes him for a man brought down to the lowest degree of brutishness by isolation: his memory has long since left him, he can no longer use his tools and arms or make a fire (II.14 ¶55, ¶61). *(Drafted.)*
+    - quote: tombé au dernier degré de l’abrutissement
+    - quote: il ne savait plus faire de feu
+  - He keeps, under the brute, a trace of reason: Spilett, looking him in the eyes, thinks all reason is not out, and the narrator sees a glimmer of intelligence in his look (II.14 ¶62; II.15 ¶36). *(Drafted.)*
+    - quote: toute raison n’était pas éteinte en lui
+    - quote: une insaisissable lueur d’intelligence
+  - On Lincoln Island his savage nature changes within days: the first sullen fury at losing the open air gives way to calm; he takes less bestial food and no longer recoils from cooked flesh (II.15 ¶62, ¶63). *(Drafted.)*
+    - quote: quelques sourdes fureurs
+    - quote: la chair cuite ne produisait plus sur lui le sentiment de répulsion
+  - Smith cuts the matted hair and beard while he sleeps, takes off the rag and dresses him decently; he takes on a human face, his eyes grow gentler, and the narrator says that in his better days his face must have had a kind of beauty (II.15 ¶64). *(Drafted.)*
+    - quote: lui couper cette chevelure et cette barbe incultes
+    - quote: l’inconnu reprit figure humaine
+    - quote: une sorte de beauté
+  - He is under Smith's influence and shows him a kind of attachment (II.15 ¶70). *(Drafted.)*
+    - quote: dont il subissait visiblement l’influence
+    - quote: une sorte d’attachement
+  - He understands what is said to him, in part, yet for days will not speak; his face is sometimes deeply sorrowful (II.15 ¶66; II.16 ¶3). *(Drafted.)*
+    - quote: les colons arrivèrent bientôt à cette persuasion qu’il les comprenait en partie
+    - quote: il ne parlait pas
+    - quote: une étrange obstination à ne pas parler
+  - His first tears fall on the plateau on 30 October; Smith says the man he sees is a man again, since he weeps (II.15 ¶77, ¶92, ¶93; II.16 ¶1). *(Drafted.)*
+    - quote: une grosse larme coula de ses yeux
+    - quote: te voilà donc redevenu homme, puisque tu pleures
+    - quote: il s’était refait homme par les larmes
+  - He takes up the garden tools and works at the kitchen-garden; when he stops he falls into himself, and if a colonist comes near he shrinks away, sobbing (II.16 ¶7). *(Drafted.)*
+    - quote: avait commencé à se servir des outils de labourage
+    - quote: des sanglots soulevaient sa poitrine
+  - He speaks first on 3 November, under Smith's eye ("comme un magnétisé sous la puissance de son magnétiseur"): he asks who they are, says he has no fellows ("Mes semblables !… Je n’en ai pas !") and refuses the name of friend (II.16 ¶11, ¶15, ¶16, ¶18, ¶20). *(Drafted.)*
+    - quote: comme un magnétisé sous la puissance de son magnétiseur
+    - quote: Mes semblables !… Je n’en ai pas !
+    - quote: Des amis !… à moi ! des amis !
+  - Overheard by Pencroff before that day, he says through the door of his room: "Non ! ici ! moi ! jamais !" (II.16 ¶3, ¶4). *(Drafted.)*
+    - quote: Non ! ici ! moi ! jamais !
+  - He is relieved to learn the colonists are Americans ("J’aime mieux cela !") and, asked what he is, answers "Anglais" quickly, as if the word weighed on him (II.16 ¶28, ¶29, ¶31, ¶33, ¶34). *(Drafted.)*
+    - quote: J’aime mieux cela !
+    - quote: Anglais, » répondit-il précipitamment
+    - quote: ces quelques mots lui eussent pesé à dire
+  - He has lost count of time: asked the month and year, Harbert tells him December and 1866, and he cries "Douze ans ! douze ans !"; Harbert and Smith take it that he had been twelve years on the islet when found (II.16 ¶36, ¶37, ¶39, ¶40, ¶42, ¶43, ¶44). *(Drafted.)*
+    - quote: Douze ans ! douze ans !
+    - quote: il était depuis douze ans déjà sur l’îlot quand nous l’y avons trouvé
+    - quote: n’était plus au courant ni des mois ni des années
+  - He is hot and sudden in his fits: on 10 November he bursts out in broken phrases, asking by what right he was taken from his islet, whether they know that he may have stolen or murdered, asks if he is free, and flees (II.16 ¶66, ¶68, ¶70, ¶72). *(Drafted.)*
+    - quote: si je n’ai pas volé, assassiné
+    - quote: Suis-je libre ?
+    - quote: il s’enfuit comme un fou
+  - In the jaguar's attack on Harbert he crosses the Creek-Glycérine, kills the beast with a knife alone, gripping its throat and stabbing its heart, takes no heed of the wound it leaves in his shoulder; the narrator calls him "d’une force et d’une adresse prodigieuses" (II.16 ¶103, ¶104, ¶105, ¶108). *(Drafted.)*
+    - quote: d’une force et d’une adresse prodigieuses
+    - quote: une main puissante comme une cisaille
+    - quote: Le sang coulait à son épaule
+  - He thinks his life worth "moins que rien", turns his hand away from Harbert's, and when Smith, after telling him who the colonists are, offers his hand he refuses: "Vous êtes d’honnêtes gens, vous ! Et moi !…"; he blushes, head bowed, at the news that his coming was their greatest joy (II.16 ¶110, ¶114, ¶120, ¶121, ¶122). *(Drafted.)*
+    - quote: Qu’est-ce qu’elle vaut ? Moins que rien !
+    - quote: Vous êtes d’honnêtes gens, vous ! Et moi !…
+    - quote: sa tête s’abaissa sur sa poitrine
 - **On the page.**
   - He stands respectfully aside in a corner of the magnificent salon (III.16 ¶8). *(Drafted.)*
     - quote: dans un angle de ce magnifique salon
   - The document in the bottle is one of the incidents that seemed supernatural and that Nemo explains (III.16 ¶65). *(Drafted.)*
     - quote: au moyen du document enfermé dans la bouteille
-- **Appears in:** III.16
+  - When taken he is a savage in the worst sense: bristling hair, an uncut beard down to the chest, body nearly naked but for a rag of blanket about the loins, wild eyes, huge hands, nails far too long, a skin dark as mahogany, feet hardened as if made of horn (II.14 ¶56). *(Drafted.)*
+    - quote: Chevelure hérissée, barbe inculte descendant jusqu’à la poitrine
+    - quote: un lambeau de couverture sur les reins
+    - quote: teint sombre comme l’acajou
+    - quote: pieds durcis comme s’ils eussent été faits de corne
+  - Hoarse sounds come from his throat between teeth sharp as a flesh-eater's; he is nimble and supple, his physical qualities grown at the expense of the moral (II.14 ¶61). *(Drafted.)*
+    - quote: Des sons rauques sortaient de sa gorge
+    - quote: qui avaient l’acuité des dents de carnivores
+    - quote: il était leste, souple
+  - He seems neither to understand nor even to hear when Spilett speaks to him (II.14 ¶62). *(Drafted.)*
+    - quote: Il ne parut pas comprendre, ni même entendre
+  - Bound, he does not struggle or try to break his bonds; freed from the cord at his feet, he rises and does not try to flee, his dry eyes darting a keen look and a steady whistle escaping his lips (II.14 ¶63, ¶73). *(Drafted.)*
+    - quote: le prisonnier ne se débattait pas
+    - quote: un regard aigu
+    - quote: Un sifflement continu
+  - His eyes lie deep under the brow; Spilett finds them more human than his appearance would lead one to think (II.14 ¶89, ¶90). *(Drafted.)*
+    - quote: ses yeux sont profondément enfoncés sous leur arcade
+    - quote: plus humains qu’on ne serait tenté de le croire
+  - At the house he recognises nothing and seems to have lost consciousness of all things; the sight of a blazing fire first holds his attention, then he draws back and his unconscious look dies (II.14 ¶75, ¶78). *(Drafted.)*
+    - quote: le prisonnier ne reconnut rien
+    - quote: mais bientôt il recula, et son regard inconscient s’éteignit
+  - Aboard he refuses the cooked meat offered him, but throws himself on a raw duck with bestial greed (II.14 ¶82). *(Drafted.)*
+    - quote: il repoussa la viande cuite
+    - quote: il se jeta dessus avec une avidité bestiale
+  - He stays calm, silent, deaf and dumb in the forecabin, and does not stir through the night though unbound, like a wild beast that the first hours of confinement crush (II.14 ¶81, ¶92). *(Drafted.)*
+    - quote: calme, silencieux, sourd et muet tout ensemble
+    - quote: Il était comme ces fauves que les premiers moments de séquestration accablent
+  - In the storm of 18 October he springs up through the hatch, as if his sailor's instinct had taken over, and with a vigorous blow of a spar breaks the bulwarks to let the water off the deck, then goes below again without a word (II.14 ¶99). *(Drafted.)*
+    - quote: comme si son instinct de marin eût pris le dessus
+    - quote: brisa les pavois d’un vigoureux coup d’espar
+    - quote: sans avoir prononcé une parole
+  - Landed at the Mercy's mouth he at first wants to flee; Smith's hand on his shoulder and a look of infinite gentleness calm him bit by bit, his eyes lower, his brow bows, and he resists no more (II.15 ¶33, ¶34). *(Drafted.)*
+    - quote: il manifesta tout d’abord la volonté de s’enfuir
+    - quote: subissant comme une sorte de domination instantanée
+  - He had been hidden, as Harbert thinks, in a high tree, and fell on the boy like an avalanche, quicker than telling (II.15 ¶40). *(Drafted.)*
+    - quote: qui était sans doute blotti dans un arbre
+    - quote: le bruit d’une avalanche qui tombait d’un arbre très-élevé
+  - He is lodged in a room of Granite-house from which he cannot escape and lets himself be led there without trouble (II.15 ¶37). *(Drafted.)*
+    - quote: d’où il ne pouvait s’échapper
+    - quote: Il s’y laissa conduire sans difficulté
+  - At first, used to the open air and the boundless freedom of Tabor, he gives sullen furies and the colonists fear he will throw himself from a window of Granite-house (II.15 ¶62). *(Drafted.)*
+    - quote: cette liberté sans limites dont il jouissait à l’île Tabor
+    - quote: une des fenêtres de Granite-house
+  - Calm and sad, he is watched by Smith, who wonders whether he is truly renewed or only tamed "comme un animal vis-à-vis de son maître" (II.15 ¶67). *(Drafted.)*
+    - quote: le pauvre être était calme et triste
+    - quote: apprivoisé comme un animal vis-à-vis de son maître
+  - After the 3 November scene he stays on the plateau and does not leave it, works the soil without a moment's rest, and keeps apart (II.16 ¶65). *(Drafted.)*
+    - quote: ne quitta pas une seule fois l’enceinte du plateau
+    - quote: toujours à l’écart
+  - After his flight of 10 November he is not seen again for weeks; Spilett and Harbert search the woods near Granite-house in vain (II.16 ¶95). *(Drafted.)*
+    - quote: l’inconnu n’avait pas reparu
+    - quote: sans en trouver aucune trace
+  - He reappears on 3 December, unforeseen where Harbert is fishing, and is wounded at the shoulder under his torn jacket (II.16 ¶98, ¶103, ¶108). *(Drafted.)*
+    - quote: dont personne n’eût pu soupçonner la présence en cet endroit
+    - quote: sous sa veste déchirée
+- **Habits.**
+  - He refuses to go up to Granite-house at mealtimes, eats a few raw vegetables, and sleeps out under a clump of trees, or in a hollow of the rocks in bad weather (II.16 ¶65). *(Drafted.)*
+    - quote: il ne remontait point à Granite-house
+    - quote: quelques légumes crus
+    - quote: il se blottissait dans quelque anfractuosité des roches
+  - He lives as in the days when he had no shelter but the forests of Tabor (II.16 ¶65). *(Drafted.)*
+    - quote: il vivait encore comme au temps où il n’avait d’autre abri que les forêts de l’île Tabor
+- **Appears in:** III.16, II.13, II.14, II.15, II.16
 - **Open:**
   - The editor warns, in a note that recalls the one on Ayrton's adventures, of a "discordance de quelques dates" with the earlier books (III.16 n1); the card cannot say which dates. *(Drafted.)*
     - quote: sur la discordance de quelques dates
   - Who Ayrton is, his trade, age and origin, and how he came to Tabor, are not told in III.16; the text only refers back to "des aventures d’Ayrton" (III.16 n1). *(Drafted.)*
     - quote: des aventures d’Ayrton
+  - Two dates for the same scene: II.16 ¶11 puts the man's tears and first words on 3 November; Harbert answers the man's question of the month "Décembre" (¶37). Whether the questions are the same day as ¶11 is not told (II.16 ¶11, ¶37). *(Drafted.)*
+    - quote: le 3 novembre
+    - quote: Décembre, répondit Harbert
+  - Two counts of his captivity at Granite-house: II.15 ¶1 lands the Bonadventure on 20 October; ¶77 calls 30 October "neuf jours" of his imprisonment there (II.15 ¶1, ¶77). *(Drafted.)*
+    - quote: Le lendemain, — 20 octobre
+    - quote: il y avait neuf jours que le naufragé de l’île Tabor était prisonnier à Granite-house
+  - How long ago his madness began, and when the document was written: Smith holds the man was "un homme comme vous et moi" only a few months before, and the document recent; II.16 has him twelve years on the islet, and gives the document a recent look all the same (II.15 ¶24, ¶26; II.16 ¶43, ¶57). *(Drafted.)*
+    - quote: il y a quelques mois à peine, ce malheureux était un homme comme vous et moi
+    - quote: le document que nous avons trouvé avait été récemment écrit
+    - quote: il était depuis douze ans déjà sur l’îlot
+    - quote: le document semblait récemment écrit
+  - Whether he reached Tabor by shipwreck or was left there: the document and the Britannia plank say shipwreck, while Pencroff thinks he was abandoned after some crime and the man himself asks whether he was not condemned to die there (II.14 ¶22; II.16 ¶45, ¶68). *(Drafted.)*
+    - quote: un bâtiment désemparé avait été jeté à la côte
+    - quote: à la suite de quelque crime, il y aura été abandonné
+    - quote: que je n’étais pas condamné à mourir là

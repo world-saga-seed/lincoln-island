@@ -74,4 +74,36 @@ Keywords: Bonadventure, bateau, boat, sloop, embarcation, quille, keel, sapin, f
     - quote: dans un cas pressant, il ne faudrait pas hésiter à se confier au Bonadventure, même pour une traversée plus longue
   - Her home port is to be port Ballon (see [port Ballon](../places/port-ballon.md)) (II.12 ¶122). *(Drafted.)*
     - quote: cette petite crique devait être le port d’attache du bateau
-- **Appears in:** II.10, II.11, II.12
+  - For the voyage to Tabor she is loaded with some bedding, utensils, arms, ammunition, a compass and provisions for about eight days (II.13 ¶19). *(Drafted.)*
+    - quote: quelques objets de literie, des ustensiles, des armes, des munitions, une boussole, des vivres pour une huitaine de jours
+  - She behaves perfectly, rises easily to the swell and makes rapid way (II.13 ¶26). *(Drafted.)*
+    - quote: Le Bonadventure se conduisait parfaitement
+    - quote: Il s’élevait facilement à la lame et faisait une route rapide
+  - By dead reckoning she has made about a hundred and twenty miles from Lincoln in thirty-six hours, three miles and a third an hour, in a weak breeze that tends to fall (II.13 ¶39). *(Drafted.)*
+    - quote: cent vingt milles depuis son départ de l’île Lincoln, c’est-à-dire depuis trente-six heures
+    - quote: trois milles un tiers à l’heure
+  - Her fore room, entered by a hatch, serves as the prisoner’s cabin (II.14 ¶81, ¶99). *(Drafted.)*
+    - quote: la chambre de l’avant
+    - quote: l’écoutille
+  - On 18 October a wave entirely covers her, and her passengers, who had lashed themselves to the deck, would have been carried off; the unknown breaks her bulwarks with a blow of a spar to let the water off the deck (II.14 ¶98, ¶99). *(Drafted.)*
+    - quote: le Bonadventure fut entièrement coiffé par une lame
+    - quote: brisa les pavois d’un vigoureux coup d’espar
+  - She has held the sea marvellously well (II.14 ¶102). *(Drafted.)*
+    - quote: il avait merveilleusement tenu la mer
+  - Pencroff says she is a good boat, which behaved admirably in the gale at the return (II.15 ¶50). *(Drafted.)*
+    - quote: c’est une bonne embarcation
+    - quote: s’est admirablement comportée pendant ce coup de vent
+  - At the mouth of the Mercy she is aground on the sand half the time, which tires her, and the mouth offers no shelter from the seas in east winds (II.15 ¶50, ¶52). *(Drafted.)*
+    - quote: La moitié du temps, il est échoué sur le sable, et cela le fatigue
+    - quote: cette embouchure ne présente aucun abri
+  - On 20 October she is taken to port Ballon, round cape Griffe, and lies two hours later in its quiet waters (see [port Ballon](../places/port-ballon.md)) (II.15 ¶60). *(Drafted.)*
+    - quote: Deux heures après, il reposait sur les eaux tranquilles du port Ballon
+- **Appears in:** II.10, II.11, II.12, II.13, II.14, II.15
+- **Open:**
+  - The crossing out: II.13 ¶17 says it needs no more than forty-eight hours for the hundred and fifty miles, leaving on 11 October; the landing is at about noon on the 13th (II.13 ¶50), more than fifty hours after the five o’clock departure of ¶20; card neither (II.13 ¶17, ¶20, ¶50). *(Drafted.)*
+    - quote: il ne fallait pas plus de quarante-huit heures pour faire cette traversée de cent cinquante milles
+    - quote: Enfin, à midi à peu près, le Bonadventure vint heurter de son étrave une grève de sable
+  - The voyage back: the boat leaves Tabor on 15 October at five in the morning (II.14 ¶93, ¶94) and the fire is seen about two on the night of 18 to 19 (II.14 ¶102, ¶105), yet she lands "le lendemain, — 20 octobre, — à sept heures du matin, après quatre jours de voyage" (II.15 ¶1); card neither (II.14 ¶93, ¶102; II.15 ¶1). *(Drafted.)*
+    - quote: Au lever du jour, le lendemain, — 15 octobre
+    - quote: La nuit du 18 au 19 fut obscure et froide
+    - quote: Le lendemain, — 20 octobre, — à sept heures du matin, après quatre jours de voyage

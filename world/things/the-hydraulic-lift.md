@@ -22,6 +22,7 @@ Keywords: ascenseur, lift, elevator, hydraulic, water power, ladder, plan
   - From then on all burdens, wood, coal, provisions and the colonists themselves, are hoisted by this simple system, which replaces the first ladder, that no one regrets (II.9 ¶32). *(Drafted.)*
     - quote: tous les fardeaux, bois, charbons, provisions et colons eux-mêmes furent hissés par ce système si simple
     - quote: qui remplaça l’échelle primitive, que personne ne songea à regretter
-  - The colonists go down to the beach in its banne on the night of the raid (II.12 ¶37). *(Drafted.)*
-    - quote: se précipitèrent dans la banne de l’ascenseur et prirent pied sur la grève
-- **Appears in:** I.19, II.9, II.12
+  - The lift’s banne takes a man from the door of Granite-house down to the beach in a few moments (II.15 ¶81). *(Drafted.)*
+    - quote: lui firent prendre place dans l’ascenseur
+    - quote: La banne descendit, et en quelques instants tous furent réunis sur la grève
+- **Appears in:** I.19, II.9, II.12, II.15

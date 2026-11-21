@@ -40,6 +40,8 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
     - quote: qui vint à merveille
   - The onagga, with the goats and the ewes of the corral, supplies the colony's daily milk (II.9 ¶63). *(Drafted.)*
     - quote: l’onagga, les chèvres et les brebis du corral fournirent quotidiennement le lait nécessaire à la colonie
+  - Fodder is plentiful elsewhere on the island, so the onaggas need never fear being put on short rations (II.16 ¶79). *(Drafted.)*
+    - quote: les onaggas ne devaient pas craindre d’être jamais rationnés
 - **On the page.**
   - They enter the plateau on 23 December because the small bridges had not been closed (II.7 ¶52, ¶53). *(Drafted.)*
     - quote: Un jour, le 23 décembre
@@ -49,4 +51,4 @@ Keywords: onagga, couagga, zèbre, âne, cheval, bête de trait, attelage, chari
   - They are first put to the cart at the end of December, for the trip to Port Balloon, with Pencroff walking at their head (II.7 ¶61, ¶63). *(Drafted.)*
     - quote: ce fut vers la fin de décembre qu’on essaya pour la première fois les onaggas
     - quote: Pencroff, qui marchait à la tête de ses bêtes
-- **Appears in:** II.7, II.8, II.9
+- **Appears in:** II.7, II.8, II.9, II.16

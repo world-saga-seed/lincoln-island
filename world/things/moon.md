@@ -14,4 +14,6 @@ Keywords: lune, croissant, crescent, moon, reflection, sea, western horizon
     - quote: n’est plus habitable
   - On 30 October the moon is to be full three days later (II.3 ¶9). *(Drafted.)*
     - quote: la lune devait être pleine trois jours après
-- **Appears in:** I.10, I.21, II.3
+  - On the evening of 11 October the crescent shows in the sun’s twilight and soon goes out, the first quarter not due before the 16th (II.13 ¶29). *(Drafted.)*
+    - quote: le croissant de la lune, qui ne devait être dans son premier quartier que le 16
+- **Appears in:** I.10, I.21, II.3, II.13

@@ -198,6 +198,33 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: Harbert dut se rendre
   - He handles the sailmaker's needle skilfully (II.12 ¶12). *(Drafted.)*
     - quote: Harbert, qui maniait habilement l’aiguille du voilier
+  - At the helm of the Bonadventure his hand is so sure that Pencroff has not a yaw to reproach him with; Pencroff's trust is justified by the boy's coolness and judgment, and he holds the course to a line (II.13 ¶27, ¶31). *(Drafted.)*
+    - quote: la main du jeune garçon était si sûre
+    - quote: sa confiance était justifiée par le sang-froid et la raison du jeune garçon
+  - He observes that nothing proves the bottle has long been afloat (II.13 ¶12). *(Drafted.)*
+    - quote: rien ne prouve que cette bouteille flotte depuis longtemps sur la mer
+  - He knows that at that season the whalers usually head for the southern Pacific (II.13 ¶34). *(Drafted.)*
+    - quote: nous sommes à l’époque où les baleiniers se dirigent ordinairement vers la partie méridionale du Pacifique
+  - He judges Tabor a much smaller islet than Lincoln Island and probably, like it, the work of some submarine upheaval (II.13 ¶45). *(Drafted.)*
+    - quote: probablement dû comme elle à quelque soulèvement sous-marin
+  - He remarks that the document speaks of one castaway only (II.13 ¶76). *(Drafted.)*
+    - quote: ne parle que d’un seul naufragé
+  - He knows potatoes, chicory, sorrel, carrots, cabbages and turnips on sight, and sees that gathering their seed will enrich Lincoln Island (II.13 ¶80). *(Drafted.)*
+    - quote: reconnut des pommes de terre, des chicorées, de l’oseille, des carottes, des choux, des navets
+  - He judges that a dweller would not have neglected so important a cultivation (II.13 ¶83). *(Drafted.)*
+    - quote: un habitant, quel qu’il fût, n’aurait pas négligé une culture si importante
+  - He knows the vegetable seeds better than the others: Pencroff leaves him to gather them (II.14 ¶41). *(Drafted.)*
+    - quote: occupez-vous de récolter ces graines, que vous connaissez mieux que nous
+  - Thrown down by the savage, he is the first to see that it is not an ape (II.14 ¶48, ¶53). *(Drafted.)*
+    - quote: Mais ce n’est pas un singe !
+  - He hopes that with care a glimmer of intelligence can be woken in the savage, and notes how deeply his eyes lie under the brow (II.14 ¶65, ¶89). *(Drafted.)*
+    - quote: réveiller en lui quelque lueur d’intelligence
+    - quote: combien ses yeux sont profondément enfoncés sous leur arcade
+  - He gives Smith an account of the crossing and insists on the curious fact of a passing resurrection in the prisoner's mind when, in the storm, he became a sailor again (II.15 ¶31). *(Drafted.)*
+    - quote: insista sur ce fait curieux d’une sorte de résurrection passagère
+  - He owes his life to the unknown, who kills the jaguar that had cornered him (II.16 ¶104, ¶109). *(Drafted.)*
+    - quote: Harbert était en face d’un formidable jaguar
+    - quote: Pour sauver notre enfant, vous avez risqué votre vie
 - **On the page.**
   - Pencroff would leave only with Harbert (I.2 ¶35). *(Drafted.)*
     - quote: avec Harbert, s’entend
@@ -252,7 +279,9 @@ Keywords: Harbert, boy, youth, child, naturalist, archer, quinine, colonist
     - quote: remarquablement instruit déjà dans les sciences naturelles
   - He shoots with a bow (I.13 ¶36). *(Drafted.)*
     - quote: de très-adroits tireurs d’arc
-- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12
+  - He takes his turn at the helm of the boat, relieving Pencroff every two hours through the night (II.13 ¶31). *(Drafted.)*
+    - quote: Pencroff et Harbert se relayèrent de deux heures en deux heures au gouvernail
+- **Appears in:** I.2, I.3, I.4, I.5, I.6, I.7, I.8, I.9, I.10, I.11, I.12, I.13, I.14, I.15, I.16, I.17, I.18, I.19, I.20, I.21, I.22, II.1, II.2, II.3, II.4, III.16, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14, II.15, II.16
 - **Open:**
   - His age, family and origin are not stated in these chapters; the text calls him only a child (I.13 ¶6). *(Drafted.)*
     - quote: brave enfant

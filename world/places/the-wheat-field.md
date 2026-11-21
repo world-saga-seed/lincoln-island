@@ -32,4 +32,6 @@ Keywords: champ de blé, grain, sowing, plot, palisade, garden, seed bed, wheat
     - quote: au moyen d’une grosse toile, il parvint à protéger sa récolte
   - The third field, sown after the second harvest on 15 April, is far larger than the first two (II.10 ¶18). *(Drafted.)*
     - quote: Le troisième champ de blé fut donc incomparablement plus étendu que les deux premiers
-- **Appears in:** I.20, I.21, II.7, II.9, II.10
+  - By the third harvest, on 15 November, the field has grown in surface since the first grain of wheat was sown eighteen months before (II.16 ¶80). *(Drafted.)*
+    - quote: Voilà un champ qui s’était accru en surface, depuis dix-huit mois que le premier grain de blé avait été semé
+- **Appears in:** I.20, I.21, II.7, II.9, II.10, II.16

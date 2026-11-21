@@ -12,4 +12,10 @@ Keywords: voiles, sails, enveloppe, envelope, ballon, voilier, sailmaker, raling
     - quote: les voiles de l’embarcation furent terminées
   - They are edged with strong boltropes (II.12 ¶12). *(Drafted.)*
     - quote: Les voiles furent bordées de fortes ralingues
-- **Appears in:** II.11, II.12
+  - She carries a topsail, which Pencroff lowers at night out of prudence, not wishing to be surprised by a gust with canvas at the masthead (II.13 ¶26, ¶30). *(Drafted.)*
+    - quote: Pencroff avait gréé sa voile de flèche
+    - quote: Pencroff, par prudence, amena la voile de flèche
+  - In the rising wind of 15 October Pencroff takes a reef in the mainsail, and the sails have again to be reefed in the storm of the 18th (II.14 ¶94, ¶98). *(Drafted.)*
+    - quote: prit un ris dans sa grande voile
+    - quote: prendre des ris
+- **Appears in:** II.11, II.12, II.13, II.14

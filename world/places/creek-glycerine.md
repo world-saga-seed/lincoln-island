@@ -28,4 +28,10 @@ Keywords: Creek-Glycérine, fossé, ditch, moat, ruisseau, saignée, nitro-glyce
     - quote: située un peu au dehors du point où s’annonçait le Creek-Glycérine
   - Together with the stream of the shore, widened, it completes the closure of the plateau (II.7 ¶39). *(Drafted.)*
     - quote: le lit du ruisseau de la grève fut considérablement élargi
-- **Appears in:** II.7, II.8
+  - Pencroff says the unknown would think nothing of a brook like it and would soon clear it, even at a single bound (II.15 ¶87). *(Drafted.)*
+    - quote: un ruisseau comme le Creek-Glycérine
+    - quote: Il aurait vite fait de le franchir, même d’un seul bond
+  - It separates the plateau from the forest (II.15 ¶92; II.16 ¶103). *(Drafted.)*
+    - quote: le creek qui le séparait de la forêt
+    - quote: le Creek-Glycérine, qui séparait le plateau de la forêt
+- **Appears in:** II.7, II.8, II.15, II.16

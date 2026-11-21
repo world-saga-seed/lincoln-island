@@ -42,4 +42,9 @@ Keywords: phoque, seal, amphibie, amphibian, îlot du Salut, islet, huile, oil, 
   - Seal leather is made into shoes, large and long, to replace the shoes and boots brought from America (II.8 ¶5). *(Drafted.)*
     - quote: des chaussures en cuir de phoque
     - quote: remplacer à propos les souliers et les bottes apportés d’Amérique
-- **Appears in:** I.14, I.15, I.20, I.22, II.8
+  - Troops of seals on Tabor Island, with many bands of water birds, flee into the sea from as far off as they see men on the shore (II.13 ¶66). *(Drafted.)*
+    - quote: des troupeaux de phoques qui se jetaient à la mer du plus loin qu’ils les apercevaient
+  - Spilett reads their fear as proof that Tabor's seals have seen men before (II.13 ¶67). *(Drafted.)*
+    - quote: n’en sont pas à voir des hommes pour la première fois
+    - quote: Ils les craignent, donc ils les connaissent
+- **Appears in:** I.14, I.15, I.20, I.22, II.8, II.13

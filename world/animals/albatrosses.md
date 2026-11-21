@@ -22,7 +22,10 @@ Keywords: albatros, albatross, oiseau de mer, sea bird, côte, shore, cap Mandib
   - The colonists' first attempt to communicate with other men is made with this bird, as a 'rapide courrier de l’air' (II.11 ¶30, ¶35). *(Drafted.)*
     - quote: la première tentative faite par les colons pour communiquer avec leurs semblables
     - quote: ce rapide courrier de l’air
-- **Appears in:** I.14, II.11
+  - Albatrosses and frigate birds pass within gunshot of the Bonadventure between Tabor and Lincoln, the only creatures that seem to frequent that part of the ocean (II.13 ¶33). *(Drafted.)*
+    - quote: quelque grand oiseau, albatros ou frégate, passait à portée de fusil
+    - quote: Ces oiseaux étaient les seuls êtres qui parussent fréquenter cette partie de l’océan
+- **Appears in:** I.14, II.11, II.13
 - **Open.**
   - Whether the notice carried by the albatross reaches anyone is not told in II.11 or II.12 (II.11 ¶35). *(Drafted.)*
     - quote: ce ne fut pas sans quelque émotion que les colons le virent disparaître au loin dans les brumes de l’ouest

@@ -42,7 +42,9 @@ Keywords: enveloppe, envelope, aérostat, balloon, cotton, toile, cloth, vernis,
     - quote: il acquit une blancheur parfaite
   - It makes the colony's linen (see [the linen](the-linen.md)) (II.8 ¶4). *(Drafted.)*
     - quote: Quelques douzaines de chemises et de chaussettes
-- **Appears in:** II.5, II.7, II.8
+  - Its inexhaustible cloth is to furnish the canvas for the sails of the mill (see [the windmill](the-windmill.md)) (II.16 ¶84). *(Drafted.)*
+    - quote: l’inépuisable enveloppe du ballon leur fournirait la toile nécessaire
+- **Appears in:** II.5, II.7, II.8, II.16
 - **Open:**
   - The engineer calls it a hot-air balloon, but chapter I.1 speaks of its gas escaping through a tear (II.7 ¶47; I.1 ¶49). *(Drafted.)*
     - quote: se risquer dans un ballon à air chaud pour quitter l’île

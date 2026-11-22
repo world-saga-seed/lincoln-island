@@ -8,7 +8,7 @@ The convalescence of the young patient went on regularly. One thing only was now
 
 There was no news of Neb, but no uneasiness on his account. The courageous negro, well entrenched in the depths of Granite House, would not let himself be surprised. Top had not been sent back to him, and it had seemed useless to expose the faithful dog to some shot which would have deprived the colonists of their most useful auxiliary.
 
-They waited, therefore, but the colonists were eager to be reunited at Granite House. It pained the engineer to see his forces divided, for that was playing the game of the pirates. Since the disappearance of Ayrton they were only four against five, for Herbert could not yet be counted; and this was not the least care of the brave boy, who well understood the trouble of which he was the cause!
+They waited, therefore, but the colonists were eager to be reunited at Granite House. It pained the engineer to see his forces divided, for that was playing the game of the pirates. Since the disappearance of Ayrton they were only four against five, for Herbert could not yet be counted. And this was not the least care of the brave boy, who well understood the trouble of which he was the cause!
 
 The question of how, in the present conditions, they should act against the convicts, was thoroughly discussed on the 29th of November between Smith, Spilett, and Pencroff, at a moment when Herbert, dozing, could not hear them.
 
@@ -96,7 +96,7 @@ Pencroff had become a true farmer, attached with all his heart to his crops. But
 
 Several times he pressed Spilett, but the latter, fearing, with reason, that the wounds of Herbert, badly healed, might open again on the way, did not give the order to start.
 
-However, an incident occurred which drew Smith and his two friends into yielding to the desires of the young boy, and God knows what grief and remorse this determination might cause them!
+However, an incident occurred which led Smith and his two friends to yield to the young boy's wishes, and God knows what grief and remorse this determination might cause them!
 
 It was the 29th of November. It was seven o'clock in the morning. The three colonists were talking in Herbert's room, when they heard Top barking sharply.
 

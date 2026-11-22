@@ -8,7 +8,7 @@ At Herbert's cry, Pencroff, letting his weapon fall, had rushed towards him.
 
 "They have killed him!" he cried. "Him, my child! They have killed him!"
 
-Smith and Spilett had rushed towards Herbert. The reporter listened to learn whether the poor boy's heart still beat.
+Smith and Spilett had run to Herbert. The reporter listened to learn whether the poor boy's heart still beat.
 
 "He lives," said he. "But he must be carried—"
 
@@ -24,7 +24,7 @@ Meanwhile, Spilett and the sailor hoisted themselves up at the angles of the pal
 
 A few moments after, Smith was beside him.
 
-At the sight of Herbert lifeless, the grief of the sailor was terrible. He sobbed, he wept, he wished to dash his head against the wall. Neither the engineer nor the reporter could calm him. Their own emotion choked them. They could not speak.
+At the sight of Herbert lifeless, the grief of the sailor was terrible. He sobbed, he wept, he wished to dash his head against the wall. Neither the engineer nor the reporter could calm him. Their own emotion choked them, and they could not speak.
 
 However, they did all that lay in their power to dispute with death the poor boy who was dying under their eyes. Spilett, after the many incidents with which his life had been strewn, was not without some practice in ordinary medicine. He knew a little of everything, and many times already he had been called upon to tend wounds made either by a blade or by a firearm. Aided by Smith, he therefore proceeded to the care which the state of Herbert required.
 
@@ -80,7 +80,7 @@ Spilett had begun again to examine the wounded boy with extreme attention. Herbe
 
 "Recover your calm, my friend," answered the engineer, pressing the reporter's hand; "judge coolly—think only of this: Herbert must be saved!"
 
-These words restored to Spilett that self-possession which, in a moment of discouragement, the keen sense of his responsibility had made him lose. He sat down near the bed. Smith remained standing. Pencroff had torn up his shirt, and was mechanically making lint.
+These words restored to Spilett that self-possession which, in a moment of discouragement, the keen sense of his responsibility had made him lose. He sat down near the bed, while Smith remained standing. Pencroff had torn up his shirt, and was mechanically making lint.
 
 Spilett then explained to Smith that he thought it his duty, first of all, to stop the hemorrhage, but neither to close the two wounds nor to bring about their immediate cicatrization, because there had been an internal perforation, and the suppuration must not be allowed to accumulate in the chest.
 

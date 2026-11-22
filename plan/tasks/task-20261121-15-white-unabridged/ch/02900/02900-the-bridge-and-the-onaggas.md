@@ -14,13 +14,13 @@ Seated at the table, before going to bed, Smith and his companions discussed sev
 
 As to this corral, it was Smith’s intention to establish it at the very sources of Red Creek, where the ruminants would find pastures that would give them fresh and abundant food. Already the path between there and Prospect Plateau was partially cleared, and with a cart better constructed than the first, carriage would be easier, especially if they should capture some animal that could draw it.
 
-But while it would not be inconvenient to have the corral some distance from Granite House, it was different with the poultry-yard, to which Neb called attention. It was necessary that the “chickens” should be at the hand of the cook, and no place seemed more favorable for an establishment of this kind than that portion of the lake shore bordering on the former weir. The aquatic birds also would thrive there, and the pair of tinamons, taken in the last excursion, would serve for a first attempt at domestication.
+But while it would not be inconvenient to have the corral some distance from Granite House, it was different with the poultry-yard, to which Neb called attention. It was necessary that the fowls should be at the hand of the cook, and no place seemed more favorable for an establishment of this kind than that portion of the lake shore bordering on the former weir. The aquatic birds also would thrive there, and the pair of tinamons, taken in the last excursion, would serve for a first attempt at domestication.
 
 The next day—the 3d of November—the new works were begun with the building of the bridge, and all hands were required on the important undertaking. Saws, hatchets, chisels, and hammers were loaded on the shoulders of the colonists, who, now turned carpenters, descended to the shore.
 
 Here Pencroff reflected as follows:—
 
-“Supposing while we are away Master Jup takes the notion of hauling up the ladder, which he so gallantly unrolled for us yesterday?”
+“Supposing while we are away Master Jup takes the notion of hauling up the ladder, which he so gallantly sent back to us yesterday?”
 
 “Let us make fast its lower end,” answered Smith.
 
@@ -36,7 +36,7 @@ Smith, in order to make his companions comprehend clearly his plans, had made a 
 
 “And first, for the bridge!”
 
-This work was the most urgent. Trees were selected, felled, lopped, and cut into beams, planks, and boards. The bridge was to be stationary on the right bank of the Mercy, but on the left it was to be so constructed as to raise by means of counterweights, as some bridges at canal locks are.
+This work was the most urgent. Trees were selected, felled, lopped, and cut into beams, planks, and boards. The bridge was to be stationary on the right bank of the Mercy, but on the left it was to be so constructed as to raise by means of counterweights, as some lock bridges are.
 
 It will be understood that this was a considerable work, and if it was ably conducted, it at least required some time, as the Mercy was about eighty feet wide at this point. It was first necessary to drive piles in the bed of the river, to sustain the fixed flooring of the bridge, and to set up a pile-driver to drive the piles, so as to form two arches capable of supporting heavy weights.
 

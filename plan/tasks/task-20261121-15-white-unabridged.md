@@ -157,3 +157,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 Voice on II.4, II.5, II.6 runs (the "moricaud" line may change after it, by the author's ruling).
 - 2026-11-21 II.7: patcher v2, 72 patches (13 listed, 55 new, 4 slips), and three by the main session ("indiginous", "unwieldly" as slips; "la première quinzaine de décembre" as the first half, not White's middle); all apply. 29.12 "onaggas": White's "onagers" kept, as his word for the beast (24 times in his text); for the author's next report. Facts 1 runs.
 - 2026-11-21 Voice on II.4, II.5, II.6: no break; three splits in the render, one seam in II.5. **II.4, II.5 final.** II.6 waits for the "moricaud" ruling.
+- 2026-11-21 II.7 facts 1: 5; three patched ("les volatiles" without White's quoted "chickens"; "renvoyée"; the added "canal"). Onaggas (the heading and ¶54, and White's "onagers" book-wide) put to the author. Facts 2 runs.
+- 2026-11-21 R1121-154: onaggas everywhere. "Moricaud" is with the human. patcher-v2 and the render prompts carry the onagga line; II.8 (rendering now) is checked for it on its return.

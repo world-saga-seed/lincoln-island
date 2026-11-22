@@ -9,6 +9,8 @@
   4. The builder: notes at each chapter's back with links both ways (epub); pop-up notes (kepub); the sample chapter to the author's Kobo first (R1121-166).
   5. The full builds, `build/lincoln-island` and `build/lincoln-island-run` (R1121-160).
 
+- **Status:** Closed (left in place: its builders and copies are what the build commands use).
+
 ## Log
 
 - 2026-11-21 R1121-162 to -166 on the ledger. Four questions to the author (the map's form, the note marks, the files, the sample). The map's data: 3,224 patches; of the 38 patched chapters' French paragraphs, 945 kept, 1,554 patched, 754 restored; 24 chapters rendered.
@@ -18,3 +20,7 @@
 - 2026-11-21 R1121-171, -172. The run's book: XIX bis at every stage (v1 = the render-v1 snapshot; after the read-aloud = 430c257, draft 3 final; after the character check = db13ee1, after R1121-143 (R1121-173); the final), copies in `stages/`; the blind scores copied from tmp/scores into `blind-scores.md`; the read-aloud as sent, from the session transcript, in `read-aloud.md`. 01900's "hydraulic lift" is "hydraulic elevator" (the only one in the prose). 26 pages well-formed.
 - 2026-11-21 The notes drafter: 36 notes in 26 new files *(Proposal.)*, anchors unique, inventory in `notes-inventory.md`; the trial build passes. A fresh facts critic is checking every claim.
 - 2026-11-21 The critic: 22 stand, 15 fixed (`findings-notes.md`). The full builds: `build/lincoln-island.*` (69 pages, 38 notes) and `build/lincoln-island-run.*`; sent. Open for the author: the numbered notes' wording, XXXIII's "winter of 1866-67", a check of the two forewords.
+
+## Resolution
+
+The two books are built: the novel with the forewords, the map, 38 scholar's notes, THE END and the glossary; the run's book at every stage with the cards, the ledger, the scores and the read-aloud (R1121-162 to -178, -181).

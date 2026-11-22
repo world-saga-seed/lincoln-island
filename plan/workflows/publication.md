@@ -36,3 +36,9 @@ If a retailer asks how the book was made, the answer agrees with the front matte
 ## Outputs
 
 - The famous-phrase report with cleared lines; the final front matter; the release plan.
+
+## Lessons (Lincoln Island, 2026-11-21)
+
+- **Run the overlap against the public-domain translations too.** Renders "in one translator's voice" shared 29% of their words, in runs of eight or more, with another translation that no agent was given (White's own text: 6%). The models remembered it. The figure goes in the front matter, said plainly.
+- **Check the front matter's credits against the ledger** with a fresh critic. A foreword said two plot turns came from a reading they did not come from; who made what is a fact like any other.
+- **The cold reader's smallest fixes are glosses at first use:** the method, the patch, the added chapter's label. Its "what I understood" paragraph is the test that the page works.

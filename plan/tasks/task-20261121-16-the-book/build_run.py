@@ -76,6 +76,9 @@ def main():
     pg = lambda t, b, c='': B.page(t, b, c)
     entries.append(('title.xhtml', 'Title', pg('Title', ['<p class="titlebig">LINCOLN ISLAND: THE RUN</p>',
         '<p class="byline">chapters XIX, XIX bis and XX in every version, with the cards, the ledger and the blind scores</p>'])))
+    if os.path.exists('story/front/copyright.md'):  # R1121-183
+        t, b = B.front('story/front/copyright.md', images)
+        entries.append(('copyright.xhtml', t, pg(t, b, 'front copyright')))
     t, b = B.front(os.path.join(HERE, 'run-front.md'), images)
     entries.append(('about.xhtml', t, pg(t, b, 'front')))
     chs = [('01900', '19', 'XIX'), ('01950', None, 'XIX bis'), ('02000', '20', 'XX')]

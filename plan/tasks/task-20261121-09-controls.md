@@ -7,7 +7,7 @@
 - **Wave:** none.
 - **Start hash:** db2c80c 2026-11-21.
 - **End hash:** (on close)
-- **Status:** Executing: the six replies are in; the checks wait for phase 8.
+- **Status:** Closed.
 
 ## Steps
 
@@ -31,6 +31,6 @@
 
 ## Resolution
 
-(On close.)
+The six controls were written, checked by the same critics as v1 (`checks/batch-paper.md`) and scored blind by the human (R1121-181; `task-20261121-16-the-book/blind-scores.md`). They are printed in the run's book.
 - 2026-11-21 The checks begin (the author's word). Copies under neutral labels in `checks/`, prompts in `checks/prompts/`, the batch paper `checks/batch-paper.md`. Mechanical checks in.
 - 2026-11-21 The checks are in: 16 critics on the six replies; findings in `checks/findings/`, the sum in `checks/batch-paper.md`. Not revised (controls).

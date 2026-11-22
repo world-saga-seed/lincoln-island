@@ -4,18 +4,25 @@
 
 ## Now
 
-Phases 0 to 11 are done for the three chapters. 01900, 01950 ("XIX bis", "The Float in the Bar") and 02000 are final in `story/prose/` (R1121-132). The final read build was made from 430c257 (removed from `build/` by R1121-160; the archive's `ereader/build_epub.py` makes it again). The read (phase 9) and the author's read-aloud of the insert (in place of phase 10's recorded reading) were folded in as patches (R1121-122 to -131). The insert's 52 new facts are carded, cited "(XIX bis ¶N)". Phase 12 is held until the author has seen the blind scores on the final (R1121-133). The next session starts there.
+Phases 0 to 12b are done, and phase 13 is drafted.
+- **The novel:** all 63 chapters are final in `story/prose/`. Verne's 62 are White made unabridged; 01950 is XIX bis.
+- **The forewords and the map** are in `story/front/`, and the scholar's 38 notes are in `story/scholar/`.
+- **The two books** build from `plan/tasks/task-20261121-16-the-book/`: `build_book.py` makes `build/lincoln-island.*` and `build_run.py` makes `build/lincoln-island-run.*`. `build/` is not tracked.
+- **The clearance** is done, and no modern translation was checked (R1121-180). The raw sources listed in `plan/tasks/task-20261121-17-clearance/release-exclude.txt` stay out of the public repo.
+- **The report** is `REPORT.md`, and the post draft is in `plan/tasks/task-20261121-18-close/post-draft.md`.
 
 ## Next
 
-1. **The blind scores on the final.** This is the author's scoring with the rubrics and questions frozen in phase 7 (`plan/tasks/task-20261121-09-controls/scoring/`, which stays closed to this session until the comparison, R1121-89). The final, v1 and the six controls get the same ones.
-2. **The blind probe on the final** (BRIEF phase 11's check), re-asking K1 to K15 of `plan/reader-tests/key.md` with a fresh reader, as in phase 8's `probe/` (now in `plan/archive/task-20261121-11-render-v1/probe/`). K3 and K4 moved at the read (R1121-130).
-3. **The checks on the controls** (phase 7's task, still open): the same checks and critics as phase 8, run on the six control chapters.
-4. **Phase 12, the book,** at the author's word: one epub with White, the two prompt-only controls, v1 and the final, each labelled, and the cards and ledger alongside, with the kepub. The phase 9 builder (`plan/archive/task-20261121-11-render-v1/ereader/build_epub.py`) is the start: move it to `tools/` when the second build needs it. Two books, one name each, overwritten at every build: `build/lincoln-island-run.epub` (the run's book above) and `build/lincoln-island.epub` (the novel alone), each with its `.kepub.epub` (R1121-160). The book ends: after chapter LXII the build prints "THE END.", then White's glossary from `story/backmatter/white-1876-glossary.md`, headed as his (R1121-158); his map plate is not set, since no image of it is held.
-5. Phase 12b, the clearance (kingston-1875 stays closed until then), and phase 13, the close.
+1. **The community check** (BRIEF phase 13), at the author's word.
+2. **The post**, at the author's word (BRIEF: "No push, no post, until the end and the community check").
 
 ## Waiting
 
-- **On the author:** the blind scores on the final, then the word for phase 12.
-- Carried from phase 4: the scene lines left on the large cards (length, not truth); the text's discords, each ruled when a draft leans on it (R1121-07).
-- Not run: epubcheck on any build (the author's hold); the omission critics on the neighbours' four final patches, which render the French and were checked one by one.
+- **On the author:**
+  - The raw sources are to come out of the git history before the repository is made public. The author does this (R1121-180); this session leaves the history alone.
+  - If a modern translation file is placed outside the repo, the overlap runs against it.
+- Carried:
+  - epubcheck has not been run on any build. None is installed; the XHTML is checked as well-formed.
+  - The phase 4 scene lines on the large cards (length, not truth).
+  - The text's discords are ruled when a draft leans on them (R1121-07).
+- **Tasks left open on purpose:** 16, 17 and 18 stay in `plan/tasks/`. The README, REPORT and the build commands link into their folders, and the builders live there. Moving the builders to `tools/` and archiving the tasks is a step for the close, after the post.

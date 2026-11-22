@@ -4,7 +4,7 @@
 - **Context:** R1121-178 opens it; `existing/kingston-1875` opens with it (the author's ruling of 2026-11-20).
 - **Region:** writes this task and its folder, `tools/overlap.py`, `kit-patches/0001-tools-overlap.md`. Reads `existing/` (read-only), `texts/`, `story/prose/`, the run's versions.
 - **Start hash:** 95d7739 2026-11-21.
-- **Status:** executing; waits on the human for any modern translation.
+- **Status:** Closed (left in place; the README links it). The history removal is the author's (R1121-180).
 
 ## (1) Inputs
 
@@ -43,3 +43,7 @@ Per-file tables: `novel-vs-white.tsv`, `novel-vs-kingston.tsv`, `white-vs-kingst
 - 2026-11-21 R1121-179: the lean said plainly; the famous-phrase and clarity checks run; modern translations and existing/ wait on the author.
 - 2026-11-21 Opened. Inputs audited. `tools/overlap.py` and its kit patch written. Overlaps run. Questions to the author.
 - 2026-11-21 The famous-phrase check: 27 lines, none found (`famous-phrase.md`). The cold reader of the two forewords: the smallest fixes applied (glosses for the method, the patch, XIX bis, the controls, the cards and ledger; "now given to" made "usually credited to … though the edition names no translator"; referents named); the author may overturn (R1121-130).
+
+## Resolution
+
+The inputs audited, the overlap run against White and Kingston, the Kingston lean said plainly, the famous-phrase and clarity checks run. No modern translation was checked.

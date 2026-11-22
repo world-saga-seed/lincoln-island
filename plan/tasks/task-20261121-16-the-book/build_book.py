@@ -12,6 +12,8 @@ Standard library only, except kepubify for the .kepub.epub. Run from the repo ro
 import glob, html, os, re, shutil, subprocess, sys, uuid, zipfile, datetime
 
 TITLE = 'Lincoln Island'
+RIGHTS = ('Verne (1875) and White (1876): public domain. The restoration, forewords, notes, XIX bis and map, made by language '
+          'models in 2026 with a human’s reading: no copyright claimed; any right waived under CC0 1.0.')
 AUTHOR = 'Jules Verne; the missing chapter by a model, by the World Saga Seed method'
 CSS = """
 body { margin: 0 4%; line-height: 1.35; }
@@ -34,6 +36,8 @@ body.front p { text-indent: 0; text-align: left; margin: 0 0 0.75em; }
 body.front ul { margin: 0 0 0.75em 1.2em; padding: 0; }
 body.front li { margin: 0 0 0.3em; }
 body.front p.sign { text-align: right; font-style: italic; }
+body.copyright { font-size: 0.75em; line-height: 1.25; }
+body.copyright h2 { font-size: 1.2em; margin: 0.5em 0 1em; }
 div.img { text-align: center; margin: 1em 0; }
 div.img img { max-width: 100%; }
 body.gloss p { text-indent: -1.2em; margin: 0 0 0.4em 1.2em; text-align: left; font-size: 0.9em; }
@@ -193,7 +197,7 @@ def build(out, only, kobo):
         '<p class="titlebig">THE MYSTERIOUS ISLAND</p>', '<p class="byline">by Jules Verne</p>',
         '<p class="byline">in Stephen W. White’s English of 1876, made unabridged against the French of 1875</p>'] +
         (['<p class="byline">with a missing chapter by a model, by the World Saga Seed method</p>'] if bis else []))))
-    for f in ['foreword', 'scholar-preface', 'map']:
+    for f in ['copyright', 'foreword', 'scholar-preface', 'map']:
         p = f'story/front/{f}.md'
         if os.path.exists(p):
             t, b = front(p, images)
@@ -201,7 +205,7 @@ def build(out, only, kobo):
                 if not bis:
                     b = [x.replace('; the dotted band is XIX bis, which has no French', '') for x in b]
                 b += map_table()
-            entries.append((f'{f}.xhtml', t, page(t, b, 'front')))
+            entries.append((f'{f}.xhtml', t, page(t, b, 'front copyright' if f == 'copyright' else 'front')))
     files = sorted(glob.glob('story/prose/[0-9][0-9][0-9][0-9][0-9]-*.md'))
     for path in files:
         code = os.path.basename(path)[:5]
@@ -235,6 +239,7 @@ def write(out, entries, images, sample=False):
 <dc:title>{html.escape(TITLE + (': sample' if sample else ''))}</dc:title>
 <dc:creator>{html.escape(AUTHOR)}</dc:creator>
 <dc:language>en</dc:language>
+<dc:rights>{html.escape(RIGHTS)}</dc:rights>
 <meta property="dcterms:modified">{now}</meta>
 </metadata>
 <manifest>

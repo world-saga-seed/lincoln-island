@@ -6,7 +6,7 @@
 
 ## Queued by the author
 
-- **White made unabridged: done (2026-11-21, 10a2bb6).** All 62 of Verne's chapters are final in `story/prose/`, through two facts rounds, omission and voice (task-20261121-15). White's glossary is back matter in `story/backmatter/` and the build prints "THE END." after LXII (R1121-158). End pass, queued: one form for "mouflons"/"moufflons"; one smart-quote pass; the 05600 pilot drift (below); the 04300 notes drift. *(The author's ruling R1121-148; my calls on the end pass, overturnable.)*
+- **Phases 12, 12b and 13 (2026-11-21):** the books built; the clearance done; the report and post draft read (R1121-182). The community check and the post wait on the author. See `plan/roadmap.md`.
 
 ## Stages
 

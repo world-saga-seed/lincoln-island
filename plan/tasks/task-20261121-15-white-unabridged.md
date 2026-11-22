@@ -7,7 +7,7 @@
 - **Wave:** none.
 - **Start hash:** (at the first commit)
 - **End hash:** (on close)
-- **Status:** Executing: the pilot's patcher and drafter are running.
+- **Status:** Closed.
 
 ## Steps
 
@@ -305,3 +305,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 End pass (R1121-158): "moufflons", White's form, throughout story/prose (16 "mouflons" made so); every straight quote made curly in story/prose and the glossary (23 files; no line moved, so the epub line ids hold); 05600 "Good Luck" made "Bonadventure" and "Cyrus Smith" "Smith" (11); 04300 notes "not more than eight miles". Drift table empty. Next: the 01950 short-sentence patch.
 - 2026-11-21 01950 short-sentence patch (R1121-159): 18 joins (colons, semicolons, "and", "for"); short% 26 to 15 (White 6 to 18), semicolons 24 to 25, and/s 0.68 to 0.81 (White's top 0.70: fewer sentences for the same "and"s); no word of a clue cut. The R1121-156 read of 01900, 01950, 02000: no findings. rulings.md updated. README rewritten as the book's page.
 - 2026-11-21 01950 "and" trim (the author's): nine long narration sentences split at ", and" or "; and" (each half ten words or more); no line cut. Now and/s 0.70, short% 14, long% 26, median 16, sd 10.4, semicolons 23, knots 7 to 3.
+
+## Resolution
+
+All 62 of Verne's chapters are final: 38 patched (3,224 patches), 24 rendered from the French, through the facts, omission and voice critics; the end pass done (R1121-156 to -161). The renders' lean on Kingston was found later, in the clearance (R1121-179).

@@ -294,3 +294,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.19 facts 1: 0; one noted, patched ("Vers le 23" made "About the 23d"). Facts 2 runs.
 - 2026-11-21 III.19 facts 2: 1 ("by all" added), patched. The omission critic runs.
 - 2026-11-21 III.18 facts 2: 4, patched ("de chacun"; "assombrissements passagers"; "gerbes de feu"; "fourrage"). The omission critic runs.
+- 2026-11-21 III.19 omission: 0. III.19 waits for voice.
+- 2026-11-21 III.18 omission: 3, patched ("accumulées à la bouche du cratère … projetées par le volcan"; "d'un jet rapide"; "donc … suffisamment"). Voice on III.17, III.18, III.19 runs.

@@ -68,7 +68,7 @@ All the colonists, whose arms were demanded by Pencroff, went down to the shipya
 
 They worked steadily, therefore, all that day, the 3d of January, without troubling themselves about the volcano, which could not be seen from the beach before Granite House. But once or twice heavy shadows obscured the sunlight, and, as the day was perfectly clear, it was evident that thick clouds of smoke were passing between the sun’s disc and the island. The wind, blowing from the sea, carried all these vapors to the west. Smith and Spilett noticed these passing darkenings, and talked more than once of the progress that the volcanic phenomenon was evidently making, but they did not cease work. It was, moreover, of great importance, in every sense, that the ship should be finished with as little delay as possible. In the presence of events which might happen, the security of the colonists would be better assured. Who could say but that this ship might not, some day, be their sole refuge?
 
-That evening, after supper, Smith, Spilett, and Herbert climbed to the plateau. It was already dark, and they would be able to distinguish whether flames or incandescent matter was mingled with the smoke and vapor of the volcano.
+That evening, after supper, Smith, Spilett, and Herbert climbed to the plateau. It was already dark, and they would be able to distinguish whether flames or incandescent matter projected by the volcano, was mingled with the smoke and vapor accumulated at the mouth of the crater.
 
 “The crater is on fire!” cried Herbert, who, more active than his companions, had reached the plateau the first.
 
@@ -88,7 +88,7 @@ Mount Franklin, about six miles distant, appeared like a gigantic torch, with fu
 
 “I do not say that we are menaced by an earthquake,” said Smith, “and God preserve us from one! No. These vibrations are due to the effervescence of the central fire. The crust of the earth is nothing more than the covering of a boiler, and you know how the covering of a boiler, under the pressure of the gases, vibrates like a sonorous plate. That is what is happening at this moment.”
 
-“What magnificent sheaves of fire!” cried Herbert, as a sort of bouquet of fireworks, whose brilliance the vapors had not been able to dim, shot up from the crater. From its midst thousands of luminous fragments and bright scintillations were thrown in contrary directions. Some of them pierced the dome of smoke, leaving behind them a perfect cloud of incandescent dust. This outpouring was accompanied by successive detonations like the discharge of a battery of mitrailleuses.
+“What magnificent sheaves of fire!” cried Herbert, as a sort of bouquet of fireworks, whose brilliance the vapors had not been able to dim, shot up from the crater. From its midst thousands of luminous fragments and bright scintillations were thrown in contrary directions. Some of them pierced the dome of smoke in a rapid jet, leaving behind them a perfect cloud of incandescent dust. This outpouring was accompanied by successive detonations like the discharge of a battery of mitrailleuses.
 
 Smith, the reporter, and the lad, after having passed an hour on Prospect Plateau, went down again to the beach and returned to Granite House. The engineer was pensive, and so much preoccupied that Spilett asked him if he anticipated any near danger, of which the eruption would be the direct or indirect cause.
 
@@ -150,7 +150,7 @@ This the engineer was able to verify more completely when he observed the whole 
 
 “And I would be better satisfied if they had!” said Smith to himself. “At least I would be certain that the lavas had taken their accustomed route. Who knows if they may not burst forth from some new mouth? But that is not the danger! Captain Nemo has well foreseen it! No! the danger is not there!”
 
-Smith went forward as far as the enormous causeway, whose prolongation enframed the narrow Shark Gulf. Here he was able to examine the ancient lava marks. There could be no doubt that the last eruption had been at a far distant epoch.
+Smith went forward as far as the enormous causeway, whose prolongation enframed the narrow Shark Gulf. Here, then, he was able to examine the ancient lava marks well enough. There could be no doubt that the last eruption had been at a far distant epoch.
 
 Then he returned, listening to the subterranean rumblings, which sounded like continuous thunder, broken by loud detonations, and at 9 o’clock in the morning he was at the corral.
 

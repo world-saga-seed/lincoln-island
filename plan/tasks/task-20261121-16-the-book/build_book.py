@@ -207,7 +207,11 @@ def build(out, only, kobo):
         body = ['<h2>White’s Glossary (1876)</h2>'] + [f'<p>{inline(l.strip())}</p>' for l in lines[1:]
                                                        if l.strip() and not l.startswith('*') and l.strip() != 'GLOSSARY.']
         entries.append(('glossary.xhtml', 'White’s Glossary (1876)', page('Glossary', body, 'gloss')))
-    uid = 'urn:uuid:' + str(uuid.uuid5(uuid.NAMESPACE_URL, TITLE + (' sample' if only else '')))
+    return write(out, entries, images, sample=bool(only))
+
+
+def write(out, entries, images, sample=False):
+    uid = 'urn:uuid:' + str(uuid.uuid5(uuid.NAMESPACE_URL, TITLE + (' sample' if sample else '')))
     now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     man = '\n'.join(f'<item id="i{k}" href="{h}" media-type="application/xhtml+xml"/>' for k, (h, _, _) in enumerate(entries))
     man += '\n' + '\n'.join(f'<item id="img{k}" href="images/{os.path.basename(s)}" media-type="image/png"/>' for k, s in enumerate(images))
@@ -216,7 +220,7 @@ def build(out, only, kobo):
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier id="uid">{uid}</dc:identifier>
-<dc:title>{html.escape(TITLE + (': sample' if only else ''))}</dc:title>
+<dc:title>{html.escape(TITLE + (': sample' if sample else ''))}</dc:title>
 <dc:creator>{html.escape(AUTHOR)}</dc:creator>
 <dc:language>en</dc:language>
 <meta property="dcterms:modified">{now}</meta>
@@ -253,18 +257,23 @@ def build(out, only, kobo):
     return out
 
 
+def kepub(base, src=None):
+    src = src or base + '.epub'
+    k = base + '.kepub.epub'
+    if os.path.exists(k):
+        os.remove(k)
+    if shutil.which('kepubify'):
+        subprocess.run(['kepubify', '--output', k, src], check=True, stdout=subprocess.DEVNULL)
+        print(k)
+
+
 def main():
     base = sys.argv[1]
     only = set(sys.argv[3].split(',')) if len(sys.argv) > 3 and sys.argv[2] == '--only' else set()
     os.makedirs(os.path.dirname(base) or '.', exist_ok=True)
     print(build(base + '.epub', only, kobo=False))
     tmp = build(base + '.kobo-src.epub', only, kobo=True)
-    kepub = base + '.kepub.epub'
-    if os.path.exists(kepub):
-        os.remove(kepub)
-    if shutil.which('kepubify'):
-        subprocess.run(['kepubify', '--output', kepub, tmp], check=True, stdout=subprocess.DEVNULL)
-        print(kepub)
+    kepub(base, tmp)
     os.remove(tmp)
 
 

@@ -154,3 +154,6 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.5 omission: 2 ("de l'extrémité de la presqu'île"; the cloth, ropes and cordage), patched. II.5 waits for voice. II.7's patcher runs.
 - 2026-11-21 II.6 facts 2: 6; five patched (the Chimneys and the day; down the bank at full speed; "ils virent que"; "comme tel"; "boire le vin"); "moricaud" waits for the author. The omission critic runs.
 - 2026-11-21 II.6 omission: 2 ("rapidement", "On sait que"), patched. II.6 waits for "moricaud" and voice.
+- 2026-11-21 Voice on II.4, II.5, II.6 runs (the "moricaud" line may change after it, by the author's ruling).
+- 2026-11-21 II.7: patcher v2, 72 patches (13 listed, 55 new, 4 slips), and three by the main session ("indiginous", "unwieldly" as slips; "la première quinzaine de décembre" as the first half, not White's middle); all apply. 29.12 "onaggas": White's "onagers" kept, as his word for the beast (24 times in his text); for the author's next report. Facts 1 runs.
+- 2026-11-21 Voice on II.4, II.5, II.6: no break; three splits in the render, one seam in II.5. **II.4, II.5 final.** II.6 waits for the "moricaud" ruling.

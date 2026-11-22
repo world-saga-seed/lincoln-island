@@ -249,3 +249,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.8 facts 1: 0. Facts 2 runs.
 - 2026-11-21 III.8 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.8 omission: 0. III.8 waits for voice.
+- 2026-11-21 Voice 46-47-48: 15 findings, no break; two patch seams mended (III.4 ¶79, III.6 ¶2); the rest are Verne's or White's. Disposals in voice/findings-46-47-48.md.
+- 2026-11-21 III.4, III.5, III.6: final in story/prose/.

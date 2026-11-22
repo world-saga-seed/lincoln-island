@@ -48,3 +48,8 @@
 | Standing findings | taste only | weak: two knots, repeated connectives |
 
 Lessons: (1) the phase 3 lists undercount White's departures by a factor of about eight (7 listed, 59 departures patched), so a patcher must read for departures, not only patch the list; (2) story/voice/names.md covers I.19 and I.20 only, and later names (Balloon Harbor, Jetsam Point, Good Luck, Tabor Island) must come from White's own text; the book needs White's names list first; (3) a drafter broke its one-command rule.
+- 2026-11-21 R1121-149 (option A). `chapters.tsv`: 37 to patch, 21 to re-render, 4 done (I.5, I.19, I.20, III.14). `patcher-v2.md` (a full reading against the French), `chap.py` (a chapter's folder, prompts and title; `apply`). The names builder runs (`names/`), for the re-renders. The patches start in book order with I.1, since a patch keeps White's names.
+
+## The loop, per chapter
+
+Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on the findings → apply → facts critic 2 → the last findings patched by the main session → omission critic → voice critic by threes → into `story/prose/` as final. Re-render: drafter (Opus, a bundle by `build_bundle.py`, the names list) → facts → omission → voice → final.

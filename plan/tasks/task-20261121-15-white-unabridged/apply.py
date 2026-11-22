@@ -8,7 +8,8 @@ in White's text (the "¶N " prefixes stripped); "¶" in new is a paragraph break
 import csv, re, sys
 nn, tsv, out, title = int(sys.argv[1]), sys.argv[2], sys.argv[3], sys.argv[4]
 lines = open('texts/white-1876/%02d.md' % nn, encoding='utf-8').read().splitlines()
-head = [l[3:] for l in lines if l.startswith('hd ')]
+first = next(i for i, l in enumerate(lines) if re.match(r'^¶\d+ ', l))
+head = [l[3:] for l in lines[:first] if l.startswith('hd ')]  # an hd line after the text (White's end line, LXII) is not the heading
 num = {int(re.match(r'^¶(\d+) ', l).group(1)): re.sub(r'^¶\d+ ', '', l) for l in lines if re.match(r'^¶\d+ ', l)}
 rows = list(csv.DictReader(open(tsv, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
 # A whole White paragraph: old "@¶N"; an empty new deletes it.

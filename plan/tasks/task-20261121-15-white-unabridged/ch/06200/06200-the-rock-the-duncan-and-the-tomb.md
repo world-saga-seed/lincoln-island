@@ -2,8 +2,6 @@
 
 CHAPTER LXII.
 
-END OF TRANSLATION OF THE MYSTERIOUS ISLAND
-
 AN ISOLATED ROCK IN THE PACIFIC—THE LAST REFUGE OF THE COLONISTS OF LINCOLN ISLAND—THE PROSPECT OF DEATH—UNEXPECTED SUCCOR—HOW AND WHY IT CAME—THE LAST GOOD ACTION—AN ISLAND ON TERRA FIRMA—THE TOMB OF CAPTAIN NEMO.
 
 An isolated rock, thirty feet long, fifteen feet wide, rising scarcely ten feet above the surface of the water, this was the sole solid point which had not vanished beneath the waves of the Pacific.
@@ -109,5 +107,3 @@ Here, under the skillful hand of the engineer and his companions, everything pro
 Here Smith and his companions often received visits from Lord and Lady Glenarvan, from Captain John Mangles and his wife, sister to Robert Grant, from Robert Grant himself, from Major MacNabbs, from all those who had been mixed up in the double history of Captain Grant and Captain Nemo.
 
 Here, finally, all were happy, united in the present as they had been in the past; but never did they forget that island upon which they had arrived poor and naked, that island which, for four years, had sufficed for all their needs, and of which all that remained was a morsel of granite, beaten by the waves of the Pacific, the tomb of him who was Captain Nemo!
-
-THE END.

@@ -299,3 +299,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.20: patcher v2, 41 patches (8 listed, 31 new, 2 slips); all apply. White's glossary (his ¶54 to ¶146, 92 entries and the map plate) taken out of the chapter, pending the author's word: it is the edition's, not Verne's. Facts 1 runs.
 - 2026-11-21 III.20 facts 1: 1 ("Monsieur" to Robert Grant), patched as "Sir". Facts 2 runs.
 - 2026-11-21 Voice 59-60-61: 11 findings, no break; two mended (one spelling, one seam); the rest White's or Verne's. III.17, III.18, III.19 final.
+- 2026-11-21 III.20 facts 2: 3, all apparatus: White's end line had been pulled into the heading by apply.py (fixed: an hd line after the text is not the heading; every patched chapter rebuilt, none changed but 06200); White's "THE END." taken out with Verne's part-end line, as the build gives the ends (overturnable). The omission critic runs.

@@ -41,6 +41,12 @@ sheets:
   contradicts an entry under Knows.
 A book with no guard for a head judges that head by the cards alone.
 
+The narrator never lies (story/voice/pov.md, "Never lies"). A line of narration, not
+a character's speech or belief given as his, that states as fact a thing false on the
+island, or a half truth worded to mislead, is a break, even where it serves a puzzle; a
+belief given as a man's own, a thing held back, and Verne's honest error of his day are
+not findings.
+
 Held facts. The reader key, plan/reader-tests/key.md, lists what the reader must not
 get (its hidden and forbidden entries), and the outline marks author-side lines. A line
 that states a held fact, or lets a reader state one, is a break, whoever narrates.

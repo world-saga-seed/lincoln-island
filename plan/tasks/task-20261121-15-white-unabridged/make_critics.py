@@ -17,6 +17,9 @@ for kind in ['facts', 'omission']:
     s = s.replace('texts/white-1876/19.md', 'texts/white-1876/%02d.md' % nn)
     s = s.replace('01900:', '%s:' % code).replace('an English render of a chapter', 'an English version of a chapter (White\'s translation patched to the French, or rendered anew from it)')
     s = s.replace('Ordinary choices of English that keep the sense are not findings.', "Ordinary choices of English that keep the sense are not findings. White's names and forms of address are the house rule and never a finding: Herbert, Neb, Gideon Spilett, and \"Mr. Smith\" for \"monsieur Cyrus\" or \"monsieur Smith\".")
+    if kind == 'facts':
+        s = s.replace('Ordinary choices of English that keep the sense are not findings.', 'The narrator never lies (R1121-156): where the version\'s narration, not a character\'s speech or belief, states as fact what the French does not, or words a fact so as to mislead, it is a finding of kind "changed" or "added", even where it is small. Ordinary choices of English that keep the sense are not findings.', 1)
+        assert 'R1121-156' in s
     assert '19.md' not in s and '01900' not in s, kind
     open('%s/prompt-critic-%s-%s.md' % (out, kind, code), 'w', encoding='utf-8').write('# The %s critic for %s (%s.%d), White made unabridged (from the phase 8 prompt)\n%s' % (kind, code, part, ch, s))
 print('ok')

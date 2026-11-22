@@ -42,3 +42,4 @@ Per-file tables: `novel-vs-white.tsv`, `novel-vs-kingston.tsv`, `white-vs-kingst
 
 - 2026-11-21 R1121-179: the lean said plainly; the famous-phrase and clarity checks run; modern translations and existing/ wait on the author.
 - 2026-11-21 Opened. Inputs audited. `tools/overlap.py` and its kit patch written. Overlaps run. Questions to the author.
+- 2026-11-21 The famous-phrase check: 27 lines, none found (`famous-phrase.md`). The cold reader of the two forewords: the smallest fixes applied (glosses for the method, the patch, XIX bis, the controls, the cards and ledger; "now given to" made "usually credited to … though the edition names no translator"; referents named); the author may overturn (R1121-130).

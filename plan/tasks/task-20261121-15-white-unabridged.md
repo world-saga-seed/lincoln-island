@@ -85,3 +85,6 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.9 facts 2: 3; patched "pouvait avoir des conséquences fort graves" and the confidence "en Cyrus Smith"; White's "water-hog" gloss kept (French ¶103 has "espèce de porc"). Author confirmed the Neb rule and the three smaller calls (R1121-150, R1121-151); texts/errata.md started. The omission critic runs.
 - 2026-11-21 I.10: patcher v2, 90 patches (23 listed, 63 new, 4 slips); all apply. "pin pignon" set as "pignon pine", as in I.9 (R1121-151). No "the negro" left for Nab. Facts 1 runs.
 - 2026-11-21 I.9 omission: 1 ("assez mauvaises"), patched. I.9 waits for voice (with I.8 and I.10). I.11's patcher runs.
+- 2026-11-21 I.10 facts 1: 2 (the summary's question; "on s'élevait peu à peu"), patched. Facts 2 runs.
+- 2026-11-21 I.10 facts 2: 0; of its set-asides, the four named laughers restored (main session); "to dine" at noon kept (the period's midday dinner). The omission critic runs.
+- 2026-11-21 I.10 omission: 0. The voice critic for I.8, I.9, I.10 runs.

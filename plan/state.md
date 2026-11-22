@@ -6,7 +6,7 @@
 
 ## Queued by the author
 
-- **White made unabridged: done (2026-11-21, 10a2bb6).** All 62 of Verne's chapters are final in `story/prose/`, through two facts rounds, omission and voice (task-20261121-15). Open with the author: White's glossary at III.20's end (out of the text for now; recommended dropped) and the III.20 closing lines. End pass, queued: one form for "mouflons"/"moufflons"; one smart-quote pass; the 05600 pilot drift (below); the 04300 notes drift. *(The author's ruling R1121-148; my calls on the end pass, overturnable.)*
+- **White made unabridged: done (2026-11-21, 10a2bb6).** All 62 of Verne's chapters are final in `story/prose/`, through two facts rounds, omission and voice (task-20261121-15). White's glossary is back matter in `story/backmatter/` and the build prints "THE END." after LXII (R1121-158). End pass, queued: one form for "mouflons"/"moufflons"; one smart-quote pass; the 05600 pilot drift (below); the 04300 notes drift. *(The author's ruling R1121-148; my calls on the end pass, overturnable.)*
 - **01950, the short-sentence patch.** After White unabridged is done (not before): join 01950's narration sentences under eight words, which run about twice White's rate in clusters through the squall, as White joins them, down to his rate. Read 01900, 01950 and 02000 against R1121-156 (the narrator never lies) in the same pass. *(The author's, 2026-11-21.)*
 
 ## Stages

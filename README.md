@@ -18,7 +18,7 @@ Read the chapters in order in [story/prose/](story/prose/), from [00100, "The Ba
 
 ## The builds
 
-Two builds of the whole book will be in `build/` when phase 12 makes them: an EPUB, and a Kobo kepub of the same. The two ereader builds already there are of the earlier read, chapters XIX to XX only.
+Phase 12 makes two books, each as an EPUB and a Kobo kepub, under one name each, overwritten at every build: `build/lincoln-island.epub` is the novel, and `build/lincoln-island-run.epub` is the run's book, with White's chapters, the controls, the drafts and the cards and ledger alongside.
 
 ## How it was made
 

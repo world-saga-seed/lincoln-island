@@ -245,3 +245,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.7 omission: 0. III.7 waits for voice.
 - 2026-11-21 III.6 facts 2: 1 ("y porter", Tabor named), patched, with "vers dix heures". The omission critic runs.
 - 2026-11-21 III.6 omission: 0. Voice on III.4, III.5, III.6 runs.
+- 2026-11-21 III.8: rendered; 1,497 words against 1,590; 0 banned; title line given White's Herbert. Facts 1 runs.
+- 2026-11-21 III.8 facts 1: 0. Facts 2 runs.
+- 2026-11-21 III.8 facts 2: 0. The omission critic runs.
+- 2026-11-21 III.8 omission: 0. III.8 waits for voice.

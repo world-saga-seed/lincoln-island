@@ -213,3 +213,6 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.19 facts 2: 5, patched ("aiguade"; "reparu … seulement"; "tout d'abord"; "une banquise"; "d'un roc à l'autre"). The omission critic runs.
 - 2026-11-21 II.20 facts 1: 0. Facts 2 runs.
 - 2026-11-21 II.19 omission: 0. II.19 waits for voice with II.20.
+- 2026-11-21 II.20 facts 2: 0. The omission critic runs.
+- 2026-11-21 II.20 omission: 0. Voice on II.19, II.20 (the end of Part II) runs.
+- 2026-11-21 Voice on II.19, II.20: no break; two seams and three render sentences split. **II.19, II.20 final.** Part II complete but for II.6 ("moricaud", with the human).

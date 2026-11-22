@@ -76,13 +76,13 @@ But they determined, before the bad weather set in, to make a voyage in the sloo
 
 Pencroff had proposed this excursion, and Smith had gladly agreed to it, as he wished to see for himself all that part of his domain.
 
-The weather was still unsettled, but the barometer made no rapid changes, and they might expect fair days. So, in the first week of April, after a very low barometer, its rise was followed by a strong west wind, which lasted for five or six days; then the needle of the instrument became stationary at a height of twenty-nine inches and nine-tenths (759.45 mm.), and everything seemed propitious for the exploration.
+The weather was still unsettled, but the barometer made no rapid changes, and they might expect fair days. So, in the first week of April, after a very low barometer, its rise was followed by a strong west wind, which lasted for five or six days. Then the needle of the instrument became stationary at a height of twenty-nine inches and nine-tenths (759.45 mm.), and everything seemed propitious for the exploration.
 
 The day of departure was set for the 16th, and the Bonadventure, moored in Balloon Harbor, was provisioned for a voyage which might be of some length.
 
 Smith told Ayrton of the excursion, and proposed to him to take part in it; but as Ayrton preferred to remain on shore, it was decided that he should come to Granite House while his companions were absent. Jup was left to keep him company, and made no objection.
 
-On the morning of the 16th all the colonists, including Top, went on board the Bonadventure. The breeze blew fresh from the south-west, so that from Balloon Harbor they had to beat up against the wind in order to make Reptile End. Of the ninety miles which the island measured round, the south coast counted some twenty from the harbor to the promontory; and these twenty miles they had to make close-hauled, as the wind was dead ahead. It took no less than the whole day to reach the promontory, for on starting they had had but two hours of the ebb, and, on the other hand, six hours of flood, which it was very difficult to stem; and it was night before the point was doubled.
+On the morning of the 16th all the colonists, including Top, went on board the Bonadventure. The breeze blew fresh from the south-west, so that from Balloon Harbor they had to beat up against the wind in order to make Reptile End. Of the ninety miles which the island measured round, the south coast counted some twenty from the harbor to the promontory; and these twenty miles they had to make close-hauled, as the wind was dead ahead. It took no less than the whole day to reach the promontory, for on starting they had had but two hours of the ebb, and, on the other hand, six hours of flood, which it was very difficult to stem. It was night before the point was doubled.
 
 Pencroff proposed to the engineer that they should keep on slowly, sailing under a double-reef, but Smith preferred mooring some cable lengths from shore, in order to survey this part of the coast by daylight.
 

@@ -4,6 +4,10 @@
 
 - None.
 
+## Queued by the author
+
+- **01950, the short-sentence patch.** After White unabridged is done (not before): join 01950's narration sentences under eight words, which run about twice White's rate in clusters through the squall, as White joins them, down to his rate. Read 01900, 01950 and 02000 against R1121-156 (the narrator never lies) in the same pass. *(The author's, 2026-11-21.)*
+
 ## Stages
 
 **none** (a slot in the arc), **brief** (goals and questions, no frames yet), **outlined**, **drafted**, **refined** (the chain is done), **read** (the writer has read it), **accepted** (the writer said so).

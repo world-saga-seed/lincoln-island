@@ -1,10 +1,10 @@
-# Harbert Recovers and the Expedition Sets Out (draft 1)
+# Herbert Recovers and the Expedition Sets Out (draft 1)
 
 CHAPTER LIII.
 
 INEXPLICABLE MYSTERY—HERBERT'S CONVALESCENCE—THE PARTS OF THE ISLAND TO BE EXPLORED—PREPARATIONS FOR DEPARTURE—THE FIRST DAY—THE NIGHT—THE SECOND DAY—THE KAURIS—THE PAIR OF CASSOWARIES—FOOTPRINTS IN THE FOREST.
 
-Gideon Spilett took the box and opened it. It contained about two hundred grains of a white powder, a few particles of which he carried to his lips. The extreme bitterness of this substance could not deceive him. It was indeed the precious alkaloid of quinquina, the anti-periodic above all others.
+Spilett took the box and opened it. It contained about two hundred grains of a white powder, a few particles of which he carried to his lips. The extreme bitterness of this substance could not deceive him. It was indeed the precious alkaloid of quinquina, the anti-periodic above all others.
 
 This powder must be given to Herbert without hesitation. How it came to be there would be discussed later.
 
@@ -36,7 +36,7 @@ The true doctor remained to be discovered.
 
 And certainly this man, whoever he might be, must expect some rough embrace from the worthy Pencroff!
 
-The month of December ended, and with it the year 1867, during which the colonists of Lincoln Island had been so hardly tried. They entered upon the year 1868 with magnificent weather, a superb heat, a tropical temperature, which the sea-breeze happily came to cool. Herbert was coming to life again, and from his bed, placed near one of the windows of Granite House, he breathed in this healthful air, charged with saline emanations, which was restoring his health to him. He began to eat, and Heaven knows what good little dishes, light and savory, Neb prepared for him!
+The month of December ended, and with it the year 1867, during which the colonists of Lincoln Island had been so hardly tried. They entered upon the year 1868 with magnificent weather, a superb heat, a tropical temperature, which the sea-breeze happily came to cool. Herbert was coming to life again, and from his bed, placed near one of the windows of Granite House, he breathed in this healthful air, charged with saline emanations, which was restoring his health to him. He began to eat, and God knows what good little dishes, light and savory, Neb prepared for him!
 
 “It was enough to make one wish to have been dying!” said Pencroff.
 
@@ -74,7 +74,7 @@ The next day, at daybreak, Smith took the necessary measures to put Granite Hous
 
 The weather was magnificent.
 
-“A hot day getting ready!” said the reporter gayly.
+“A hot day getting ready!” said the reporter gaily.
 
 “Pooh! Doctor Spilett,” answered Pencroff, “we shall walk under shelter of the trees, and shall not even catch sight of the sun!”
 
@@ -102,7 +102,7 @@ On the evening of this first day the colonists camped about nine miles from Gran
 
 They supped plentifully, for the colonists' appetites were sharply whetted, and measures were taken that the night might pass without mishap. If the engineer had had to deal only with wild beasts, jaguars or others, he would simply have lighted fires around his encampment, which would have been enough to defend it; but the convicts would rather have been attracted than stopped by these flames, and in that case it was better to surround themselves with deep darkness.
 
-The watch, besides, was strictly organized. Two of the colonists were to watch together, and it was agreed that every two hours they should be relieved by their comrades. Now, as Herbert, in spite of his protests, was excused from guard, Pencroff and Gideon Spilett on the one hand, and the engineer and Neb on the other, mounted guard by turns at the approaches to the camp.
+The watch, besides, was strictly organized. Two of the colonists were to watch together, and it was agreed that every two hours they should be relieved by their comrades. Now, as Herbert, in spite of his protests, was excused from guard, Pencroff and Spilett on the one hand, and the engineer and Neb on the other, mounted guard by turns at the approaches to the camp.
 
 For the rest, there were scarcely a few hours of night. The darkness was due rather to the thickness of the boughs than to the disappearance of the sun. The silence was hardly disturbed by the hoarse howlings of jaguars and the sneering of monkeys, which seemed particularly to irritate Master Jup.
 

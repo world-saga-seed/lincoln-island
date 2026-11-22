@@ -189,3 +189,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.14 facts 1: 4, all patched ("on déjeuna"; "qualités morales"; the added "still"; the night "du 18 au 19"). Facts 2 runs.
 - 2026-11-21 II.14 facts 2: 2, both "Cyrus Smith" as White's "Smith": the house form of the name (names.md), not counted. The omission critic runs.
 - 2026-11-21 II.14 omission: 0. II.14 waits for voice.
+- 2026-11-21 II.15: patcher v2, 69 patches (19 listed, 46 new, 4 slips); all apply. Facts 1 runs. II.16 (render) begins.
+- 2026-11-21 II.15 facts 1: 2; "couverte par les roches" made "sheltered"; the leftover "Good Luck" already patched (R1121-155). Facts 2 runs.
+- 2026-11-21 II.15 facts 2: 4, all patched ("domination", "douceur", "sur la grève", the added "curiously"). The omission critic runs.
+- 2026-11-21 II.15 omission: 2 ("c'est au point", "d'ailleurs"), patched. Voice on II.13, II.14, II.15 runs.

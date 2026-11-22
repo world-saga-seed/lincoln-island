@@ -161,3 +161,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 R1121-154: onaggas everywhere. "Moricaud" is with the human. patcher-v2 and the render prompts carry the onagga line; II.8 (rendering now) is checked for it on its return.
 - 2026-11-21 II.7 facts 2: 8, all patched; onaggas throughout the chapter and its heading (R1121-154); "traînait des charges"; "esprit pratique"; the engineer had the stable built; the echoes; "rassurante pour l'alimentation". The omission critic runs.
 - 2026-11-21 II.7 omission: 1 ("définitivement"), patched. II.7 waits for voice.
+- 2026-11-21 II.8: rendered (Opus, no command); 3,531 words against the French 3,604; 0 banned; "onagas" made "onaggas" (R1121-154); three knots split at voice-sheet seams by the main session; the plate captions left out, as in every final. Facts 1 runs.
+- 2026-11-21 II.8 facts 1: 1 ("charbon" ¶14, coal or charcoal); left as "coal", White's own reading, since the word is ambiguous and the colonists have coal from Part I. Facts 2 runs.
+- 2026-11-21 II.8 facts 2: 0. The omission critic runs.
+- 2026-11-21 II.8 omission: 0. II.8 waits for voice, with II.7 and II.9.

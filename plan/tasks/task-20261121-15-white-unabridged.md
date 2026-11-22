@@ -105,3 +105,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.14 facts: 0. The omission critic runs.
 - 2026-11-21 I.14 omission: 0. I.14 waits for voice. I.15's patcher runs.
 - 2026-11-21 Voice on I.11, I.12, I.13: no break; four patch seams mended. **I.11, I.12, I.13 final.**
+- 2026-11-21 The author confirmed the five calls of the last report (R1121-152).

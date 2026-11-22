@@ -18,7 +18,7 @@ The question of how, in the present conditions, they should act against the conv
 
 “But is he worth five?” asked the engineer.
 
-“I will join Pencroff,” answered the reporter, “and both of us, well armed, and accompanied by Top—“
+“I will join Pencroff,” answered the reporter, “and both of us, well armed, and accompanied by Top—”
 
 “My dear Spilett, and you, Pencroff,” returned Smith, “let us reason coolly. If the convicts were lodged in one spot of the island, if that spot were known to us, and if it were only a question of driving them out of it, I could understand a direct attack. But is there not reason to fear, on the contrary, that they would be sure of firing the first shot?”
 
@@ -34,13 +34,13 @@ There was nothing to answer to the reasoning of Smith, and his companions well u
 
 “If only Ayrton were still one of us!” said Spilett. “Poor man! His return to social life will have been of short duration!”
 
-“If he is dead?—“ added Pencroff, in a rather singular tone.
+“If he is dead?—” added Pencroff, in a rather singular tone.
 
 “Do you hope, then, Pencroff, that these rascals have spared him?” asked Spilett.
 
 “Yes! if they have had an interest in doing so!”
 
-“What! you would suppose that Ayrton, finding his old accomplices again, forgetting all that he owes us—“
+“What! you would suppose that Ayrton, finding his old accomplices again, forgetting all that he owes us—”
 
 “Who knows?” answered the sailor, who did not hazard this unpleasant supposition without hesitating.
 

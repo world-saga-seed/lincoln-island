@@ -150,7 +150,7 @@ All, towards evening, after dinner, were gathered under the veranda, at the edge
 
 “What is the good of that?” said Pencroff. “The island is very well where it is!”
 
-“No doubt,” resumed Spilett; “but it may have happened that the imperfection of the instruments has injured the accuracy of the observations, and since it is easy to verify their exactness—“
+“No doubt,” resumed Spilett; “but it may have happened that the imperfection of the instruments has injured the accuracy of the observations, and since it is easy to verify their exactness—”
 
 “You are right, my dear Spilett,” replied the engineer, “and I ought to have made this verification sooner; although, if I have made any error, it ought not to exceed five degrees in longitude or in latitude.”
 

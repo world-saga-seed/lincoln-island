@@ -10,7 +10,7 @@ At Herbert’s cry, Pencroff, letting his weapon fall, had rushed towards him.
 
 Smith and Spilett had run to Herbert. The reporter listened to learn whether the poor boy’s heart still beat.
 
-“He lives,” said he. “But he must be carried—“
+“He lives,” said he. “But he must be carried—”
 
 “To Granite House? That is impossible!” answered the engineer.
 

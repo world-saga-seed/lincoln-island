@@ -10,7 +10,7 @@ Smith therefore arranged matters so as to live at the corral, the stores of whic
 
 Now the convicts,—reduced to five, it is true, but well armed,—were prowling in the woods, and to venture there was to expose oneself to their shots, without any possibility either of warding them off or of forestalling them.
 
-“Wait! There is nothing else to be done!” repeated Smith. “When Herbert is cured, we can organize a general beat of the island, and get the better of these convicts. That will be the object of our grand expedition, at the same time——“
+“Wait! There is nothing else to be done!” repeated Smith. “When Herbert is cured, we can organize a general beat of the island, and get the better of these convicts. That will be the object of our grand expedition, at the same time——”
 
 “As the search for our mysterious protector,” added Spilett, finishing the engineer’s sentence. “Ah! it must be owned, my dear Cyrus, that this time his protection failed us, and at the very moment when it would have been most necessary to us!”
 

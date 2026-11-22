@@ -96,9 +96,9 @@ Pencroff and Herbert at once hastened to look for a suitable spot in which to es
 
 “Precious?” answered Pencroff.
 
-“No doubt,” replied Herbert. “I shall not tell you, Pencroff, that the bark of the bamboo, cut into flexible laths, is used for making baskets and hampers; that this bark, reduced to a paste and macerated, is used in the manufacture of Chinese paper; that the stems furnish, according to their thickness, canes, pipe-stems, and conduits for water; that the large bamboos make excellent materials for building, light and strong, and never attacked by insects. I shall not even add that, by sawing the bamboos between the joints, and keeping for the bottom a portion of the transverse partition which forms the joint, solid and convenient vessels are obtained, which are much in use among the Chinese! No! that would not satisfy you. But—“
+“No doubt,” replied Herbert. “I shall not tell you, Pencroff, that the bark of the bamboo, cut into flexible laths, is used for making baskets and hampers; that this bark, reduced to a paste and macerated, is used in the manufacture of Chinese paper; that the stems furnish, according to their thickness, canes, pipe-stems, and conduits for water; that the large bamboos make excellent materials for building, light and strong, and never attacked by insects. I shall not even add that, by sawing the bamboos between the joints, and keeping for the bottom a portion of the transverse partition which forms the joint, solid and convenient vessels are obtained, which are much in use among the Chinese! No! that would not satisfy you. But—”
 
-“But?—“
+“But?—”
 
 “But I will tell you, if you do not know it, that in India these bamboos are eaten like asparagus.”
 
@@ -142,7 +142,7 @@ Herbert and Pencroff rushed towards the jaguar. Neb and Smith ran up from their 
 
 “Well, my boy,” answered the reporter, “you would have done as much.”
 
-“I! with such coolness!—“
+“I! with such coolness!—”
 
 “Imagine to yourself, Herbert, that a jaguar is a hare, and you will fire at it as quietly as possible.”
 

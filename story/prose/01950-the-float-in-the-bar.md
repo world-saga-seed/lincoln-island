@@ -34,7 +34,7 @@ At breakfast he said nothing; but later in the morning, finding Herbert alone on
 
 “But you do not think so.”
 
-“I do not think so. If it is what I think, it was made by men’s hands; and if it was made by men’s hands—“
+“I do not think so. If it is what I think, it was made by men’s hands; and if it was made by men’s hands—”
 
 “Then a ship—!” cried Herbert.
 

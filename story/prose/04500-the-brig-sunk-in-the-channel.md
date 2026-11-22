@@ -174,7 +174,7 @@ The reporter and his companion had judged it proper to abandon the post of the M
 
 “We must take refuge in Granite House, while there is still time, and while the convicts cannot see us.”
 
-“That is my opinion too,” replied Spilett; “but once shut up—“
+“That is my opinion too,” replied Spilett; “but once shut up—”
 
 “We shall take counsel of circumstances,” answered the engineer.
 

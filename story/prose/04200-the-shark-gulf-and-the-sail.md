@@ -80,7 +80,7 @@ So Smith, returning to that matter of a fire lighted by an unknown hand on the s
 
 It followed, therefore, that some days after, on the 25th of April, in the evening, when all the colonists were gathered on Prospect Plateau, Smith began by saying,—
 
-“My friends, I think it my duty to call your attention to certain facts which have occurred in the island, and on which I should be very glad to have your opinion. These facts are, so to speak, supernatural—“
+“My friends, I think it my duty to call your attention to certain facts which have occurred in the island, and on which I should be very glad to have your opinion. These facts are, so to speak, supernatural—”
 
 “Supernatural!” cried the sailor, letting out a puff of tobacco. “Can it be that our island is supernatural?”
 
@@ -90,11 +90,11 @@ It followed, therefore, that some days after, on the 25th of April, in the eveni
 
 “Well, then! Have you understood,” said the engineer, “how it could happen that, after falling into the sea, I was found a quarter of a mile inland, and that without having been conscious of this removal?”
 
-“Unless, being in a swoon—“ said Pencroff.
+“Unless, being in a swoon—” said Pencroff.
 
 “That is not admissible,” answered the engineer. “But let that pass. Have you understood how Top was able to discover your retreat, five miles from the cave where I was lying?”
 
-“The dog’s instinct—“ answered Herbert.
+“The dog’s instinct—” answered Herbert.
 
 “A singular instinct!” observed the reporter, “since, in spite of the rain and wind which were raging that night, Top arrived at the Chimneys dry, and without a spot of mud!”
 
@@ -130,7 +130,7 @@ Smith had just enumerated, without forgetting a single one, the strange facts wh
 
 “I will add,” said the reporter, “that the fire was very bright, and that it threw out a sort of electric sheet.”
 
-“Yes! yes! exactly—“ answered Herbert; “and it was certainly placed on the heights of Granite House.”
+“Yes! yes! exactly—” answered Herbert; “and it was certainly placed on the heights of Granite House.”
 
 “Well, my friends,” answered Smith, “during that night of the 19th to the 20th of October, neither Neb nor I lighted a fire on the coast.”
 

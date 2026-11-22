@@ -94,7 +94,7 @@ A violent report was heard, but the piece had held; and the colonists, rushing t
 
 Ayrton at first hesitated to reply, and Smith regretted that Pencroff had somewhat thoughtlessly put this question to him. And he was much moved when Ayrton answered in a humble voice:—
 
-“I have been one of those jaguars, Mr. Pencroff, and I have no right to speak—“
+“I have been one of those jaguars, Mr. Pencroff, and I have no right to speak—”
 
 And with a slow step he walked away.
 
@@ -114,7 +114,7 @@ Pencroff had understood.
 
 “Is not what they have done already enough, then?” asked Pencroff, who understood nothing of these hesitations.
 
-“They may come round to other feelings!” said Smith, “and perhaps repent—“
+“They may come round to other feelings!” said Smith, “and perhaps repent—”
 
 “They repent!” exclaimed the sailor, shrugging his shoulders.
 
@@ -132,7 +132,7 @@ Pencroff looked at his companions one after the other. He had never thought that
 
 “Well, well!” replied Pencroff, whom no reasoning could have convinced. “Let us leave these good people to attend to their little affairs, and think no more about them!”
 
-“Come, Pencroff,” said Neb, “do not make yourself out so wicked as all that! Suppose one of those unfortunate men were here before you, within good range of your gun, you would not fire on him—“
+“Come, Pencroff,” said Neb, “do not make yourself out so wicked as all that! Suppose one of those unfortunate men were here before you, within good range of your gun, you would not fire on him—”
 
 “I would fire on him as I would on a mad dog, Neb,” replied Pencroff coldly.
 

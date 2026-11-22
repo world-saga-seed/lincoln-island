@@ -132,3 +132,6 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.22 omission: 0. Voice on I.21, I.22 runs.
 - 2026-11-21 Voice on I.21, I.22: no break; one seam split; headings XVII and XXI given their full stop in the finals. **I.21, I.22 final: Part I complete (22 chapters).**
 - 2026-11-21 I.21, I.22 calls confirmed by the author (R1121-153). II.1: patcher v2 (retry), 70 patches (17 listed, 46 new, 5 slips), all apply; "grain de plomb" as "pellet" throughout, to agree with I.22's "leaden pellet" (H5) (main session; White has "bullet"). Facts 1 runs.
+- 2026-11-21 II.1 facts 1: 9, all patched ("Puis :"; "trop directement"; "au plus"; "à plusieurs reprises"; "avec leur adhérence"; "Je ne dis pas non"; "des chélonées"; "bien embarrassé"; the future perfect of conjecture). Facts 2 runs.
+- 2026-11-21 II.1 facts 2: 6, patched ("ouragan"; the natives of New Zealand; "légère fumée", White's "thin film"; Nab's general remark; "sur le sable"; "maladroits"). The omission critic runs.
+- 2026-11-21 II.1 omission: 0. II.1 waits for voice. II.3's patcher runs.

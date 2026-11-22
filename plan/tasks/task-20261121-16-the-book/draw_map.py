@@ -1,75 +1,109 @@
 #!/usr/bin/env python3
-"""Draw the restoration map (R1121-163, R1121-167) from map.tsv: one image per Part, as SVG and PNG,
-and the plain table, into story/front/. One row per chapter, one cell per French paragraph.
-Greys that read on e-ink: kept white, patched mid grey, restored black, rendered hatched; XIX bis dotted."""
-import csv, os
-from PIL import Image, ImageDraw, ImageFont
-HERE = os.path.dirname(__file__); OUT = 'story/front'
-os.makedirs(OUT, exist_ok=True)
-rows = list(csv.DictReader(open(os.path.join(HERE, 'map.tsv'), encoding='utf-8'), delimiter='\t'))
-ROM = lambda n: ['', 'I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX','XXI','XXII'][n] if n <= 22 else None
+"""Draw the restoration map (R1121-163, R1121-169) in the form of the earlier draft (tmp/genome-draft/genome2.py):
+one band per chapter, its length by the French text; the bands' shade is how much of each passage the patches
+restored; the marks above are the patches that changed White's words. Drawn from the patches made, not the
+alignment's discord lists. One image per Part, PNG and SVG, into story/front/. Run from the repo root."""
+import csv, glob, os, re, statistics
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from matplotlib.patches import Patch
+from matplotlib.lines import Line2D
+
+T = 'plan/tasks/task-20261121-15-white-unabridged'; OUT = 'story/front'
+RENDERED = {6,14,19,20,25,26,30,31,32,33,34,38,42,43,45,47,49,50,51,52,53,54,56,57}
 def roman(n):
-    v = [(50,'L'),(40,'XL'),(10,'X'),(9,'IX'),(5,'V'),(4,'IV'),(1,'I')]; s=''
-    for a,b in v:
+    s = ''
+    for a, b in [(50,'L'),(40,'XL'),(10,'X'),(9,'IX'),(5,'V'),(4,'IV'),(1,'I')]:
         while n >= a: s += b; n -= a
     return s
-FONT = '/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf'
-FB = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
-parts = [('Part I. Shipwrecked in the Air', 1, 22), ('Part II. The Abandoned', 23, 42), ('Part III. The Secret of the Island', 43, 62)]
-W, LEFT, CW, RH, TOP = 1200, 80, 5, 30, 70
-GREY = {'k': (255,255,255), 'p': (150,150,150), 'r': (0,0,0)}
-maxn = max(len(r['marks']) for r in rows)
-def chapter_rows(lo, hi):
-    out = []
-    for r in rows:
-        n = int(r['nn'])
-        if lo <= n <= hi:
-            out.append((roman(n), r))
-            if n == 19: out.append(('XIX bis', None))
-    return out
-def label(r):
-    if r is None: return 'added: no French'
-    if r['action'] == 'render': return f"rendered anew, {len(r['marks'])} ¶"
-    return f"{r['patches']} patches: {r['kept']} kept, {r['patched']} patched, {r['restored_or_rendered']} restored"
-def draw(title, lo, hi, stem):
-    cr = chapter_rows(lo, hi)
-    H = TOP + RH * len(cr) + 20
-    im = Image.new('L', (W, H), 255); d = ImageDraw.Draw(im)
-    f, fb, fs = ImageFont.truetype(FONT, 17), ImageFont.truetype(FB, 22), ImageFont.truetype(FONT, 14)
-    d.text((LEFT, 18), title, font=fb, fill=0)
-    svg = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="100%" role="img" aria-label="{title}: the restoration, paragraph by paragraph">',
-           '<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#000" stroke-width="3"/></pattern>'
-           '<pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#fff"/><circle cx="3" cy="3" r="1.4" fill="#000"/></pattern></defs>',
-           f'<rect width="{W}" height="{H}" fill="#fff"/>',
-           f'<text x="{LEFT}" y="40" font-family="serif" font-weight="bold" font-size="22">{title}</text>']
-    for i, (name, r) in enumerate(cr):
-        y = TOP + i * RH; h = RH - 10
-        d.text((6, y - 2), name, font=f, fill=0)
-        svg.append(f'<text x="6" y="{y + 14}" font-family="serif" font-size="17">{name}</text>')
-        if r is None or r['action'] == 'render':
-            n = len(r['marks']) if r else 40
-            x1 = LEFT + n * CW
-            d.rectangle([LEFT, y, x1, y + h], fill=255, outline=0)
-            if r is None:
-                for xx in range(LEFT + 3, x1, 6):
-                    for yy in range(y + 3, y + h, 6): d.ellipse([xx - 1, yy - 1, xx + 1, yy + 1], fill=0)
-            else:
-                for k in range(0, x1 - LEFT, 7): d.line([(LEFT + k, y + h), (LEFT + k + h, y)], fill=0, width=2)
-                d.rectangle([LEFT, y + h + 1, x1 + h + 2, y + h + 6], fill=255); d.rectangle([x1 + 1, y - 1, x1 + h + 2, y + h + 6], fill=255)
-                d.rectangle([LEFT, y, x1, y + h], outline=0)
-            svg.append(f'<rect x="{LEFT}" y="{y}" width="{n * CW}" height="{h}" fill="url(#{"dots" if r is None else "hatch"})" stroke="#000" stroke-width="1"/>')
+def nums(s): return [int(x) for x in re.findall(r'\d+', s)]
+def tsv_for(nn):
+    c = '%05d' % (nn * 100)
+    for p in [f'{T}/ch/{c}/patches-{c}.tsv', f'{T}/pilot/patches-{c}.tsv']:
+        if os.path.exists(p): return p
+
+beads, plen = {}, {}
+for n in range(1, 63):
+    beads[n] = [r for r in csv.DictReader(open('texts/align/%02d.tsv' % n, encoding='utf-8'), delimiter='\t') if r['kind'] != 'summary']
+    plen[n] = {int(m.group(1)): len(m.group(2)) for l in open('texts/fr-1875/%02d.md' % n, encoding='utf-8')
+               for m in [re.match(r'¶(\d+) (?:\[p\.\d+\] )?(.*)', l)] if m and m.group(1) != '0'}
+base = statistics.median(int(r['white_chars']) / int(r['fr_chars']) for rs in beads.values() for r in rs
+                         if r['kind'] == '1-1' and int(r['fr_chars']) > 200)
+
+def chapter(n):
+    """[(x0, x1, shade)], [x of change marks], end"""
+    start, x = {}, 0
+    for p in sorted(plen[n]): start[p] = x; x += plen[n][p]
+    end = x
+    if n in RENDERED: return None, None, end
+    wp = {int(m.group(1)): m.group(2) for l in open('texts/white-1876/%02d.md' % n, encoding='utf-8')
+          for m in [re.match(r'^¶(\d+) (.*)', l)] if m}
+    restored, marks = {}, []   # white ¶ -> chars restored; (white ¶, fraction)
+    for r in csv.DictReader(open(tsv_for(n), encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE):
+        if r['discord'] == 'glossary': continue
+        old, new = r['old'], r['new'] or ''
+        if old.startswith('@¶'):
+            w = int(old[2:]); add = len(new) - len(wp.get(w, ''))
+            if add > 40: restored[w] = restored.get(w, 0) + add
+            else: marks.append((w, 0.5))
+            continue
+        hit = [(w, t.find(old)) for w, t in wp.items() if old in t] or [(w, t.find(old[:40])) for w, t in wp.items() if old[:40] in t]
+        if not hit: continue
+        w, at = hit[0]; add = len(new) - len(old)
+        if add > 40 or '¶' in new: restored[w] = restored.get(w, 0) + max(add, 0)
+        else: marks.append((w, (at + len(old) / 2) / max(len(wp[w]), 1)))
+    bands, where = [], {}
+    for b in beads[n]:
+        fs, ws = nums(b['fr']), nums(b['white'])
+        if not fs: continue
+        x0 = start.get(fs[0], 0); x1 = start.get(fs[-1], end) + plen[n].get(fs[-1], 0)
+        fr = int(b['fr_chars']) or 1
+        k = 1.0 if not ws else sum(restored.get(w, 0) for w in range(ws[0], ws[-1] + 1)) / (fr * base)
+        shade = '#000000' if k >= 0.95 else '#525252' if k >= 0.40 else '#969696' if k >= 0.05 else '#d9d9d9'
+        bands.append((x0, x1, shade))
+        if ws:
+            for i, w in enumerate(range(ws[0], ws[-1] + 1)):
+                where[w] = (x0 + (x1 - x0) * i / len(range(ws[0], ws[-1] + 1)), (x1 - x0) / len(range(ws[0], ws[-1] + 1)))
+    xs = [where[w][0] + where[w][1] * f for w, f in marks if w in where]
+    return bands, xs, end
+
+data = {n: chapter(n) for n in range(1, 63)}
+bis = os.path.exists('story/prose/01950-the-float-in-the-bar.md')
+bislen = len(open('story/prose/01950-the-float-in-the-bar.md', encoding='utf-8').read()) / base if bis else 0
+maxlen = max(d[2] for d in data.values())
+PARTS = [('Part I: Shipwrecked in the Air', 1, 22, 1), ('Part II: The Abandoned', 23, 42, 2), ('Part III: The Secret of the Island', 43, 62, 3)]
+for title, lo, hi, k in PARTS:
+    rows = []
+    for n in range(lo, hi + 1):
+        rows.append((roman(n), n))
+        if n == 19 and bis: rows.append(('XIX bis', None))
+    fig, ax = plt.subplots(figsize=(8.2, 0.42 * len(rows) + 2.6))
+    nmark = 0
+    for i, (lab, n) in enumerate(rows):
+        y = -i * 1.25
+        if n is None:
+            ax.barh(y, bislen, left=0, height=0.62, color='white', edgecolor='#1a1a1a', hatch='....', linewidth=0.6)
+            ax.text(bislen + maxlen * 0.01, y, 'added; no French', fontsize=7.5, va='center', color='#333333')
+        elif data[n][0] is None:
+            ax.barh(y, data[n][2], left=0, height=0.62, color='white', edgecolor='#1a1a1a', hatch='////', linewidth=0.6)
+            ax.text(data[n][2] + maxlen * 0.01, y, 'rendered anew', fontsize=7.5, va='center', color='#333333')
         else:
-            for j, m in enumerate(r['marks']):
-                x = LEFT + j * CW
-                d.rectangle([x, y, x + CW - 1, y + h], fill=GREY[m][0], outline=0 if m == 'k' else None)
-                fill = {'k': '#fff', 'p': '#969696', 'r': '#000'}[m]
-                svg.append(f'<rect x="{x}" y="{y}" width="{CW - 1}" height="{h}" fill="{fill}" stroke="#000" stroke-width="{0.6 if m == "k" else 0}"/>')
-        tx = LEFT + maxn * CW + 12
-        d.text((tx, y), label(r), font=fs, fill=0)
-        svg.append(f'<text x="{tx}" y="{y + 14}" font-family="serif" font-size="14">{label(r)}</text>')
-    svg.append('</svg>')
-    im.save(os.path.join(OUT, stem + '.png'), optimize=True)
-    open(os.path.join(OUT, stem + '.svg'), 'w', encoding='utf-8').write('\n'.join(svg) + '\n')
-for (t, lo, hi), stem in zip(parts, ['map-part-1', 'map-part-2', 'map-part-3']):
-    draw(t, lo, hi, stem)
-print('ok', maxn * CW + LEFT + 12)
+            bands, xs, end = data[n]
+            for x0, x1, c in bands: ax.barh(y, x1 - x0, left=x0, height=0.62, color=c, linewidth=0)
+            ax.scatter(xs, [y + 0.5] * len(xs), marker='v', s=9, facecolor='#1a1a1a', edgecolor='none', zorder=3)
+            nmark += len(xs)
+        ax.text(-maxlen * 0.012, y, lab, fontsize=8.5, ha='right', va='center', color='#1a1a1a')
+    ax.set_xlim(-maxlen * 0.08, maxlen * 1.13); ax.set_ylim(-len(rows) * 1.25 + 0.4, 1.0); ax.axis('off')
+    ax.set_title(f"{title}\nOne band per chapter, its length by Verne's French. Shade: what the patches put back.\nMarks: the patches that changed White's words.",
+                 fontsize=10, loc='left', color='#1a1a1a')
+    h = [Patch(fc=c, ec='#666666', lw=0.5, label=l) for c, l in [('#d9d9d9', "White's words stand"), ('#969696', 'Some put back (5 to 40%)'),
+         ('#525252', 'Mostly put back (40 to 95%)'), ('#000000', 'Put back whole')]]
+    h += [Patch(fc='white', ec='#1a1a1a', hatch='////', label='Rendered anew from the French')]
+    if k == 1 and bis: h += [Patch(fc='white', ec='#1a1a1a', hatch='....', label='XIX bis, added')]
+    h += [Line2D([], [], marker='v', ls='none', markerfacecolor='#1a1a1a', markeredgecolor='none', markersize=5, label=f'A patch changed the words ({nmark})')]
+    ax.legend(handles=h, loc='upper left', bbox_to_anchor=(0, 0), ncol=2, fontsize=7.5, frameon=False)
+    for ext in ('png', 'svg'):
+        fig.savefig(os.path.join(OUT, f'map-part-{k}.{ext}'), dpi=170, bbox_inches='tight', facecolor='white')
+    plt.close(fig)
+print('base %.2f' % base)

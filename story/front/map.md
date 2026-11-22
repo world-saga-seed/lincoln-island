@@ -1,6 +1,6 @@
 # The Map of the Restoration
 
-*One row for each of Verne’s chapters, one cell for each of his paragraphs, from his first chapter to his last. White: White’s words stand as he wrote them. Grey: a patch changed them to agree with the French. Black: words White cut, or a paragraph he dropped, put back. Hatched: the chapter written anew from the French in White’s English. Dotted: XIX bis, which has no French. Each French paragraph takes the mark of the White paragraph that renders it. The counts at the right are the patches made in that chapter, and its paragraphs by mark.*
+*One band for each of Verne’s chapters, its length by his French, drawn from the patches made. The band’s shade shows how much of each passage the patches put back where White cut it: light where his words stand, darker as more was put back, black where a whole passage he dropped was restored. The marks above a band are the patches that changed what White said. A hatched band is a chapter written anew from the French in White’s English; the dotted band is XIX bis, which has no French. The counts follow the map.*
 
 ![Part I: the restoration, paragraph by paragraph](map-part-1.png)
 

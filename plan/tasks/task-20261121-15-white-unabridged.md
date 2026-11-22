@@ -131,3 +131,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.22 facts 2: 1 ("tajassans", White's form, kept). The omission critic runs. II.1's patcher failed on a login timeout (it left a patch file of unknown completeness; set aside as patches-02300.partial.tsv) and is relaunched.
 - 2026-11-21 I.22 omission: 0. Voice on I.21, I.22 runs.
 - 2026-11-21 Voice on I.21, I.22: no break; one seam split; headings XVII and XXI given their full stop in the finals. **I.21, I.22 final: Part I complete (22 chapters).**
+- 2026-11-21 I.21, I.22 calls confirmed by the author (R1121-153). II.1: patcher v2 (retry), 70 patches (17 listed, 46 new, 5 slips), all apply; "grain de plomb" as "pellet" throughout, to agree with I.22's "leaden pellet" (H5) (main session; White has "bullet"). Facts 1 runs.

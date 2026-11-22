@@ -18,6 +18,7 @@ THE RULE (R1121-146), by kind:
 - an addition of White's: remove it only where it adds a fact the French lacks; keep a stylistic addition;
 - keep White's names and forms of address (Herbert, Neb, Mr. Smith), his spelling and his sentences everywhere else. Change no more of his text than each departure needs. Restored English must sound like White: plain, period, no word later than 1876;
 - where the French names Nab and White writes "the negro" (or "the black"), write "Neb": the label is White's, not Verne's. Where the French has "le nègre", keep White's word. Where the French has "l'esclave", say "the slave".
+- "grain de plomb" (the pellet found in the peccary, I.22, and every mention after) is "pellet" or "leaden pellet", never White's "bullet"; "amandes de pin pignon" are "pine kernels" (R1121-152).
 - fix White's print slips where you see them (a stray capital, a full stop for a comma, a stray quotation mark).
 
 Write your patches to {OUT}, one per line, tab-separated, with a header line "id	discord	old	new":

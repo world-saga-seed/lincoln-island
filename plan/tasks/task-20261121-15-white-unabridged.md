@@ -76,3 +76,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.4 omission: 0. I.4 waits for voice. I.8's patcher runs.
 - 2026-11-21 I.7 facts 2: 6 small, patched (the ebbing sea; eyes opened again; "par excellence"; the three named; Herbert's question; the cut face). The omission critic runs.
 - 2026-11-21 I.7 omission: 1 ("des premières roches, au large du littoral"), patched. The voice critic for I.3, I.4, I.7 runs.
+- 2026-11-21 I.8: patcher v2, 67 patches (11 listed, 47 new, 9 slips), and "regardait sans voir" (main session). Facts 1 runs.
+- 2026-11-21 Voice on I.3, I.4, I.7: no break; two patch seams mended. **I.3, I.4, I.7 final.** I.8 facts 1: 4 ("rachitiques"; Smith's hallucination; the litter, not a carriage; the cut face), patched. Next: I.8 facts 2, and I.9's patcher.

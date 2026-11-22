@@ -32,8 +32,9 @@ No derived or story file carries Gutenberg's wrapper, Wolcott's note or Wikisour
 
 Per-file tables: `novel-vs-white.tsv`, `novel-vs-kingston.tsv`, `white-vs-kingston.tsv`, `run-vs-white.tsv`, `run-vs-kingston.tsv`.
 
-**Finding.** The rendered chapters, written "in White's English", share four to five times as much with Kingston as White's own text does (28.9% against 6.1%), in runs up to 62 words (XXXIII, the albatross's message) and 36 (XIV, the latitude). No agent was given Kingston (it stayed closed); the models remember it. The prompt-only controls lean on it as much. Kingston is in the public domain, so this is a question of voice and of what the release claims, not of law. The patched chapters' restored passages lean on it too (13.3% against White's 7.6%).
+**Finding.** The rendered chapters, written "in White's English", share four to five times as much with Kingston as White's own text does (28.9% against 6.1%), in runs up to 62 words (XXXIII, the albatross's message) and 36 (XIV, the latitude). No agent was given Kingston (it stayed closed); the models remember it. The prompt-only controls lean on it as much. Kingston is in the public domain, so this is a question of voice and of what the release claims, not of law. The patched chapters' restored passages lean on it too (13.3% against White's 7.6%). **Said plainly** in our foreword (R1121-179): "Those chapters lean on W. H. G. Kingston’s translation of 1875, which the models evidently remember: about three words in ten are in runs of eight or more shared with his, where White’s own text shares fewer than one in ten."
 
 ## Log
 
+- 2026-11-21 R1121-179: the lean said plainly; the famous-phrase and clarity checks run; modern translations and existing/ wait on the author.
 - 2026-11-21 Opened. Inputs audited. `tools/overlap.py` and its kit patch written. Overlaps run. Questions to the author.

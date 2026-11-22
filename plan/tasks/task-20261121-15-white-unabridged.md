@@ -234,3 +234,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 chap.py: the render prompt's guard against the pilot matched "LVI" inside "XLVII"; now a whole-word match.
 - 2026-11-21 III.4 facts 2: 3, patched ("les épaves"; "l'arrimage … n'était plus reconnaissable"; "huit jours"). The omission critic runs.
 - 2026-11-21 III.4 omission: 1 ("assez"), patched. III.4 waits for voice.
+- 2026-11-21 III.5: rendered; 3,123 words against 3,223; 0 banned. "Cyrus Smith" made "Smith"; Verne's "pyroxyle" made White's "pyroxyline" here and in the II.8 final (five times); the render prompt now carries both. Facts 1 runs.
+- 2026-11-21 III.5 facts 1: 1 ("Pas dégoûté"), made "You are not hard to please". Facts 2 runs.
+- 2026-11-21 III.5 facts 2: 0. The omission critic runs.
+- 2026-11-21 III.5 omission: 0. III.5 waits for voice.

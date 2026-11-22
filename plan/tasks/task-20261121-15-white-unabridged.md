@@ -220,3 +220,10 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.1 facts 1: 0. Facts 2 runs.
 - 2026-11-21 III.1 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.1 omission: 0. III.1 waits for voice.
+- 2026-11-21 III.2: patcher v2, 76 patches (24 listed, 46 new, 6 slips); all apply. Verne's note glossing his English "Speedy" for French readers left out, as the whale-field note (R1121-155). Facts 1 runs.
+- 2026-11-21 III.2 facts 1: 10; seven patched ("encore froide"; Mount Pitt "domine"; "se cacher"; "coups"; the added "right and left"; "enjambait les bastingages"; "vers minuit"). Left: the Speedy note (by R1121-155's whale-field precedent); ¶78, a caption line the French numbers; the summary's "îlot Grant", Verne's slip for the islet, rendered White's "Safety Islet" and put in the errata. Facts 2 runs.
+- 2026-11-21 III.3: rendered; 0 banned. Facts 1 runs.
+- 2026-11-21 III.3 facts 1: 1, the oath's "d'enfer"; left by R1121-97 (oaths no stronger than White's). Facts 2 runs.
+- 2026-11-21 III.3 facts 2: 0. The omission critic runs.
+- 2026-11-21 III.2 facts 2: 8; six patched ("forfanterie"; "il fallait combattre … détruire jusqu'au dernier", with White's doubled "must be destroyed" taken out; "l'armement"; "à l'intérieur du brick"; "bandits, armés de toutes pièces"; "nous saurons mourir"); the islet and the Speedy note as before. The omission critic runs.
+- 2026-11-21 III.3 omission: 0. III.3 waits for voice.

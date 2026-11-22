@@ -174,7 +174,7 @@ Smith and Spilett, on rejoining their companions, told them of these things.
 
 “Our genius, Neb, our genius, who will put a gag in the mouth of the crater if it so much as makes a show of opening it.”
 
-As may be seen, the confidence of the sailor in the special god of his island was absolute, and, indeed, the occult power which had so far been manifested by so many inexplicable acts seemed limitless; but it had also known how to escape the minute researches of the colonists, for, in spite of all their efforts, in spite of the zeal, more than zeal, the tenacity which they brought to their exploration, the strange retreat could not be discovered.
+As may be seen, the confidence of the sailor in the special god of his island was absolute, and, indeed, the occult power which had so far been manifested by so many inexplicable acts seemed limitless. But it had also known how to escape the minute researches of the colonists, for, in spite of all their efforts, in spite of the zeal, more than zeal, the tenacity which they brought to their exploration, the strange retreat could not be discovered.
 
 From the 19th to the 25th of February, the circle of investigations was extended to the whole northern region of Lincoln Island, where the most secret recesses were searched. They even sounded each rocky wall, as police agents sound the walls of a suspected house. The engineer went so far as to take a very exact survey of the mountain, and he pushed his search to the last strata sustaining it. It was explored to the summit of the truncated cone which rose above the first rocky level, and from there to the upper edge of the enormous cap at the bottom of which opened the crater.
 

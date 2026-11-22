@@ -80,11 +80,11 @@ A few moments later the needle, moving over the alphabetical dial, gave this ans
 
 “At last!” cried Smith.
 
-Yes! At last! The mystery was about to be unveiled! Before this immense interest which was to urge them to the corral, all the colonists’ fatigue had vanished, all need of rest had ceased. Without having uttered a word, in a few moments they had left Granite House and were upon the beach. Jup and Top alone had been left behind. They could do without them.
+Yes! At last! The mystery was about to be unveiled! Before this immense interest which was to urge them to the corral, all the colonists’ fatigue had vanished, all need of rest had ceased. Without having uttered a word, in a few moments they had left Granite House and were upon the beach. Jup and Top alone had been left behind; they could do without them.
 
 The night was dark. The moon, new that very day, had disappeared at the same time as the sun. As Herbert had remarked, great storm-clouds formed a low and heavy vault, which shut out all light of the stars. A few flashes of heat lightning, the reflections of a distant storm, lit up the horizon.
 
-It was possible that, a few hours later, the thunder would roll over the island itself. It was a threatening night.
+It was possible that, a few hours later, the thunder would roll over the island itself, and it was a threatening night.
 
 But the darkness, however deep it was, could not stop men accustomed to this road to the corral. They went up the left bank of the Mercy, reached the plateau, crossed the bridge over Glycerine Creek, and advanced through the forest.
 
@@ -200,7 +200,7 @@ Smith led his companions under a hollow in the rocks, and there:—
 
 “He would not have called us, if the means of reaching him were to fail!”
 
-Smith had spoken in a tone of such conviction that no objection was raised. His remark, besides, was logical. It had to be admitted that an opening, practicable at low water, which the flood was blocking at that moment, opened at the foot of the wall.
+Smith had spoken in a tone of such conviction that no objection was raised; his remark, besides, was logical. It had to be admitted that an opening, practicable at low water, which the flood was blocking at that moment, opened at the foot of the wall.
 
 There were some hours to wait. The colonists therefore remained silently crouching under a sort of deep portico hollowed out in the rock. The rain was then beginning to fall, and soon the clouds, torn by the lightning, were condensed in torrents. The echoes repeated the crash of the thunder and gave it a grand resonance.
 

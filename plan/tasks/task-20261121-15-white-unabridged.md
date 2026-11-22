@@ -283,3 +283,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.15 omission: 0. III.15 waits for voice.
 - 2026-11-21 III.16 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.16 omission: 1 ("noblement"), patched. Voice on III.13, III.15, III.16 runs.
+- 2026-11-21 Voice 55-57-58: 7 findings, no break; four mended (one seam split, three tags joined); the rest Verne's. III.13, III.15, III.16 final.

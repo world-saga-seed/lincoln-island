@@ -113,3 +113,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.16 facts 2: 7 small, all patched ("considérable"; the reporter's statement; "devait laisser à désirer"; "quêtant"; "l'énorme animal"; "devait peser"; "personne n'eût pu le dire"). The omission critic runs.
 - 2026-11-21 I.15 facts 2: 1 ("Low Archipelago": White's name, kept). The omission critic runs.
 - 2026-11-21 I.15 omission: 0. I.16 omission: 3 ("en réalité", "en cet endroit", "en somme"), patched. The voice critic for I.14, I.15, I.16 and I.17's patcher run.
+- 2026-11-21 Voice on I.14, I.15, I.16: no break; two long sentences of the render split. **I.14, I.15, I.16 final.**

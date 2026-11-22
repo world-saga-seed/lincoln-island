@@ -134,4 +134,10 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.21, I.22 calls confirmed by the author (R1121-153). II.1: patcher v2 (retry), 70 patches (17 listed, 46 new, 5 slips), all apply; "grain de plomb" as "pellet" throughout, to agree with I.22's "leaden pellet" (H5) (main session; White has "bullet"). Facts 1 runs.
 - 2026-11-21 II.1 facts 1: 9, all patched ("Puis :"; "trop directement"; "au plus"; "à plusieurs reprises"; "avec leur adhérence"; "Je ne dis pas non"; "des chélonées"; "bien embarrassé"; the future perfect of conjecture). Facts 2 runs.
 - 2026-11-21 II.1 facts 2: 6, patched ("ouragan"; the natives of New Zealand; "légère fumée", White's "thin film"; Nab's general remark; "sur le sable"; "maladroits"). The omission critic runs.
-- 2026-11-21 II.1 omission: 0. II.1 waits for voice. II.3's patcher runs.
+- 2026-11-21 II.1 omission: 0. II.1 waits for voice. II.3 (render) is drafted.
+- 2026-11-21 II.2: patcher v2, 79 patches (24 listed, 48 new, 7 slips); all apply; "bullet" made "pellet" (the patcher began before the line was in patcher-v2). Verne's "comme un nègre" restored under R1121-150. Facts 1 runs.
+- 2026-11-21 II.2 facts 1: 6, patched (the added "low"; this part of the domain; "provenance"; "pas admissible"; "paraissait … feuilleté"; "plusieurs planisphères"). Facts 2 runs.
+- 2026-11-21 II.3 rendered (Opus): 3,430 words against the French's 3,576; tells.py: 0 banned hits, long% 42, five knots (for voice). Facts runs.
+- 2026-11-21 II.2 facts 2: 4, patched ("la côte"; "l'épave" as jetsam, not prize; "J'espère bien que non"; the added "pocket"). The omission critic runs.
+- 2026-11-21 II.3 facts: 0. The omission critic on II.2 and II.3 run.
+- 2026-11-21 II.3 omission: 0. II.3 waits for voice. II.4 (render) is drafted.

@@ -238,3 +238,8 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.5 facts 1: 1 ("Pas dégoûté"), made "You are not hard to please". Facts 2 runs.
 - 2026-11-21 III.5 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.5 omission: 0. III.5 waits for voice.
+- 2026-11-21 III.6: patcher v2, 78 patches (17 rows for 20 listed, 58 new, 3 slips); all apply; Verne's two knot notes restored. III.7: rendered; 2,767 words against 3,035; 0 banned; its title line given White's names. Facts 1 runs on both.
+- 2026-11-21 III.7 facts 1: 0. Facts 2 runs.
+- 2026-11-21 III.6 facts 1: 3, patched ("Aussi"; "en largeur"; the added "at once"). Facts 2 runs.
+- 2026-11-21 III.7 facts 2: 0. The omission critic runs.
+- 2026-11-21 III.7 omission: 0. III.7 waits for voice.

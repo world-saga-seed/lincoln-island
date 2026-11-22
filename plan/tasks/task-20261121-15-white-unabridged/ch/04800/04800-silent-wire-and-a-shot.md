@@ -30,7 +30,7 @@ The little band walked straight along the road to the harbor, towards the south 
 
 “And it’s a very fortunate thing,” added Herbert, “for if they had found the Bonadventure, they would have made use of her in getting away, and that would have prevented our going back to Tabor Island before long.”
 
-“Yes,” replied the reporter, “it will be important to put a paper there stating the situation of Lincoln Island and Ayrton’s new residence, in case the Scotch yacht should come after him.”
+“Yes,” replied the reporter, “it will be important to carry a paper to Tabor Island stating the situation of Lincoln Island and Ayrton’s new residence, in case the Scotch yacht should come after him.”
 
 “Well, the Bonadventure is still there, Mr. Spilett,” said the sailor, “ready to start with her crew at the first signal!”
 
@@ -102,7 +102,7 @@ When they returned to Granite House, they told Smith what had happened, and the 
 
 On the same evening they sent a telegram to Ayrton, asking him to bring back from the corral a couple of goats, which Neb wished to acclimatize on the meadows of the plateau. Strange to say, Ayrton did not acknowledge the receipt of this despatch, as was his custom to do. This surprised the engineer. But it might be that Ayrton was not at the corral at the moment, or even that he was on his way back to Granite House. In fact, two days had elapsed since his departure; and it had been agreed that on the evening of the 10th or the morning of the 11th, at latest, he would return.
 
-The colonists were now waiting to see Ayrton on Prospect Plateau. Neb and Herbert even watched the approaches to the bridge, so as to let it down when their companion should appear, but when 10 o’clock in the evening came, and there was no sign whatever of Ayrton, they agreed to send another despatch, asking for an immediate answer.
+The colonists were now waiting to see Ayrton on Prospect Plateau. Neb and Herbert even watched the approaches to the bridge, so as to let it down when their companion should appear, but when about 10 o’clock in the evening came, and there was no sign whatever of Ayrton, they agreed to send another despatch, asking for an immediate answer.
 
 The bell at Granite House remained silent.
 

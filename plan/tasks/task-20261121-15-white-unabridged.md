@@ -243,3 +243,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.6 facts 1: 3, patched ("Aussi"; "en largeur"; the added "at once"). Facts 2 runs.
 - 2026-11-21 III.7 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.7 omission: 0. III.7 waits for voice.
+- 2026-11-21 III.6 facts 2: 1 ("y porter", Tabor named), patched, with "vers dix heures". The omission critic runs.
+- 2026-11-21 III.6 omission: 0. Voice on III.4, III.5, III.6 runs.

@@ -112,7 +112,7 @@ His companions looked on without speaking. Then, after having satisfied himself 
 
 “Yes,” said Spilett, “a mountain which must be rather high—”
 
-“All right,” exclaimed the engineer. “Tomorrow we will climb to its summit and determine whether this is an island or a continent; until then I repeat there is nothing to do.”
+“All right,” exclaimed the engineer. “To-morrow we will climb to its summit and determine whether this is an island or a continent; until then I repeat there is nothing to do.”
 
 “But there is; we want fire!” cried the obstinate sailor again.
 
@@ -138,7 +138,7 @@ Meanwhile Smith had not answered. He seemed very little concerned about this que
 
 “We will know how to act after having first ascended the mountain,” answered Smith.
 
-“But will you be able, Mr. Smith, to make the climb tomorrow?” asked Herbert.
+“But will you be able, Mr. Smith, to make the climb to-morrow?” asked Herbert.
 
 “I hope so,” answered the engineer, “if Pencroff and you, my boy, show yourselves to be clever and skilful hunters.”
 
@@ -192,7 +192,7 @@ Meanwhile the sun had not yet risen to its highest point above the horizon. The 
 
 The hunters, on entering the brush, saw Top struggling with an animal which he held by the ear. This quadruped was a species of pig, about two feet and a half long, of a brownish black color, somewhat lighter under the belly, having harsh and somewhat scanty hair, and its toes at this time strongly grasping the soil seemed joined together by membranes.
 
-Herbert thought that he recognized in this animal a cabiai, or water-hog, one of the largest specimens of the order of rodents. The water-hog did not fight the dog. Its great eyes, deep sank in thick layers of fat, rolled stupidly from side to side. Perhaps it saw men for the first time. And Neb, grasping his club firmly, was about to knock the beast down, when the latter tore loose from Top, leaving a piece of his ear in the dog’s mouth, and uttering a vigorous grunt, rushed against and half overset Herbert and disappeared in the wood.
+Herbert thought that he recognized in this animal a cabiai, or water-hog, one of the largest specimens of the order of rodents. The water-hog did not fight the dog. Its great eyes, deep sunk in thick layers of fat, rolled stupidly from side to side. Perhaps it saw men for the first time. And Neb, grasping his club firmly, was about to knock the beast down, when the latter tore loose from Top, leaving a piece of his ear in the dog’s mouth, and uttering a vigorous grunt, rushed against and half overset Herbert and disappeared in the wood.
 
 “The beggar!” cried Pencroff, as they all three darted on the tracks of Top. But just as they were about to come up with the dog, the water-hog disappeared under the surface of a large pond, overshadowed by tall, ancient pines.
 

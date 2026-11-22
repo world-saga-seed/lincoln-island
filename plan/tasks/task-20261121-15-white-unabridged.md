@@ -88,3 +88,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.10 facts 1: 2 (the summary's question; "on s'élevait peu à peu"), patched. Facts 2 runs.
 - 2026-11-21 I.10 facts 2: 0; of its set-asides, the four named laughers restored (main session); "to dine" at noon kept (the period's midday dinner). The omission critic runs.
 - 2026-11-21 I.10 omission: 0. The voice critic for I.8, I.9, I.10 runs.
+- 2026-11-21 Voice on I.8, I.9, I.10: no break; three print slips mended in I.9. **I.8, I.9, I.10 final.**

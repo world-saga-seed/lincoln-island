@@ -9,10 +9,20 @@ import csv, re, sys
 nn, tsv, out, title = int(sys.argv[1]), sys.argv[2], sys.argv[3], sys.argv[4]
 lines = open('texts/white-1876/%02d.md' % nn, encoding='utf-8').read().splitlines()
 head = [l[3:] for l in lines if l.startswith('hd ')]
-paras = [re.sub(r'^¶\d+ ', '', l) for l in lines if re.match(r'^¶\d+ ', l)]
-text = '\n\n'.join(paras)
+num = {int(re.match(r'^¶(\d+) ', l).group(1)): re.sub(r'^¶\d+ ', '', l) for l in lines if re.match(r'^¶\d+ ', l)}
+rows = list(csv.DictReader(open(tsv, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
+# A whole White paragraph: old "@¶N"; an empty new deletes it.
+for r in rows:
+    if r['old'].startswith('@¶'):
+        n = int(r['old'][2:])
+        if n not in num: print('FAIL', r['id'], 'no paragraph', n); sys.exit(1)
+        if r['new']: num[n] = r['new'].replace('¶', '\n\n')
+        else: del num[n]
+        print('ok', r['id'])
+rows = [r for r in rows if not r['old'].startswith('@¶')]
+text = '\n\n'.join(num[k] for k in sorted(num))
 bad = 0
-for r in csv.DictReader(open(tsv, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE):
+for r in rows:
     n = text.count(r['old'])
     if n != 1:
         print('FAIL', r['id'], n, r['old'][:60]); bad += 1; continue

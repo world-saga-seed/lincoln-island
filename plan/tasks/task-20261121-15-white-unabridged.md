@@ -145,3 +145,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 Voice on II.1, II.2, II.3 runs.
 - 2026-11-21 II.4 rendered (Opus): 3,213 words against the French's 3,430; tells.py: 0 banned hits, but long% 45, neg/k 17.2 and 15 knots, the most of any render (for voice, which may split at the joins under R1121-108); "dut donc être très-étonné" made a conjecture again (main session). Facts runs.
 - 2026-11-21 Voice on II.1, II.2, II.3: no break; three seams in II.2 and four lines of the render mended. **II.1, II.2, II.3 final.** II.4 facts: 0; its omission critic and II.5's patcher run.
+- 2026-11-21 II.4 omission: 0. II.4 waits for voice. II.6's patcher runs.

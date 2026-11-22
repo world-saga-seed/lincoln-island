@@ -24,7 +24,7 @@ Here Pencroff reflected as follows:—
 
 “Let us make fast its lower end,” answered Smith.
 
-The ladder was therefore made fast to two stakes driven firmly into the sand. Then the colonists, ascending the left bank of the Mercy, soon arrived at the bend formed by the river, where they halted to examine whether the bridge should not be thrown across at this place. The situation appeared suitable, as from this point to Balloon Harbor, discovered the day before on the southern coast, the distance was only three miles and a half, and from the bridge to the harbor a wagon road could easily be constructed, which would make communication easy between Granite House and the south of the island.
+The ladder was therefore made fast to two stakes driven firmly into the sand. Then the colonists, ascending the left bank of the Mercy, soon arrived at the bend formed by the river, where they halted to examine whether the bridge should not be thrown across at this place. The situation appeared suitable, as from this point to Balloon Harbor, discovered the day before on the southern coast, the distance was only three miles and a half. From the bridge to the harbor a wagon road could easily be constructed, which would make communication easy between Granite House and the south of the island.
 
 Then Smith communicated to his companions a project, at once very simple to carry out and very advantageous, which he had had in view for some time. This was to completely isolate Prospect Plateau, so as to protect it from all attacks of quadrupeds or quadrumana. By this means Granite House, the Chimneys, the poultry yard, and all the upper part of the plateau destined for sowing would be protected against the depredations of animals.
 

@@ -28,11 +28,11 @@ It need hardly be said that Jup was now thoroughly acquainted with his service. 
 
 As to the health of the members of the colony, bipeds or bimana, quadrumana or quadrupeds, it left nothing to be desired. With this life in the open air, on this healthy soil, under this temperate zone, working with head and hand, they could not believe that sickness would ever reach them.
 
-All were in wonderful health, in fact. Herbert had already grown two inches in a year. His face was forming and becoming more manly, and he promised to be a man as accomplished in body as in mind. Moreover, he profited by all the leisure which manual labor left him to instruct himself. He read the few books found in the chest; and, after the practical lessons which arose from the very necessity of his position, he found in the engineer for the sciences, and in the reporter for languages, masters who took pleasure in completing his education.
+All were in wonderful health, in fact. Herbert had already grown two inches in a year. His face was forming and becoming more manly, and he promised to be a man as accomplished in body as in mind. Moreover, he profited by all the leisure which manual labor left him to instruct himself. He read the few books found in the chest. And, after the practical lessons which arose from the very necessity of his position, he found in the engineer for the sciences, and in the reporter for languages, masters who took pleasure in completing his education.
 
 It was the engineer's fixed idea to pass on to the lad all that he knew himself, to instruct him by example as much as by word; and Herbert profited largely by the lessons of his professor.
 
-"If I die," thought Cyrus Smith, "it is he who will replace me!"
+"If I die," thought Smith, "it is he who will replace me!"
 
 The storm came to an end towards the 9th of March, but the sky remained covered with clouds during the whole of this last month of the summer. The atmosphere, violently disturbed by these electric commotions, could not recover its former purity, and there was almost invariably rain and fog, except on three or four fine days, which favored excursions of all sorts.
 
@@ -40,11 +40,11 @@ About this time the female onagga gave birth to a young one, which was of the sa
 
 An attempt was also made at domesticating the peccaries, and the attempt succeeded fully. A sty was built near the poultry-yard, and it soon held several young ones on the way to being civilized, that is to say, to being fattened by Neb's care. Master Jup, charged with bringing them their daily food, dish-water, kitchen scraps, etc., acquitted himself of his task conscientiously. It did happen, sometimes, that he amused himself at the expense of his little boarders and pulled their tails; but this was mischief and not malice, for these little twisted tails amused him like a toy, and his instinct was that of a child.
 
-One day in this month of March, Pencroff, talking with the engineer, reminded Cyrus Smith of a promise which the latter had not yet had time to fulfil.
+One day in this month of March, Pencroff, talking with the engineer, reminded Smith of a promise which the latter had not yet had time to fulfil.
 
 "You spoke of an apparatus which would do away with the long ladders of Granite House, Mr. Smith," said he. "Will you not set it up some day?"
 
-"You mean a sort of elevator!" replied Cyrus Smith.
+"You mean a sort of elevator!" replied Smith.
 
 "Let us call it an elevator, if you like," replied the sailor. "The name does not matter, provided it takes us up to our dwelling without fatigue."
 
@@ -52,7 +52,7 @@ One day in this month of March, Pencroff, talking with the engineer, reminded Cy
 
 "Certainly, Mr. Smith. After giving ourselves what is necessary, let us think a little of what is comfortable. For persons it will be a luxury, if you like; but for things it is indispensable! It is not so very convenient to climb a long ladder when one is heavily loaded!"
 
-"Well, Pencroff, we will try to satisfy you," replied Cyrus Smith.
+"Well, Pencroff, we will try to satisfy you," replied the engineer.
 
 "But you have no machine at your disposal."
 
@@ -68,19 +68,19 @@ For that, it was enough to increase the flow of the little branch made from the 
 
 It was on the 17th of March that the elevator worked for the first time, and to the satisfaction of all. Henceforward all burdens, wood, coal, provisions, and the colonists themselves, were hoisted by this very simple system, which replaced the primitive ladder, and which nobody thought of regretting. Top showed himself particularly delighted with this improvement, for he had not, and could not have, Master Jup's skill in climbing rungs; and many a time it was on Neb's back, or even on the orang's, that he had been obliged to make the ascent to Granite House.
 
-About this time, too, Cyrus Smith attempted to make glass, and he was first obliged to adapt the old pottery kiln to this new purpose. This presented rather great difficulties; but after several unsuccessful trials, he succeeded at last in setting up a glass-works, which Spilett and Herbert, the engineer's natural assistants, did not leave for several days.
+About this time, too, Smith attempted to make glass, and he was first obliged to adapt the old pottery kiln to this new purpose. This presented rather great difficulties; but after several unsuccessful trials, he succeeded at last in setting up a glass-works, which Spilett and Herbert, the engineer's natural assistants, did not leave for several days.
 
-As to the substances which enter into the composition of glass, they are simply sand, chalk, and soda (carbonate or sulphate). Now, the shore supplied the sand, the lime supplied the chalk, the marine plants supplied the soda, the pyrites supplied the sulphuric acid, and the ground supplied the coal to heat the kiln to the required temperature. Cyrus Smith was therefore in the conditions necessary for operating.
+As to the substances which enter into the composition of glass, they are simply sand, chalk, and soda (carbonate or sulphate). Now, the shore supplied the sand, the lime supplied the chalk, the marine plants supplied the soda, the pyrites supplied the sulphuric acid, and the ground supplied the coal to heat the kiln to the required temperature. Smith was therefore in the conditions necessary for operating.
 
 The tool the making of which presented the most difficulty was the glass-maker's "pipe," an iron tube five or six feet long, which serves to collect at one of its ends the material kept in a state of fusion. But by means of a long, thin strip of iron, which was rolled like the barrel of a gun, Pencroff succeeded in making this pipe, and it was soon ready for use.
 
-On the 28th of March the kiln was strongly heated. A hundred parts of sand, thirty-five of chalk, forty of sulphate of soda, mixed with two or three parts of powdered charcoal, composed the substance, which was placed in crucibles of fire-clay. When the high temperature of the kiln had reduced it to a liquid, or rather to a pasty, state, Cyrus Smith "gathered" with the pipe a certain quantity of this paste. He turned it and turned it again on a metal plate, previously arranged, so as to give it the form suitable for blowing; then he passed the pipe to Herbert, telling him to blow at the other end.
+On the 28th of March the kiln was strongly heated. A hundred parts of sand, thirty-five of chalk, forty of sulphate of soda, mixed with two or three parts of powdered charcoal, composed the substance, which was placed in crucibles of fire-clay. When the high temperature of the kiln had reduced it to a liquid, or rather to a pasty, state, Smith "gathered" with the pipe a certain quantity of this paste. He turned it and turned it again on a metal plate, previously arranged, so as to give it the form suitable for blowing; then he passed the pipe to Herbert, telling him to blow at the other end.
 
 "As if to make soap-bubbles?" asked the lad.
 
 "Exactly," replied the engineer.
 
-And Herbert, puffing out his cheeks, blew so long and so well into the pipe, taking care to turn it without ceasing, that his breath dilated the glassy mass. Other quantities of the melted substance were added to the first, and the result was soon a bubble which measured a foot in diameter. Then Cyrus Smith took the pipe again from Herbert's hands, and, giving it a pendulum motion, he ended by lengthening the malleable bubble, so as to give it a cylindro-conic form.
+And Herbert, puffing out his cheeks, blew so long and so well into the pipe, taking care to turn it without ceasing, that his breath dilated the glassy mass. Other quantities of the melted substance were added to the first, and the result was soon a bubble which measured a foot in diameter. Then Smith took the pipe again from Herbert's hands, and, giving it a pendulum motion, he ended by lengthening the malleable bubble, so as to give it a cylindro-conic form.
 
 The operation of blowing had thus given a cylinder of glass ended by two hemispherical caps, which were easily detached by means of a sharp iron wetted with cold water. Then, by the same process, this cylinder was split along its length; and, after it had been made malleable by a second heating, it was spread out on a plate and smoothed by means of a wooden roller.
 
@@ -90,13 +90,13 @@ As to the glassware, tumblers and bottles, that was mere play. Besides, they wer
 
 During one of the excursions made at this time, a new tree was discovered, the products of which further increased the food resources of the colony.
 
-Cyrus Smith and Herbert, while hunting, had one day ventured into the forest of the Far West, on the left of the Mercy. As always, the lad was asking the engineer a thousand questions, which the latter answered with all his heart. But it is with hunting as with every other occupation in this world, and when one does not bring the necessary zeal to it, there are many reasons for not succeeding. Now, as Cyrus Smith was no hunter, and as, on the other hand, Herbert was talking chemistry and physics that day, many kangaroos, capybaras, and agoutis passed within good range, which nevertheless escaped the lad's gun. It followed, then, that, the day being already advanced, the two hunters ran a great risk of having made a useless excursion, when Herbert, stopping and uttering a cry of joy, exclaimed,—
+Smith and Herbert, while hunting, had one day ventured into the forest of the Far West, on the left of the Mercy. As always, the lad was asking the engineer a thousand questions, which the latter answered with all his heart. But it is with hunting as with every other occupation in this world, and when one does not bring the necessary zeal to it, there are many reasons for not succeeding. Now, as Smith was no hunter, and as, on the other hand, Herbert was talking chemistry and physics that day, many kangaroos, capybaras, and agoutis passed within good range, which nevertheless escaped the lad's gun. It followed, then, that, the day being already advanced, the two hunters ran a great risk of having made a useless excursion, when Herbert, stopping and uttering a cry of joy, exclaimed,—
 
 "Ah! Mr. Smith, do you see that tree?"
 
 And he pointed to a shrub rather than a tree, for it consisted only of a single stem, clothed with a scaly bark, which bore leaves streaked with little parallel veins.
 
-"And what is this tree, which looks like a little palm?" asked Cyrus Smith.
+"And what is this tree, which looks like a little palm?" asked Smith.
 
 "It is a 'cycas revoluta,' of which I have the picture in our dictionary of natural history!"
 
@@ -112,7 +112,7 @@ And he pointed to a shrub rather than a tree, for it consisted only of a single 
 
 Herbert was not mistaken. He broke the stem of a cycas, which was composed of a glandular tissue and enclosed a certain quantity of floury pith, traversed by woody bundles, which were separated by rings of the same substance arranged concentrically. With this fecula was mixed a mucilaginous juice of a disagreeable taste, but which it would be easy to drive out by pressure. This cellular substance formed a real flour of superior quality, extremely nourishing, the exportation of which was formerly forbidden by the Japanese laws.
 
-Cyrus Smith and Herbert, after having carefully studied the part of the Far West where these cycas grew, took their bearings and returned to Granite House, where they made known their discovery.
+Smith and Herbert, after having carefully studied the part of the Far West where these cycas grew, took their bearings and returned to Granite House, where they made known their discovery.
 
 The next day the colonists went to the harvest, and Pencroff, more and more enthusiastic about his island, said to the engineer,—
 
@@ -138,7 +138,7 @@ But who can flatter himself that he has ever fixed fortune, and is sheltered fro
 
 However that may be, this Lincoln Island, which the colonists had now inhabited for more than a year, was often the subject of their conversation; and one day an observation was made which was later to bring about serious consequences.
 
-It was the 1st of April, a Sunday—Easter Sunday—which Cyrus Smith and his companions had sanctified by rest and prayer. The day had been fine, such as a day in October might be in the northern hemisphere.
+It was the 1st of April, a Sunday—Easter Sunday—which Smith and his companions had sanctified by rest and prayer. The day had been fine, such as a day in October might be in the northern hemisphere.
 
 All, towards evening, after dinner, were gathered under the veranda, at the edge of Prospect Plateau, and they were watching the night rise over the horizon. Some cups of that infusion of elder-seeds which took the place of coffee had been served by Neb. They were talking of the island and of its isolated situation in the Pacific, when Spilett was led to say,—
 
@@ -156,7 +156,7 @@ All, towards evening, after dinner, were gathered under the veranda, at the edge
 
 "Eh! who knows?" resumed the reporter; "who knows if we are not much nearer an inhabited land than we believe?"
 
-"We shall know to-morrow," replied Cyrus Smith; "and but for so many occupations, which have left me no leisure, we should know already."
+"We shall know to-morrow," replied Smith; "and but for so many occupations, which have left me no leisure, we should know already."
 
 "Good!" said Pencroff. "Mr. Smith is too good an observer to have made a mistake; and, if it has not moved from its place, the island is just where he put it!"
 
@@ -174,7 +174,7 @@ The second gave exactly,—
 West longitude: 150° 30′;
 South latitude: 34° 57′.
 
-Thus, then, in spite of the imperfection of his instruments, Cyrus Smith had operated with so much skill that his error had not exceeded five degrees.
+Thus, then, in spite of the imperfection of his instruments, Smith had operated with so much skill that his error had not exceeded five degrees.
 
 "Now," said Spilett, "since we possess an atlas as well as a sextant, let us see, my dear Cyrus, the exact position which Lincoln Island occupies in the Pacific."
 
@@ -190,7 +190,7 @@ Suddenly the compasses stopped in his hand, and he said,—
 
 "Ours, no doubt?" replied Spilett.
 
-"No," resumed Cyrus Smith. "This island is situated in 153° of longitude and 37° 11′ of latitude; that is to say, two degrees and a half farther to the west, and two degrees farther to the south, than Lincoln Island."
+"No," resumed Smith. "This island is situated in 153° of longitude and 37° 11′ of latitude; that is to say, two degrees and a half farther to the west, and two degrees farther to the south, than Lincoln Island."
 
 "And what is this island?" asked Herbert.
 
@@ -206,7 +206,7 @@ Suddenly the compasses stopped in his hand, and he said,—
 
 "Yes, Mr. Smith. We will build a decked boat, and I will undertake to sail her. How far are we from this Tabor Island?"
 
-"About a hundred and fifty miles to the north-east," replied Cyrus Smith.
+"About a hundred and fifty miles to the north-east," replied the engineer.
 
 "A hundred and fifty miles! And what is that?" replied Pencroff. "In forty-eight hours, and with a good wind, it will be done!"
 

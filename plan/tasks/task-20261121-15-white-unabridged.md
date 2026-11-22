@@ -169,3 +169,8 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.9 facts 1: 0. Facts 2 runs.
 - 2026-11-21 II.9 facts 2: 0. The omission critic runs.
 - 2026-11-21 II.9 omission: 0. Voice on II.7, II.8, II.9 runs.
+- 2026-11-21 II.10: rendered (Opus, no command); 3,389 words against the French 3,660; 0 banned. The main session dropped Verne's n1 ("Champ des baleines"), which glosses his English "whale-field" for French readers and says nothing in English *(Resolved by judgment, overturnable.)*; n2 renumbered (1), and its Vineyard-in-New-York put in the errata; two knots split. Facts 1 runs.
+- 2026-11-21 II.10 facts 1: 1, the dropped n1, which is the main session's own call above (left; for the author's next report). Facts 2 runs.
+- 2026-11-21 II.10 facts 2: 1, the dropped n1 again; left, for the author. The omission critic runs.
+- 2026-11-21 II.10 omission: 2; "maître Pencroff" is plain Pencroff (R1121-151), and n1 is the main session's call; nothing patched. II.10 waits for voice.
+- 2026-11-21 Voice on II.7, II.8, II.9: no break; renders and one seam mended (voice/findings-29-30-31.md). **II.7, II.8, II.9 final.**

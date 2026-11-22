@@ -154,7 +154,7 @@ But just then a cry was heard, and a huge monkey, that had taken refuge in the c
 
 “Spare it, Pencroff.”
 
-“What, spare this black ape?”
+“What, show mercy to this blackamoor?”
 
 “Yes, it is he that has thrown us the ladder,” said the engineer, in a voice so strange, that it was hard to say whether he was in earnest or not.
 

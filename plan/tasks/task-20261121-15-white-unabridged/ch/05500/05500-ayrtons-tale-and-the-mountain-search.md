@@ -100,13 +100,13 @@ In a short time, the colonists entered the house again, and their efforts soon r
 
 “My Bonadventure gone!” shouted Pencroff, springing to his feet.
 
-“Yes. The convicts discovered where the sloop lay, and, scarcely a week ago, they put out to sea in her, and—”
+“Yes. The convicts discovered her in her little harbor, and, scarcely a week ago, they put out to sea in her, and—”
 
 “And?” said Pencroff, his heart trembling.
 
 “And, not having Bob Harvey to manage her, they ran her upon the rocks, and she broke all to pieces!”
 
-“Oh! the wretches! the pirates! the devils!” exclaimed the sailor.
+“Oh! the wretches! the bandits! the infamous rascals!” exclaimed the sailor.
 
 “Pencroff,” said Herbert, taking his hand, “we will build another Bonadventure, a larger one. We have all the iron, all the rigging of the brig at our disposal!”
 
@@ -126,7 +126,7 @@ In the first place, the colonists visited the valley opening to the south of the
 
 All the valley which ended at the cavern, a valley shaded by beautiful trees, among which the conifers predominated, was explored with extreme care, and then, the south-western spur having been turned at its point, the colonists entered a narrower gorge, which began at that picturesque pile of basalt on the coast. Here the trees were less numerous. The stones took the place of grass, and the wild goats and moufflons bounded among the rocks. The arid part of the island began at this part. They saw already that, of the numerous valleys ramifying from the base of Mount Franklin, three only were wooded and rich in pasture like the valley of the corral, which was bounded on the west by the valley of Fall River and on the east by that of Red Creek. These two brooks, which developed lower down into rivers by receiving a few tributaries, were formed from all the waters of the mountain, and thus caused the fertility of its southern portion. As to the Mercy, it was more directly fed by abundant springs, hidden in Jacamar Wood, and it was by springs of the same nature, spreading in a thousand rills, that the soil of Serpentine Peninsula was watered.
 
-Now any one of these three valleys would have answered for the retreat of some recluse, who would have found there all the necessaries of life. But the colonists had already explored each of them without detecting the presence of man. Was it then at the bottom of these arid gorges, in the midst of heaps of rocks, in the rugged ravines to the north, between the streams of lava, that they would find this retreat and its occupant?
+Now any one of these three valleys, where water was not lacking, would have answered for the retreat of some recluse, who would have found there all the necessaries of life. But the colonists had already explored each of them without detecting the presence of man. Was it then at the bottom of these arid gorges, in the midst of heaps of rocks, in the rugged ravines to the north, between the streams of lava, that they would find this retreat and its occupant?
 
 The northern part of Mount Franklin had at its base only two valleys, wide, shallow, without any appearance of verdure, sown with erratic blocks, streaked with long moraines, paved with lava, broken by great mineral swellings, sprinkled with pieces of obsidian and labradorite. This part required long and difficult exploration. Here were a thousand cavities, not very comfortable, no doubt, but completely hidden and difficult of access. The colonists even visited sombre tunnels, made in the plutonic epoch, still blackened by the fires of other days, which plunged into the heart of the mountain. They searched these dark galleries by the light of torches, peering into their least excavations and sounding their lowest depths. But everywhere was silence, obscurity. It did not seem as if any human being had ever trodden these antique corridors or an arm displaced one of these stones. Such as they were, such had the volcano thrown them up above the waters at the time when the island emerged.
 
@@ -156,7 +156,7 @@ Several times they listened, and they came to the conclusion that some chemical 
 
 “But an earthquake is always to be feared under these conditions,” observed Spilett.
 
-“Always,” replied the engineer, “especially when the subterranean forces are awakening, and the bowels of the earth, after a long repose, chance to be obstructed. So, my dear Spilett, an eruption would be a serious thing for us, and it would be much better if this volcano has not the desire to wake up; but we can do nothing, can we? Nevertheless, in any case, I do not think Prospect Plateau could be seriously menaced. Between it and the mountain there is quite a depression in the land, and even if the lavas took the road to the lake, they would be thrown upon the downs and the parts adjoining Shark Gulf.”
+“Always,” replied the engineer, “especially when the subterranean forces are awakening, and the bowels of the earth, after a long repose, chance to be obstructed. So, my dear Spilett, an eruption would be a serious thing for us, and it would be much better if this volcano has not the desire to wake up; but we can do nothing, can we? Nevertheless, in any case, whatever happens, I do not think Prospect Plateau could be seriously menaced. Between it and the mountain there is quite a depression in the land, and even if the lavas took the road to the lake, they would be thrown upon the downs and the parts adjoining Shark Gulf.”
 
 “We have not yet seen any smoke from the summit, indicating a near eruption,” said Spilett.
 
@@ -172,7 +172,7 @@ Smith and Spilett, on rejoining their companions, told them of these things.
 
 “Who’s that?” asked Neb.
 
-“Our genius, Neb, our good genius, who will put a gag in the mouth of the crater if it so much as makes a show of opening it.”
+“Our genius, Neb, our genius, who will put a gag in the mouth of the crater if it so much as makes a show of opening it.”
 
 As may be seen, the confidence of the sailor in the special god of his island was absolute, and, indeed, the occult power which had so far been manifested by so many inexplicable acts seemed limitless; but it had also known how to escape the minute researches of the colonists, for, in spite of all their efforts, in spite of the zeal, more than zeal, the tenacity which they brought to their exploration, the strange retreat could not be discovered.
 

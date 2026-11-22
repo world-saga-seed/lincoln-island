@@ -272,3 +272,6 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.12 omission: 0. Voice on III.10, III.11, III.12 runs.
 - 2026-11-21 III.13: patcher v2, 92 patches (27 rows for 21 listed, 60 new, 5 slips); all apply; "Dieu veuille" made "God grant" (Dieu as faith). Facts 1 runs.
 - 2026-11-21 Voice 52-53-54: 18 findings, no break; seven mended (four knots split, three joins); the rest Verne's. III.10, III.11, III.12 final.
+- 2026-11-21 III.13 facts 1: 3, patched ("dans son petit port"; "les bandits ! les infâmes coquins !"; the second "notre génie" without "good"). Facts 2 runs.
+- 2026-11-21 III.13 facts 2: 0. The omission critic runs.
+- 2026-11-21 III.13 omission: 2, patched ("où l'eau ne manquait pas"; "quoi qu'il arrive"). III.13 waits for voice.

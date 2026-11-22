@@ -68,3 +68,9 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.3: patcher v2, 67 patches (23 listed, 42 new, 2 slips; îlot as "islet" throughout); "pôle austral du monde" set as "the south pole of the heavens" on the main session's call. Facts 1 on I.3 and I.4's patcher run.
 - 2026-11-21 I.3 facts 1: 1 ("la partie nord du nouveau continent", P68); facts 2: 3 (the surf's rattle, "devaient penser", "plutonien", P69 to P71). The omission critic runs.
 - 2026-11-21 I.3 omission: 0. I.3 waits for voice. I.7's patcher runs.
+- 2026-11-21 I.4: patcher v2, 78 patches (18 listed, 56 new, 4 slips); all apply. "the negro Neb" for "le nègre Nab" checked: it is White's own form (his I.2 heading, and 14 times elsewhere). Facts 1 runs.
+- 2026-11-21 I.4 facts 1: 4; three patched (the road that walks by itself, with Herbert's echo; "pointe aiguë"; "agréable dans ses aspects"); "amphibious monsters" kept as White's stylistic addition (R1121-146). Facts 2 runs.
+- 2026-11-21 I.7: patcher v2, 69 patches (10 listed, 57 new, 2 slips); all apply. The summary's "huit mille" against ¶79's five and ¶81's six miles is Verne's own (rendered as printed). Facts 1 runs.
+- 2026-11-21 I.4 facts 2: 2 ("reconnut … à basse mer"; the long fringe of whimsical rocks), patched. The omission critic runs.
+- 2026-11-21 I.7 facts 1: 3 ("bois sec", "se laissait faire", "devaient souffrir"), patched. Facts 2 runs.
+- 2026-11-21 I.4 omission: 0. I.4 waits for voice. I.8's patcher runs.

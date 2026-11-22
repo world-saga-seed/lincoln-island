@@ -46,7 +46,7 @@ if act == 'render':
     s = s.replace('Use White\'s forms of the names and White\'s American spelling.', 'Use White\'s forms of the names and White\'s American spelling. Where the French names Nab, write Neb; where it has "le nègre", write "the negro" (R1121-150). "Grain de plomb" is "pellet" or "leaden pellet"; "amandes de pin pignon" are "pine kernels" (R1121-152). Verne\'s "onaggas" are "onaggas", never "onagers" (R1121-154). Verne\'s "ascenseur" is White\'s "elevator". Verne\'s boat is "the Bonadventure", never "Good Luck" (R1121-155).')
     assert 'pellet' in s, 'render prompt rulings'
     assert 'tells.py line' not in s and 'measure with' not in s, 'render prompt tells'
-    assert '05600' not in s and 'LVI' not in s, 'render prompt'
+    assert '05600' not in s and not _re.search(r'\bLVI\b', s), 'render prompt'
     (d / 'prompt-render.md').write_text(s, encoding='utf-8')
 subprocess.run(['python3', T + '/make_critics.py', str(nn), str(draft), str(d)], check=True, capture_output=True)
 for k in ['facts']:

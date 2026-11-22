@@ -230,3 +230,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.2 omission: 3; "en somme" patched; the Speedy note and ¶78 (a caption line repeating ¶77) left. III.2 waits for voice. Voice on III.1, III.2, III.3 runs.
 - 2026-11-21 III.4: patcher v2, 76 patches (17 listed, 58 new, 1 slip); all apply. H11 lines (III.4 ¶9, ¶49, ¶95) brought nearer the French (the waterspout, the second boat), none cut. Facts 1 runs.
 - 2026-11-21 Voice on III.1, III.2, III.3: no break; seams and renders mended; "Cyrus Smith" made "Smith" in five renders after XXII (names.md), the pilot logged as drift. **III.1, III.2, III.3 final.**
+- 2026-11-21 III.4 facts 1: 6, all patched ("couché sur le côté"; "étale"; "maître-coq expéditif"; "pour leur sauvetage"; "grand cabotage"; "au fur et à mesure"). Facts 2 runs.
+- 2026-11-21 chap.py: the render prompt's guard against the pilot matched "LVI" inside "XLVII"; now a whole-word match.
+- 2026-11-21 III.4 facts 2: 3, patched ("les épaves"; "l'arrimage … n'était plus reconnaissable"; "huit jours"). The omission critic runs.
+- 2026-11-21 III.4 omission: 1 ("assez"), patched. III.4 waits for voice.

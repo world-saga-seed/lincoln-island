@@ -185,3 +185,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.13 facts 1: 4, all patched ("corbeille verte", the crescent unadorned, one "soulèvement", Pencroff's bare "Descendons"). Facts 2 runs.
 - 2026-11-21 II.13 facts 2: 6, all patched ("se passa bien"; "troupeaux"; "pied humain"; "rapatrié"; "à une époque quelconque"; Pencroff's "Dieu nous aura récompensés", a statement of faith and no oath, so "God"). The omission critic runs.
 - 2026-11-21 II.13 omission: 0. II.13 waits for voice.
+- 2026-11-21 II.14: patcher v2, 95 patches (27 listed, 60 new, 8 slips); all apply; the Bonadventure throughout. The H17 line ("this light, evidently lit by Smith") kept; Pencroff's cry "Un feu !" is "A fire! a fire!". Facts 1 runs.
+- 2026-11-21 II.14 facts 1: 4, all patched ("on déjeuna"; "qualités morales"; the added "still"; the night "du 18 au 19"). Facts 2 runs.
+- 2026-11-21 II.14 facts 2: 2, both "Cyrus Smith" as White's "Smith": the house form of the name (names.md), not counted. The omission critic runs.
+- 2026-11-21 II.14 omission: 0. II.14 waits for voice.

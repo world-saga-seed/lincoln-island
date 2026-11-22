@@ -106,3 +106,10 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.14 omission: 0. I.14 waits for voice. I.15's patcher runs.
 - 2026-11-21 Voice on I.11, I.12, I.13: no break; four patch seams mended. **I.11, I.12, I.13 final.**
 - 2026-11-21 The author confirmed the five calls of the last report (R1121-152).
+- 2026-11-21 I.16: patcher v2, 71 patches (12 listed, 54 new, 5 slips). The summary follows Verne's (White's added "—THE DUGONG" removed, as in the headings patched before). Facts 1 runs.
+- 2026-11-21 I.15: patcher v2, 74 patches (30 for the 26 listed, 43 new, 1 slip); all apply. "koula" restored for White's "ai" (Verne's name for the beast, glossed as the sloth in the same sentence); the clay gloss removed as an added fact. Facts 1 runs.
+- 2026-11-21 I.16 facts 1: 3 ("du large", "veiller", "s'échouer sur une petite grève"), patched. Facts 2 runs.
+- 2026-11-21 I.15 facts 1: 7; six patched ("le lendemain", "mauvaise saison", the added "magnetic ore", the charcoal-burner's wood, the tool list, iron and steel); "Low Archipelago" kept (White's name). Facts 2 runs.
+- 2026-11-21 I.16 facts 2: 7 small, all patched ("considérable"; the reporter's statement; "devait laisser à désirer"; "quêtant"; "l'énorme animal"; "devait peser"; "personne n'eût pu le dire"). The omission critic runs.
+- 2026-11-21 I.15 facts 2: 1 ("Low Archipelago": White's name, kept). The omission critic runs.
+- 2026-11-21 I.15 omission: 0. I.16 omission: 3 ("en réalité", "en cet endroit", "en somme"), patched. The voice critic for I.14, I.15, I.16 and I.17's patcher run.

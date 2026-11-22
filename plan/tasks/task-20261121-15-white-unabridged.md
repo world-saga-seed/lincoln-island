@@ -97,3 +97,8 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.12 facts 1: 4; three patched (the latitude "trop haute", White's error reversed; "smooth" and "constantly" removed). "pine kernels" kept: the "amandes" are the pignon kernels of I.9 and I.10. Facts 2 runs.
 - 2026-11-21 I.12 facts 2: 2; "indigène dangereux" patched (White's "savage" an added judgment, R1121-150's measure); "pine kernels" kept again ("amandes" here are the kernels of the pignon pine, I.9 ¶97, I.10). The omission critic runs.
 - 2026-11-21 I.12 omission: 2 ("pittoresquement relevé", "tout à fait"), patched. I.12 waits for voice.
+- 2026-11-21 I.13: patcher v2, 81 patches (19 listed, 57 new, 5 slips); all apply. Verne's hours in ¶34 and n1 do not agree: rendered as printed, logged in texts/errata.md. Facts 1 on I.13 and the I.14 drafter (render) run.
+- 2026-11-21 I.13 facts 1: 3 ("immédiatement utilisable", the fibres' tenacity, "pot-au-feu" as boiled agouti), patched. Facts 2 runs.
+- 2026-11-21 I.13 facts 2: 5; four patched (the heading's pottery kiln; the "commencement"; the wind that cast them ashore; "sanctifier"); "THE FIRST BOILED MEAT" kept, agreeing with the body's boiled agouti. The omission critic runs.
+- 2026-11-21 I.13 omission: 1 ("un simple pot-au-feu"), patched. I.13 waits for voice.
+- 2026-11-21 I.14 rendered (Opus): about 3,220 words against the French's 3,330; tells.py run by the main session (0 banned hits; long% 43, sd 14.7, three knots: for the voice critic). The drafter could not run its one allowed command (the classifier refused it), so render prompts now allow none: chap.py strips the tells line, and footnotes are asked as (1). The footnote's "[1]" set as "(1)". Voice on I.11, I.12, I.13 and facts 1 on I.14 run.

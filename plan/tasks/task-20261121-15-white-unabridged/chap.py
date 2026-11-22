@@ -40,6 +40,10 @@ if act == 'render':
           .replace('(the pilot, R1121-147; from the phase 8 drafter\'s prompt)', '(R1121-149; from the pilot\'s)'))
     s = s.replace('story/voice/names.md (White\'s forms of the names)', 'story/voice/names.md (White\'s forms of every name in the book: use his usual form; never a form from another translation; where it says "none in White", use its proposal)')
     s = s.replace('Running that one command is the only command you may run.', 'Running that one command is the only command you may run: no other command, no script, no python. Make every change with your editing tool.')
+    import re as _re
+    s = _re.sub(r'Keep to the texture in the rules: measure with\n.*?\n.*?may run[^\n]*\n', 'Keep to the texture in the rules and avoid every word in story/voice/banned.txt that is narration. Run no command at all: the main session measures the draft with tools/tells.py after you finish.\n', s, flags=_re.S)
+    s = s.replace('- the word count and the tells.py line;', '- the word count, estimated;').replace('marked as the French marks it.', 'marked (1), (2) in the order of the French notes.')
+    assert 'tells.py line' not in s and 'measure with' not in s, 'render prompt tells'
     assert '05600' not in s and 'LVI' not in s, 'render prompt'
     (d / 'prompt-render.md').write_text(s, encoding='utf-8')
 subprocess.run(['python3', T + '/make_critics.py', str(nn), str(draft), str(d)], check=True, capture_output=True)

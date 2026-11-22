@@ -281,3 +281,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.15 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.16 facts 1: 3, patched: "indépendance" twice (summary, ¶19), and "révolte des cipayes" back to "revolt" (White's "mutiny" takes the British side; Verne's narration treats it as a rising). Facts 2 runs.
 - 2026-11-21 III.15 omission: 0. III.15 waits for voice.
+- 2026-11-21 III.16 facts 2: 0. The omission critic runs.
+- 2026-11-21 III.16 omission: 1 ("noblement"), patched. Voice on III.13, III.15, III.16 runs.

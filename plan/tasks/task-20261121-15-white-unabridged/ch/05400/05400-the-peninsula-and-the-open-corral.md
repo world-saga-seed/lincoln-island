@@ -120,7 +120,7 @@ The wagon came out of the wood and began to roll noiselessly towards the palisad
 
 The colonists were ready to fire. Jup, by Pencroff’s order, kept behind. Neb led Top in a leash, so that he should not spring forward.
 
-The clearing soon appeared. It was deserted. Without hesitating, the little band moved towards the enclosure. In a short space of time the dangerous zone was crossed. Not a shot had been fired. When the wagon had reached the palisade, it stopped. Neb remained at the onaggas’ heads to hold them in. The engineer, the reporter, Herbert, and Pencroff then went towards the gate, in order to see whether it was barricaded within—
+The clearing soon appeared, and it was deserted. Without hesitating, the little band moved towards the enclosure. In a short space of time the dangerous zone was crossed, and not a shot had been fired. When the wagon had reached the palisade, it stopped. Neb remained at the onaggas’ heads to hold them in. The engineer, the reporter, Herbert, and Pencroff then went towards the gate, in order to see whether it was barricaded within—
 
 One of the leaves was open!
 

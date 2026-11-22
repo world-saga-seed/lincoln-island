@@ -96,7 +96,7 @@ And, in fact, in many places they could make out the more or less recent passage
 
 The engineer had recommended his companions to abstain from hunting. The reports of firearms might have given the alarm to the convicts, who were perhaps prowling in the forest. Moreover, the hunters would necessarily have been drawn to some distance from the cart, and it was strictly forbidden to walk alone.
 
-In the second part of the day, about six miles from Granite House, the way became rather difficult. In order to pass certain thickets it was necessary to fell trees and make a road. Before entering upon them, Smith took care to send Top and Jup into these thick coppices, and they conscientiously performed their office; and when the dog and the orang came back without having signalled anything, it was because there was nothing to fear, either on the part of the convicts or on the part of wild beasts, two sorts of individuals of the animal kingdom whom their ferocious instincts placed on the same level.
+In the second part of the day, about six miles from Granite House, the way became rather difficult. In order to pass certain thickets it was necessary to fell trees and make a road. Before entering upon them, Smith took care to send Top and Jup into these thick coppices, and they conscientiously performed their office. When the dog and the orang came back without having signalled anything, it was because there was nothing to fear, either on the part of the convicts or on the part of wild beasts, two sorts of individuals of the animal kingdom whom their ferocious instincts placed on the same level.
 
 On the evening of this first day the colonists camped about nine miles from Granite House, on the bank of a little tributary of the Mercy, of whose existence they had been ignorant, and which must belong to the hydrographic system to which this soil owed its astonishing fertility.
 
@@ -108,7 +108,7 @@ For the rest, there were scarcely a few hours of night. The darkness was due rat
 
 The night passed without incident, and the next day, the 16th of February, the march, slow rather than toilsome, was resumed across the forest.
 
-That day they could not cover more than six miles, for at every instant it was necessary to clear a road with the axe. Like true “settlers,” the colonists spared the large and fine trees, the felling of which would besides have cost them enormous labor, and they sacrificed the small ones; but the result was that the road took a direction far from straight, and was lengthened by numerous windings.
+That day they could not cover more than six miles, for at every instant it was necessary to clear a road with the axe. Like true “settlers,” the colonists spared the large and fine trees, the felling of which would besides have cost them enormous labor, and they sacrificed the small ones. But the result was that the road took a direction far from straight, and was lengthened by numerous windings.
 
 During this day Herbert discovered new kinds of trees, the presence of which had not yet been noted in the island, such as tree-ferns, with drooping fronds, which seemed to spread out like the waters of a basin, and carob-trees, the long pods of which the onaggas browsed greedily, and which furnished a sugary pulp of excellent taste. There, too, the colonists found again some magnificent kauris, standing in groups, the cylindrical trunks of which, crowned with a cone of verdure, rose to a height of two hundred feet. These were indeed those king-trees of New Zealand, as celebrated as the cedars of Lebanon.
 

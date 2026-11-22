@@ -18,7 +18,7 @@ The lad then fell into a sort of feverish sleep, and the reporter and Pencroff r
 
 Meanwhile, Smith told Neb what had happened at the corral, and Neb related to his master the events of which the plateau had just been the theatre.
 
-It was only during the preceding night that the convicts had shown themselves at the edge of the forest, near Glycerine Creek. Neb, who was watching near the poultry-yard, had not hesitated to fire at one of these pirates, who was about to cross the stream; but in that rather dark night he had been unable to tell whether the wretch had been hit. At any rate, it had not been enough to drive off the band, and Neb had only had time to get back up to Granite House, where at least he found himself in safety.
+It was only during the preceding night that the convicts had shown themselves at the edge of the forest, near Glycerine Creek. Neb, who was watching near the poultry-yard, had not hesitated to fire at one of these pirates, who was about to cross the stream. But in that rather dark night he had been unable to tell whether the wretch had been hit. At any rate, it had not been enough to drive off the band, and Neb had only had time to get back up to Granite House, where at least he found himself in safety.
 
 But what was he to do then? How could he prevent the devastation with which the convicts threatened the plateau? Had Neb any means of warning his master? And besides, in what situation were the inmates of the corral themselves?
 
@@ -58,7 +58,7 @@ In the second, they must have regained their encampment, to wait there for some 
 
 There would therefore be reason to forestall them; but every enterprise intended to rid the island of them was still subordinate to Herbert's condition. Indeed, Smith would have need of all his forces, and no one could, at that moment, leave Granite House.
 
-The engineer and Neb arrived on the plateau. It was a scene of desolation. The fields had been trampled down. The ears of the harvest, which was about to be gathered, lay upon the ground. The other plantations had suffered no less. The kitchen garden was turned upside down. Happily, Granite House possessed a reserve of seed which would allow these damages to be repaired.
+The engineer and Neb arrived on the plateau. It was a scene of desolation. The fields had been trampled down, and the ears of the harvest, which was about to be gathered, lay upon the ground; the other plantations had suffered no less, and the kitchen garden was turned upside down. Happily, Granite House possessed a reserve of seed which would allow these damages to be repaired.
 
 As to the mill and the buildings of the poultry-yard, and the stable of the onaggas, the fire had destroyed everything.
 
@@ -72,7 +72,7 @@ In fact, Herbert remained in a sort of almost continual drowsiness, and some sym
 
 Spilett recognized this on the 6th of December. The poor boy, whose fingers, nose, and ears became extremely pale, was first seized with slight shiverings, with horripilations, with tremblings. His pulse was small and irregular, his skin dry, his thirst intense. This stage was soon followed by a stage of heat; his face grew flushed, his skin reddened, his pulse quickened; then an abundant sweat broke out, after which the fever appeared to diminish. The fit had lasted about five hours.
 
-Spilett had not left Herbert, who was now seized with an intermittent fever, that was only too certain; and this fever must at any cost be cut short before it became more serious.
+Spilett had not left Herbert, who was now seized with an intermittent fever, that was only too certain. And this fever must at any cost be cut short before it became more serious.
 
 "And to cut it short," said Spilett to Smith, "we need a febrifuge."
 

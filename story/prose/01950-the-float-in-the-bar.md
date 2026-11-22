@@ -14,7 +14,7 @@ Off the mouth of the Mercy, on the coast side of this gut, a bar of sand lay bar
 
 Something lay on the bar, half buried, and it was round.
 
-The sailor stood still. He knew stones, as every man knows them who has walked a beach at low water: the sea rounds them, it is true, but it does not make them so regular as that, nor leave them sitting up in the sand like the top of a buoy on a mud-bank. The thing might measure a foot across, and what it was, at that distance, was more than he could say; but it was the wrong shape for a stone, and that was enough to hold him there a full minute.
+The sailor stood still: he knew stones, as every man knows them who has walked a beach at low water: the sea rounds them, it is true, but it does not make them so regular as that, nor leave them sitting up in the sand like the top of a buoy on a mud-bank. The thing might measure a foot across, and what it was, at that distance, was more than he could say; but it was the wrong shape for a stone, and that was enough to hold him there a full minute.
 
 He would have gone out to it then and there; but the tide was on the turn. He could hear the current quicken in the gut, and he had crossed that channel on the first day, and knew what it was worth. A man alone on the bar, with the sea coming in on either hand, would have no one to give him a rope. Pencroff was bold, but he was a seaman, and he did not go out alone.
 
@@ -74,15 +74,13 @@ He rapped the glass with his knuckle, where the shells had broken away.
 
 “Glass! I have put in at many good ports, my boy, and I have never seen the like.”
 
-The sailor might well say so.
-
-Only in late years had fishermen begun to buoy their great nets with globes of blown glass, which do not drink the water as cork does, and neither rot nor sink. They were new still, and rare; no fishery of the Pacific had yet taken them up, and the fishermen of those seas buoyed their nets with cork and wood.
+The sailor might well say so, for only in late years had fishermen begun to buoy their great nets with globes of blown glass, which do not drink the water as cork does, and neither rot nor sink. They were new still, and rare; no fishery of the Pacific had yet taken them up, and the fishermen of those seas buoyed their nets with cork and wood.
 
 The sea opens strange roads to floating bodies. In the South Pacific the waters turn in a great round: up the coasts of Chile and Peru, westward below the line, then south, and back to the east under the westerly winds; and whatever falls into that round, a spar, a cask, a float, it carries for months and for years.
 
 Herbert picked up a stone from the bar and began to knock away the crust, a little at a time, holding his hand very lightly, for fear of cracking the glass. Pencroff, on his knees, held the ball steady with both hands, and kept one eye upon the water.
 
-And while the lad worked, the sailor made his reckoning. A foot of good glass! At that moment Granite House sat behind its shutters, in the light of the fire, because the engineer had not yet had the time to make glass for its windows. Here was glass already made. What Mr. Smith could do with it Pencroff could only guess; but he had seen the lens he made of two watch glasses, and he was sure that he could make a window of a ball. And failing a window, it would be the finest float for his lines that a fisherman ever had; but he kept all this to himself.
+And while the lad worked, the sailor made his reckoning. A foot of good glass! At that moment Granite House sat behind its shutters, in the light of the fire, because the engineer had not yet had the time to make glass for its windows, and here was glass already made. What Mr. Smith could do with it Pencroff could only guess; but he had seen the lens he made of two watch glasses, and he was sure that he could make a window of a ball. And failing a window, it would be the finest float for his lines that a fisherman ever had; but he kept all this to himself.
 
 The shells came away more easily than Herbert had feared, and he looked at them closely as they fell.
 
@@ -104,11 +102,11 @@ The sailor looked out over the bay, where the rain hid the horizon.
 
 “Far off is a long word, my boy,” said Pencroff, after a moment. “Ships go a long way.”
 
-Herbert went on with his stone. He was working now lower down, close to the sand, on the side toward the gut, and there, under the crust, his fingers felt a ridge in the glass. He cleared it with care; it was a raised edge, curving, the rim of a round seal about a palm across, which had been moulded in the glass itself. But the greater part of the seal lay below, toward the sand, and only a piece of it could be seen. Along the inside of this rim there ran letters, capitals, standing out from the glass.
+Herbert went on with his stone, working now lower down, close to the sand, on the side toward the gut, and there, under the crust, his fingers felt a ridge in the glass. He cleared it with care; it was a raised edge, curving, the rim of a round seal about a palm across, which had been moulded in the glass itself. But the greater part of the seal lay below, toward the sand, and only a piece of it could be seen. Along the inside of this rim there ran letters, capitals, standing out from the glass.
 
 “Letters!” cried Pencroff.
 
-Herbert scraped again. The first was a B. After it came a place where the crust held fast and would not come away under the stone. Then an L; then an I. Beyond the I, the ring went down into the sand.
+Herbert scraped again: the first was a B. After it came a place where the crust held fast and would not come away under the stone, then an L; then an I. Beyond the I, the ring went down into the sand.
 
 “Can you read them, my boy?”
 
@@ -118,25 +116,23 @@ Herbert looked at them a long while, his stone in his hand.
 
 The two bent over these three letters, the lad trying the crust again between the B and the L, the sailor with his eyes upon them; and Pencroff, who had looked once at the gut and judged they had the half hour yet, bent over them again. The hour of low water went by in this way.
 
-A sound made them look up.
-
-The squall was on them. It came out of the east, across the bay, a grey wall of rain and wind. The sea rose with it. The flood had turned while they knelt there, and now the flood and the squall came in together. A wave ran up the bar and broke over Pencroff’s knees.
+A sound made them look up: the squall was on them. It came out of the east, across the bay, a grey wall of rain and wind, and the sea rose with it. The flood had turned while they knelt there, and now the flood and the squall came in together. A wave ran up the bar and broke over Pencroff’s knees.
 
 “Back!” cried the sailor.
 
-Herbert rose, and fell again. His foot had gone through the old meshes where they lay under the sand, and the sand had closed upon it. The sailor tore the rotten meshes away with his hands, but the sand held the foot fast, and ran back as fast as he dug. A sea broke over them both. Then Pencroff dug with the blade of his knife, and at last drew the foot free.
+Herbert rose, and fell again, for his foot had gone through the old meshes where they lay under the sand, and the sand had closed upon it. The sailor tore the rotten meshes away with his hands, but the sand held the foot fast, and ran back as fast as he dug. A sea broke over them both, and then Pencroff dug with the blade of his knife, and at last drew the foot free.
 
-They could not stay. Already the sea was running over the sands they had crossed dry an hour before. The water was at their knees, then above them. Pencroff took the lad by the arm. They waded, ran, waded again. The wind tore at them. Behind them the waves broke upon the bar, and when Pencroff turned his head he could still see the float, dark in the white of the surf.
+They could not stay, for already the sea was running over the sands they had crossed dry an hour before, and the water was at their knees, then above them. Pencroff took the lad by the arm; they waded, ran, waded again, while the wind tore at them. Behind them the waves broke upon the bar, and when Pencroff turned his head he could still see the float, dark in the white of the surf.
 
-They reached the beach. They went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. Under the wall Herbert coughed up the sea water he had swallowed, and laughed. Pencroff did not laugh. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
+They reached the beach, and went up it to the granite wall and stood close under it, near the foot of the ladder, out of the worst of the wind. Under the wall Herbert coughed up the sea water he had swallowed, and laughed. Pencroff did not laugh. From there they could still see the bar, or the place where the bar had been, and the float upon it, now hidden, now showing between two seas.
 
-The squall held. The sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it. It rocked under each sea. The cord upon which the sailor’s knife had worked, if it was not cut through, had been weakened. At last it gave way. The backwash drew the freed ball off the bar into the gut, and the flood in the channel carried it in toward the mouth of the river.
+The squall held, and the sea came in heavier with every minute, and the rain drove along the face of the wall. The sand they had dug from about the ball no longer held it. It rocked under each sea. The cord upon which the sailor’s knife had worked, if it was not cut through, had been weakened, and at last it gave way. The backwash drew the freed ball off the bar into the gut, and the flood in the channel carried it in toward the mouth of the river.
 
 Then, for a moment, the clouds broke under the squall. A pale light fell across the channel. Out on the rocks at the river’s mouth, in the spray, something flashed, once, and flew apart.
 
 Then nothing.
 
-Pencroff looked at the bar. The float was gone from it. He looked again at the river’s mouth, and searched the rocks there from one end to the other, and he saw only the spray. Neither of them spoke. They both knew that glass thrown upon those rocks by such a sea was in pieces. Where the bar had been there was only broken water, and the flood ran over it.
+Pencroff looked at the bar: the float was gone from it. He looked again at the river’s mouth, and searched the rocks there from one end to the other, and he saw only the spray. Neither of them spoke. They both knew that glass thrown upon those rocks by such a sea was in pieces. Where the bar had been there was only broken water, and the flood ran over it.
 
 Toward one o’clock the squall eased; the flood had long since covered the bar. The two companions went back for their shoes.
 

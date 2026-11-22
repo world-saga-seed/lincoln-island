@@ -16,7 +16,7 @@ It was made in two stages.
 
 The map after the forewords shows the restoration. It has one band for each chapter, as long as Verne’s French. The band darkens where words White cut were put back, and a mark above it stands for each place a patch changed what he said. A hatched band is a chapter written anew. It is drawn from the patches themselves, about three thousand two hundred of them.
 
-**Then we vandalized it.** That is our word for it. We added a scholar, a member of an Iowa county historical society, who writes the second foreword and footnotes the places where the story disagrees with itself, settling what he can and explaining the rest away. And we added a chapter, XIX bis, “The Float in the Bar”, which Verne never wrote. It is set between his chapters XIX and XX, in the first days of June 1865.
+**Then we vandalized it.** That is our word for it. We added a scholar, a member of an Iowa county historical society, who writes the second foreword and footnotes the places where the story disagrees with itself and explains them away where the papers let him, leaving the rest open. And we added a chapter, XIX bis, “The Float in the Bar”, which Verne never wrote. It is set between his chapters XIX and XX, in the first days of June 1865.
 
 **Taking the vandalism out.** The book is kept as plain files, and anyone may fork it. Every addition lives in its own files, so deleting them is all it takes, and the book builds without them:
 

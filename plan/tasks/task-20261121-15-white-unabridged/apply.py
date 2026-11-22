@@ -19,4 +19,13 @@ for r in csv.DictReader(open(tsv, encoding='utf-8'), delimiter='\t', quoting=csv
     text = text.replace(r['old'], r['new'].replace('¶', '\n\n'))
     print('ok', r['id'])
 if bad: sys.exit(1)
+# Footnotes: "{fn: text}" in a patch becomes "(k)" there, and "(k) text" as a paragraph after its own (as 01900 sets them).
+out_paras, k = [], 0
+for para in text.split('\n\n'):
+    notes = []
+    def sub(m):
+        global k
+        k += 1; notes.append('(%d) %s' % (k, m.group(1).strip())); return '(%d)' % k
+    out_paras.append(re.sub(r'\{fn:([^}]*)\}', sub, para)); out_paras += notes
+text = '\n\n'.join(out_paras)
 open(out, 'w', encoding='utf-8').write('# %s\n\n%s\n\n%s\n' % (title, '\n\n'.join(head), text))

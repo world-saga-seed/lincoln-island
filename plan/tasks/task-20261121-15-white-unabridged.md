@@ -53,3 +53,4 @@ Lessons: (1) the phase 3 lists undercount White's departures by a factor of abou
 ## The loop, per chapter
 
 Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on the findings → apply → facts critic 2 → the last findings patched by the main session → omission critic → voice critic by threes → into `story/prose/` as final. Re-render: drafter (Opus, a bundle by `build_bundle.py`, the names list) → facts → omission → voice → final.
+- 2026-11-21 I.1: patcher v2, 75 patches (16 listed, 57 new, 2 slips); all apply. Verne's footnotes: `{fn: …}` in a patch becomes "(1)" and a note paragraph after, as 01900 sets them (apply.py; patcher v2 told). "metres" follows White's one "kilometres". Facts critic 1 runs.

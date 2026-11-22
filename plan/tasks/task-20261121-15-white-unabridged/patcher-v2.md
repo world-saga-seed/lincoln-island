@@ -23,6 +23,6 @@ Write your patches to {OUT}, one per line, tab-separated, with a header line "id
 - id: P1, P2, … in the order they fall in the chapter;
 - discord: the list's number, as "{NN}.3", or "new" for a departure the list lacks, or "slip";
 - old: White's exact words to replace, copied unbroken from texts/white-1876/{NN}.md without the "¶N " prefix, with the file's own quotation marks and apostrophes; long enough to occur only once in the chapter; no two olds may overlap;
-- new: the replacement. Use "¶" for a paragraph break inside new. Never a tab or a line break inside a field.
+- new: the replacement. Use "¶" for a paragraph break inside new. White prints none of Verne's footnotes: restore each one by writing {fn: the note's English} in new, right after the word the French marks; it becomes "(1)" there and the note goes after the paragraph, as the renders set them. Never a tab or a line break inside a field.
 
 Finish with a short report (your final message): the number of patches (from the list, new, slips); each listed discord you did not patch, and why; every French phrase you were unsure how to render.

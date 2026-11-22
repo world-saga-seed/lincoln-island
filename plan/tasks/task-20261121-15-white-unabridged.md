@@ -193,3 +193,8 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.15 facts 1: 2; "couverte par les roches" made "sheltered"; the leftover "Good Luck" already patched (R1121-155). Facts 2 runs.
 - 2026-11-21 II.15 facts 2: 4, all patched ("domination", "douceur", "sur la grève", the added "curiously"). The omission critic runs.
 - 2026-11-21 II.15 omission: 2 ("c'est au point", "d'ailleurs"), patched. Voice on II.13, II.14, II.15 runs.
+- 2026-11-21 II.16: rendered; 3,858 words against 4,045; 0 banned; 16 knots, for voice. Verne's "Décembre" (¶37) made White's "November" and both slips entered in the errata (the month; the miller's sextuple rule). Facts 1 runs.
+- 2026-11-21 II.16 facts 1: 1, the month, the main session's errata call; left. Facts 2 runs.
+- 2026-11-21 II.16 facts 2: 1, the month again; left. The omission critic runs.
+- 2026-11-21 II.16 omission: 0. II.16 waits for voice.
+- 2026-11-21 Voice on II.13, II.14, II.15: no break; one seam mended. **II.13, II.14, II.15 final.**

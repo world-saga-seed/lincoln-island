@@ -74,3 +74,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.4 facts 2: 2 ("reconnut … à basse mer"; the long fringe of whimsical rocks), patched. The omission critic runs.
 - 2026-11-21 I.7 facts 1: 3 ("bois sec", "se laissait faire", "devaient souffrir"), patched. Facts 2 runs.
 - 2026-11-21 I.4 omission: 0. I.4 waits for voice. I.8's patcher runs.
+- 2026-11-21 I.7 facts 2: 6 small, patched (the ebbing sea; eyes opened again; "par excellence"; the three named; Herbert's question; the cut face). The omission critic runs.
+- 2026-11-21 I.7 omission: 1 ("des premières roches, au large du littoral"), patched. The voice critic for I.3, I.4, I.7 runs.

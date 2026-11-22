@@ -89,3 +89,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.10 facts 2: 0; of its set-asides, the four named laughers restored (main session); "to dine" at noon kept (the period's midday dinner). The omission critic runs.
 - 2026-11-21 I.10 omission: 0. The voice critic for I.8, I.9, I.10 runs.
 - 2026-11-21 Voice on I.8, I.9, I.10: no break; three print slips mended in I.9. **I.8, I.9, I.10 final.**
+- 2026-11-21 I.11: patcher v2, 87 patches (16 listed, 60 new, 11 slips); all apply. "Cochalot Point" kept as White's name (names.md, 3 times); "trajopan" mended (White prints "tragopan" twice). Facts 1 on I.11 and I.12's patcher run.
+- 2026-11-21 I.11 facts 1: 7; five patched (the telescopes under his brows; "animal"; "s'échancrait"; "cap"; "admise"). Kept: "Cochalot Point" (White's name, R1121-146) and "cue" (White's word, the period's spelling of queue). Facts 2 runs.
+- 2026-11-21 I.11 facts 2: 4; three patched ("périmètre", "devait", "déjà reconnue"); "Cochalot" kept (White's form, as before). The omission critic runs.
+- 2026-11-21 I.11 omission: 2 ("à mesure", "précis"), patched. I.11 waits for voice.

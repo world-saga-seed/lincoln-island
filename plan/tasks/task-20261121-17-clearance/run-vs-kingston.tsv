@@ -1,0 +1,15 @@
+file	words	covered	pct	runs	longest
+opus-01900.md	3244	503	15.5	49	17
+gemini-01900.md	3266	509	15.6	50	21
+01900-the-facade-the-ladder-and-the-warren.md	3313	824	24.9	74	27
+01900-the-facade-the-ladder-and-the-warren.md	3292	813	24.7	73	27
+opus-02000.md	2643	635	24.0	54	37
+gemini-02000.md	2697	689	25.5	58	32
+02000-candles-and-the-grain-of-wheat.md	2767	716	25.9	59	36
+02000-candles-and-the-grain-of-wheat.md	2766	730	26.4	61	36
+opus-01950.md	3167	0	0.0	0	0
+gemini-01950.md	3778	0	0.0	0	0
+01950-the-float-in-the-bar.md	2736	0	0.0	0	0
+01950-after-character-check.md	3197	8	0.3	1	8
+01950-after-read-aloud.md	3263	8	0.2	1	8
+01950-the-float-in-the-bar.md	3195	8	0.3	1	8

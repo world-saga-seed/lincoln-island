@@ -114,3 +114,10 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.15 facts 2: 1 ("Low Archipelago": White's name, kept). The omission critic runs.
 - 2026-11-21 I.15 omission: 0. I.16 omission: 3 ("en réalité", "en cet endroit", "en somme"), patched. The voice critic for I.14, I.15, I.16 and I.17's patcher run.
 - 2026-11-21 Voice on I.14, I.15, I.16: no break; two long sentences of the render split. **I.14, I.15, I.16 final.**
+- 2026-11-21 I.17: patcher v2, 69 patches (20 carrying all 25 listed, 42 new, 7 slips). Facts 1 runs.
+- 2026-11-21 I.17 facts 1: 8, all patched ("le courant indicateur"; "n'insistons pas"; "rive"; "acharnement"; varechs and goëmons; "en fin de compte"; the waterfall White added; "le but final"). Facts 2 runs.
+- 2026-11-21 I.18: patcher v2, 73 patches (15 listed, 52 new, 6 slips); all apply; Nab named (R1121-150); White's "pulp" read as "poulp". Facts 1 runs.
+- 2026-11-21 I.18 facts 1: 2 ("assez approximativement", "romane"), patched. Facts 2 runs.
+- 2026-11-21 I.17 facts 2: 3, patched ("ce granit"; "le but à atteindre" as its own sentence; "cadre" as frame, three times). The omission critic runs.
+- 2026-11-21 I.18 facts 2: 3 ("faite au lac", "c'est-à-dire", "plus frais"), patched. The omission critic runs.
+- 2026-11-21 I.17 omission: 1 ("ensuite"); I.18 omission: 1 ("C'est ce qui fut fait"); both patched. Voice on I.17, I.18 (a batch of two) and I.21's patcher run.

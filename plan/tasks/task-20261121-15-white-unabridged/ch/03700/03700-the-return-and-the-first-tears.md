@@ -24,7 +24,7 @@ The engineer and Neb were on the beach at the moment the sloop arrived, and befo
 
 The engineer was thereupon informed of everything that had happened during the voyage. They told him how the search had been conducted, how the only dwelling on the islet had long been abandoned, and how, at last, they had captured a castaway who seemed no longer to belong to the human species.
 
-“And,” added Pencroff, “I don’t know whether we have done right in bringing him here.”
+“And,” added Pencroff, “it is so far gone that I don’t know whether we have done right in bringing him here.”
 
 “Most certainly you have done right, Pencroff,” replied the engineer quickly.
 
@@ -52,7 +52,7 @@ Then, to Smith’s great pity and Neb’s wonderment, the castaway of Tabor Isla
 
 Smith regarded him attentively. To judge from his appearance, this miserable creature had nothing of the human left in him; but Smith caught in his glance, as the reporter had done, an almost imperceptible gleam of intelligence.
 
-It was decided that the abandoned man, or rather the Unknown, for so his new companions henceforth called him, should stay in one of the rooms of Granite House, from which he could not escape. He made no resistance to being conducted there, and with good care they might, perhaps, hope that some day he would prove one companion more to the colonists of Lincoln Island.
+It was decided that the abandoned man, or rather the Unknown, for so his new companions henceforth called him, should stay in one of the rooms of Granite House, from which, besides, he could not escape. He made no resistance to being conducted there, and with good care they might, perhaps, hope that some day he would prove one companion more to the colonists of Lincoln Island.
 
 Neb hastened to prepare breakfast, for the reporter, Herbert, and Pencroff were dying of hunger, and during the meal Smith made them relate in detail every incident of the cruise. He agreed with them in thinking that the name of the Britannia gave them reason to believe that the Unknown was either English or American; and, moreover, through that shaggy beard, and under the thicket which served him for hair, the engineer thought he recognized the features characteristic of an Anglo-Saxon.
 

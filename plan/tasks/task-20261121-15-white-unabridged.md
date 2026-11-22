@@ -255,3 +255,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.9 facts 1: 0. Facts 2 runs.
 - 2026-11-21 III.9 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.9 omission: 0. Voice on III.7, III.8, III.9 runs.
+- 2026-11-21 III.10: rendered; 2,533 words against 2,654; 0 banned; title given White's names; "n'aurait pas trop de toutes ses forces" made "would have need of all his forces". Facts 1 runs.
+- 2026-11-21 III.10 facts 1: 0. Facts 2 runs.
+- 2026-11-21 III.10 facts 2: 0. The omission critic runs.
+- 2026-11-21 III.10 omission: 0. III.10 waits for voice.

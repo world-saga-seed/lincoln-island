@@ -104,6 +104,6 @@ To this domain the colonists invited to labor—that is, to fortune and to happi
 
 Here, under the skillful hand of the engineer and his companions, everything prospered. Not one of the former colonists of Lincoln Island was missing, for they had sworn always to live together, Neb wherever his master was, Ayrton ready to sacrifice himself on every occasion, Pencroff more a farmer than he had ever been a sailor, Herbert who finished his studies under Smith’s direction, Spilett himself, who founded the New Lincoln Herald, which was the best informed journal in the whole world.
 
-Here Smith and his companions often received visits from Lord and Lady Glenarvan, from Captain John Mangles and his wife, sister to Robert Grant, from Robert Grant himself, from Major MacNabbs, from all those who had been mixed up in the double history of Captain Grant and Captain Nemo.
+Here Smith and his companions often received visits from Lord and Lady Glenarvan, from Captain John Mangles and his wife, sister to Robert Grant, from Robert Grant himself, from Major MacNabbs, from all those who had been concerned in the double history of Captain Grant and Captain Nemo.
 
 Here, finally, all were happy, united in the present as they had been in the past; but never did they forget that island upon which they had arrived poor and naked, that island which, for four years, had sufficed for all their needs, and of which all that remained was a morsel of granite, beaten by the waves of the Pacific, the tomb of him who was Captain Nemo!

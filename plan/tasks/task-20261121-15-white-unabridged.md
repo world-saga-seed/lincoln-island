@@ -301,3 +301,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 Voice 59-60-61: 11 findings, no break; two mended (one spelling, one seam); the rest White's or Verne's. III.17, III.18, III.19 final.
 - 2026-11-21 III.20 facts 2: 3, all apparatus: White's end line had been pulled into the heading by apply.py (fixed: an hd line after the text is not the heading; every patched chapter rebuilt, none changed but 06200); White's "THE END." taken out with Verne's part-end line, as the build gives the ends (overturnable). The omission critic runs.
 - 2026-11-21 III.20 omission: 0. Voice on III.19 and III.20 runs (III.19 already final; read as III.20's neighbour).
+- 2026-11-21 Voice 61-62: 13 findings, no break; one mended ("concerned in"); the rest Verne's. III.20 final. All 62 of Verne's chapters are final in story/prose/, with 01950: White made unabridged is done, pending the author's word on White's glossary.

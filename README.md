@@ -18,7 +18,11 @@ Read the chapters in order in [story/prose/](story/prose/), from [00100, "The Ba
 
 ## The builds
 
-Phase 12 makes two books, each as an EPUB and a Kobo kepub, under one name each, overwritten at every build: `build/lincoln-island.epub` is the novel, and `build/lincoln-island-run.epub` is the run's book, with White's chapters, the controls, the drafts and the cards and ledger alongside.
+Two books, each as an EPUB and a Kobo kepub, under one name each, overwritten at every build: `build/lincoln-island` is the novel (the forewords, the map, the chapters with the scholar's notes, White's glossary), made by `python3 plan/tasks/task-20261121-16-the-book/build_book.py build/lincoln-island`; `build/lincoln-island-run` is the run's book (XIX, XIX bis and XX at every stage, the controls, the cards, the ledger and the blind scores), made by `build_run.py` beside it. `build/` is not tracked.
+
+## Clearance
+
+Every source is in the public domain: Verne's French (Hetzel, 1875, from fr.wikisource), White's English (1876, from Project Gutenberg), and, for measurement only, Kingston's (1875). The working texts in `texts/` carry none of Gutenberg's or Wikisource's own additions. The raw downloads are not in the public repository; each source's `SOURCE.md` and checksums say where to fetch them. Every published text was measured for runs of eight or more words shared with White and with Kingston (`tools/overlap.py`; the report is [the clearance task](plan/tasks/task-20261121-17-clearance.md)): the chapters written anew lean on Kingston's translation, about three words in ten. **No modern translation was checked.** Due diligence, not a legal opinion.
 
 ## How it was made
 

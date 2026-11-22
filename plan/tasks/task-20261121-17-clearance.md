@@ -16,6 +16,8 @@
 | *Vingt mille lieues*, Hetzel 1870 (fr.wikisource) | public domain; Wikisource additions CC BY-SA | carded facts only | `existing/vingt-mille-hetzel-1870/raw/*.html`, whole |
 | Webster 1864 (Internet Archive OCR) | public domain | none (a word check) | `existing/webster-1864/`, the OCR whole |
 
+**For the public repository** (R1121-180): the raw files listed in `release-exclude.txt` (116 paths under `existing/`) stay out; each `SOURCE.md` and `SHA256SUMS` stays. The author removes them from the history at the close; this session leaves the history alone.
+
 No derived or story file carries Gutenberg's wrapper, Wolcott's note or Wikisource's additions (grep of every tracked file outside `existing/`). The raw files in `existing/` do.
 
 ## (2) Overlap, runs of 8+ words (`tools/overlap.py`)
@@ -29,6 +31,8 @@ No derived or story file carries Gutenberg's wrapper, Wolcott's note or Wikisour
 | *For scale:* White's own text, against Kingston | 170,584 | — | 7.1% (6.1% in the rendered chapters' span, 7.6% in the patched) |
 | The controls, XIX and XX (Opus, Gemini) | | 4.7–7.6% | 15.5–25.5% |
 | Ours, XIX and XX (v1 and final) | | 4.6–5.5% | 24.7–26.4% |
+
+**Modern translations:** none checked (R1121-180); the README says so. If the author places one outside the repo, the overlap is run against it and every long run reviewed.
 
 Per-file tables: `novel-vs-white.tsv`, `novel-vs-kingston.tsv`, `white-vs-kingston.tsv`, `run-vs-white.tsv`, `run-vs-kingston.tsv`.
 

@@ -78,3 +78,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.7 omission: 1 ("des premières roches, au large du littoral"), patched. The voice critic for I.3, I.4, I.7 runs.
 - 2026-11-21 I.8: patcher v2, 67 patches (11 listed, 47 new, 9 slips), and "regardait sans voir" (main session). Facts 1 runs.
 - 2026-11-21 Voice on I.3, I.4, I.7: no break; two patch seams mended. **I.3, I.4, I.7 final.** I.8 facts 1: 4 ("rachitiques"; Smith's hallucination; the litter, not a carriage; the cut face), patched. Next: I.8 facts 2, and I.9's patcher.
+- 2026-11-21 I.8 facts 2: 5; four patched ("à quoi avait tenu la vie"; "accidents de terrain … se grava"; the cut face; the islet); "nord-nord" (Verne's truncation) left as White's "due north". The omission critic runs.
+- 2026-11-21 I.8 omission: 1 ("trois"), patched. I.8 waits for voice.

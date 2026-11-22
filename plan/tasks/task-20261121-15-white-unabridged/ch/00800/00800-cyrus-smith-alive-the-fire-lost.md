@@ -30,7 +30,7 @@ But the explanation of this circumstance would come later; when Cyrus Smith coul
 
 “Yes! dead!” answered Neb. “And if Top had not found you, if you had not come, I would have buried my master and died beside him!”
 
-The engineer had had a narrow escape!
+It will be seen on what the life of Cyrus Smith had hung!
 
 Then Neb told them what had happened. The day before, after having left the Chimneys at day-break, he had followed along the coast in a direction due north, until he reached that part of the beach which he had already visited. There, though, as he said, without hope of success, he searched the shore, the rocks, the sand for the slightest marks that could guide him, examining most carefully that part which was above high-water mark, as below that point the ebb and flow of the tide would have effaced all traces. He no longer hoped to find his master living. It was the discovery of the body which he sought, that he might bury it with his own hands. He searched a long time, without success. It seemed as if nothing human had ever been upon that desolate shore. Of the millions of shell-fish lying out of reach of the tide, not a shell was broken. For a space of two or three hundred yards(1) there was no sign of a landing having ever been made there, either long ago or lately. The negro then decided to continue some miles further up the coast. It was possible that the currents had carried the body to some distant point. For Neb knew that a corpse, floating a little distance from a low shore, was almost certain, sooner or later, to be thrown upon the strand, and he was desirous to look upon his master one last time.
 
@@ -100,7 +100,7 @@ The engineer had just wakened from the sleep, or rather stupor, in which they ha
 
 “I think,” said the sailor, “that Mr. Smith can listen better after having taken some more of this tetra jelly,—it is really tetra, sir,” he continued, as he gave him some of the mixture, to which he had this time added some of the meat of the bird.
 
-Cyrus Smith chewed these bits of tetra, and the remainder was eaten by his companions, who were suffering from hunger, and who found the repast light enough.
+Cyrus Smith chewed these bits of tetra, and the remainder was eaten by his three companions, who were suffering from hunger, and who found the repast light enough.
 
 “Well,” said the sailor, “there are victuals waiting for us at the Chimneys, for you must know, Mr. Smith, that to the south of here we have a house with rooms and beds and fire-place, and in the pantry dozens of birds which our Herbert calls couroucous. Your litter is ready, and whenever you feel strong enough we will carry you to our house.”
 
@@ -158,11 +158,11 @@ Towards noon, Pencroff having asked Smith if he felt strong enough to be carried
 
 The litter was brought. The cross-branches had been covered with moss and long grass; and when Smith was laid upon it they walked towards the coast, Neb and the sailor carrying him.
 
-Eight miles had to be travelled, and as they could move but slowly, and might perhaps have to make frequent rests, it would take six hours or more to reach the Chimneys. The wind was still strong, but, fortunately, it had ceased raining. From his couch, the engineer, leaning upon his arm, observed the coast, especially the part opposite the sea. He examined it without comment, but undoubtedly the aspect of the country, its contour, its forests and diverse products were noted in his mind. But after two hours, fatigue overcame him, and he slept upon the litter.
+Eight miles had to be travelled, and as they could move but slowly, and might perhaps have to make frequent rests, it would take six hours or more to reach the Chimneys. The wind was still strong, but, fortunately, it had ceased raining. From his couch, the engineer, leaning upon his arm, observed the coast, especially the part opposite the sea. He examined it without comment, but undoubtedly the outline of the country, with its irregularities of ground, its forests and diverse products, was engraved on his mind. But after two hours, fatigue overcame him, and he slept upon the litter.
 
-At half-past 5 the little party reached the smooth face of rock, and soon after, were before the Chimneys. Stopping here, the litter was placed upon the sand without disturbing the slumber of the engineer.
+At half-past 5 the little party reached the cut face of the rock, and soon after, were before the Chimneys. Stopping here, the litter was placed upon the sand without disturbing the slumber of the engineer.
 
-Pencroff saw, to his extreme surprise, that the terrible storm of the day before had altered the aspect of the place. Considerable falls of rock had taken place. Great fragments were strewn over the sand, and a thick carpet of several kinds of seaweed covered all the shore. It was plain that the sea sweeping over the isle had reached to the base of the enormous granite curtain.
+Pencroff saw, to his extreme surprise, that the terrible storm of the day before had altered the aspect of the place. Considerable falls of rock had taken place. Great fragments were strewn over the sand, and a thick carpet of several kinds of seaweed covered all the shore. It was plain that the sea sweeping over the islet had reached to the base of the enormous granite curtain.
 
 Before the entrance to the Chimneys the ground had been violently torn up by the action of the waves. Pencroff, seized with a sudden presentiment, rushed into the corridor. Returning, a moment after, he stood motionless looking at his comrades.
 

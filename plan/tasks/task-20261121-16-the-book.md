@@ -12,3 +12,4 @@
 ## Log
 
 - 2026-11-21 R1121-162 to -166 on the ledger. Four questions to the author (the map's form, the note marks, the files, the sample). The map's data: 3,224 patches; of the 38 patched chapters' French paragraphs, 945 kept, 1,554 patched, 754 restored; 24 chapters rendered.
+- 2026-11-21 R1121-167 on the ledger (the author's answers). Map drawn per Part as SVG and PNG (`draw_map.py`), with the table in the build. Our foreword, the scholar's preface and the map page in `story/front/`; sample notes in `story/scholar/05800.md` and `01950.md` *(Proposal.)*. Builder `build_book.py`: endnotes linked both ways (epub), asides as pop-ups (kepub). Sample book (front matter, XIX bis, LVIII) built to `build/lincoln-island-sample.*`, well-formed; no epubcheck on this machine. Sent to the human's device. Open: 05800's note (b) points to notes on chapter XXXIX not yet written; the full inventory waits on the sample's verdict.

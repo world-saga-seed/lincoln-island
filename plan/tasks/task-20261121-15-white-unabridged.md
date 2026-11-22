@@ -284,3 +284,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.16 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.16 omission: 1 ("noblement"), patched. Voice on III.13, III.15, III.16 runs.
 - 2026-11-21 Voice 55-57-58: 7 findings, no break; four mended (one seam split, three tags joined); the rest Verne's. III.13, III.15, III.16 final.
+- 2026-11-21 III.17: patcher v2, 60 patches (18 listed, 38 new, 4 slips); all apply. Facts 1 runs.
+- 2026-11-21 III.17 facts 1: 2, patched in the summary ("amis d'un jour"; "le cercueil"). Facts 2 runs.
+- 2026-11-21 III.17 facts 2: 2, patched ("s'est modifiée"; "tout entier"). The omission critic runs.
+- 2026-11-21 III.17 omission: 0. III.17 waits for voice.

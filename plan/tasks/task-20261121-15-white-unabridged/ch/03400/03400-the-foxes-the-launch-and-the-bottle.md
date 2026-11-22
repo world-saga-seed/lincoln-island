@@ -248,7 +248,7 @@ The obstinate sailor made no answer, and let the conversation drop, quite determ
 
 In fact, after standing out to sea, the Bonadventure had just drawn near the coast again, steering towards Balloon Harbor. It was important to examine the passes left between the sand-banks and the reefs, in order to buoy them if need be, since this little creek was to be the boat's home port.
 
-They were now only half a mile from the coast, and it had been necessary to tack in order to make way against the wind. The speed of the Bonadventure was then only very moderate, because the breeze, partly stopped by the high land, scarcely swelled her sails; and the sea, smooth as glass, was rippled only by the breath of the gusts which passed capriciously over it.
+They were now only half a mile from the coast, and it had been necessary to tack in order to make way against the wind. The speed of the Bonadventure was then only very moderate, because the breeze, partly stopped by the high land, scarcely swelled her sails. And the sea, smooth as glass, was rippled only by the breath of the gusts which passed capriciously over it.
 
 Herbert was standing in the bows, so as to point out the course to follow among the passes, when all at once he cried:—
 

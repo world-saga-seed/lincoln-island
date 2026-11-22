@@ -87,7 +87,7 @@ For some days there had been seen at sea, two or three miles out, an enormous an
 
 “Nothing is more true,” replied Pencroff; “and what surprises me is that we have not seen more of them. After all, since we cannot get near them, it matters little!”
 
-And Pencroff went back to his work, not without heaving a sigh of regret; for in every sailor there is a fisherman, and if the pleasure of fishing is in direct ratio to the size of the animal, one may judge what a whaler feels in the presence of a whale!
+And Pencroff went back to his work, not without heaving a sigh of regret. For in every sailor there is a fisherman, and if the pleasure of fishing is in direct ratio to the size of the animal, one may judge what a whaler feels in the presence of a whale!
 
 And if it had only been the pleasure! But they could not hide from themselves that such a prey would have been very profitable to the colony, for the oil, the fat, and the whalebone might be put to many uses!
 

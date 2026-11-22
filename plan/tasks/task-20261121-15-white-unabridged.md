@@ -180,3 +180,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.12 facts 2: 0. The omission critic runs.
 - 2026-11-21 II.11 omission: 0. II.11 waits for voice with II.10 and II.12.
 - 2026-11-21 II.12 omission: 0. Voice on II.10, II.11, II.12 runs.
+- 2026-11-21 Voice on II.10, II.11, II.12: no break; four seams mended. **II.10, II.11, II.12 final.** Straight and curly quotation marks differ between renders and patched chapters: for one pass at the build.

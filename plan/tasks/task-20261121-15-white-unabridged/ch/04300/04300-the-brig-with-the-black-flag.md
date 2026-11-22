@@ -1,6 +1,6 @@
 # The Brig with the Black Flag (draft 1)
 
-PART III.—THE SECRET OF THE ISLAND.
+Part III / THE SECRET OF THE ISLAND
 
 CHAPTER XLIII.
 

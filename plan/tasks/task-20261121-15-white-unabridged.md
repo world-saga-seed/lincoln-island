@@ -216,3 +216,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.20 facts 2: 0. The omission critic runs.
 - 2026-11-21 II.20 omission: 0. Voice on II.19, II.20 (the end of Part II) runs.
 - 2026-11-21 Voice on II.19, II.20: no break; two seams and three render sentences split. **II.19, II.20 final.** Part II complete but for II.6 ("moricaud", with the human).
+- 2026-11-21 III.1: rendered; 3,710 words against 3,932; 0 banned; 5 knots, for voice; the part heading set in the house form (as II.1's). The notes' "more than eight miles" (¶92) misreads "pas à plus de": logged in plan/state.md, the render follows the French. Facts 1 runs.

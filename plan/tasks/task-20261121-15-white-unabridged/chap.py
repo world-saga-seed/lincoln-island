@@ -43,7 +43,7 @@ if act == 'render':
     import re as _re
     s = _re.sub(r'Keep to the texture in the rules: measure with\n.*?\n.*?may run[^\n]*\n', 'Keep to the texture in the rules and avoid every word in story/voice/banned.txt that is narration. Run no command at all: the main session measures the draft with tools/tells.py after you finish.\n', s, flags=_re.S)
     s = s.replace('- the word count and the tells.py line;', '- the word count, estimated;').replace('marked as the French marks it.', 'marked (1), (2) in the order of the French notes.')
-    s = s.replace('Use White\'s forms of the names and White\'s American spelling.', 'Use White\'s forms of the names and White\'s American spelling. Where the French names Nab, write Neb; where it has "le nègre", write "the negro" (R1121-150). "Grain de plomb" is "pellet" or "leaden pellet"; "amandes de pin pignon" are "pine kernels" (R1121-152). Verne\'s "onaggas" are "onaggas", never "onagers" (R1121-154).')
+    s = s.replace('Use White\'s forms of the names and White\'s American spelling.', 'Use White\'s forms of the names and White\'s American spelling. Where the French names Nab, write Neb; where it has "le nègre", write "the negro" (R1121-150). "Grain de plomb" is "pellet" or "leaden pellet"; "amandes de pin pignon" are "pine kernels" (R1121-152). Verne\'s "onaggas" are "onaggas", never "onagers" (R1121-154). Verne\'s "ascenseur" is White\'s "elevator". Verne\'s boat is "the Bonadventure", never "Good Luck" (R1121-155).')
     assert 'pellet' in s, 'render prompt rulings'
     assert 'tells.py line' not in s and 'measure with' not in s, 'render prompt tells'
     assert '05600' not in s and 'LVI' not in s, 'render prompt'

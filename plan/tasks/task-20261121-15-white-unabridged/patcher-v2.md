@@ -20,6 +20,7 @@ THE RULE (R1121-146), by kind:
 - where the French names Nab and White writes "the negro" (or "the black"), write "Neb": the label is White's, not Verne's. Where the French has "le nègre", keep White's word. Where the French has "l'esclave", say "the slave".
 - "grain de plomb" (the pellet found in the peccary, I.22, and every mention after) is "pellet" or "leaden pellet", never White's "bullet"; "amandes de pin pignon" are "pine kernels" (R1121-152).
 - Verne's "onagga(s)" is "onagga(s)", never White's "onager(s)" or "wild asses" (R1121-154).
+- Verne's boat "le Bonadventure" is "the Bonadventure", never White's "Good Luck"; keep Verne's reason for the name (R1121-155). "Ascenseur" is White's "elevator".
 - fix White's print slips where you see them (a stray capital, a full stop for a comma, a stray quotation mark).
 
 Write your patches to {OUT}, one per line, tab-separated, with a header line "id	discord	old	new":

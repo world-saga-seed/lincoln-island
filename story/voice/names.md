@@ -15,7 +15,7 @@
 | Harbert | Herbert | 214 | 548 | I.2 |
 | Nab | Neb | 158 | 392 | I.2 |
 | Pencroff | Pencroff | 309 | 896 | I.2 |
-| Bonadventure (Pencroff’s baptismal name) | none in White (White never prints “Bonadventure”; the boat is “Good Luck”). *(Proposal.)* Bonadventure | 0 | 0 | II.12 |
+| Bonadventure (Pencroff’s baptismal name) | Bonadventure *(Settled R1121-155.)* (White never prints it) | 0 | 0 | II.12 |
 | Ayrton | Ayrton | 0 | 269 | II.17 |
 | Ben Joyce | Ben Joyce; Joyce | 0; 0 | 6; 6 | II.17 |
 | Bob Harvey | Bob Harvey; Harvey | 0; 0 | 4; 22 | III.2 |
@@ -205,7 +205,7 @@
 
 | French (the cards) | White's form | Part I | Whole | First |
 |---|---|---|---|---|
-| le Bonadventure (Pencroff’s boat) | Good Luck (White never prints “Bonadventure”; chosen in XXXIV) | 0 | 54 | II.12 |
+| le Bonadventure (Pencroff’s boat) | the Bonadventure *(Settled R1121-155.)* (White prints “Good Luck”, from XXXIV) | 0 | 54 | II.12 |
 | le Nautilus | the Nautilus | 0 | 40 | III.16 |
 | le Duncan | the Duncan | 0 | 41 | II.17 |
 | le Speedy | the Speedy | 0 | 21 | III.2 |

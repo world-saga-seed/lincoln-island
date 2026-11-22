@@ -83,6 +83,7 @@
 
 | Chapter | The page says | The notes say | Since |
 |---|---|---|---|
+| 05600 (III.18, the pilot) | "Good Luck" (once, White's name for the boat) | "the Bonadventure" (story/voice/names.md, R1121-155) | 2026-11-21 |
 
 ## Critic calibration
 

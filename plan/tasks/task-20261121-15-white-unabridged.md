@@ -265,3 +265,8 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.11 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.11 omission: 0. III.11 waits for voice.
 - 2026-11-21 II.6: "moricaud" made "blackamoor" (R1121-157); final. Part II complete.
+- 2026-11-21 III.12: rendered; 3,105 words against 3,362; 0 banned; "cart" made "wagon", "reconnaissance" White's "reconnoissance". "Mouflons" kept: the finals print it throughout (White's "moufflons" nowhere), so it is the book's form. Facts 1 runs.
+- 2026-11-21 Open, for the end pass: the finals print "mouflons" 15 times and White's "moufflons" 3 times; one form to be chosen for the book.
+- 2026-11-21 III.12 facts 1: 0. Facts 2 runs.
+- 2026-11-21 III.12 facts 2: 0. The omission critic runs.
+- 2026-11-21 III.12 omission: 0. Voice on III.10, III.11, III.12 runs.

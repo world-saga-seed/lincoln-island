@@ -36,7 +36,7 @@ def white(nn):
         if m: out.append(m.group(2))
     return out
 
-def md_page(path):
+def md_page(path, table=None):
     """Cards and ledger: headings, lists, tables as paragraphs; links reduced to their text."""
     body = []
     for raw in open(path, encoding='utf-8').read().split('\n'):
@@ -48,18 +48,25 @@ def md_page(path):
             body.append(f'<h{min(lvl + 1, 4)}>{B.inline(s.lstrip("#").strip())}</h{min(lvl + 1, 4)}>'); continue
         if s.startswith('|'):
             cells = [c.strip() for c in s.strip('|').split('|')]
-            body.append('<p class="row">' + ' · '.join(B.inline(c) for c in cells if c) + '</p>'); continue
+            if table:
+                if not body or not body[-1].startswith('<table'): body.append('<table>')
+                body[-1] += '<tr>' + ''.join(f'<td>{B.inline(c)}</td>' for c in cells) + '</tr>'
+            else:
+                body.append('<p class="row">' + ' · '.join(B.inline(c) for c in cells if c) + '</p>')
+            continue
         m = re.match(r'^(\s*)[-*] (.*)', t)
         if m:
             ind = len(m.group(1)) // 2
             body.append(f'<p class="li" style="margin-left:{1 + ind * 1.2}em">• {B.inline(m.group(2))}</p>'); continue
         body.append(f'<p>{B.inline(s)}</p>')
-    return body
+    return [b + '</table>' if b.startswith('<table') else b for b in body]
 
 CSS_EXTRA = """
 p.row, p.li { text-indent: 0; text-align: left; font-size: 0.85em; margin: 0 0 0.45em; }
 body.rec p { text-indent: 0; text-align: left; font-size: 0.88em; margin: 0 0 0.5em; }
 h4 { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 1em 0 0.4em; }
+table { border-collapse: collapse; font-size: 0.75em; margin: 0.5em 0 1em; }
+td { border: 1px solid #999; padding: 0.15em 0.3em; }
 p.label { text-indent: 0; text-align: center; font-style: italic; margin: 0 0 1em; }
 """
 
@@ -68,7 +75,7 @@ def main():
     entries, images = [], []
     pg = lambda t, b, c='': B.page(t, b, c)
     entries.append(('title.xhtml', 'Title', pg('Title', ['<p class="titlebig">LINCOLN ISLAND: THE RUN</p>',
-        '<p class="byline">chapters XIX, XIX bis and XX in every version, with the cards and the ledger</p>'])))
+        '<p class="byline">chapters XIX, XIX bis and XX in every version, with the cards, the ledger and the blind scores</p>'])))
     t, b = B.front(os.path.join(HERE, 'run-front.md'), images)
     entries.append(('about.xhtml', t, pg(t, b, 'front')))
     chs = [('01900', '19', 'XIX'), ('01950', None, 'XIX bis'), ('02000', '20', 'XX')]
@@ -79,6 +86,9 @@ def main():
         versions.append(('opus', 'The Opus control (prompt only)', plain_lines(f'{C}/opus/opus-{code}.md', False)))
         versions.append(('gemini', 'The Gemini control (prompt only)', plain_lines(f'{C}/gemini/gemini-{code}.md', False)))
         versions.append(('v1', 'Version 1 (World Saga Seed, first draft)', plain_lines(glob.glob(f'{V1}/{code}-*.md')[0], True)))
+        if code == '01950':  # every stage of the insert (R1121-171)
+            versions.append(('read', 'After the author’s read-aloud', plain_lines(os.path.join(HERE, 'stages/01950-after-read-aloud.md'), True)))
+            versions.append(('char', 'After the character check', plain_lines(os.path.join(HERE, 'stages/01950-after-character-check.md'), True)))
         versions.append(('final', 'The final', plain_lines(final, True)))
         for key, label, lines in versions:
             body = [f'<h1 class="part">{rom}</h1>', f'<p class="label">{label}</p>'] + chapter_body(lines)
@@ -89,6 +99,9 @@ def main():
     for p in sorted(glob.glob('plan/settled/ledger/*.md')):
         d = os.path.basename(p)[:-3]
         entries.append((f'l{d}.xhtml', f'The ledger: {d}', pg(f'The ledger: {d}', md_page(p), 'rec')))
+    entries.append(('scores.xhtml', 'The blind scores', pg('The blind scores', md_page(os.path.join(HERE, 'blind-scores.md'), table=True), 'rec')))
+    entries.append(('readaloud.xhtml', 'The author’s read-aloud', pg('The author’s read-aloud', ['<h2>The author’s read-aloud of XIX bis</h2>',
+        '<p><em>As the author sent it, after reading v1 aloud from the ereader (R1121-129, R1121-130).</em></p>'] + md_page(os.path.join(HERE, 'read-aloud.md')), 'rec')))
     B.CSS += CSS_EXTRA
     B.TITLE = 'Lincoln Island: The Run'
     B.write(out + '.epub', entries, images)

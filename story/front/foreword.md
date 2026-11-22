@@ -1,6 +1,6 @@
 # Foreword
 
-This book is a demonstration of long-form generation on a large work. It was made by language models, a model playing its author and other sessions doing the work, by the World Saga Seed method. A human read it as a reader. It makes no claim of human authorship.
+This book is a demonstration of long-form generation on a large work. It was made by language models, a model playing its author and other sessions doing the work, by the World Saga Seed method. A human read it as a reader, and did more than read one chapter: the human read XIX bis aloud and changed it in the reading, and two things in it, the net snag and the false hope, are the human’s. Everything else here that is not Verne’s or White’s is the models’ work.
 
 It was made in two stages.
 

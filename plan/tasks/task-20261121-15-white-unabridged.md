@@ -152,3 +152,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.6 facts 1: 5; four patched ("macaque" twice, White's "macauco" a lemur; the added "trained"; "Il paraît jeune"). Open, put to the author: Pencroff's "ce moricaud" (¶93, said of the orang), White's "this black ape"; kept as White's until ruled. Facts 2 runs.
 - 2026-11-21 II.5 facts 2: 3, patched ("avec l'aide du temps"; "une fortune"; "habitude professionnelle"). The omission critic runs.
 - 2026-11-21 II.5 omission: 2 ("de l'extrémité de la presqu'île"; the cloth, ropes and cordage), patched. II.5 waits for voice. II.7's patcher runs.
+- 2026-11-21 II.6 facts 2: 6; five patched (the Chimneys and the day; down the bank at full speed; "ils virent que"; "comme tel"; "boire le vin"); "moricaud" waits for the author. The omission critic runs.
+- 2026-11-21 II.6 omission: 2 ("rapidement", "On sait que"), patched. II.6 waits for "moricaud" and voice.

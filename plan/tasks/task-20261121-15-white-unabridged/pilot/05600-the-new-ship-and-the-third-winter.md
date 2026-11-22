@@ -1,4 +1,4 @@
-# The New Ship and the Third Winter (draft 1)
+# The New Ship and the Third Winter (final)
 
 CHAPTER LVI.
 

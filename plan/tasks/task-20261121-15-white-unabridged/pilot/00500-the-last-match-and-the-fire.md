@@ -1,4 +1,4 @@
-# The Last Match and the Fire (draft 1)
+# The Last Match and the Fire (final)
 
 CHAPTER V.
 
@@ -36,7 +36,7 @@ Nothing remained but to fix the fireplace and to prepare the meal, which, in tru
 
 Pencroff, who was an inveterate smoker, felt in his vest for the box, which he was never without, but, not finding it, he searched the pockets of his trowsers, and to his profound amazement, it was not there.
 
-“This is a stupid business, and more than stupid,” said he, looking at Herbert. “My box must have fallen from my pocket, and I can’t find it. But you, Herbert, have you nothing: no steel, not anything, with which we can make fire?”
+“This is a stupid business, and more than stupid,” said he, looking at Herbert. “My box must have fallen from my pocket, and I have lost it. But you, Herbert, have you nothing: no steel, not anything, with which we can make fire?”
 
 “Not a thing, Pencroff.”
 
@@ -108,7 +108,7 @@ The four castaways stood still and looked anxiously at each other. Herbert was t
 
 “Mr. Spilett, you are a smoker, you always have matches about you; perhaps you have not searched thoroughly. Look again; a single match will be enough.”
 
-The reporter rummaged the pockets of his trowsers, his vest, and coat, and to the great joy of Pencroff, as well as to his own surprise, felt a little sliver of wood caught in the lining of his vest. He could feel it from the outside, but his fingers were unable to disengage it. If this should prove a match, and only one, it was extremely necessary not to rub off the phosphorus.
+The reporter rummaged the pockets of his trowsers, his vest, and coat, and to the great joy of Pencroff, as well as to his own extreme surprise, felt a little sliver of wood caught in the lining of his vest. He could feel it from the outside, but his fingers were unable to disengage it. If this should prove a match, and only one, it was extremely necessary not to rub off the phosphorus.
 
 “Let me try,” said the lad. And very adroitly, without breaking it, he drew out this little bit of wood, this wretched and precious trifle, which to these poor men was of such great importance. It was uninjured.
 

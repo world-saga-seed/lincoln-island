@@ -34,3 +34,17 @@
 - 2026-11-21 The patcher's third pass: P21 to P31 for the critic's 11, and P32 to P46 for 15 more it found; P46 smoothed on the main session's call ("Herbert soon fell asleep."). 46 patches apply. The patched I.5 keeps 2,623 of White's 2,711 words (96.8%) and runs 2,828 words, 0.87 of the French (the measure's 0.885). Four places the patcher judged close enough are left for the critics (¶4, ¶26, ¶43, ¶84). The voice critic (both chapters) and a second facts critic on I.5 run.
 - 2026-11-21 The second I.5 facts critic: 12 more, all where White's words stand ("scratching" for rubbing; Neb's hope held out, reversed by White; "je vous en prie"; "Non"; "je ne veux pas"; "chargea"; the bluish flame; into the cone; "fort bien"; Verne's "Ah ! si…"; the one incident; "veillant"). Patched by the main session (P47 to P57, and P36 to "scratching"): 57 patches apply. Round 1 found 11 and round 2 found 12: the tail is long, so a patched chapter needs about three passes of patcher and critic.
 - 2026-11-21 Voice critic on the pilot: no standing break (the "&" is Verne's). I.5: White's print slips patched (P58 to P61) and two seams smoothed; 61 patches. III.14: two knots and repeated connectives, weak. I.5's omission critic: 0 losses. A third facts round on I.5 runs, to see whether the tail has ended.
+- 2026-11-21 The third facts round on I.5: 3 (lost, extreme, "Poor fellow!"). Two patched (P62, P63); "Poor fellow!" kept as a stylistic addition (R1121-146). The tail: 11, 12, 3. **Both pilot chapters pass** (no break standing) and go to `story/prose/` as final (R1121-146).
+
+## The pilot's measure
+
+| | I.5, patched | III.14, re-rendered |
+|---|---|---|
+| Departures found | 7 listed; 64 patched in all (19 by the patcher's own reading, 26 by three facts rounds, 4 White's print slips) | — |
+| Rounds to pass | patcher ×3, facts ×3, omission, voice | drafter, facts, omission, voice |
+| Tokens (agents) | about 490k (patcher 207k; facts 63k + 63k + about 60k; omission 52k; voice 47k) | 263k (drafter 105k; facts 58k; omission 53k; voice 47k) |
+| White's words kept | 2,623 of 2,711 (96.8%) | none (new render) |
+| Length against the French | 0.87 | 0.94 |
+| Standing findings | taste only | weak: two knots, repeated connectives |
+
+Lessons: (1) the phase 3 lists undercount White's departures by a factor of about nine (7 listed, 64 found), so a patcher must read for departures, not only patch the list; (2) story/voice/names.md covers I.19 and I.20 only, and later names (Balloon Harbor, Jetsam Point, Good Luck, Tabor Island) must come from White's own text; the book needs White's names list first; (3) a drafter broke its one-command rule.

@@ -76,7 +76,7 @@ The human put each version to Gemini cold, with one judge per text and the rubri
 | Prose | 8 | 7 | 7 | 7.5 | 7.5 |
 | Modern-model habits | 6.5 | 8 | 5 | 6.5 | 6.5 |
 
-The read-aloud added beats the frozen one-paragraph scene does not hold, so fidelity counts them against the chapter. The character check won most of the read's cost back. On the translations, every version scored 10 for completeness, with accuracy from 8.5 to 9.5.
+The read-aloud added beats the frozen one-paragraph scene does not hold, so fidelity counts them against the chapter. The character check won back only part of the read's cost: restraint went from 9 in v1 to 4 after the read-aloud and back to 7, and the final scores below v1 on fidelity (7 against 8), restraint (7 against 9) and modern-model habits (6.5 against 8). On the translations, every version scored 10 for completeness, with accuracy from 8.5 to 9.5.
 
 **No human blind-reader ranking was run.**
 
@@ -108,7 +108,7 @@ Carding was done once, for the whole book. The insert's three chapters, from the
 
 - **The ledger first.** 181 rulings on the second day, each one sentence, each written before the edit. A later reader can see why every line is as it is.
 - **Fresh critics, quoting the text.** Every finding had to quote words that resolve by search. Two fresh critics on the scholar's notes and the forewords caught false claims the drafters were sure of: 15 of 37 notes needed fixing, and the foreword had several claims wrong, among them who had made which change.
-- **The controls.** They showed where the method pays. It made little difference on Verne's chapters, where the French holds a model to the facts. On the invented chapter it made a large one: the controls broke canon and told what the chapter is built to withhold.
+- **The controls.** They showed where the method pays. On Verne's chapters it made little difference in facts, where the French holds a model to them, and a clear one in voice: the controls' long sentences and house spellings set them apart from v1. On the invented chapter it made a large one: the controls broke canon and told what the chapter is built to withhold.
 - **Patches, not redrafts.** In the refine and in the unabridged work, each change was a row with its old and new text. That made every change reviewable, and the map is drawn from those rows.
 
 ## What failed, and how it was fixed

@@ -93,3 +93,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.11 facts 1: 7; five patched (the telescopes under his brows; "animal"; "s'échancrait"; "cap"; "admise"). Kept: "Cochalot Point" (White's name, R1121-146) and "cue" (White's word, the period's spelling of queue). Facts 2 runs.
 - 2026-11-21 I.11 facts 2: 4; three patched ("périmètre", "devait", "déjà reconnue"); "Cochalot" kept (White's form, as before). The omission critic runs.
 - 2026-11-21 I.11 omission: 2 ("à mesure", "précis"), patched. I.11 waits for voice.
+- 2026-11-21 I.12: patcher v2, 66 patches (21 listed, 40 new, 5 slips); all apply. "maître Pencroff": White's "Professor Pencroff" made plain "Pencroff" (R1121-151); "amandes" as "pine kernels", as in I.9 and I.10. Facts 1 runs.
+- 2026-11-21 I.12 facts 1: 4; three patched (the latitude "trop haute", White's error reversed; "smooth" and "constantly" removed). "pine kernels" kept: the "amandes" are the pignon kernels of I.9 and I.10. Facts 2 runs.
+- 2026-11-21 I.12 facts 2: 2; "indigène dangereux" patched (White's "savage" an added judgment, R1121-150's measure); "pine kernels" kept again ("amandes" here are the kernels of the pignon pine, I.9 ¶97, I.10). The omission critic runs.
+- 2026-11-21 I.12 omission: 2 ("pittoresquement relevé", "tout à fait"), patched. I.12 waits for voice.

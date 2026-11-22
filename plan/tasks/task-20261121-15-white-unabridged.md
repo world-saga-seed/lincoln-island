@@ -288,3 +288,9 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.17 facts 1: 2, patched in the summary ("amis d'un jour"; "le cercueil"). Facts 2 runs.
 - 2026-11-21 III.17 facts 2: 2, patched ("s'est modifiée"; "tout entier"). The omission critic runs.
 - 2026-11-21 III.17 omission: 0. III.17 waits for voice.
+- 2026-11-21 III.18: patcher v2, 117 patches (29 listed, 77 new, 11 slips); all apply. Facts 1 runs.
+- 2026-11-21 III.19: patcher v2, 102 patches (22 listed, 72 new, 8 slips); "cart" made White's "wagon"; "koulas" as White prints it; all apply. Facts 1 runs.
+- 2026-11-21 III.18 facts 1: 6, patched ("traversée de quelque durée"; "plusieurs fois sur l'île"; "Dieu nous en préserve"; "bouquet d'artifices"; "directions contraires"; "détonations successives"). Facts 2 runs.
+- 2026-11-21 III.19 facts 1: 0; one noted, patched ("Vers le 23" made "About the 23d"). Facts 2 runs.
+- 2026-11-21 III.19 facts 2: 1 ("by all" added), patched. The omission critic runs.
+- 2026-11-21 III.18 facts 2: 4, patched ("de chacun"; "assombrissements passagers"; "gerbes de feu"; "fourrage"). The omission critic runs.

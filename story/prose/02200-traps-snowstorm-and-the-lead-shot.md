@@ -1,0 +1,177 @@
+# Traps, Snowstorm and the Lead Shot (final)
+
+CHAPTER XXII.
+
+THE TRAPS—THE FOXES—THE PECCARIES —THE WIND VEERS TO THE NORTHWEST —THE SNOW-STORM—THE BASKET-MAKERS —THE COLDEST SNAP OF WINTER —CRYSTALLIZATION OF THE MAPLE SUGAR —THE MYSTERIOUS SHAFT—THE PROJECTED EXPLORATION—THE PELLET OF LEAD.
+
+The intense cold lasted until the 15th of August, without, however, passing the greatest degree of cold hitherto marked by the Fahrenheit thermometer. When the atmosphere was calm this low temperature could be easily borne; but when the wind blew, it seemed hard to men who were insufficiently clothed. Pencroff regretted that Lincoln Island, instead of harboring so many foxes and seals, whose fur left something to be desired, did not shelter some families of bears.
+
+“Bears,” said he, “are generally well dressed; and I would ask nothing better for the winter than the loan of their warm cloaks.”
+
+“But perhaps,” said Neb, laughing, “these bears would not consent to give you their cloak, Pencroff. These fellows are no Saint Martins!”
+
+“We would make them, Neb, we would make them,” answered Pencroff in a tone of complete authority.
+
+But these formidable carnivora did not dwell on the island, or if they did, had not yet shown themselves. However, Herbert, Pencroff, and the reporter busied themselves in setting traps on Prospect Plateau and on the borders of the forest. In the sailor’s opinion any animal whatever would be a prize, and rodents or carnivora, whichever should be the first to try these new traps, would be well received at Granite House. These traps were, besides, extremely simple. They were pits dug in the ground and covered with branches and grass, which hid the openings. At the bottom they placed some bait, whose odor would attract the animals, and that was all. It must be said, too, that they had not been dug at random, but in certain places where numerous footprints indicated the frequent passage of quadrupeds. Every day they went to look at them, and at three different times during the first few days they found in them specimens of those culpeux which had been already seen on the right bank of the Mercy.
+
+“Pshaw! there are nothing but foxes in this part of the world,” cried Pencroff, as, for the third time, he drew one of these animals out of the pit, where it sat looking very crestfallen. “Good-for-nothing beasts!”
+
+“Stop,” said Spilett; “they are good for something.”
+
+“For what?”
+
+“To serve as bait to attract others!”
+
+The reporter was right, and from this time the traps were baited with the dead bodies of foxes. The sailor had also made snares out of the threads of curry-jonc, and these snares were more profitable than the traps. It was a rare thing for a day to pass without some rabbit from the warren being captured. It was always a rabbit, but Neb knew how to vary his sauces, and his companions did not complain. However, once or twice in the second week in August, the traps contained other and more useful animals than the foxes. There were some of those wild boars which had been already noticed at the north of the lake. Pencroff had no need to ask if these animals were edible, that was evident from their resemblance to the hog of America and Europe.
+
+“But these are not hogs, let me tell you, Pencroff,” said Herbert.
+
+“My boy,” replied the sailor, leaning over the trap and drawing out one of these representatives of the swine family by the little appendage which served for a tail, “do let me believe them to be hogs!”
+
+“Why?”
+
+“Because it pleases me!”
+
+“You are fond of hogs, then, Pencroff?”
+
+“I am very fond of them,” replied the sailor, “especially of their feet, and if any had eight instead of four I would like them twice as much!”
+
+These animals were peccaries, belonging to one of the four genera, which make up that family. This particular species were the “tajassans,” known by their dark color and the absence of those long fangs which belong to the others of their race. Peccaries generally live in herds, and it was likely that these animals abounded in the woody parts of the island. At all events they were edible from head to foot, and Pencroff asked nothing more.
+
+About the 15th of August the weather changed suddenly by a change of wind to the northwest. The temperature rose several degrees higher, and the vapors accumulated in the air were soon resolved into snow. The whole island was covered with a white mantle, and presented a new aspect to its inhabitants. It snowed hard for several days and the ground was covered two feet deep. The wind soon rose with extreme violence and from the top of Granite House they could hear the sea roaring against the reefs.
+
+At certain angles the wind made eddies in the air, and the snow, forming itself into high whirling columns, looked like those twisting waterspouts which vessels attack with cannon. However, the hurricane, coming from the northwest, took the island in the rear, and the aspect of Granite House preserved it from a direct attack.
+
+During this snow-storm, as terrible as those of the polar regions, neither Smith nor his companions could, in spite of their wish, venture outside. They were completely housed for five days, from the 20th to the 25th of August. They heard the tempest roar through Jacamar Woods, which must have suffered sadly. Doubtless numbers of trees were uprooted, but Pencroff comforted himself with the reflection that he would be spared the trouble of cutting them down.
+
+“The wind will be wood-cutter; let it alone,” he repeated.
+
+And besides, there would have been no means of preventing it.
+
+How fervently now the inhabitants of Granite House must have thanked Heaven for having given to them this solid and unshakable shelter! Smith had his rightful share of their gratitude, but after all, it was nature which had hollowed out this enormous cave, and he had only discovered it. Here all were in safety, the violence of the tempest could not reach them. If they had built a house of brick and wood on Prospect Plateau, it certainly could not have resisted the fury of this hurricane. As for the Chimneys, from the mere uproar of the billows, which were heard with such violence, they judged that they must be absolutely uninhabitable, for the sea, passing over the islet, must be beating upon them with fury.
+
+But here at Granite House, between these solid walls which neither wind nor water could affect, they had nothing to fear. During this confinement the colonists were not idle. There was plenty of wood in the storehouse cut into planks, and little by little they completed their stock of furniture. As far as tables and chairs went they were certainly solid enough, for the material was not spared. This furniture was a little too heavy to fulfil its essential purpose of being easily moved, but it was the pride of Neb and Pencroff, who would not have exchanged it for the handsomest Buhl.
+
+Then the carpenters turned basket-makers, and did not succeed badly at this new occupation.
+
+They had discovered, near the point which the lake threw out to the north, a fruitful osier-bed, where purple osiers grew in great numbers. Before the rainy season, Pencroff and Herbert had gathered a good many of these useful shrubs; and their branches, being now well seasoned, could be used to advantage. Their first specimens were rough; but, thanks to the skill and intelligence of the workmen consulting together, recalling the models they had seen, and rivalling each other in their efforts, hampers and baskets of different sizes were soon added to the stock of the colony. The storehouse was filled with them, and Neb set away in special baskets his harvests of rhizomes, pine kernels, and roots of the dragon tree.
+
+During the last week in August the weather changed again, the temperature fell a little, and the storm was over. The colonists at once started out. There were certainly two feet of snow on the shore, but it was frozen over the top, so that they could walk over it without much trouble. Smith and his companions climbed up Prospect Plateau. What a change they beheld! The woods which they had left green, especially the part nearest to them where the conifers were plenty, were now one uniform color.
+
+Everything was white, from the top of Mount Franklin to the coast—forests, prairie, lake, river, beach. The waters of the Mercy ran under a vault of ice, which cracked and broke with a loud noise at every change of tide. Numbers of birds—ducks and snipe, pintails and guillemots—fluttered over the frozen surface of the lake. There were thousands of them. The rocks between which the cascade plunged to the borders of the Plateau bristled with ice. One would have said that the water leaped out of a huge gargoyle, carved with all the fancy of an artist of the Renaissance. To calculate the damage done to the forest by this hurricane would be impossible until the snow had entirely disappeared.
+
+Spilett, Pencroff, and Herbert took this opportunity to look after their traps and had hard work finding them under their bed of snow. They had even to take care lest they should fall in themselves, which would have been at once dangerous and humiliating; to be caught in one’s own trap! They were spared this annoyance, however, and found the traps had been perfectly untouched; not an animal had been caught, although there were a great many footprints in the neighborhood, among others, very clearly impressed marks of claws.
+
+Herbert at once classified these carnivora among the cat tribe, a circumstance which justified the engineer’s belief in the existence of dangerous beasts on Lincoln Island. Doubtless these beasts usually dwelt in the dense forests of the Far West; but driven by hunger, they had ventured as far as Prospect Plateau. Perhaps they scented the inhabitants of Granite House.
+
+“What, exactly, are these felines?” asked Pencroff.
+
+“They are tigers,” replied Herbert.
+
+“I thought those animals were only found in warm countries.”
+
+“In the New World,” replied the lad, “they are to be found from Mexico to the pampas of Buenos Ayres. Now, as Lincoln Island is in almost the same latitude as the provinces of La Plata, it is not surprising that tigers are found here.”
+
+“All right, we will be on our guard,” replied Pencroff.
+
+In the meantime, the temperature rising, the snow began to melt, it came on to rain, and, thanks to its dissolving action, the white mantle disappeared. Notwithstanding the bad weather the colonists renewed their stock of provisions of every kind: pine kernels, roots of the dragon tree, rhizomes, and maple sap, for the vegetable part; rabbits from the warren, agoutis, and kangaroos, for the animal part.
+
+This necessitated excursions into the forest, and they found that a certain number of trees had been beaten down by the hurricane. The sailor and Neb even pushed forward with their wagon as far as the coal deposit in order to carry back some tons of fuel. They saw on their way that the chimney of the pottery oven had been much damaged by the storm; at least six feet had been blown down.
+
+They also renewed their stock of wood as well as that of coal, and the Mercy having become free once more, they employed the current to draw several loads to Granite House. It might be that the cold season was not yet over.
+
+A visit had been made to the Chimneys also, and the colonists could not be sufficiently grateful that this had not been their home during the tempest. The sea had left undoubted signs of its ravages. Lashed by the fury of the wind from the offing, and rushing over Safety Island, it spent its full force upon these passages, leaving them half full of sand and the rocks thickly covered with seaweed.
+
+While Neb, Herbert, and Pencroff spent their time in hunting and renewing their supply of fuel, Smith and Spilett set to work to clear out the Chimneys. They found the forge and furnaces almost unhurt, protected as they had been, from the first, by the heaping up of the sand.
+
+It was a fortunate thing that they laid in a fresh supply of fuel, for the colonists had not yet seen the end of the intense cold. It is well known that in the Northern Hemisphere, the month of February is noted for its low temperature. The same rule held good in the Southern Hemisphere, and the end of August, which is the February of North America, did not escape from this climatic law.
+
+About the 25th, after another snow and rain storm, the wind veered to the southeast, and suddenly the cold became extremely sharp. In the engineer’s opinion, a Fahrenheit thermometer would have indicated not less than eight degrees below zero (22.22° centigrade below freezing), and this intense cold, rendered still more painful by a cutting wind, lasted for several days.
+
+The colonists were completely housed again, and as they were obliged to block up hermetically all their windows, only leaving one narrow opening for ventilation, the consumption of candles was considerable. In order to economize them, the colonists often contented themselves with only the light from the fire, on which fuel was not spared.
+
+Several times some of them ventured to the beach, among the blocks of ice which were heaped up there by every fresh tide. But they soon climbed up to Granite House again. This ascent was very painful, as their hands held on to the rounds of the ladder. In this intense cold the rounds burned their fingers.
+
+There were still many leisure hours to be filled up during this long confinement, so Smith undertook another indoor occupation.
+
+The only sugar which they had had up to this time was a liquid substance which they had procured by making deep cuts in the bark of the maple tree. They collected this liquid in jars and used it in this condition for cooking purposes. It improved with age, becoming whiter and more like a syrup in consistency. But they could do better than this, and one day Cyrus Smith announced to his companions that he was going to turn them into refiners.
+
+“Refiners! I believe that’s rather a warm trade?” said Pencroff.
+
+“Very warm!” replied the engineer.
+
+“Then it will suit this season!” answered the sailor.
+
+Let not the word refining call up in the mind those factories so complicated in tools and in workmen. No! to crystallize this liquid it was only necessary to purify it by an operation which was extremely easy.
+
+They put it on the fire in large earthenware jars, and simply submitted it to a certain evaporation. Soon a scum rose to the surface. As soon as the liquid began to thicken, Neb took care to stir it with a wooden spatula, which hastened the evaporation, and at the same time prevented it from acquiring an empyreumatic taste.
+
+After several hours boiling over a good fire, which did as much good to the cooks as it did to the boiling liquid, it turned into a thick syrup. This syrup was poured into clay moulds which they had made beforehand in the kitchen furnace itself, and to which they had given various shapes.
+
+The next day the syrup hardened, forming cakes and loaves. It was sugar of a somewhat reddish color, but almost transparent, and of a perfect taste.
+
+The cold continued until the middle of September, and the inmates of Granite House began to find their captivity very long. Almost every day they took a run out-doors, but they always soon returned. They were constantly at work on the fitting up of their dwelling, and talked while they worked.
+
+Smith instructed his companions in everything, and especially explained to them the practical applications of science.
+
+The colonists had no library at their disposal, but the engineer was a book, always ready, always open at the wished-for page. A book which answered their every question, and one which they often read. Thus the time passed, and these brave men did not seem to fear the future.
+
+However, it was time that this captivity should end. They were all eager to see again, if not fine weather, at least a cessation of the intense cold. If they had only had warmer clothing, they would have attempted excursions to the downs and to Tadorns’ Fens, for game would have been easy to approach, and the hunt would assuredly have been fruitful. But Smith insisted that no one should compromise his health, as he had need of every hand; and his advice was taken.
+
+But, it must be said, the most impatient of the prisoners, after Pencroff however, was Top. The faithful dog found himself in close quarters in Granite House, and ran from room to room, showing in his own way the weariness he felt at this confinement.
+
+Smith often noticed that whenever he approached the dark well communicating with the sea, which had its opening in the rear of the storehouse, Top growled in a most curious manner, and ran around and around the opening, which had been covered over with a wooden lid. Sometimes he even tried to slip his paws under the lid, as if trying to raise it up, and yelped in a way which indicated at the same time anger and uneasiness.
+
+The engineer several times noticed this strange behavior, and wondered what there could be in the abyss to have such a peculiar effect upon this intelligent dog.
+
+This well, of course, communicated with the sea. Did it then branch off into narrow passages through the rock-work of the island? Was it in communication with some other cavities in the interior? Did some sea-monster come from time to time to breathe at the bottom of the well?
+
+The engineer did not know what to think, and could not keep himself from dreaming of strange complications. Accustomed to investigate scientific truths, he could not pardon himself for being drawn into the region of the strange and almost of the supernatural; but how explain why Top, one of those sensible dogs who never lose their time in barking at the moon, should insist upon exploring this abyss with nose and ear, if there was nothing there to arouse his suspicions?
+
+Top’s conduct perplexed Smith more than he cared to own to himself. However, the engineer did not mention this to any one but Spilett, thinking it useless to let his companions into the involuntary reflections called up in him by what might be, after all, only a freak of the dog.
+
+At last the cold spell was over. They had rain, snow-squalls, hail-storms, and gales of wind, but none of these lasted long. The ice thawed and the snow melted; the beach, plateau, banks of the Mercy, and the forest were again accessible. The return of spring rejoiced the inmates of Granite House, and they soon passed all their time in the open air, only returning to eat and sleep.
+
+They hunted a good deal during the latter part of September, which led Pencroff to make fresh demands for those fire-arms which he declared Smith had promised him. Smith always put him off, knowing that without a special stock of tools it would be almost impossible to make a gun which would be of any use to them.
+
+Besides, he noticed that Herbert and Spilett had become very clever archers, that all sorts of excellent game, both feathered and furred—agoutis, kangaroos, cabiais, pigeons, bustards, wild ducks, and snipe—fell under their arrows; consequently the firearms could wait. But the stubborn sailor did not see it in this light, and would give the engineer no rest until he had satisfied his desire; and Gideon Spilett supported Pencroff.
+
+“If,” said he, “the island contains, as may be doubted, wild beasts, we must consider how to encounter and exterminate them. The time may come when this will be our first duty.”
+
+But just now it was not the question of firearms which occupied Smith’s mind, but that of clothes. Those which the colonists were wearing had lasted through the winter, but could not hold out till another. What they must have at any price was skins of the carnivora, or wool of the ruminants; and as moufflons were plenty, they must consider how to collect a flock of them which they could keep for the benefit of the colony. They would also lay out a farm yard at some point of the island, where they could have an enclosure for domestic animals and a poultry yard.
+
+These two important projects must be carried out during the good weather. Consequently, in view of these future arrangements, it was urgent to undertake a reconnoissance into the unexplored part of Lincoln Island, to wit:—the high forests which extended along the right bank of the Mercy, from its mouth to the end of Serpentine Peninsula, as well as the whole of the western coast. But they must be sure of their weather, and a month must yet elapse before it would be worth while to undertake this exploration. While they were waiting with some impatience, an incident occurred which redoubled their desire to examine the whole island.
+
+It was now the 24th of October. On this day Pencroff went to look after his traps which he always kept duly baited. In one of them, he found three animals, of a sort welcome to the kitchen. It was a female peccary with her two little ones. Pencroff returned to Granite House, delighted with his prize, and, as usual, made a great talk about it.
+
+“Now, we’ll have a good meal, Mr. Smith,” cried he, “and you too, Mr. Spilett, must have some.”
+
+“I shall be delighted,” said the reporter, “but what is it you want me to eat?”
+
+“Sucking pig,” said Pencroff.
+
+“Oh, really, a sucking-pig, Pencroff? To hear you talk one would think you had brought back a truffled partridge!”
+
+“Umph,” said Pencroff, “so you turn up your nose at my sucking pig?”
+
+“No,” answered Spilett coolly, “provided one does not get too much of them—”
+
+“Very well, Mr. Reporter!” returned the sailor, who did not like to hear his game disparaged. “You are getting fastidious! Seven months ago, when we were cast upon this island, you would have been only too glad to have come across such game.”
+
+“Well, well,” said the reporter, “man is never either perfect or satisfied.”
+
+“And now,” continued Pencroff, “I hope Neb will distinguish himself. Look! these two little peccaries are not even three months old, they will be as tender as quail. Come, Neb, I will superintend the cooking of them myself.”
+
+The sailor, followed by Neb, hastened to the kitchen, and was soon absorbed over the oven. They let him have his own way. The two prepared a magnificent repast; the two little peccaries, kangaroo soup, smoked ham, pine kernels, dragon-tree wine, Oswego tea; in a word, everything of the best. But the favorite dish of all was the savory peccaries made into a stew. At 5 o’clock, dinner was served in the dining-room of Granite House. The kangaroo soup smoked upon the table. It was pronounced excellent.
+
+After the soup came the peccaries, which Pencroff begged to be allowed to carve, and of which he gave huge pieces to every one. These sucking pigs were indeed delicious, and Pencroff plied his knife and fork with intense earnestness, when suddenly a cry and an oath escaped him.
+
+“What’s the matter?” said Smith.
+
+“The matter is—the matter is—that I have just broken a tooth!” replied the sailor.
+
+“Are there pebbles in your peccaries, then?” said Spilett.
+
+“It seems so,” said the sailor, taking out of his mouth the object which had cost him a grinder.
+
+It was not a pebble, it was a leaden pellet.

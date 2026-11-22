@@ -84,9 +84,9 @@ Towards three o'clock in the afternoon, fresh flocks of birds were seen through 
 
 "Like a carp," replied the sailor seriously.
 
-Pencroff had found in the grass half a dozen tétras' nests, each having two or three eggs. He took great care not to touch these nests, to which their owners could not fail to return. It was around them that he thought of stretching his lines—not snare lines, but real lines with hooks. He led Herbert to some distance from the nests, and there he prepared his singular apparatus with the care which a disciple of Isaac Walton[1] would have brought to it. Herbert followed this work with an interest easy to understand, though he doubted its success. The lines were made of thin creepers, tied one to another, and fifteen to twenty feet long. Large and very strong thorns, with curved points, furnished by a bush of dwarf acacias, were fastened to the ends of the creepers by way of hooks. As to the bait, some large red worms, which were crawling on the ground, served for it.
+Pencroff had found in the grass half a dozen tétras' nests, each having two or three eggs. He took great care not to touch these nests, to which their owners could not fail to return. It was around them that he thought of stretching his lines—not snare lines, but real lines with hooks. He led Herbert to some distance from the nests, and there he prepared his singular apparatus with the care which a disciple of Isaac Walton(1) would have brought to it. Herbert followed this work with an interest easy to understand, though he doubted its success. The lines were made of thin creepers, tied one to another, and fifteen to twenty feet long. Large and very strong thorns, with curved points, furnished by a bush of dwarf acacias, were fastened to the ends of the creepers by way of hooks. As to the bait, some large red worms, which were crawling on the ground, served for it.
 
-[1] A celebrated author of a treatise on angling.
+(1) A celebrated author of a treatise on angling.
 
 This done, Pencroff, passing through the grass and skilfully concealing himself, went to place the ends of his lines, armed with hooks, near the tétras' nests. Then he returned to take the other ends, and hid with Herbert behind a large tree. Both then waited patiently. Herbert, it must be said, did not count much upon the success of the inventive Pencroff.
 

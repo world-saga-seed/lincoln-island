@@ -61,3 +61,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.2 facts critic 1: 4 (the heading's "Rebellion"; the motto; "disputée"; "Bien"), all patched (P34 corrected, P73 to P75). Facts critic 2 runs.
 - 2026-11-21 I.2 facts critic 2: 6 small (the Union; the hurricane's force twice; "hommes" and "en plein ouragan"; "se débattait"; "rafales déchaînées"), all patched (P76 to P81). The omission critic runs.
 - 2026-11-21 I.2 omission: 1 ("Ce jour-là"), patched (P82). I.2 waits for the voice critic.
+- 2026-11-21 I.6 re-rendered (the first under R1121-149): footnote set as (1); the drafter kept to its one command. Facts critic runs.
+- 2026-11-21 I.6 facts critic: 0 findings. The omission critic runs.
+- 2026-11-21 I.6 omission: 0 losses. The voice critic for I.1, I.2 and I.6 (`make_voice.py`, by threes).
+- 2026-11-21 Voice on I.1, I.2, I.6: no break; the weak findings are Verne's or White's own sentences, untouched. **I.1, I.2 and I.6 final** in story/prose. Quotation marks differ between files (straight in the renders, curly in White): a matter for the build.

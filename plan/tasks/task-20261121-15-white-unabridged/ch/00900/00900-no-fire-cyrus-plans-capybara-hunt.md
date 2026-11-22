@@ -4,7 +4,7 @@ CHAPTER IX.
 
 CYRUS IS HERE—PENCROFF’S ATTEMPTS—RUBBING WOOD—ISLAND OR CONTINENT—THE PLANS OF THE ENGINEER—WHEREABOUTS IN THE PACIFIC—IN THE DEPTHS OF THE FOREST—THE PIGNON PINE—A CABIAI HUNT—A SMOKE OF GOOD OMEN.
 
-In a few words Gideon Spilett, Herbert, and Neb were informed of the situation. This accident, which portended very serious results—at least Pencroff foresaw such—affected the companions of the honest sailor differently. Neb, overjoyed in having recovered his master, did not listen, or rather would not even trouble himself about what Pencroff said. Herbert seemed to share in a measure the apprehensions of the sailor. As to the reporter, he simply answered:—
+In a few words Gideon Spilett, Herbert, and Neb were informed of the situation. This accident, which might have very serious consequences—at least Pencroff foresaw such—affected the companions of the honest sailor differently. Neb, overjoyed in having recovered his master, did not listen, or rather would not even trouble himself about what Pencroff said. Herbert seemed to share in a measure the apprehensions of the sailor. As to the reporter, he simply answered:—
 
 “Upon my word, Pencroff, that is all one to me!”
 
@@ -24,7 +24,7 @@ In a few words Gideon Spilett, Herbert, and Neb were informed of the situation. 
 
 “With nothing!”
 
-What could Pencroff answer? He had nothing to say, as, in his heart, he shared his companions’ confidence in Cyrus Smith’s ability. To them the engineer was a microcosm, a compound of all human science and intelligence! It was as well to be on a desert island with Cyrus as without Cyrus in the most industrious city of the Union. With him they could want for nothing; with him they could not despair. If they had been told that a volcanic eruption would overwhelm the land, sinking it into the depths of the Pacific, the imperturbable answer of these brave men would have been, “Cyrus is here! Look to Cyrus!”
+What could Pencroff answer? He had nothing to say, as, in his heart, he shared his companions’ confidence in Cyrus Smith. To them the engineer was a microcosm, a compound of all human science and intelligence! It was as well to be on a desert island with Cyrus as without Cyrus in the most industrious city of the Union. With him they could want for nothing; with him they could not despair. If they had been told that a volcanic eruption would overwhelm the land, sinking it into the depths of the Pacific, the imperturbable answer of these brave men would have been, “Cyrus is here! Look to Cyrus!”
 
 Meantime, however, the engineer was still sunk in a fresh lethargy, the result of the journey, and his help could not be asked for just then. The supper, therefore, would necessarily be very meagre. All the tetras had been eaten, there was no way to cook any game whatever, and, finally, the couroucous which had been reserved had disappeared. Something, therefore, must be done.
 

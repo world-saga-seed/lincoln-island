@@ -40,11 +40,11 @@
 
 | | I.5, patched | III.14, re-rendered |
 |---|---|---|
-| Departures found | 7 listed; 64 patched in all (19 by the patcher's own reading, 26 by three facts rounds, 4 White's print slips) | — |
+| Departures found | 7 listed; 63 patches in all (7 from the list, 39 from the patcher's own reading and the first facts round, 13 from the second and third facts rounds, 4 White's print slips) | — |
 | Rounds to pass | patcher ×3, facts ×3, omission, voice | drafter, facts, omission, voice |
 | Tokens (agents) | about 490k (patcher 207k; facts 63k + 63k + about 60k; omission 52k; voice 47k) | 263k (drafter 105k; facts 58k; omission 53k; voice 47k) |
 | White's words kept | 2,623 of 2,711 (96.8%) | none (new render) |
 | Length against the French | 0.87 | 0.94 |
 | Standing findings | taste only | weak: two knots, repeated connectives |
 
-Lessons: (1) the phase 3 lists undercount White's departures by a factor of about nine (7 listed, 64 found), so a patcher must read for departures, not only patch the list; (2) story/voice/names.md covers I.19 and I.20 only, and later names (Balloon Harbor, Jetsam Point, Good Luck, Tabor Island) must come from White's own text; the book needs White's names list first; (3) a drafter broke its one-command rule.
+Lessons: (1) the phase 3 lists undercount White's departures by a factor of about eight (7 listed, 59 departures patched), so a patcher must read for departures, not only patch the list; (2) story/voice/names.md covers I.19 and I.20 only, and later names (Balloon Harbor, Jetsam Point, Good Luck, Tabor Island) must come from White's own text; the book needs White's names list first; (3) a drafter broke its one-command rule.

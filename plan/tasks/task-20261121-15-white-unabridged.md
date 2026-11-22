@@ -275,3 +275,9 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.13 facts 1: 3, patched ("dans son petit port"; "les bandits ! les infâmes coquins !"; the second "notre génie" without "good"). Facts 2 runs.
 - 2026-11-21 III.13 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.13 omission: 2, patched ("où l'eau ne manquait pas"; "quoi qu'il arrive"). III.13 waits for voice.
+- 2026-11-21 III.15: rendered; 4,464 words against 4,683; 0 banned. Two errata rows: the quarter past nine after 9:47 (as printed, as White), and the caption run into ¶112 (not rendered). Facts 1 runs.
+- 2026-11-21 III.15 facts 1: 0. Facts 2 runs.
+- 2026-11-21 III.16: patcher v2, 70 patches (29 rows for 30 listed, 40 new, 1 slip); all apply; White's "Sepoy mutiny" kept, with "great". Facts 1 runs.
+- 2026-11-21 III.15 facts 2: 0. The omission critic runs.
+- 2026-11-21 III.16 facts 1: 3, patched: "indépendance" twice (summary, ¶19), and "révolte des cipayes" back to "revolt" (White's "mutiny" takes the British side; Verne's narration treats it as a rising). Facts 2 runs.
+- 2026-11-21 III.15 omission: 0. III.15 waits for voice.

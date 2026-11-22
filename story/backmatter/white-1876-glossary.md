@@ -1,6 +1,6 @@
-# White's Glossary (1876)
+# White’s Glossary (1876)
 
-*Back matter, set after chapter LXII (R1121-158). The glossary of White's 1876 edition, his own and not Verne's, as printed in `texts/white-1876/62.md` ¶55 to ¶145. His map plate (¶146) is not set: the edition held here carries only the caption, "[Illustration: Lincoln Island]", and no image. (Drafted.)*
+*Back matter, set after chapter LXII (R1121-158). The glossary of White’s 1876 edition, his own and not Verne’s, as printed in `texts/white-1876/62.md` ¶55 to ¶145. His map plate (¶146) is not set: the edition held here carries only the caption, “[Illustration: Lincoln Island]”, and no image. (Drafted.)*
 
 GLOSSARY.
 

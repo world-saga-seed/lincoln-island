@@ -2,7 +2,7 @@
 
 CHAPTER XXX.
 
-THE LINEN—SHOES OF SEAL-LEATHER—MANUFACTURE OF PYROXYLINE—VARIOUS SOWINGS—FISHING—TURTLES' EGGS—PROGRESS OF MASTER JUP—THE CORRAL—HUNTING THE MOUFLONS—NEW VEGETABLE AND ANIMAL RICHES—RECOLLECTIONS OF THE ABSENT COUNTRY.
+THE LINEN—SHOES OF SEAL-LEATHER—MANUFACTURE OF PYROXYLINE—VARIOUS SOWINGS—FISHING—TURTLES’ EGGS—PROGRESS OF MASTER JUP—THE CORRAL—HUNTING THE MOUFFLONS—NEW VEGETABLE AND ANIMAL RICHES—RECOLLECTIONS OF THE ABSENT COUNTRY.
 
 The first week of January was devoted to making the linen necessary for the colony. The needles found in the chest worked between vigorous, if not delicate, fingers, and it may be affirmed that what was sewn was sewn solidly.
 
@@ -34,11 +34,11 @@ About this time the colonists cleared three acres (1) of Prospect Plateau, and t
 
 (1) The acre is equal to 0.4046 hectares.
 
-The warren always furnished its contingent of rabbits to the kitchens of Granite House. As it was situated a little outside the point where Glycerine Creek began, its inhabitants could not get upon the reserved plateau, nor, consequently, ravage the plantations newly made. As to the oyster-bed, laid out among the rocks of the beach, and of which the produce was frequently renewed, it gave excellent mollusks daily. Besides, the fishing, either in the waters of the lake or in the current of the Mercy, was not long in being fruitful. For Pencroff had set ground-lines, armed with iron hooks, on which were frequently taken fine trout, and certain fish, extremely savory, whose silvery sides were dotted with little yellowish spots. Thus Neb, who had charge of the cooking, was able to vary agreeably the bill of fare of each meal. Bread alone was still wanting at the colonists' table, and, as has been said, it was a privation which they truly felt.
+The warren always furnished its contingent of rabbits to the kitchens of Granite House. As it was situated a little outside the point where Glycerine Creek began, its inhabitants could not get upon the reserved plateau, nor, consequently, ravage the plantations newly made. As to the oyster-bed, laid out among the rocks of the beach, and of which the produce was frequently renewed, it gave excellent mollusks daily. Besides, the fishing, either in the waters of the lake or in the current of the Mercy, was not long in being fruitful. For Pencroff had set ground-lines, armed with iron hooks, on which were frequently taken fine trout, and certain fish, extremely savory, whose silvery sides were dotted with little yellowish spots. Thus Neb, who had charge of the cooking, was able to vary agreeably the bill of fare of each meal. Bread alone was still wanting at the colonists’ table, and, as has been said, it was a privation which they truly felt.
 
 About this time, also, they hunted the sea turtles which frequented the beaches of Mandible Cape. At that place the shore bristled with little swellings, which held perfectly spherical eggs, with a hard white shell, and whose albumen has the property of not coagulating like that of the eggs of birds. It was the sun which took charge of hatching them, and their number was naturally very considerable, since each turtle can lay as many as two hundred and fifty in a year.
 
-"A real field of eggs," observed Spilett, "and we have only to gather them."
+“A real field of eggs,” observed Spilett, “and we have only to gather them.”
 
 But they were not content with the produce; they also hunted the producers, a chase which allowed them to bring back to Granite House a dozen of these chelonians, truly very estimable from the alimentary point of view. Turtle broth, seasoned with aromatic herbs and set off with a few crucifers, often drew well-deserved praise upon Neb, its preparer.
 
@@ -48,43 +48,43 @@ It was at this time that the very intelligent Jup was raised to the office of va
 
 Judge, then, of the satisfaction which Master Jup gave one day to the guests of Granite House, when, with a napkin on his arm, and without their having been warned of it, he came to wait upon them at table. Adroit and attentive, he performed his service with perfect address, changing the plates, bringing the dishes, pouring out drink, and all with a gravity which amused the colonists to the last degree, and which filled Pencroff with enthusiasm.
 
-"Jup, some soup!"
+“Jup, some soup!”
 
-"Jup, a little agouti!"
+“Jup, a little agouti!”
 
-"Jup, a plate!"
+“Jup, a plate!”
 
-"Jup! Good Jup! Honest Jup!"
+“Jup! Good Jup! Honest Jup!”
 
 Nothing else was heard. And Jup, without ever being put out, answered every call and watched over everything. And he nodded his intelligent head when Pencroff, repeating his joke of the first day, said to him:—
 
-"Decidedly, Jup, we shall have to double your wages!"
+“Decidedly, Jup, we shall have to double your wages!”
 
 It is needless to say that the orang was by this time completely acclimated to Granite House, and that he often accompanied his masters into the forest without ever showing any desire to run away. It was a sight, then, to see him walk in the most amusing manner, with a cane which Pencroff had made for him, and which he carried on his shoulder like a gun! If some fruit was to be gathered from the top of a tree, how quickly he was up! If the wheel of the cart stuck in the mud, with what vigor Jup, with a single heave of his shoulder, set it on the right road again!
 
-"What a fellow!" Pencroff often exclaimed. "If he were as wicked as he is good, there would be no getting the better of him!"
+“What a fellow!” Pencroff often exclaimed. “If he were as wicked as he is good, there would be no getting the better of him!”
 
-It was towards the end of January that the colonists undertook great works in the central part of the island. It had been decided that near the sources of Red Creek, at the foot of Mount Franklin, a corral should be established, intended to hold the ruminants, whose presence would have been troublesome at Granite House, and more especially the mouflons, which were to furnish the wool destined for making the winter clothes.
+It was towards the end of January that the colonists undertook great works in the central part of the island. It had been decided that near the sources of Red Creek, at the foot of Mount Franklin, a corral should be established, intended to hold the ruminants, whose presence would have been troublesome at Granite House, and more especially the moufflons, which were to furnish the wool destined for making the winter clothes.
 
-Every morning the colony, sometimes all of it, most often only Smith, Herbert, and Pencroff, repaired to the sources of the creek. With the help of the onaggas, it was no more than a walk of five miles, under a dome of verdure, by the road newly traced, which took the name of "Corral Road."
+Every morning the colony, sometimes all of it, most often only Smith, Herbert, and Pencroff, repaired to the sources of the creek. With the help of the onaggas, it was no more than a walk of five miles, under a dome of verdure, by the road newly traced, which took the name of “Corral Road.”
 
-There a vast site had been chosen, on the very back of the southern shoulder of the mountain. It was a meadow, planted with clumps of trees, lying at the very foot of a spur which closed it in on one side. A little rio, born on its slopes, after watering the meadow diagonally, went on to lose itself in Red Creek. The grass was fresh, and the trees which grew here and there allowed the air to circulate freely over its surface. It was enough, then, to surround the said meadow with a palisade set out in a circle, which should rest at each end upon the spur, and high enough that animals, even the most agile, could not leap over it. This enclosure could contain, together with a hundred or so horned animals, mouflons or wild goats, the young ones which should be born in the course of time.
+There a vast site had been chosen, on the very back of the southern shoulder of the mountain. It was a meadow, planted with clumps of trees, lying at the very foot of a spur which closed it in on one side. A little rio, born on its slopes, after watering the meadow diagonally, went on to lose itself in Red Creek. The grass was fresh, and the trees which grew here and there allowed the air to circulate freely over its surface. It was enough, then, to surround the said meadow with a palisade set out in a circle, which should rest at each end upon the spur, and high enough that animals, even the most agile, could not leap over it. This enclosure could contain, together with a hundred or so horned animals, moufflons or wild goats, the young ones which should be born in the course of time.
 
 The perimeter of the corral was therefore traced by the engineer, and they had to proceed to the felling of the trees necessary for building the palisade. But, as the opening of the road had already required the sacrifice of a certain number of trunks, these were carted there, and they furnished a hundred or so stakes, which were firmly planted in the ground.
 
 In the front of the palisade a rather wide entrance was left, and closed by a door of two leaves made of strong planks, which were to be strengthened by bars on the outside.
 
-The construction of this corral took no less than three weeks; for, besides the work of the palisade, Smith raised vast sheds of planks, under which the ruminants could take refuge. Moreover, it had been necessary to build these constructions with extreme solidity, for mouflons are robust animals, and their first violence was to be feared. The stakes, pointed at their upper end, which had been hardened in the fire, had been made fast together by means of bolted cross-pieces. At intervals, props assured the solidity of the whole.
+The construction of this corral took no less than three weeks; for, besides the work of the palisade, Smith raised vast sheds of planks, under which the ruminants could take refuge. Moreover, it had been necessary to build these constructions with extreme solidity, for moufflons are robust animals, and their first violence was to be feared. The stakes, pointed at their upper end, which had been hardened in the fire, had been made fast together by means of bolted cross-pieces. At intervals, props assured the solidity of the whole.
 
-The corral finished, it remained to make a great drive at the foot of Mount Franklin, in the midst of the pastures frequented by the ruminants. This operation took place on the 7th of February, on a fine summer's day, and every one took part in it. The two onaggas, already fairly well broken in, and ridden by Spilett and Herbert, rendered great service on this occasion.
+The corral finished, it remained to make a great drive at the foot of Mount Franklin, in the midst of the pastures frequented by the ruminants. This operation took place on the 7th of February, on a fine summer’s day, and every one took part in it. The two onaggas, already fairly well broken in, and ridden by Spilett and Herbert, rendered great service on this occasion.
 
-The manoeuvre consisted solely in driving in the mouflons and the goats, by narrowing little by little the circle of the drive around them. Smith, Pencroff, Neb, and Jup accordingly posted themselves at different points of the wood, while the two horsemen and Top galloped within a radius of half a mile round the corral.
+The manoeuvre consisted solely in driving in the moufflons and the goats, by narrowing little by little the circle of the drive around them. Smith, Pencroff, Neb, and Jup accordingly posted themselves at different points of the wood, while the two horsemen and Top galloped within a radius of half a mile round the corral.
 
-The mouflons were numerous in this part of the island. These fine animals, as large as deer, with horns stronger than those of the ram, and a greyish fleece mingled with long hair, resembled argali.
+The moufflons were numerous in this part of the island. These fine animals, as large as deer, with horns stronger than those of the ram, and a greyish fleece mingled with long hair, resembled argali.
 
-A fatiguing day of hunting it was! What goings and comings, what runnings and counter-runnings, what shouts uttered! Out of a hundred or so mouflons which were driven in, more than two-thirds escaped the beaters. But, in the end, some thirty of these ruminants and ten or so wild goats, pushed back little by little towards the corral, whose open gate seemed to offer them a way out, rushed into it, and could be imprisoned.
+A fatiguing day of hunting it was! What goings and comings, what runnings and counter-runnings, what shouts uttered! Out of a hundred or so moufflons which were driven in, more than two-thirds escaped the beaters. But, in the end, some thirty of these ruminants and ten or so wild goats, pushed back little by little towards the corral, whose open gate seemed to offer them a way out, rushed into it, and could be imprisoned.
 
-On the whole, the result was satisfactory, and the colonists had no reason to complain. Most of these mouflons were females, some of which were soon to bring forth young. It was certain, therefore, that the flock would prosper, and that not only wool, but skins also, would be plentiful before very long.
+On the whole, the result was satisfactory, and the colonists had no reason to complain. Most of these moufflons were females, some of which were soon to bring forth young. It was certain, therefore, that the flock would prosper, and that not only wool, but skins also, would be plentiful before very long.
 
 That evening the hunters returned to Granite House worn out. Still, the next day they went back none the less to visit the corral. The prisoners had indeed tried to overturn the palisade, but they had not succeeded, and they were not long in becoming quieter.
 
@@ -92,9 +92,9 @@ During this month of February no event of any importance took place. The daily l
 
 Before the cold season returned, the most assiduous care was given also to the cultivation of the wild plants which had been transplanted from the forest to Prospect Plateau. Herbert scarcely ever came back from an excursion without bringing some useful plants. One day it was specimens of the chicory tribe, of which even the seed could furnish by pressure an excellent oil. Another, it was a common sorrel, whose anti-scorbutic properties were by no means to be despised; then some of those precious tubers which have been cultivated at all times in South America, those potatoes, of which more than two hundred species are counted to-day. The kitchen-garden, now well kept, well watered, and well defended against the birds, was divided into little squares, in which grew lettuces, kidney potatoes, sorrel, radishes, horseradish, and other crucifers. The soil of this plateau was prodigiously fertile, and they might hope that the harvests there would be abundant.
 
-Various drinks were not wanting either; and, provided one did not demand wine, the most difficult to please had no cause to complain. To the Oswego tea furnished by the Monarda didyma, and to the fermented liquor extracted from the roots of the dragon-tree, Smith had added a real beer. He made it from the young shoots of the "abies nigra," which, having been boiled and fermented, yielded that agreeable and particularly wholesome drink which the Anglo-Americans call "spring-beer," that is to say, spruce beer.
+Various drinks were not wanting either; and, provided one did not demand wine, the most difficult to please had no cause to complain. To the Oswego tea furnished by the Monarda didyma, and to the fermented liquor extracted from the roots of the dragon-tree, Smith had added a real beer. He made it from the young shoots of the “abies nigra,” which, having been boiled and fermented, yielded that agreeable and particularly wholesome drink which the Anglo-Americans call “spring-beer,” that is to say, spruce beer.
 
-Towards the end of the summer the poultry-yard possessed a fine pair of bustards, which belonged to the "houbara" species, distinguished by a sort of mantle of feathers; a dozen shovelers, whose upper mandible was prolonged on each side by a membranous appendage; and some magnificent cocks, black of comb, of wattle, and of skin, like the cocks of Mozambique, which strutted about on the shore of the lake.
+Towards the end of the summer the poultry-yard possessed a fine pair of bustards, which belonged to the “houbara” species, distinguished by a sort of mantle of feathers; a dozen shovelers, whose upper mandible was prolonged on each side by a membranous appendage; and some magnificent cocks, black of comb, of wattle, and of skin, like the cocks of Mozambique, which strutted about on the shore of the lake.
 
 Thus, then, everything succeeded, thanks to the activity of these courageous and intelligent men. Providence did much for them, no doubt; but, faithful to the great precept, they helped themselves first, and Heaven came afterwards to their aid.
 
@@ -104,4 +104,4 @@ They talked also of their country, of the dear and great America. How did that W
 
 Yes! they often talked of all these things, and formed besides many plans for the future!
 
-As to Smith, silent for the most part, he listened to his companions oftener than he spoke. Sometimes he smiled at some remark of Herbert's, at some sally of Pencroff's; but always and everywhere he was thinking of those inexplicable facts, of that strange enigma whose secret still escaped him!
+As to Smith, silent for the most part, he listened to his companions oftener than he spoke. Sometimes he smiled at some remark of Herbert’s, at some sally of Pencroff’s; but always and everywhere he was thinking of those inexplicable facts, of that strange enigma whose secret still escaped him!

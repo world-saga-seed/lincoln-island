@@ -10,7 +10,7 @@ This is the plan which was settled by the engineer, in agreement with the sailor
 
 The boat was to measure thirty-five feet in the keel and nine feet in the beam,—which would make her a good sailer, if her bottom and her water-lines came out well,—and she was not to draw more than six feet, a draught of water sufficient to hold her against leeway. She was to be decked her whole length, and pierced with two hatchways giving access to two cabins separated by a partition. She was to be rigged as a sloop, with mainsail, staysail, square-sail, gaff-topsail and jib, a rig very easily handled, lowering well in case of squalls, and very favorable for lying close to the wind. Lastly, her hull was to be carvel-built, that is to say, the planks were to lie flush instead of overlapping; and as to her frames, they would be put in hot, after the fitting of the planks, which were to be mounted on false frames.
 
-What wood should be employed in building this boat? The elm or the fir, both of which abounded in the island? They decided for the fir, a wood a little “shaky,” in the carpenters' phrase, but easy to work, and which bears immersion in water as well as the elm.
+What wood should be employed in building this boat? The elm or the fir, both of which abounded in the island? They decided for the fir, a wood a little “shaky,” in the carpenters’ phrase, but easy to work, and which bears immersion in water as well as the elm.
 
 These details settled, it was agreed that, since the fine season would not return for six months, Smith and Pencroff should work at the boat alone. Spilett and Herbert were to continue hunting, and neither Neb nor Master Jup, his assistant, would abandon the domestic work which had fallen to their share.
 
@@ -54,7 +54,7 @@ Spilett was at first surprised by the odor given off by certain plants with stra
 
 “There, in a clearing, where it grows very abundantly.”
 
-“Well, Mr. Spilett,” said Herbert, “here is a find which gives you every right to Pencroff's gratitude!”
+“Well, Mr. Spilett,” said Herbert, “here is a find which gives you every right to Pencroff’s gratitude!”
 
 “It is tobacco, then?”
 
@@ -68,7 +68,7 @@ Spilett was at first surprised by the odor given off by certain plants with stra
 
 The reporter and the lad laid in a good store of the precious plant, and they returned to Granite House, where they brought it in “as contraband,” and with as much precaution as if Pencroff had been the strictest of custom-house officers.
 
-Smith and Neb were taken into the secret, and the sailor suspected nothing during all the time, a rather long one, which was needed to dry the thin leaves, to chop them, and to subject them to a certain roasting upon hot stones. This took two months; but all these manipulations could be carried on without Pencroff's knowledge, for, busy with the building of the boat, he came up to Granite House only at the hour of rest.
+Smith and Neb were taken into the secret, and the sailor suspected nothing during all the time, a rather long one, which was needed to dry the thin leaves, to chop them, and to subject them to a certain roasting upon hot stones. This took two months; but all these manipulations could be carried on without Pencroff’s knowledge, for, busy with the building of the boat, he came up to Granite House only at the hour of rest.
 
 Once again, however, and in spite of himself, his favorite work was interrupted, on the 1st of May, by a fishing adventure in which all the colonists were obliged to take part.
 
@@ -95,7 +95,7 @@ Now it so happened that the whale which had been sighted seemed unwilling to lea
 
 It could be seen also throwing out from its blow-holes, to a great height, a cloud of vapor ... or of water; for—strange as the fact may appear—naturalists and whalers are not yet agreed on this subject. Is it air, or is it water, which is thus driven out? It is generally admitted to be vapor, which, condensing suddenly on contact with the cold air, falls again as rain.
 
-Meanwhile the presence of this marine mammal occupied the colonists' minds. It vexed Pencroff above all, and distracted him at his work. He ended by longing for this whale as a child longs for a thing which is forbidden it. At night he dreamed of it aloud; and certainly, if he had had the means of attacking it, if the launch had been fit to keep the sea, he would not have hesitated to set out in pursuit of it.
+Meanwhile the presence of this marine mammal occupied the colonists’ minds. It vexed Pencroff above all, and distracted him at his work. He ended by longing for this whale as a child longs for a thing which is forbidden it. At night he dreamed of it aloud; and certainly, if he had had the means of attacking it, if the launch had been fit to keep the sea, he would not have hesitated to set out in pursuit of it.
 
 But what the colonists could not do, chance did for them. On the 3rd of May shouts from Neb, posted at his kitchen window, announced that the whale was stranded on the shore of the island.
 
@@ -121,7 +121,7 @@ It was dead, and a harpoon was sticking out of its left side.
 
 “Eh! Mr. Spilett, that proves nothing,” replied Pencroff. “Whales have been seen to travel thousands of miles with a harpoon in their side; and if this one had been struck in the north of the Atlantic and had come to die in the south of the Pacific, there would be nothing to be astonished at!”
 
-“Nevertheless—” said Spilett, whom Pencroff's assertion did not satisfy.
+“Nevertheless—” said Spilett, whom Pencroff’s assertion did not satisfy.
 
 “That is perfectly possible,” replied Smith; “but let us examine this harpoon. Perhaps, following a fairly common custom, the whalers have engraved on it the name of their ship?”
 
@@ -137,11 +137,11 @@ And the sailor, brandishing the harpoon, repeated, not without emotion, that nam
 
 But, as they could not wait for the Maria-Stella to come and claim the animal she had harpooned, they resolved to proceed to the cutting up before decomposition set in. The birds of prey, which for some days had been watching this rich prey, wished without further delay to take possession, and it was necessary to drive them off with gunshots.
 
-This whale was a female, whose teats furnished a great quantity of milk which, in accordance with the opinion of the naturalist Dieffenbach, might pass for cow's milk; and, in fact, it differs from it neither in taste, nor in color, nor in density.
+This whale was a female, whose teats furnished a great quantity of milk which, in accordance with the opinion of the naturalist Dieffenbach, might pass for cow’s milk; and, in fact, it differs from it neither in taste, nor in color, nor in density.
 
 Pencroff had formerly served on board a whaling ship, and he was able to direct methodically the operation of cutting up,—a rather disagreeable operation, which lasted three days, but from which none of the colonists shrank, not even Spilett, who, as the sailor said, would end by making “a very good castaway.”
 
-The blubber, cut in parallel slices two feet and a half thick, then divided into pieces which might weigh a thousand pounds each, was melted down in large earthen vessels brought to the very place of the cutting up,—for they did not wish to taint the approaches to Prospect Plateau,—and in this melting it lost about a third of its weight. But there was abundance of it: the tongue alone gave six thousand pounds of oil, and the lower lip four thousand. Then, besides this fat, which was to secure for a long time their store of stearine and glycerine, there was the whalebone as well, which would doubtless find its use, although neither umbrellas nor corsets were worn at Granite House. The upper part of the cetacean's mouth was, in fact, furnished on both sides with eight hundred horny blades, very elastic, of fibrous texture, and fringed at their edges like two great combs, whose teeth, six feet long, serve to retain the thousands of animalcules, small fish, and mollusks on which the whale feeds.
+The blubber, cut in parallel slices two feet and a half thick, then divided into pieces which might weigh a thousand pounds each, was melted down in large earthen vessels brought to the very place of the cutting up,—for they did not wish to taint the approaches to Prospect Plateau,—and in this melting it lost about a third of its weight. But there was abundance of it: the tongue alone gave six thousand pounds of oil, and the lower lip four thousand. Then, besides this fat, which was to secure for a long time their store of stearine and glycerine, there was the whalebone as well, which would doubtless find its use, although neither umbrellas nor corsets were worn at Granite House. The upper part of the cetacean’s mouth was, in fact, furnished on both sides with eight hundred horny blades, very elastic, of fibrous texture, and fringed at their edges like two great combs, whose teeth, six feet long, serve to retain the thousands of animalcules, small fish, and mollusks on which the whale feeds.
 
 The operation ended, to the great satisfaction of those who had carried it out, the remains of the animal were abandoned to the birds, which would make every last vestige of it disappear, and the daily work was resumed at Granite House.
 

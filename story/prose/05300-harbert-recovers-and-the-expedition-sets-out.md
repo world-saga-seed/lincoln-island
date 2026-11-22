@@ -2,7 +2,7 @@
 
 CHAPTER LIII.
 
-INEXPLICABLE MYSTERY—HERBERT'S CONVALESCENCE—THE PARTS OF THE ISLAND TO BE EXPLORED—PREPARATIONS FOR DEPARTURE—THE FIRST DAY—THE NIGHT—THE SECOND DAY—THE KAURIS—THE PAIR OF CASSOWARIES—FOOTPRINTS IN THE FOREST.
+INEXPLICABLE MYSTERY—HERBERT’S CONVALESCENCE—THE PARTS OF THE ISLAND TO BE EXPLORED—PREPARATIONS FOR DEPARTURE—THE FIRST DAY—THE NIGHT—THE SECOND DAY—THE KAURIS—THE PAIR OF CASSOWARIES—FOOTPRINTS IN THE FOREST.
 
 Spilett took the box and opened it. It contained about two hundred grains of a white powder, a few particles of which he carried to his lips. The extreme bitterness of this substance could not deceive him. It was indeed the precious alkaloid of quinquina, the anti-periodic above all others.
 
@@ -52,7 +52,7 @@ Towards the end of the month Herbert was already walking over Prospect Plateau a
 
 The preparations required by this exploration were therefore begun, and they were to be considerable, for the colonists had sworn not to return to Granite House until their double object had been attained: on the one hand, to destroy the convicts and to find Ayrton again, if he still lived; on the other, to discover him who presided so effectually over the fortunes of the colony.
 
-Of Lincoln Island the colonists knew thoroughly all the eastern coast from Claw Cape to the Mandible Capes, the vast Tadorn's Fens, the neighborhood of Lake Grant, Jacamar Wood lying between the corral road and the Mercy, the courses of the Mercy and of Red Creek, and lastly the spurs of Mount Franklin, among which the corral had been established.
+Of Lincoln Island the colonists knew thoroughly all the eastern coast from Claw Cape to the Mandible Capes, the vast Tadorn’s Fens, the neighborhood of Lake Grant, Jacamar Wood lying between the corral road and the Mercy, the courses of the Mercy and of Red Creek, and lastly the spurs of Mount Franklin, among which the corral had been established.
 
 They had explored, but in an imperfect manner only, the vast shore of Washington Bay from Claw Cape to Reptile End, the wooded and marshy border of the west coast, and those interminable dunes which ended at the half-open mouth of Shark Gulf.
 
@@ -84,7 +84,7 @@ The cart was waiting on the shore, before the Chimneys. The reporter had require
 
 Neb placed himself at the head of the onaggas. Smith, the reporter, and the sailor went on in front. Top frisked about with a joyous air. Herbert had offered Jup a place in his vehicle, and Jup had accepted without ceremony. The moment of departure had come, and the little band set out.
 
-The cart first turned the angle of the river's mouth; then, after going up the left bank of the Mercy for a mile, it crossed the bridge at the end of which the road to Balloon Harbor began; and there the explorers, leaving that road on their left, began to plunge under the cover of those immense woods which formed the region of the Far West.
+The cart first turned the angle of the river’s mouth; then, after going up the left bank of the Mercy for a mile, it crossed the bridge at the end of which the road to Balloon Harbor began; and there the explorers, leaving that road on their left, began to plunge under the cover of those immense woods which formed the region of the Far West.
 
 During the first two miles the trees, widely spaced, allowed the cart to move about freely; from time to time it was necessary to cut through some creepers and forests of brushwood, but no serious obstacle stopped the march of the colonists.
 
@@ -100,7 +100,7 @@ In the second part of the day, about six miles from Granite House, the way becam
 
 On the evening of this first day the colonists camped about nine miles from Granite House, on the bank of a little tributary of the Mercy, of whose existence they had been ignorant, and which must belong to the hydrographic system to which this soil owed its astonishing fertility.
 
-They supped plentifully, for the colonists' appetites were sharply whetted, and measures were taken that the night might pass without mishap. If the engineer had had to deal only with wild beasts, jaguars or others, he would simply have lighted fires around his encampment, which would have been enough to defend it; but the convicts would rather have been attracted than stopped by these flames, and in that case it was better to surround themselves with deep darkness.
+They supped plentifully, for the colonists’ appetites were sharply whetted, and measures were taken that the night might pass without mishap. If the engineer had had to deal only with wild beasts, jaguars or others, he would simply have lighted fires around his encampment, which would have been enough to defend it; but the convicts would rather have been attracted than stopped by these flames, and in that case it was better to surround themselves with deep darkness.
 
 The watch, besides, was strictly organized. Two of the colonists were to watch together, and it was agreed that every two hours they should be relieved by their comrades. Now, as Herbert, in spite of his protests, was excused from guard, Pencroff and Spilett on the one hand, and the engineer and Neb on the other, mounted guard by turns at the approaches to the camp.
 
@@ -128,7 +128,7 @@ As to the traces left by the convicts in the forest, some more were found. Near 
 
 “No, Pencroff!”
 
-“It is the ball that went through Herbert's breast, and I promise you that one will not miss its mark!”
+“It is the ball that went through Herbert’s breast, and I promise you that one will not miss its mark!”
 
 But these just reprisals could not give back life to Ayrton, and from this examination of the footprints left on the ground they must, alas! conclude that there was no longer any hope to be kept of ever seeing him again!
 

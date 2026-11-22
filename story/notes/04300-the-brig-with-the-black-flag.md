@@ -32,7 +32,7 @@
 
 - The telegraph is described in II.18 ¶48 as an electromagnet, a plate, and "a needle set on a dial"; here ¶19 reads "the bell rang". Card neither. *(Drafted.)*
 - ¶61 decides to light a fire at Port Balloon; ¶79 orders "Let all the fires be put out." The text moves from one to the other when the black flag is seen (¶62–¶77). Card neither. *(Drafted.)*
-- ¶92 puts the brig at "more than eight miles" at half past seven; ¶102 says "a mile and a quarter from the coast" after the shot. Card neither. *(Drafted.)*
+- ¶92 puts the brig at "not more than eight miles" ("Il n'en était pas à plus de huit milles") at half past seven; ¶102 says "a mile and a quarter from the coast" after the shot. Card neither. *(Drafted.)*
 - ¶1 says "For two and a half years"; the chapter gives no landing date (II.18 ¶82 gives 26 March as the second anniversary). *(Drafted.)*
 - ¶15 gives Tabor at 150 miles in longitude and 75 in latitude; II.19 ¶8 says the nearest land is "at least" twelve hundred miles, which is about land other than Tabor. *(My reading, to confirm.)*
 - ¶97 gives a new moon on 17 October; II.19 ¶73 gives a full moon on 18 April. *(My reading, to confirm.)*

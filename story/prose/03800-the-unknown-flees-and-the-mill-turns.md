@@ -2,7 +2,7 @@
 
 CHAPTER XXXVIII.
 
-A MYSTERY TO BE CLEARED UP—THE FIRST WORDS OF THE UNKNOWN—TWELVE YEARS ON THE ISLET—CONFESSIONS WHICH ESCAPE HIM—THE DISAPPEARANCE—CYRUS SMITH'S CONFIDENCE—CONSTRUCTION OF A MILL—THE FIRST BREAD—AN ACT OF DEVOTION—HONEST HANDS.
+A MYSTERY TO BE CLEARED UP—THE FIRST WORDS OF THE UNKNOWN—TWELVE YEARS ON THE ISLET—CONFESSIONS WHICH ESCAPE HIM—THE DISAPPEARANCE—CYRUS SMITH’S CONFIDENCE—CONSTRUCTION OF A MILL—THE FIRST BREAD—AN ACT OF DEVOTION—HONEST HANDS.
 
 Yes! the unhappy man had wept! Some recollection, doubtless, had crossed his mind, and, to use the expression of Cyrus Smith, he had made himself a man again by his tears.
 
@@ -16,7 +16,7 @@ The sailor reported these words to his companions.
 
 “There is some painful mystery there!” said Cyrus Smith.
 
-The Unknown had begun to use the tools of husbandry, and he worked in the kitchen garden. When he stopped in his task, which often happened, he remained wrapped up in himself; but, at the engineer's request, the solitude which he seemed to wish to keep was respected. If one of the colonists approached him, he drew back, and sobs heaved his breast, as if it had been too full!
+The Unknown had begun to use the tools of husbandry, and he worked in the kitchen garden. When he stopped in his task, which often happened, he remained wrapped up in himself; but, at the engineer’s request, the solitude which he seemed to wish to keep was respected. If one of the colonists approached him, he drew back, and sobs heaved his breast, as if it had been too full!
 
 Was it remorse, then, which thus weighed him down? It might be believed so, and Spilett could not help making this observation one day:—
 
@@ -90,7 +90,7 @@ Herbert had reported to the colonists the questions which had been put to him, a
 
 “Yes!” added Herbert, “and he had already been twelve years on the islet when we found him there!”
 
-“Twelve years!” replied Cyrus Smith. “Ah! twelve years of solitude, after an accursed existence, perhaps, may well impair a man's reason!”
+“Twelve years!” replied Cyrus Smith. “Ah! twelve years of solitude, after an accursed existence, perhaps, may well impair a man’s reason!”
 
 “I am inclined to believe,” said Pencroff then, “that this man did not come to Tabor Island by shipwreck, but that he was left there in consequence of some crime.”
 
@@ -128,13 +128,13 @@ Herbert had reported to the colonists the questions which had been put to him, a
 
 “And then,” added the sailor, “if the document was several years old, if it had been shut up in that bottle for several years, it would have been damaged by the damp. Now, there was nothing of the kind, and it was in a perfect state of preservation.”
 
-The sailor's observation was very just, and there was in it a fact beyond comprehension; for the document seemed to have been recently written when the colonists found it in the bottle. Moreover, it gave the situation of Tabor Island in latitude and longitude with precision, which implied in its author a tolerably complete knowledge of hydrography, such as a common sailor could not have.
+The sailor’s observation was very just, and there was in it a fact beyond comprehension; for the document seemed to have been recently written when the colonists found it in the bottle. Moreover, it gave the situation of Tabor Island in latitude and longitude with precision, which implied in its author a tolerably complete knowledge of hydrography, such as a common sailor could not have.
 
 “There is in this, once again, something inexplicable,” said the engineer; “but let us not provoke our new companion to speak. When he wishes it, my friends, we shall be ready to hear him!”
 
-During the days which followed, the Unknown did not pronounce a word, and did not once leave the precincts of the plateau. He worked at the soil without losing an instant, without taking a moment's rest, but always apart. At meal-times he did not go up to Granite House, although the invitation had been made to him several times, and he contented himself with eating a few raw vegetables. When night came, he did not return to the room which had been assigned to him, but remained out there, under some clump of trees, or, when the weather was bad, he crouched in some hollow of the rocks. Thus he still lived as in the time when he had had no other shelter than the forests of Tabor Island. All urging to make him change his life had been in vain, and the colonists waited patiently. But the moment was at last coming when, imperiously, and driven against his will by his conscience, terrible confessions were to escape him.
+During the days which followed, the Unknown did not pronounce a word, and did not once leave the precincts of the plateau. He worked at the soil without losing an instant, without taking a moment’s rest, but always apart. At meal-times he did not go up to Granite House, although the invitation had been made to him several times, and he contented himself with eating a few raw vegetables. When night came, he did not return to the room which had been assigned to him, but remained out there, under some clump of trees, or, when the weather was bad, he crouched in some hollow of the rocks. Thus he still lived as in the time when he had had no other shelter than the forests of Tabor Island. All urging to make him change his life had been in vain, and the colonists waited patiently. But the moment was at last coming when, imperiously, and driven against his will by his conscience, terrible confessions were to escape him.
 
-On the 10th of November, towards eight o'clock in the evening, just as it was beginning to grow dark, the Unknown presented himself unexpectedly before the colonists, who were assembled under the veranda. His eyes shone strangely, and his whole person had taken on again the savage aspect of his bad days.
+On the 10th of November, towards eight o’clock in the evening, just as it was beginning to grow dark, the Unknown presented himself unexpectedly before the colonists, who were assembled under the veranda. His eyes shone strangely, and his whole person had taken on again the savage aspect of his bad days.
 
 Cyrus Smith and his companions were struck dumb on seeing that, under the sway of a terrible emotion, his teeth were chattering like those of a man in a fever. What was the matter with him, then? Was the sight of his fellow-men insupportable to him? Had he had enough of this existence among honest people? Was the longing for his brutish state taking hold of him again? They were obliged to think so, when they heard him express himself thus, in incoherent phrases:—
 

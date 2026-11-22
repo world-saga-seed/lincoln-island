@@ -152,7 +152,7 @@ They hurried on, their hearts beating quick with fear for their new comrade, to 
 
 Soon they reached the place where the road lay along by the little brook flowing from Red Creek, which watered the meadows of the corral. They had moderated their pace, so as not to be out of breath at the moment when a struggle might perhaps become necessary. Their guns were no longer at half-cock, but cocked. Each of them watched one side of the woods. Top kept up a low, ill-omened growling.
 
-At last the fenced enclosure appeared behind the trees. They saw no signs of devastation. The door was closed as usual; a profound silence reigned at the corral. Neither the accustomed bleatings of the mouflons nor the voice of Ayrton was to be heard.
+At last the fenced enclosure appeared behind the trees. They saw no signs of devastation. The door was closed as usual; a profound silence reigned at the corral. Neither the accustomed bleatings of the moufflons nor the voice of Ayrton was to be heard.
 
 “Let us go in,” said Smith, and the engineer advanced, while his companions, keeping guard twenty paces from him, stood ready to fire.
 

@@ -92,7 +92,7 @@ It might be concluded, then, that the convicts were at that time in the corral, 
 
 Spilett and Pencroff listened.
 
-Not a sound within the enclosure. The mouflons and the goats, asleep no doubt in their stables, in no way disturbed the calm of the night.
+Not a sound within the enclosure. The moufflons and the goats, asleep no doubt in their stables, in no way disturbed the calm of the night.
 
 The reporter and the sailor, hearing nothing, asked themselves whether they ought to scale the palisade and penetrate into the corral. This was contrary to Smith’s instructions.
 

@@ -1,4 +1,4 @@
-# No Fire, Cyrus's Plan, the Capybara Hunt (final)
+# No Fire, Cyrus’s Plan, the Capybara Hunt (final)
 
 CHAPTER IX.
 

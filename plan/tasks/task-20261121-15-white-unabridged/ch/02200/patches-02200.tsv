@@ -21,7 +21,7 @@ P19	new	I would like them twice as much.”	I would like them twice as much!”
 P20	slip	known by there dark color	known by their dark color
 P21	new	the weather moderated suddenly	the weather changed suddenly
 P22	new	The wind soon rose with great violence	The wind soon rose with extreme violence
-P23	22.3	The hurricane, coming steadily from the northwest, spent its force on the other side of the island, and the eastern lookout of Granite House preserved it from a direct attack.	However, the hurricane, coming from the northwest, spent its force on the other side of the island, and the aspect of Granite House preserved it from a direct attack.
+P23	22.3	The hurricane, coming steadily from the northwest, spent its force on the other side of the island, and the eastern lookout of Granite House preserved it from a direct attack.	However, the hurricane, coming from the northwest, took the island in the rear, and the aspect of Granite House preserved it from a direct attack.
 P24	new	neither Smith nor his companions could venture outside	neither Smith nor his companions could, in spite of their wish, venture outside
 P25	slip	roar though Jacamar Woods	roar through Jacamar Woods
 P26	new	with the reflection that there would be fewer to cut down.	with the reflection that he would be spared the trouble of cutting them down.
@@ -91,3 +91,9 @@ P89	new	Let us see; these little peccaries	Look! these two little peccaries
 P90	new	and was soon absorbed over the oven. The two prepared	and was soon absorbed over the oven. They let him have his own way. The two prepared
 P91	22.21	smoked ham, pistachio nuts, dragon-tree wine	smoked ham, pine kernels, dragon-tree wine
 P92	new	“The matter is that I have just lost a tooth!”	“The matter is—the matter is—that I have just broken a tooth!”
+P93	critic	specimens of those foxes	specimens of those culpeux
+P94	critic	What, exactly, are these carnivora?	What, exactly, are these felines?
+P95	critic	as if trying to raise them up	as if trying to raise it up
+P96	critic	in a favorable part of the island	at some point of the island
+P97	critic	redoubled their anxiety	redoubled their desire
+P98	critic	only three months old	not even three months old

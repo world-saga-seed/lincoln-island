@@ -127,3 +127,6 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.22: patcher v2, 92 patches (22 listed, 62 new, 8 slips); all apply. "amandes de pin-pignon" as "pine kernels" (R1121-152). Facts 1 runs.
 - 2026-11-21 I.21 facts 2: 4, patched ("infusoires", "astre", the added "from its changes", "ressusciter"). The omission critic runs.
 - 2026-11-21 I.21 omission: 0. I.21 waits for voice (with I.22). II.1's patcher runs.
+- 2026-11-21 I.22 facts 1: 9; seven patched (culpeux; "à revers"; "féliens"; the lid; "en quelque point"; "désir"; "pas seulement trois mois"). Kept: White's "tajassans" and "dragon-tree wine" (his forms). Facts 2 runs.
+- 2026-11-21 I.22 facts 2: 1 ("tajassans", White's form, kept). The omission critic runs. II.1's patcher failed on a login timeout (it left a patch file of unknown completeness; set aside as patches-02300.partial.tsv) and is relaunched.
+- 2026-11-21 I.22 omission: 0. Voice on I.21, I.22 runs.

@@ -27,7 +27,7 @@
 - **Plain, exact and even.** The narrator slows for work and process, and his figures and measures gather there. *(Settled R1121-95.)*
 - **A stretch of nothing goes into a sentence:** "Pendant tout ce mois de juin, le temps fut employé à des travaux divers" (I.20 ¶2). *(Settled R1121-95.)*
 - **Under stress, a one-line paragraph says the plain fact,** as "Il n’y avait plus d’échelle." (II.5 ¶120). *(Settled R1121-95.)*
-- **In 01950:** close, exact detail at the float; short sentences in the squall; almost none at the smooth sand. *(Settled R1121-95.)*
+- **In 01950:** close, exact detail at the float; almost none at the smooth sand. *(Settled R1121-95.)* Its short narration sentences join as White joins them, down to his rate, the squall included. *(Settled R1121-159.)*
 - **Comparisons come from the speaker's world.** The narrator's come from science, geography and the sea. Pencroff's come from ships and the sea, Herbert's from natural history. Nothing modern, and nothing after 1875 (world rule 0). *(Settled R1121-99.)*
 
 ## Texture

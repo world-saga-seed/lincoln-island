@@ -28,11 +28,11 @@ Doubtless Captain Nemo heard Smith’s words, for, raising himself up a little, 
 
 Smith and his companions had gathered round the divan, and they arranged the cushions so that the dying man was more comfortably placed.
 
-They saw that his gaze was fixed upon all the marvels of the saloon, lit up by the rays of electric light sifting through the arabesques of the luminous ceiling. He looked, one after another, upon the pictures, those chefs d’œuvre of Italian, Flemish, French, and Spanish masters, which hung on the splendid tapestries of the walls, upon the reductions in marble and bronze which stood upon their pedestals, upon the magnificent organ standing against the after partition, upon the glasses arranged around a central vase in which were displayed the most admirable products of the sea, marine plants, zoophytes, chaplets of pearls of an inappreciable value, and at length his attention was fixed upon this device, the device of the Nautilus inscribed upon the front of this museum:—
+They saw that his gaze was fixed upon all the marvels of the saloon, lit up by the rays of electric light sifting through the arabesques of the luminous ceiling. He looked, one after another, upon the pictures, those chefs-d’oeuvre of Italian, Flemish, French, and Spanish masters, which hung on the splendid tapestries of the walls, upon the reductions in marble and bronze which stood upon their pedestals, upon the magnificent organ standing against the after partition, upon the glasses arranged around a central vase in which were displayed the most admirable products of the sea, marine plants, zoophytes, chaplets of pearls of an inappreciable value, and at length his attention was fixed upon this device, the device of the Nautilus inscribed upon the front of this museum:—
 
 MOBILIS IN MOBILI.
 
-It seemed as if he wished to caress with his regard, one last time, those chefs d’oeuvre of art and nature to which he had limited his horizon during a sojourn of so many years in the depths of the sea!
+It seemed as if he wished to caress with his regard, one last time, those chefs-d’oeuvre of art and nature to which he had limited his horizon during a sojourn of so many years in the depths of the sea!
 
 Smith respected Captain Nemo’s silence. He waited for him to speak.
 

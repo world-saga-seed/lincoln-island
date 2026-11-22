@@ -296,3 +296,6 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.18 facts 2: 4, patched ("de chacun"; "assombrissements passagers"; "gerbes de feu"; "fourrage"). The omission critic runs.
 - 2026-11-21 III.19 omission: 0. III.19 waits for voice.
 - 2026-11-21 III.18 omission: 3, patched ("accumulées à la bouche du cratère … projetées par le volcan"; "d'un jet rapide"; "donc … suffisamment"). Voice on III.17, III.18, III.19 runs.
+- 2026-11-21 III.20: patcher v2, 41 patches (8 listed, 31 new, 2 slips); all apply. White's glossary (his ¶54 to ¶146, 92 entries and the map plate) taken out of the chapter, pending the author's word: it is the edition's, not Verne's. Facts 1 runs.
+- 2026-11-21 III.20 facts 1: 1 ("Monsieur" to Robert Grant), patched as "Sir". Facts 2 runs.
+- 2026-11-21 Voice 59-60-61: 11 findings, no break; two mended (one spelling, one seam); the rest White's or Verne's. III.17, III.18, III.19 final.

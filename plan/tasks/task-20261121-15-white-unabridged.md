@@ -121,3 +121,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.17 facts 2: 3, patched ("ce granit"; "le but à atteindre" as its own sentence; "cadre" as frame, three times). The omission critic runs.
 - 2026-11-21 I.18 facts 2: 3 ("faite au lac", "c'est-à-dire", "plus frais"), patched. The omission critic runs.
 - 2026-11-21 I.17 omission: 1 ("ensuite"); I.18 omission: 1 ("C'est ce qui fut fait"); both patched. Voice on I.17, I.18 (a batch of two) and I.21's patcher run.
+- 2026-11-21 Voice on I.17, I.18: no break; one restored sentence split. **I.17, I.18 final.** Part I wants only I.21 and I.22.

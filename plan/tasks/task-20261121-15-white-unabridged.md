@@ -65,3 +65,6 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.6 facts critic: 0 findings. The omission critic runs.
 - 2026-11-21 I.6 omission: 0 losses. The voice critic for I.1, I.2 and I.6 (`make_voice.py`, by threes).
 - 2026-11-21 Voice on I.1, I.2, I.6: no break; the weak findings are Verne's or White's own sentences, untouched. **I.1, I.2 and I.6 final** in story/prose. Quotation marks differ between files (straight in the renders, curly in White): a matter for the build.
+- 2026-11-21 I.3: patcher v2, 67 patches (23 listed, 42 new, 2 slips; îlot as "islet" throughout); "pôle austral du monde" set as "the south pole of the heavens" on the main session's call. Facts 1 on I.3 and I.4's patcher run.
+- 2026-11-21 I.3 facts 1: 1 ("la partie nord du nouveau continent", P68); facts 2: 3 (the surf's rattle, "devaient penser", "plutonien", P69 to P71). The omission critic runs.
+- 2026-11-21 I.3 omission: 0. I.3 waits for voice. I.7's patcher runs.

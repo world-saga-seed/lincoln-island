@@ -76,7 +76,7 @@ He rapped the glass with his knuckle, where the shells had broken away.
 
 The sailor might well say so, for only in late years had fishermen begun to buoy their great nets with globes of blown glass, which do not drink the water as cork does, and neither rot nor sink. They were new still, and rare; no fishery of the Pacific had yet taken them up. The fishermen of those seas buoyed their nets with cork and wood.
 
-The sea opens strange roads to floating bodies. In the South Pacific the waters turn in a great round: up the coasts of Chile and Peru, westward below the line, then south, and back to the east under the westerly winds. Whatever falls into that round, a spar, a cask, a float, it carries for months and for years.
+The sea opens strange roads to floating bodies. In the South Pacific the waters turn in a great round: up the coasts of Chile and Peru, westward below the line, then south, and back to the east under the westerly winds. Whatever falls into that round, a spar or a cask, it carries for months and for years.
 
 Herbert picked up a stone from the bar and began to knock away the crust, a little at a time, holding his hand very lightly, for fear of cracking the glass. Pencroff, on his knees, held the ball steady with both hands, and kept one eye upon the water.
 

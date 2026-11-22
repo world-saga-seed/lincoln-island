@@ -207,3 +207,9 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.17 omission: 0. II.17 waits for voice with II.16 and II.18.
 - 2026-11-21 II.18 omission: 0. Voice on II.16, II.17, II.18 runs.
 - 2026-11-21 Voice on II.16, II.17, II.18: no break; four render lines and one seam mended. **II.16, II.17, II.18 final.**
+- 2026-11-21 II.19: patcher v2, 75 patches (17 listed, 54 new, 4 slips); all apply; the H17 lines (the fire of the night of 19 to 20 October, "to leeward") brought to the French and kept. Facts 1 runs.
+- 2026-11-21 II.19 facts 1: 3, patched ("j'ajouterai"; Tabor named twice where White's "the island" reads as Lincoln). Facts 2 runs.
+- 2026-11-21 II.20: rendered; 3,682 words against 3,838; 0 banned; 7 knots, for voice. The part-end line (ln2) dropped, as I.22's ln3 is: the build gives the parts. n1 as texts/fr-1875 gives it (83 km/h; the bundle notes the print's 106). Facts 1 runs.
+- 2026-11-21 II.19 facts 2: 5, patched ("aiguade"; "reparu … seulement"; "tout d'abord"; "une banquise"; "d'un roc à l'autre"). The omission critic runs.
+- 2026-11-21 II.20 facts 1: 0. Facts 2 runs.
+- 2026-11-21 II.19 omission: 0. II.19 waits for voice with II.20.

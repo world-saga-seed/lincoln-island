@@ -227,3 +227,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 III.3 facts 2: 0. The omission critic runs.
 - 2026-11-21 III.2 facts 2: 8; six patched ("forfanterie"; "il fallait combattre … détruire jusqu'au dernier", with White's doubled "must be destroyed" taken out; "l'armement"; "à l'intérieur du brick"; "bandits, armés de toutes pièces"; "nous saurons mourir"); the islet and the Speedy note as before. The omission critic runs.
 - 2026-11-21 III.3 omission: 0. III.3 waits for voice.
+- 2026-11-21 III.2 omission: 3; "en somme" patched; the Speedy note and ¶78 (a caption line repeating ¶77) left. III.2 waits for voice. Voice on III.1, III.2, III.3 runs.

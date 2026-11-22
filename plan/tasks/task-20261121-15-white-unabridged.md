@@ -205,3 +205,4 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.17 facts 2: 2, patched ("20 décembre"; "un peu protégé par la pénombre"). The omission critic runs.
 - 2026-11-21 II.18 facts 2: 2, patched ("autant de courants"; "récepteur"). The omission critic runs.
 - 2026-11-21 II.17 omission: 0. II.17 waits for voice with II.16 and II.18.
+- 2026-11-21 II.18 omission: 0. Voice on II.16, II.17, II.18 runs.

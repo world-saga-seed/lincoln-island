@@ -22,6 +22,26 @@ if act == 'patch':
     s = open(T + '/patcher-v2.md', encoding='utf-8').read()
     s = s.replace('{NN}', '%02d' % nn).replace('{OUT}', str(tsv))
     (d / 'prompt-patch.md').write_text(s, encoding='utf-8')
+if act == 'render':
+    def roman(n):
+        out = ''
+        for v, r in [(50, 'L'), (40, 'XL'), (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I')]:
+            while n >= v: out += r; n -= v
+        return out
+    subprocess.run(['python3', T + '/build_bundle.py', str(nn), str(d)], check=True, capture_output=True)
+    s = open(T + '/pilot/prompt-render-05600.md', encoding='utf-8').read()
+    fr = open('texts/fr-1875/%02d.md' % nn, encoding='utf-8').read()
+    fw = len(re.findall(r'\w+', re.sub(r'^\S+ ', '', fr, flags=re.M)))
+    part, ch = ('I', nn) if nn <= 22 else ('II', nn - 22) if nn <= 42 else ('III', nn - 42)
+    s = (s.replace('III.14', '%s.%d' % (part, ch)).replace(T + '/pilot/bundle-05600.md', str(d / ('bundle-%s.md' % code)))
+          .replace(T + '/pilot/05600-the-new-ship-and-the-third-winter.md', str(draft))
+          .replace('# The New Ship and the Third Winter (draft 1)', '# %s (draft 1)' % title)
+          .replace('CHAPTER LVI.', 'CHAPTER %s.' % roman(nn)).replace('about 3,800 words', 'about {:,} words'.format(round(fw, -2)))
+          .replace('(the pilot, R1121-147; from the phase 8 drafter\'s prompt)', '(R1121-149; from the pilot\'s)'))
+    s = s.replace('story/voice/names.md (White\'s forms of the names)', 'story/voice/names.md (White\'s forms of every name in the book: use his usual form; never a form from another translation; where it says "none in White", use its proposal)')
+    s = s.replace('Running that one command is the only command you may run.', 'Running that one command is the only command you may run: no other command, no script, no python. Make every change with your editing tool.')
+    assert '05600' not in s and 'LVI' not in s, 'render prompt'
+    (d / 'prompt-render.md').write_text(s, encoding='utf-8')
 subprocess.run(['python3', T + '/make_critics.py', str(nn), str(draft), str(d)], check=True, capture_output=True)
 for k in ['facts']:
     p = d / ('prompt-critic-%s-%s.md' % (k, code)); s = p.read_text(encoding='utf-8')

@@ -176,3 +176,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 Voice on II.7, II.8, II.9: no break; renders and one seam mended (voice/findings-29-30-31.md). **II.7, II.8, II.9 final.**
 - 2026-11-21 II.11: rendered; 3,840 words against 4,006; 0 banned; "lift" made White's "elevator" (the render prompt now says so). II.12: rendered; 4,356 against 4,683; 0 banned; "lift" made "elevator"; ln3 (the bottle's document, French in the French edition) given in English, as II.13 ¶6 says it is English *(Resolved by judgment, overturnable.)*. The boat's name (Verne's "Bonadventure", Pencroff's baptismal name; White's "Good Luck") put to the author; II.12 waits for it. Facts 1 runs on both.
 - 2026-11-21 R1121-155: the Bonadventure everywhere; names.md, patcher-v2 and the render prompts carry it; II.12 made so (8 names). Drift logged in plan/state.md: the pilot final 05600 has "Good Luck" once; not edited. II.11 facts 1: 3; "SMITH ALONE" (White's form) in the heading, "éléments constitutifs" made "constituent"; White's "Bennett" kept as his form of the name. II.12 facts 1: 8, all the boat's name, already met by R1121-155. Facts 2 runs on both.
+- 2026-11-21 II.11 facts 2: 1, "Benett" again; White's "Bennett" kept (his form of the name; the Herald's Bennett). The omission critic runs.
+- 2026-11-21 II.12 facts 2: 0. The omission critic runs.
+- 2026-11-21 II.11 omission: 0. II.11 waits for voice with II.10 and II.12.
+- 2026-11-21 II.12 omission: 0. Voice on II.10, II.11, II.12 runs.

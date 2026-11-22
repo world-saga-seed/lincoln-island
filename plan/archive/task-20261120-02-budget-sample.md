@@ -5,7 +5,7 @@
 - **Related study:** none.
 - **Region:** writes new cards in `world/people/`, `world/places/` and `world/things/`, the two agents' reports in this task's folder, and `plan/records/tokens.md`. Reads `texts/fr-1875/01.md`, `13.md` and `58.md`.
 - **Wave:** none.
-- **Start hash:** b6bdffe, 2026-11-20.
+- **Start hash:** 9e38de2, 2026-11-20.
 - **End hash:** (on close)
 - **Status:** Done.
 

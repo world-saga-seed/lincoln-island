@@ -1,6 +1,6 @@
 # Inventions log: 01950, final (R1121-132)
 
-*Every new fact the final XIX bis puts into the world, so that each can be carded and cited to the chapter. "¶" counts the chapter's paragraphs from "On the 1st of June" as ¶1; the chapter number and White-style heading are not counted. The source is the final text, `story/prose/01950-the-float-in-the-bar.md` (430c257). "Made by" says whose the fact is: the author's ruling, the drafter's, or the main session's. The neighbours' four patches (P1, P2, P4, P5) render the French and add no fact.*
+*Every new fact the final XIX bis puts into the world, so that each can be carded and cited to the chapter. "¶" counts the chapter's paragraphs from "On the 1st of June" as ¶1; the chapter number and White-style heading are not counted. The source is the final text, `story/prose/01950-the-float-in-the-bar.md` (7605bc4). "Made by" says whose the fact is: the author's ruling, the drafter's, or the main session's. The neighbours' four patches (P1, P2, P4, P5) render the French and add no fact.*
 
 | # | The new fact, plainly | ¶ | Cards it touches | Made by |
 |---|---|---|---|---|

@@ -5,7 +5,7 @@
 - **Related study:** none.
 - **Region:** writes this task and its folder (`build_prompts.py`, the three prompts, and later the six replies with their records). Reads `texts/white-1876/18.md` to `21.md` and `texts/fr-1875/19.md`, `20.md`.
 - **Wave:** none.
-- **Start hash:** db2c80c 2026-11-21.
+- **Start hash:** 1815e4b 2026-11-21.
 - **End hash:** (on close)
 - **Status:** Closed.
 

@@ -2,7 +2,7 @@
 """Apply patches.tsv (¶ in a new text is a paragraph break; an empty new text deletes) to the draft 3 copies, each old text found exactly once; set the title to draft 3."""
 import csv, glob, pathlib, re, shutil, sys
 T = pathlib.Path(__file__).parent
-# Always rebuild from v1 (base/, from c81c23f), so no patch applies twice.
+# Always rebuild from v1 (base/, from 625df56), so no patch applies twice.
 for src in glob.glob(str(T / 'base' / '*.md')):
     shutil.copy(src, T / 'draft4' / pathlib.Path(src).name)
 rows = list(csv.DictReader(open(T / 'patches.tsv', encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))

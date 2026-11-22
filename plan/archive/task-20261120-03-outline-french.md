@@ -5,7 +5,7 @@
 - **Related study:** `plan/archive/task-20261120-02-budget-sample.md` (the carders' Open lines on the text's own discords).
 - **Region:** writes `story/outline/NNNNN-slug.md`, `story/notes/NNNNN-slug.md` and `story/calendar/timeline.md`, and this task's folder. Reads `texts/fr-1875/`.
 - **Wave:** none.
-- **Start hash:** 9ceda4b, 2026-11-20.
+- **Start hash:** fed28ac, 2026-11-20.
 - **End hash:** (on close)
 - **Status:** Closed, 2026-11-20 (the Resolution; the status line was left stale until 2026-11-21).
 

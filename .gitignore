@@ -16,3 +16,12 @@ tmp/
 *.opus
 *.aac
 *:Zone.Identifier
+
+# Raw sources: kept local, fetched by each SOURCE.md and checked by SHA256SUMS (R1121-180)
+existing/hetzel-1875/raw/
+existing/vingt-mille-hetzel-1870/raw/
+existing/kingston-1875/milnd11.txt
+existing/kingston-1875/themysteriousisl01268gut_meta.xml
+existing/white-1876/8misl10h.htm
+existing/white-1876/8misl10h.zip
+existing/white-1876/pg8993.rdf

@@ -1,6 +1,6 @@
 # Inventions log: 01950, draft 4 final (R1121-141)
 
-*The facts the final of draft 4 adds or changes against the final of R1121-132, whose 45 rows were checked then (`plan/archive/task-20261121-13-refine/inventions-final.md`). The source is `story/prose/01950-the-float-in-the-bar.md` (f3e8245). "Made by" names the ruling.*
+*The facts the final of draft 4 adds or changes against the final of R1121-132, whose 45 rows were checked then (`plan/archive/task-20261121-13-refine/inventions-final.md`). The source is `story/prose/01950-the-float-in-the-bar.md` (a98942e). "Made by" names the ruling.*
 
 | # | The new or changed fact | Where | Cards it touches | Made by |
 |---|---|---|---|---|

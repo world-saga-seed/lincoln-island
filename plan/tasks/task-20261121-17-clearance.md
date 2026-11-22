@@ -3,7 +3,7 @@
 - **Objective:** BRIEF phase 12b: (1) every input's licence checked and recorded; (2) the overlap of every published text with White's and Kingston's translations, and with any modern translation the human owns; every long run against a modern one reviewed.
 - **Context:** R1121-178 opens it; `existing/kingston-1875` opens with it (the author's ruling of 2026-11-20).
 - **Region:** writes this task and its folder, `tools/overlap.py`, `kit-patches/0001-tools-overlap.md`. Reads `existing/` (read-only), `texts/`, `story/prose/`, the run's versions.
-- **Start hash:** 95d7739 2026-11-21.
+- **Start hash:** 668f9a9 2026-11-21.
 - **Status:** Closed (left in place; the README links it). The history removal is the author's (R1121-180).
 
 ## (1) Inputs

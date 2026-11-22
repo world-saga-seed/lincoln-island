@@ -5,7 +5,7 @@
 - **Related study:** `texts/align/` (the 1,333 discords; `SUMMARY.md`), `plan/reread-hooks.md`.
 - **Region:** writes this task's folder and, for R1121-15, the stub cards the sample rests on. Reads `texts/fr-1875/`, `texts/white-1876/` (the voice chapter only, for the drafters), `world/`, `story/outline/`, `existing/webster-1864/` (for the period check).
 - **Wave:** none.
-- **Start hash:** 9557496, 2026-11-21.
+- **Start hash:** a0a2477, 2026-11-21.
 - **End hash:** the commit "Phase 5: closed", 2026-11-21.
 - **Status:** Closed, 2026-11-21.
 

@@ -5,7 +5,7 @@
 - **Related study:** none.
 - **Region:** writes `texts/` (new) and this task. Reads `existing/hetzel-1875/`, `existing/vingt-mille-hetzel-1870/` and `existing/white-1876/`. `existing/kingston-1875/` is closed (R1120-07) and not read.
 - **Wave:** none.
-- **Start hash:** 3faf270, 2026-11-20 21:18 -0800.
+- **Start hash:** 26b6350, 2026-11-20 21:18 -0800.
 - **End hash:** (on close)
 - **Status:** Done, awaiting commit.
 

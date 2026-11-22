@@ -75,7 +75,7 @@ P73	new	“We can die like men,” said the reporter.	“Well, we shall know how
 P74	new	“How! Six against fifty!”	“Hum! Six against fifty!”
 P75	new	“Yes, six—and one other—”	“Yes, six—not counting—”
 P76	44.25	Smith did not answer, but he looked upwards	Smith did not answer, but he pointed with his hand to the sky.
-P77	critic	the better to endure the chill of the water	the better to endure the chill of the water, which was still cold
+P77	critic	the better to endure the chill of the water	the better to endure the temperature of the water, which was still cold
 P78	critic	with Mount Pitt rising in the midst, 1,100 feet	which Mount Pitt commands at a height of 1,100 feet
 P79	critic	They could not even escape to the interior	They could not even flee and hide in the interior
 P80	critic	Four barrels were left.	Four shots were left.
@@ -86,3 +86,4 @@ P84	critic2	It would be a struggle for life and death with these wretches	They m
 P85	critic2	Everything depended on the calibre of the brig’s guns and the number of her men.	Everything depended on the armament of the brig and the number of her men.
 P86	critic2	resist fifty well-armed marauders	resist fifty bandits, armed at all points
 P87	omission	He said to himself that he, Ayrton, was the first cause	He said to himself that he, Ayrton, was, after all, the first cause
+P88	voice	and then, profiting by his enemies’ momentary recoil,	and then Ayrton, profiting by his enemies’ momentary recoil,

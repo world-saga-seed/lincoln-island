@@ -6,7 +6,7 @@ THE LINEN—SHOES OF SEAL-LEATHER—MANUFACTURE OF PYROXYLE—VARIOUS SOWINGS—
 
 The first week of January was devoted to making the linen necessary for the colony. The needles found in the chest worked between vigorous, if not delicate, fingers, and it may be affirmed that what was sewn was sewn solidly.
 
-Thread was not wanting, thanks to the idea which Cyrus Smith had of using again the thread which had already served to sew together the strips of the balloon. These long strips were unpicked with admirable patience by Spilett and Herbert, for Pencroff had been obliged to give up this work, which irritated him beyond measure; but when it came to sewing, he had not his equal. Everybody knows, indeed, that sailors have a remarkable aptitude for the trade of seamstress.
+Thread was not wanting, thanks to the idea which Smith had of using again the thread which had already served to sew together the strips of the balloon. These long strips were unpicked with admirable patience by Spilett and Herbert, for Pencroff had been obliged to give up this work, which irritated him beyond measure; but when it came to sewing, he had not his equal. Everybody knows, indeed, that sailors have a remarkable aptitude for the trade of seamstress.
 
 The cloth of which the envelope of the balloon was made was then cleansed of its grease by means of soda and potash, obtained by the incineration of plants, in such a way that the cotton, freed from the varnish, recovered its natural suppleness and elasticity; then, exposed to the bleaching action of the atmosphere, it acquired a perfect whiteness.
 

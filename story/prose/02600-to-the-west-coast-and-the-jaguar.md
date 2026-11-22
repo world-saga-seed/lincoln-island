@@ -4,17 +4,17 @@ CHAPTER XXVI.
 
 TOWARDS THE COAST—BANDS OF QUADRUMANA—A NEW WATER-COURSE—WHY THE TIDE WAS NOT FELT—A FOREST FOR A SHORE—REPTILE END—SPILETT MAKES HERBERT ENVIOUS—THE EXPLODING BAMBOO.
 
-It was at six o'clock in the morning that the colonists, after a first breakfast, set out again, with the intention of reaching the western coast of the island by the shortest way. In how much time could they reach it? Cyrus Smith had said in two hours, but that evidently depended on the nature of the obstacles which might present themselves. This part of the Far West appeared thick with wood, like an immense coppice composed of trees of extremely varied kinds. It was probable, therefore, that they would have to clear a way through grass, brushwood, and creepers, and march axe in hand,—and gun in hand too, no doubt, if they might judge by the cries of wild beasts heard in the night.
+It was at six o'clock in the morning that the colonists, after a first breakfast, set out again, with the intention of reaching the western coast of the island by the shortest way. In how much time could they reach it? Smith had said in two hours, but that evidently depended on the nature of the obstacles which might present themselves. This part of the Far West appeared thick with wood, like an immense coppice composed of trees of extremely varied kinds. It was probable, therefore, that they would have to clear a way through grass, brushwood, and creepers, and march axe in hand,—and gun in hand too, no doubt, if they might judge by the cries of wild beasts heard in the night.
 
 The exact position of the encampment had been determined by the situation of Mount Franklin; and, since the volcano rose in the north at a distance of less than three miles, they had only to take a straight course towards the south-west to reach the western coast.
 
 They set out, after carefully making fast the canoe. Pencroff and Neb carried provisions which would be enough to feed the little band for two days at least. There was no longer any question of hunting, and the engineer even advised his companions to avoid any untimely shot, so as not to signal their presence in the neighborhood of the shore.
 
-The first blows of the axe were given among the brushwood, in the midst of mastic bushes, a little above the cascade; and Cyrus Smith, compass in hand, pointed out the road to follow.
+The first blows of the axe were given among the brushwood, in the midst of mastic bushes, a little above the cascade; and Smith, compass in hand, pointed out the road to follow.
 
 The forest was here composed of trees most of which had already been recognized near the lake and on Prospect Plateau. There were deodars, Douglas firs, casuarinas, gum trees, eucalyptus, dragon trees, hibiscus, cedars, and other kinds, generally of middling size, for their number had hindered their growth. The colonists could therefore advance but slowly along this road, which they cleared as they went, and which, in the engineer's mind, was later to be joined to that of Red Creek.
 
-Since their departure the colonists had been descending the low slopes which formed the orographic system of the island, over very dry ground. Yet its luxuriant vegetation gave reason to suspect either the presence of a hydrographic network beneath the soil, or the course of some stream close at hand. However, Cyrus Smith did not remember having recognized, during his excursion to the crater, any other water-courses than those of Red Creek and the Mercy.
+Since their departure the colonists had been descending the low slopes which formed the orographic system of the island, over very dry ground. Yet its luxuriant vegetation gave reason to suspect either the presence of a hydrographic network beneath the soil, or the course of some stream close at hand. However, Smith did not remember having recognized, during his excursion to the crater, any other water-courses than those of Red Creek and the Mercy.
 
 During the first hours of the excursion they again saw bands of monkeys, which appeared to show the liveliest astonishment at the sight of these men, whose appearance was new to them. Spilett asked jokingly whether these agile and robust quadrumana did not regard him and his companions as degenerate brothers! And, frankly, plain pedestrians, hindered at every step by the brushwood, stopped by the creepers, barred by the trunks of trees, did not shine beside these supple animals, which bounded from branch to branch, and which nothing checked in their course. The monkeys were numerous, but, very fortunately, they showed no hostile disposition.
 
@@ -28,7 +28,7 @@ At half-past nine in the morning, the road, which bore directly south-west, was 
 
 "No," replied Herbert, "it is only a stream, and we shall easily swim across it."
 
-"What would be the use?" answered Cyrus Smith. "It is evident that this creek runs to the sea. Let us keep on its left bank, follow its edge, and I shall be much astonished if it does not lead us very quickly to the coast. Forward!"
+"What would be the use?" answered Smith. "It is evident that this creek runs to the sea. Let us keep on its left bank, follow its edge, and I shall be much astonished if it does not lead us very quickly to the coast. Forward!"
 
 "One moment," said the reporter. "And the name of this creek, my friends? Do not let us leave our geography incomplete."
 
@@ -38,7 +38,7 @@ At half-past nine in the morning, the road, which bore directly south-west, was 
 
 "Would it not be better to wait until we have explored it to its mouth?" observed Herbert.
 
-"Be it so," answered Cyrus Smith. "Let us follow it, then, without stopping."
+"Be it so," answered Smith. "Let us follow it, then, without stopping."
 
 "One moment more!" said Pencroff.
 
@@ -60,11 +60,11 @@ It did not take five minutes to make a miraculous draught, for the crayfish swar
 
 Since they had been following the bank of this new water-course, the colonists walked more easily and more quickly. Besides, the banks were virgin of any human footprint. From time to time they noticed some traces left by animals of large size, which came habitually to drink at the stream, but nothing more; and it was not yet in this part of the Far West that the peccary had received the leaden pellet which had cost Pencroff a molar.
 
-Meanwhile, considering this rapid current which fled towards the sea, Cyrus Smith was led to suppose that he and his companions were much farther from the western coast than they believed. And, in fact, at this hour the tide was rising on the shore, and it should have turned back the current of the creek, had its mouth been only a few miles off. Now, this effect was not produced, and the stream followed the natural slope of its bed. The engineer must therefore have been much astonished, and he frequently consulted his compass, to make sure that some bend of the river was not leading him back into the interior of the Far West.
+Meanwhile, considering this rapid current which fled towards the sea, Smith was led to suppose that he and his companions were much farther from the western coast than they believed. And, in fact, at this hour the tide was rising on the shore, and it should have turned back the current of the creek, had its mouth been only a few miles off. Now, this effect was not produced, and the stream followed the natural slope of its bed. The engineer must therefore have been much astonished, and he frequently consulted his compass, to make sure that some bend of the river was not leading him back into the interior of the Far West.
 
 However, the creek widened little by little, and its waters became less tumultuous. The trees on its right bank were as close as those on its left, and it was impossible for the eye to reach beyond them; but these wooded masses were certainly deserted, for Top did not bark, and the intelligent animal would not have failed to signal the presence of any stranger in the neighborhood of the stream.
 
-At half-past ten, to the great surprise of Cyrus Smith, Herbert, who had gone on a little in front, suddenly stopped and cried,—
+At half-past ten, to the great surprise of Smith, Herbert, who had gone on a little in front, suddenly stopped and cried,—
 
 "The sea!"
 
@@ -78,7 +78,7 @@ Beyond, towards the north, the border formed by the forest extended for a distan
 
 The weather was fine and clear, and from the top of a cliff, upon which Neb and Pencroff laid out the breakfast, the eye could range far. The horizon was perfectly distinct, and there was not a sail in the offing. Along all the shore, as far as the sight could reach, not a vessel, not even a piece of wreck. But the engineer would not consider himself quite certain on this point until he had explored the coast to the very extremity of Serpentine Peninsula.
 
-The breakfast was quickly dispatched, and at half-past eleven Cyrus Smith gave the signal for departure. Instead of travelling either along the ridge of a cliff or over a sandy beach, the colonists were obliged to keep under cover of the trees, so as to follow the shore.
+The breakfast was quickly dispatched, and at half-past eleven Smith gave the signal for departure. Instead of travelling either along the ridge of a cliff or over a sandy beach, the colonists were obliged to keep under cover of the trees, so as to follow the shore.
 
 The distance which separated the mouth of Fall River from Reptile End was about twelve miles. In four hours, on a practicable beach, and without hurrying, the colonists could have accomplished it; but they needed twice that time to reach their goal. The trees to be turned, the brushwood to be cut, the creepers to be broken, stopped them incessantly, and such numerous windings lengthened their road remarkably.
 
@@ -86,7 +86,7 @@ For the rest, there was nothing on this shore which gave evidence of a recent sh
 
 The reporter's reasoning was just; and, besides, the incident of the leaden pellet proved beyond dispute that, within three months at most, a gun had been fired in the island.
 
-It was already five o'clock, and the extremity of Serpentine Peninsula was still two miles from the place then occupied by the colonists. It was evident that, after reaching Reptile End, Cyrus Smith and his companions would not have time to return before sunset to the encampment which had been made near the sources of the Mercy. Hence the necessity of passing the night on the promontory itself. But provisions were not lacking, and this was fortunate, for furred game no longer showed itself on this border, which was, after all, only a shore. On the contrary, birds swarmed there,—jacamars, couroucous, tragopans, grouse, lories, parrots, cockatoos, pheasants, pigeons, and a hundred others. Not a tree without a nest, not a nest that was not filled with the beating of wings!
+It was already five o'clock, and the extremity of Serpentine Peninsula was still two miles from the place then occupied by the colonists. It was evident that, after reaching Reptile End, Smith and his companions would not have time to return before sunset to the encampment which had been made near the sources of the Mercy. Hence the necessity of passing the night on the promontory itself. But provisions were not lacking, and this was fortunate, for furred game no longer showed itself on this border, which was, after all, only a shore. On the contrary, birds swarmed there,—jacamars, couroucous, tragopans, grouse, lories, parrots, cockatoos, pheasants, pigeons, and a hundred others. Not a tree without a nest, not a nest that was not filled with the beating of wings!
 
 Towards seven in the evening, the colonists, worn out with fatigue, arrived at Reptile End, a sort of volute strangely cut out upon the sea. Here ended the shore forest of the peninsula, and the coast, along all the southern part, resumed the usual aspect of a shore, with its rocks, its reefs, and its beaches. It was possible, then, that a disabled ship had run aground on this portion of the island; but night was coming on, and the exploration had to be put off till the morrow.
 
@@ -136,7 +136,7 @@ At that moment the reporter was coming round the high rocks, and Herbert, imagin
 
 The jaguar, gathering itself together, sprang upon the hunter; but at the moment when it leaped, a ball struck it between the eyes, and it fell dead.
 
-Herbert and Pencroff rushed towards the jaguar. Neb and Cyrus Smith ran up from their side, and they stood for some moments gazing at the animal stretched upon the ground, whose magnificent skin would be the ornament of the great hall of Granite House.
+Herbert and Pencroff rushed towards the jaguar. Neb and Smith ran up from their side, and they stood for some moments gazing at the animal stretched upon the ground, whose magnificent skin would be the ornament of the great hall of Granite House.
 
 "Ah! Mr. Spilett, how I admire you, and how I envy you!" cried Herbert, in a very natural burst of enthusiasm.
 
@@ -158,7 +158,7 @@ Herbert and Pencroff rushed towards the jaguar. Neb and Cyrus Smith ran up from 
 
 The colonists went towards the deserted den, and there, while Neb skinned the jaguar, his companions heaped upon the threshold a great quantity of dry wood, which the forest furnished in abundance.
 
-But Cyrus Smith, having noticed the clump of bamboos, went and cut a certain quantity of them, which he mixed with the fuel of the fire.
+But Smith, having noticed the clump of bamboos, went and cut a certain quantity of them, which he mixed with the fuel of the fire.
 
 This done, they established themselves in the grotto, whose sand was strewn with bones. The guns were loaded at all hazards, in case of a sudden attack; they had supper; and then, the time for rest having come, the pile of wood heaped at the entrance of the cavern was set on fire.
 

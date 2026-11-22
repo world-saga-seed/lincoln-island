@@ -10,7 +10,7 @@ For two years and a half the castaways of the balloon had been thrown upon Linco
 
 There could be no more doubt! A ship was there! But would she pass out to sea, or would she put in? Before a few hours were over, the colonists would evidently know what to expect.
 
-Cyrus Smith and Herbert, having at once called Spilett, Pencroff, and Neb into the great hall of Granite House, had told them what was going on. Pencroff, seizing the telescope, swept the horizon rapidly, and, stopping on the point indicated, that is to say, on the one which had made the imperceptible spot on the photographic plate, said:—
+Smith and Herbert, having at once called Spilett, Pencroff, and Neb into the great hall of Granite House, had told them what was going on. Pencroff, seizing the telescope, swept the horizon rapidly, and, stopping on the point indicated, that is to say, on the one which had made the imperceptible spot on the photographic plate, said:—
 
 "A thousand devils! It is indeed a ship!" and his voice betrayed no extraordinary satisfaction.
 
@@ -20,7 +20,7 @@ Cyrus Smith and Herbert, having at once called Spilett, Pencroff, and Neb into t
 
 "What must we do?" said the lad.
 
-"Wait," answered Cyrus Smith.
+"Wait," answered Smith.
 
 And for a rather long time the colonists remained silent, given up to all the thoughts, all the emotions, all the fears, all the hopes, which this incident could raise in them,—the gravest which had occurred since their arrival on Lincoln Island.
 
@@ -52,7 +52,7 @@ Then the colonists went on observing the ship.
 
 "And if he knows her," added Pencroff, "it will be a famous emotion for him!"
 
-"Yes," answered Cyrus Smith; "but now Ayrton is worthy to go on board the Duncan again. And Heaven grant that it may indeed be Lord Glenarvan's yacht, for any other ship would seem suspicious to me! These seas are ill frequented, and I have always feared for our island a visit from some Malay pirates."
+"Yes," answered Smith; "but now Ayrton is worthy to go on board the Duncan again. And Heaven grant that it may indeed be Lord Glenarvan's yacht, for any other ship would seem suspicious to me! These seas are ill frequented, and I have always feared for our island a visit from some Malay pirates."
 
 "We should defend it!" cried Herbert.
 
@@ -66,7 +66,7 @@ Then the colonists went on observing the ship.
 
 "Well, then," said Pencroff, "suppose that this ship puts in, that she anchors there, a few cables' lengths from our island, what shall we do?"
 
-This question, abruptly put, at first remained without answer. But Cyrus Smith, after reflecting, replied in the calm tone which was usual with him:—
+This question, abruptly put, at first remained without answer. But Smith, after reflecting, replied in the calm tone which was usual with him:—
 
 "What we shall do, my friends, what we ought to do, is this: we will communicate with the ship, we will take passage on board of her, and we will leave our island, after having taken possession of it in the name of the States of the Union. Then we will return to it with all those who are willing to follow us, to colonize it for good, and to endow the American republic with a useful station in this part of the Pacific Ocean!"
 
@@ -82,7 +82,7 @@ Towards four o'clock,—an hour after he had been sent for,—Ayrton arrived at 
 
 "At your service, gentlemen."
 
-Cyrus Smith gave him his hand, as he was accustomed to do, and, leading him to the window, said:—
+Smith gave him his hand, as he was accustomed to do, and, leading him to the window, said:—
 
 "Ayrton, we have begged you to come for a serious reason. A ship is in sight of the island."
 
@@ -118,7 +118,7 @@ All were then in a state of mind which would not have allowed them to go on with
 
 Meanwhile, the vessel had drawn a little nearer to the island. With the help of the glass it had been possible to make out that she was a ship of the long voyage, and not one of those Malay proas which the pirates of the Pacific commonly use. It was therefore permissible to believe that the engineer's apprehensions would not be justified, and that the presence of this vessel in the waters of Lincoln Island was no danger to it. Pencroff, after minute attention, believed he could affirm that the ship was rigged as a brig, and that she was running obliquely towards the coast, on the starboard tack, under her courses, topsails, and topgallant sails. This was confirmed by Ayrton.
 
-But if she held on in that way she must soon disappear behind the point of Claw Cape, for she was heading south-west; and to observe her it would then be necessary to go up to the heights of Washington Bay, near Balloon Harbor. This was an unfortunate circumstance, for it was already five o'clock in the evening, and the twilight would soon make any observation very difficult.
+But if she held on in that way she must soon disappear behind the point of Claw Cape, for she was heading south-west. To observe her it would then be necessary to go up to the heights of Washington Bay, near Balloon Harbor. This was an unfortunate circumstance, for it was already five o'clock in the evening, and the twilight would soon make any observation very difficult.
 
 "What shall we do when night comes?" asked Spilett. "Shall we light a fire to signal our presence on this coast?"
 
@@ -162,7 +162,7 @@ All these ideas presented themselves instinctively to the minds of the colonists
 
 No time was lost in discussion.
 
-"My friends," said Cyrus Smith, "perhaps this ship only wishes to observe the shore of the island? Perhaps her crew will not land? That is a chance. However that may be, we must do everything to hide our presence here. The mill, set up on Prospect Plateau, is too easily recognized. Let Ayrton and Neb go and take down its sails. Let us likewise hide the windows of Granite House under thicker branches. Let all the fires be put out. Let nothing, in short, betray the presence of man on this island!"
+"My friends," said Smith, "perhaps this ship only wishes to observe the shore of the island? Perhaps her crew will not land? That is a chance. However that may be, we must do everything to hide our presence here. The mill, set up on Prospect Plateau, is too easily recognized. Let Ayrton and Neb go and take down its sails. Let us likewise hide the windows of Granite House under thicker branches. Let all the fires be put out. Let nothing, in short, betray the presence of man on this island!"
 
 "And our boat?" said Herbert.
 
@@ -172,7 +172,7 @@ The engineer's orders were immediately carried out. Neb and Ayrton went up to th
 
 When all these precautions had been taken:—
 
-"My friends," said Cyrus Smith,—and one could feel by his voice that he was moved,—"if these wretches mean to seize Lincoln Island, we shall defend it, shall we not?"
+"My friends," said Smith,—and one could feel by his voice that he was moved,—"if these wretches mean to seize Lincoln Island, we shall defend it, shall we not?"
 
 "Yes, Cyrus," answered the reporter, "and, if need be, we will all die to defend it!"
 
@@ -180,7 +180,7 @@ The engineer held out his hand to his companions, who pressed it warmly.
 
 Ayrton alone, who had stayed in his corner, had not joined the colonists. Perhaps he, the former convict, still felt himself unworthy!
 
-Cyrus Smith understood what was passing in Ayrton's soul, and, going to him:—
+Smith understood what was passing in Ayrton's soul, and, going to him:—
 
 "And you, Ayrton," he asked, "what will you do?"
 
@@ -192,9 +192,9 @@ It was then half-past seven. The sun had disappeared about twenty minutes before
 
 Was the brig going to run into the bay? That was the first question. Once in the bay, would she anchor there? That was the second. Would she not content herself with observing the shore, and then stand out to sea again without landing her crew? They would know within an hour. The colonists had nothing to do, then, but wait.
 
-Cyrus Smith had not seen the suspicious vessel hoist the black flag without deep anxiety. Was it not a direct threat against the work which his companions and he had carried through until then? Had the pirates,—for it could not be doubted that the seamen of this brig were such,—already frequented this island, since on making land there they had hoisted their colors? Had they formerly made some landing upon it, which would have explained certain peculiarities that had remained inexplicable till then? Was there, in its parts not yet explored, some accomplice ready to enter into communication with them?
+Smith had not seen the suspicious vessel hoist the black flag without deep anxiety. Was it not a direct threat against the work which his companions and he had carried through until then? Had the pirates,—for it could not be doubted that the seamen of this brig were such,—already frequented this island, since on making land there they had hoisted their colors? Had they formerly made some landing upon it, which would have explained certain peculiarities that had remained inexplicable till then? Was there, in its parts not yet explored, some accomplice ready to enter into communication with them?
 
-To all these questions, which he put to himself in silence, Cyrus Smith knew not what to answer; but he felt that the situation of the colony could only be very seriously compromised by the arrival of this brig.
+To all these questions, which he put to himself in silence, Smith knew not what to answer; but he felt that the situation of the colony could only be very seriously compromised by the arrival of this brig.
 
 However, his companions and he were determined to resist to the last extremity. Were these pirates numerous, and better armed than the colonists? That was what it would have been very important to know! But how to get at them!
 

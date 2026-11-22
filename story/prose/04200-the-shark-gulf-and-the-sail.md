@@ -10,9 +10,9 @@ Things turned out as Pencroff had foreseen, for his presentiments could not dece
 
 Very fortunately, though the wind was very strong, the sea, sheltered by the coast, did not rise to any great height. They had not, therefore, to fear the heavy seas, which are a great danger to small craft. The Bonadventure would not have capsized, no doubt, for she was well ballasted; but enormous masses of water, falling on board, might have endangered her, had the hatches not held. Pencroff, like a skilful seaman, provided against every chance. Certainly he had the utmost confidence in his boat, but he none the less waited for day with some anxiety.
 
-During this night Cyrus Smith and Gideon Spilett had no opportunity of talking together, and yet the words spoken by the engineer in the reporter's ear were well worth a further discussion of that mysterious influence which seemed to reign over Lincoln Island. Gideon Spilett did not cease to think of this new and inexplicable incident, of this appearance of a fire on the coast of the island. That fire he had really seen! His companions, Herbert and Pencroff, had seen it as well as he! That fire had served them to make out the situation of the island during that dark night, and they could not doubt that it was the engineer's hand which had lighted it; and now Cyrus Smith declared positively that he had done nothing of the kind!
+During this night Smith and Gideon Spilett had no opportunity of talking together, and yet the words spoken by the engineer in the reporter's ear were well worth a further discussion of that mysterious influence which seemed to reign over Lincoln Island. Gideon Spilett did not cease to think of this new and inexplicable incident, of this appearance of a fire on the coast of the island. That fire he had really seen! His companions, Herbert and Pencroff, had seen it as well as he! That fire had served them to make out the situation of the island during that dark night, and they could not doubt that it was the engineer's hand which had lighted it; and now Smith declared positively that he had done nothing of the kind!
 
-Gideon Spilett promised himself to return to this incident as soon as the Bonadventure should be back, and to urge Cyrus Smith to acquaint their companions with these strange facts. Perhaps it would then be decided to make, all together, a complete search of every part of Lincoln Island.
+Gideon Spilett promised himself to return to this incident as soon as the Bonadventure should be back, and to urge Smith to acquaint their companions with these strange facts. Perhaps it would then be decided to make, all together, a complete search of every part of Lincoln Island.
 
 However that might be, that evening no fire was lighted on those shores, as yet unknown, which formed the entrance of the gulf, and the little vessel continued to keep the open sea during the whole night.
 
@@ -20,7 +20,7 @@ When the first gleams of dawn appeared on the eastern horizon, the wind, which h
 
 "Here," said Pencroff, "is a bit of sea which would make an admirable roadstead, where fleets could manœuvre at their ease!"
 
-"What is especially curious," observed Cyrus Smith, "is that this gulf has been formed by two streams of lava, thrown out by the volcano, which have accumulated by successive eruptions. The result is that the gulf is completely sheltered on every side, and it is to be believed that, even in the worst winds, the sea here is as calm as a lake."
+"What is especially curious," observed Smith, "is that this gulf has been formed by two streams of lava, thrown out by the volcano, which have accumulated by successive eruptions. The result is that the gulf is completely sheltered on every side, and it is to be believed that, even in the worst winds, the sea here is as calm as a lake."
 
 "No doubt," returned the sailor, "since the wind has no way to get in but this narrow neck between the two capes, and even then the north cape covers the south one, so as to make it very hard for the squalls to enter. Truly, our Bonadventure could lie here from one end of the year to the other without so much as straining at her anchors!"
 
@@ -44,7 +44,7 @@ And the sailor let down to the bottom a long cord which served him as a sounding
 
 "Come," said Pencroff, "our ships can come here! They will not run aground!"
 
-"In fact," said Cyrus Smith, "this gulf is a regular abyss; but, taking into account the plutonic origin of the island, it is not astonishing that the bottom of the sea should present such depressions."
+"In fact," said Smith, "this gulf is a regular abyss; but, taking into account the plutonic origin of the island, it is not astonishing that the bottom of the sea should present such depressions."
 
 "One would say, too," observed Herbert, "that these walls had been cut sheer down; and I really believe that at their foot, even with a line five or six times as long, Pencroff would find no bottom."
 
@@ -72,13 +72,13 @@ The complete exploration of the coasts of the island had thus been made, and no 
 
 Gideon Spilett talked these things over with the engineer, and it was agreed that they should call the attention of their companions to the strange character of certain incidents which had occurred in the island, and of which the last was one of the most inexplicable.
 
-So Cyrus Smith, returning to that matter of a fire lighted by an unknown hand on the shore, could not help repeating to the reporter for the twentieth time,—
+So Smith, returning to that matter of a fire lighted by an unknown hand on the shore, could not help repeating to the reporter for the twentieth time,—
 
 "But are you sure that you saw it rightly? Was it not a partial eruption of the volcano, or some meteor?"
 
 "No, Cyrus," answered the reporter; "it was certainly a fire lighted by the hand of man. Besides, question Pencroff and Herbert. They saw as I saw myself, and they will confirm my words."
 
-It followed, therefore, that some days after, on the 25th of April, in the evening, when all the colonists were gathered on Prospect Plateau, Cyrus Smith began by saying,—
+It followed, therefore, that some days after, on the 25th of April, in the evening, when all the colonists were gathered on Prospect Plateau, Smith began by saying,—
 
 "My friends, I think it my duty to call your attention to certain facts which have occurred in the island, and on which I should be very glad to have your opinion. These facts are, so to speak, supernatural—"
 
@@ -102,9 +102,9 @@ It followed, therefore, that some days after, on the 25th of April, in the eveni
 
 "No! not very well, I confess," answered Pencroff; "and the wound which the dugong had in its side, a wound which seemed to have been made by a sharp instrument, cannot be understood either."
 
-"Let that pass also," resumed Cyrus Smith. "Have you understood, my friends, how that leaden pellet came to be in the body of the young peccary; how that case was so happily stranded, without any trace of a wreck; how that bottle containing the document came in our way so opportunely, on our first excursion by sea; how our canoe, having broken its moorings, came down to us by the current of the Mercy, precisely at the moment when we needed it; how, after the invasion of the apes, the ladder was so opportunely sent down from the heights of Granite House; how, lastly, the document which Ayrton maintains that he never wrote fell into our hands?"
+"Let that pass also," resumed Smith. "Have you understood, my friends, how that leaden pellet came to be in the body of the young peccary; how that case was so happily stranded, without any trace of a wreck; how that bottle containing the document came in our way so opportunely, on our first excursion by sea; how our canoe, having broken its moorings, came down to us by the current of the Mercy, precisely at the moment when we needed it; how, after the invasion of the apes, the ladder was so opportunely sent down from the heights of Granite House; how, lastly, the document which Ayrton maintains that he never wrote fell into our hands?"
 
-Cyrus Smith had just enumerated, without forgetting a single one, the strange facts which had come to pass in the island. Herbert, Pencroff, and Neb looked at one another, not knowing what to answer, for the succession of these incidents, thus grouped for the first time, could not but surprise them in the highest degree.
+Smith had just enumerated, without forgetting a single one, the strange facts which had come to pass in the island. Herbert, Pencroff, and Neb looked at one another, not knowing what to answer, for the succession of these incidents, thus grouped for the first time, could not but surprise them in the highest degree.
 
 "Upon my faith," said Pencroff at length, "you are right, Mr. Smith, and it is hard to explain those things!"
 
@@ -132,17 +132,17 @@ Cyrus Smith had just enumerated, without forgetting a single one, the strange fa
 
 "Yes! yes! exactly—" answered Herbert; "and it was certainly placed on the heights of Granite House."
 
-"Well, my friends," answered Cyrus Smith, "during that night of the 19th to the 20th of October, neither Neb nor I lighted a fire on the coast."
+"Well, my friends," answered Smith, "during that night of the 19th to the 20th of October, neither Neb nor I lighted a fire on the coast."
 
 "You did not—?" cried Pencroff, at the height of astonishment, and he could not even finish his sentence.
 
-"We did not leave Granite House," answered Cyrus Smith, "and if a fire appeared on the coast, it was another hand than ours that lighted it!"
+"We did not leave Granite House," answered Smith, "and if a fire appeared on the coast, it was another hand than ours that lighted it!"
 
 Pencroff, Herbert, and Neb were stupefied. There could have been no illusion; a fire had really struck their eyes during that night of the 19th to the 20th of October!
 
 Yes! they were obliged to own it, a mystery existed! An inexplicable influence, evidently favorable to the colonists, but very irritating to their curiosity, made itself felt, and as it were at the very moment it was needed, on Lincoln Island. Was there, then, some being hidden in its deepest retreats? That was what must be known at any cost!
 
-Cyrus Smith also reminded his companions of the singular behavior of Top and Jup, when they prowled about the mouth of the well which put Granite House in communication with the sea, and he told them that he had explored that well without discovering anything suspicious in it. At last the conclusion of this conversation was a resolution taken by all the members of the colony to search the island thoroughly as soon as the fine season should have returned.
+Smith also reminded his companions of the singular behavior of Top and Jup, when they prowled about the mouth of the well which put Granite House in communication with the sea, and he told them that he had explored that well without discovering anything suspicious in it. At last the conclusion of this conversation was a resolution taken by all the members of the colony to search the island thoroughly as soon as the fine season should have returned.
 
 But from that day Pencroff seemed to be anxious. This island, which he had made his own personal property, seemed to him no longer to belong wholly to him, and he felt that he shared it with another master, to whom, willing or not, he was subject. Neb and he often talked together of these inexplicable things, and both of them, very much inclined to the marvellous by their very nature, were not far from believing that Lincoln Island was subject to some supernatural power.
 
@@ -150,7 +150,7 @@ Meanwhile the bad days had come with the month of May,—the November of the nor
 
 Besides, the colonists were well prepared to receive this winter, however hard it might be. Felt clothes were not wanting, and the mouflons, numerous by then, had abundantly supplied the wool necessary for the manufacture of this warm stuff.
 
-It is needless to say that Ayrton had been provided with these comfortable garments. Cyrus Smith offered him to come and spend the bad season at Granite House, where he would be better lodged than at the corral, and Ayrton promised to do so as soon as the last work at the corral should be finished. This he did about the middle of April. From that time Ayrton shared the common life, and made himself useful on every occasion; but, always humble and sad, he never took part in the pleasures of his companions!
+It is needless to say that Ayrton had been provided with these comfortable garments. Smith offered him to come and spend the bad season at Granite House, where he would be better lodged than at the corral, and Ayrton promised to do so as soon as the last work at the corral should be finished. This he did about the middle of April. From that time Ayrton shared the common life, and made himself useful on every occasion; but, always humble and sad, he never took part in the pleasures of his companions!
 
 During the greater part of this third winter which the colonists passed in Lincoln Island, they remained shut up in Granite House. There were very great tempests and terrible squalls, which seemed to shake the rocks to their very foundations. Immense tidal waves threatened to sweep over the whole island, and certainly any ship anchored off its shores would have been lost with all hands. Twice, during one of these storms, the Mercy swelled so much as to give reason to fear that the bridge and the smaller bridges would be carried away. It was even necessary to strengthen the bridges on the shore, which disappeared under the water when the sea beat upon the coast.
 
@@ -162,7 +162,7 @@ There were also some fine hunts, which were made in the great cold in the vast T
 
 Thus passed the four months of winter, which were really severe, that is to say, June, July, August, and September. But, on the whole, Granite House did not suffer much from the inclemency of the weather. It was the same at the corral, which, being less exposed than the plateau, and sheltered for the most part by Mount Franklin, received only the remains of the gales, already broken by the forests and the high rocks of the shore. The damage there was therefore slight, and the active and skilful hand of Ayrton was enough to repair it promptly, when, in the second half of October, he went back to spend some days at the corral.
 
-During this winter no new inexplicable incident occurred. Nothing strange happened, although Pencroff and Neb were on the watch for the most trifling facts which they might have connected with a mysterious cause. Top and Jup themselves no longer prowled round the well, and gave no sign of uneasiness. It seemed, therefore, that the series of supernatural incidents was interrupted, although they often talked of them during the evenings in Granite House, and it remained quite settled that the island should be searched even to its parts most difficult of exploration. But an event of the gravest importance, and of which the consequences might be fatal, came for a time to turn Cyrus Smith and his companions from their projects.
+During this winter no new inexplicable incident occurred. Nothing strange happened, although Pencroff and Neb were on the watch for the most trifling facts which they might have connected with a mysterious cause. Top and Jup themselves no longer prowled round the well, and gave no sign of uneasiness. It seemed, therefore, that the series of supernatural incidents was interrupted, although they often talked of them during the evenings in Granite House, and it remained quite settled that the island should be searched even to its parts most difficult of exploration. But an event of the gravest importance, and of which the consequences might be fatal, came for a time to turn Smith and his companions from their projects.
 
 It was the month of October. The fine season was returning with great strides. Nature was renewing itself under the rays of the sun, and, among the evergreen foliage of the conifers which formed the border of the wood, there already appeared the new foliage of the nettle-trees, the banksias, and the deodars.
 
@@ -182,11 +182,11 @@ And then he had the curiosity to examine this flaw with a powerful lens which he
 
 But scarcely had he looked when he uttered a cry, and the negative almost fell from his hands.
 
-Running at once to the room where Cyrus Smith was, he held out the negative and the lens to the engineer, pointing out to him the little spot.
+Running at once to the room where Smith was, he held out the negative and the lens to the engineer, pointing out to him the little spot.
 
-Cyrus Smith examined the point; then, seizing his spy-glass, he rushed to the window.
+Smith examined the point; then, seizing his spy-glass, he rushed to the window.
 
-The spy-glass, after slowly sweeping the horizon, stopped at last on the suspicious point, and Cyrus Smith, lowering it, uttered but one word,—
+The spy-glass, after slowly sweeping the horizon, stopped at last on the suspicious point, and Smith, lowering it, uttered but one word,—
 
 "A ship!"
 

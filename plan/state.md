@@ -83,6 +83,7 @@
 
 | Chapter | The page says | The notes say | Since |
 |---|---|---|---|
+| 05600 (III.18, the pilot) | "Cyrus Smith" (11 times) | "Smith" or "the engineer" after XXII, "Cyrus Smith" only in XXV, XXXVIII, LVIII (story/voice/names.md) | 2026-11-21 |
 | 04300 (III.1), the notes, not a page | the French ¶92: "Il n'en était pas à plus de huit milles" (not more than eight miles) | story/notes/04300 line 35: "more than eight miles" (a misreading; the render follows the French) | 2026-11-21 |
 | 05600 (III.18, the pilot) | "Good Luck" (once, White's name for the boat) | "the Bonadventure" (story/voice/names.md, R1121-155) | 2026-11-21 |
 

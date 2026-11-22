@@ -26,7 +26,8 @@ p.titlebig { text-align: center; text-indent: 0; font-size: 1.5em; margin: 25% 0
 p.byline { text-align: center; text-indent: 0; margin: 0.4em 0; }
 a.nref { text-decoration: none; }
 sup { font-size: 0.7em; line-height: 0; }
-section.notes { margin-top: 2em; border-top: 1px solid #999; padding-top: 0.6em; }
+hr.notes { margin: 2em 30% 0.8em; border: 0; border-top: 1px solid #000; }
+section.notes { margin-top: 0; }
 section.notes h3 { font-size: 0.95em; font-weight: normal; font-variant: small-caps; text-align: left; margin: 0 0 0.6em; }
 section.notes p, aside p { font-size: 0.88em; text-indent: 0; text-align: left; margin: 0 0 0.6em; }
 body.front p { text-indent: 0; text-align: left; margin: 0 0 0.75em; }
@@ -123,6 +124,7 @@ def chapter(path, code, kobo):
                 f'<sup>{k}</sup></a>')
     body = [re.sub('⁣N([a-z]+)⁣', ref, b) for b in body]
     if notes:
+        body.append('<hr class="notes"/>')  # R1121-170: a rule before the notes
         if kobo:
             for letter, _, paras in notes:
                 body.append(f'<aside id="n-{letter}" epub:type="footnote" role="doc-footnote">' +

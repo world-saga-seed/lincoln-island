@@ -141,3 +141,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.2 facts 2: 4, patched ("la côte"; "l'épave" as jetsam, not prize; "J'espère bien que non"; the added "pocket"). The omission critic runs.
 - 2026-11-21 II.3 facts: 0. The omission critic on II.2 and II.3 run.
 - 2026-11-21 II.3 omission: 0. II.3 waits for voice. II.4 (render) is drafted.
+- 2026-11-21 II.2 omission: 3 ("assez bien", "en somme", "maintenant"), patched. II.2 waits for voice.
+- 2026-11-21 Voice on II.1, II.2, II.3 runs.

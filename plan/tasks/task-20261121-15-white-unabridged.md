@@ -165,3 +165,7 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.8 facts 1: 1 ("charbon" ¶14, coal or charcoal); left as "coal", White's own reading, since the word is ambiguous and the colonists have coal from Part I. Facts 2 runs.
 - 2026-11-21 II.8 facts 2: 0. The omission critic runs.
 - 2026-11-21 II.8 omission: 0. II.8 waits for voice, with II.7 and II.9.
+- 2026-11-21 II.9: rendered (Opus, no command); 3,578 words against the French 3,840; 0 banned. The main session put White's "elevator" for "ascenseur" (White XXXI ¶15-¶25) and his "Tabor Island" (names.md) in the title, and split two knots. Plate captions left out.
+- 2026-11-21 II.9 facts 1: 0. Facts 2 runs.
+- 2026-11-21 II.9 facts 2: 0. The omission critic runs.
+- 2026-11-21 II.9 omission: 0. Voice on II.7, II.8, II.9 runs.

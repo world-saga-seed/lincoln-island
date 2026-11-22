@@ -1,8 +1,8 @@
-# Glass, the Lift and the Isle of Tabor (draft 1)
+# Glass, the Elevator and Tabor Island (draft 1)
 
 CHAPTER XXXI.
 
-THE BAD WEATHER—THE HYDRAULIC LIFT—MANUFACTURE OF WINDOW-GLASS AND OF GLASSWARE—THE BREAD-TREE—FREQUENT VISITS TO THE CORRAL—INCREASE OF THE FLOCK—A QUESTION OF THE REPORTER'S—THE EXACT POSITION OF LINCOLN ISLAND—PENCROFF'S PROPOSAL.
+THE BAD WEATHER—THE HYDRAULIC ELEVATOR—MANUFACTURE OF WINDOW-GLASS AND OF GLASSWARE—THE BREAD-TREE—FREQUENT VISITS TO THE CORRAL—INCREASE OF THE FLOCK—A QUESTION OF THE REPORTER'S—THE EXACT POSITION OF LINCOLN ISLAND—PENCROFF'S PROPOSAL.
 
 The weather changed during the first week of March. There had been a full moon at the beginning of the month, and the heat was still excessive. It was felt that the atmosphere was charged with electricity, and a period, longer or shorter, of stormy weather was really to be feared.
 
@@ -44,9 +44,9 @@ One day in this month of March, Pencroff, talking with the engineer, reminded Cy
 
 "You spoke of an apparatus which would do away with the long ladders of Granite House, Mr. Smith," said he. "Will you not set it up some day?"
 
-"You mean a sort of lift!" replied Cyrus Smith.
+"You mean a sort of elevator!" replied Cyrus Smith.
 
-"Let us call it a lift, if you like," replied the sailor. "The name does not matter, provided it takes us up to our dwelling without fatigue."
+"Let us call it an elevator, if you like," replied the sailor. "The name does not matter, provided it takes us up to our dwelling without fatigue."
 
 "Nothing will be easier, Pencroff; but is it really useful?"
 
@@ -66,7 +66,7 @@ And, indeed, to work his apparatus there was a natural force at the engineer's d
 
 For that, it was enough to increase the flow of the little branch made from the lake which supplied water to the interior of Granite House. The opening left between the stones and grass, at the upper end of the overflow, was therefore enlarged, and this produced a strong fall at the bottom of the passage, the surplus of which ran off by the interior well. Below this fall the engineer set up a cylinder with paddles, which was connected outside with a wheel wound with a strong cable carrying a basket. In this way, by means of a long rope which hung down to the ground, and which allowed the hydraulic motor to be put in or out of gear, one could rise in the basket to the door of Granite House.
 
-It was on the 17th of March that the lift worked for the first time, and to the satisfaction of all. Henceforward all burdens, wood, coal, provisions, and the colonists themselves, were hoisted by this very simple system, which replaced the primitive ladder, and which nobody thought of regretting. Top showed himself particularly delighted with this improvement, for he had not, and could not have, Master Jup's skill in climbing rungs; and many a time it was on Neb's back, or even on the orang's, that he had been obliged to make the ascent to Granite House.
+It was on the 17th of March that the elevator worked for the first time, and to the satisfaction of all. Henceforward all burdens, wood, coal, provisions, and the colonists themselves, were hoisted by this very simple system, which replaced the primitive ladder, and which nobody thought of regretting. Top showed himself particularly delighted with this improvement, for he had not, and could not have, Master Jup's skill in climbing rungs; and many a time it was on Neb's back, or even on the orang's, that he had been obliged to make the ascent to Granite House.
 
 About this time, too, Cyrus Smith attempted to make glass, and he was first obliged to adapt the old pottery kiln to this new purpose. This presented rather great difficulties; but after several unsuccessful trials, he succeeded at last in setting up a glass-works, which Spilett and Herbert, the engineer's natural assistants, did not leave for several days.
 
@@ -90,7 +90,7 @@ As to the glassware, tumblers and bottles, that was mere play. Besides, they wer
 
 During one of the excursions made at this time, a new tree was discovered, the products of which further increased the food resources of the colony.
 
-Cyrus Smith and Herbert, while hunting, had one day ventured into the forest of the Far West, on the left of the Mercy; and, as always, the lad was asking the engineer a thousand questions, which the latter answered with all his heart. But it is with hunting as with every other occupation in this world, and when one does not bring the necessary zeal to it, there are many reasons for not succeeding. Now, as Cyrus Smith was no hunter, and as, on the other hand, Herbert was talking chemistry and physics that day, many kangaroos, capybaras, and agoutis passed within good range, which nevertheless escaped the lad's gun. It followed, then, that, the day being already advanced, the two hunters ran a great risk of having made a useless excursion, when Herbert, stopping and uttering a cry of joy, exclaimed,—
+Cyrus Smith and Herbert, while hunting, had one day ventured into the forest of the Far West, on the left of the Mercy. As always, the lad was asking the engineer a thousand questions, which the latter answered with all his heart. But it is with hunting as with every other occupation in this world, and when one does not bring the necessary zeal to it, there are many reasons for not succeeding. Now, as Cyrus Smith was no hunter, and as, on the other hand, Herbert was talking chemistry and physics that day, many kangaroos, capybaras, and agoutis passed within good range, which nevertheless escaped the lad's gun. It followed, then, that, the day being already advanced, the two hunters ran a great risk of having made a useless excursion, when Herbert, stopping and uttering a cry of joy, exclaimed,—
 
 "Ah! Mr. Smith, do you see that tree?"
 
@@ -128,7 +128,7 @@ The next day the colonists went to the harvest, and Pencroff, more and more enth
 
 They returned to Granite House with an ample harvest of cycas stems. The engineer set up a press in order to extract the mucilaginous juice mixed with the fecula, and he obtained a considerable quantity of flour, which, under Neb's hand, was transformed into cakes and puddings. It was not yet real wheaten bread, but it came very near it.
 
-At this time, too, the onagga, the goats, and the ewes of the corral furnished daily the milk necessary for the colony. And so the wagon, or rather a sort of light cart which had replaced it, made frequent journeys to the corral; and when it was Pencroff's turn to go his round, he took Jup with him and made him drive, which Jup, cracking his whip, performed with his usual intelligence.
+At this time, too, the onagga, the goats, and the ewes of the corral furnished daily the milk necessary for the colony. And so the wagon, or rather a sort of light cart which had replaced it, made frequent journeys to the corral. And when it was Pencroff's turn to go his round, he took Jup with him and made him drive, which Jup, cracking his whip, performed with his usual intelligence.
 
 Everything, then, was prospering, at the corral as well as at Granite House, and truly the colonists, except that they were far from their native land, had no cause to complain. They were so well used to this life, moreover, so accustomed to this island, that they would not have left its hospitable soil without regret!
 

@@ -198,3 +198,10 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 II.16 facts 2: 1, the month again; left. The omission critic runs.
 - 2026-11-21 II.16 omission: 0. II.16 waits for voice.
 - 2026-11-21 Voice on II.13, II.14, II.15: no break; one seam mended. **II.13, II.14, II.15 final.**
+- 2026-11-21 II.17: patcher v2, 78 patches (24 listed, 42 new, 12 slips); P26's old not unique ("aid the engineer" also in "said the engineer"), lengthened; all apply. Facts 1 runs.
+- 2026-11-21 II.18: patcher v2, 80 patches (23 listed, 52 new, 5 slips), and one by the main session: Pencroff's "Mille diables !" as "A thousand devils!", as II.5 stands ("devil" within R1121-97); all apply. Verne's "neuf mille à l'heure" rendered as printed, in the errata (the slip is the rate a minute: the 5,500 years agree with 9,000). Facts 1 runs.
+- 2026-11-21 II.17 facts 1: 7, all patched ("la scène du jaguar"; "ce malheureux"; the added "in the meantime" and "first"; "un jour… un autre"; "resta à croiser"; "ignoré"). Facts 2 runs.
+- 2026-11-21 II.17 facts 1 patched on the second try ("neither be lost nor neglected" was the White string); facts 2 relaunched on the patched text. II.18 facts 1: 1 (the added "rope"), patched. Facts 2 runs.
+- 2026-11-21 II.17 facts 2: 2, patched ("20 décembre"; "un peu protégé par la pénombre"). The omission critic runs.
+- 2026-11-21 II.18 facts 2: 2, patched ("autant de courants"; "récepteur"). The omission critic runs.
+- 2026-11-21 II.17 omission: 0. II.17 waits for voice with II.16 and II.18.

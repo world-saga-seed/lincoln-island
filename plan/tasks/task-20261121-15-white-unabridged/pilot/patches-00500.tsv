@@ -30,7 +30,7 @@ P28	critic	No, he is not dead. It is impossible. It might happen to you or me, b
 P29	critic	this precious trifle	this wretched and precious trifle
 P30	critic	which in civilised lands is wasted with indifference	which in inhabited lands is wasted with so much indifference
 P31	critic	The reporter had retired to a dark corner	The reporter had retired to the end of a dark passage
-P32	new	which would hardly have contained a beast	which would hardly have contented a wild beast
+P32	new	which would hardly have contained a beast	which would hardly have satisfied a wild beast
 P33	new	Pencroff declared himself satisfied.	Pencroff declared himself well satisfied.
 P34	new	Do you think we shall not see him again?	Do you despair of ever seeing him again?
 P35	new	an habitual smoker	an inveterate smoker
@@ -38,7 +38,7 @@ P36	new	walked out, rubbing his forehead.	walked out, briskly scratching his for
 P37	new	Well, the tide is out;	Well, the tide is going down;
 P38	new	It was a serious loss, and,	It was a serious loss in the circumstances, and,
 P39	new	said Herbert, hopefully,	said Herbert, eagerly,
-P40	new	This loss was evidently serious.	This loss was evidently a regrettable thing.
+P40	new	This loss was evidently serious.	This loss was evidently a thing much to be regretted.
 P41	new	At that moment Neb raised his head,	At that moment Neb rose,
 P42	new	knelt down before the fire-place	crouched down before the fire-place
 P43	new	as pipe-smokers do in the wind,	as pipe-smokers do in a high wind,
@@ -56,3 +56,7 @@ P54	critic2	found them sufficient	did very well on them
 P55	critic2	Unfortunately, one was absent from this repast.	Ah! if only one had not been absent from this repast!
 P56	critic2	the incidents of the matches	the incident of the matches
 P57	critic2	dozing, with one eye open	keeping watch with one eye open
+P58	slip	opening on the side; was	opening on the side, was
+P59	slip	without Success	without success
+P60	slip	It is possible.” answered	It is possible,” answered
+P61	slip	cried Pencroff.” “Why,	cried Pencroff. “Why,

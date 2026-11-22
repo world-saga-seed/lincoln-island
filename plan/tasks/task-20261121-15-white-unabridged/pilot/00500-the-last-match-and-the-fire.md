@@ -4,13 +4,13 @@ CHAPTER V.
 
 ARRANGING THE CHIMNEYS—THE IMPORTANT QUESTION OF FIRE—THE MATCH BOX—SEARCH OVER THE SHORE—RETURN OF THE REPORTER AND NEB—ONE MATCH—THE CRACKLING FIRE—THE FIRST SUPPER—THE FIRST NIGHT ON LAND.
 
-The first care of Pencroff, after the raft had been unloaded, was to make the Chimneys habitable, by stopping up those passages traversed by the draughts of air. Sand, stones, twisted branches, and mud, hermetically sealed the galleries of the & open to the southerly winds, and shut out its upper curve. One narrow, winding passage, opening on the side; was arranged to carry out the smoke and to quicken the draught of the fire. The Chimneys were thus divided into three or four chambers, if these dark dens, which would hardly have contented a wild beast, might be so called. But they were dry, and one could stand up in them, or at least in the principal one, which was in the centre. The floor was covered with fine sand, and, everything considered, they could establish themselves in this place while waiting for one better.
+The first care of Pencroff, after the raft had been unloaded, was to make the Chimneys habitable, by stopping up those passages traversed by the draughts of air. Sand, stones, twisted branches, and mud, hermetically sealed the galleries of the & open to the southerly winds, and shut out its upper curve. One narrow, winding passage, opening on the side, was arranged to carry out the smoke and to quicken the draught of the fire. The Chimneys were thus divided into three or four chambers, if these dark dens, which would hardly have satisfied a wild beast, might be so called. But they were dry, and one could stand up in them, or at least in the principal one, which was in the centre. The floor was covered with fine sand, and, everything considered, they could establish themselves in this place while waiting for one better.
 
 While working, Herbert and Pencroff chatted together.
 
 “Perhaps,” said the boy, “our companions will have found a better place than ours.”
 
-“It is possible.” answered the sailor, “but, until we know, don’t let us stop. Better have two strings to one’s bow than none at all!”
+“It is possible,” answered the sailor, “but, until we know, don’t let us stop. Better have two strings to one’s bow than none at all!”
 
 “Oh,” repeated Herbert, “if they can only find Mr. Smith, and bring him back with them, we will have nothing left to do but to thank heaven!”
 
@@ -50,7 +50,7 @@ On the sand, among the rocks, by the bank of the river, both of them searched wi
 
 “Well, the tide is going down; let us run to the place where we landed,” said Herbert.
 
-It was little likely that they would find this box, which the sea would have rolled among the pebbles at high water; nevertheless, it would do no harm to search. They, therefore, went quickly to the place where they had first landed the day before, some 200 paces from the Chimneys. There, among the pebbles, in the hollows of the rocks, they made minute search, but in vain. If the box had fallen here it must have been carried out by the waves. As the tide went down, the sailor peered into every crevice, but without Success. It was a serious loss in the circumstances, and, for the time, irreparable. Pencroff did not conceal his very keen chagrin. He frowned, but did not speak, and Herbert tried to console him by saying, that, most probably, the matches would have been so wetted by the sea water as to be useless.
+It was little likely that they would find this box, which the sea would have rolled among the pebbles at high water; nevertheless, it would do no harm to search. They, therefore, went quickly to the place where they had first landed the day before, some 200 paces from the Chimneys. There, among the pebbles, in the hollows of the rocks, they made minute search, but in vain. If the box had fallen here it must have been carried out by the waves. As the tide went down, the sailor peered into every crevice, but without success. It was a serious loss in the circumstances, and, for the time, irreparable. Pencroff did not conceal his very keen chagrin. He frowned, but did not speak, and Herbert tried to console him by saying, that, most probably, the matches would have been so wetted by the sea water as to be useless.
 
 “No, my boy,” answered the sailor. “They were in a tightly closing metal box. But now, what are we to do?”
 
@@ -62,7 +62,7 @@ It was little likely that they would find this box, which the sea would have rol
 
 “I doubt it,” answered the sailor, shaking his head. “In the first place, neither Neb nor Mr. Smith smoke, and then I’m afraid Mr. Spilett has more likely kept his notebook than his match-box.”
 
-Herbert did not answer. This loss was evidently a regrettable thing. Nevertheless, the lad thought surely they could make a fire in some way or other, but Pencroff, more experienced, although a man not easily discouraged by little things or by great, knew differently. At any rate there was but one thing to do:—to wait until the return of Neb and the reporter. It was necessary to give up the repast of hard eggs which he had wished to prepare for them, and a diet of raw flesh did not seem to him to be, either for them or for himself, an agreeable prospect.
+Herbert did not answer. This loss was evidently a thing much to be regretted. Nevertheless, the lad thought surely they could make a fire in some way or other, but Pencroff, more experienced, although a man not easily discouraged by little things or by great, knew differently. At any rate there was but one thing to do:—to wait until the return of Neb and the reporter. It was necessary to give up the repast of hard eggs which he had wished to prepare for them, and a diet of raw flesh did not seem to him to be, either for them or for himself, an agreeable prospect.
 
 Before returning to the Chimneys, the companions, in case they failed of a fire, gathered a fresh lot of lithodomes, and then silently took the road to their dwelling. Pencroff, his eyes fixed upon the ground, still searched in every direction for the lost box. He even followed up the left bank of the river, from its mouth to the angle where the raft had been moored. He returned to the upper plateau, and went over it in every direction, searching in the tall grass on the edge of the forest, but in vain. It was 5 o’clock when they returned again to the Chimneys, and it is needless to say that the passages were searched in their darkest recesses before all hope was given up.
 
@@ -112,7 +112,7 @@ The reporter rummaged the pockets of his trowsers, his vest, and coat, and to th
 
 “Let me try,” said the lad. And very adroitly, without breaking it, he drew out this little bit of wood, this wretched and precious trifle, which to these poor men was of such great importance. It was uninjured.
 
-“One match!” cried Pencroff.” “Why, it is as good as if we had a whole ship-load!”
+“One match!” cried Pencroff. “Why, it is as good as if we had a whole ship-load!”
 
 He took it, and, followed by his companions, regained the Chimneys. This tiny bit of wood, which in inhabited lands is wasted with so much indifference, as valueless, it was necessary here to use with the utmost care. The sailor, having assured himself that it was dry, said:—
 

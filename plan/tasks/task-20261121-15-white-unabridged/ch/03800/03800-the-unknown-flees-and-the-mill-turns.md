@@ -16,7 +16,7 @@ The sailor reported these words to his companions.
 
 “There is some painful mystery there!” said Cyrus Smith.
 
-The Unknown had begun to use the tools of husbandry, and he worked in the kitchen garden. When he stopped in his task, which often happened, he remained as if wrapped up in himself; but, at the engineer's request, the solitude which he seemed to wish to keep was respected. If one of the colonists approached him, he drew back, and sobs heaved his breast, as if it had been too full!
+The Unknown had begun to use the tools of husbandry, and he worked in the kitchen garden. When he stopped in his task, which often happened, he remained wrapped up in himself; but, at the engineer's request, the solitude which he seemed to wish to keep was respected. If one of the colonists approached him, he drew back, and sobs heaved his breast, as if it had been too full!
 
 Was it remorse, then, which thus weighed him down? It might be believed so, and Spilett could not help making this observation one day:—
 
@@ -70,7 +70,7 @@ However, after the two hours, he appeared to have taken a resolution, and came t
 
 “English,” he replied hastily.
 
-And, as if these few words had weighed upon him to say, he went off along the beach, which he paced from the cascade to the mouth of the Mercy, in a state of extreme agitation.
+And, as if it had cost him to say these few words, he went off along the beach, which he paced from the cascade to the mouth of the Mercy, in a state of extreme agitation.
 
 Then, having at one moment passed near Herbert, he stopped, and, in a stifled voice:—
 
@@ -132,11 +132,11 @@ The sailor's observation was very just, and there was in it a fact beyond compre
 
 “There is in this, once again, something inexplicable,” said the engineer; “but let us not provoke our new companion to speak. When he wishes it, my friends, we shall be ready to hear him!”
 
-During the days which followed, the Unknown did not pronounce a word, and did not once leave the precincts of the plateau. He worked at the soil without losing an instant, without taking a moment's rest, but always apart. At meal-times he did not go up to Granite House, although the invitation had been made to him several times, and he contented himself with eating a few raw vegetables. When night came, he did not return to the room which had been assigned to him, but remained out there, under some clump of trees, or, when the weather was bad, he crouched in some hollow of the rocks. Thus he still lived as in the time when he had had no other shelter than the forests of Tabor Island; and, all urging to lead him to change his life having been in vain, the colonists waited patiently. But the moment was at last coming when, imperiously, and as if driven against his will by his conscience, terrible confessions were to escape him.
+During the days which followed, the Unknown did not pronounce a word, and did not once leave the precincts of the plateau. He worked at the soil without losing an instant, without taking a moment's rest, but always apart. At meal-times he did not go up to Granite House, although the invitation had been made to him several times, and he contented himself with eating a few raw vegetables. When night came, he did not return to the room which had been assigned to him, but remained out there, under some clump of trees, or, when the weather was bad, he crouched in some hollow of the rocks. Thus he still lived as in the time when he had had no other shelter than the forests of Tabor Island. All urging to make him change his life had been in vain, and the colonists waited patiently. But the moment was at last coming when, imperiously, and driven against his will by his conscience, terrible confessions were to escape him.
 
 On the 10th of November, towards eight o'clock in the evening, just as it was beginning to grow dark, the Unknown presented himself unexpectedly before the colonists, who were assembled under the veranda. His eyes shone strangely, and his whole person had taken on again the savage aspect of his bad days.
 
-Cyrus Smith and his companions were as if struck dumb on seeing that, under the sway of a terrible emotion, his teeth were chattering like those of a man in a fever. What was the matter with him, then? Was the sight of his fellow-men insupportable to him? Had he had enough of this existence among honest people? Was the longing for his brutish state taking hold of him again? They were obliged to think so, when they heard him express himself thus, in incoherent phrases:—
+Cyrus Smith and his companions were struck dumb on seeing that, under the sway of a terrible emotion, his teeth were chattering like those of a man in a fever. What was the matter with him, then? Was the sight of his fellow-men insupportable to him? Had he had enough of this existence among honest people? Was the longing for his brutish state taking hold of him again? They were obliged to think so, when they heard him express himself thus, in incoherent phrases:—
 
 “Why am I here?—By what right have you torn me from my islet?—Can there be any tie between you and me?—Do you know who I am—what I have done—why I was there—alone? And who told you that I was not abandoned there—that I was not condemned to die there?—Do you know my past?—Do you know whether I have not robbed, murdered—whether I am not a wretch—an accursed being—fit to live like a wild beast—far from all—speak—do you know it?”
 

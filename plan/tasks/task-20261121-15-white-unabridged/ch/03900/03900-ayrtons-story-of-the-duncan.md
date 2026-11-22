@@ -6,7 +6,7 @@ ALWAYS APART—A REQUEST OF THE UNKNOWN’S—THE FARM ESTABLISHED AT THE CORRAL
 
 These last words justified the presentiments of the colonists. There was some terrible past in the life of this unhappy man, expiated, perhaps, in the eyes of men, but which his conscience still held unabsolved. At any rate, the guilty man felt remorse; he had repented, and his new friends would have cordially grasped that hand which they had asked of him, but he did not feel himself worthy to offer it to honest men! Nevertheless, after the scene of the jaguar, he did not go back to the forest, and from that day he never left the bounds of Granite House.
 
-What was the mystery of this life? Would he speak of it some day? That the future would show. At any rate, they fully agreed that, under no circumstances, would they ask him for his secret; and to associate with him as if they suspected nothing.
+What was the mystery of this life? Would he speak of it some day? That the future would show. At any rate, they fully agreed that, under no circumstances, would they ask him for his secret; and that they would associate with him as if they suspected nothing.
 
 For some days everything went on as usual. Smith and Spilett worked together, sometimes as chemists, sometimes as physicists, the reporter never leaving the engineer, except to hunt with Herbert, as it was not prudent to allow the young lad to traverse the forest alone, and it was necessary to be on their guard. As to Neb and Pencroff, the work one day in the stables or the poultry-yard, another at the corral, besides the chores about Granite House, kept them busy.
 

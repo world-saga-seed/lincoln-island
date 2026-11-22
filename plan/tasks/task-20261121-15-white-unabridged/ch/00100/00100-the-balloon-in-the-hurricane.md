@@ -8,7 +8,7 @@ PART I / SHIPWRECKED IN THE AIR
 
 CHAPTER I.
 
-THE HURRICANE OF 1865—CRIES IN THE AIR—A BALLOON CAUGHT BY A WATERSPOUT—THE TORN ENVELOPE—ONLY THE SEA IN SIGHT—FIVE PASSENGERS—WHAT TOOK PLACE IN THE BASKET—LAND AHEAD!—THE END OF THE DRAMA.
+THE HURRICANE OF 1865—CRIES IN THE AIR—A BALLOON CAUGHT BY A WATERSPOUT—THE TORN ENVELOPE—ONLY THE SEA IN SIGHT—FIVE PASSENGERS—WHAT TOOK PLACE IN THE BASKET—A COAST ON THE HORIZON.—THE END OF THE DRAMA.
 
 “Are we going up again?”
 
@@ -34,7 +34,7 @@ Then a powerful voice rent the air, and these words rang out:—
 
 “Overboard with everything that weighs!—everything!—and God help us!”
 
-Such were the words which rang through the air above the vast wilderness of the Pacific, towards 4 o’clock in the afternoon of the 23d of March, 1865.
+Such were the words which rang through the air above the vast desert of water of the Pacific, towards 4 o’clock in the afternoon of the 23d of March, 1865.
 
 Doubtless, no one has forgotten that terrible northeast gale which vented its fury in the midst of the equinox of that year, and during which the barometer fell to 710 millimetres. It was a hurricane lasting without intermission from the 18th to the 26th of March. Covering a zone 1,800 miles wide, drawn obliquely to the equator, between the 35° of north latitude and 40° south, it occasioned immense destruction both in America and Europe and Asia. Cities in ruins, forests uprooted, shores devastated by the mountains of water which rushed upon them like bores, vessels cast ashore, which the returns of the Bureau Veritas numbered by hundreds, whole territories levelled by the waterspouts which destroyed everything in their path, thousands of persons crushed to the earth or engulfed in the sea; such were the witnesses to its fury left behind by this terrible hurricane. It surpassed in disaster those storms which so frightfully ravaged Havana and Guadeloupe, the one on the 25th of October, 1810, the other on the 26th of July, 1825.
 
@@ -52,7 +52,7 @@ The night passed in the midst of anxieties that would have proved fatal to souls
 
 Toward eleven o’clock, the lower strata of the air had cleared visibly. The atmosphere exhaled that moist limpidity which may be seen, and even felt, after the passage of great meteors. It did not seem as if the storm had gone farther westward. It appeared to have killed itself. Perhaps it had flowed off in electric sheets after the breaking of the waterspout, as sometimes happens with the typhoons of the Indian Ocean.
 
-About the same hour, however, it might have been seen that the balloon was again sinking slowly but surely into the lower strata of the air. It seemed also as if it was gradually collapsing, and that its envelope was lengthening and passing from a spherical into an oval form. Toward noon the balloon was hovering only 2,000 feet above the sea. It held 50,000 cubic feet of gas(2), and therefore, whether soaring to a great height or moving along horizontally, it had evidently been able to maintain itself for a long time in the air. In this emergency the voyagers threw overboard the remaining articles which still weighed down the basket, the few provisions they had kept, and everything they had in their pockets, while one of the party hoisted himself into the ring to which was fastened the cords of the net, and endeavored to closely tie the lower end of the balloon. But it was evident that the voyagers could no longer keep the balloon in the higher regions, and that their gas was failing them!
+About the same hour, however, it might have been seen that the balloon was again sinking slowly but surely into the lower strata of the air. It seemed also as if it was gradually collapsing, and that its envelope was lengthening and passing from a spherical into an oval form. Toward noon the balloon was hovering only 2,000 feet above the sea. It held 50,000 cubic feet of gas(2), and therefore, whether soaring to a great height or moving along horizontally, it had evidently been able to maintain itself for a long time in the air. In this emergency the voyagers threw overboard the remaining articles which still weighed down the basket, the few provisions they had kept, and everything, even to the small articles they had in their pockets, while one of the party hoisted himself into the ring to which was fastened the cords of the net, and endeavored to closely tie the lower end of the balloon. But it was evident that the voyagers could no longer keep the balloon in the higher regions, and that their gas was failing them!
 
 (2) About 1,700 cubic metres.
 

@@ -54,3 +54,6 @@ Lessons: (1) the phase 3 lists undercount White's departures by a factor of abou
 
 Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on the findings → apply → facts critic 2 → the last findings patched by the main session → omission critic → voice critic by threes → into `story/prose/` as final. Re-render: drafter (Opus, a bundle by `build_bundle.py`, the names list) → facts → omission → voice → final.
 - 2026-11-21 I.1: patcher v2, 75 patches (16 listed, 57 new, 2 slips); all apply. Verne's footnotes: `{fn: …}` in a patch becomes "(1)" and a note paragraph after, as 01900 sets them (apply.py; patcher v2 told). "metres" follows White's one "kilometres". Facts critic 1 runs.
+- 2026-11-21 I.1 facts critic 1: 2 (one the rulings' "Mr. Smith"; "désert d'eau" patched, P76). Patcher v2 works: the first critic found 1 departure, against 11 in the pilot. Facts critic 2 runs.
+- 2026-11-21 I.1 facts critic 2: 3 ("Mr. Smith"; the summary's "LAND AHEAD!" and the pockets' "menus ustensiles", patched P77, P78). The omission critic runs.
+- 2026-11-21 I.1 omission: 0 losses. I.1 waits for the voice critic (by threes). I.2's patcher runs.

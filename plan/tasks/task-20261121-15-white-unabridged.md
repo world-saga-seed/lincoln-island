@@ -122,3 +122,8 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.18 facts 2: 3 ("faite au lac", "c'est-à-dire", "plus frais"), patched. The omission critic runs.
 - 2026-11-21 I.17 omission: 1 ("ensuite"); I.18 omission: 1 ("C'est ce qui fut fait"); both patched. Voice on I.17, I.18 (a batch of two) and I.21's patcher run.
 - 2026-11-21 Voice on I.17, I.18: no break; one restored sentence split. **I.17, I.18 final.** Part I wants only I.21 and I.22.
+- 2026-11-21 I.21: patcher v2, 69 patches (13 listed, 47 new, 9 slips), and Herbert's Atlantis made a statement again (main session); all apply. Facts 1 runs.
+- 2026-11-21 I.21 facts 1: 8, all patched ("bien employée", "conifères", the added "majestically", "milliards de milliards", "infusoires du corail", "animaux microscopiques", "des Colombs", "le secret de Dieu"). Facts 2 runs.
+- 2026-11-21 I.22: patcher v2, 92 patches (22 listed, 62 new, 8 slips); all apply. "amandes de pin-pignon" as "pine kernels" (R1121-152). Facts 1 runs.
+- 2026-11-21 I.21 facts 2: 4, patched ("infusoires", "astre", the added "from its changes", "ressusciter"). The omission critic runs.
+- 2026-11-21 I.21 omission: 0. I.21 waits for voice (with I.22). II.1's patcher runs.

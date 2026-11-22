@@ -1,4 +1,4 @@
-# The blind scores (the author's, 2026-11-21)
+# The blind scores (the human’s, 2026-11-21)
 
 Gemini, one cold chat per text, judging blind with the rubrics frozen at phase 7. One run each; read them as one reader's view, not a measurement.
 

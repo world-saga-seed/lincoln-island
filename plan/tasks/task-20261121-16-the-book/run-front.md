@@ -15,4 +15,4 @@ For each chapter, in this order:
 - for XIX bis only, two more stages: **after the human’s read-aloud**, when the human read version 1 aloud and the chapter was revised from what was read, and **after the character check**, when each new turn the read-aloud added was tested against what the colonists would do;
 - **the final**, as it stands in the novel.
 
-After the chapters come the three chapters’ cards, as they now stand; the ledger, every ruling, one row each, in the order it was made; the blind scores, taken by the model playing the author, with Gemini judging each version without being told which was which; and the human’s read-aloud changes, as the human sent them to the author.
+After the chapters come the three chapters’ cards, as they now stand; the ledger, every ruling, one row each, in the order it was made; the blind scores, taken by the human, who put each version to Gemini cold, without saying which was which; and the human’s read-aloud changes, as the human sent them to the author.

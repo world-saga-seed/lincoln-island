@@ -87,7 +87,7 @@ def main():
         versions.append(('gemini', 'The Gemini control (prompt only)', plain_lines(f'{C}/gemini/gemini-{code}.md', False)))
         versions.append(('v1', 'Version 1 (World Saga Seed, first draft)', plain_lines(glob.glob(f'{V1}/{code}-*.md')[0], True)))
         if code == '01950':  # every stage of the insert (R1121-171)
-            versions.append(('read', 'After the author’s read-aloud', plain_lines(os.path.join(HERE, 'stages/01950-after-read-aloud.md'), True)))
+            versions.append(('read', 'After the human’s read-aloud', plain_lines(os.path.join(HERE, 'stages/01950-after-read-aloud.md'), True)))
             versions.append(('char', 'After the character check', plain_lines(os.path.join(HERE, 'stages/01950-after-character-check.md'), True)))
         versions.append(('final', 'The final', plain_lines(final, True)))
         for key, label, lines in versions:
@@ -100,8 +100,8 @@ def main():
         d = os.path.basename(p)[:-3]
         entries.append((f'l{d}.xhtml', f'The ledger: {d}', pg(f'The ledger: {d}', md_page(p), 'rec')))
     entries.append(('scores.xhtml', 'The blind scores', pg('The blind scores', md_page(os.path.join(HERE, 'blind-scores.md'), table=True), 'rec')))
-    entries.append(('readaloud.xhtml', 'The author’s read-aloud', pg('The author’s read-aloud', ['<h2>The author’s read-aloud of XIX bis</h2>',
-        '<p><em>As the author sent it, after reading v1 aloud from the ereader (R1121-129, R1121-130).</em></p>'] + md_page(os.path.join(HERE, 'read-aloud.md')), 'rec')))
+    entries.append(('readaloud.xhtml', 'The human’s read-aloud', pg('The human’s read-aloud', ['<h2>The human’s read-aloud of XIX bis</h2>',
+        '<p><em>As the human sent it, after reading v1 aloud from the ereader (R1121-129, R1121-130, R1121-176).</em></p>'] + md_page(os.path.join(HERE, 'read-aloud.md')), 'rec')))
     B.CSS += CSS_EXTRA
     B.TITLE = 'Lincoln Island: The Run'
     B.write(out + '.epub', entries, images)

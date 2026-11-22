@@ -6,6 +6,7 @@ alignment's discord lists. One image per Part, PNG and SVG, into story/front/. R
 import csv, glob, os, re, statistics
 import matplotlib
 matplotlib.use('Agg')
+matplotlib.rcParams['svg.hashsalt'] = 'lincoln-island'  # stable ids, so a rebuild leaves the files unchanged
 import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 from matplotlib.lines import Line2D
@@ -104,6 +105,7 @@ for title, lo, hi, k in PARTS:
     h += [Line2D([], [], marker='v', ls='none', markerfacecolor='#1a1a1a', markeredgecolor='none', markersize=5, label=f'A patch changed the words ({nmark})')]
     ax.legend(handles=h, loc='upper left', bbox_to_anchor=(0, 0), ncol=2, fontsize=7.5, frameon=False)
     for ext in ('png', 'svg'):
-        fig.savefig(os.path.join(OUT, f'map-part-{k}.{ext}'), dpi=170, bbox_inches='tight', facecolor='white')
+        fig.savefig(os.path.join(OUT, f'map-part-{k}.{ext}'), dpi=170, bbox_inches='tight', facecolor='white',
+                    metadata={'Date': None} if ext == 'svg' else {'Software': None})
     plt.close(fig)
 print('base %.2f' % base)

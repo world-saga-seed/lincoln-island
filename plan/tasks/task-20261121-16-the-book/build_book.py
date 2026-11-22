@@ -178,17 +178,29 @@ def map_table():
     return out + ['</table>']
 
 
+BIS = 'story/prose/01950-the-float-in-the-bar.md'
+
+
 def build(out, only, kobo):
+    global AUTHOR
+    bis = os.path.exists(BIS)
+    if not bis:  # a fork that took the chapter out (R1121-163): no byline for it, and the map redrawn without it
+        AUTHOR = 'Jules Verne'
+    subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'draw_map.py')],
+                   check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     entries, images = [], []   # (href, title, xhtml)
     entries.append(('title.xhtml', 'Title', page('Title', [
         '<p class="titlebig">THE MYSTERIOUS ISLAND</p>', '<p class="byline">by Jules Verne</p>',
-        '<p class="byline">in Stephen W. White’s English of 1876, made unabridged against the French of 1875</p>',
-        '<p class="byline">with a missing chapter by a model, by the World Saga Seed method</p>'])))
+        '<p class="byline">in Stephen W. White’s English of 1876, made unabridged against the French of 1875</p>'] +
+        (['<p class="byline">with a missing chapter by a model, by the World Saga Seed method</p>'] if bis else []))))
     for f in ['foreword', 'scholar-preface', 'map']:
         p = f'story/front/{f}.md'
         if os.path.exists(p):
             t, b = front(p, images)
-            if f == 'map': b += map_table()
+            if f == 'map':
+                if not bis:
+                    b = [x.replace('; the dotted band is XIX bis, which has no French', '') for x in b]
+                b += map_table()
             entries.append((f'{f}.xhtml', t, page(t, b, 'front')))
     files = sorted(glob.glob('story/prose/[0-9][0-9][0-9][0-9][0-9]-*.md'))
     for path in files:

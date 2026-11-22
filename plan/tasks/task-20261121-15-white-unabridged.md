@@ -159,3 +159,5 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 Voice on II.4, II.5, II.6: no break; three splits in the render, one seam in II.5. **II.4, II.5 final.** II.6 waits for the "moricaud" ruling.
 - 2026-11-21 II.7 facts 1: 5; three patched ("les volatiles" without White's quoted "chickens"; "renvoyée"; the added "canal"). Onaggas (the heading and ¶54, and White's "onagers" book-wide) put to the author. Facts 2 runs.
 - 2026-11-21 R1121-154: onaggas everywhere. "Moricaud" is with the human. patcher-v2 and the render prompts carry the onagga line; II.8 (rendering now) is checked for it on its return.
+- 2026-11-21 II.7 facts 2: 8, all patched; onaggas throughout the chapter and its heading (R1121-154); "traînait des charges"; "esprit pratique"; the engineer had the stable built; the echoes; "rassurante pour l'alimentation". The omission critic runs.
+- 2026-11-21 II.7 omission: 1 ("définitivement"), patched. II.7 waits for voice.

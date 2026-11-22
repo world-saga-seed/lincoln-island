@@ -2,7 +2,7 @@
 
 CHAPTER XI.
 
-AT THE SUMMIT OF THE CONE—THE INTERIOR OF THE CRATER—SEA EVERYWHERE —NO LAND IN SIGHT—A BIRD’S EYE VIEW OF THE COAST—HYDROGRAPHY AND OROGRAPHY —IS THE ISLAND INHABITED?—BAPTISM OF BAYS, GULFS, CAPES, RIVERS, ETC.—LINCOLN ISLAND.
+AT THE SUMMIT OF THE CONE—THE INTERIOR OF THE CRATER—SEA EVERYWHERE—NO LAND IN SIGHT—A BIRD’S EYE VIEW OF THE COAST—HYDROGRAPHY AND OROGRAPHY—IS THE ISLAND INHABITED?—BAPTISM OF BAYS, GULFS, CAPES, RIVERS, ETC.—LINCOLN ISLAND.
 
 A half hour later Cyrus Smith and Herbert were back at the camp. The engineer contented himself with saying to his comrades that the land on which chance had thrown them was an island, and that to-morrow they would consider what to do. Then each disposed himself to sleep as best he could, and in this basalt cave, 2,500 feet above sea-level, on a peaceful night, “the islanders” enjoyed a profound repose. The next day, March 30, after a hurried breakfast on roast tragopan, the engineer wished to climb again to the summit of the volcano, that he might observe with attention the isle in which he and his companions were imprisoned for life, perhaps, if it lay at a great distance from all other land, or out of the course of vessels bound for the archipelagoes of the Pacific. This time his companions followed him in this new exploration. They too desired to see the island to which they were to look for the supply of all their wants.
 
@@ -140,4 +140,4 @@ They greeted the proposal with three hurrahs.
 
 And that evening, before they slept, the new colonists talked of their absent country; they spoke of the terrible war which was steeping it in blood; they could not doubt that the South would soon be subdued, and that the cause of the North, the cause of justice, would triumph, thanks to Grant, thanks to Lincoln!
 
-Now this was the 30th of March, 1865, and little did they know that sixteen days afterwards a frightful crime would be committed in Washington, and that, on Good Friday, Abraham Lincoln would fall by the bullet of a fanatic.
+Now this was the 30th of March, 1865, and they did not know that sixteen days afterwards a frightful crime would be committed in Washington, and that, on Good Friday, Abraham Lincoln would fall by the bullet of a fanatic.

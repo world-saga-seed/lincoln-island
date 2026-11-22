@@ -50,7 +50,7 @@ The dog bounded to his master at the call, and Smith, having taken Top’s head 
 
 “Here are two knives, Pencroff.”
 
-For all response, the sailor gave a couple of cheers. Top’s collar was made from a thin piece of tempered steel. All that was therefore necessary was to rub it to an edge upon a sand-stone, and then to take off the wire-edge upon one of finer grain. These kind of stones were readily procurable upon the beach, and in a couple of hours the implements of the colony consisted of two sharp blades, which it was easy to fasten into solid handles. The making of this first tool was greeted as a triumph; a precious conquest, indeed, and one that came at the right moment.
+For all response, the sailor gave a couple of cheers. Top’s collar was made from a thin piece of tempered steel. All that was therefore necessary was to rub it to an edge upon a sand-stone, and then to take off the wire-edge upon one of finer grain. These kind of stones were readily procurable upon the beach, and in a couple of hours the implements of the colony consisted of two sharp blades, which it was easy to fasten into solid handles. The making of this first tool was greeted as a triumph: a precious conquest, and one that came at the right moment.
 
 On setting out, it was the intention of the engineer to return to the western bank of the lake, where, the day before, he had noticed the clay, of which he had secured a specimen. Following the bank of the Mercy they crossed Prospect Plateau, and after a walk of five miles at most, they arrived at a glade some 200 paces distant from Lake Grant.
 

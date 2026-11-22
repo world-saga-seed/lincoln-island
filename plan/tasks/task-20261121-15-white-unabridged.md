@@ -102,3 +102,6 @@ Patch: patcher v2 (Opus) → apply → facts critic → patcher's second pass on
 - 2026-11-21 I.13 facts 2: 5; four patched (the heading's pottery kiln; the "commencement"; the wind that cast them ashore; "sanctifier"); "THE FIRST BOILED MEAT" kept, agreeing with the body's boiled agouti. The omission critic runs.
 - 2026-11-21 I.13 omission: 1 ("un simple pot-au-feu"), patched. I.13 waits for voice.
 - 2026-11-21 I.14 rendered (Opus): about 3,220 words against the French's 3,330; tells.py run by the main session (0 banned hits; long% 43, sd 14.7, three knots: for the voice critic). The drafter could not run its one allowed command (the classifier refused it), so render prompts now allow none: chap.py strips the tells line, and footnotes are asked as (1). The footnote's "[1]" set as "(1)". Voice on I.11, I.12, I.13 and facts 1 on I.14 run.
+- 2026-11-21 I.14 facts: 0. The omission critic runs.
+- 2026-11-21 I.14 omission: 0. I.14 waits for voice. I.15's patcher runs.
+- 2026-11-21 Voice on I.11, I.12, I.13: no break; four patch seams mended. **I.11, I.12, I.13 final.**

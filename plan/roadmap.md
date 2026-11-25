@@ -9,14 +9,13 @@ Phases 0 to 12b are done, and phase 13 is drafted.
 - **The forewords and the map** are in `story/front/`, and the scholar's 39 notes are in `story/scholar/`. The map shows what White did to the French, with a star on each chapter rendered anew (R1124-07).
 - **The two books** build from `plan/tasks/task-20261121-16-the-book/`: `build_book.py` makes `build/lincoln-island.*` and `build_run.py` makes `build/lincoln-island-run.*`. `build/` is not tracked.
 - **The clearance** is done, and no modern translation was checked (R1121-180). The raw sources listed in `plan/tasks/task-20261121-17-clearance/release-exclude.txt` are out of the repo and its whole history (`3b4e443`).
-- **The release check** (2026-11-24): the licence is split by folder (R1124-01; `LICENSE`, `LICENSE-CC0`); the README says what the project is for (R1124-02); the local paths are cleaned and `tools/check_paths.py` prints `clean` (R1124-03, -04; kit patch 0002). The history was rewritten so no commit holds one (R1124-08).
+- **The release check** (2026-11-24): the licence is split by folder (R1124-01; `LICENSE`, `LICENSE-CC0`); the README says what the project is for (R1124-02); the local paths are cleaned and `tools/check_paths.py` prints `clean` (R1124-03, -04; kit patch 0002). The history was rewritten so no commit holds one (R1124-08), force-pushed, and the repository made public (R1124-09).
 - **The report** is `REPORT.md`, and the post draft is in `plan/tasks/task-20261121-18-close/post-draft.md`.
 
 ## Next
 
 1. **The community check** (BRIEF phase 13), at the author's word.
-2. **The force-push** of the rewritten history to `origin` (the remote still holds the old one), then the repository made public, at the human's word.
-3. **The post**, at the author's word (BRIEF: "No push, no post, until the end and the community check").
+2. **The post**, at the author's word (BRIEF: "No push, no post, until the end and the community check").
 
 ## Waiting
 

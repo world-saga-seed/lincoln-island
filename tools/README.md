@@ -21,6 +21,7 @@ They come in three levels. Start with the basic ones; add the refinement checks 
 | `epub.py` | builds an EPUB of chosen chapters, each paragraph tagged with its source line | `python3 tools/epub.py --title "Volume 1" --out build/v1.epub story/prose/00*.md` |
 | `tokens.py` | a session's token totals (input, cache written, cache read, output; by model; the agents inside it apart) from its Claude Code transcript, as a row for the token log; a call written as several lines counted once | `python3 tools/tokens.py ~/.claude/projects/BOOK/SESSION.jsonl --step "session close" --log plan/tokens.md --append` |
 | `check_clean.py` | checks that a book cloned from the kit has nothing left of the example: no `example/`, no name from it, no link into it | `python3 tools/check_clean.py` |
+| `check_paths.py` | checks that no tracked file holds an absolute local path (a home folder, a user name, a session scratchpad); prompts and reports name paths from the repository's root | `python3 tools/check_paths.py` |
 
 ### Refinement
 
@@ -110,6 +111,8 @@ The drafter's pull has no paths: a path is an invitation to open a file or grep,
 
 **check_leak.py.** Run from your fork of the kit, never from the book. It reads a unified diff (standard input, or `--diff FILE`) and checks only the lines the change adds. Names are the proper names in the headings of the book's cards (`world/`) and character sheets (`story/notes/characters/`), matched as whole words, case kept; a shared run is `--words` words (default 8) found in the book's `story/`, `world/` or `existing/` text. A hit is not always a leak (a word that is also a name, a stock phrase): Claude reads each one with the writer. Exits 1 on any hit, prints `clean` otherwise.
 
+**check_paths.py.** Run it before committing a saved prompt or report, and before a release. It scans the files git tracks (every file but `.git/` outside a checkout), skips binaries and itself, and lists each hit as `file:line` with the path; exits 1 on any hit, prints `clean` otherwise. `--root DIR` checks another folder. A path into the repository is written from its root (`story/prose/00400-x.md`); a scratchpad is written `<scratchpad>`.
+
 **check_clean.py.** Run it once, after deleting `example/` from a fresh clone; it must print `clean`. `--root DIR` checks another folder. Each hit is listed as `file:line` with what it found; exits 1 on any hit. The example's names (title, people, places, chapter slugs) are written into the script, with a comment on how to rebuild the list if the example changes; the script does not scan itself.
 
 **epub.py.** Its options and how to use the build are in [plan/workflows/ereader.md](../plan/workflows/ereader.md#build). No cover image (that would need an image library); readers show the title page.
@@ -124,6 +127,7 @@ Each script was run on the kit's `example/` folder:
 - `repeats.py` on the sample and the scene: one stock pattern counted; on two copies of one file, the shared phrases found.
 - `quotes.py` on the facts critic's report against draft 1: 2 of 3 resolve, the invented quote reported missing (exit 1); on the keep list against draft 2: 6 of 6; on a file with no quote lines: "0 quotes found" (exit 1).
 - `check_leak.py`: on a diff adding a line that names a person and a place from the example's cards, and an email address, with `--book example`, the full name, the place and the email found; a line about critics found clean.
+- `check_paths.py`: on a file planted with a Linux home folder, a Windows user folder and a session scratchpad, all three found (exit 1); a relative path passed; on Lincoln Island after its paths were cleaned, `clean`.
 - `check_clean.py`: in the kit, fails on `example/` (exit 1); on a copy with `example/` deleted, `clean`; a planted example name and a planted link into `example/` each found.
 - `cards.py index --root example/world --sheets example/story/notes/characters`: 29 entries, each linking its card; `cards.py check` still 0 problems.
 - `refrains.py` on the scene and two planted chapters, with a one-line watch list: the planted refrain counted 6 and flagged over the volume limit and in the chapter that showed it 4 times; a 25-word description planted in all three reported once, as one joined run.

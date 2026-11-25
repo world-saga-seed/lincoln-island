@@ -169,7 +169,7 @@ def front(path, images):
 def map_table():
     p = 'plan/tasks/task-20261121-16-the-book/map.tsv'
     rows = [l.rstrip('\n').split('\t') for l in open(p, encoding='utf-8')][1:]
-    out = ['<p>The same, as a table: for each chapter, the patches made and the French paragraphs by mark.</p>', '<table>',
+    out = ['<p>What the restoration did, as a table: for each chapter, the patches made to White’s text and the French paragraphs by mark.</p>', '<table>',
            '<tr><th>Chapter</th><th>Patches</th><th>Kept</th><th>Patched</th><th>Restored</th></tr>']
     for nn, act, marks, pa, k, pt, r in rows:
         n = int(nn)

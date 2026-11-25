@@ -26,6 +26,7 @@ A novel in progress: Jules Verne's *L'Île mystérieuse* with one chapter insert
 14. **Close every session** by `plan/workflows/retrospective.md`.
 15. **When the writer is on a phone** (a Remote Control session), reply in a few lines: the verdict first, then one question or finding at a time with its recommendation. Never paste a diff or a whole report; say where it is and what it says.
 16. **Ages are stated where a scene touches sex or romance.** Anthropic's Usage Policy applies to all drafting, whatever the setting's world, species or laws. Any outline or notes touching sex or romance names the parties and their true ages at the head; a character's sheet holds every age at once, so never rely on the reader of a bundle to infer it. Where the ages are unclear, ask the writer before drafting. An age is the story's truth, never a label to make a scene pass.
+17. **No local paths in the files.** A tracked file names every path relative to the repository's root: never a home folder, a user name or a session scratchpad. Agents run in the repository's folder; a saved prompt names a scratchpad as `<scratchpad>`, and the real path is given only at run time. Run `python3 tools/check_paths.py` before committing an agent's prompt or report, and before a release. *(Settled R1124-04.)*
 
 ## About the writer
 

@@ -6,6 +6,8 @@
 
 Checks run once per volume, before release, after the writer's read is folded back and the volume is final. Not part of drafting.
 
+**First, the paths.** Run `python3 tools/check_paths.py`; it must print `clean`. An absolute local path in a saved prompt or report names the machine and the person who ran the work, and it survives in the history once committed, so clean it before the repository is made public (R1124-04).
+
 ## 1. The famous-phrase check
 
 A model can, rarely, reproduce a memorable published line nearly word for word. A narrow, period- or world-bound narrator is low risk; the risk sits wherever outside text can come in: songs, sayings, prayers, quoted verse, a character from our world quoting it.

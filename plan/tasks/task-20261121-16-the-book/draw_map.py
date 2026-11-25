@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Draw the restoration map (R1121-163, R1121-169) in the form of the earlier draft (tmp/genome-draft/genome2.py):
-one band per chapter, its length by the French text; the bands' shade is how much of each passage the patches
-restored; the marks above are the patches that changed White's words. Drawn from the patches made, not the
-alignment's discord lists. One image per Part, PNG and SVG, into story/front/. Run from the repo root."""
+"""Draw the map (R1124-07, replacing R1121-169) in the form of the first draft (genome2.py): what White's 1876
+English did to Verne's French. One band per chapter, its length by the French text; the bands' shade is how much of
+each passage White kept (from the alignment, texts/align/NN.tsv); the marks are White's departures (from the labelled
+discord lists, texts/align/NN-discords.md). A chapter rendered anew is drawn the same, with a symbol at its row's end;
+XIX bis, which has no French, is a symbol alone. One image per Part, PNG and SVG, into story/front/. Run from the
+repo root."""
 import csv, glob, os, re, statistics
 import matplotlib
 matplotlib.use('Agg')
@@ -32,77 +34,76 @@ for n in range(1, 63):
 base = statistics.median(int(r['white_chars']) / int(r['fr_chars']) for rs in beads.values() for r in rs
                          if r['kind'] == '1-1' and int(r['fr_chars']) > 200)
 
+def pnum(s): return [int(x) for x in re.findall(r'¶(\d+)', s)]
+disc = {}
+for n in range(1, 63):
+    disc[n] = []
+    dp = 'texts/align/%02d-discords.md' % n
+    if os.path.exists(dp):
+        for line in open(dp, encoding='utf-8'):
+            m = re.match(r'### \d+\. ([a-z]+): .*\(([IV]+)\.\d+ (¶\d+(?:–¶\d+)?)', line)
+            if m:
+                ps = pnum(m.group(3)); disc[n].append((m.group(1), ps[0], ps[-1]))
+
+SH = [(0.75, '#d9d9d9'), (0.40, '#969696'), (0.05, '#525252'), (-1, '#000000')]
+def shade(r):
+    fr, wh = int(r['fr_chars']), int(r['white_chars'] or 0)
+    k = wh / fr / base if fr else 1
+    return next(c for lo, c in SH if k >= lo)
+MK = {'changed': ('v', '#1a1a1a', 'Changed fact or meaning'), 'softened': ('o', '#ffffff', 'Softened'),
+      'addition': ('P', '#1a1a1a', 'White adds'), 'cut': ('|', '#1a1a1a', 'Cut within a passage')}
+
 def chapter(n):
-    """[(x0, x1, shade)], [x of change marks], end"""
+    """[(x0, x1, shade)], [(kind, x)], end"""
     start, x = {}, 0
     for p in sorted(plen[n]): start[p] = x; x += plen[n][p]
     end = x
-    if n in RENDERED: return None, None, end
-    wp = {int(m.group(1)): m.group(2) for l in open('texts/white-1876/%02d.md' % n, encoding='utf-8')
-          for m in [re.match(r'^¶(\d+) (.*)', l)] if m}
-    restored, marks = {}, []   # white ¶ -> chars restored; (white ¶, fraction)
-    for r in csv.DictReader(open(tsv_for(n), encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE):
-        if r['discord'] == 'glossary': continue
-        old, new = r['old'], r['new'] or ''
-        if old.startswith('@¶'):
-            w = int(old[2:]); add = len(new) - len(wp.get(w, ''))
-            if add > 40: restored[w] = restored.get(w, 0) + add
-            else: marks.append((w, 0.5))
-            continue
-        hit = [(w, t.find(old)) for w, t in wp.items() if old in t] or [(w, t.find(old[:40])) for w, t in wp.items() if old[:40] in t]
-        if not hit: continue
-        w, at = hit[0]; add = len(new) - len(old)
-        if add > 40 or '¶' in new: restored[w] = restored.get(w, 0) + max(add, 0)
-        else: marks.append((w, (at + len(old) / 2) / max(len(wp[w]), 1)))
-    bands, where = [], {}
-    for b in beads[n]:
-        fs, ws = nums(b['fr']), nums(b['white'])
-        if not fs: continue
-        x0 = start.get(fs[0], 0); x1 = start.get(fs[-1], end) + plen[n].get(fs[-1], 0)
-        fr = int(b['fr_chars']) or 1
-        k = 1.0 if not ws else sum(restored.get(w, 0) for w in range(ws[0], ws[-1] + 1)) / (fr * base)
-        shade = '#000000' if k >= 0.95 else '#525252' if k >= 0.40 else '#969696' if k >= 0.05 else '#d9d9d9'
-        bands.append((x0, x1, shade))
-        if ws:
-            for i, w in enumerate(range(ws[0], ws[-1] + 1)):
-                where[w] = (x0 + (x1 - x0) * i / len(range(ws[0], ws[-1] + 1)), (x1 - x0) / len(range(ws[0], ws[-1] + 1)))
-    xs = [where[w][0] + where[w][1] * f for w, f in marks if w in where]
-    return bands, xs, end
+    bands = []
+    for r in beads[n]:
+        ps = pnum(r['fr'])
+        if not ps: continue
+        a, b = ps[0], ps[-1]
+        bands.append((start.get(a, 0), start.get(b, end) + plen[n].get(b, 0), shade(r)))
+    marks = [(k, (start.get(a, 0) + start.get(b, 0) + plen[n].get(b, 0)) / 2) for k, a, b in disc[n] if k in MK]
+    return bands, marks, end
 
 data = {n: chapter(n) for n in range(1, 63)}
 bis = os.path.exists('story/prose/01950-the-float-in-the-bar.md')
-bislen = len(open('story/prose/01950-the-float-in-the-bar.md', encoding='utf-8').read()) / base if bis else 0
 maxlen = max(d[2] for d in data.values())
 PARTS = [('Part I: Shipwrecked in the Air', 1, 22, 1), ('Part II: The Abandoned', 23, 42, 2), ('Part III: The Secret of the Island', 43, 62, 3)]
+REND = dict(marker='*', s=70, facecolor='#1a1a1a', edgecolor='none', zorder=3)
+BIS = dict(marker='D', s=30, facecolor='white', edgecolor='#1a1a1a', linewidths=0.9, zorder=3)
 for title, lo, hi, k in PARTS:
     rows = []
     for n in range(lo, hi + 1):
         rows.append((roman(n), n))
         if n == 19 and bis: rows.append(('XIX bis', None))
     fig, ax = plt.subplots(figsize=(8.2, 0.42 * len(rows) + 2.6))
-    nmark = 0
+    counts = {}
     for i, (lab, n) in enumerate(rows):
         y = -i * 1.25
         if n is None:
-            ax.barh(y, bislen, left=0, height=0.62, color='white', edgecolor='#1a1a1a', hatch='....', linewidth=0.6)
-            ax.text(bislen + maxlen * 0.01, y, 'added; no French', fontsize=7.5, va='center', color='#333333')
-        elif data[n][0] is None:
-            ax.barh(y, data[n][2], left=0, height=0.62, color='white', edgecolor='#1a1a1a', hatch='////', linewidth=0.6)
-            ax.text(data[n][2] + maxlen * 0.01, y, 'rendered anew', fontsize=7.5, va='center', color='#333333')
+            ax.scatter([maxlen * 0.012], [y], **BIS)
         else:
-            bands, xs, end = data[n]
+            bands, marks, end = data[n]
             for x0, x1, c in bands: ax.barh(y, x1 - x0, left=x0, height=0.62, color=c, linewidth=0)
-            ax.scatter(xs, [y + 0.5] * len(xs), marker='v', s=9, facecolor='#1a1a1a', edgecolor='none', zorder=3)
-            nmark += len(xs)
+            for kind, xm in marks:
+                counts[kind] = counts.get(kind, 0) + 1
+                if kind == 'cut':
+                    ax.plot([xm, xm], [y - 0.36, y - 0.5], color='#1a1a1a', lw=1.0)
+                else:
+                    m, fc, _ = MK[kind]
+                    ax.scatter([xm], [y + 0.48], marker=m, s=16, facecolor=fc, edgecolor='#1a1a1a', linewidths=0.6, zorder=3)
+            if n in RENDERED: ax.scatter([end + maxlen * 0.025], [y], **REND)
         ax.text(-maxlen * 0.012, y, lab, fontsize=8.5, ha='right', va='center', color='#1a1a1a')
-    ax.set_xlim(-maxlen * 0.08, maxlen * 1.13); ax.set_ylim(-len(rows) * 1.25 + 0.4, 1.0); ax.axis('off')
-    ax.set_title(f"{title}\nOne band per chapter, its length by Verne's French. Shade: what the patches put back.\nMarks: the patches that changed White's words.",
+    ax.set_xlim(-maxlen * 0.08, maxlen * 1.06); ax.set_ylim(-len(rows) * 1.25 + 0.4, 1.0); ax.axis('off')
+    ax.set_title(f"{title}\nWhat White's English of 1876 did to Verne's French. One band per chapter, its length by the French.\nShade: how much of each passage White kept. Marks: where he departed from it.",
                  fontsize=10, loc='left', color='#1a1a1a')
-    h = [Patch(fc=c, ec='#666666', lw=0.5, label=l) for c, l in [('#d9d9d9', "White's words stand"), ('#969696', 'Some put back (5 to 40%)'),
-         ('#525252', 'Mostly put back (40 to 95%)'), ('#000000', 'Put back whole')]]
-    h += [Patch(fc='white', ec='#1a1a1a', hatch='////', label='Rendered anew from the French')]
-    if k == 1 and bis: h += [Patch(fc='white', ec='#1a1a1a', hatch='....', label='XIX bis, added')]
-    h += [Line2D([], [], marker='v', ls='none', markerfacecolor='#1a1a1a', markeredgecolor='none', markersize=5, label=f'A patch changed the words ({nmark})')]
+    h = [Patch(fc=c, ec='#666666', lw=0.5, label=l) for (lo_, c), l in zip(SH, ['Kept', 'Condensed (40 to 75% kept)', 'Mostly cut (5 to 40% kept)', 'Cut whole'])]
+    h += [Line2D([], [], marker=MK[q][0], ls='none', markerfacecolor=MK[q][1], markeredgecolor='#1a1a1a', markersize=5, label=f'{MK[q][2]} ({counts.get(q, 0)})') for q in ('changed', 'softened', 'addition')]
+    h += [Line2D([], [], marker='|', ls='none', color='#1a1a1a', markersize=7, label=f"{MK['cut'][2]} ({counts.get('cut', 0)})")]
+    h += [Line2D([], [], marker='*', ls='none', markerfacecolor='#1a1a1a', markeredgecolor='none', markersize=9, label='Rendered anew from the French')]
+    if k == 1 and bis: h += [Line2D([], [], marker='D', ls='none', markerfacecolor='white', markeredgecolor='#1a1a1a', markersize=5, label='XIX bis, added; no French')]
     ax.legend(handles=h, loc='upper left', bbox_to_anchor=(0, 0), ncol=2, fontsize=7.5, frameon=False)
     for ext in ('png', 'svg'):
         fig.savefig(os.path.join(OUT, f'map-part-{k}.{ext}'), dpi=170, bbox_inches='tight', facecolor='white',

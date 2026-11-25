@@ -1,16 +1,26 @@
 # Lincoln Island
 
-*The Mysterious Island*, by Jules Verne: the whole novel of 1875, unabridged, in Stephen W. White's English of 1876, with one chapter added. Byline: "Jules Verne; the missing chapter by a model, by the World Saga Seed method".
+**A demonstration of [World Saga Seed](https://github.com/world-saga-seed/world-saga-seed),** a method for writing a long book with language models: the story's facts are kept as notes ("cards"), every ruling goes on a ledger before any file changes, and every chapter is checked against the notes by fresh critics who must quote the text. To show the method on a large work, it was run on a whole published novel: Jules Verne's *The Mysterious Island* (1875), all 62 chapters, in Stephen W. White's English of 1876. A model played the author, another model did the work, and a human read the books as a reader. Everything the run made is here: the cards, the ledger, the prompts, the controls, the scores and the cost in tokens.
+
+The novel is the whole of Verne, unabridged, with two additions made to show what the method does. Byline: "Jules Verne; the missing chapter by a model, by the World Saga Seed method".
+
+## What to look at
+
+- **The scholar's notes show the consistency check.** Carding the novel, outlining it from the French and setting every date and direction side by side, found where Verne's story disagrees with itself: a day counted twice, an island placed to the north-east that the colonists sail south-west to reach. A fictional Iowa scholar footnotes those places, 39 notes across 29 chapters, and settles each from a third passage where the text allows. They are in [story/scholar/](story/scholar/); his preface is [story/front/scholar-preface.md](story/front/scholar-preface.md); where each came from is [the inventory](plan/tasks/task-20261121-16-the-book/notes-inventory.md).
+- **XIX bis shows the voice.** [Chapter XIX bis, "The Float in the Bar"](story/prose/01950-the-float-in-the-bar.md) is a chapter Verne never wrote, set between his XIX and XX and written in White's 1876 English. It is checked against the cards like any other chapter. Its texture measures stand beside White's own range, and beside two controls written from the same scene without the method, in [REPORT.md](REPORT.md), with the blind scores.
 
 ## What the book is
 
-White's translation of 1876 is the one English voice, but White cut and changed Verne as he went. Here every chapter has been put back to Verne's French (Hetzel, 1875): what White left out is restored in his manner, what he changed is set right, and where White's chapter was too far from Verne to mend, it was rendered anew from the French in his voice. Names, spellings and forms of address stay White's. Verne's own slips are listed in [the errata](texts/errata.md), with how each was handled. White's glossary of 1876 follows the last chapter as back matter, marked as his.
+White's translation of 1876 is the one English voice used, but White cut and changed Verne as he went. Here every chapter has been put back to Verne's French (Hetzel, 1875): what White left out is restored in his manner, what he changed is set right, and where White's chapter was too far from Verne to mend, it was rendered anew from the French in his voice. Names, spellings and forms of address stay White's. Verne's own slips are listed in [the errata](texts/errata.md), with how each was handled. White's glossary of 1876 follows the last chapter as back matter, marked as his.
 
 ## What was added, and how to take it out
 
-One chapter: **XIX bis, "The Float in the Bar"**, [story/prose/01950-the-float-in-the-bar.md](story/prose/01950-the-float-in-the-bar.md), set between Verne's chapters XIX and XX (1 to 3 June 1865). It has no French original and is marked so. Nothing else in the book was written for it: its neighbours, XIX and XX, are Verne's chapters as the rest are, and later chapters carry no line of its making.
+Two things, each in its own files:
 
-To read Verne alone, leave that one file out: delete it, or build without it (`tools/epub.py --prose story/prose --from 100 --to 6200 --skip 1950`). The book is then Verne's unabridged, in White's English.
+- **One chapter, XIX bis, "The Float in the Bar"**, [story/prose/01950-the-float-in-the-bar.md](story/prose/01950-the-float-in-the-bar.md), set between Verne's chapters XIX and XX (1 to 3 June 1865). It has no French original and is marked so. Nothing else in the book was written for it: its neighbours are Verne's chapters as the rest are, and later chapters carry no line of its making.
+- **The scholar**: his preface, [story/front/scholar-preface.md](story/front/scholar-preface.md), and his notes, [story/scholar/](story/scholar/).
+
+To read Verne alone, delete those files; the book builds without them. To leave out only the chapter, build without it (`tools/epub.py --prose story/prose --from 100 --to 6200 --skip 1950`). The book is then Verne's unabridged, in White's English.
 
 ## Where to start
 
@@ -26,14 +36,18 @@ Every source is in the public domain: Verne's French (Hetzel, 1875, from fr.wiki
 
 ## How it was made
 
-With the [World Saga Seed](https://github.com/world-saga-seed/world-saga-seed) kit, whose method is in [kit/](kit/pipeline/README.md); the run, phase by phase, is in [BRIEF.md](BRIEF.md), and the working rules in [CLAUDE.md](CLAUDE.md).
+With the [World Saga Seed](https://github.com/world-saga-seed/world-saga-seed) kit, whose method is in [kit/](kit/pipeline/README.md); the run, phase by phase, is in [BRIEF.md](BRIEF.md), the working rules in [CLAUDE.md](CLAUDE.md), and the results and costs in [REPORT.md](REPORT.md).
+
+## Licence
+
+Three licences, by folder ([LICENSE](LICENSE)): the kit's files (`CLAUDE.md`, `CONTRIBUTING.md`, `kit/`, `kit-patches/`, `plan/workflows/`, `plan/templates/`) are CC BY 4.0; the scripts in `tools/` are MIT; everything else, the book and its data, is CC0 1.0 ([LICENSE-CC0](LICENSE-CC0)). Verne's French and White's English are in the public domain.
 
 ## The folders
 
 | Folder | Holds |
 |---|---|
 | [BRIEF.md](BRIEF.md) | The run, phase by phase: who plays the author, the checks and gates. |
-| [existing/](existing/README.md) | The sources as handed over, read-only, each with its SOURCE.md and checksums: [the French, Hetzel 1875](existing/hetzel-1875/SOURCE.md); [White's translation, 1876](existing/white-1876/SOURCE.md); [*Vingt mille lieues*, Hetzel 1870](existing/vingt-mille-hetzel-1870/SOURCE.md); Kingston's translation (closed until phase 12b). |
+| [existing/](existing/README.md) | The sources as handed over, read-only, each with its SOURCE.md and checksums: [the French, Hetzel 1875](existing/hetzel-1875/SOURCE.md); [White's translation, 1876](existing/white-1876/SOURCE.md); [*Vingt mille lieues*, Hetzel 1870](existing/vingt-mille-hetzel-1870/SOURCE.md); [Kingston's translation, 1875](existing/kingston-1875/SOURCE.md), for measurement only. |
 | texts/ | The French and White, paragraph by paragraph, the alignments, and the [errata](texts/errata.md). |
 | world/ | The cards: [people](world/people/README.md), [places](world/places/README.md), [things](world/things/README.md). Each fact is cited to the French. |
 | story/ | `prose/` (the book), `backmatter/` (White's 1876 glossary), `outline/`, `notes/` (with `characters/`), `voice/` (with `samples/`), `calendar/`. |

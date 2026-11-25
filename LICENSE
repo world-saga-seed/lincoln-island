@@ -1,16 +1,25 @@
-The documentation in this repository (everything outside tools/) is
-Copyright (c) 2026 Karl Nelson, licensed under the Creative Commons
-Attribution 4.0 International License (CC BY 4.0), reproduced below.
-The scripts in tools/ are under the MIT License; see tools/LICENSE.
+Lincoln Island is under three licences, by folder (R1124-01).
 
-Scope. This license applies only to the files published in the World
-Saga Seed repository, as they appear there. Anything you make with the
-kit is your own: your book, your notes and cards, your plan/, and your
-own changes inside it. The license claims nothing over them. If you
-share the kit's files or an adaptation of them, CC BY 4.0 (or MIT for
-tools/) requires credit. For works made with the kit, credit is asked
-as a courtesy, not required, for example: "Made with World Saga Seed,
-by Karl Nelson."
+1. The World Saga Seed kit's files: CC BY 4.0.
+   CLAUDE.md, CONTRIBUTING.md, kit/, kit-patches/, plan/workflows/ and
+   plan/templates/ are the kit's, Copyright (c) 2026 Karl Nelson, licensed
+   under the Creative Commons Attribution 4.0 International License,
+   reproduced below. Credit: "World Saga Seed, by Karl Nelson",
+   https://github.com/world-saga-seed/world-saga-seed
+
+2. The scripts in tools/: the MIT License; see tools/LICENSE.
+
+3. Everything else, the data: CC0 1.0 Universal.
+   The book and its notes, cards, texts, records and plan (README.md,
+   BRIEF.md, REPORT.md, existing/, texts/, world/, story/, and plan/
+   outside plan/workflows/ and plan/templates/) were made by language
+   models in 2026 with a human's reading. No copyright is claimed in them;
+   any right there may be is waived under CC0 1.0, whose text is in
+   LICENSE-CC0. Jules Verne's L'Ile mysterieuse (Hetzel, 1875) and
+   Stephen W. White's English translation of it (1876) are in the public
+   domain.
+
+=======================================================================
 
 Attribution 4.0 International
 

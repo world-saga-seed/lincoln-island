@@ -109,7 +109,7 @@ Carding was done once, for the whole book. The insert's three chapters, from the
 - **The ledger first.** 181 rulings on the second day, each one sentence, each written before the edit. A later reader can see why every line is as it is.
 - **Fresh critics, quoting the text.** Every finding had to quote words that resolve by search. Two fresh critics on the scholar's notes and the forewords caught false claims the drafters were sure of: 15 of 37 notes needed fixing, and the foreword had several claims wrong, among them who had made which change.
 - **The controls.** They showed where the method pays. On Verne's chapters it made little difference in facts, where the French holds a model to them, and a clear one in voice: the controls' long sentences and house spellings set them apart from v1. On the invented chapter it made a large one: the controls broke canon and told what the chapter is built to withhold.
-- **Patches, not redrafts.** In the refine and in the unabridged work, each change was a row with its old and new text. That made every change reviewable, and the map is drawn from those rows.
+- **Patches, not redrafts.** In the refine and in the unabridged work, each change was a row with its old and new text. That made every change reviewable and countable: the table after the map counts those rows. The map itself shows what White did to the French, from the alignment (R1124-07).
 
 ## What failed, and how it was fixed
 

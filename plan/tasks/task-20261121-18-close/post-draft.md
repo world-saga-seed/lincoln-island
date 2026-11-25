@@ -2,7 +2,7 @@
 
 **Lincoln Island: Verne's *Mysterious Island*, restored and then vandalized, by language models**
 
-We used Claude to make Stephen W. White's 1876 English translation of *L'Île mystérieuse* unabridged against the French. It made 3,224 patches to 38 chapters and rendered the other 24 anew in White's voice. A map in the book shows every patch.
+We used Claude to make Stephen W. White's 1876 English translation of *L'Île mystérieuse* unabridged against the French. It made 3,224 patches to 38 chapters and rendered the other 24 anew in White's voice. A map in the book shows what White cut and changed, chapter by chapter, against the French.
 
 Then we vandalized it, on purpose and in files you can delete. We added a dry Iowa scholar who footnotes the places where the story disagrees with itself. We also added one chapter Verne never wrote, XIX bis, "The Float in the Bar". It was written by the World Saga Seed method: the story's facts are kept as notes, every ruling goes on a ledger, and fresh critics have to quote the text they fault.
 

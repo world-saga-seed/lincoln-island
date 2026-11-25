@@ -6,7 +6,8 @@
 
 ## Queued by the author
 
-- **Phases 12, 12b and 13 (2026-11-21):** the books built; the clearance done; the report and post draft read (R1121-182). The community check and the post wait on the author. See `plan/roadmap.md`.
+- **Phases 12, 12b and 13 (2026-11-21):** the books built; the clearance done; the report and post draft read (R1121-182).
+- **The release (2026-11-24):** the licence split, the README, the local paths cleaned from the tree and the history, the map redrawn as White against the French (R1124-01 to -09); the repository is public. The community check and the post wait on the author. See `plan/roadmap.md`.
 
 ## Stages
 

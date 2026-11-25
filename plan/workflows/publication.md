@@ -44,3 +44,10 @@ If a retailer asks how the book was made, the answer agrees with the front matte
 - **Run the overlap against the public-domain translations too.** Renders "in one translator's voice" shared 29% of their words, in runs of eight or more, with another translation that no agent was given (White's own text: 6%). The models remembered it. The figure goes in the front matter, said plainly.
 - **Check the front matter's credits against the ledger** with a fresh critic. A foreword said two plot turns came from a reading they did not come from; who made what is a fact like any other.
 - **The cold reader's smallest fixes are glosses at first use:** the method, the patch, the added chapter's label. Its "what I understood" paragraph is the test that the page works.
+
+## Lessons (Lincoln Island, 2026-11-24, the release)
+
+- **Check the licence file against the latest ruling on rights.** The kit's own `LICENSE` came with the clone and claimed CC BY over the whole book, while the books' copyright pages waived every right under CC0. A clone's licence is the kit's until someone writes the book's.
+- **Scan every commit, not the tree, before going public:** `git log --all --name-only` for every excluded path, and `git grep` over `git rev-list --all` for local paths. Saved agent prompts carried the home folder in 360 files; `tools/check_paths.py` now stops that at commit time.
+- **When a history rewrite changes hashes the files cite,** map old to new from filter-repo's `commit-map`, composed with any earlier map; swap only tokens of 7 to 12 or exactly 40 hex characters that match one commit; then check that every swapped hash resolves. Checksums on the same lines stay as they are.
+- **Draw a map of the source, not of the work.** The book's map showed the patches made, so every chapter rendered anew was one big hatched bar. The human wanted what White did to the French, for every chapter, with a symbol at the row's end for a rendered one: the analysis of the old translation is scholarship a reader may want; the work's own counts belong in the table.

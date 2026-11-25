@@ -22,6 +22,10 @@ Two things, each in its own files:
 
 To read Verne alone, delete those files; the book builds without them. To leave out only the chapter, build without it (`tools/epub.py --prose story/prose --from 100 --to 6200 --skip 1950`). The book is then Verne's unabridged, in White's English.
 
+## Download
+
+The two books, as EPUB and as Kobo kepub, are on [the release page](https://github.com/world-saga-seed/lincoln-island/releases/latest): `lincoln-island.epub` is the novel; `lincoln-island-run.epub` is the run's book. They are built from this repository by the commands under "The builds".
+
 ## Where to start
 
 Read the chapters in order in [story/prose/](story/prose/), from [00100, "The Balloon in the Hurricane"](story/prose/00100-the-balloon-in-the-hurricane.md) to 06200, then the [glossary](story/backmatter/white-1876-glossary.md). A file's number is its place: 00100 is chapter I, in steps of 100, and 01950 is the inserted chapter.

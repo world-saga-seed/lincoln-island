@@ -5,7 +5,7 @@
 - **Related study:** none.
 - **Region:** writes `story/calendar/captain-nemo/01900-02000.md`, `story/calendar/household/01900-02000.md`, `story/calendar/pencroff-and-harbert/01900-02000.md`, this task and its folder. Rests on the three outlines (`story/outline/01900-…`, `01950-…`, `02000-…`), their notes, `world/rules.md`, the cards of Nemo, the crypt, Granite-house, the well, the islet, Top, and the ledger R1121-23 to -61.
 - **Wave:** none.
-- **Start hash:** c51effb 2026-11-21.
+- **Start hash:** 3a38c1a 2026-11-21.
 - **End hash:** the commit that archives this task.
 - **Status:** Closed, 2026-11-21.
 

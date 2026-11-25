@@ -1,19 +1,19 @@
-c634da2 Phase 8: 01950, the invention check's rewords (R1121-120): bait untouched; the lens he made; the barnacles two kinds, acorn crust with goose stumps; gap item 4 and the outline amended
+7265bef Phase 8: 01950, the invention check's rewords (R1121-120): bait untouched; the lens he made; the barnacles two kinds, acorn crust with goose stumps; gap item 4 and the outline amended
  story/notes/01950-the-float-in-the-bar.md   | 2 +-
  story/outline/01950-the-float-in-the-bar.md | 4 ++--
  2 files changed, 3 insertions(+), 3 deletions(-)
-f1ed1a9 Phase 8: the probe re-ask (K3 and K4 as meant); the facts re-check, and the outline and POV file brought up to R1121-119 (they see it break)
+1640fe9 Phase 8: the probe re-ask (K3 and K4 as meant); the facts re-check, and the outline and POV file brought up to R1121-119 (they see it break)
  story/outline/01950-the-float-in-the-bar.md | 2 +-
  story/voice/pov.md                          | 2 +-
  2 files changed, 2 insertions(+), 2 deletions(-)
-c8239b5 Phase 8: 02000 draft 1; the facts critic's calibrations on 01900 (4 of 5) and 01950 (5 of 5); White's spelling as he prints it, built from his text and checked both ways (R1121-113, tools/spelling.py)
+795080e Phase 8: 02000 draft 1; the facts critic's calibrations on 01900 (4 of 5) and 01950 (5 of 5); White's spelling as he prints it, built from his text and checked both ways (R1121-113, tools/spelling.py)
  story/voice/banned.txt  |  2 +-
  story/voice/spelling.md | 54 +++++++++++++++++++++++++++++++++++++++++++++++++
  story/voice/white.md    |  2 +-
  3 files changed, 56 insertions(+), 2 deletions(-)
-161ea3f Phase 8: R1121-109 to -112 (the cry, the float's path, the insert's lengths, calibration before trust); 01900 calibration copy with five planted errors; the 02000 drafter's prompt
+3409571 Phase 8: R1121-109 to -112 (the cry, the float's path, the insert's lengths, calibration before trust); 01900 calibration copy with five planted errors; the 02000 drafter's prompt
  story/outline/01950-the-float-in-the-bar.md | 1 +
  1 file changed, 1 insertion(+)
-ce7a6fb Phase 8: White's names list and T7 (R1121-107); the neighbours split toward White's sentence lengths (R1121-108); the 01950 drafter's and 01900 facts critic's prompts
+afe2f76 Phase 8: White's names list and T7 (R1121-107); the neighbours split toward White's sentence lengths (R1121-108); the 01950 drafter's and 01900 facts critic's prompts
  story/voice/names.md | 32 ++++++++++++++++++++++++++++++++
  1 file changed, 32 insertions(+)

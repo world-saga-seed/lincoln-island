@@ -1,6 +1,6 @@
 # The blind probe on the final: the score against the key
 
-*One fresh Sonnet reader, 2026-11-21, on the final of draft 4 (R1121-143), stretch built from story/prose at 50e9f5b. The open run, then the asked run (the key's 15 among 15 decoys, `asked-map.md`) in the same session. Scored by the main session against `plan/reader-tests/key.md`. The answers are in the session transcript; every quote spot-checked resolves in `stretch.md`. Compare `plan/archive/task-20261121-11-render-v1/probe/score.md` (draft 2).*
+*One fresh Sonnet reader, 2026-11-21, on the final of draft 4 (R1121-143), stretch built from story/prose at 7b10525. The open run, then the asked run (the key's 15 among 15 decoys, `asked-map.md`) in the same session. Scored by the main session against `plan/reader-tests/key.md`. The answers are in the session transcript; every quote spot-checked resolves in `stretch.md`. Compare `plan/archive/task-20261121-11-render-v1/probe/score.md` (draft 2).*
 
 | Key | Kind | The reader (asked run, open run where it adds) | Score | Draft 2 |
 |---|---|---|---|---|

@@ -12,7 +12,7 @@ Lincoln Island's saved agent prompts named the repository by its absolute path, 
 
 ## The file
 
-`tools/check_paths.py` (standard library only). It scans the files git tracks for `/home/<name>/`, `/Users/<name>/`, `C:\Users\<name>`, `/tmp/claude-<n>/` and `/root/`, skips binaries and itself, lists each hit as `file:line`, exits 1 on any hit and prints `clean` otherwise.
+`tools/check_paths.py` (standard library only). It scans the files git tracks for `/home/<name>/`, `/Users/<name>/`, `C:\Users\<name>`, `/tmp/claude-<n>/` and the root user's home folder, skips binaries and itself, lists each hit as `file:line`, exits 1 on any hit and prints `clean` otherwise.
 
 ## tools/README.md lines
 

@@ -1,6 +1,6 @@
 # Critic 1: logistics and physics (report as returned)
 
-*A fresh agent, read-only, no git. Saved by the main session from the agent's final message. It audited the logs as they stood at c51effb, before R1121-62: findings 4, 5, 12 and 14 are on the light-boat net, now replaced, and are struck in the interview as stale (rank b).*
+*A fresh agent, read-only, no git. Saved by the main session from the agent's final message. It audited the logs as they stood at 3a38c1a, before R1121-62: findings 4, 5, 12 and 14 are on the light-boat net, now replaced, and are struck in the interview as stale (rank b).*
 
 Totals: 10 findings of rank (a), 6 of rank (c). Every quote was checked with grep -F.
 

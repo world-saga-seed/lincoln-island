@@ -5,7 +5,7 @@
 - **Model:** claude-opus-5-5, through the Claude Code CLI in print mode (`claude -p`).
 - **Context:** fresh. An empty scratch folder, so no project files and no CLAUDE.md; `--tools ""` (no tools); `--setting-sources ""`; `--strict-mcp-config` (no MCP servers); `--no-session-persistence`.
 - **System prompt:** "You are a helpful assistant."
-- **User message:** the frozen prompt file, whole, on stdin (`../prompt-NNNNN.md`, checksums in `../SHA256SUMS`, commit 7b645a5).
+- **User message:** the frozen prompt file, whole, on stdin (`../prompt-NNNNN.md`, checksums in `../SHA256SUMS`, commit 9d18f93).
 - **Tries:** one each. No retry and no edit.
 
 | Chapter | Started (UTC) | Finished (UTC) | Stop | Output tokens | Words | Cost (USD) |

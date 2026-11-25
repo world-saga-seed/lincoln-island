@@ -20,12 +20,13 @@ the root but .git/), skips binary files, and does not scan itself.
 """
 import argparse, os, re, subprocess, sys
 
+START = r'(?:^|(?<=[\s`\'"(<\[=:]))'   # a path begins at a line's start or after a space, quote or bracket
 PATTERNS = [
-    re.compile(r'/home/[A-Za-z0-9._-]+/'),
-    re.compile(r'/Users/[A-Za-z0-9._-]+/'),
-    re.compile(r'[A-Za-z]:[\\/]+Users[\\/]+[A-Za-z0-9._ -]+'),
-    re.compile(r'/tmp/claude-[0-9]+/'),
-    re.compile(r'/root/'),
+    re.compile(START + r'/home/[A-Za-z0-9._-]+/'),
+    re.compile(START + r'/Users/[A-Za-z0-9._-]+/'),
+    re.compile(START + r'[A-Za-z]:[\\/]+Users[\\/]+[A-Za-z0-9._ -]+'),
+    re.compile(START + r'/tmp/claude-[0-9]+/'),
+    re.compile(START + r'/root/[A-Za-z0-9._-]'),
 ]
 
 

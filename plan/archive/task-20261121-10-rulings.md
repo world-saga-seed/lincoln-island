@@ -5,7 +5,7 @@
 - **Related study:** White's Part I measured with `tools/tells.py` (22 chapters, 48,487 words; figures in the Log).
 - **Region:** writes `plan/workflows/drafting/rulings.md`, `story/voice/white.md`, `world/false-assumptions.md` (new, if ruled) and this task. Reads `texts/white-1876/`, `texts/fr-1875/`, the voice sheet and `world/rules.md`. It does not read `plan/tasks/task-20261121-09-controls/scoring/` (R1121-89).
 - **Wave:** none.
-- **Start hash:** f22fc8e 2026-11-21.
+- **Start hash:** 2c80ef0 2026-11-21.
 - **End hash:** (on close)
 - **Status:** Closed, 2026-11-21.
 

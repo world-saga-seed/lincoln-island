@@ -5,7 +5,7 @@
 - **Related study:** `plan/archive/task-20261120-02-budget-sample.md` (57 cards from I.1, I.13, III.16; the estimate, 7.6 M to 10.1 M plus 0.4 M to 0.75 M for *Vingt mille*).
 - **Region:** writes `world/people/`, `world/animals/`, `world/places/`, `world/things/` and this task's folder. Reads `texts/fr-1875/`, the card folders.
 - **Wave:** see Steps.
-- **Start hash:** 7a9e0d6, 2026-11-21.
+- **Start hash:** 4c96983, 2026-11-21.
 - **End hash:** the commit "Phase 4: closed", 2026-11-21.
 - **Status:** Done, 2026-11-21. The questions for the author are in `carding/questions.md`.
 
